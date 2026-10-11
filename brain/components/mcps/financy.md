@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-29T15:12:19Z"
+pushed_at: "2026-10-11T15:08:35Z"
 ---
 ## What it is
 MCP server that exposes banking data (connections, accounts, balances, transactions) and agent skills, allowing AI agents to query and refresh financial data via stdio.

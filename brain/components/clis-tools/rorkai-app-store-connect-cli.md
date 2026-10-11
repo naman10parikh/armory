@@ -8,13 +8,13 @@ source_url: https://github.com/rorkai/App-Store-Connect-CLI
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 7760
+stars: 7775
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 657
+forks: 658
 pushed_at: "2026-10-11T04:16:11Z"
 ---
 ## What it is

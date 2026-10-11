@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-15T03:05:04Z"
+pushed_at: "2026-10-11T19:12:43Z"
 ---
 ## What it is
 Enables AI agents to register domains, manage DNS, create mailboxes, and send/receive email through typed tools.

@@ -8,7 +8,7 @@ source_url: https://github.com/ag-ui-protocol/ag-ui
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 16453
+stars: 16454
 eval_score: null
 mentions: 6
 verified_at: 2026-09-02

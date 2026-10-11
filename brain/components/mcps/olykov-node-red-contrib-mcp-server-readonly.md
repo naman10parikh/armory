@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T12:03:30Z"
+pushed_at: "2026-10-11T15:30:54Z"
 ---
 ## What it is
 Turns Node-RED flows into OAuth-protected MCP tools that AI assistants can call, with optional read-only access to the Node-RED admin API.

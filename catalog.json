@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T13:51:49.685Z",
+  "generated_at": "2026-10-11T19:37:04.254Z",
   "counts": {
-    "total": 62321,
+    "total": 62326,
     "by_type": {
       "mcps": 58404,
       "skills": 1141,
@@ -10,7 +10,7 @@
       "identity": 37,
       "memory": 44,
       "claudemd-rules": 461,
-      "clis-tools": 497,
+      "clis-tools": 502,
       "evals": 69,
       "observability": 36,
       "infrastructure": 53,
@@ -18,7 +18,7 @@
     }
   },
   "github_read": {
-    "since": "2026-10-09",
+    "since": "2026-10-10",
     "latest": "2026-10-11"
   },
   "components": [
@@ -4840,10 +4840,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 26642,
+      "stars": 26646,
       "eval_score": null,
       "mentions": 4,
-      "forks": 1991,
+      "forks": 1990,
       "pushed_at": "2025-09-21T14:37:40Z",
       "verified_at": "2026-09-02",
       "related": [],
@@ -5251,10 +5251,10 @@
         "opencode"
       ],
       "maturity": "stable",
-      "stars": 218705,
+      "stars": 218804,
       "eval_score": null,
       "mentions": null,
-      "forks": 22010,
+      "forks": 22042,
       "pushed_at": "2026-04-20T10:05:04Z",
       "verified_at": "2026-05-26",
       "related": [
@@ -13635,7 +13635,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 16453,
+      "stars": 16454,
       "eval_score": null,
       "mentions": 6,
       "forks": 1499,
@@ -14319,7 +14319,7 @@
       "maturity": "experimental",
       "stars": 150074,
       "eval_score": null,
-      "mentions": 527,
+      "mentions": 532,
       "forks": 26101,
       "pushed_at": "2026-10-10T22:23:41Z",
       "verified_at": "2026-10-11",
@@ -14396,7 +14396,7 @@
       "maturity": "experimental",
       "stars": 14661,
       "eval_score": null,
-      "mentions": 1,
+      "mentions": 2,
       "forks": 6951,
       "pushed_at": "2025-10-11T09:27:40Z",
       "verified_at": "2026-10-10",
@@ -14564,11 +14564,11 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 49998,
+      "stars": 50000,
       "eval_score": null,
       "mentions": 1,
-      "forks": 2498,
-      "pushed_at": "2026-10-11T13:45:24Z",
+      "forks": 2497,
+      "pushed_at": "2026-10-11T15:36:12Z",
       "verified_at": "2026-10-10",
       "related": [],
       "tags": [
@@ -15143,7 +15143,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 154,
+      "stars": 156,
       "eval_score": null,
       "mentions": 1,
       "forks": 12,
@@ -15227,10 +15227,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 28603,
+      "stars": 28617,
       "eval_score": null,
       "mentions": 1,
-      "forks": 3367,
+      "forks": 3369,
       "pushed_at": "2026-10-08T22:17:01Z",
       "verified_at": "2026-10-11",
       "related": [],
@@ -15311,7 +15311,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 5916,
+      "stars": 5917,
       "eval_score": 1,
       "mentions": 1,
       "forks": 555,
@@ -15637,11 +15637,11 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 44321,
+      "stars": 44325,
       "eval_score": null,
       "mentions": 1,
-      "forks": 8873,
-      "pushed_at": "2026-10-08T09:30:10Z",
+      "forks": 8871,
+      "pushed_at": "2026-10-11T16:06:27Z",
       "verified_at": "2026-10-10",
       "related": [],
       "tags": [
@@ -15665,11 +15665,11 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 28596,
+      "stars": 28597,
       "eval_score": null,
       "mentions": 1,
-      "forks": 2327,
-      "pushed_at": "2026-10-11T01:05:13Z",
+      "forks": 2326,
+      "pushed_at": "2026-10-11T17:12:31Z",
       "verified_at": "2026-10-10",
       "related": [],
       "tags": [
@@ -16594,10 +16594,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 8244,
+      "stars": 8250,
       "eval_score": null,
       "mentions": 2,
-      "forks": 1062,
+      "forks": 1063,
       "pushed_at": "2026-04-23T21:04:17Z",
       "verified_at": "2026-10-10",
       "related": [],
@@ -16955,6 +16955,34 @@
       "path": "components/clis-tools/contextkit.md"
     },
     {
+      "name": "continual-intelligence-seal",
+      "type": "clis-tools",
+      "description": "Self-Adapting Language Models",
+      "source_repo": "Continual-Intelligence/SEAL",
+      "source_url": "https://github.com/Continual-Intelligence/SEAL",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "codex",
+        "cursor",
+        "gemini",
+        "opencode"
+      ],
+      "maturity": "experimental",
+      "stars": 1871,
+      "eval_score": null,
+      "mentions": 1,
+      "forks": 326,
+      "pushed_at": "2025-08-01T20:06:35Z",
+      "verified_at": "2026-10-11",
+      "related": [],
+      "tags": [
+        "sentinel-feed",
+        "clis-tools"
+      ],
+      "path": "components/clis-tools/continual-intelligence-seal.md"
+    },
+    {
       "name": "copilotkit-copilotkit",
       "type": "clis-tools",
       "description": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
@@ -16996,7 +17024,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 6332,
+      "stars": 6344,
       "eval_score": null,
       "mentions": 1,
       "forks": 866,
@@ -17428,6 +17456,34 @@
       "path": "components/clis-tools/davebcn87-pi-autoresearch.md"
     },
     {
+      "name": "davidhdev-react-bits",
+      "type": "clis-tools",
+      "description": "The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.",
+      "source_repo": "DavidHDev/react-bits",
+      "source_url": "https://github.com/DavidHDev/react-bits",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "codex",
+        "cursor",
+        "gemini",
+        "opencode"
+      ],
+      "maturity": "experimental",
+      "stars": 48920,
+      "eval_score": null,
+      "mentions": 1,
+      "forks": 2398,
+      "pushed_at": "2026-10-11T16:10:14Z",
+      "verified_at": "2026-10-11",
+      "related": [],
+      "tags": [
+        "sentinel-feed",
+        "clis-tools"
+      ],
+      "path": "components/clis-tools/davidhdev-react-bits.md"
+    },
+    {
       "name": "deepexperience-harness-r1",
       "type": "clis-tools",
       "description": "Official Repository of Harness-R1: Learning to Edit Executable Runtime Harnesses from Agent Failure Trajectories",
@@ -17743,7 +17799,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 19778,
+      "stars": 19780,
       "eval_score": null,
       "mentions": 7,
       "forks": 2002,
@@ -17754,6 +17810,34 @@
         "sentinel-feed"
       ],
       "path": "components/clis-tools/dzhng-deep-research.md"
+    },
+    {
+      "name": "edge0-ai-edge0",
+      "type": "clis-tools",
+      "description": "Run 35B MoE models in ~2.5 GB of RAM. Weights stream from SSD; a trained router predicts loads a step ahead. Mac, iPhone, Android, Windows supported",
+      "source_repo": "Edge0-AI/Edge0",
+      "source_url": "https://github.com/Edge0-AI/Edge0",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "codex",
+        "cursor",
+        "gemini",
+        "opencode"
+      ],
+      "maturity": "experimental",
+      "stars": 4396,
+      "eval_score": null,
+      "mentions": 1,
+      "forks": 725,
+      "pushed_at": "2026-10-10T14:28:36Z",
+      "verified_at": "2026-10-11",
+      "related": [],
+      "tags": [
+        "sentinel-feed",
+        "clis-tools"
+      ],
+      "path": "components/clis-tools/edge0-ai-edge0.md"
     },
     {
       "name": "egonex-ai-understand-anything",
@@ -17798,11 +17882,11 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 19568,
+      "stars": 19570,
       "eval_score": null,
       "mentions": 3,
-      "forks": 5793,
-      "pushed_at": "2026-10-11T13:47:23Z",
+      "forks": 5796,
+      "pushed_at": "2026-10-11T19:26:27Z",
       "verified_at": "2026-10-11",
       "related": [],
       "tags": [
@@ -18050,10 +18134,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 172580,
+      "stars": 172609,
       "eval_score": null,
       "mentions": 2,
-      "forks": 22107,
+      "forks": 22141,
       "pushed_at": "2026-10-11T03:22:49Z",
       "verified_at": "2026-10-10",
       "related": [],
@@ -18735,7 +18819,7 @@
       "stars": 9297,
       "eval_score": 1,
       "mentions": 1,
-      "forks": 680,
+      "forks": 681,
       "pushed_at": "2026-10-08T00:33:36Z",
       "verified_at": "2026-10-10",
       "related": [],
@@ -19681,7 +19765,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 50039,
+      "stars": 50042,
       "eval_score": null,
       "mentions": 1,
       "forks": 4305,
@@ -19764,7 +19848,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 18833,
+      "stars": 18835,
       "eval_score": null,
       "mentions": 1,
       "forks": 1265,
@@ -20324,10 +20408,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 110986,
+      "stars": 111033,
       "eval_score": null,
       "mentions": 2,
-      "forks": 6427,
+      "forks": 6428,
       "pushed_at": "2026-10-11T07:51:15Z",
       "verified_at": "2026-10-10",
       "related": [],
@@ -20352,10 +20436,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 41130,
+      "stars": 41202,
       "eval_score": null,
       "mentions": 1,
-      "forks": 4528,
+      "forks": 4535,
       "pushed_at": "2026-10-11T12:09:29Z",
       "verified_at": "2026-10-10",
       "related": [],
@@ -20690,7 +20774,7 @@
       "maturity": "experimental",
       "stars": 147569,
       "eval_score": 1,
-      "mentions": 37,
+      "mentions": 38,
       "forks": 24752,
       "pushed_at": "2026-10-10T08:54:26Z",
       "verified_at": "2026-10-11",
@@ -21189,11 +21273,11 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 4761,
+      "stars": 4795,
       "eval_score": null,
       "mentions": 1,
-      "forks": 791,
-      "pushed_at": "2026-10-11T13:20:00Z",
+      "forks": 803,
+      "pushed_at": "2026-10-11T19:27:47Z",
       "verified_at": "2026-10-11",
       "related": [],
       "tags": [
@@ -21853,11 +21937,11 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 7834,
+      "stars": 7837,
       "eval_score": null,
       "mentions": 1,
       "forks": 1284,
-      "pushed_at": "2026-10-11T12:35:51Z",
+      "pushed_at": "2026-10-11T14:13:11Z",
       "verified_at": "2026-10-11",
       "related": [],
       "tags": [
@@ -21939,7 +22023,7 @@
       "maturity": "experimental",
       "stars": 158767,
       "eval_score": null,
-      "mentions": 2,
+      "mentions": 3,
       "forks": 25626,
       "pushed_at": "2026-10-07T16:45:46Z",
       "verified_at": "2026-10-10",
@@ -22188,11 +22272,11 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 1618,
+      "stars": 1619,
       "eval_score": null,
       "mentions": 1,
-      "forks": 293,
-      "pushed_at": "2026-10-09T18:25:57Z",
+      "forks": 294,
+      "pushed_at": "2026-10-11T17:26:44Z",
       "verified_at": "2026-10-11",
       "related": [],
       "tags": [
@@ -22219,7 +22303,7 @@
       "stars": 1722,
       "eval_score": null,
       "mentions": 1,
-      "forks": 210,
+      "forks": 209,
       "pushed_at": "2026-07-19T07:09:04Z",
       "verified_at": "2026-10-10",
       "related": [],
@@ -22312,6 +22396,34 @@
         "clis-tools"
       ],
       "path": "components/clis-tools/nousresearch-hermes-agent.md"
+    },
+    {
+      "name": "novasky-ai-skyrl",
+      "type": "clis-tools",
+      "description": "SkyRL: A Modular Full-stack RL Library for LLMs",
+      "source_repo": "NovaSky-AI/SkyRL",
+      "source_url": "https://github.com/NovaSky-AI/SkyRL",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "codex",
+        "cursor",
+        "gemini",
+        "opencode"
+      ],
+      "maturity": "experimental",
+      "stars": 2402,
+      "eval_score": null,
+      "mentions": 1,
+      "forks": 456,
+      "pushed_at": "2026-10-10T01:26:55Z",
+      "verified_at": "2026-10-11",
+      "related": [],
+      "tags": [
+        "sentinel-feed",
+        "clis-tools"
+      ],
+      "path": "components/clis-tools/novasky-ai-skyrl.md"
     },
     {
       "name": "nutlope-roomgpt",
@@ -22468,7 +22580,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 2335,
+      "stars": 2334,
       "eval_score": null,
       "mentions": 1,
       "forks": 271,
@@ -22554,7 +22666,7 @@
       "maturity": "experimental",
       "stars": 182668,
       "eval_score": 1,
-      "mentions": 19,
+      "mentions": 20,
       "forks": 18194,
       "pushed_at": "2026-10-10T23:08:09Z",
       "verified_at": "2026-10-11",
@@ -22576,10 +22688,10 @@
         "claude"
       ],
       "maturity": "beta",
-      "stars": 2905,
+      "stars": 2906,
       "eval_score": null,
       "mentions": 4,
-      "forks": 234,
+      "forks": 235,
       "pushed_at": "2026-10-10T04:14:08Z",
       "verified_at": "2026-05-26",
       "related": [
@@ -22941,11 +23053,11 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 90571,
+      "stars": 90599,
       "eval_score": null,
       "mentions": 5,
-      "forks": 11993,
-      "pushed_at": "2026-10-11T05:42:02Z",
+      "forks": 12000,
+      "pushed_at": "2026-10-11T19:29:50Z",
       "verified_at": "2026-09-02",
       "related": [],
       "tags": [
@@ -23354,10 +23466,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 12167,
+      "stars": 12181,
       "eval_score": null,
       "mentions": 1,
-      "forks": 839,
+      "forks": 840,
       "pushed_at": "2026-09-02T04:19:00Z",
       "verified_at": "2026-10-10",
       "related": [],
@@ -23635,10 +23747,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 21885,
+      "stars": 21900,
       "eval_score": null,
       "mentions": 4,
-      "forks": 2411,
+      "forks": 2412,
       "pushed_at": "2026-10-11T11:23:30Z",
       "verified_at": "2026-09-02",
       "related": [],
@@ -23662,11 +23774,11 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 2153,
+      "stars": 2152,
       "eval_score": null,
       "mentions": 3,
       "forks": 457,
-      "pushed_at": "2026-10-11T13:39:20Z",
+      "pushed_at": "2026-10-11T19:22:52Z",
       "verified_at": "2026-09-02",
       "related": [],
       "tags": [
@@ -23683,11 +23795,11 @@
       "license": "unknown",
       "cli_compat": [],
       "maturity": "stable",
-      "stars": 4800,
+      "stars": 4801,
       "eval_score": 1,
       "mentions": null,
       "forks": 519,
-      "pushed_at": "2026-10-11T13:44:17Z",
+      "pushed_at": "2026-10-11T16:51:44Z",
       "verified_at": [],
       "related": [],
       "tags": [
@@ -23794,10 +23906,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 20546,
+      "stars": 20551,
       "eval_score": null,
       "mentions": 1,
-      "forks": 2903,
+      "forks": 2902,
       "pushed_at": "2026-10-11T05:08:41Z",
       "verified_at": "2026-10-11",
       "related": [],
@@ -24319,10 +24431,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 7760,
+      "stars": 7775,
       "eval_score": null,
       "mentions": 1,
-      "forks": 657,
+      "forks": 658,
       "pushed_at": "2026-10-11T04:16:11Z",
       "verified_at": "2026-10-10",
       "related": [],
@@ -24735,11 +24847,11 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 187518,
+      "stars": 187522,
       "eval_score": null,
       "mentions": 4,
-      "forks": 45927,
-      "pushed_at": "2026-10-11T13:24:28Z",
+      "forks": 45948,
+      "pushed_at": "2026-10-11T19:32:52Z",
       "verified_at": "2026-09-02",
       "related": [],
       "tags": [
@@ -24834,6 +24946,34 @@
         "clis-tools"
       ],
       "path": "components/clis-tools/snap-stanford-biomni.md"
+    },
+    {
+      "name": "snarktank-ralph",
+      "type": "clis-tools",
+      "description": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.",
+      "source_repo": "snarktank/ralph",
+      "source_url": "https://github.com/snarktank/ralph",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "codex",
+        "cursor",
+        "gemini",
+        "opencode"
+      ],
+      "maturity": "experimental",
+      "stars": 21942,
+      "eval_score": null,
+      "mentions": 1,
+      "forks": 2095,
+      "pushed_at": "2026-02-02T01:46:21Z",
+      "verified_at": "2026-10-11",
+      "related": [],
+      "tags": [
+        "sentinel-feed",
+        "clis-tools"
+      ],
+      "path": "components/clis-tools/snarktank-ralph.md"
     },
     {
       "name": "stablyai-orca",
@@ -25481,10 +25621,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 50839,
+      "stars": 50843,
       "eval_score": null,
       "mentions": 2,
-      "forks": 3560,
+      "forks": 3561,
       "pushed_at": "2026-10-10T13:36:57Z",
       "verified_at": "2026-10-10",
       "related": [],
@@ -25615,7 +25755,7 @@
       "maturity": "experimental",
       "stars": 9583,
       "eval_score": 1,
-      "mentions": 1,
+      "mentions": 2,
       "forks": 881,
       "pushed_at": "2026-10-05T14:43:18Z",
       "verified_at": "2026-09-26",
@@ -25997,7 +26137,7 @@
       "maturity": "experimental",
       "stars": 43562,
       "eval_score": null,
-      "mentions": 5,
+      "mentions": 6,
       "forks": 2942,
       "pushed_at": "2026-10-06T05:47:16Z",
       "verified_at": "2026-09-02",
@@ -26355,10 +26495,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 4034,
+      "stars": 4036,
       "eval_score": null,
       "mentions": 1,
-      "forks": 450,
+      "forks": 449,
       "pushed_at": "2026-06-20T17:54:18Z",
       "verified_at": "2026-10-10",
       "related": [],
@@ -26516,11 +26656,11 @@
       "license": "unknown",
       "cli_compat": [],
       "maturity": "stable",
-      "stars": 4614,
+      "stars": 4613,
       "eval_score": 1,
       "mentions": null,
       "forks": 1579,
-      "pushed_at": "2026-10-11T12:15:00Z",
+      "pushed_at": "2026-10-11T16:41:19Z",
       "verified_at": [],
       "related": [],
       "tags": [
@@ -26599,10 +26739,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 33569,
+      "stars": 33572,
       "eval_score": null,
       "mentions": 1,
-      "forks": 5438,
+      "forks": 5439,
       "pushed_at": "2026-10-09T05:42:58Z",
       "verified_at": "2026-10-10",
       "related": [],
@@ -27483,10 +27623,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 11326,
+      "stars": 11339,
       "eval_score": null,
       "mentions": 1,
-      "forks": 1160,
+      "forks": 1162,
       "pushed_at": "2026-10-01T21:37:15Z",
       "verified_at": "2026-10-10",
       "related": [],
@@ -28259,11 +28399,11 @@
         "gemini"
       ],
       "maturity": "beta",
-      "stars": 11785,
+      "stars": 11788,
       "eval_score": null,
       "mentions": 2,
       "forks": 1200,
-      "pushed_at": "2026-10-11T13:33:35Z",
+      "pushed_at": "2026-10-11T17:50:39Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -28431,7 +28571,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 2209,
+      "stars": 2212,
       "eval_score": 0,
       "mentions": 3,
       "forks": 573,
@@ -32950,7 +33090,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 9,
-      "pushed_at": "2026-10-11T13:21:12Z",
+      "pushed_at": "2026-10-11T16:33:55Z",
       "verified_at": "2026-09-07",
       "related": [],
       "tags": [
@@ -33617,10 +33757,10 @@
         "gemini"
       ],
       "maturity": "beta",
-      "stars": 117625,
+      "stars": 117648,
       "eval_score": 1,
       "mentions": 11,
-      "forks": 13012,
+      "forks": 13016,
       "pushed_at": "2026-10-09T17:36:28Z",
       "verified_at": "2026-05-28",
       "related": [],
@@ -33733,10 +33873,10 @@
         "gemini"
       ],
       "maturity": "beta",
-      "stars": 11075,
+      "stars": 11076,
       "eval_score": null,
       "mentions": null,
-      "forks": 1513,
+      "forks": 1512,
       "pushed_at": "2025-09-12T19:35:46Z",
       "verified_at": "2026-05-28",
       "related": [],
@@ -33876,11 +34016,11 @@
         "gemini"
       ],
       "maturity": "beta",
-      "stars": 29345,
+      "stars": 29377,
       "eval_score": null,
       "mentions": null,
-      "forks": 2081,
-      "pushed_at": "2026-10-11T13:47:24Z",
+      "forks": 2085,
+      "pushed_at": "2026-10-11T19:29:32Z",
       "verified_at": "2026-05-28",
       "related": [],
       "tags": [
@@ -33904,7 +34044,7 @@
         "gemini"
       ],
       "maturity": "beta",
-      "stars": 71569,
+      "stars": 71566,
       "eval_score": 1,
       "mentions": 9,
       "forks": 5644,
@@ -40919,7 +41059,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 2,
-      "pushed_at": "2026-10-11T13:20:25Z",
+      "pushed_at": "2026-10-11T16:59:16Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -56326,7 +56466,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 28,
+      "stars": 27,
       "eval_score": null,
       "mentions": null,
       "forks": 14,
@@ -64479,7 +64619,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 2,
-      "pushed_at": "2026-10-11T13:16:12Z",
+      "pushed_at": "2026-10-11T19:23:20Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -70553,7 +70693,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 90,
+      "stars": 91,
       "eval_score": null,
       "mentions": null,
       "forks": 25,
@@ -81703,7 +81843,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 1,
-      "pushed_at": "2026-10-06T22:59:06Z",
+      "pushed_at": "2026-10-11T16:35:20Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -81871,7 +82011,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T12:38:50Z",
+      "pushed_at": "2026-10-11T17:31:31Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -83859,7 +83999,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-02T19:38:44Z",
+      "pushed_at": "2026-10-11T17:39:28Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -86655,7 +86795,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 3173,
+      "stars": 3174,
       "eval_score": null,
       "mentions": null,
       "forks": 431,
@@ -98814,7 +98954,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 1,
-      "pushed_at": "2026-10-11T11:43:50Z",
+      "pushed_at": "2026-10-11T18:10:34Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -102930,7 +103070,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 15,
-      "pushed_at": "2026-10-11T11:52:11Z",
+      "pushed_at": "2026-10-11T19:28:40Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -131196,7 +131336,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 34,
+      "stars": 35,
       "eval_score": null,
       "mentions": null,
       "forks": 6,
@@ -136992,7 +137132,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 496,
+      "stars": 497,
       "eval_score": null,
       "mentions": null,
       "forks": 92,
@@ -138504,7 +138644,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 29,
+      "stars": 30,
       "eval_score": null,
       "mentions": null,
       "forks": 3,
@@ -142568,7 +142708,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-08T10:46:20Z",
+      "pushed_at": "2026-10-11T18:42:32Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -162842,7 +162982,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 83,
-      "pushed_at": "2026-10-01T20:32:48Z",
+      "pushed_at": "2026-10-11T18:58:27Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -164718,7 +164858,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-04T09:15:10Z",
+      "pushed_at": "2026-10-11T17:48:12Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -168718,7 +168858,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 7,
-      "pushed_at": "2026-10-11T13:42:25Z",
+      "pushed_at": "2026-10-11T16:52:17Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -178603,7 +178743,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 1,
-      "pushed_at": "2026-10-11T00:41:59Z",
+      "pushed_at": "2026-10-11T14:38:33Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -182244,7 +182384,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-05T06:19:22Z",
+      "pushed_at": "2026-10-11T19:25:38Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -185740,10 +185880,10 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 13,
+      "stars": 14,
       "eval_score": null,
       "mentions": null,
-      "forks": 3,
+      "forks": 4,
       "pushed_at": "2026-07-30T16:12:06Z",
       "verified_at": "2026-05-27",
       "related": [],
@@ -203884,7 +204024,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 0,
+      "stars": 1,
       "eval_score": null,
       "mentions": null,
       "forks": 0,
@@ -218532,7 +218672,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T13:08:58Z",
+      "pushed_at": "2026-10-11T14:11:50Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -224892,7 +225032,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 7175,
+      "stars": 7174,
       "eval_score": null,
       "mentions": null,
       "forks": 585,
@@ -231672,7 +231812,7 @@
       "stars": 3687,
       "eval_score": null,
       "mentions": null,
-      "forks": 171,
+      "forks": 172,
       "pushed_at": "2026-10-06T13:46:24Z",
       "verified_at": "2026-05-27",
       "related": [],
@@ -236069,7 +236209,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 1,
-      "pushed_at": "2026-10-11T09:56:38Z",
+      "pushed_at": "2026-10-11T15:27:08Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -241441,7 +241581,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 435,
+      "stars": 436,
       "eval_score": null,
       "mentions": null,
       "forks": 162,
@@ -270176,7 +270316,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 15,
-      "pushed_at": "2026-10-11T00:29:39Z",
+      "pushed_at": "2026-10-11T14:37:46Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -281116,7 +281256,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 196,
+      "stars": 197,
       "eval_score": null,
       "mentions": null,
       "forks": 30,
@@ -281508,7 +281648,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 2213,
+      "stars": 2214,
       "eval_score": null,
       "mentions": null,
       "forks": 197,
@@ -293044,7 +293184,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 3,
+      "stars": 4,
       "eval_score": null,
       "mentions": null,
       "forks": 1,
@@ -301503,7 +301643,7 @@
       "maturity": "experimental",
       "stars": 45956,
       "eval_score": null,
-      "mentions": 1,
+      "mentions": 2,
       "forks": 3778,
       "pushed_at": "2026-10-07T00:33:23Z",
       "verified_at": "2026-05-27",
@@ -302705,7 +302845,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 4253,
+      "stars": 4256,
       "eval_score": null,
       "mentions": null,
       "forks": 831,
@@ -321270,7 +321410,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 35,
+      "stars": 36,
       "eval_score": null,
       "mentions": null,
       "forks": 4,
@@ -323991,7 +324131,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T04:36:15Z",
+      "pushed_at": "2026-10-11T19:18:53Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -339033,7 +339173,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T13:45:51Z",
+      "pushed_at": "2026-10-11T19:31:53Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -341805,7 +341945,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T07:52:28Z",
+      "pushed_at": "2026-10-11T17:52:24Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -398150,7 +398290,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 3,
-      "pushed_at": "2026-10-09T15:08:21Z",
+      "pushed_at": "2026-10-11T14:19:11Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -403106,7 +403246,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 13,
-      "pushed_at": "2026-10-11T13:26:39Z",
+      "pushed_at": "2026-10-11T19:05:49Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -405230,7 +405370,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T09:33:07Z",
+      "pushed_at": "2026-10-11T15:47:24Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -405562,7 +405702,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 490,
+      "stars": 491,
       "eval_score": null,
       "mentions": null,
       "forks": 2,
@@ -407941,7 +408081,7 @@
       "stars": 35,
       "eval_score": null,
       "mentions": null,
-      "forks": 16,
+      "forks": 17,
       "pushed_at": "2025-07-13T09:39:44Z",
       "verified_at": "2026-05-26",
       "related": [],
@@ -421854,7 +421994,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 11,
+      "stars": 12,
       "eval_score": null,
       "mentions": null,
       "forks": 3,
@@ -426450,7 +426590,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-09-15T03:05:04Z",
+      "pushed_at": "2026-10-11T19:12:43Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -450639,7 +450779,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T08:36:27Z",
+      "pushed_at": "2026-10-11T14:09:13Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -468386,7 +468526,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 165,
+      "stars": 166,
       "eval_score": null,
       "mentions": 1,
       "forks": 13,
@@ -478081,7 +478221,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T08:16:42Z",
+      "pushed_at": "2026-10-11T18:50:41Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -478245,7 +478385,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 5104,
+      "stars": 5107,
       "eval_score": 1,
       "mentions": null,
       "forks": 401,
@@ -480877,7 +481017,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-10T07:45:48Z",
+      "pushed_at": "2026-10-11T19:07:13Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -481017,7 +481157,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 2,
-      "pushed_at": "2026-10-11T13:47:47Z",
+      "pushed_at": "2026-10-11T19:30:54Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -508476,7 +508616,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T12:22:59Z",
+      "pushed_at": "2026-10-11T19:03:42Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -508868,7 +509008,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 1,
-      "pushed_at": "2026-09-29T15:12:19Z",
+      "pushed_at": "2026-10-11T15:08:35Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -536443,7 +536583,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 20642,
+      "stars": 20645,
       "eval_score": null,
       "mentions": null,
       "forks": 2075,
@@ -538771,7 +538911,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-09T03:28:26Z",
+      "pushed_at": "2026-10-11T15:54:49Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -556414,7 +556554,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 2,
-      "pushed_at": "2026-10-11T12:05:38Z",
+      "pushed_at": "2026-10-11T18:20:50Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -558962,7 +559102,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 2,
-      "pushed_at": "2026-10-11T06:22:29Z",
+      "pushed_at": "2026-10-11T15:34:54Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -559634,7 +559774,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 26,
-      "pushed_at": "2026-10-11T12:51:15Z",
+      "pushed_at": "2026-10-11T14:19:19Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -559942,7 +560082,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 167,
-      "pushed_at": "2026-10-10T21:40:37Z",
+      "pushed_at": "2026-10-11T18:46:10Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -560278,7 +560418,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 55,
-      "pushed_at": "2026-10-11T08:43:39Z",
+      "pushed_at": "2026-10-11T19:32:45Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -562882,7 +563022,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 6,
-      "pushed_at": "2026-10-11T13:47:25Z",
+      "pushed_at": "2026-10-11T19:31:40Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -564254,7 +564394,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 11,
-      "pushed_at": "2026-10-11T12:58:05Z",
+      "pushed_at": "2026-10-11T14:42:47Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -564702,7 +564842,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 3,
-      "pushed_at": "2026-10-09T20:37:15Z",
+      "pushed_at": "2026-10-11T18:42:01Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -565149,7 +565289,7 @@
       "stars": 165,
       "eval_score": null,
       "mentions": null,
-      "forks": 67,
+      "forks": 68,
       "pushed_at": "2026-10-11T08:54:04Z",
       "verified_at": "2026-05-26",
       "related": [],
@@ -565402,7 +565542,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 5,
-      "pushed_at": "2026-10-08T20:22:31Z",
+      "pushed_at": "2026-10-11T13:57:43Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -567442,7 +567582,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 111,
+      "stars": 112,
       "eval_score": null,
       "mentions": null,
       "forks": 31,
@@ -598475,8 +598615,8 @@
       "stars": 0,
       "eval_score": null,
       "mentions": null,
-      "forks": 1,
-      "pushed_at": "2026-10-05T08:43:09Z",
+      "forks": 2,
+      "pushed_at": "2026-10-11T14:41:42Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -611189,7 +611329,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-10T00:04:59Z",
+      "pushed_at": "2026-10-11T15:06:28Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -622250,7 +622390,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 2,
-      "pushed_at": "2026-10-04T17:03:32Z",
+      "pushed_at": "2026-10-11T17:04:39Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -626563,7 +626703,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T00:17:26Z",
+      "pushed_at": "2026-10-11T14:56:17Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -645661,7 +645801,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 1,
-      "pushed_at": "2026-10-11T09:53:10Z",
+      "pushed_at": "2026-10-11T13:50:41Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -675225,7 +675365,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 5,
-      "pushed_at": "2026-10-10T15:41:02Z",
+      "pushed_at": "2026-10-11T15:22:35Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -683457,7 +683597,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 1,
-      "pushed_at": "2026-10-08T21:36:23Z",
+      "pushed_at": "2026-10-11T16:37:16Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -694429,7 +694569,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 6,
-      "pushed_at": "2026-10-11T13:47:36Z",
+      "pushed_at": "2026-10-11T17:04:14Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -695573,10 +695713,10 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 228,
+      "stars": 232,
       "eval_score": null,
       "mentions": null,
-      "forks": 20,
+      "forks": 21,
       "pushed_at": "2026-10-05T09:21:40Z",
       "verified_at": "2026-05-27",
       "related": [],
@@ -704898,11 +705038,11 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 2755,
+      "stars": 2757,
       "eval_score": null,
       "mentions": null,
       "forks": 373,
-      "pushed_at": "2026-10-11T13:17:28Z",
+      "pushed_at": "2026-10-11T19:18:05Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -721950,10 +722090,10 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 1784,
+      "stars": 1783,
       "eval_score": null,
       "mentions": null,
-      "forks": 138,
+      "forks": 137,
       "pushed_at": "2026-10-08T18:53:36Z",
       "verified_at": "2026-05-26",
       "related": [],
@@ -729256,7 +729396,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 2,
-      "pushed_at": "2026-10-11T13:46:02Z",
+      "pushed_at": "2026-10-11T19:00:33Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -739057,7 +739197,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 22,
-      "pushed_at": "2026-10-11T04:40:42Z",
+      "pushed_at": "2026-10-11T18:40:14Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -748213,7 +748353,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 5,
-      "pushed_at": "2026-10-11T12:53:15Z",
+      "pushed_at": "2026-10-11T18:45:56Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -748661,7 +748801,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T13:36:04Z",
+      "pushed_at": "2026-10-11T18:58:08Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -749245,7 +749385,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 183,
+      "stars": 185,
       "eval_score": null,
       "mentions": null,
       "forks": 40,
@@ -763973,10 +764113,10 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 24,
+      "stars": 25,
       "eval_score": null,
       "mentions": null,
-      "forks": 7,
+      "forks": 8,
       "pushed_at": "2026-08-26T16:03:14Z",
       "verified_at": "2026-05-26",
       "related": [],
@@ -764393,7 +764533,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 7334,
+      "stars": 7335,
       "eval_score": 1,
       "mentions": 3,
       "forks": 1026,
@@ -777665,7 +777805,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 77,
-      "pushed_at": "2026-10-11T12:55:43Z",
+      "pushed_at": "2026-10-11T18:59:05Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -777860,7 +778000,7 @@
       "stars": 70,
       "eval_score": null,
       "mentions": null,
-      "forks": 22,
+      "forks": 23,
       "pushed_at": "2026-07-20T22:31:25Z",
       "verified_at": "2026-05-27",
       "related": [],
@@ -800571,7 +800711,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 33,
-      "pushed_at": "2026-10-11T13:44:01Z",
+      "pushed_at": "2026-10-11T19:23:31Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -821008,7 +821148,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 2,
-      "pushed_at": "2026-10-11T12:15:57Z",
+      "pushed_at": "2026-10-11T17:52:22Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -823808,7 +823948,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-08T01:36:01Z",
+      "pushed_at": "2026-10-11T16:15:42Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -828008,7 +828148,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T09:48:29Z",
+      "pushed_at": "2026-10-11T15:08:23Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -836488,10 +836628,10 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 189502,
+      "stars": 189549,
       "eval_score": null,
       "mentions": 1,
-      "forks": 14072,
+      "forks": 14103,
       "pushed_at": "2026-10-04T03:59:52Z",
       "verified_at": "2026-05-26",
       "related": [],
@@ -836827,7 +836967,7 @@
       "stars": 3,
       "eval_score": null,
       "mentions": null,
-      "forks": 4,
+      "forks": 3,
       "pushed_at": "2025-02-13T10:17:07Z",
       "verified_at": "2026-05-26",
       "related": [],
@@ -860489,7 +860629,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-10T15:05:33Z",
+      "pushed_at": "2026-10-11T17:27:02Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -860965,7 +861105,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-10T04:33:32Z",
+      "pushed_at": "2026-10-11T18:20:03Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -886725,7 +886865,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T13:36:37Z",
+      "pushed_at": "2026-10-11T19:29:09Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -947346,7 +947486,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 4,
-      "pushed_at": "2026-10-11T08:05:56Z",
+      "pushed_at": "2026-10-11T19:04:45Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -981842,7 +981982,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 1,
-      "pushed_at": "2026-10-11T07:55:50Z",
+      "pushed_at": "2026-10-11T17:12:51Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -989962,7 +990102,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 4,
-      "pushed_at": "2026-04-26T22:49:56Z",
+      "pushed_at": "2026-10-11T16:56:20Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -993742,7 +993882,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 2,
-      "pushed_at": "2026-10-11T11:15:27Z",
+      "pushed_at": "2026-10-11T17:44:05Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1004077,7 +1004217,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 13,
-      "pushed_at": "2026-10-10T13:26:29Z",
+      "pushed_at": "2026-10-11T14:01:01Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1013958,7 +1014098,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 67,
-      "pushed_at": "2026-10-10T20:50:31Z",
+      "pushed_at": "2026-10-11T19:33:49Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1016418,7 +1016558,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 39787,
+      "stars": 39788,
       "eval_score": null,
       "mentions": null,
       "forks": 6239,
@@ -1022186,7 +1022326,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 2648,
+      "stars": 2654,
       "eval_score": null,
       "mentions": null,
       "forks": 364,
@@ -1025130,7 +1025270,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 4,
-      "pushed_at": "2026-10-10T18:12:40Z",
+      "pushed_at": "2026-10-11T15:25:15Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1026218,11 +1026358,11 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 8967,
+      "stars": 8997,
       "eval_score": null,
       "mentions": null,
-      "forks": 803,
-      "pushed_at": "2026-10-10T20:22:08Z",
+      "forks": 806,
+      "pushed_at": "2026-10-11T19:10:48Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1028238,7 +1028378,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T00:23:36Z",
+      "pushed_at": "2026-10-11T14:25:25Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1040268,10 +1040408,10 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 12638,
+      "stars": 12650,
       "eval_score": null,
       "mentions": null,
-      "forks": 1502,
+      "forks": 1503,
       "pushed_at": "2026-09-26T15:42:10Z",
       "verified_at": "2026-05-26",
       "related": [],
@@ -1045256,7 +1045396,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-10T20:18:07Z",
+      "pushed_at": "2026-10-11T19:30:26Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1046992,7 +1047132,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-10T17:22:49Z",
+      "pushed_at": "2026-10-11T17:42:55Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1060813,7 +1060953,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 1,
+      "stars": 2,
       "eval_score": null,
       "mentions": null,
       "forks": 0,
@@ -1062833,7 +1062973,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 10,
-      "pushed_at": "2026-10-11T13:25:42Z",
+      "pushed_at": "2026-10-11T18:03:42Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1078790,7 +1078930,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 63,
-      "pushed_at": "2026-10-11T07:21:01Z",
+      "pushed_at": "2026-10-11T16:52:06Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1088843,7 +1088983,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-10T18:08:55Z",
+      "pushed_at": "2026-10-11T18:32:58Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1106035,7 +1106175,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 8,
-      "pushed_at": "2026-10-08T16:10:06Z",
+      "pushed_at": "2026-10-11T15:57:28Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1107183,7 +1107323,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 3,
-      "pushed_at": "2026-10-07T12:00:34Z",
+      "pushed_at": "2026-10-11T19:34:03Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1110151,7 +1110291,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-08T12:03:30Z",
+      "pushed_at": "2026-10-11T15:30:54Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1114767,7 +1114907,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 344,
+      "stars": 343,
       "eval_score": null,
       "mentions": null,
       "forks": 78,
@@ -1114827,7 +1114967,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 15,
-      "pushed_at": "2026-10-11T10:01:04Z",
+      "pushed_at": "2026-10-11T18:07:23Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1114883,7 +1115023,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T13:35:06Z",
+      "pushed_at": "2026-10-11T15:33:41Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1118519,10 +1118659,10 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 364,
+      "stars": 365,
       "eval_score": null,
       "mentions": null,
-      "forks": 36,
+      "forks": 38,
       "pushed_at": "2026-10-09T13:10:05Z",
       "verified_at": "2026-05-27",
       "related": [],
@@ -1131539,7 +1131679,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 972,
+      "stars": 974,
       "eval_score": null,
       "mentions": null,
       "forks": 97,
@@ -1136667,7 +1136807,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T12:42:07Z",
+      "pushed_at": "2026-10-11T19:16:39Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1141199,7 +1141339,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 0,
+      "stars": 1,
       "eval_score": null,
       "mentions": null,
       "forks": 1,
@@ -1144900,7 +1145040,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T02:25:04Z",
+      "pushed_at": "2026-10-11T19:28:48Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1146243,8 +1146383,8 @@
       "stars": 0,
       "eval_score": null,
       "mentions": null,
-      "forks": 0,
-      "pushed_at": "2026-07-19T15:06:11Z",
+      "forks": 1,
+      "pushed_at": "2026-10-11T19:10:41Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1147584,7 +1147724,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 517,
+      "stars": 518,
       "eval_score": null,
       "mentions": null,
       "forks": 104,
@@ -1148064,7 +1148204,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 2,
-      "pushed_at": "2026-10-10T08:28:56Z",
+      "pushed_at": "2026-10-11T13:52:51Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1150388,7 +1150528,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-10T01:07:45Z",
+      "pushed_at": "2026-10-11T15:12:38Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1157416,7 +1157556,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T02:00:12Z",
+      "pushed_at": "2026-10-11T17:25:04Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1194867,7 +1195007,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 299,
+      "stars": 300,
       "eval_score": null,
       "mentions": null,
       "forks": 36,
@@ -1208248,7 +1208388,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-07T18:04:18Z",
+      "pushed_at": "2026-10-11T18:05:04Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1208780,7 +1208920,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-07T19:38:08Z",
+      "pushed_at": "2026-10-11T15:57:51Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1213932,7 +1214072,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 17,
-      "pushed_at": "2026-10-11T13:38:55Z",
+      "pushed_at": "2026-10-11T19:13:51Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1228912,7 +1229052,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 1,
-      "pushed_at": "2026-10-11T13:27:58Z",
+      "pushed_at": "2026-10-11T14:00:45Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1241654,7 +1241794,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T13:41:38Z",
+      "pushed_at": "2026-10-11T17:53:19Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1242102,7 +1242242,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T08:50:57Z",
+      "pushed_at": "2026-10-11T19:32:00Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1243754,7 +1243894,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-09-08T03:05:25Z",
+      "pushed_at": "2026-10-11T19:08:03Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1259266,7 +1259406,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 1,
-      "pushed_at": "2026-10-11T13:50:33Z",
+      "pushed_at": "2026-10-11T16:23:23Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1266238,7 +1266378,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 1,
-      "pushed_at": "2026-10-11T13:35:59Z",
+      "pushed_at": "2026-10-11T19:34:40Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1273098,7 +1273238,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-08-04T04:58:04Z",
+      "pushed_at": "2026-10-11T19:27:41Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1274917,7 +1275057,7 @@
       "stars": 578,
       "eval_score": null,
       "mentions": null,
-      "forks": 92,
+      "forks": 93,
       "pushed_at": "2026-10-10T00:09:08Z",
       "verified_at": "2026-05-26",
       "related": [],
@@ -1276206,7 +1276346,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 4,
-      "pushed_at": "2026-10-11T08:21:22Z",
+      "pushed_at": "2026-10-11T14:28:49Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1283682,7 +1283822,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T10:40:22Z",
+      "pushed_at": "2026-10-11T15:09:59Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1291942,7 +1292082,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 3,
-      "pushed_at": "2026-10-11T13:10:14Z",
+      "pushed_at": "2026-10-11T14:00:18Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1300143,7 +1300283,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 43,
+      "stars": 44,
       "eval_score": null,
       "mentions": null,
       "forks": 0,
@@ -1319105,7 +1319245,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T13:49:01Z",
+      "pushed_at": "2026-10-11T18:11:36Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1320809,7 +1320949,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 3464,
+      "stars": 3468,
       "eval_score": null,
       "mentions": null,
       "forks": 403,
@@ -1354294,7 +1354434,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 2,
-      "pushed_at": "2026-10-06T16:16:38Z",
+      "pushed_at": "2026-10-11T16:20:18Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1388033,7 +1388173,7 @@
       "stars": 31,
       "eval_score": null,
       "mentions": null,
-      "forks": 9,
+      "forks": 10,
       "pushed_at": "2025-10-20T07:53:28Z",
       "verified_at": "2026-05-26",
       "related": [],
@@ -1393133,7 +1393273,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T12:22:57Z",
+      "pushed_at": "2026-10-11T15:12:43Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1406324,7 +1406464,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 1,
-      "pushed_at": "2026-10-11T13:35:17Z",
+      "pushed_at": "2026-10-11T19:20:50Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1406660,7 +1406800,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T11:37:28Z",
+      "pushed_at": "2026-10-11T18:23:34Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1415255,7 +1415395,7 @@
       "stars": 37,
       "eval_score": null,
       "mentions": null,
-      "forks": 14,
+      "forks": 13,
       "pushed_at": "2026-08-19T09:04:35Z",
       "verified_at": "2026-05-27",
       "related": [],
@@ -1423096,7 +1423236,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 87,
-      "pushed_at": "2026-10-11T04:15:38Z",
+      "pushed_at": "2026-10-11T19:03:54Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1428668,7 +1428808,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-04T13:59:55Z",
+      "pushed_at": "2026-10-11T17:11:13Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1457614,7 +1457754,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 52,
+      "stars": 53,
       "eval_score": null,
       "mentions": null,
       "forks": 7,
@@ -1464647,7 +1464787,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 17,
-      "pushed_at": "2026-10-11T06:18:42Z",
+      "pushed_at": "2026-10-11T15:53:40Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1466299,7 +1466439,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 5,
-      "pushed_at": "2026-10-11T05:21:47Z",
+      "pushed_at": "2026-10-11T14:34:36Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1476043,7 +1476183,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 18,
-      "pushed_at": "2026-10-04T18:12:01Z",
+      "pushed_at": "2026-10-11T18:52:38Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1501678,7 +1501818,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 32038,
+      "stars": 32043,
       "eval_score": null,
       "mentions": 1,
       "forks": 2936,
@@ -1506415,7 +1506555,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 1,
-      "pushed_at": "2026-10-09T19:24:47Z",
+      "pushed_at": "2026-10-11T14:27:23Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1517388,7 +1517528,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 1,
-      "pushed_at": "2026-10-11T11:10:43Z",
+      "pushed_at": "2026-10-11T17:38:40Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1541669,7 +1541809,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 5,
-      "pushed_at": "2026-10-10T10:50:41Z",
+      "pushed_at": "2026-10-11T19:24:14Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1562443,7 +1562583,7 @@
       "maturity": "beta",
       "stars": 46193,
       "eval_score": null,
-      "mentions": null,
+      "mentions": 1,
       "forks": 5941,
       "pushed_at": "2026-10-06T14:00:13Z",
       "verified_at": "2026-05-26",
@@ -1653584,7 +1653724,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-04T15:14:52Z",
+      "pushed_at": "2026-10-11T15:17:38Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1654760,7 +1654900,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T13:46:10Z",
+      "pushed_at": "2026-10-11T14:20:35Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1658136,7 +1658276,7 @@
       "stars": 170,
       "eval_score": null,
       "mentions": null,
-      "forks": 67,
+      "forks": 66,
       "pushed_at": "2026-09-21T15:59:09Z",
       "verified_at": "2026-05-26",
       "related": [],
@@ -1670453,7 +1670593,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 134,
-      "pushed_at": "2026-10-11T13:22:53Z",
+      "pushed_at": "2026-10-11T19:32:11Z",
       "verified_at": "2026-09-07",
       "related": [],
       "tags": [
@@ -1671231,7 +1671371,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 18007,
+      "stars": 18008,
       "eval_score": null,
       "mentions": 2,
       "forks": 1800,
@@ -1677478,11 +1677618,11 @@
         "claude"
       ],
       "maturity": "beta",
-      "stars": 25467,
+      "stars": 25470,
       "eval_score": null,
       "mentions": null,
       "forks": 2074,
-      "pushed_at": "2026-10-10T16:58:30Z",
+      "pushed_at": "2026-10-11T16:44:11Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1681039,11 +1681179,11 @@
         "claude"
       ],
       "maturity": "beta",
-      "stars": 276882,
+      "stars": 277074,
       "eval_score": null,
       "mentions": 1,
-      "forks": 41283,
-      "pushed_at": "2026-10-11T13:46:09Z",
+      "forks": 41333,
+      "pushed_at": "2026-10-11T19:35:34Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1683703,10 +1683843,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 17910,
+      "stars": 17923,
       "eval_score": null,
       "mentions": 4,
-      "forks": 1311,
+      "forks": 1314,
       "pushed_at": "2026-03-17T18:50:39Z",
       "verified_at": "2026-09-07",
       "related": [],
@@ -1698763,10 +1698903,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 81895,
+      "stars": 82003,
       "eval_score": 1,
       "mentions": 2,
-      "forks": 5534,
+      "forks": 5536,
       "pushed_at": "2026-10-11T04:17:54Z",
       "verified_at": "2026-09-26",
       "related": [],
@@ -1699559,11 +1699699,11 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 34503,
+      "stars": 34536,
       "eval_score": null,
       "mentions": 3,
-      "forks": 3626,
-      "pushed_at": "2026-10-05T22:51:12Z",
+      "forks": 3629,
+      "pushed_at": "2026-10-11T15:04:23Z",
       "verified_at": "2026-09-02",
       "related": [],
       "tags": [
@@ -1719341,10 +1719481,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 40374,
+      "stars": 40397,
       "eval_score": null,
       "mentions": 0,
-      "forks": 4300,
+      "forks": 4304,
       "pushed_at": "2026-10-05T01:07:11Z",
       "verified_at": "2026-09-02",
       "related": [],
@@ -1721750,7 +1721890,7 @@
       "stars": 12881,
       "eval_score": null,
       "mentions": null,
-      "forks": 2040,
+      "forks": 2041,
       "pushed_at": "2026-10-09T19:42:16Z",
       "verified_at": "2026-05-26",
       "related": [],
@@ -1726795,10 +1726935,10 @@
         "claude"
       ],
       "maturity": "beta",
-      "stars": 9151,
+      "stars": 9155,
       "eval_score": null,
       "mentions": null,
-      "forks": 1307,
+      "forks": 1308,
       "pushed_at": "2026-09-28T05:19:20Z",
       "verified_at": "2026-05-26",
       "related": [],
@@ -1727508,10 +1727648,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 97676,
+      "stars": 97686,
       "eval_score": null,
       "mentions": 7,
-      "forks": 13568,
+      "forks": 13572,
       "pushed_at": "2026-03-26T00:07:37Z",
       "verified_at": "2026-09-02",
       "related": [],
@@ -1729263,7 +1729403,7 @@
       "maturity": "experimental",
       "stars": 206938,
       "eval_score": 1,
-      "mentions": 26,
+      "mentions": 27,
       "forks": 61051,
       "pushed_at": "2026-10-10T21:12:27Z",
       "verified_at": "2026-10-10",
@@ -1729579,10 +1729719,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 27632,
+      "stars": 27636,
       "eval_score": null,
       "mentions": 4,
-      "forks": 2877,
+      "forks": 2876,
       "pushed_at": "2026-09-15T22:14:59Z",
       "verified_at": "2026-09-02",
       "related": [],

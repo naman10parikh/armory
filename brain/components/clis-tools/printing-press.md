@@ -8,14 +8,14 @@ source_url: https://github.com/mvanhorn/cli-printing-press
 license: unknown
 cli_compat: []
 maturity: stable
-stars: 4800
+stars: 4801
 eval_score: 1
 mentions: null
 verified_at: 
 related: []
 tags: [connectors]
 forks: 519
-pushed_at: "2026-10-11T13:44:17Z"
+pushed_at: "2026-10-11T16:51:44Z"
 ---
 
 # printing-press

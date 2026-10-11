@@ -15,7 +15,7 @@ related: []
 tags: [glama, mcp]
 mentions: null
 forks: 0
-pushed_at: "2026-10-11T11:37:28Z"
+pushed_at: "2026-10-11T18:23:34Z"
 ---
 ## What it is
 Enables AI agents to perform ultra-fast web scraping and deep search, browser automation, and access to Japanese daily infrastructure data such as weather forecasts, transit routing, news, real-time X/Twitter posts, and Yahoo! Chiebukuro through a unified MCP/REST server.

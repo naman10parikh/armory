@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-11T08:05:56Z"
+pushed_at: "2026-10-11T19:04:45Z"
 ---
 ## What it is
 MCP servers for KiCad schematic, PCB, symbol, footprint, and project automation, enabling AI-assisted electronic design via tools for read/write, analysis, and exports.

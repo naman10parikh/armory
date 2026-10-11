@@ -8,12 +8,12 @@ source_url: https://github.com/tobyandrews1985/basketeer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-07-30T16:12:06Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 18
-pushed_at: "2026-10-04T18:12:01Z"
+pushed_at: "2026-10-11T18:52:38Z"
 ---
 ## What it is
 Enables AI assistants to manage Temporal workflows, schedules, and workflow executions through a standardized interface.

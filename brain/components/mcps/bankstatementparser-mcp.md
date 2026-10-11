@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T06:19:22Z"
+pushed_at: "2026-10-11T19:25:38Z"
 ---
 ## What it is
 Model Context Protocol server exposing the bankstatementparser library as first-class agent tools for reading bank statements.

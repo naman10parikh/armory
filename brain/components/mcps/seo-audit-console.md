@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-06T16:16:38Z"
+pushed_at: "2026-10-11T16:20:18Z"
 ---
 ## What it is
 Merges your Google Search Console data with a live crawl of your site to run a comprehensive technical SEO audit inside Claude, providing prioritized findings and paste-ready fixes.

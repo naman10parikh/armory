@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T15:05:33Z"
+pushed_at: "2026-10-11T17:27:02Z"
 ---
 ## What it is
 MCP server exposing BuchhaltungsButler API tools for accounting, invoicing, and receipt management with curated, token-efficient endpoints.

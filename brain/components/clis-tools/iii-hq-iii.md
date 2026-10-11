@@ -8,7 +8,7 @@ source_url: https://github.com/iii-hq/iii
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 18833
+stars: 18835
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10

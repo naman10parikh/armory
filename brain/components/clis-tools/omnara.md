@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claude-esp, claude-tmux]
 tags: [claude-code, alternative-clients]
-stars: 2905
+stars: 2906
 mentions: 4
-forks: 234
+forks: 235
 pushed_at: "2026-10-10T04:14:08Z"
 ---
 ## What it is

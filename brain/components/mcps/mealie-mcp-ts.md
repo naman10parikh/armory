@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-04-26T22:49:56Z"
+pushed_at: "2026-10-11T16:56:20Z"
 ---
 ## What it is
 Enables AI assistants to manage recipes, meal plans, and shopping lists in Mealie through natural language, supporting CRUD operations and URL-based recipe imports.

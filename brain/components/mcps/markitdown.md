@@ -8,12 +8,12 @@ source_url: https://github.com/microsoft/markitdown
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 189502
+stars: 189549
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 1
-forks: 14072
+forks: 14103
 pushed_at: "2026-10-04T03:59:52Z"
 ---
 ## What it is

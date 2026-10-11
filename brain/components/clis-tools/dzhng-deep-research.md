@@ -8,7 +8,7 @@ source_url: https://github.com/dzhng/deep-research
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 19778
+stars: 19780
 eval_score: null
 mentions: 7
 verified_at: 2026-09-02

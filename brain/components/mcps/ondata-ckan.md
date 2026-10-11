@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-10-11T10:01:04Z"
+pushed_at: "2026-10-11T18:07:23Z"
 ---
 ## What it is
 MCP server `CKAN`, catalogued on PulseMCP. Connects to any CKAN open data portal for searching datasets, exploring organizations, querying tabular data, and reading metadata.
