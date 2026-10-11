@@ -8,7 +8,7 @@ source_url: https://github.com/tt-a1i/archify
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 81676
+stars: 81688
 eval_score: 1
 mentions: 2
 verified_at: 2026-09-26

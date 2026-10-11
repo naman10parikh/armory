@@ -8,7 +8,7 @@ source_url: https://github.com/PrimeIntellect-ai/prime-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 21849
+stars: 21851
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02

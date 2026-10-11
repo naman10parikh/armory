@@ -8,13 +8,13 @@ source_url: https://github.com/JuliusBrussee/caveman
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 110933
+stars: 110935
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 6424
+forks: 6425
 pushed_at: "2026-10-10T16:01:18Z"
 ---
 ## What it is

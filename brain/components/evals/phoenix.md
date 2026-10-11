@@ -15,7 +15,7 @@ related: []
 tags: [evals, observability, rag, agents]
 mentions: 2
 forks: 1200
-pushed_at: "2026-10-11T01:38:04Z"
+pushed_at: "2026-10-11T02:01:48Z"
 ---
 ## What it is
 Arize Phoenix: open-source LLM observability with built-in evals, span tracing, and dataset curation for RAG and agents.

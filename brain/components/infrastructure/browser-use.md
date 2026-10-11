@@ -14,7 +14,7 @@ verified_at: 2026-05-28
 related: []
 tags: [browser, browser-use]
 mentions: 11
-forks: 13004
+forks: 13005
 pushed_at: "2026-10-09T17:36:28Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/jgravelle/jcodemunch-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2753
+stars: 2754
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 373
-pushed_at: "2026-10-10T13:45:05Z"
+pushed_at: "2026-10-11T01:48:35Z"
 ---
 ## What it is
 MCP server `jCodeMunch by jgravelle`, catalogued on PulseMCP. Token-efficient code exploration via tree-sitter AST parsing supporting 25+ programming languages.

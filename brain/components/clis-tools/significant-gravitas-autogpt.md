@@ -8,7 +8,7 @@ source_url: https://github.com/Significant-Gravitas/AutoGPT
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 187517
+stars: 187518
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02

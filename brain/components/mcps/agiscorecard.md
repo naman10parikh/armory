@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T02:35:19Z"
+pushed_at: "2026-10-11T02:04:44Z"
 ---
 ## What it is
 Auditable AGI-2027 evidence: eight graded Situational Awareness predictions with pre-registered flip conditions, a 0-100 Thesis Tracker with full score history, and a public market-call ledger where misses stay published. Free, no auth, CC BY 4.0.
