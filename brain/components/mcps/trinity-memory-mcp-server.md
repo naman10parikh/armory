@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-03T04:32:30Z"
+pushed_at: "2026-10-10T10:40:58Z"
 ---
 ## What it is
 A high-performance persistent memory layer for AI agents with multi-modal support, 47 retrieval channels, and 50-tier guardian chains, integrating 12+ memory approaches into a unified architecture.

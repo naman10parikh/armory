@@ -8,7 +8,7 @@ source_url: https://github.com/CadQuery/cadquery
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 5911
+stars: 5912
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-24T03:42:52Z"
+pushed_at: "2026-10-05T07:20:32Z"
 ---
 ## What it is
 MCP server `Hacker News by cyanheads`, catalogued on PulseMCP. Fetches Hacker News feeds, threaded discussions, user profiles, and full-text search via Firebase and Algolia APIs.

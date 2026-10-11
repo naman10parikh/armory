@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-23T17:59:28Z"
+pushed_at: "2026-10-10T08:51:23Z"
 ---
 ## What it is
 Exposes Node-RED flows as MCP tools for AI assistants, with OAuth protection and optional admin tools for flow management.

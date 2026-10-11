@@ -8,13 +8,13 @@ source_url: https://github.com/qdonnars/ohmywind
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-29T06:10:04Z"
+pushed_at: "2026-10-07T12:00:34Z"
 ---
 ## What it is
 Enables any MCP-compatible assistant to plan sailing passages using wind and sea forecasts, with boat-specific polars, per-leg ETAs, complexity scores, and deep links to interactive plans. Works globally, with higher-resolution models over France, and supports multi-day departure window comparisons.

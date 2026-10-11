@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-04-16T14:08:21Z"
+pushed_at: "2026-10-06T17:07:15Z"
 ---
 ## What it is
 MCP server `Fan Out Query Analyser`, catalogued on PulseMCP. Content gap analysis tool that identifies which user queries your content answers and which it misses

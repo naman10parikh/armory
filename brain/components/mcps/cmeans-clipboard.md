@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-07-20T11:08:50Z"
+pushed_at: "2026-10-07T16:49:07Z"
 ---
 ## What it is
 MCP server `Clipboard`, catalogued on PulseMCP. System clipboard MCP server for reading and writing tables, text, code, JSON, URLs, and images.

@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, workflows-knowledge-guides]
-stars: 549
-forks: 71
-pushed_at: "2026-09-03T17:59:45Z"
+stars: 551
+forks: 70
+pushed_at: "2026-10-08T08:44:14Z"
 ---
 ## What it is
 An index of 75+ Claude Code repositories by one author, covering content management, system design, deep research, IoT, agentic workflows, server management and personal health.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T14:38:49Z"
+pushed_at: "2026-10-05T17:58:10Z"
 ---
 ## What it is
 Enables MCP clients to drive Kali Linux ethical hacking tools for authorized penetration testing, with enforced engagement scope, exploitation gating, and full audit logging.

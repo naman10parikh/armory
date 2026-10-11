@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-04T05:20:37Z"
+pushed_at: "2026-10-10T05:20:00Z"
 ---
 ## What it is
 MCP server `Kansei`, catalogued on PulseMCP. Intelligence layer for discovering and orchestrating Japanese SaaS MCP tools.

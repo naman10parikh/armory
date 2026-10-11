@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-03T08:26:27Z"
+pushed_at: "2026-10-05T12:45:22Z"
 ---
 ## What it is
 Public MCP endpoint for physiologically based pharmacokinetic (PBPK) simulation, qualification, and dossier export.

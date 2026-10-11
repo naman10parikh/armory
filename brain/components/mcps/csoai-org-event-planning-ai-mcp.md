@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:38:47Z"
+pushed_at: "2026-10-08T03:14:52Z"
 ---
 ## What it is
 MCP server `Event Planning AI`, catalogued on PulseMCP. AI tools for planning events, managing schedules, and coordinating logistics.

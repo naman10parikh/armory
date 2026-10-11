@@ -8,7 +8,7 @@ source_url: https://github.com/shivasurya/code-pathfinder
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 141
+stars: 142
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

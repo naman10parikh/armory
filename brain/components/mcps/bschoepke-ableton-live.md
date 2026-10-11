@@ -8,12 +8,12 @@ source_url: https://github.com/bschoepke/ableton-live-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 227
+stars: 229
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
-pushed_at: "2026-07-25T01:00:54Z"
+forks: 12
+pushed_at: "2026-10-06T00:10:39Z"
 ---
 ## What it is
 MCP server `Ableton Live`, catalogued on PulseMCP. AI-driven control of Ableton Live DAW via natural language commands and direct Python execution.

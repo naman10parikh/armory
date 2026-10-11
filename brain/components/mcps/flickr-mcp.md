@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-23T09:01:54Z"
+pushed_at: "2026-10-09T15:45:45Z"
 ---
 ## What it is
 Enables Claude to browse your Flickr photostream, retrieve direct image URLs, upload photos, and manage albums via the Model Context Protocol.

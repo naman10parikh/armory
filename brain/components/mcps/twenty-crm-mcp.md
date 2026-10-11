@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T11:45:59Z"
+pushed_at: "2026-10-06T01:10:01Z"
 ---
 ## What it is
 Enables MCP clients to read, search, create, update, and manage records in Twenty CRM with a safe, composable 14-tool interface and guarded destructive operations.

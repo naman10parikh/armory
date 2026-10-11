@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-09T02:34:42Z"
+pushed_at: "2026-10-07T12:29:40Z"
 ---
 ## What it is
 MCP server for agent-piloted browser automation that clears Cloudflare, providing multi-session parallel Chromes, persistent profiles, stealth features, credential vault, and vision-first clicking.

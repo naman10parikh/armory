@@ -8,12 +8,12 @@ source_url: https://github.com/Last-emo-boy/rikune
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 241
+stars: 240
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 30
+forks: 32
 pushed_at: "2026-09-26T03:04:32Z"
 ---
 ## What it is

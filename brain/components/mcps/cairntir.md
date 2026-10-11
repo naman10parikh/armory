@@ -8,13 +8,13 @@ source_url: https://github.com/pnmcguire480/cairntir
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T02:27:28Z"
+pushed_at: "2026-10-11T00:28:01Z"
 ---
 ## What it is
 A local-first, open-source memory system for Claude Code that eliminates cross-chat AI amnesia by storing decisions and facts verbatim in a SQLite database and retrieving them via MCP tools for persistent, context-aware conversations.

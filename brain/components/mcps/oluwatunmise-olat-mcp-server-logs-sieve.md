@@ -13,7 +13,7 @@ related: []
 tags: [mcp, monitoring]
 stars: 3
 forks: 1
-pushed_at: "2026-04-22T13:13:42Z"
+pushed_at: "2026-10-09T19:06:09Z"
 ---
 ## What it is
 Query, summarize, and trace logs in plain English across GCP Cloud Logging, AWS CloudWatch, Azure Log Analytics, Grafana Loki, and Elasticsearch

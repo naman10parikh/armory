@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:35:27Z"
+pushed_at: "2026-10-08T00:56:05Z"
 ---
 ## What it is
 MCP server `Agriculture Robotics`, catalogued on PulseMCP. Robotics coordination and monitoring tools for agricultural automation workflows.

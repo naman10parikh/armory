@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T12:38:16Z"
+pushed_at: "2026-10-08T03:14:31Z"
 ---
 ## What it is
 MCP server for creating and managing digital human models with built-in EU AI Act compliance, part of the MEOK AI Labs ecosystem.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-10-01T21:51:55Z"
+pushed_at: "2026-10-09T16:51:13Z"
 ---
 ## What it is
 MCP server `Development Automation Server`, catalogued on PulseMCP. Provides a development automation server with modular architecture for fetching web content, accessing documentation, analyzing project structure, and performing web searches through internet and Perplexity APIs.

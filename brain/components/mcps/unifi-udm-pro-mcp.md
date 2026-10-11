@@ -8,13 +8,13 @@ source_url: https://github.com/rodolfoconcepcion/unifi-udm-pro-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-02T12:37:29Z"
+pushed_at: "2026-10-08T12:41:07Z"
 ---
 ## What it is
 A high-performance MCP server for Ubiquiti UniFi Dream Machine (UDM Pro/SE) and UniFi OS Cloud Gateways, connecting directly to the local REST API using native API keys to provide 40 tools for managing Wi-Fi, VLANs, firewall rules, port forwarding, switch ports, guest vouchers, QoS, clients, and dev

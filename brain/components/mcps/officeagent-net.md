@@ -8,13 +8,13 @@ source_url: https://github.com/ilia-sokolov/OfficeAgent.NET
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-10-03T17:43:55Z"
+pushed_at: "2026-10-08T16:10:06Z"
 ---
 ## What it is
 MCP server that lets agents edit real Microsoft Word (.docx) documents - tracked changes, tables, styles, comments, content controls, and document properties - with every edit validated and previewed before saving. Built on the Open XML SDK (no Word automation); reads and writes documents in place t

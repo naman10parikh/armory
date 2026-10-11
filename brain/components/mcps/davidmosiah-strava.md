@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-29T10:28:53Z"
+pushed_at: "2026-10-08T14:39:27Z"
 ---
 ## What it is
 MCP server `Strava`, catalogued on PulseMCP. Privacy-first MCP server for Strava activities, streams, routes and training.

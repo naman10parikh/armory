@@ -177,6 +177,7 @@
         {
           "name": "chrome-devtools",
           "why": "Chrome control through the DevTools protocol: automation, debugging, performance traces",
+          "reason": "Picked to drive and inspect a real Chrome; the row above it, markitdown, converts documents instead.",
           "armoryName": "chrome-devtools",
           "url": "https://github.com/chromedevtools/chrome-devtools-mcp"
         }

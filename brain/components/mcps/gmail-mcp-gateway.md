@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T03:17:54Z"
+pushed_at: "2026-10-05T03:20:00Z"
 ---
 ## What it is
 An MCP server that gives AI agents full read and organizational access to multiple Gmail accounts — and no ability to send, trash, or delete mail.

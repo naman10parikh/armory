@@ -8,7 +8,7 @@ source_url: https://github.com/hloiseau/mcp-gopls
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 102
+stars: 104
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-02T19:25:44Z"
+pushed_at: "2026-10-10T15:41:02Z"
 ---
 ## What it is
 MCP server `Infrawise`, catalogued on PulseMCP. CLI-first infrastructure intelligence platform that analyzes AWS services, databases, and IaC to provide deterministic context for AI coding assistants.

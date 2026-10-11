@@ -8,7 +8,7 @@ source_url: https://github.com/astral-sh/ruff
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 49984
+stars: 49985
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10

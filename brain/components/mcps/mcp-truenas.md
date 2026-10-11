@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T17:45:28Z"
+pushed_at: "2026-10-09T17:16:53Z"
 ---
 ## What it is
 An MCP server that lets Claude monitor and manage a TrueNAS box in plain English. It is deliberately read-only, providing tools to check alerts, storage pools, snapshots, services, and more.

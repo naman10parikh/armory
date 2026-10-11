@@ -8,13 +8,13 @@ source_url: https://github.com/ziv-daniel/node-red-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-09-28T09:11:25Z"
+pushed_at: "2026-10-06T18:42:02Z"
 ---
 ## What it is
 A Model Context Protocol server for Node-RED integration, enabling AI agents to manage flows, install modules, and monitor Node-RED instances via natural language.

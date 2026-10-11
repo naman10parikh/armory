@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T10:53:33Z"
+pushed_at: "2026-10-10T17:14:52Z"
 ---
 ## What it is
 Unity Editor automation bridge for AI agents and MCP clients, enabling inspection, control, and diagnostics of the Editor.

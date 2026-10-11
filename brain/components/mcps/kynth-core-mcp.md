@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T21:43:26Z"
+pushed_at: "2026-10-10T11:12:56Z"
 ---
 ## What it is
 Enables document parsing, field extraction, PII redaction, contract analysis, chargeback handling, and company enrichment via the Kynth Core API. Provides tools for Claude and any MCP client to process documents and extract structured data.

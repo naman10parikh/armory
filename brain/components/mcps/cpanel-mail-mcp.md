@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T23:55:36Z"
+pushed_at: "2026-10-07T06:31:41Z"
 ---
 ## What it is
 Manages email accounts via IMAP/SMTP, enabling reading, searching, sending, replying, forwarding, and folder management with multi-user and OAuth support.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-13T06:16:11Z"
+pushed_at: "2026-10-07T09:01:52Z"
 ---
 ## What it is
 MCP server for connecting AI clients to the Money S3 accounting system via GraphQL API, enabling operations on invoices, contacts, stock, banking, payroll, and more.

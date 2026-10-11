@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-10-01T10:47:44Z"
+pushed_at: "2026-10-08T21:09:28Z"
 ---
 ## What it is
 MCP server `TeaRAGs`, catalogued on PulseMCP. Provides semantic code search across large codebases using vector embeddings and AST-aware chunking with git metadata integration for intelligent code discovery and analysis.

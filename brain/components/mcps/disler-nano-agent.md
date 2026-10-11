@@ -8,7 +8,7 @@ source_url: https://github.com/disler/nano-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 204
+stars: 205
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -8,12 +8,12 @@ source_url: https://github.com/coinpaprika/dexpaprika-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 43
+stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 17
-pushed_at: "2026-10-02T12:28:02Z"
+pushed_at: "2026-10-08T08:09:51Z"
 ---
 ## What it is
 MCP server `DexPaprika`, catalogued on PulseMCP. Provides real-time cryptocurrency market data across multiple blockchain networks, including DEX listings, liquidity pools, token details, and price analytics without requiring API keys.

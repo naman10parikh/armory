@@ -8,13 +8,13 @@ source_url: https://github.com/authsec-ai/authsec-ai
 license: NOASSERTION
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 16
+stars: 17
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
-forks: 6
+forks: 7
 pushed_at: "2026-07-03T06:28:48Z"
 ---
 ## What it is

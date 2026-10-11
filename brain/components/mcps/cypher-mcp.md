@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T18:13:03Z"
+pushed_at: "2026-10-09T00:05:03Z"
 ---
 ## What it is
 Monetized graph answers over Bitcoin Lightning. Sells priced answers from a graph via operator-authored, parameterized, named Cypher query templates.

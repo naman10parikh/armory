@@ -8,7 +8,7 @@ source_url: https://github.com/sligter/mcp_newsnow
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 71
+stars: 72
 eval_score: null
 verified_at: 2026-05-27
 related: []

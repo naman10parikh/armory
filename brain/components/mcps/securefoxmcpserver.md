@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-06T15:02:12Z"
+pushed_at: "2026-10-09T12:57:29Z"
 ---
 ## What it is
 Enables secure browser control and automation through MCP, adding domain validation to tab-specific operations while preserving navigation, content, window, history, bookmark, and request-monitoring tools.

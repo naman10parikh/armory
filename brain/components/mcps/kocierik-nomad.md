@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-09-27T22:04:07Z"
+pushed_at: "2026-10-04T22:04:29Z"
 ---
 ## What it is
 MCP server `Nomad`, catalogued on PulseMCP. Provides a bridge to HashiCorp Nomad's cluster management capabilities, enabling job management, deployment tracking, namespace administration, node operations, and ACL management for infrastructure operations.

@@ -1,0 +1,7 @@
+{
+  "name": "nicobailon-pi-mcp-adapter",
+  "description": "Token-efficient MCP adapter for Pi coding agent",
+  "source_repo": "nicobailon/pi-mcp-adapter",
+  "source_url": "https://github.com/nicobailon/pi-mcp-adapter",
+  "install": "# git clone --depth 1 https://github.com/nicobailon/pi-mcp-adapter\n# See source for mcpServers config block"
+}

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T11:14:43Z"
+pushed_at: "2026-10-04T18:54:38Z"
 ---
 ## What it is
 MCP server that captures a Windows application's pixels and bounded UI Automation tree with provider-exposed text for Codex inspection. It supports capture, listing, retrieval, and watcher control commands.

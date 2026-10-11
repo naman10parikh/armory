@@ -8,12 +8,12 @@ source_url: https://github.com/opendatalab/MinerU-Document-Explorer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 637
+stars: 640
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 73
+forks: 74
 pushed_at: "2026-04-26T07:10:38Z"
 ---
 ## What it is

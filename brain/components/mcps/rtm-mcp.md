@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T13:44:55Z"
+pushed_at: "2026-10-10T13:47:01Z"
 ---
 ## What it is
 Enables MCP-compatible clients to directly manage Jira Requirements and Test Management resources such as requirements, test cases, plans, executions, defects, tree structures, and automation via exposed tools.

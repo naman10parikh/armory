@@ -8,13 +8,13 @@ source_url: https://github.com/german-krasnikov/unity-biome-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 29
+stars: 30
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-01T19:38:06Z"
+pushed_at: "2026-10-05T17:27:11Z"
 ---
 ## What it is
 MCP server for controlling the Unity Editor from AI clients. 140+ tools for scenes, GameObjects, components, assets, Shader Graph, PlayTest DSL, screenshots with visual diff, batch operations with Undo rollback, and in-editor chat. Token-efficient plain-text protocol.

@@ -8,13 +8,13 @@ source_url: https://github.com/dcondrey/scrivener-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 63
+stars: 66
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 21
-pushed_at: "2026-10-02T00:38:21Z"
+pushed_at: "2026-10-07T02:00:35Z"
 ---
 ## What it is
 Enables Claude AI to seamlessly interact with Scrivener projects for document management, AI-powered content analysis, and advanced writing assistance.

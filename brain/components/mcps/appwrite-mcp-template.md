@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T16:35:11Z"
+pushed_at: "2026-10-05T10:08:14Z"
 ---
 ## What it is
 Enables deploying stateless MCP servers on Appwrite Functions, supporting custom tools with JSON-RPC over HTTPS.

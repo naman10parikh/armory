@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T03:48:14Z"
+pushed_at: "2026-10-06T16:07:14Z"
 ---
 ## What it is
 Enables plant phenotyping via MCP, returning plant trait measurements along with segmentation overlays to validate mask quality, preventing unreliable outputs.

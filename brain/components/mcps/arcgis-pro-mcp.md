@@ -8,12 +8,12 @@ source_url: https://github.com/Knight60/ArcGIS-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 6
 pushed_at: "2026-09-06T20:25:43Z"
 ---
 ## What it is

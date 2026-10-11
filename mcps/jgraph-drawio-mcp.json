@@ -1,0 +1,7 @@
+{
+  "name": "jgraph-drawio-mcp",
+  "description": "draw.io MCP server (jgraph/drawio-mcp): cited by 1 practitioner note in the Sentinel brain.",
+  "source_repo": "jgraph/drawio-mcp",
+  "source_url": "https://github.com/jgraph/drawio-mcp",
+  "install": "npx -y drawio-mcp"
+}

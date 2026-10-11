@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T08:33:35Z"
+pushed_at: "2026-10-07T10:16:29Z"
 ---
 ## What it is
 LoginWA MCP: WhatsApp OTP, device status, send message, and broadcast for AI agents. LoginWA hosts the WhatsApp session, so no VPS, no Baileys to babysit, no reconnect loops. Free tier 100 messages a month, paid from $1. Pricing: https://loginwa.com/pricing

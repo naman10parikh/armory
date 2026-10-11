@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T21:29:49Z"
+pushed_at: "2026-10-10T11:10:52Z"
 ---
 ## What it is
 Enables querying Norwegian traffic messages (roadworks, closures, detours) from Statens vegvesen, filtered by route and time window. Supports both current and future travel times, with tools for route-based and general searches.

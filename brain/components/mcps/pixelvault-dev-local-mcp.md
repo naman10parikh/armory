@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T01:43:51Z"
+pushed_at: "2026-10-07T01:44:04Z"
 ---
 ## What it is
 A local (stdio) MCP server for PixelVault — agent-first image hosting, enabling upload of local files by path without base64.

@@ -8,12 +8,12 @@ source_url: https://github.com/psychquant/che-ical-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-10-04T07:28:17Z"
+pushed_at: "2026-10-10T15:44:52Z"
 ---
 ## What it is
 MCP server `macOS Calendar & Reminders`, catalogued on PulseMCP. Manages macOS Calendar events and Reminders using native Swift EventKit, supporting iCloud, Google, Exchange, and CalDAV accounts.

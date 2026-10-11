@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T16:57:12Z"
+pushed_at: "2026-10-09T18:38:49Z"
 ---
 ## What it is
 Read-only MCP server that lets AI agents query SageRead data: books, reading progress, stats, notes, AI chats, papers, and semantic vector search, with API keys staying inside the app. Supports both Better SageRead and upstream SageRead data directories.

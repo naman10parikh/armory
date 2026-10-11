@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-28T16:45:29Z"
+pushed_at: "2026-10-05T16:46:10Z"
 ---
 ## What it is
 MCP server `Substack (adelaidasofia)`, catalogued on PulseMCP. Substack MCP for publishing Notes and posts, pulling analytics, and managing drafts.

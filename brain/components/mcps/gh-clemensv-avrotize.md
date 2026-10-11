@@ -8,12 +8,12 @@ source_url: https://github.com/clemensv/avrotize
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 131
+stars: 132
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-09-28T21:24:24Z"
+pushed_at: "2026-10-05T21:25:15Z"
 ---
 ## What it is
 MCP server `Avrotize`, catalogued on PulseMCP. Schema conversion and schema-driven code generation across formats.

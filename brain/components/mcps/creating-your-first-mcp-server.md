@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T11:17:15Z"
+pushed_at: "2026-10-05T04:32:39Z"
 ---
 ## What it is
 Enables to perform mathematical calculations, retrieve weather information, and manage files through a standardized MCP interface, showcasing best practices for building MCP servers.

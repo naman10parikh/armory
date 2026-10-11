@@ -8,13 +8,13 @@ source_url: https://github.com/smeet666/mcp-marmiton
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T18:01:48Z"
+pushed_at: "2026-10-08T23:03:11Z"
 ---
 ## What it is
 MCP server that searches French recipes from Marmiton, reads ingredients and steps, and rescales quantities to any number of servings without requiring an API key.

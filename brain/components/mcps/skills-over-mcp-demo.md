@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-26T00:37:01Z"
+pushed_at: "2026-10-10T21:30:21Z"
 ---
 ## What it is
 Serves Agent Skills over MCP using the SEP-2640 Skills Extension, enabling skills discovery, retrieval, and resource reading via MCP.

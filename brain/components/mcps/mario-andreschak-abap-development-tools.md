@@ -8,11 +8,11 @@ source_url: https://github.com/mario-andreschak/mcp-abap-abap-adt-api
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 202
+stars: 203
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 71
+forks: 72
 pushed_at: "2026-09-16T22:23:28Z"
 ---
 ## What it is

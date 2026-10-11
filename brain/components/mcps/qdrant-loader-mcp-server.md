@@ -8,7 +8,7 @@ source_url: https://github.com/martin-papy/qdrant-loader
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 55
+stars: 56
 eval_score: null
 verified_at: 2026-05-27
 related: []

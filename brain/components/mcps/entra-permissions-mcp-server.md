@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T11:51:52Z"
+pushed_at: "2026-10-05T12:26:34Z"
 ---
 ## What it is
 Provides Microsoft Entra ID / Graph permissions data to AI agents, enabling search and retrieval of application and delegated permissions as well as Microsoft first-party app details.

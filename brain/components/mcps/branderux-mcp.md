@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T23:09:30Z"
+pushed_at: "2026-10-10T22:30:53Z"
 ---
 ## What it is
 Enables AI agents to manage BranderUX projects, including brand settings, custom elements, screens, and API keys, with access to verified SDK documentation.

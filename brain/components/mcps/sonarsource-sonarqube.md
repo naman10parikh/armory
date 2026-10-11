@@ -8,12 +8,12 @@ source_url: https://github.com/sonarsource/sonarqube-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 655
+stars: 659
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 101
-pushed_at: "2026-10-02T14:58:17Z"
+forks: 103
+pushed_at: "2026-10-10T19:36:53Z"
 ---
 ## What it is
 MCP server `SonarQube`, catalogued on PulseMCP. Integrates with SonarQube and SonarCloud platforms for code quality analysis, issue management, metrics retrieval, quality gate monitoring, and system administration across both server and cloud environments.

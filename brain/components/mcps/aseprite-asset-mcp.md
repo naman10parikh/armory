@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T13:59:01Z"
+pushed_at: "2026-10-06T05:42:49Z"
 ---
 ## What it is
 MCP server for creating pixel art, characters, and scenes for Aseprite, generating deterministic plans and Godot-compatible manifests.

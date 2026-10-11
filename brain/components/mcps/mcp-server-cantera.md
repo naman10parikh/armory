@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T11:49:39Z"
+pushed_at: "2026-10-10T11:58:03Z"
 ---
 ## What it is
 An MCP server that wraps Cantera to enable LLMs to perform accurate thermodynamic, transport, equilibrium, and chemical kinetics calculations.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-16T05:45:53Z"
+pushed_at: "2026-10-08T02:29:36Z"
 ---
 ## What it is
 MCP server for maritime compliance, enabling natural-language checks on MARPOL Annex VI, EU ETS, CII/EEXI, IMDG, bunker fuel, ballast water, and Port State Control inspection prep.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-04T06:53:28Z"
+pushed_at: "2026-10-10T07:13:00Z"
 ---
 ## What it is
 High-performance server that simplifies access to the USPTO Final Petition Decisions API, streamlining document analysis and enhancing intellectual property workflows.

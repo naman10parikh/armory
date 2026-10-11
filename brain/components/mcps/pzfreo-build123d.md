@@ -8,11 +8,11 @@ source_url: https://github.com/pzfreo/build123d-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 102
+stars: 111
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
+forks: 14
 pushed_at: "2026-09-25T15:13:45Z"
 ---
 ## What it is

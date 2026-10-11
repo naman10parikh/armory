@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T08:40:59Z"
+pushed_at: "2026-10-10T21:26:28Z"
 ---
 ## What it is
 Enables agents to delegate single-shot text completion and schema-validated structured data extraction to Mistral AI models over Streamable HTTP or stdio.

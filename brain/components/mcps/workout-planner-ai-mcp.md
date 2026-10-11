@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T12:44:59Z"
+pushed_at: "2026-10-08T04:17:36Z"
 ---
 ## What it is
 Enables creating workout plans, tracking progress, suggesting exercises, and calculating training volume through natural language, compliant with MCP protocol.

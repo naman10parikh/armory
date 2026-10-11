@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T05:26:58Z"
+pushed_at: "2026-10-08T02:37:34Z"
 ---
 ## What it is
 Multi-regime AI incident classification and reporting MCP supporting EU AI Act Article 73, DORA, NIS2, and GDPR breach reporting.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T04:10:12Z"
+pushed_at: "2026-10-06T20:28:40Z"
 ---
 ## What it is
 Real-time DNS security analysis for AI assistants via MCP. Enables DNSSEC chain validation, email authentication posture, and registration intelligence directly from chat sessions.

@@ -8,13 +8,13 @@ source_url: https://github.com/Fupete/design-system-italia-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-04T10:25:15Z"
+pushed_at: "2026-10-06T02:30:54Z"
 ---
 ## What it is
 An unofficial MCP server that gives AI assistants structured access to Italy's Design System .italia, including components, design tokens, usage guidelines, and GitHub issues, updated nightly.

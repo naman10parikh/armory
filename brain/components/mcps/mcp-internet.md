@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-16T15:07:55Z"
+pushed_at: "2026-10-06T15:29:02Z"
 ---
 ## What it is
 Enables local LLMs to search the web, scrape pages, and extract structured data (tables, metadata) from sources like Wikipedia and IMDb, with caching and rate limiting.

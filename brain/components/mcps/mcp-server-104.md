@@ -8,13 +8,13 @@ source_url: https://github.com/a7512cs/104-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-19T14:34:15Z"
+forks: 2
+pushed_at: "2026-10-07T09:22:36Z"
 ---
 ## What it is
 Enables natural-language search and retrieval of Taiwan 104 job bank listings, including job details and company-specific openings, with filters for location, salary, experience, and remote work through an MCP interface.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-28T09:43:46Z"
+pushed_at: "2026-10-08T09:47:44Z"
 ---
 ## What it is
 MCP server `Google Search Console`, catalogued on PulseMCP. Query search analytics, inspect URLs, manage sitemaps, and submit pages for indexing via Google Search Console and Indexing APIs.

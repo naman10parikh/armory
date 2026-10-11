@@ -8,13 +8,13 @@ source_url: https://github.com/majiayu000/remem
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 31
+stars: 33
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-02T10:31:18Z"
+pushed_at: "2026-10-08T15:59:09Z"
 ---
 ## What it is
 Local-first persistent memory for Claude Code and OpenAI Codex CLI. A single Rust binary captures, distills, searches, and injects project memory across sessions via hooks, MCP, CLI, and localhost REST.

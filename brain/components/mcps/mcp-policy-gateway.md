@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T13:33:14Z"
+pushed_at: "2026-10-07T14:18:19Z"
 ---
 ## What it is
 An authorizing reverse proxy for MCP servers that enforces per-call policy rules on tool arguments with audit logging, dry-run, and rate limiting.

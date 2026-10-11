@@ -8,11 +8,11 @@ source_url: https://github.com/aplaceforallmystuff/mcp-arr
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 222
+stars: 224
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 40
+forks: 41
 pushed_at: "2026-09-28T23:29:12Z"
 ---
 ## What it is

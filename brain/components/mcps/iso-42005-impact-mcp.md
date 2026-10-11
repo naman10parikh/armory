@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-16T05:44:49Z"
+pushed_at: "2026-10-08T02:27:25Z"
 ---
 ## What it is
 Enables AI impact assessments according to ISO/IEC 42005:2025, with built-in EU AI Act compliance and support for phases, categories, and assessment operations.

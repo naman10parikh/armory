@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T16:36:26Z"
+pushed_at: "2026-10-07T12:23:49Z"
 ---
 ## What it is
 Enables search and management of Azure DevOps work items and wiki pages via MCP, wrapping the ado-search CLI.

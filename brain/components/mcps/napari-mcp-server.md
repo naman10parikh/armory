@@ -8,12 +8,12 @@ source_url: https://github.com/royerlab/napari-mcp
 license: BSD 3-Clause
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 42
+stars: 45
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 7
 pushed_at: "2026-03-25T18:05:52Z"
 ---
 ## What it is

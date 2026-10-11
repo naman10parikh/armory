@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-29T11:56:49Z"
+pushed_at: "2026-10-10T20:03:09Z"
 ---
 ## What it is
 MCP server for Buy Me A Pie that allows managing shopping lists and items through natural language.

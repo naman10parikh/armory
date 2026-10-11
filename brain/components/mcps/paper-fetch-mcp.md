@@ -8,13 +8,13 @@ source_url: https://github.com/Dictation354/paper-fetch-skill
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 248
+stars: 249
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 28
-pushed_at: "2026-09-27T12:35:13Z"
+forks: 29
+pushed_at: "2026-10-09T12:09:07Z"
 ---
 ## What it is
 MCP server that turns DOI, URL, or paper titles into structured Markdown full-text with metadata and assets, enabling AI agents to read beyond abstracts.

@@ -8,11 +8,11 @@ source_url: https://github.com/mindsdb/mindshub
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39778
+stars: 39787
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6243
+forks: 6240
 pushed_at: "2026-09-16T21:37:33Z"
 ---
 ## What it is

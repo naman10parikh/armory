@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-09-29T13:56:06Z"
+pushed_at: "2026-10-05T06:59:33Z"
 ---
 ## What it is
 MCP server `SAM.gov`, catalogued on PulseMCP. Provides AI agents access to U.S. federal contracting and spending data from SAM.gov, USAspending, Federal Register, eCFR, and Grants.gov.

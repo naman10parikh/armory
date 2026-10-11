@@ -8,13 +8,13 @@ source_url: https://github.com/WenyuChiou/research-hub
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 59
+stars: 64
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
-pushed_at: "2026-10-03T18:28:47Z"
+forks: 13
+pushed_at: "2026-10-10T04:49:04Z"
 ---
 ## What it is
 AI-operable research workspace integrating Zotero, Obsidian, and NotebookLM. Search papers (arXiv/Semantic Scholar/PubMed/CrossRef), ingest into Zotero, sync per-paper notes to Obsidian, verify NotebookLM briefs. All three external tools optional.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-09-30T04:48:42Z"
+forks: 5
+pushed_at: "2026-10-06T22:34:35Z"
 ---
 ## What it is
 Provides coding agents with searchable codebase context through an MCP server, enabling hybrid BM25 and semantic search, symbol graph navigation, and dependency mapping over an incrementally maintained repository index.

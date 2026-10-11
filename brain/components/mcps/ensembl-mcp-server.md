@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T03:00:31Z"
+pushed_at: "2026-10-08T12:25:39Z"
 ---
 ## What it is
 Enables looking up genes, fetching sequences, predicting variant consequences, finding orthologs, and cross-database xrefs via Ensembl REST API through MCP.

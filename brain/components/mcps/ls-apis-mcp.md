@@ -8,13 +8,13 @@ source_url: https://github.com/koalyptus/ls-apis
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T08:34:36Z"
+pushed_at: "2026-10-09T03:38:54Z"
 ---
 ## What it is
 MCP server for searching and discovering 4,000+ public APIs

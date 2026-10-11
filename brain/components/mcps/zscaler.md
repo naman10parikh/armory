@@ -12,8 +12,8 @@ stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 32
-pushed_at: "2026-09-21T06:17:37Z"
+forks: 33
+pushed_at: "2026-10-05T06:22:19Z"
 ---
 ## What it is
 MCP server `Zscaler Zero Trust Exchange`, catalogued on PulseMCP. Manage Zscaler Zero Trust Exchange via 280+ tools across ZPA, ZIA, ZDX, ZCC, EASM, and more.

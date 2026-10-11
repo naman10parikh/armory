@@ -8,12 +8,12 @@ source_url: https://github.com/NeonGlay/inventor-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 30
+stars: 33
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
+forks: 12
 pushed_at: "2026-06-10T17:11:56Z"
 ---
 ## What it is

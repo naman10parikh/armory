@@ -13,9 +13,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [skill]
-stars: 25387
-forks: 2070
-pushed_at: "2026-10-02T09:55:48Z"
+stars: 25457
+forks: 2072
+pushed_at: "2026-10-10T16:58:30Z"
 ---
 ## What it is
 A community agent skill by EveryInc, catalogued in awesome-claude-code. A very pragmatic set of well-designed agents, skills, and commands, built around a discipline of turning past mistakes and errors into lessons and opportunities for future growth and improvement. Good documentation.

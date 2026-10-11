@@ -8,13 +8,13 @@ source_url: https://github.com/tpeppers/m59-harness
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-04T13:03:52Z"
+pushed_at: "2026-10-10T08:40:44Z"
 ---
 ## What it is
 MCP server that lets AI agents play Meridian 59 as real characters, with tools for movement, combat, trading, chatting, and fleet management.

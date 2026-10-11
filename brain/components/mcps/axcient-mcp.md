@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T15:17:56Z"
+pushed_at: "2026-10-05T18:30:53Z"
 ---
 ## What it is
 MCP server for Axcient x360Recover enabling management of BCDR clients, devices, backup jobs, vaults, and appliances via natural language.

@@ -8,13 +8,13 @@ source_url: https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-searc
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 396
+stars: 398
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 32
-pushed_at: "2026-10-01T20:24:09Z"
+forks: 33
+pushed_at: "2026-10-10T08:23:56Z"
 ---
 ## What it is
 Provides web search and content retrieval optimized for AI coding assistants, returning full conversations and structured content from StackOverflow, GitHub Issues, arXiv, and Wikipedia in a single call.

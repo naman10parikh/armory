@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-09-28T11:15:04Z"
+pushed_at: "2026-10-05T11:12:47Z"
 ---
 ## What it is
 MCP server `Screenshot Server`, catalogued on PulseMCP. Captures web page screenshots using TypeScript and Puppeteer, enabling automated visual content processing for web testing, archiving, and data collection.

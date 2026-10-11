@@ -8,13 +8,13 @@ source_url: https://github.com/coval-ai/mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T14:04:28Z"
+pushed_at: "2026-10-09T18:39:00Z"
 ---
 ## What it is
 Enables AI assistants to interact with Coval's evaluation platform for launching and monitoring evaluation runs, managing agents and test sets, and retrieving evaluation metrics.

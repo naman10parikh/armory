@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-07T13:32:54Z"
+pushed_at: "2026-10-05T15:58:04Z"
 ---
 ## What it is
 MCP server for auditing DeepSeek Harness evidence. Enables inspection and verification of content-addressed audit manifests with fail-closed validation.

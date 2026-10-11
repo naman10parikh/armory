@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-05-24T05:17:37Z"
+pushed_at: "2026-10-10T21:25:30Z"
 ---
 ## What it is
 MCP server `Pronunciation Coach`, catalogued on PulseMCP. MCP server for real-time English pronunciation and fluency coaching with phoneme-level analysis and local audio processing.

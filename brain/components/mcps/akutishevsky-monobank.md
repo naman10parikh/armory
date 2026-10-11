@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-02T08:16:20Z"
+pushed_at: "2026-10-06T05:44:32Z"
 ---
 ## What it is
 MCP server `Monobank`, catalogued on PulseMCP. Access Monobank API for currency rates, client info, and account statements.

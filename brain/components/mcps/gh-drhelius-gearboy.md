@@ -8,12 +8,12 @@ source_url: https://github.com/drhelius/gearboy
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1213
+stars: 1214
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 167
-pushed_at: "2026-10-04T11:38:34Z"
+pushed_at: "2026-10-10T21:40:37Z"
 ---
 ## What it is
 MCP server `Gearboy`, catalogued on PulseMCP. Game Boy and Game Boy Color emulator with embedded MCP server for AI-assisted debugging and development.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
 forks: 10
-pushed_at: "2026-09-28T09:40:47Z"
+pushed_at: "2026-10-06T11:13:54Z"
 ---
 ## What it is
 Lotus Wisdom is a contemplative reasoning tool inspired by the Lotus Sutra. It guides AI through structured wisdom journeys for complex problems where logic alone isn't enough. Flow through wisdom domains (skillful means, non-dual recognition, meta-cognitive), take meditative pauses, and track your 

@@ -8,13 +8,13 @@ source_url: https://github.com/aoreshkov/oracle-forms-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-28T05:50:23Z"
+pushed_at: "2026-10-10T20:50:04Z"
 ---
 ## What it is
 Enables AI assistants to inspect and query Oracle Forms modules (blocks, triggers, program units, etc.) without Forms Builder, supporting reverse engineering, code review, and modernization.

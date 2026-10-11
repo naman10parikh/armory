@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-12T02:15:33Z"
+pushed_at: "2026-10-07T07:46:59Z"
 ---
 ## What it is
 First-party MCP server and CLI for Xcode and iOS Simulator automation. Enables control of Xcode and iOS Simulator via MCP tools for tasks like building, testing, and automation.

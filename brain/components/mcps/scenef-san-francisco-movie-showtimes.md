@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T00:07:30Z"
+pushed_at: "2026-10-10T18:40:28Z"
 ---
 ## What it is
 Every movie showtime in San Francisco — repertory houses, single-screen neighborhood theaters, 35mm/70mm prints, and the chains — verified against each theater's own box office, with a published accuracy record. Nine read-only tools; hosted endpoint at https://scenef.com/mcp (no key), with a bundled

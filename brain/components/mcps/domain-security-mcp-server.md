@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-14T03:40:40Z"
+pushed_at: "2026-10-07T01:50:49Z"
 ---
 ## What it is
 Enables AI agents to audit email and domain security (SPF, DKIM, DMARC, etc.) for any domain without requiring API keys.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-29T10:36:12Z"
+pushed_at: "2026-10-10T18:17:50Z"
 ---
 ## What it is
 A semantic map of your .NET solution for AI coding agents. Analyzes a solution with Roslyn into a queryable code graph exposing 11 read-only tools (find_symbol, impact_analysis, find_implementations, etc.) over MCP. 100% local, no telemetry, MIT licensed.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-02T17:56:34Z"
+pushed_at: "2026-10-09T12:46:25Z"
 ---
 ## What it is
 MCP server `ConfigCat`, catalogued on PulseMCP. Feature flag and configuration management with CRUD operations, rollouts, A/B tests, and SDK documentation

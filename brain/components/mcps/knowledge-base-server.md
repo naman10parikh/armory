@@ -8,13 +8,13 @@ source_url: https://github.com/willynikes2/knowledge-base-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 179
+stars: 183
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 39
-pushed_at: "2026-04-04T01:21:48Z"
+pushed_at: "2026-10-05T00:46:18Z"
 ---
 ## What it is
 A persistent memory system that captures, classifies, synthesizes, and retrieves knowledge for AI agents, turning raw information into refined, retrievable knowledge that compounds intelligence over time.

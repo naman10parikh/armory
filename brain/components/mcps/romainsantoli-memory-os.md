@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-03-03T20:11:07Z"
+pushed_at: "2026-10-09T11:37:12Z"
 ---
 ## What it is
 MCP server `Memory OS`, catalogued on PulseMCP. Adaptive memory system with FAISS search, chat extraction, and cross-project linking.

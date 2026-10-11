@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-12T07:47:47Z"
+pushed_at: "2026-10-06T22:47:09Z"
 ---
 ## What it is
 A local MCP server that connects AI coding agents like Claude, Codex, and Gemini, enabling task routing, cross-model debates, and token-efficient context sharing without external APIs.

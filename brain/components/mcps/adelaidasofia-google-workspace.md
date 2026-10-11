@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-02T14:38:09Z"
+pushed_at: "2026-10-06T16:18:37Z"
 ---
 ## What it is
 MCP server `Google Workspace (adelaidasofia)`, catalogued on PulseMCP. Personal Google Workspace integration — Gmail, Calendar, Drive, Docs, and Sheets via mcpb.

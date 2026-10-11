@@ -8,12 +8,12 @@ source_url: https://github.com/bytebot-ai/bytebot
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 11081
+stars: 11076
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, computer-use]
-forks: 1513
+forks: 1512
 pushed_at: "2025-09-12T19:35:46Z"
 ---
 ## What it is

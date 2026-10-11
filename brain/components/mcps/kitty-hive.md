@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T07:09:11Z"
+pushed_at: "2026-10-09T03:21:41Z"
 ---
 ## What it is
 MCP server for multi-agent collaboration enabling AI agents to communicate, delegate tasks, and share artifacts across clients and machines with federation support.

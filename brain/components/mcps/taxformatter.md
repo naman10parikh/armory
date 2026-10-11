@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-04T02:10:06Z"
+pushed_at: "2026-10-10T20:46:13Z"
 ---
 ## What it is
 MCP server `Tax Formatter`, catalogued on PulseMCP. Parse crypto CSVs and bank PDFs into clean transaction data for Koinly, TurboTax, and CoinLedger.
