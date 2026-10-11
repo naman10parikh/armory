@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 13
-pushed_at: "2026-10-10T04:49:04Z"
+pushed_at: "2026-10-11T01:28:35Z"
 ---
 ## What it is
 AI-operable research workspace integrating Zotero, Obsidian, and NotebookLM. Search papers (arXiv/Semantic Scholar/PubMed/CrossRef), ingest into Zotero, sync per-paper notes to Obsidian, verify NotebookLM briefs. All three external tools optional.

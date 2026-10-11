@@ -15,7 +15,7 @@ verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 5792
-pushed_at: "2026-10-11T00:27:56Z"
+pushed_at: "2026-10-11T01:38:47Z"
 ---
 ## What it is
 Open source agentic operating system

@@ -8,7 +8,7 @@ source_url: https://github.com/VoltAgent/awesome-claude-design
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 4030
+stars: 4031
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10

@@ -10,7 +10,7 @@ cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
 stars: 13888
 eval_score: 1
-verified_at: 2026-05-28
+verified_at: 2026-10-10
 related: []
 tags: [browser, playwright]
 forks: 767
