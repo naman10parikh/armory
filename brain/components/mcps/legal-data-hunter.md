@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 77
-pushed_at: "2026-10-11T12:55:43Z"
+pushed_at: "2026-10-11T18:59:05Z"
 ---
 ## What it is
 MCP server `Legal Data Hunter`, catalogued on PulseMCP. Searches 18M+ legal documents worldwide including case law, legislation, and doctrine across 110+ countries.

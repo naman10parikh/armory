@@ -14,6 +14,7 @@ tags: [mcp, knowledge-memory]
 stars: 46193
 forks: 5941
 pushed_at: "2026-10-06T14:00:13Z"
+mentions: 1
 ---
 ## What it is
 Hindsight: Agent Memory That Works Like Human Memory - Built for AI Agents to manage Long Term Memory

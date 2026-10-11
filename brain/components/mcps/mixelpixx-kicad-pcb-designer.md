@@ -8,7 +8,7 @@ source_url: https://github.com/mixelpixx/kicad-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2648
+stars: 2654
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

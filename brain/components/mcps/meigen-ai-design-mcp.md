@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-11T11:15:27Z"
+pushed_at: "2026-10-11T17:44:05Z"
 ---
 ## What it is
 A local MCP server for AI image generation using ComfyUI, Claude Code, and OpenClaw, with a built-in library of over 1,300 prompts for private, fast image creation.

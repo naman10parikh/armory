@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-10-08T16:10:06Z"
+pushed_at: "2026-10-11T15:57:28Z"
 ---
 ## What it is
 MCP server that lets agents edit real Microsoft Word (.docx) documents - tracked changes, tables, styles, comments, content controls, and document properties - with every edit validated and previewed before saving. Built on the Open XML SDK (no Word automation); reads and writes documents in place t

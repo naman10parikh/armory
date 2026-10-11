@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-11T12:22:57Z"
+pushed_at: "2026-10-11T15:12:43Z"
 ---
 ## What it is
 MCP server `Lokal`, catalogued on PulseMCP. Find local food producers in Norway — search 1000+ farms and shops by location.

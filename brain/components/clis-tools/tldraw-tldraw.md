@@ -8,13 +8,13 @@ source_url: https://github.com/tldraw/tldraw
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 50839
+stars: 50843
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3560
+forks: 3561
 pushed_at: "2026-10-10T13:36:57Z"
 ---
 ## What it is

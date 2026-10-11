@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 13
-pushed_at: "2026-10-10T13:26:29Z"
+pushed_at: "2026-10-11T14:01:01Z"
 ---
 ## What it is
 Enables AI agents to create, manage, and download 3D models, textures, images, rigged characters, and animations through natural conversation.

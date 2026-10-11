@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T04:58:04Z"
+pushed_at: "2026-10-11T19:27:41Z"
 ---
 ## What it is
 Enables extraction of structured data from messy text with multi-model verification and human-in-the-loop review, surfacing only high-confidence results or flagging uncertain fields for confirmation.

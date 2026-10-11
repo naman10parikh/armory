@@ -8,13 +8,13 @@ source_url: https://github.com/xai-org/x-algorithm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 33569
+stars: 33572
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 5438
+forks: 5439
 pushed_at: "2026-10-09T05:42:58Z"
 ---
 ## What it is

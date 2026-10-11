@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-11T13:50:33Z"
+pushed_at: "2026-10-11T16:23:23Z"
 ---
 ## What it is
 MCP server `Murphy's Laws`, catalogued on PulseMCP. Murphy's Laws database with search, random retrieval, categories, and community submissions via murphys-laws.com.

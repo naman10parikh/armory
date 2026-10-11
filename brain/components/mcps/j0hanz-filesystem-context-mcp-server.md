@@ -13,7 +13,7 @@ related: []
 tags: [mcp, file-systems]
 stars: 24
 forks: 6
-pushed_at: "2026-10-11T13:47:36Z"
+pushed_at: "2026-10-11T17:04:14Z"
 ---
 ## What it is
 Read-only MCP server for secure filesystem exploration, searching, and analysis with symlink protection.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T17:22:49Z"
+pushed_at: "2026-10-11T17:42:55Z"
 ---
 ## What it is
 Exposes a public, read-only professional profile with tools to search resume evidence, fetch curated links, and generate career briefs for LLM agents.

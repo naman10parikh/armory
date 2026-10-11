@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-09T20:37:15Z"
+pushed_at: "2026-10-11T18:42:01Z"
 ---
 ## What it is
 MCP server `Assay`, catalogued on PulseMCP. Firewall for tool calls with policy enforcement, audit trails, and replayable evidence bundles.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T04:33:32Z"
+pushed_at: "2026-10-11T18:20:03Z"
 ---
 ## What it is
 A pure-Python MCP server providing local byte-wrangling utilities including encoding, hashing, number conversion, and Ethereum primitives, with no network calls required.
