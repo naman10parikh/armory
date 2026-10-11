@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-10T20:50:04Z"
+pushed_at: "2026-10-11T20:28:16Z"
 ---
 ## What it is
 Enables AI assistants to inspect and query Oracle Forms modules (blocks, triggers, program units, etc.) without Forms Builder, supporting reverse engineering, code review, and modernization.

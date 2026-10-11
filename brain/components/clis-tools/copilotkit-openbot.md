@@ -8,14 +8,14 @@ source_url: https://github.com/CopilotKit/OpenBot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 6344
+stars: 6351
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 866
-pushed_at: "2026-10-09T23:02:39Z"
+forks: 868
+pushed_at: "2026-10-11T23:12:24Z"
 ---
 ## What it is
 Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.

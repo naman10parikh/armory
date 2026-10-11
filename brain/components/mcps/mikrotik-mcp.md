@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 67
-pushed_at: "2026-10-11T19:33:49Z"
+pushed_at: "2026-10-11T20:23:00Z"
 ---
 ## What it is
 Provides a bridge between AI assistants and MikroTik RouterOS devices, enabling natural language management of VLANs, firewall rules, DNS settings, and more.

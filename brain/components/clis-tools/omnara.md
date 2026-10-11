@@ -14,7 +14,7 @@ tags: [claude-code, alternative-clients]
 stars: 2906
 mentions: 4
 forks: 235
-pushed_at: "2026-10-10T04:14:08Z"
+pushed_at: "2026-10-11T23:01:19Z"
 ---
 ## What it is
 A command center for AI agents that syncs Claude Code sessions across terminal, web, and mobile. Allows for remote monitoring, human-in-the-loop interaction, and team collaboration.

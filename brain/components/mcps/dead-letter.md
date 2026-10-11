@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T17:42:49Z"
+pushed_at: "2026-10-11T20:34:28Z"
 ---
 ## What it is
 MCP server that converts .eml email exports (Gmail, Outlook, and other archives) into clean Markdown with YAML front matter — splitting reply threads, stripping signatures and quoted history, extracting attachments, and parsing calendar invites. Built for feeding archived email into RAG and LLM pipe

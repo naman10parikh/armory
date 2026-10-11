@@ -15,7 +15,7 @@ verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 1284
-pushed_at: "2026-10-11T14:13:11Z"
+pushed_at: "2026-10-11T21:31:23Z"
 ---
 ## What it is
 Kimi Code CLI  —  The Starting Point for Next-Gen Agents

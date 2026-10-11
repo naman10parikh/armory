@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-11T17:52:22Z"
+pushed_at: "2026-10-11T23:03:26Z"
 ---
 ## What it is
 MCP server that lets AI agents play Meridian 59 as real characters, with tools for movement, combat, trading, chatting, and fleet management.

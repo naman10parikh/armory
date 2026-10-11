@@ -15,7 +15,7 @@ verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 12
-pushed_at: "2026-10-08T21:11:41Z"
+pushed_at: "2026-10-11T22:42:31Z"
 ---
 ## What it is
 Email for AI agents, hosted on Cloudflare. Inboxes with an HTTP API, MCP server, SDKs, and a dashboard.

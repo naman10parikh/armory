@@ -13,7 +13,7 @@ related: [cc-notify, claude-hooks]
 tags: [claude-code, hooks]
 stars: 115
 forks: 10
-pushed_at: "2026-10-10T22:19:09Z"
+pushed_at: "2026-10-11T22:11:22Z"
 ---
 ## What it is
 A small library that plays OS-native sounds for Claude Code events through hooks.

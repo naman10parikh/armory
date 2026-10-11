@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-11T19:37:04.254Z",
+  "generated_at": "2026-10-11T23:17:46.562Z",
   "counts": {
-    "total": 62326,
+    "total": 62338,
     "by_type": {
-      "mcps": 58404,
-      "skills": 1141,
+      "mcps": 58405,
+      "skills": 1142,
       "hooks": 134,
       "subagents": 726,
       "identity": 37,
       "memory": 44,
       "claudemd-rules": 461,
-      "clis-tools": 502,
-      "evals": 69,
+      "clis-tools": 511,
+      "evals": 70,
       "observability": 36,
       "infrastructure": 53,
       "workflows": 719
@@ -5251,10 +5251,10 @@
         "opencode"
       ],
       "maturity": "stable",
-      "stars": 218804,
+      "stars": 218868,
       "eval_score": null,
       "mentions": null,
-      "forks": 22042,
+      "forks": 22049,
       "pushed_at": "2026-04-20T10:05:04Z",
       "verified_at": "2026-05-26",
       "related": [
@@ -13551,7 +13551,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 5,
+      "stars": 6,
       "eval_score": 1,
       "mentions": 1,
       "forks": 0,
@@ -13607,7 +13607,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 1272,
+      "stars": 1273,
       "eval_score": 1,
       "mentions": 1,
       "forks": 280,
@@ -13635,7 +13635,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 16454,
+      "stars": 16456,
       "eval_score": null,
       "mentions": 6,
       "forks": 1499,
@@ -14319,7 +14319,7 @@
       "maturity": "experimental",
       "stars": 150074,
       "eval_score": null,
-      "mentions": 532,
+      "mentions": 545,
       "forks": 26101,
       "pushed_at": "2026-10-10T22:23:41Z",
       "verified_at": "2026-10-11",
@@ -14466,6 +14466,34 @@
       "path": "components/clis-tools/armory.md"
     },
     {
+      "name": "artessay-tc-rag",
+      "type": "clis-tools",
+      "description": "[ACL Oral 2025] The official GitHub repository for TC-RAG (Turing-Complete RAG)",
+      "source_repo": "Artessay/TC-RAG",
+      "source_url": "https://github.com/Artessay/TC-RAG",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "codex",
+        "cursor",
+        "gemini",
+        "opencode"
+      ],
+      "maturity": "experimental",
+      "stars": 74,
+      "eval_score": null,
+      "mentions": 1,
+      "forks": 8,
+      "pushed_at": "2025-02-27T11:23:38Z",
+      "verified_at": "2026-10-11",
+      "related": [],
+      "tags": [
+        "sentinel-feed",
+        "clis-tools"
+      ],
+      "path": "components/clis-tools/artessay-tc-rag.md"
+    },
+    {
       "name": "artidoro-qlora",
       "type": "clis-tools",
       "description": "QLoRA: Efficient Finetuning of Quantized LLMs",
@@ -14564,11 +14592,11 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 50000,
+      "stars": 50005,
       "eval_score": null,
       "mentions": 1,
-      "forks": 2497,
-      "pushed_at": "2026-10-11T15:36:12Z",
+      "forks": 2495,
+      "pushed_at": "2026-10-11T22:51:33Z",
       "verified_at": "2026-10-10",
       "related": [],
       "tags": [
@@ -15147,7 +15175,7 @@
       "eval_score": null,
       "mentions": 1,
       "forks": 12,
-      "pushed_at": "2026-10-08T21:11:41Z",
+      "pushed_at": "2026-10-11T22:42:31Z",
       "verified_at": "2026-10-10",
       "related": [],
       "tags": [
@@ -15227,10 +15255,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 28617,
+      "stars": 28627,
       "eval_score": null,
       "mentions": 1,
-      "forks": 3369,
+      "forks": 3370,
       "pushed_at": "2026-10-08T22:17:01Z",
       "verified_at": "2026-10-11",
       "related": [],
@@ -15637,10 +15665,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 44325,
+      "stars": 44331,
       "eval_score": null,
       "mentions": 1,
-      "forks": 8871,
+      "forks": 8872,
       "pushed_at": "2026-10-11T16:06:27Z",
       "verified_at": "2026-10-10",
       "related": [],
@@ -15668,7 +15696,7 @@
       "stars": 28597,
       "eval_score": null,
       "mentions": 1,
-      "forks": 2326,
+      "forks": 2327,
       "pushed_at": "2026-10-11T17:12:31Z",
       "verified_at": "2026-10-10",
       "related": [],
@@ -16594,10 +16622,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 8250,
+      "stars": 8251,
       "eval_score": null,
       "mentions": 2,
-      "forks": 1063,
+      "forks": 1064,
       "pushed_at": "2026-04-23T21:04:17Z",
       "verified_at": "2026-10-10",
       "related": [],
@@ -17024,11 +17052,11 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 6344,
+      "stars": 6351,
       "eval_score": null,
       "mentions": 1,
-      "forks": 866,
-      "pushed_at": "2026-10-09T23:02:39Z",
+      "forks": 868,
+      "pushed_at": "2026-10-11T23:12:24Z",
       "verified_at": "2026-10-11",
       "related": [],
       "tags": [
@@ -17470,11 +17498,11 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 48920,
+      "stars": 48931,
       "eval_score": null,
       "mentions": 1,
       "forks": 2398,
-      "pushed_at": "2026-10-11T16:10:14Z",
+      "pushed_at": "2026-10-11T20:11:39Z",
       "verified_at": "2026-10-11",
       "related": [],
       "tags": [
@@ -17886,7 +17914,7 @@
       "eval_score": null,
       "mentions": 3,
       "forks": 5796,
-      "pushed_at": "2026-10-11T19:26:27Z",
+      "pushed_at": "2026-10-11T22:47:57Z",
       "verified_at": "2026-10-11",
       "related": [],
       "tags": [
@@ -18134,10 +18162,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 172609,
+      "stars": 172632,
       "eval_score": null,
       "mentions": 2,
-      "forks": 22141,
+      "forks": 22143,
       "pushed_at": "2026-10-11T03:22:49Z",
       "verified_at": "2026-10-10",
       "related": [],
@@ -18958,7 +18986,7 @@
       "maturity": "experimental",
       "stars": 125299,
       "eval_score": null,
-      "mentions": 7,
+      "mentions": 8,
       "forks": 12097,
       "pushed_at": "2026-10-10T21:32:30Z",
       "verified_at": "2026-09-02",
@@ -19739,7 +19767,7 @@
       "maturity": "experimental",
       "stars": 167256,
       "eval_score": 1,
-      "mentions": 2,
+      "mentions": 3,
       "forks": 34797,
       "pushed_at": "2026-10-11T00:17:45Z",
       "verified_at": "2026-10-11",
@@ -19765,7 +19793,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 50042,
+      "stars": 50043,
       "eval_score": null,
       "mentions": 1,
       "forks": 4305,
@@ -19852,7 +19880,7 @@
       "eval_score": null,
       "mentions": 1,
       "forks": 1265,
-      "pushed_at": "2026-10-11T07:12:49Z",
+      "pushed_at": "2026-10-11T20:21:55Z",
       "verified_at": "2026-10-10",
       "related": [],
       "tags": [
@@ -19904,7 +19932,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 6938,
+      "stars": 6939,
       "eval_score": null,
       "mentions": 1,
       "forks": 249,
@@ -19974,6 +20002,34 @@
       "path": "components/clis-tools/inovector-mixpost.md"
     },
     {
+      "name": "insforge-insforge",
+      "type": "clis-tools",
+      "description": "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.",
+      "source_repo": "InsForge/InsForge",
+      "source_url": "https://github.com/InsForge/InsForge",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "codex",
+        "cursor",
+        "gemini",
+        "opencode"
+      ],
+      "maturity": "experimental",
+      "stars": 13096,
+      "eval_score": null,
+      "mentions": 1,
+      "forks": 1219,
+      "pushed_at": "2026-10-11T18:18:38Z",
+      "verified_at": "2026-10-11",
+      "related": [],
+      "tags": [
+        "sentinel-feed",
+        "clis-tools"
+      ],
+      "path": "components/clis-tools/insforge-insforge.md"
+    },
+    {
       "name": "internscience-researchclawbench",
       "type": "clis-tools",
       "description": "🦞 ResearchClawBench: Evaluating AI Agents for Automated Research from Re-Discovery to New-Discovery",
@@ -20030,6 +20086,34 @@
       "path": "components/clis-tools/ippl-framework-ippl.md"
     },
     {
+      "name": "jakeschincariol-arena-skill",
+      "type": "clis-tools",
+      "description": "When Claude keeps giving you bad answers, make 100 versions of it fight to the death. Same task, 100 different strategies, a bracket, one answer left. Free Claude Code skill.",
+      "source_repo": "Jakeschincariol/arena-skill",
+      "source_url": "https://github.com/Jakeschincariol/arena-skill",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "codex",
+        "cursor",
+        "gemini",
+        "opencode"
+      ],
+      "maturity": "experimental",
+      "stars": 445,
+      "eval_score": null,
+      "mentions": 1,
+      "forks": 69,
+      "pushed_at": "2026-09-27T13:20:07Z",
+      "verified_at": "2026-10-11",
+      "related": [],
+      "tags": [
+        "sentinel-feed",
+        "clis-tools"
+      ],
+      "path": "components/clis-tools/jakeschincariol-arena-skill.md"
+    },
+    {
       "name": "jamiepine-voicebox",
       "type": "clis-tools",
       "description": "The open-source AI voice studio. Clone, dictate, create.",
@@ -20056,6 +20140,34 @@
         "clis-tools"
       ],
       "path": "components/clis-tools/jamiepine-voicebox.md"
+    },
+    {
+      "name": "jarrodwatts-jev-trader",
+      "type": "clis-tools",
+      "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+      "source_repo": "jarrodwatts/jev-trader",
+      "source_url": "https://github.com/jarrodwatts/jev-trader",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "codex",
+        "cursor",
+        "gemini",
+        "opencode"
+      ],
+      "maturity": "experimental",
+      "stars": 2948,
+      "eval_score": null,
+      "mentions": 1,
+      "forks": 560,
+      "pushed_at": "2026-09-17T02:48:22Z",
+      "verified_at": "2026-10-11",
+      "related": [],
+      "tags": [
+        "sentinel-feed",
+        "clis-tools"
+      ],
+      "path": "components/clis-tools/jarrodwatts-jev-trader.md"
     },
     {
       "name": "javascript-cli",
@@ -20408,11 +20520,11 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 111033,
+      "stars": 111052,
       "eval_score": null,
       "mentions": 2,
-      "forks": 6428,
-      "pushed_at": "2026-10-11T07:51:15Z",
+      "forks": 6431,
+      "pushed_at": "2026-10-11T20:41:27Z",
       "verified_at": "2026-10-10",
       "related": [],
       "tags": [
@@ -20436,11 +20548,11 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 41202,
+      "stars": 41242,
       "eval_score": null,
       "mentions": 1,
-      "forks": 4535,
-      "pushed_at": "2026-10-11T12:09:29Z",
+      "forks": 4544,
+      "pushed_at": "2026-10-11T20:56:34Z",
       "verified_at": "2026-10-10",
       "related": [],
       "tags": [
@@ -20839,6 +20951,34 @@
         "clis-tools"
       ],
       "path": "components/clis-tools/langchain-ai-langsmith-cli.md"
+    },
+    {
+      "name": "langchain-ai-langsmith-docs",
+      "type": "clis-tools",
+      "description": "This repo is deprecated. Please go to langchain-ai/docs.",
+      "source_repo": "langchain-ai/langsmith-docs",
+      "source_url": "https://github.com/langchain-ai/langsmith-docs",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "codex",
+        "cursor",
+        "gemini",
+        "opencode"
+      ],
+      "maturity": "experimental",
+      "stars": 175,
+      "eval_score": null,
+      "mentions": 1,
+      "forks": 73,
+      "pushed_at": "2026-06-28T05:25:27Z",
+      "verified_at": "2026-10-11",
+      "related": [],
+      "tags": [
+        "sentinel-feed",
+        "clis-tools"
+      ],
+      "path": "components/clis-tools/langchain-ai-langsmith-docs.md"
     },
     {
       "name": "langchain-ai-openwiki",
@@ -21273,11 +21413,11 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 4795,
+      "stars": 4827,
       "eval_score": null,
       "mentions": 1,
-      "forks": 803,
-      "pushed_at": "2026-10-11T19:27:47Z",
+      "forks": 807,
+      "pushed_at": "2026-10-11T23:12:48Z",
       "verified_at": "2026-10-11",
       "related": [],
       "tags": [
@@ -21285,6 +21425,34 @@
         "clis-tools"
       ],
       "path": "components/clis-tools/louis-cfm-coucou.md"
+    },
+    {
+      "name": "lyogavin-airllm",
+      "type": "clis-tools",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "source_repo": "lyogavin/airllm",
+      "source_url": "https://github.com/lyogavin/airllm",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "codex",
+        "cursor",
+        "gemini",
+        "opencode"
+      ],
+      "maturity": "experimental",
+      "stars": 36437,
+      "eval_score": null,
+      "mentions": 1,
+      "forks": 3816,
+      "pushed_at": "2026-10-11T06:19:49Z",
+      "verified_at": "2026-10-11",
+      "related": [],
+      "tags": [
+        "sentinel-feed",
+        "clis-tools"
+      ],
+      "path": "components/clis-tools/lyogavin-airllm.md"
     },
     {
       "name": "machinepulse-ai-world2agent",
@@ -21700,6 +21868,34 @@
       "path": "components/clis-tools/microsoft-playwright-2.md"
     },
     {
+      "name": "microsoft-semantic-kernel",
+      "type": "clis-tools",
+      "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+      "source_repo": "microsoft/semantic-kernel",
+      "source_url": "https://github.com/microsoft/semantic-kernel",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "codex",
+        "cursor",
+        "gemini",
+        "opencode"
+      ],
+      "maturity": "experimental",
+      "stars": 28651,
+      "eval_score": null,
+      "mentions": 1,
+      "forks": 4819,
+      "pushed_at": "2026-10-09T18:14:43Z",
+      "verified_at": "2026-10-11",
+      "related": [],
+      "tags": [
+        "sentinel-feed",
+        "clis-tools"
+      ],
+      "path": "components/clis-tools/microsoft-semantic-kernel.md"
+    },
+    {
       "name": "microsoft-skillopt",
       "type": "clis-tools",
       "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
@@ -21941,7 +22137,7 @@
       "eval_score": null,
       "mentions": 1,
       "forks": 1284,
-      "pushed_at": "2026-10-11T14:13:11Z",
+      "pushed_at": "2026-10-11T21:31:23Z",
       "verified_at": "2026-10-11",
       "related": [],
       "tags": [
@@ -22117,6 +22313,34 @@
         "clis-tools"
       ],
       "path": "components/clis-tools/nangohq-nango.md"
+    },
+    {
+      "name": "nano-muse-nanomuse",
+      "type": "clis-tools",
+      "description": "nanoMuse: an open-source personal agent for every device you own. One agent with a name and a look of its own that does things, keeps working while the app is closed, remembers you, and asks before anything you cannot undo. On Android, iPhone and iPad, Windows / macOS / Linux and in the browser; your phone's screen and your computer as its hands.",
+      "source_repo": "nano-muse/nanoMuse",
+      "source_url": "https://github.com/nano-muse/nanoMuse",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "codex",
+        "cursor",
+        "gemini",
+        "opencode"
+      ],
+      "maturity": "experimental",
+      "stars": 865,
+      "eval_score": null,
+      "mentions": 1,
+      "forks": 92,
+      "pushed_at": "2026-10-11T20:47:33Z",
+      "verified_at": "2026-10-11",
+      "related": [],
+      "tags": [
+        "sentinel-feed",
+        "clis-tools"
+      ],
+      "path": "components/clis-tools/nano-muse-nanomuse.md"
     },
     {
       "name": "nationalsecurityagency-ghidra",
@@ -22386,7 +22610,7 @@
       "maturity": "experimental",
       "stars": 252541,
       "eval_score": null,
-      "mentions": 19,
+      "mentions": 20,
       "forks": 54598,
       "pushed_at": "2026-10-10T23:15:49Z",
       "verified_at": "2026-10-10",
@@ -22692,7 +22916,7 @@
       "eval_score": null,
       "mentions": 4,
       "forks": 235,
-      "pushed_at": "2026-10-10T04:14:08Z",
+      "pushed_at": "2026-10-11T23:01:19Z",
       "verified_at": "2026-05-26",
       "related": [
         "claude-esp",
@@ -23053,11 +23277,11 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 90599,
+      "stars": 90614,
       "eval_score": null,
       "mentions": 5,
-      "forks": 12000,
-      "pushed_at": "2026-10-11T19:29:50Z",
+      "forks": 12001,
+      "pushed_at": "2026-10-11T22:54:13Z",
       "verified_at": "2026-09-02",
       "related": [],
       "tags": [
@@ -23466,7 +23690,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 12181,
+      "stars": 12193,
       "eval_score": null,
       "mentions": 1,
       "forks": 840,
@@ -23747,11 +23971,11 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 21900,
+      "stars": 21912,
       "eval_score": null,
       "mentions": 4,
-      "forks": 2412,
-      "pushed_at": "2026-10-11T11:23:30Z",
+      "forks": 2416,
+      "pushed_at": "2026-10-11T22:58:11Z",
       "verified_at": "2026-09-02",
       "related": [],
       "tags": [
@@ -23774,11 +23998,11 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 2152,
+      "stars": 2153,
       "eval_score": null,
       "mentions": 3,
       "forks": 457,
-      "pushed_at": "2026-10-11T19:22:52Z",
+      "pushed_at": "2026-10-11T22:27:59Z",
       "verified_at": "2026-09-02",
       "related": [],
       "tags": [
@@ -23798,7 +24022,7 @@
       "stars": 4801,
       "eval_score": 1,
       "mentions": null,
-      "forks": 519,
+      "forks": 520,
       "pushed_at": "2026-10-11T16:51:44Z",
       "verified_at": [],
       "related": [],
@@ -23906,10 +24130,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 20551,
+      "stars": 20554,
       "eval_score": null,
       "mentions": 1,
-      "forks": 2902,
+      "forks": 2903,
       "pushed_at": "2026-10-11T05:08:41Z",
       "verified_at": "2026-10-11",
       "related": [],
@@ -24431,7 +24655,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 7775,
+      "stars": 7781,
       "eval_score": null,
       "mentions": 1,
       "forks": 658,
@@ -24847,11 +25071,11 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 187522,
+      "stars": 187526,
       "eval_score": null,
       "mentions": 4,
-      "forks": 45948,
-      "pushed_at": "2026-10-11T19:32:52Z",
+      "forks": 45947,
+      "pushed_at": "2026-10-11T23:12:44Z",
       "verified_at": "2026-09-02",
       "related": [],
       "tags": [
@@ -25075,7 +25299,7 @@
       "maturity": "experimental",
       "stars": 38584,
       "eval_score": null,
-      "mentions": 4,
+      "mentions": 5,
       "forks": 3407,
       "pushed_at": "2026-10-10T16:52:23Z",
       "verified_at": "2026-09-02",
@@ -25243,6 +25467,34 @@
         "cli"
       ],
       "path": "components/clis-tools/superclaude.md"
+    },
+    {
+      "name": "superdesigndev-superdesign",
+      "type": "clis-tools",
+      "description": "AI Product Design Agent - Open Source",
+      "source_repo": "superdesigndev/superdesign",
+      "source_url": "https://github.com/superdesigndev/superdesign",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "codex",
+        "cursor",
+        "gemini",
+        "opencode"
+      ],
+      "maturity": "experimental",
+      "stars": 7090,
+      "eval_score": null,
+      "mentions": 1,
+      "forks": 751,
+      "pushed_at": "2026-06-29T04:55:32Z",
+      "verified_at": "2026-10-11",
+      "related": [],
+      "tags": [
+        "sentinel-feed",
+        "clis-tools"
+      ],
+      "path": "components/clis-tools/superdesigndev-superdesign.md"
     },
     {
       "name": "supermemoryai-company-brain",
@@ -25621,7 +25873,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 50843,
+      "stars": 50847,
       "eval_score": null,
       "mentions": 2,
       "forks": 3561,
@@ -26495,10 +26747,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 4036,
+      "stars": 4039,
       "eval_score": null,
       "mentions": 1,
-      "forks": 449,
+      "forks": 450,
       "pushed_at": "2026-06-20T17:54:18Z",
       "verified_at": "2026-10-10",
       "related": [],
@@ -26659,8 +26911,8 @@
       "stars": 4613,
       "eval_score": 1,
       "mentions": null,
-      "forks": 1579,
-      "pushed_at": "2026-10-11T16:41:19Z",
+      "forks": 1578,
+      "pushed_at": "2026-10-11T21:13:37Z",
       "verified_at": [],
       "related": [],
       "tags": [
@@ -26739,10 +26991,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 33572,
+      "stars": 33574,
       "eval_score": null,
       "mentions": 1,
-      "forks": 5439,
+      "forks": 5440,
       "pushed_at": "2026-10-09T05:42:58Z",
       "verified_at": "2026-10-10",
       "related": [],
@@ -27095,7 +27347,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 3755,
+      "stars": 3756,
       "eval_score": null,
       "mentions": 2,
       "forks": 293,
@@ -27623,10 +27875,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 11339,
+      "stars": 11344,
       "eval_score": null,
       "mentions": 1,
-      "forks": 1162,
+      "forks": 1163,
       "pushed_at": "2026-10-01T21:37:15Z",
       "verified_at": "2026-10-10",
       "related": [],
@@ -27635,6 +27887,34 @@
         "evals"
       ],
       "path": "components/evals/google-artemis.md"
+    },
+    {
+      "name": "googlecloudplatform-agent-starter-pack",
+      "type": "evals",
+      "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.",
+      "source_repo": "GoogleCloudPlatform/agent-starter-pack",
+      "source_url": "https://github.com/GoogleCloudPlatform/agent-starter-pack",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "codex",
+        "cursor",
+        "gemini",
+        "opencode"
+      ],
+      "maturity": "experimental",
+      "stars": 6570,
+      "eval_score": null,
+      "mentions": 1,
+      "forks": 1502,
+      "pushed_at": "2026-07-21T23:42:40Z",
+      "verified_at": "2026-10-11",
+      "related": [],
+      "tags": [
+        "sentinel-feed",
+        "evals"
+      ],
+      "path": "components/evals/googlecloudplatform-agent-starter-pack.md"
     },
     {
       "name": "harbor-framework-terminal-bench",
@@ -28399,7 +28679,7 @@
         "gemini"
       ],
       "maturity": "beta",
-      "stars": 11788,
+      "stars": 11792,
       "eval_score": null,
       "mentions": 2,
       "forks": 1200,
@@ -28571,7 +28851,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 2212,
+      "stars": 2215,
       "eval_score": 0,
       "mentions": 3,
       "forks": 573,
@@ -29514,7 +29794,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 10,
-      "pushed_at": "2026-10-10T22:19:09Z",
+      "pushed_at": "2026-10-11T22:11:22Z",
       "verified_at": "2026-05-26",
       "related": [
         "cc-notify",
@@ -33757,10 +34037,10 @@
         "gemini"
       ],
       "maturity": "beta",
-      "stars": 117648,
+      "stars": 117658,
       "eval_score": 1,
       "mentions": 11,
-      "forks": 13016,
+      "forks": 13018,
       "pushed_at": "2026-10-09T17:36:28Z",
       "verified_at": "2026-05-28",
       "related": [],
@@ -33873,7 +34153,7 @@
         "gemini"
       ],
       "maturity": "beta",
-      "stars": 11076,
+      "stars": 11077,
       "eval_score": null,
       "mentions": null,
       "forks": 1512,
@@ -34016,11 +34296,11 @@
         "gemini"
       ],
       "maturity": "beta",
-      "stars": 29377,
+      "stars": 29393,
       "eval_score": null,
       "mentions": null,
-      "forks": 2085,
-      "pushed_at": "2026-10-11T19:29:32Z",
+      "forks": 2088,
+      "pushed_at": "2026-10-11T23:12:45Z",
       "verified_at": "2026-05-28",
       "related": [],
       "tags": [
@@ -34047,7 +34327,7 @@
       "stars": 71566,
       "eval_score": 1,
       "mentions": 9,
-      "forks": 5644,
+      "forks": 5645,
       "pushed_at": "2026-07-24T07:12:07Z",
       "verified_at": "2026-05-27",
       "related": [],
@@ -34980,10 +35260,10 @@
         "gemini"
       ],
       "maturity": "beta",
-      "stars": 3902,
+      "stars": 3903,
       "eval_score": null,
       "mentions": null,
-      "forks": 233,
+      "forks": 234,
       "pushed_at": "2026-09-15T16:58:10Z",
       "verified_at": "2026-05-27",
       "related": [],
@@ -42186,7 +42466,7 @@
       "stars": 241,
       "eval_score": null,
       "mentions": null,
-      "forks": 66,
+      "forks": 67,
       "pushed_at": "2026-10-09T11:25:13Z",
       "verified_at": "2026-05-28",
       "related": [],
@@ -52746,7 +53026,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 93,
-      "pushed_at": "2026-10-11T05:34:15Z",
+      "pushed_at": "2026-10-11T22:06:23Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -64619,7 +64899,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 2,
-      "pushed_at": "2026-10-11T19:23:20Z",
+      "pushed_at": "2026-10-11T22:35:13Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -70693,7 +70973,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 91,
+      "stars": 93,
       "eval_score": null,
       "mentions": null,
       "forks": 25,
@@ -83999,7 +84279,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T17:39:28Z",
+      "pushed_at": "2026-10-11T22:30:22Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -133748,7 +134028,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T00:58:53Z",
+      "pushed_at": "2026-10-11T21:15:44Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -134476,7 +134756,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 2,
-      "pushed_at": "2026-10-09T01:49:54Z",
+      "pushed_at": "2026-10-11T19:54:59Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -144724,7 +145004,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T05:37:23Z",
+      "pushed_at": "2026-10-11T20:56:55Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -162982,7 +163262,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 83,
-      "pushed_at": "2026-10-11T18:58:27Z",
+      "pushed_at": "2026-10-11T20:18:40Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -168858,7 +169138,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 7,
-      "pushed_at": "2026-10-11T16:52:17Z",
+      "pushed_at": "2026-10-11T23:13:19Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -178743,7 +179023,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 1,
-      "pushed_at": "2026-10-11T14:38:33Z",
+      "pushed_at": "2026-10-11T21:06:26Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -182384,7 +182664,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T19:25:38Z",
+      "pushed_at": "2026-10-11T20:47:09Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -186752,7 +187032,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-04T13:15:13Z",
+      "pushed_at": "2026-10-11T21:51:04Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -227557,7 +227837,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 1,
-      "pushed_at": "2026-10-10T01:36:03Z",
+      "pushed_at": "2026-10-11T22:01:45Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -277424,7 +277704,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 1,
-      "pushed_at": "2026-10-10T23:40:20Z",
+      "pushed_at": "2026-10-11T23:06:57Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -281651,7 +281931,7 @@
       "stars": 2214,
       "eval_score": null,
       "mentions": null,
-      "forks": 197,
+      "forks": 198,
       "pushed_at": "2026-10-08T16:50:07Z",
       "verified_at": "2026-05-27",
       "related": [],
@@ -301585,7 +301865,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 49,
+      "stars": 50,
       "eval_score": null,
       "mentions": null,
       "forks": 8,
@@ -302845,7 +303125,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 4256,
+      "stars": 4257,
       "eval_score": null,
       "mentions": null,
       "forks": 831,
@@ -339173,7 +339453,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T19:31:53Z",
+      "pushed_at": "2026-10-11T22:54:36Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -375377,7 +375657,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 2,
-      "pushed_at": "2026-10-06T19:34:37Z",
+      "pushed_at": "2026-10-11T23:04:18Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -387974,7 +388254,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-09T17:42:49Z",
+      "pushed_at": "2026-10-11T20:34:28Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -390493,7 +390773,7 @@
       "stars": 38,
       "eval_score": null,
       "mentions": null,
-      "forks": 11,
+      "forks": 12,
       "pushed_at": "2026-10-09T11:11:43Z",
       "verified_at": "2026-05-26",
       "related": [],
@@ -402322,7 +402602,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-09-15T17:40:53Z",
+      "pushed_at": "2026-10-11T21:34:42Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -403246,7 +403526,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 13,
-      "pushed_at": "2026-10-11T19:05:49Z",
+      "pushed_at": "2026-10-11T23:11:00Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -419394,7 +419674,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 1,
-      "pushed_at": "2026-10-11T12:58:22Z",
+      "pushed_at": "2026-10-11T20:38:45Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -462734,7 +463014,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-08-16T05:09:41Z",
+      "pushed_at": "2026-10-11T23:00:59Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -477885,7 +478165,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-10T06:45:21Z",
+      "pushed_at": "2026-10-11T19:54:59Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -480429,7 +480709,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 5663,
+      "stars": 5664,
       "eval_score": null,
       "mentions": null,
       "forks": 538,
@@ -481017,7 +481297,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T19:07:13Z",
+      "pushed_at": "2026-10-11T20:25:26Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -481157,7 +481437,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 2,
-      "pushed_at": "2026-10-11T19:30:54Z",
+      "pushed_at": "2026-10-11T23:01:45Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -540311,7 +540591,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-05T09:07:02Z",
+      "pushed_at": "2026-10-11T22:22:29Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -556554,7 +556834,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 2,
-      "pushed_at": "2026-10-11T18:20:50Z",
+      "pushed_at": "2026-10-11T20:17:33Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -559774,7 +560054,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 26,
-      "pushed_at": "2026-10-11T14:19:19Z",
+      "pushed_at": "2026-10-11T22:56:12Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -560082,7 +560362,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 167,
-      "pushed_at": "2026-10-11T18:46:10Z",
+      "pushed_at": "2026-10-11T22:32:18Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -560418,7 +560698,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 55,
-      "pushed_at": "2026-10-11T19:32:45Z",
+      "pushed_at": "2026-10-11T22:53:27Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -563022,7 +563302,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 6,
-      "pushed_at": "2026-10-11T19:31:40Z",
+      "pushed_at": "2026-10-11T22:31:39Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -564394,7 +564674,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 11,
-      "pushed_at": "2026-10-11T14:42:47Z",
+      "pushed_at": "2026-10-11T22:09:47Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -564842,7 +565122,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 3,
-      "pushed_at": "2026-10-11T18:42:01Z",
+      "pushed_at": "2026-10-11T21:35:06Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -567582,7 +567862,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 112,
+      "stars": 113,
       "eval_score": null,
       "mentions": null,
       "forks": 31,
@@ -579237,7 +579517,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-10T12:54:05Z",
+      "pushed_at": "2026-10-11T20:38:55Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -584638,7 +584918,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 477,
+      "stars": 478,
       "eval_score": null,
       "mentions": null,
       "forks": 72,
@@ -667801,7 +668081,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 70,
+      "stars": 71,
       "eval_score": null,
       "mentions": null,
       "forks": 28,
@@ -694569,7 +694849,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 6,
-      "pushed_at": "2026-10-11T17:04:14Z",
+      "pushed_at": "2026-10-11T20:06:03Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -695713,7 +695993,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 232,
+      "stars": 238,
       "eval_score": null,
       "mentions": null,
       "forks": 21,
@@ -705042,7 +705322,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 373,
-      "pushed_at": "2026-10-11T19:18:05Z",
+      "pushed_at": "2026-10-11T22:58:31Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -720690,7 +720970,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 768,
+      "stars": 769,
       "eval_score": null,
       "mentions": null,
       "forks": 73,
@@ -726287,7 +726567,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-07T00:05:34Z",
+      "pushed_at": "2026-10-11T20:02:34Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -729396,7 +729676,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 2,
-      "pushed_at": "2026-10-11T19:00:33Z",
+      "pushed_at": "2026-10-11T23:13:50Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -733737,7 +734017,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-04T22:27:35Z",
+      "pushed_at": "2026-10-11T22:48:43Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -748353,7 +748633,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 5,
-      "pushed_at": "2026-10-11T18:45:56Z",
+      "pushed_at": "2026-10-11T22:09:08Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -750733,7 +751013,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 15,
-      "pushed_at": "2026-10-04T22:04:29Z",
+      "pushed_at": "2026-10-11T22:10:17Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -764060,7 +764340,7 @@
       "stars": 10,
       "eval_score": null,
       "mentions": null,
-      "forks": 3,
+      "forks": 4,
       "pushed_at": "2026-08-20T07:45:33Z",
       "verified_at": "2026-05-26",
       "related": [],
@@ -764533,11 +764813,11 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 7335,
+      "stars": 7337,
       "eval_score": 1,
       "mentions": 3,
       "forks": 1026,
-      "pushed_at": "2026-10-08T10:18:38Z",
+      "pushed_at": "2026-10-11T20:20:46Z",
       "verified_at": "2026-09-26",
       "related": [],
       "tags": [
@@ -772517,7 +772797,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 3,
-      "pushed_at": "2026-10-11T12:55:36Z",
+      "pushed_at": "2026-10-11T22:26:14Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -784017,7 +784297,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 40,
+      "stars": 41,
       "eval_score": null,
       "mentions": null,
       "forks": 9,
@@ -798499,7 +798779,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-09T12:40:21Z",
+      "pushed_at": "2026-10-11T21:12:55Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -800711,7 +800991,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 33,
-      "pushed_at": "2026-10-11T19:23:31Z",
+      "pushed_at": "2026-10-11T22:55:58Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -808687,7 +808967,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 6,
-      "pushed_at": "2026-10-11T01:14:57Z",
+      "pushed_at": "2026-10-11T19:58:15Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -813979,7 +814259,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 1,
-      "pushed_at": "2026-10-06T04:51:03Z",
+      "pushed_at": "2026-10-11T21:39:05Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -821148,7 +821428,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 2,
-      "pushed_at": "2026-10-11T17:52:22Z",
+      "pushed_at": "2026-10-11T23:03:26Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -823948,7 +824228,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T16:15:42Z",
+      "pushed_at": "2026-10-11T21:00:53Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -836628,10 +836908,10 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 189549,
+      "stars": 189573,
       "eval_score": null,
-      "mentions": 1,
-      "forks": 14103,
+      "mentions": 2,
+      "forks": 14104,
       "pushed_at": "2026-10-04T03:59:52Z",
       "verified_at": "2026-05-26",
       "related": [],
@@ -886865,7 +887145,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T19:29:09Z",
+      "pushed_at": "2026-10-11T23:14:57Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -918223,7 +918503,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 2,
+      "stars": 3,
       "eval_score": null,
       "mentions": null,
       "forks": 0,
@@ -950142,7 +950422,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 2,
-      "pushed_at": "2026-10-11T00:23:33Z",
+      "pushed_at": "2026-10-11T23:05:47Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -961906,7 +962186,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 5,
-      "pushed_at": "2026-10-11T13:09:34Z",
+      "pushed_at": "2026-10-11T20:43:23Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -972210,7 +972490,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-09T17:16:53Z",
+      "pushed_at": "2026-10-11T21:47:32Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -976578,7 +976858,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-01T20:28:08Z",
+      "pushed_at": "2026-10-11T19:39:10Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -993882,7 +994162,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 2,
-      "pushed_at": "2026-10-11T17:44:05Z",
+      "pushed_at": "2026-10-11T22:00:35Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1014098,7 +1014378,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 67,
-      "pushed_at": "2026-10-11T19:33:49Z",
+      "pushed_at": "2026-10-11T20:23:00Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1022326,7 +1022606,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 2654,
+      "stars": 2655,
       "eval_score": null,
       "mentions": null,
       "forks": 364,
@@ -1026358,11 +1026638,11 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 8997,
+      "stars": 9005,
       "eval_score": null,
       "mentions": null,
-      "forks": 806,
-      "pushed_at": "2026-10-11T19:10:48Z",
+      "forks": 807,
+      "pushed_at": "2026-10-11T20:39:01Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1040408,10 +1040688,10 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 12650,
+      "stars": 12656,
       "eval_score": null,
       "mentions": null,
-      "forks": 1503,
+      "forks": 1505,
       "pushed_at": "2026-09-26T15:42:10Z",
       "verified_at": "2026-05-26",
       "related": [],
@@ -1058885,7 +1059165,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-04T21:43:06Z",
+      "pushed_at": "2026-10-11T21:43:52Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1068242,6 +1068522,34 @@
         "mcp"
       ],
       "path": "components/mcps/nettskjema-mcp-server.md"
+    },
+    {
+      "name": "netw0rknoob-vulnclaw",
+      "type": "mcps",
+      "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "source_repo": "Netw0rkNoob/VulnClaw",
+      "source_url": "https://github.com/Netw0rkNoob/VulnClaw",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "codex",
+        "cursor",
+        "gemini",
+        "opencode"
+      ],
+      "maturity": "experimental",
+      "stars": 3533,
+      "eval_score": null,
+      "mentions": 1,
+      "forks": 488,
+      "pushed_at": "2026-10-10T15:25:31Z",
+      "verified_at": "2026-10-11",
+      "related": [],
+      "tags": [
+        "sentinel-feed",
+        "mcps"
+      ],
+      "path": "components/mcps/netw0rknoob-vulnclaw.md"
     },
     {
       "name": "network-ai-assistant",
@@ -1078930,7 +1079238,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 63,
-      "pushed_at": "2026-10-11T16:52:06Z",
+      "pushed_at": "2026-10-11T20:38:47Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1107323,7 +1107631,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 3,
-      "pushed_at": "2026-10-11T19:34:03Z",
+      "pushed_at": "2026-10-11T22:18:20Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1115023,7 +1115331,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T15:33:41Z",
+      "pushed_at": "2026-10-11T21:10:41Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1136163,7 +1136471,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 1,
-      "pushed_at": "2026-10-10T20:50:04Z",
+      "pushed_at": "2026-10-11T20:28:16Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1148204,7 +1148512,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 2,
-      "pushed_at": "2026-10-11T13:52:51Z",
+      "pushed_at": "2026-10-11T21:44:41Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1178362,7 +1178670,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-04T21:44:47Z",
+      "pushed_at": "2026-10-11T21:44:29Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1214072,7 +1214380,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 17,
-      "pushed_at": "2026-10-11T19:13:51Z",
+      "pushed_at": "2026-10-11T23:14:36Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1242242,7 +1242550,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T19:32:00Z",
+      "pushed_at": "2026-10-11T21:00:00Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1266378,7 +1266686,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 1,
-      "pushed_at": "2026-10-11T19:34:40Z",
+      "pushed_at": "2026-10-11T22:38:44Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1275054,11 +1275362,11 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 578,
+      "stars": 579,
       "eval_score": null,
       "mentions": null,
-      "forks": 93,
-      "pushed_at": "2026-10-10T00:09:08Z",
+      "forks": 94,
+      "pushed_at": "2026-10-11T23:15:59Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1301235,7 +1301543,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 192,
+      "stars": 193,
       "eval_score": null,
       "mentions": null,
       "forks": 59,
@@ -1319245,7 +1319553,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T18:11:36Z",
+      "pushed_at": "2026-10-11T22:09:43Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1320949,7 +1321257,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 3468,
+      "stars": 3472,
       "eval_score": null,
       "mentions": null,
       "forks": 403,
@@ -1335344,7 +1335652,7 @@
       "stars": 66,
       "eval_score": null,
       "mentions": null,
-      "forks": 21,
+      "forks": 22,
       "pushed_at": "2026-10-07T02:00:35Z",
       "verified_at": "2026-05-27",
       "related": [],
@@ -1393273,7 +1393581,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T15:12:43Z",
+      "pushed_at": "2026-10-11T23:14:43Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1405372,7 +1405680,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 103,
-      "pushed_at": "2026-10-11T13:04:03Z",
+      "pushed_at": "2026-10-11T22:19:35Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1406464,7 +1406772,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 1,
-      "pushed_at": "2026-10-11T19:20:50Z",
+      "pushed_at": "2026-10-11T22:48:22Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1423232,11 +1423540,11 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 1068,
+      "stars": 1069,
       "eval_score": null,
       "mentions": null,
       "forks": 87,
-      "pushed_at": "2026-10-11T19:03:54Z",
+      "pushed_at": "2026-10-11T22:08:11Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1429168,7 +1429476,7 @@
         "gemini"
       ],
       "maturity": "experimental",
-      "stars": 10,
+      "stars": 11,
       "eval_score": null,
       "mentions": null,
       "forks": 8,
@@ -1501818,7 +1502126,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 32043,
+      "stars": 32045,
       "eval_score": null,
       "mentions": 1,
       "forks": 2936,
@@ -1506583,7 +1506891,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-01T21:46:24Z",
+      "pushed_at": "2026-10-11T23:12:18Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1517528,7 +1517836,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 1,
-      "pushed_at": "2026-10-11T17:38:40Z",
+      "pushed_at": "2026-10-11T21:56:02Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1541809,7 +1542117,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 5,
-      "pushed_at": "2026-10-11T19:24:14Z",
+      "pushed_at": "2026-10-11T20:12:31Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1638043,7 +1638351,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-10T23:25:07Z",
+      "pushed_at": "2026-10-11T21:03:25Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1654900,7 +1655208,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 0,
-      "pushed_at": "2026-10-11T14:20:35Z",
+      "pushed_at": "2026-10-11T20:37:00Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1657638,7 +1657946,7 @@
       "maturity": "beta",
       "stars": 427,
       "eval_score": null,
-      "mentions": null,
+      "mentions": 1,
       "forks": 69,
       "pushed_at": "2026-07-29T21:42:17Z",
       "verified_at": "2026-05-26",
@@ -1659337,7 +1659645,7 @@
         "opencode"
       ],
       "maturity": "beta",
-      "stars": 76,
+      "stars": 77,
       "eval_score": null,
       "mentions": null,
       "forks": 15,
@@ -1666341,7 +1666649,7 @@
       "eval_score": null,
       "mentions": null,
       "forks": 2,
-      "pushed_at": "2026-10-10T02:09:23Z",
+      "pushed_at": "2026-10-11T21:07:34Z",
       "verified_at": "2026-05-27",
       "related": [],
       "tags": [
@@ -1670589,11 +1670897,11 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 2303,
+      "stars": 2305,
       "eval_score": null,
       "mentions": null,
       "forks": 134,
-      "pushed_at": "2026-10-11T19:32:11Z",
+      "pushed_at": "2026-10-11T22:34:12Z",
       "verified_at": "2026-09-07",
       "related": [],
       "tags": [
@@ -1671371,7 +1671679,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 18008,
+      "stars": 18009,
       "eval_score": null,
       "mentions": 2,
       "forks": 1800,
@@ -1677618,10 +1677926,10 @@
         "claude"
       ],
       "maturity": "beta",
-      "stars": 25470,
+      "stars": 25478,
       "eval_score": null,
       "mentions": null,
-      "forks": 2074,
+      "forks": 2075,
       "pushed_at": "2026-10-11T16:44:11Z",
       "verified_at": "2026-05-26",
       "related": [],
@@ -1681179,11 +1681487,11 @@
         "claude"
       ],
       "maturity": "beta",
-      "stars": 277074,
+      "stars": 277191,
       "eval_score": null,
       "mentions": 1,
-      "forks": 41333,
-      "pushed_at": "2026-10-11T19:35:34Z",
+      "forks": 41348,
+      "pushed_at": "2026-10-11T23:16:10Z",
       "verified_at": "2026-05-26",
       "related": [],
       "tags": [
@@ -1683843,7 +1684151,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 17923,
+      "stars": 17926,
       "eval_score": null,
       "mentions": 4,
       "forks": 1314,
@@ -1685267,6 +1685575,34 @@
         "skill"
       ],
       "path": "components/skills/ito-trade-planner.md"
+    },
+    {
+      "name": "jakeschincariol-replica-skill",
+      "type": "skills",
+      "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+      "source_repo": "Jakeschincariol/replica-skill",
+      "source_url": "https://github.com/Jakeschincariol/replica-skill",
+      "license": "unknown",
+      "cli_compat": [
+        "claude",
+        "codex",
+        "cursor",
+        "gemini",
+        "opencode"
+      ],
+      "maturity": "experimental",
+      "stars": 1894,
+      "eval_score": null,
+      "mentions": 1,
+      "forks": 266,
+      "pushed_at": "2026-10-03T12:07:53Z",
+      "verified_at": "2026-10-11",
+      "related": [],
+      "tags": [
+        "sentinel-feed",
+        "skills"
+      ],
+      "path": "components/skills/jakeschincariol-replica-skill.md"
     },
     {
       "name": "jakeschincariol-youtube-agent-skill",
@@ -1697642,7 +1697978,7 @@
       "maturity": "beta",
       "stars": 296633,
       "eval_score": null,
-      "mentions": 3,
+      "mentions": 4,
       "forks": 26476,
       "pushed_at": "2026-10-08T04:15:27Z",
       "verified_at": "2026-05-26",
@@ -1698903,10 +1699239,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 82003,
+      "stars": 82036,
       "eval_score": 1,
       "mentions": 2,
-      "forks": 5536,
+      "forks": 5541,
       "pushed_at": "2026-10-11T04:17:54Z",
       "verified_at": "2026-09-26",
       "related": [],
@@ -1699699,11 +1700035,11 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 34536,
+      "stars": 34552,
       "eval_score": null,
       "mentions": 3,
-      "forks": 3629,
-      "pushed_at": "2026-10-11T15:04:23Z",
+      "forks": 3628,
+      "pushed_at": "2026-10-11T21:24:32Z",
       "verified_at": "2026-09-02",
       "related": [],
       "tags": [
@@ -1719481,10 +1719817,10 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 40397,
+      "stars": 40414,
       "eval_score": null,
       "mentions": 0,
-      "forks": 4304,
+      "forks": 4305,
       "pushed_at": "2026-10-05T01:07:11Z",
       "verified_at": "2026-09-02",
       "related": [],
@@ -1721887,7 +1722223,7 @@
         "claude"
       ],
       "maturity": "beta",
-      "stars": 12881,
+      "stars": 12882,
       "eval_score": null,
       "mentions": null,
       "forks": 2041,
@@ -1727648,7 +1727984,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 97686,
+      "stars": 97689,
       "eval_score": null,
       "mentions": 7,
       "forks": 13572,
@@ -1729719,7 +1730055,7 @@
         "opencode"
       ],
       "maturity": "experimental",
-      "stars": 27636,
+      "stars": 27635,
       "eval_score": null,
       "mentions": 4,
       "forks": 2876,
