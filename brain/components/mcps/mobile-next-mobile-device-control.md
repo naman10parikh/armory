@@ -8,12 +8,12 @@ source_url: https://github.com/mobile-next/mobile-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8997
+stars: 9005
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 806
-pushed_at: "2026-10-11T19:10:48Z"
+forks: 807
+pushed_at: "2026-10-11T20:39:01Z"
 ---
 ## What it is
 MCP server `Mobile Device Control`, catalogued on PulseMCP. Enables remote control of Android and iOS devices through commands for screenshots, app management, screen interactions, and UI navigation, ideal for automated testing and demonstrations.

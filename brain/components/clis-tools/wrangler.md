@@ -13,8 +13,8 @@ mentions: null
 verified_at: 
 related: []
 tags: [deploy-infra]
-forks: 1579
-pushed_at: "2026-10-11T16:41:19Z"
+forks: 1578
+pushed_at: "2026-10-11T21:13:37Z"
 ---
 
 # wrangler

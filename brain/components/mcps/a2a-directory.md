@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, knowledge-research]
-forks: 66
+forks: 67
 pushed_at: "2026-10-09T11:25:13Z"
 ---
 ## What it is

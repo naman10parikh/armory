@@ -8,13 +8,13 @@ source_url: https://github.com/trycua/cua
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 29377
+stars: 29393
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, computer-use]
-forks: 2085
-pushed_at: "2026-10-11T19:29:32Z"
+forks: 2088
+pushed_at: "2026-10-11T23:12:45Z"
 ---
 ## What it is
 trycua/cua open-source computer-use agent framework: Apple Silicon-native, runs lightweight macOS/Linux VMs with sub-second cold starts; provides a unified Python interface for screen capture, click, and type actions.

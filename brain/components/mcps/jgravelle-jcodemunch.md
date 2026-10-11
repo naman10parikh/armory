@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 373
-pushed_at: "2026-10-11T19:18:05Z"
+pushed_at: "2026-10-11T22:58:31Z"
 ---
 ## What it is
 MCP server `jCodeMunch by jgravelle`, catalogued on PulseMCP. Token-efficient code exploration via tree-sitter AST parsing supporting 25+ programming languages.

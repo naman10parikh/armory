@@ -8,13 +8,13 @@ source_url: https://github.com/pydantic/pydantic-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 20551
+stars: 20554
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2902
+forks: 2903
 pushed_at: "2026-10-11T05:08:41Z"
 ---
 ## What it is

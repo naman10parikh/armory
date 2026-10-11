@@ -8,14 +8,14 @@ source_url: https://github.com/DavidHDev/react-bits
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 48920
+stars: 48931
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 2398
-pushed_at: "2026-10-11T16:10:14Z"
+pushed_at: "2026-10-11T20:11:39Z"
 ---
 ## What it is
 The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built for humans and AI agents.

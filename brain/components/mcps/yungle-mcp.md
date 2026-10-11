@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T14:20:35Z"
+pushed_at: "2026-10-11T20:37:00Z"
 ---
 ## What it is
 Enables reading transfer metadata from Yungle via an AI assistant, supporting read-only access to transfers without send, delete, or invite capabilities.

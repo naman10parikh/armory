@@ -1,0 +1,7 @@
+{
+  "name": "netw0rknoob-vulnclaw",
+  "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+  "source_repo": "Netw0rkNoob/VulnClaw",
+  "source_url": "https://github.com/Netw0rkNoob/VulnClaw",
+  "install": "# git clone --depth 1 https://github.com/Netw0rkNoob/VulnClaw\n# See source for mcpServers config block"
+}

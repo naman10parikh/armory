@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-10-11T19:31:40Z"
+pushed_at: "2026-10-11T22:31:39Z"
 ---
 ## What it is
 MCP server `Better Telegram`, catalogued on PulseMCP. Production-grade Telegram integration with dual-mode Bot API and MTProto support for messaging, media, contacts, and chat management.
