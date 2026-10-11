@@ -8,7 +8,7 @@ source_url: https://github.com/karpathy/autoresearch
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 97651
+stars: 97652
 eval_score: null
 mentions: 7
 verified_at: 2026-09-02

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T17:23:59Z"
+pushed_at: "2026-10-11T02:00:12Z"
 ---
 ## What it is
 Enables AI agents like Claude Code and Codex to read handwriting and sketches drawn on a tablet in real time via MCP, with local recognition to text/LaTeX, session recording, and export to Markdown/Excalidraw.
