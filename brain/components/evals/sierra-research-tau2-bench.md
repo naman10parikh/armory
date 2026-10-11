@@ -9,7 +9,7 @@ license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
 stars: 2204
-eval_score: null
+eval_score: 0
 mentions: 3
 verified_at: 2026-10-10
 related: []

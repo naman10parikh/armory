@@ -8,7 +8,7 @@ source_url: https://github.com/JuliusBrussee/caveman
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 110928
+stars: 110933
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10

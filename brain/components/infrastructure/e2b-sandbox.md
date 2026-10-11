@@ -11,7 +11,7 @@ cli_compat: [claude, codex]
 maturity: stable
 stars: 14239
 eval_score: 1
-verified_at: 2026-05-26
+verified_at: 2026-10-10
 related: [microsandbox, claude-managed-agents-selfhost, browserbase-bb]
 tags: [sandbox, runtime, firecracker, microvm, code-execution]
 forks: 1094

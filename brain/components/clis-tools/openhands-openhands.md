@@ -8,7 +8,7 @@ source_url: https://github.com/OpenHands/OpenHands
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 90522
+stars: 90525
 eval_score: null
 mentions: 5
 verified_at: 2026-09-02

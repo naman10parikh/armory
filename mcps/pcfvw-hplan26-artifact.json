@@ -1,0 +1,7 @@
+{
+  "name": "pcfvw-hplan26-artifact",
+  "description": "Artifact for 'HTN Planning as a Coordination Layer for Multi-Server MCP Tool Orchestration' (HPlan Workshop @ ICAPS 2026)",
+  "source_repo": "PCfVW/hplan26-artifact",
+  "source_url": "https://github.com/PCfVW/hplan26-artifact",
+  "install": "# git clone --depth 1 https://github.com/PCfVW/hplan26-artifact\n# See source for mcpServers config block"
+}

@@ -8,7 +8,7 @@ source_url: https://github.com/browser-use/video-use
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 28566
+stars: 28570
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11

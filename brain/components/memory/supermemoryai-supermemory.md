@@ -10,7 +10,7 @@ cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
 stars: 31082
 eval_score: null
-mentions: null
+mentions: 10
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 87
-pushed_at: "2026-10-11T00:31:37Z"
+pushed_at: "2026-10-11T00:56:53Z"
 ---
 ## What it is
 Open source SQL-native query and provisioning engine for cloud and SaaS infrastructure. Ships as a single signed binary with MCP tools for provider discovery, schema exploration, queries, and lifecycle operations.

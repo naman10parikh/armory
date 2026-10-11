@@ -14,7 +14,7 @@ mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, mcps]
-forks: 2935
+forks: 2936
 pushed_at: "2026-10-06T19:33:08Z"
 ---
 ## What it is

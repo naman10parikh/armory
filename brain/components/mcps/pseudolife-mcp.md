@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-11T00:07:44Z"
+pushed_at: "2026-10-11T01:25:25Z"
 ---
 ## What it is
 Enables persistent long-term memory for Claude Code across sessions, with tools for storing, searching, and managing facts, knowledge graphs, and procedural lessons.
