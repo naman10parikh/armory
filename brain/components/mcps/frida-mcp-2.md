@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-10-04T12:21:27Z"
+pushed_at: "2026-10-10T21:06:15Z"
 ---
 ## What it is
 Automates Android app analysis using Frida via AI commands, connecting a rooted Android phone to a computer and running dynamic analysis scripts without manual command execution.

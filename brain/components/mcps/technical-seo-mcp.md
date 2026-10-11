@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T04:45:13Z"
+pushed_at: "2026-10-05T04:45:59Z"
 ---
 ## What it is
 An MCP server that audits websites for technical and on-page SEO, enabling users to ask why a page isn't ranking and receive specific, actionable answers.

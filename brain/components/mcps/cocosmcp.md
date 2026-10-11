@@ -8,13 +8,13 @@ source_url: https://github.com/mickorz/CocosMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T09:02:36Z"
+pushed_at: "2026-10-09T03:12:43Z"
 ---
 ## What it is
 An MCP server plugin for Cocos Creator 3.8+ that enables AI assistants to control the editor through 50 tools covering scenes, nodes, components, prefabs, assets, projects, debugging, and more.

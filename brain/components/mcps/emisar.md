@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 33
-pushed_at: "2026-10-03T12:44:05Z"
+pushed_at: "2026-10-10T19:59:19Z"
 ---
 ## What it is
 Give AI agents Zero-Trust access to production infrastructure without the risks of granting them shell access. Actions are bounded by policy and an on-host runner.

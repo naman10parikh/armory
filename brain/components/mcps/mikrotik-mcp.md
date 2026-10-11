@@ -8,13 +8,13 @@ source_url: https://github.com/jeff-nasseri/mikrotik-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 292
+stars: 296
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 66
-pushed_at: "2026-10-03T21:37:22Z"
+forks: 67
+pushed_at: "2026-10-10T20:50:31Z"
 ---
 ## What it is
 Provides a bridge between AI assistants and MikroTik RouterOS devices, enabling natural language management of VLANs, firewall rules, DNS settings, and more.

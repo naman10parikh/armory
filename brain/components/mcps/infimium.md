@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-11T20:48:11Z"
+pushed_at: "2026-10-05T21:31:31Z"
 ---
 ## What it is
 Infimium is an MCP server that gives AI agents persistent memory, deep dependency graphs, and instant code context for repositories. It provides tools like semantic code search, symbol expansion, and local docs retrieval to minimize token bloat while working with large codebases.

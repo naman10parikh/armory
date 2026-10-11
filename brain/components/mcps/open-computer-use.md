@@ -8,13 +8,13 @@ source_url: https://github.com/Wide-Moat/open-computer-use
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 125
+stars: 126
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 32
-pushed_at: "2026-09-14T08:35:09Z"
+forks: 34
+pushed_at: "2026-10-05T21:24:12Z"
 ---
 ## What it is
 MCP server that gives any LLM a managed Docker workspace with live browser, terminal, code execution, document skills, and autonomous sub-agents.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T06:38:53Z"
+pushed_at: "2026-10-07T01:19:06Z"
 ---
 ## What it is
 An advanced MCP server for real-time worldwide stock market data, technical indicators, financials, news, and Python sandboxing with AI models, supporting US and Indian markets.

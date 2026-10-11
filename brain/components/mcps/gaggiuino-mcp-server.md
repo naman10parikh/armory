@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T23:09:03Z"
+pushed_at: "2026-10-05T09:07:02Z"
 ---
 ## What it is
 A remote MCP server for integrating Gaggiuino espresso machines with AI tools. It enables checking machine status, analyzing shot data, managing profiles, and receiving dial-in guidance.

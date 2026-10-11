@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T20:34:11Z"
+pushed_at: "2026-10-05T20:25:58Z"
 ---
 ## What it is
 GhostLink is a security-hardened MCP server that gives AI coding agents safe, deterministic access to local repositories through sandboxed, policy-gated tools for searching, reading, patching, and running curated commands.

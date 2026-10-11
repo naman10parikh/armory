@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T19:20:19Z"
+pushed_at: "2026-10-08T19:15:13Z"
 ---
 ## What it is
 A transparent, user-owned model router and orchestration control plane that enables AI workflow orchestration via an MCP server, with supervisor-based task decomposition and cross-provider routing.

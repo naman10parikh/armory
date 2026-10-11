@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-04T01:00:52Z"
+pushed_at: "2026-10-08T12:51:48Z"
 ---
 ## What it is
 MCP server `Ukagaka Docs`, catalogued on PulseMCP. Searches offline snapshots of Ukagaka desktop mascot documentation including UKADOC, YAYA Wiki, and Satori Wiki.

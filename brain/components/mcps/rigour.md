@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-04T04:49:38Z"
+pushed_at: "2026-10-10T19:10:38Z"
 ---
 ## What it is
 MCP server `Rigour`, catalogued on PulseMCP. Quality gates for AI agents with lint, test, and build checks with memory persistence.

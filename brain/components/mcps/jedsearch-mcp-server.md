@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-28T17:40:05Z"
+pushed_at: "2026-10-09T20:54:10Z"
 ---
 ## What it is
 Enables web search and page content extraction with JavaScript rendering via Playwright, with HTTP fallback and retry logic.

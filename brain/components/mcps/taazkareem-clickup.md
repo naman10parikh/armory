@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-10-01T03:22:31Z"
+pushed_at: "2026-10-07T18:12:18Z"
 ---
 ## What it is
 MCP server `ClickUp`, catalogued on PulseMCP. Integrates ClickUp task management with AI systems to enable automated task creation, updates, and retrieval for enhanced project workflow efficiency.

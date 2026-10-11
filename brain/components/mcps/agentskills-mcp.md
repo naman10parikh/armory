@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T07:13:21Z"
+pushed_at: "2026-10-10T07:33:45Z"
 ---
 ## What it is
 A FastMCP server that helps users discover, browse, and install agent skills from curated GitHub collections, with support for adding new skill sources.

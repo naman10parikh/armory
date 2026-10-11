@@ -8,12 +8,12 @@ source_url: https://github.com/tuna1999/dnspy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 61
+stars: 64
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 16
-pushed_at: "2026-09-15T19:12:17Z"
+pushed_at: "2026-10-07T11:11:07Z"
 ---
 ## What it is
 MCP server `dnSpy Decompiler`, catalogued on PulseMCP. Exposes dnSpy .NET decompilation and analysis capabilities to AI agents via 28 MCP tools.

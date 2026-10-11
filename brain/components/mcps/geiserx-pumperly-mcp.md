@@ -13,7 +13,7 @@ related: []
 tags: [mcp, location-services]
 stars: 3
 forks: 1
-pushed_at: "2026-10-03T20:38:46Z"
+pushed_at: "2026-10-05T09:51:57Z"
 ---
 ## What it is
 Go-based MCP server for Pumperly fuel price comparison. Query gas station prices, plan fuel-efficient routes, and find nearby EV charging stations. Docker image available.

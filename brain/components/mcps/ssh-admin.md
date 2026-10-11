@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T22:46:58Z"
+pushed_at: "2026-10-07T21:17:55Z"
 ---
 ## What it is
 MCP server for managing SSH connections to remote servers, providing host registry, session pool, and secure command execution with read-only protection.

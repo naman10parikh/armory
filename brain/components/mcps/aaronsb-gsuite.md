@@ -8,11 +8,11 @@ source_url: https://github.com/aaronsb/google-workspace-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 189
+stars: 191
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 55
+forks: 54
 pushed_at: "2026-10-01T15:16:31Z"
 ---
 ## What it is

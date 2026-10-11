@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-09-24T23:46:03Z"
+pushed_at: "2026-10-08T13:50:26Z"
 ---
 ## What it is
 MCP server `OSV Vulnerability Database`, catalogued on PulseMCP. Integrates with the Open Source Vulnerabilities (OSV) database to enable querying vulnerabilities by package versions, commits, or IDs for security auditing and software composition analysis.

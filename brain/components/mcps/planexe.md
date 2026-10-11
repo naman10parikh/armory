@@ -8,12 +8,12 @@ source_url: https://github.com/planexeorg/planexe
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 401
+stars: 403
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 66
-pushed_at: "2026-10-04T01:23:19Z"
+pushed_at: "2026-10-08T21:55:54Z"
 ---
 ## What it is
 MCP server `PlanExe`, catalogued on PulseMCP. Generate rough-draft project plans from natural-language prompts.

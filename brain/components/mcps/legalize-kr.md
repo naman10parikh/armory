@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-05T13:06:03Z"
+pushed_at: "2026-10-07T14:05:50Z"
 ---
 ## What it is
 MCP server `Legalize KR`, catalogued on PulseMCP. Queries Korean statutes, court precedents, administrative rules, and local ordinances via ten MCP tools.

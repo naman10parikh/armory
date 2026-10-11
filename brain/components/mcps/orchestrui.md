@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T11:46:46Z"
+pushed_at: "2026-10-08T11:49:37Z"
 ---
 ## What it is
 Provides read-only MCP tools for discovering UI libraries, recommending minimal compatible UI stacks, and auditing plans to enforce deterministic UI policy and quality gates for coding agents.

@@ -15,6 +15,7 @@ related: []
 tags: [observability, tracing, experiment-tracking]
 forks: 6426
 pushed_at: "2026-10-06T13:57:41Z"
+mentions: 2
 ---
 ## What it is
 MLflow's LLM tracing module instruments model calls, agent steps, and tool invocations, storing them alongside experiment runs for reproducibility.

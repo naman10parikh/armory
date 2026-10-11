@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-03T04:55:35Z"
+pushed_at: "2026-10-10T04:56:05Z"
 ---
 ## What it is
 MCP server `Gemot`, catalogued on PulseMCP. Structured deliberation primitive for multi-agent systems with crux detection and consensus.

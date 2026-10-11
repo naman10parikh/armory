@@ -8,13 +8,13 @@ source_url: https://github.com/humanlayer/12-factor-agents
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 26544
+stars: 26643
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 1985
+forks: 1990
 pushed_at: "2025-09-21T14:37:40Z"
 ---
 ## What it is

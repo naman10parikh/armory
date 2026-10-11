@@ -8,7 +8,7 @@ source_url: https://github.com/RollingGo-AI/RollingGo-hotel-MCP-CN
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 41
+stars: 43
 eval_score: null
 verified_at: 2026-05-27
 related: []

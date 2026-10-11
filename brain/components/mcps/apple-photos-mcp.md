@@ -8,13 +8,13 @@ source_url: https://github.com/sweetrb/apple-photos-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 27
+stars: 29
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-02T11:53:52Z"
+pushed_at: "2026-10-07T18:35:53Z"
 ---
 ## What it is
 Enables AI assistants to query and export from the macOS Apple Photos library using natural language, backed by osxphotos.

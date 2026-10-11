@@ -8,13 +8,13 @@ source_url: https://github.com/urbanmorph/geodata
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 38
+stars: 39
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-03T08:47:53Z"
+pushed_at: "2026-10-07T17:18:40Z"
 ---
 ## What it is
 Description: Query India's open geo data in natural language. 8 tools: list layers, inspect schemas, filter/group any column, point-in-polygon locate, spatial proximity search, downloads in 5 formats. Covers admin boundaries (state to village), city wards, forests, rivers, dams, hospitals, highways,

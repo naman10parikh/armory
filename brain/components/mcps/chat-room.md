@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-17T08:45:57Z"
+pushed_at: "2026-10-08T08:46:42Z"
 ---
 ## What it is
 Provides a local chat room for coordinating work across Git worktrees, coding agents (Claude, Codex), and humans, with tools to start, wake, stop, message, and search agent sessions.

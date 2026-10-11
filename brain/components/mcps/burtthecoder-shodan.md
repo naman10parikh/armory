@@ -8,11 +8,11 @@ source_url: https://github.com/burtthecoder/mcp-shodan
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 173
+stars: 174
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 28
+forks: 27
 pushed_at: "2026-09-08T18:27:50Z"
 ---
 ## What it is

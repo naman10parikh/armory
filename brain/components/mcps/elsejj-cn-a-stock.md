@@ -8,7 +8,7 @@ source_url: https://github.com/elsejj/mcp-cn-a-stock
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 460
+stars: 461
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

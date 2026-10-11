@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-02T08:26:12Z"
+pushed_at: "2026-10-07T18:19:39Z"
 ---
 ## What it is
 This MCP server enables users to read from and write to TallyPrime via its XML/HTTP gateway, supporting operations like ledger management, voucher creation, and financial report retrieval through natural language.

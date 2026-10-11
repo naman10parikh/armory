@@ -8,13 +8,13 @@ source_url: https://github.com/beremaran/godot-agent-loop
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-03T19:10:44Z"
+pushed_at: "2026-10-06T06:24:37Z"
 ---
 ## What it is
 Enables AI agents to autonomously develop and test Godot 4 games through an MCP-based feedback loop, providing tools for authoring, running, observing, playtesting, and verifying game projects.

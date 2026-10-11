@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
 forks: 0
-pushed_at: "2026-09-26T21:35:45Z"
+pushed_at: "2026-10-11T00:03:36Z"
 ---
 ## What it is
 Access U.S. congressional data - bills, votes, members, committees - through MCP.

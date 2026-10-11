@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T20:05:33Z"
+pushed_at: "2026-10-10T14:49:03Z"
 ---
 ## What it is
 Enables AI agents to screen and filter stock universe, compute custom quality scores, inspect score history, manage scoring systems, and generate shareable screen links, acting as the signed-in user.

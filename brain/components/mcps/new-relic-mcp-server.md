@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-02T20:10:27Z"
+pushed_at: "2026-10-05T17:37:19Z"
 ---
 ## What it is
 Enables natural language access to New Relic for monitoring, querying, and managing dashboards, entities, alerts, and deployments via the Model Context Protocol.

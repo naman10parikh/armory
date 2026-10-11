@@ -8,13 +8,13 @@ source_url: https://github.com/roccoangelella/PiLink
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-29T11:47:36Z"
+pushed_at: "2026-10-05T04:23:01Z"
 ---
 ## What it is
 An OAuth-protected MCP server exposing a coding-tool harness over Streamable HTTP, enabling remote MCP clients like ChatGPT to securely access a local development environment.

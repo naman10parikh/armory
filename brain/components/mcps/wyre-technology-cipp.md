@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-10-02T15:04:08Z"
+pushed_at: "2026-10-10T02:34:15Z"
 ---
 ## What it is
 MCP server `CIPP`, catalogued on PulseMCP. AI interface to CIPP for M365 multi-tenant management — users, tenants, policies, compliance, licensing, and alerts across 37 tools.

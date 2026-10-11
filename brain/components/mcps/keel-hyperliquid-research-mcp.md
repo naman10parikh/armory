@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T19:35:05Z"
+pushed_at: "2026-10-07T01:33:59Z"
 ---
 ## What it is
 Hyperliquid research MCP — typed strategy composition, deterministic backtests on real market data, opt-in live execution.

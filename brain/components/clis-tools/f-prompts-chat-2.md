@@ -9,7 +9,7 @@ source_url: https://github.com/f/prompts.chat
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 172472
+stars: 172474
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10

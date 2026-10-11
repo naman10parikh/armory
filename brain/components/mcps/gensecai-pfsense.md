@@ -8,12 +8,12 @@ source_url: https://github.com/gensecaihq/pfsense-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 106
+stars: 107
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 21
-pushed_at: "2026-09-25T10:14:46Z"
+pushed_at: "2026-10-09T10:16:04Z"
 ---
 ## What it is
 MCP server `pfSense`, catalogued on PulseMCP. Integrates with pfSense firewall systems through REST API, XML-RPC, and SSH to enable natural language control of security operations, IP blocking, firewall rule management, compliance checking for PCI-DSS and HIPAA frameworks, threat analysis, and emergency incident response including network isolation and panic mode activation.

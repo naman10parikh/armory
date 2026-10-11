@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-28T08:29:55Z"
+pushed_at: "2026-10-04T14:23:35Z"
 ---
 ## What it is
 MCP server `Web Research`, catalogued on PulseMCP. Performs web research using DuckDuckGo search with Playwright fallback for JavaScript-heavy pages, requiring no API keys.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-17T02:16:43Z"
+pushed_at: "2026-10-05T02:18:17Z"
 ---
 ## What it is
 This MCP server enables playing chess, Quick Go (9x9), Go (13x13), and Real Go (19x19) against GPT, with a React widget UI, deterministic difficulty-aware move selection, and authoritative rules/session handling for both ChatGPT plugin and standalone preview modes.

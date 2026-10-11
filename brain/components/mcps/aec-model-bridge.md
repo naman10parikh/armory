@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 22
-pushed_at: "2026-09-23T12:52:12Z"
+pushed_at: "2026-10-10T20:52:57Z"
 ---
 ## What it is
 Open, secure runtime that puts Revit, Rhino, Navisworks, and Power BI behind one MCP call center, enabling an AI agent to orchestrate them directly instead of manually dumping data between disconnected apps.

@@ -8,13 +8,13 @@ source_url: https://github.com/ucsandman/DashClaw
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 310
+stars: 312
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 53
-pushed_at: "2026-10-03T01:54:41Z"
+pushed_at: "2026-10-10T01:54:19Z"
 ---
 ## What it is
 Governance runtime for AI agents: a guard tool evaluates risky actions against policy before they execute (block / warn / require human approval), approvals route to a human queue, and every action becomes a replayable decision record with per-action spend tracking. Runs over stdio via npx @dashclaw

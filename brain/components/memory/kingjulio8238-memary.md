@@ -8,13 +8,13 @@ source_url: https://github.com/kingjulio8238/Memary
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2653
+stars: 2659
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 206
+forks: 205
 pushed_at: "2024-10-22T00:46:00Z"
 ---
 ## What it is

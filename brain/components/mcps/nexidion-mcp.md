@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T20:43:01Z"
+pushed_at: "2026-10-04T15:45:57Z"
 ---
 ## What it is
 MCP server that exposes the Nexidion knowledge base as tools, enabling node management, search, and task creation through the MCP protocol. Supports stdio and OAuth-protected HTTP modes with per-user permissions.

@@ -8,14 +8,14 @@ source_url: https://github.com/tt-a1i/archify
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 76961
+stars: 81666
 eval_score: 1
 mentions: 2
 verified_at: 2026-09-26
 related: []
 tags: [sentinel-feed, skills]
-forks: 5198
-pushed_at: "2026-10-04T12:49:45Z"
+forks: 5516
+pushed_at: "2026-10-10T16:54:42Z"
 ---
 ## What it is
 Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.

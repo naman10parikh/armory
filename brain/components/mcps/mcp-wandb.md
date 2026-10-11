@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T19:06:23Z"
+pushed_at: "2026-10-10T08:33:10Z"
 ---
 ## What it is
 Enables LLM agents to query Weights & Biases experiments, including listing projects, runs, metrics, plotting metrics, and retrieving run details.

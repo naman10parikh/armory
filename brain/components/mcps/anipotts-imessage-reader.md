@@ -8,12 +8,12 @@ source_url: https://github.com/anipotts/imessage-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-10-02T21:39:55Z"
+pushed_at: "2026-10-10T04:52:35Z"
 ---
 ## What it is
 MCP server `iMessage Reader`, catalogued on PulseMCP. Read-only access to macOS iMessage database with 26 tools for searching, analyzing, and exporting conversations.

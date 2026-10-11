@@ -8,13 +8,13 @@ source_url: https://github.com/m-555/Apprentice
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-05T18:52:47Z"
+pushed_at: "2026-10-07T07:15:23Z"
 ---
 ## What it is
 A local MCP server that delegates coding tasks to local Qwen and cloud Gemini models, enabling orchestrators like Claude Code to offload routine code generation and receive verified results with automatic correction logging.

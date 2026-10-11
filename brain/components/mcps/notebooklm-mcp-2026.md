@@ -8,12 +8,12 @@ source_url: https://github.com/julianoczkowski/notebooklm-mcp-2026
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 7
 pushed_at: "2026-07-26T05:12:17Z"
 ---
 ## What it is

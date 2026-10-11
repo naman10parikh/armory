@@ -8,12 +8,12 @@ source_url: https://github.com/TehreemArbab/JazzCashMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 72
+stars: 73
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
+forks: 15
 pushed_at: "2026-05-09T13:24:32Z"
 ---
 ## What it is

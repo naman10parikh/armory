@@ -8,12 +8,13 @@ source_url: https://github.com/eric-tramel/slop-guard
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 164
+stars: 165
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
+forks: 13
 pushed_at: "2026-07-09T22:50:22Z"
+mentions: 1
 ---
 ## What it is
 MCP server `Slop Guard`, catalogued on PulseMCP. Rule-based prose linter that scores text 0-100 for formulaic AI writing patterns using compiled regex rules, with no LLM or API calls required.

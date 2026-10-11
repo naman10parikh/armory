@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T02:12:57Z"
+pushed_at: "2026-10-07T09:25:54Z"
 ---
 ## What it is
 Enables AI agents to query and recall your entire Gmail inbox locally, providing fast summarization and semantic search without relying on Gmail's search API.

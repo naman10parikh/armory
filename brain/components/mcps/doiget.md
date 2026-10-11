@@ -8,13 +8,13 @@ source_url: https://github.com/QAtlasHub/doiget
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T07:29:36Z"
+pushed_at: "2026-10-05T07:14:51Z"
 ---
 ## What it is
 Converts DOIs and arXiv IDs into local PDFs via official open-access APIs, designed as an agent-facing companion for academic paper retrieval.

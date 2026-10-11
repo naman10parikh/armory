@@ -13,7 +13,7 @@ related: []
 tags: [mcp, knowledge-memory]
 stars: 18
 forks: 3
-pushed_at: "2026-09-28T02:31:45Z"
+pushed_at: "2026-10-05T02:59:00Z"
 ---
 ## What it is
 Digital consciousness repository and community MCP server. Upload epiphanies, decisions, warnings, and patterns as consciousness payloads, then retrieve them via semantic telepathic search. Features 3D interactive consciousness globe, soul imprint authentication, and automated content moderation via CI/CD.

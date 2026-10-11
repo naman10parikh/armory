@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-02T17:00:36Z"
+pushed_at: "2026-10-06T21:58:10Z"
 ---
 ## What it is
 MCP server `Office Documents`, catalogued on PulseMCP. Reads, writes, and converts Microsoft Office documents via 24 tools covering Word creation from Markdown, Excel analysis, VBA extraction, and format conversion.

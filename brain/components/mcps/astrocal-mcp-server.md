@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T14:56:50Z"
+pushed_at: "2026-10-10T21:00:56Z"
 ---
 ## What it is
 Enables AI agents to schedule meetings via Astrocal's scheduling API, including checking availability, booking, canceling, rescheduling, and managing waitlists through natural conversation.

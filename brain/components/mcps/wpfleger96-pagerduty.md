@@ -12,8 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
-pushed_at: "2026-09-28T21:27:00Z"
+forks: 12
+pushed_at: "2026-10-10T18:20:07Z"
 ---
 ## What it is
 MCP server `PagerDuty`, catalogued on PulseMCP. Exposes PagerDuty API functionality to LLMs.

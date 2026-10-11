@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-29T07:34:33Z"
+pushed_at: "2026-10-05T13:55:59Z"
 ---
 ## What it is
 A modular MCP server providing 64 tools across 13 modules for real-time stock and crypto market data, including scanning, technical analysis, options flow, insider trades, and personalized watchlists.

@@ -8,12 +8,12 @@ source_url: https://github.com/sophymarine/openregistry
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-05-20T01:48:09Z"
+pushed_at: "2026-10-07T03:03:29Z"
 ---
 ## What it is
 MCP server `OpenRegistry`, catalogued on PulseMCP. Connects AI agents to official company registry data from 30 countries for due diligence, ownership analysis, and business verification.

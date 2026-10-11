@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:36:08Z"
+pushed_at: "2026-10-08T00:58:22Z"
 ---
 ## What it is
 MCP server `Backup AI`, catalogued on PulseMCP. AI-assisted backup strategy and data recovery coordination tools.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-09-09T17:07:08Z"
+pushed_at: "2026-10-09T14:32:43Z"
 ---
 ## What it is
 MCP server `Frontapp`, catalogued on PulseMCP. Integrates Claude with Front customer communication platform, enabling AI to manage conversations, contacts, and accounts directly through the Front API with webhook support for real-time event handling.

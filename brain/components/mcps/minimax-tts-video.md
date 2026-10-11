@@ -14,6 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 forks: 285
 pushed_at: "2026-08-20T12:06:49Z"
+mentions: 1
 ---
 ## What it is
 MCP server `MiniMax`, catalogued on PulseMCP. Enables high-quality text-to-speech, voice cloning, and video generation capabilities through MiniMax's API with robust error handling and file management features.

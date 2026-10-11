@@ -8,7 +8,7 @@ source_url: https://github.com/derekrbreese/fantasy-football-mcp-public
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 88
+stars: 90
 eval_score: null
 verified_at: 2026-05-27
 related: []

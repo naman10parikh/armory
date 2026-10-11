@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 72
-pushed_at: "2026-07-13T08:04:01Z"
+pushed_at: "2026-10-09T18:28:09Z"
 ---
 ## What it is
 An MCP server providing AI assistants with 149 tools to fully control the Godot game engine, including runtime code execution, scene manipulation, physics, audio, networking, animation, and more.

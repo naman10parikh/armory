@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-11T04:20:10Z"
+pushed_at: "2026-10-05T08:43:09Z"
 ---
 ## What it is
 Exposes local NVIDIA GPU (CUDA) and Rust-to-WASM toolchain as MCP tools for sovereign local compute.

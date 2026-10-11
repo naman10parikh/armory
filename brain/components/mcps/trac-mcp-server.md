@@ -8,13 +8,13 @@ source_url: https://github.com/nerpatech/trac-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-02T21:43:25Z"
+pushed_at: "2026-10-05T02:42:05Z"
 ---
 ## What it is
 Enables AI agents to manage Trac projects with full CRUD operations on tickets, wiki pages, and milestones via the Model Context Protocol.

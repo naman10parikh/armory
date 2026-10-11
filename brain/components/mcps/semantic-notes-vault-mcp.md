@@ -8,13 +8,13 @@ source_url: https://github.com/aaronsb/obsidian-mcp-plugin
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 463
+stars: 465
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 54
-pushed_at: "2026-09-28T23:50:10Z"
+pushed_at: "2026-10-05T09:09:03Z"
 ---
 ## What it is
 Connects AI assistants to an Obsidian vault as a semantic knowledge graph, enabling graph navigation, semantic search, and content operations through MCP.

@@ -14,6 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 forks: 15
 pushed_at: "2025-05-24T19:15:22Z"
+mentions: 1
 ---
 ## What it is
 MCP server `Video & Audio Editor`, catalogued on PulseMCP. Provides comprehensive video and audio editing capabilities through FFmpeg, enabling operations like format conversion, trimming, subtitle addition, text overlays, and video concatenation with transition effects.

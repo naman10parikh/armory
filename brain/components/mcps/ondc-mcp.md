@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-29T10:25:29Z"
+forks: 2
+pushed_at: "2026-10-08T12:26:34Z"
 ---
 ## What it is
 Enables ONDC compliance automation by providing tools for managing sessions, flows, records, and forms. Supports stateless, horizontally scalable MCP over stdio and Streamable HTTP.

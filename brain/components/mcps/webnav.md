@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-20T10:42:10Z"
+pushed_at: "2026-10-07T16:44:11Z"
 ---
 ## What it is
 webnav is an MCP server that gives web-browsing AI agents a reusable, deterministic site map, so they stop re-exploring sites every run. It enables page-to-page navigation with zero LLM overhead, pausing only at genuine decision points.

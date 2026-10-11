@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T01:33:55Z"
+pushed_at: "2026-10-10T04:55:19Z"
 ---
 ## What it is
 MCP server for US workplace-safety standards (OSHA 29 CFR parts 1900–1990). Enables querying safety regulations via natural language through the Pipeworx gateway.

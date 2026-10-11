@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T18:19:51Z"
+pushed_at: "2026-10-10T17:45:15Z"
 ---
 ## What it is
 MCP server providing UX insights from Vitaly Friedman as searchable tools for any LLM.

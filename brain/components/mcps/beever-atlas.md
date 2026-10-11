@@ -8,12 +8,12 @@ source_url: https://github.com/Beever-AI/beever-atlas
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 450
+stars: 449
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 52
+forks: 51
 pushed_at: "2026-09-10T23:33:03Z"
 ---
 ## What it is

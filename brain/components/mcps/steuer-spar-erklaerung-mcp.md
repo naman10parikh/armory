@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T03:38:22Z"
+pushed_at: "2026-10-09T23:24:52Z"
 ---
 ## What it is
 A local Windows automation MCP server that lets a KI-Agent safely control the SteuerSparErklärung tax software: inventory and open tax cases, read pages, compare receipts and values, and edit verified working copies, with all ELSTER transmission paths locked tight.

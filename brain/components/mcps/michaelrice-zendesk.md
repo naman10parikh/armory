@@ -12,8 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-08-20T15:33:28Z"
+forks: 3
+pushed_at: "2026-10-08T19:37:03Z"
 ---
 ## What it is
 MCP server `Zendesk`, catalogued on PulseMCP. Zendesk integration for Claude Code and MCP clients — manage tickets, knowledge base, and support workflows.

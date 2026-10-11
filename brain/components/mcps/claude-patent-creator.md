@@ -8,13 +8,13 @@ source_url: https://github.com/RobThePCGuy/Claude-Patent-Creator
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 195
+stars: 196
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 29
-pushed_at: "2026-09-09T06:37:14Z"
+forks: 30
+pushed_at: "2026-10-06T17:03:22Z"
 ---
 ## What it is
 An MCP server that enables patent creation and analysis, including regulation search, prior art discovery, claim compliance checks, and patent diagram generation, all within Claude Code.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T16:28:01Z"
+pushed_at: "2026-10-05T16:48:25Z"
 ---
 ## What it is
 Securely feeds summarized expert security rules into your coding assistance Claude Code, Cursor, etc — zero config, no API key.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-06T09:02:46Z"
+pushed_at: "2026-10-05T21:21:07Z"
 ---
 ## What it is
 A private, self-hosted MCP server that wraps a retrieval pipeline over your own data, enabling trusted AI agents to access and manage your personal memory through standard MCP tools.

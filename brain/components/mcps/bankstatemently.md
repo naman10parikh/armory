@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T12:45:02Z"
+pushed_at: "2026-10-10T00:09:24Z"
 ---
 ## What it is
 Parse and query bank statements — turn PDF statements into structured transactions, accounts, and balances, with balance-reconciliation checks. A deterministic financial memory for AI agents, served as a hosted streamable-HTTP endpoint (API key or OAuth).

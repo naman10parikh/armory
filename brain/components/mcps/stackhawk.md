@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-04-13T21:58:01Z"
+pushed_at: "2026-10-09T16:21:02Z"
 ---
 ## What it is
 MCP server `StackHawk`, catalogued on PulseMCP. Dynamic application security testing and API security scanning platform integration

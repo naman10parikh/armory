@@ -8,13 +8,13 @@ source_url: https://github.com/dioptx/mcp-atom-of-thoughts
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 91
+stars: 92
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 13
-pushed_at: "2026-04-28T10:36:17Z"
+pushed_at: "2026-10-08T13:51:44Z"
 ---
 ## What it is
 Structured reasoning MCP server that decomposes problems into atomic steps (premise, reasoning, hypothesis, verification, conclusion) with confidence scoring, live visualization, and approval feedback.

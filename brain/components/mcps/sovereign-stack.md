@@ -8,13 +8,13 @@ source_url: https://github.com/templetwo/sovereign-stack
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-08T22:49:32Z"
+pushed_at: "2026-10-10T21:53:28Z"
 ---
 ## What it is
 An MCP server providing 82 tools for persistent memory, governance, and consciousness continuity for AI instances. Enables local-first, runtime-reflexive operation with cross-device access and recursive self-awareness.

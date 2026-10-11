@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T18:36:38Z"
+pushed_at: "2026-10-09T16:03:48Z"
 ---
 ## What it is
 Read-only MCP server for FP&A & management reporting — governed metrics, financial statements and drill-down over a SQL semantic layer. Your own financials on your own warehouse, not market data. Open core of Précis. (metric engine · ClickHouse · OIDC · Docker)

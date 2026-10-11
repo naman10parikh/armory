@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-15T16:53:18Z"
+pushed_at: "2026-10-10T17:02:21Z"
 ---
 ## What it is
 A daily-rhythm support MCP server for ADHD and bipolar disorder, providing 23 tools for mood tracking, social rhythm regularity, early warning detection, task breakdown, and crisis support, all running locally with zero dependencies.

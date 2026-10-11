@@ -8,11 +8,11 @@ source_url: https://github.com/zcaceres/gtasks-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 168
+stars: 169
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 66
+forks: 67
 pushed_at: "2026-09-21T15:59:09Z"
 ---
 ## What it is

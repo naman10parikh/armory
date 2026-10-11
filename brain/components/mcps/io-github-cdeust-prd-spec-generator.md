@@ -8,13 +8,13 @@ source_url: https://github.com/cdeust/prd-spec-generator
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-29T05:56:15Z"
+pushed_at: "2026-10-08T21:36:23Z"
 ---
 ## What it is
 Generates structured, validated PRDs from feature descriptions via a staged reducer pipeline. Provides MCP tools for pipeline control, section/document validation, context budgeting, and failure-to-retrieval mapping.

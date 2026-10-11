@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T20:15:51Z"
+pushed_at: "2026-10-10T02:52:45Z"
 ---
 ## What it is
 Provides translation and language resources for Kenyan languages including Swahili, Kikuyu, and Luo, with tools for glossaries, language guides, and civic terminology.

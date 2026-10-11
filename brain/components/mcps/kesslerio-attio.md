@@ -12,8 +12,8 @@ stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 20
-pushed_at: "2026-10-03T04:58:14Z"
+forks: 22
+pushed_at: "2026-10-10T23:27:41Z"
 ---
 ## What it is
 MCP server `Attio`, catalogued on PulseMCP. Integrates with Attio CRM platform to enable customer relationship management operations including advanced search with filtering, batch operations for companies and people, list management, note creation, and task handling for sales automation and lead management workflows.

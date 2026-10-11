@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-10-04T13:05:39Z"
+pushed_at: "2026-10-05T20:22:33Z"
 ---
 ## What it is
 MCP server for Posecode

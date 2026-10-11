@@ -8,7 +8,7 @@ source_url: https://github.com/InfinityLoop1308/PipePipe
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 6935
+stars: 6936
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-02-13T04:34:15Z"
+pushed_at: "2026-10-06T10:43:39Z"
 ---
 ## What it is
 Automates documentation updates by analyzing git changes and using an LLM to generate and apply documentation.

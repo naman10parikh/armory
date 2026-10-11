@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-04T13:03:58Z"
+pushed_at: "2026-10-11T00:30:34Z"
 ---
 ## What it is
 An MCP server that enables AI agents to control Android and iOS devices via natural language, using platform tools like adb and simctl.

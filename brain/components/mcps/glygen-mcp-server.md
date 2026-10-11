@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-15T16:36:32Z"
+pushed_at: "2026-10-10T09:40:10Z"
 ---
 ## What it is
 MCP server that enables querying GlyGen for summaries of proteins, glycans, sites, biomarkers, and diseases.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T14:33:27Z"
+pushed_at: "2026-10-08T09:11:00Z"
 ---
 ## What it is
 MCP server that exposes Liga Record fantasy football squad data, rules, and tools to Claude for validating lineups, simulating automatic substitutions, checking transfers, and searching the player market.

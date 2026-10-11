@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T09:36:32Z"
+pushed_at: "2026-10-08T02:35:04Z"
 ---
 ## What it is
 AI-assisted COBOL to modern stack bridge that parses COBOL programs, maps to Python/Java/Go, generates test harnesses, and plans migration for legacy mainframe modernization.

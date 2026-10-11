@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T00:43:18Z"
+pushed_at: "2026-10-06T09:44:58Z"
 ---
 ## What it is
 Full-instance management for self-hosted n8n — including queue mode — through the Model Context Protocol. 51 tools covering workflows, executions, tags, credentials, variables, projects, users, security audit, source control and health monitoring. n8n-pro-mcp connects Claude Code, Claude Desktop, Cu

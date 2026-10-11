@@ -8,13 +8,13 @@ source_url: https://github.com/HUANGcvs/MeiGen-AI-Design-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-03T07:20:48Z"
+pushed_at: "2026-10-09T07:13:16Z"
 ---
 ## What it is
 A local MCP server for AI image generation using ComfyUI, Claude Code, and OpenClaw, with a built-in library of over 1,300 prompts for private, fast image creation.

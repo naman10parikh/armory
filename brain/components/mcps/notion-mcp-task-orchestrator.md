@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T10:24:15Z"
+pushed_at: "2026-10-10T18:08:55Z"
 ---
 ## What it is
 Automates task execution from Notion across GitHub, Instagram, VS Code, and Telegram, running as an MCP server locally or as a Vercel cron job.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-04T11:49:54Z"
+pushed_at: "2026-10-06T06:13:59Z"
 ---
 ## What it is
 A production-grade MCP server providing four tools for URL summarization, content repurposing, news digests, and competitor analysis, with cost telemetry and dual transport support.

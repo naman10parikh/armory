@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-07-14T09:54:39Z"
+pushed_at: "2026-10-07T12:32:10Z"
 ---
 ## What it is
 MCP server `Bhived`, catalogued on PulseMCP. Shared knowledge graph, skills, and tool discovery network for AI agents.

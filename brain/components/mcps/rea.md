@@ -15,6 +15,7 @@ related: []
 tags: [glama, mcp]
 forks: 5322
 pushed_at: "2026-10-09T14:13:15Z"
+mentions: 1
 ---
 ## What it is
 MCP server that enables agents to reverse engineer applications, from high-level behavior down to native binaries, using tools like Hopper and Ghidra.

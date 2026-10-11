@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-10T23:42:50Z"
+pushed_at: "2026-10-09T20:39:46Z"
 ---
 ## What it is
 MCP server `MTG Commander`, catalogued on PulseMCP. Supports Magic: The Gathering Commander/EDH gameplay with 13 tools for card lookup, deck building, price comparison, and rules reference.

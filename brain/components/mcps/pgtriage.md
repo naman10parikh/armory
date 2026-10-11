@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-07T00:45:45Z"
+pushed_at: "2026-10-09T17:44:18Z"
 ---
 ## What it is
 Read-only PostgreSQL performance auditing via MCP. Collects metrics from PostgreSQL system views, applies deterministic checks for index, query, vacuum, configuration, and connection issues, and returns structured findings for MCP clients.

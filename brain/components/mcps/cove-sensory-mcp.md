@@ -8,12 +8,12 @@ source_url: https://github.com/moonlin1213/cove-sensory-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 107
+stars: 108
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 25
+forks: 24
 pushed_at: "2026-08-31T05:44:03Z"
 ---
 ## What it is

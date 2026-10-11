@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-10-03T10:54:54Z"
+pushed_at: "2026-10-05T12:47:49Z"
 ---
 ## What it is
 MCP server `Kapruka`, catalogued on PulseMCP. Connect AI agents to Kapruka's live product catalog — Sri Lanka's largest e-commerce platform.

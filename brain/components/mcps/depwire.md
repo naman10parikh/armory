@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-10-04T09:25:35Z"
+pushed_at: "2026-10-06T13:20:20Z"
 ---
 ## What it is
 MCP server `DepWire`, catalogued on PulseMCP. Builds compiler-accurate dependency graphs at the symbol level, enabling impact analysis, architecture health scoring, dead code detection, security scanning, and arc diagram visualization.

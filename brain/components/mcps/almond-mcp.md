@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-03T22:21:14Z"
+pushed_at: "2026-10-10T18:38:40Z"
 ---
 ## What it is
 Enables interaction with Rhino 8 for architectural design, furniture placement, structural analysis, and publishing to Chestnut via MCP tools.

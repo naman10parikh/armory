@@ -8,14 +8,14 @@ source_url: https://github.com/OpenHands/OpenHands
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 89955
+stars: 90522
 eval_score: null
 mentions: 5
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 11885
-pushed_at: "2026-10-03T22:36:15Z"
+forks: 11985
+pushed_at: "2026-10-11T00:21:26Z"
 ---
 ## What it is
 🙌 OpenHands: AI-Driven Development

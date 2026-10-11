@@ -8,13 +8,13 @@ source_url: https://github.com/roian6/apple-health-ai-bridge
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T13:03:45Z"
+pushed_at: "2026-10-08T12:59:12Z"
 ---
 ## What it is
 Read-only MCP server that exposes Apple Health data (steps, workouts, sleep, etc.) from a local SQLite store, allowing AI agents to query health metrics without sending data to hosted services.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-24T06:07:39Z"
+pushed_at: "2026-10-09T04:07:36Z"
 ---
 ## What it is
 A persistent news intelligence MCP server that enables AI agents to fetch, store, deduplicate, embed, and semantically query news from Google News across 141 countries and 41 languages.

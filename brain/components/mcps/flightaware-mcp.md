@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-03T01:37:58Z"
+pushed_at: "2026-10-09T23:22:05Z"
 ---
 ## What it is
 MCP server for FlightAware AeroAPI that enables live flight tracking, airport boards, operator and aircraft lookup, schedule retrieval, and flight alert management via natural language.

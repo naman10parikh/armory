@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T03:40:35Z"
+pushed_at: "2026-10-05T10:37:49Z"
 ---
 ## What it is
 MCP server for qlda-viot task tracking, providing tools to view dashboard, update work, get item details, and add tasks via natural language.

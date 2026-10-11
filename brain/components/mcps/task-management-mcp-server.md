@@ -8,13 +8,13 @@ source_url: https://github.com/Aayush9029/mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 47
+stars: 48
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 17
-pushed_at: "2026-03-28T18:46:04Z"
+pushed_at: "2026-10-11T00:24:55Z"
 ---
 ## What it is
 Connects AI assistants to a task management API for creating, updating, and tracking tasks with iPhone notifications.

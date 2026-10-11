@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T15:44:46Z"
+pushed_at: "2026-10-04T13:28:12Z"
 ---
 ## What it is
 Enables auditing chart color palettes for colorblindness accessibility by simulating CVD and measuring contrast. Provides tools to audit palettes and design tokens mid-conversation.

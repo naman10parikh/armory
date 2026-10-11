@@ -8,7 +8,7 @@ source_url: https://github.com/dicklesworthstone/ultimate_mcp_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 159
+stars: 161
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

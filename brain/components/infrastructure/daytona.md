@@ -8,13 +8,13 @@ source_url: https://github.com/daytonaio/daytona
 license: AGPL-3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 71665
+stars: 71575
 eval_score: 1
 verified_at: 2026-05-27
 related: []
 tags: [infrastructure, dev-environments]
 mentions: 9
-forks: 5649
+forks: 5644
 pushed_at: "2026-07-24T07:12:07Z"
 ---
 ## What it is

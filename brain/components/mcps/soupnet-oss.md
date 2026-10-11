@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T06:18:06Z"
+pushed_at: "2026-10-04T22:36:52Z"
 ---
 ## What it is
 SoupNet gives your AI agents one shared memory of how you think — across Claude, Cursor, and ChatGPT. Each checks your past decisions as searchable “recipes” and acts on your real judgment. Share it, and your team’s agents inherit that judgment too.

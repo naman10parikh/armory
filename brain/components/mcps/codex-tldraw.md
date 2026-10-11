@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-11T21:25:16Z"
+pushed_at: "2026-10-09T22:04:55Z"
 ---
 ## What it is
 A Codex stdio MCP server that generates simple tldraw product workflow diagrams as .tldr files.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T12:25:41Z"
+pushed_at: "2026-10-10T21:11:22Z"
 ---
 ## What it is
 A local MCP server for Unity Editor that provides 20 editor tools to control scripts, scenes, components, assets, and builds.

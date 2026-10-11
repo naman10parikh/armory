@@ -8,13 +8,13 @@ source_url: https://github.com/yung13yubabie/line-summary
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 26
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-08-03T14:33:56Z"
+forks: 5
+pushed_at: "2026-10-08T10:22:00Z"
 ---
 ## What it is
 Reads local LINE chat history from your own computer and summarizes daily conversations through Claude Code, extracting decryption keys from LINE's memory on Windows.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T12:23:00Z"
+pushed_at: "2026-10-07T08:20:22Z"
 ---
 ## What it is
 An MCP server that provides deterministic, high-precision business, finance, and operational calculations such as SaaS metrics, currency conversion, business days, and financial formulas, returning structured JSON results.

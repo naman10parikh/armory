@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-04T03:54:58Z"
+pushed_at: "2026-10-06T00:17:38Z"
 ---
 ## What it is
 MCP server `Kastell`, catalogued on PulseMCP. Provision, secure, audit, and manage self-hosted servers across Hetzner, DigitalOcean, Vultr, and Linode from a single CLI.

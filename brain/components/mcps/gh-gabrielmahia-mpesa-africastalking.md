@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-31T11:52:42Z"
+pushed_at: "2026-10-10T02:52:44Z"
 ---
 ## What it is
 MCP server `M-Pesa + Africa's Talking`, catalogued on PulseMCP. East African fintech APIs for M-Pesa payments and Africa's Talking SMS/airtime.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T12:02:51Z"
+pushed_at: "2026-10-06T08:12:50Z"
 ---
 ## What it is
 MCP server for Audiobookshelf that lets AI assistants browse libraries and manage listening progress, bookmarks, collections, and playlists.

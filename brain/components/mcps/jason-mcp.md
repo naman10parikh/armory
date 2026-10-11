@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-16T02:00:00Z"
+pushed_at: "2026-10-06T21:18:28Z"
 ---
 ## What it is
 Enables natural language interaction with JetBrains YouTrack, including issue management, sprint operations, team reporting, name-based assignments, and notification checks.

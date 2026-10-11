@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T11:41:04Z"
+pushed_at: "2026-10-10T14:20:33Z"
 ---
 ## What it is
 A declarative AI agent server that provides MCP for tools, A2A for agents, and AG-UI for humans, enabling interactive chat and agent orchestration.
