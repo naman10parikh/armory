@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 89
-pushed_at: "2026-10-10T10:05:27Z"
+pushed_at: "2026-10-11T10:01:37Z"
 ---
 ## What it is
 An MCP server that gives AI agents full access to the Harness.io platform through 11 consolidated tools and 207 resource types.

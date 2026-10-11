@@ -15,7 +15,7 @@ verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 1265
-pushed_at: "2026-10-11T00:57:46Z"
+pushed_at: "2026-10-11T07:12:49Z"
 ---
 ## What it is
 Effortlessly compose, extend, and observe every service in real-time for the first time ever.

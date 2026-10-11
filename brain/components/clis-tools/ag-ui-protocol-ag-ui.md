@@ -8,13 +8,13 @@ source_url: https://github.com/ag-ui-protocol/ag-ui
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 16441
+stars: 16453
 eval_score: null
 mentions: 6
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, cli]
-forks: 1498
+forks: 1499
 pushed_at: "2026-10-10T02:54:39Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-10-10T09:06:32Z"
+pushed_at: "2026-10-11T08:25:36Z"
 ---
 ## What it is
 Enables MCP clients to query educational dermatology knowledge, access optional MoleCare mole-tracking and analysis tools, and explore MLOps and infrastructure operations with safe mock data when no credentials are configured.

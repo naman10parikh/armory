@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T15:57:30Z"
+pushed_at: "2026-10-11T03:54:09Z"
 ---
 ## What it is
 An MCP server that provides OpenCode's native tools (file read/write/edit, search, shell, web fetch/search, and more) to compatible Code CLIs like Codex and Claude Code.

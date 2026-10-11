@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T00:52:24Z"
+pushed_at: "2026-10-11T06:01:35Z"
 ---
 ## What it is
 Local MCP server exposing Figma REST API tools to AI agents, enabling file reads, comments, variables, and other resource operations. Works with personal access tokens and integrates with Claude, Cursor, Codex, and more.

@@ -15,7 +15,7 @@ verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 7
-pushed_at: "2026-10-09T10:45:50Z"
+pushed_at: "2026-10-11T02:14:06Z"
 ---
 ## What it is
 A2E: cited by 1 practitioner note in the Sentinel brain.

@@ -8,7 +8,7 @@ source_url: https://github.com/rowboatlabs/rowboat
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 18004
+stars: 18007
 eval_score: null
 mentions: 2
 verified_at: 2026-10-11

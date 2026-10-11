@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-10-10T19:52:11Z"
+pushed_at: "2026-10-11T11:00:35Z"
 ---
 ## What it is
 Enables agents to discover and execute Stellar ecosystem services and skills via a search tool and a sandboxed JavaScript execution tool, deployed on Cloudflare Workers.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-10T13:46:21Z"
+pushed_at: "2026-10-11T07:29:26Z"
 ---
 ## What it is
 MCP server `PRTS`, catalogued on PulseMCP. Access Arknights game data via the PRTS Wiki API, including operator profiles, voice lines, story events, and wiki articles.

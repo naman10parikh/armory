@@ -8,12 +8,12 @@ source_url: https://github.com/morluto/jacobian
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 222
+stars: 228
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 19
+forks: 20
 pushed_at: "2026-10-05T09:21:40Z"
 ---
 ## What it is

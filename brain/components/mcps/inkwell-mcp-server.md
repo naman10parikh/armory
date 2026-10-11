@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-10T03:41:03Z"
+pushed_at: "2026-10-11T03:24:50Z"
 ---
 ## What it is
 Enables AI agents to publish and manage content on Inkwell sites via 12 tools, including inbox publishing, content management, and site configuration.

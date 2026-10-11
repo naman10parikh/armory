@@ -8,7 +8,7 @@ source_url: https://github.com/SupercmoHQ/superCMO-skills
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 73
+stars: 74
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-10T12:26:46Z"
+pushed_at: "2026-10-11T10:14:32Z"
 ---
 ## What it is
 MCP server `Semahash`, catalogued on PulseMCP. Content-addressed semantics with fail-closed handshakes over 453 cognitive patterns.

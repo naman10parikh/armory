@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-06-22T20:00:25Z"
+pushed_at: "2026-10-11T13:07:27Z"
 ---
 ## What it is
 MCP server `Hop`, catalogued on PulseMCP. SSH connection manager with fuzzy matching, TUI dashboard, multi-exec, and jump host support.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 29
-pushed_at: "2026-10-09T12:09:07Z"
+pushed_at: "2026-10-11T07:15:43Z"
 ---
 ## What it is
 MCP server that turns DOI, URL, or paper titles into structured Markdown full-text with metadata and assets, enabling AI agents to read beyond abstracts.

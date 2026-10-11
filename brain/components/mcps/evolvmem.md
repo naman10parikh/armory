@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T20:40:16Z"
+pushed_at: "2026-10-11T08:16:42Z"
 ---
 ## What it is
 A fully-local, three-layer memory plugin for Claude Code with Chinese support, offering hybrid FTS5/trigram and HNSW vector search, self-iterating memory management, consolidation, and a web console.

@@ -8,13 +8,13 @@ source_url: https://github.com/stackql/stackql
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1067
+stars: 1068
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 87
-pushed_at: "2026-10-11T00:56:53Z"
+pushed_at: "2026-10-11T04:15:38Z"
 ---
 ## What it is
 Open source SQL-native query and provisioning engine for cloud and SaaS infrastructure. Ships as a single signed binary with MCP tools for provider discovery, schema exploration, queries, and lifecycle operations.

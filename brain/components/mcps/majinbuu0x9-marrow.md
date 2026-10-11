@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-10T20:52:09Z"
+pushed_at: "2026-10-11T09:48:29Z"
 ---
 ## What it is
 MCP server `Marrow`, catalogued on PulseMCP. AI memory and decision intelligence system with auto-logging, performance tracking, and workflow templates.

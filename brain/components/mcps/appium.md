@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 92
-pushed_at: "2026-10-10T20:13:52Z"
+pushed_at: "2026-10-11T07:08:31Z"
 ---
 ## What it is
 MCP server `Appium`, catalogued on PulseMCP. Mobile automation testing for iOS and Android devices with intelligent test generation

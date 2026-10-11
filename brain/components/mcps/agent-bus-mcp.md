@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-10T17:41:12Z"
+pushed_at: "2026-10-11T11:21:52Z"
 ---
 ## What it is
 A local MCP server that connects AI coding agents (Claude Code, Codex, Cursor, etc.) on the same machine via a shared message bus, enabling them to chat, delegate tasks, and collaborate privately without cloud or internet.

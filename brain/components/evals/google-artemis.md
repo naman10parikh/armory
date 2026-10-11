@@ -8,13 +8,13 @@ source_url: https://github.com/google/artemis
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 11304
+stars: 11326
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, evals]
-forks: 1156
+forks: 1160
 pushed_at: "2026-10-01T21:37:15Z"
 ---
 ## What it is

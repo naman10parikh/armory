@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T09:38:45Z"
+pushed_at: "2026-10-11T07:50:51Z"
 ---
 ## What it is
 MCP server that fetches URLs and reduces token cost by 90%+ via DOM AST extraction, returning compact Markdown.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 29
-pushed_at: "2026-10-10T09:49:56Z"
+pushed_at: "2026-10-11T09:59:47Z"
 ---
 ## What it is
 MCP server `OpenRouter`, catalogued on PulseMCP. Provides seamless access to OpenRouter's diverse AI models, enabling multimodal interactions across vision and language models with intelligent model selection, caching, and robust error handling.

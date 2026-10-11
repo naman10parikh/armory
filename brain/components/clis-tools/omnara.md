@@ -13,7 +13,7 @@ related: [claude-esp, claude-tmux]
 tags: [claude-code, alternative-clients]
 stars: 2905
 mentions: 4
-forks: 233
+forks: 234
 pushed_at: "2026-10-10T04:14:08Z"
 ---
 ## What it is

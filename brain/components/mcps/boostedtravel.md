@@ -12,8 +12,8 @@ stars: 2135
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 143
-pushed_at: "2026-10-09T09:47:00Z"
+forks: 144
+pushed_at: "2026-10-11T07:34:20Z"
 ---
 ## What it is
 MCP server `BoostedTravel`, catalogued on PulseMCP. Flight search and booking for AI agents across 400+ airlines.

@@ -8,12 +8,12 @@ source_url: https://github.com/modelscope/FunASR
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20637
+stars: 20642
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2073
+forks: 2075
 pushed_at: "2026-10-10T13:11:37Z"
 ---
 ## What it is

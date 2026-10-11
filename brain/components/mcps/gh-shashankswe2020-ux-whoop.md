@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 67
-pushed_at: "2026-10-09T14:19:31Z"
+pushed_at: "2026-10-11T08:54:04Z"
 ---
 ## What it is
 MCP server `WHOOP`, catalogued on PulseMCP. Accesses WHOOP fitness device data including recovery scores, sleep analysis, and workout history.

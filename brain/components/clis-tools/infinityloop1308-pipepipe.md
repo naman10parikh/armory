@@ -8,13 +8,13 @@ source_url: https://github.com/InfinityLoop1308/PipePipe
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 6937
+stars: 6938
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 247
+forks: 249
 pushed_at: "2026-09-26T08:12:59Z"
 ---
 ## What it is

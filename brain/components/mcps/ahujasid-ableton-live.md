@@ -8,11 +8,11 @@ source_url: https://github.com/ahujasid/ableton-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3171
+stars: 3173
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 430
+forks: 431
 pushed_at: "2026-09-22T10:37:13Z"
 ---
 ## What it is

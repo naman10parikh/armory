@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T04:35:37Z"
+pushed_at: "2026-10-11T04:34:22Z"
 ---
 ## What it is
 Captures a coding agent's session into an Intent Document, enabling guided and verifiable pull-request reviews on GitHub.

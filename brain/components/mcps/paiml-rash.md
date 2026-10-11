@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-10T14:58:30Z"
+pushed_at: "2026-10-11T10:32:25Z"
 ---
 ## What it is
 MCP server `Rash`, catalogued on PulseMCP. Rust-to-shell transpiler with formal correctness guarantees

@@ -8,14 +8,14 @@ source_url: https://github.com/Louis-CFM/coucou
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 4704
+stars: 4761
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 781
-pushed_at: "2026-10-10T23:26:51Z"
+forks: 791
+pushed_at: "2026-10-11T13:20:00Z"
 ---
 ## What it is
 A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.

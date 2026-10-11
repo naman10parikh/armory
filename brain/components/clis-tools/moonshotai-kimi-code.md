@@ -8,14 +8,14 @@ source_url: https://github.com/MoonshotAI/kimi-code
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 7826
+stars: 7834
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1283
-pushed_at: "2026-10-10T15:22:52Z"
+forks: 1284
+pushed_at: "2026-10-11T12:35:51Z"
 ---
 ## What it is
 Kimi Code CLI  —  The Starting Point for Next-Gen Agents

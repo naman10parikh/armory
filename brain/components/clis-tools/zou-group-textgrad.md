@@ -8,7 +8,7 @@ source_url: https://github.com/zou-group/textgrad
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3754
+stars: 3755
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10

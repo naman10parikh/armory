@@ -8,13 +8,13 @@ source_url: https://github.com/sierra-research/tau2-bench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2205
+stars: 2209
 eval_score: 0
 mentions: 3
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, evals]
-forks: 572
+forks: 573
 pushed_at: "2026-10-07T04:04:45Z"
 ---
 ## What it is

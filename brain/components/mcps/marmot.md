@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 32
-pushed_at: "2026-10-08T18:01:00Z"
+pushed_at: "2026-10-11T10:25:48Z"
 ---
 ## What it is
 MCP server `Marmot Data Catalog`, catalogued on PulseMCP. Open-source data catalog with asset search, lineage exploration, and ownership tracking.

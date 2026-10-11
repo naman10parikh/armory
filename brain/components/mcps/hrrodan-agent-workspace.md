@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-11T01:29:01Z"
+pushed_at: "2026-10-11T09:53:10Z"
 ---
 ## What it is
 MCP server `Agent Workspace`, catalogued on PulseMCP. Sandboxed agentic workspace for secure filesystem operations, bash execution, and uv-powered Python in an isolated container.
