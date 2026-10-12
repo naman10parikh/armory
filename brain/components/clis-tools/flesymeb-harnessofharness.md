@@ -8,13 +8,13 @@ source_url: https://github.com/Flesymeb/HarnessOfHarness
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 158
+stars: 162
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 16
+forks: 17
 pushed_at: "2026-09-28T08:03:38Z"
 ---
 ## What it is

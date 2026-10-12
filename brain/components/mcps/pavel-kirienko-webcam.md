@@ -8,11 +8,11 @@ source_url: https://github.com/pavel-kirienko/webcam_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
+forks: 2
 pushed_at: "2026-01-26T18:58:04Z"
 ---
 ## What it is

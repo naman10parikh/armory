@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T21:16:23Z"
+pushed_at: "2026-10-11T20:33:40Z"
 ---
 ## What it is
 Cadastre is an address book and rulebook for infrastructure, giving people and AI agents a single place to query facts about servers, services, networks, domains, repositories, and deployment policies, with provenance and trust signals.

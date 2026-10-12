@@ -8,11 +8,11 @@ source_url: https://github.com/kggzs/apkmcp-auto
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 211
+stars: 220
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 37
+forks: 40
 pushed_at: "2026-04-09T08:51:35Z"
 ---
 ## What it is

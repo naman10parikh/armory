@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T21:40:36Z"
+pushed_at: "2026-10-08T23:46:21Z"
 ---
 ## What it is
 Enables querying Solana transaction details via the Solscan Pro v2 API.

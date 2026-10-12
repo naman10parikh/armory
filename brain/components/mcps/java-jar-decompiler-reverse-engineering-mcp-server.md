@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T17:56:48Z"
+pushed_at: "2026-10-06T23:29:59Z"
 ---
 ## What it is
 Enables decompilation and reverse engineering of Java JAR files through multi-engine decompilation, candidate evaluation, Maven project structuring, AST-based deobfuscation, and bytecode comparison.

@@ -8,14 +8,14 @@ source_url: https://github.com/block/buzz
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 35822
+stars: 35882
 eval_score: null
 mentions: 3
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 4739
-pushed_at: "2026-10-10T22:31:24Z"
+forks: 4747
+pushed_at: "2026-10-12T15:38:54Z"
 ---
 ## What it is
 A hive mind communication platform

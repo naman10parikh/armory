@@ -8,7 +8,7 @@ source_url: https://github.com/chemiguel23/memorymesh
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 353
+stars: 354
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

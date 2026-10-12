@@ -1,6 +1,6 @@
 # infrastructure/: 53 components (catalog view)
 
-**Last updated:** 2026-10-11T23:17:46.562Z (UTC), when `catalog.json` was last generated.
+**Last updated:** 2026-10-12T16:36:21.740Z (UTC), when `catalog.json` was last generated.
 
 Each `<slug>.md` is a slim install card generated from `brain/components/infrastructure/`.
 

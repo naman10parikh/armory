@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-14T09:27:02Z"
+pushed_at: "2026-10-12T15:05:12Z"
 ---
 ## What it is
 Provides an MCP Apps interface to the Upvote Club API, enabling task management with an inline progress card UI in Claude.

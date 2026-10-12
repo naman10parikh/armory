@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 24
-pushed_at: "2026-10-03T15:00:59Z"
+pushed_at: "2026-10-12T14:50:18Z"
 ---
 ## What it is
 MCP server `Task Orchestrator`, catalogued on PulseMCP. Enforces server-side workflow discipline for AI agents through persistent work items, typed dependency graphs, quality gates, and actor attribution.

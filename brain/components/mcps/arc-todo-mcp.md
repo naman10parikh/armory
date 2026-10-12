@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T19:59:47Z"
+pushed_at: "2026-10-09T03:52:50Z"
 ---
 ## What it is
 MCP server that wraps the Arc Todo REST API to manage tasks, knowledge, and workspace context via Streamable HTTP.

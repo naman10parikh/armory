@@ -8,7 +8,7 @@ source_url: https://github.com/facebookresearch/ProgramBench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 950
+stars: 952
 eval_score: null
 mentions: 3
 verified_at: 2026-10-10

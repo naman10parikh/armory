@@ -8,11 +8,11 @@ source_url: https://github.com/iakov-gan/mcp-server-visio
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
+forks: 10
 pushed_at: "2026-03-18T21:15:05Z"
 ---
 ## What it is

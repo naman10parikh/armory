@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T20:15:59Z"
+pushed_at: "2026-10-10T02:29:46Z"
 ---
 ## What it is
 Provides tools for Kenyans abroad to navigate dual citizenship, diaspora taxes, homeland investment, document verification, and community resources via MCP.

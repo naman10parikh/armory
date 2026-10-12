@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-09-27T03:37:48Z"
+pushed_at: "2026-10-06T11:52:47Z"
 ---
 ## What it is
 Figma MCP server with full read/write access via plugin bridge — no API token, no rate limits. 83 tools for design automation: styles, variables, components, prototypes, and content.

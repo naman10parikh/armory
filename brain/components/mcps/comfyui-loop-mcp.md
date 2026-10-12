@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T12:51:33Z"
+pushed_at: "2026-10-12T13:42:54Z"
 ---
 ## What it is
 A loop-aware MCP server for your own ComfyUI that enforces a build-run-look-critique-fix cycle, making the model iterate on pixel quality until the output matches the brief.

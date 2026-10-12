@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T13:33:49Z"
+pushed_at: "2026-10-12T14:23:12Z"
 ---
 ## What it is
 Stops your AI from re-introducing bugs, leaking provider keys, or weakening tests. Bug fixes become permanent regression guards; blocked mistakes become AI lessons the agent reads and learns from before its next edit.

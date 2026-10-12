@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-22T16:12:11Z"
+pushed_at: "2026-10-07T17:40:08Z"
 ---
 ## What it is
 Read-only MCP server for the Bucharest Stock Exchange, exposing instrument data, OHLCV candles, and fundamentals through a public backend with no authentication.

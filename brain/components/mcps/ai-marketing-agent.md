@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
 forks: 0
-pushed_at: "2025-12-18T20:07:16Z"
+pushed_at: "2026-10-12T15:32:46Z"
 ---
 ## What it is
 Search Enji’s blog, Q&A, and help center to find grounded, source-backed answers to small-business marketing questions. Generate customer personas, brand voice summaries, and tailored social and blog ideas to plan content faster. Access free resources and tools to stay consistent and confident in yo

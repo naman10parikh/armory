@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-16T21:49:22Z"
+pushed_at: "2026-10-06T20:27:31Z"
 ---
 ## What it is
 Enables natural language interaction with Rize workspace data, including time entry management, AI suggestions, time analysis, team administration, and profitability reporting.

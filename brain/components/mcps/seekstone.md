@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-02T04:03:51Z"
+pushed_at: "2026-10-12T15:50:44Z"
 ---
 ## What it is
 MCP Server for Obsidian.

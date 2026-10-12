@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-29T07:30:12Z"
+pushed_at: "2026-10-07T08:43:30Z"
 ---
 ## What it is
 MCP server for gittr.space, a decentralized Git platform on Nostr, enabling AI agents to create repos, push code, manage issues/PRs, and work with Lightning bounties using Nostr identity.

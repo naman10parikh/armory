@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T16:09:29Z"
+pushed_at: "2026-10-09T13:45:17Z"
 ---
 ## What it is
 Enables to manage Toggl time entries, projects, tasks, and timers through natural language commands.

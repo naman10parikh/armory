@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-04T08:15:29Z"
+pushed_at: "2026-10-11T08:35:26Z"
 ---
 ## What it is
 MCP server `CloudPrice`, catalogued on PulseMCP. Compare cloud pricing across AWS, Azure, and GCP for infrastructure decisions.

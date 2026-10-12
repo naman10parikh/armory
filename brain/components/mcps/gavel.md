@@ -8,13 +8,13 @@ source_url: https://github.com/gavelcode/gavel
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-14T20:06:52Z"
+pushed_at: "2026-10-05T20:12:34Z"
 ---
 ## What it is
 MCP server for gavel, a code-quality gate for Bazel monorepos. Exposes judge, findings, coverage and architecture tools so a coding agent can check its change against the quality gate (lint, coverage, layer rules) before declaring it done — all off the Bazel build graph, over just what changed.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T14:38:32Z"
+pushed_at: "2026-10-07T17:41:10Z"
 ---
 ## What it is
 Enables AI agents to discover and call Xyte's device management API endpoints with typed validation, supporting fleet investigation, ticket management, and routine operations through natural language.

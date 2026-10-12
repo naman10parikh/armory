@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-03T04:13:00Z"
+pushed_at: "2026-10-08T12:50:34Z"
 ---
 ## What it is
 Agent-friendly query layer over the ASD Information Security Manual, served via MCP. Enables agents to discover and interrogate ISM controls using plain language queries and coverage tracking for IRAP review.

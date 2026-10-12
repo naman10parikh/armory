@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-30T14:07:15Z"
+pushed_at: "2026-10-11T14:06:52Z"
 ---
 ## What it is
 Enables AI to read full-text WeChat Official Account articles, returning title, author, publish time, and clean Markdown content.

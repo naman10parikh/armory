@@ -15,7 +15,7 @@ verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, memory]
 forks: 281
-pushed_at: "2026-10-05T08:15:48Z"
+pushed_at: "2026-10-12T14:04:45Z"
 ---
 ## What it is
 One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.

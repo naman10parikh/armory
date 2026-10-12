@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-10-04T17:17:48Z"
+pushed_at: "2026-10-10T15:15:18Z"
 ---
 ## What it is
 A Windows computer use agent — FastMCP server that gives AI assistants hands on the real desktop: windows, UI elements, mouse, keyboard, screenshots, OCR, shortcuts, dialogs, and outcome verification.

@@ -8,13 +8,13 @@ source_url: https://github.com/bensenescu/downy
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 197
+stars: 198
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 34
+forks: 35
 pushed_at: "2026-05-06T16:41:36Z"
 ---
 ## What it is

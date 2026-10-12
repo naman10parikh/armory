@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T18:18:06Z"
+pushed_at: "2026-10-08T16:47:57Z"
 ---
 ## What it is
 Enables AI agents and IDEs to search official Avalanche documentation, query live C-Chain/P-Chain/X-Chain and Data API data, and follow guided workflows for launching L1s, configuring precompiles, and building cross-chain applications.

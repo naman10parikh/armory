@@ -14,7 +14,7 @@ verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, blogging-content]
 forks: 1
-pushed_at: "2026-10-05T05:12:59Z"
+pushed_at: "2026-10-12T05:36:15Z"
 ---
 ## What it is
 Personal hobby blog

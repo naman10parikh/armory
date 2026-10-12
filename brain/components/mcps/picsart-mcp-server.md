@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-02T13:20:41Z"
+pushed_at: "2026-10-06T21:26:52Z"
 ---
 ## What it is
 Enables AI agents and terminals to generate images, video, and audio using 141 models from 28 providers via the Picsart gen-ai API.

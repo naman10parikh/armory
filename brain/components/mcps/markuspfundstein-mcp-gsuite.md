@@ -8,11 +8,11 @@ source_url: https://github.com/markuspfundstein/mcp-gsuite
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 490
+stars: 489
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 100
+forks: 99
 pushed_at: "2025-04-14T10:41:50Z"
 ---
 ## What it is

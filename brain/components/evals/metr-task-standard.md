@@ -8,13 +8,13 @@ source_url: https://github.com/METR/task-standard
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 196
+stars: 198
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, agents, task-standard, safety]
-forks: 39
-pushed_at: "2025-02-03T21:50:42Z"
+forks: 40
+pushed_at: "2026-10-07T14:04:00Z"
 ---
 ## What it is
 METR's Task Standard: a specification and scaffold for creating agentic tasks used in autonomous agent capability evaluations.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-28T13:48:45Z"
+pushed_at: "2026-10-10T13:15:55Z"
 ---
 ## What it is
 MCP server `NASA ADS`, catalogued on PulseMCP. MCP server for NASA Astrophysics Data System

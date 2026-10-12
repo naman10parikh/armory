@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-01T09:51:05Z"
+pushed_at: "2026-10-09T00:10:12Z"
 ---
 ## What it is
 A lightweight MCP server that connects LLM agents to BACnet devices for building automation, enabling real-time monitoring, actuation, and task orchestration.

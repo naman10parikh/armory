@@ -8,12 +8,12 @@ source_url: https://github.com/vanooo/upwork-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 70
+stars: 72
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 23
+forks: 22
 pushed_at: "2026-03-06T10:47:47Z"
 ---
 ## What it is

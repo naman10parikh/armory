@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-02T08:24:09Z"
+pushed_at: "2026-10-07T06:44:29Z"
 ---
 ## What it is
 MCP server `Geth Proxy`, catalogued on PulseMCP. Provides a proxy bridge to Ethereum JSON-RPC endpoints for querying blockchain data and executing Ethereum operations with built-in safety features, friendly aliases, and support for both standard and Geth-specific APIs.

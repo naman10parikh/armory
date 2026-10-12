@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-23T15:53:58Z"
+pushed_at: "2026-10-07T10:25:38Z"
 ---
 ## What it is
 Enables local MCP clients to interact with xAI Grok through OAuth PKCE, supporting chat, X search, image/video generation, TTS, and transcription.

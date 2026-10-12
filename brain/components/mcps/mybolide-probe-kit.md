@@ -8,12 +8,12 @@ source_url: https://github.com/mybolide/mcp-probe-kit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-09-23T03:50:36Z"
+pushed_at: "2026-10-08T10:46:38Z"
 ---
 ## What it is
 MCP server `Probe Kit`, catalogued on PulseMCP. Development toolkit providing 23 specialized tools for software development workflows including code generation, project management, code quality analysis, and project utilities across the entire development lifecycle.

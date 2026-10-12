@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-03T22:43:32Z"
+pushed_at: "2026-10-10T22:44:29Z"
 ---
 ## What it is
 MCP server `CodeQR`, catalogued on PulseMCP. Manages short links, QR codes, analytics, and lead tracking through the CodeQR platform.

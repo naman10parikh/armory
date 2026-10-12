@@ -8,11 +8,11 @@ source_url: https://github.com/pimzino/spec-workflow-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4299
+stars: 4304
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 356
+forks: 355
 pushed_at: "2026-07-03T19:19:12Z"
 ---
 ## What it is

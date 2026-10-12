@@ -8,13 +8,13 @@ source_url: https://github.com/veracium-ai/Veracium
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-05T06:31:56Z"
+pushed_at: "2026-10-12T15:56:31Z"
 ---
 ## What it is
 Provides agents with durable, provenance-aware memory through tools for remembering, recalling, answering, and maintaining information, while structurally resisting injection and confabulation.

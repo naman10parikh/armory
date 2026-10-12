@@ -12,8 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
-pushed_at: "2026-08-26T13:29:32Z"
+forks: 9
+pushed_at: "2026-10-12T15:16:21Z"
 ---
 ## What it is
 MCP server `Lichess`, catalogued on PulseMCP. Integrates with the Lichess chess platform to enable natural language-driven gameplay, analysis, and tournament participation through its API.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-05T08:13:39Z"
+pushed_at: "2026-10-08T03:53:52Z"
 ---
 ## What it is
 MCP server `OpenStreetMap`, catalogued on PulseMCP. Integrates with OpenStreetMap to provide location-based services including geocoding, points of interest search, route planning, and neighborhood analysis for applications requiring geospatial intelligence without API keys.

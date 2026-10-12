@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T19:29:02Z"
+pushed_at: "2026-10-11T02:21:30Z"
 ---
 ## What it is
 Enables agents to run evals mid-task, providing tools to validate suites, execute model comparisons, and inspect calibration and win-rate reports.

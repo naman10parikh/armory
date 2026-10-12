@@ -8,13 +8,13 @@ source_url: https://github.com/Atypical-Consulting/RoselineMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T04:40:24Z"
+pushed_at: "2026-10-11T06:01:55Z"
 ---
 ## What it is
 Provides Roslyn-based code intelligence for AI coding agents via MCP, enabling efficient navigation and surgical edits of C# solutions.

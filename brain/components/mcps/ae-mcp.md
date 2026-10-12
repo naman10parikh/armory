@@ -8,13 +8,13 @@ source_url: https://github.com/JUNKDOGE-JOE/after-effects-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 75
+stars: 80
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-09-30T16:50:18Z"
+pushed_at: "2026-10-11T14:03:18Z"
 ---
 ## What it is
 Enables MCP clients to drive Adobe After Effects via a Python server and CEP panel, supporting inspection, mutation, preview, checkpoint/revert, skills, and basic rigging.

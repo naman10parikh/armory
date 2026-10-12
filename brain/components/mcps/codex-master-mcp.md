@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T05:11:45Z"
+pushed_at: "2026-10-11T01:28:36Z"
 ---
 ## What it is
 A local MCP server that controls two Codex CLI agent instances via tmux, enabling parallel agent operations with lifecycle management, status classification, and secure path handling.

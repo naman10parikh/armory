@@ -8,14 +8,14 @@ source_url: https://github.com/razzant/ouroboros
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1434
+stars: 1443
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 656
-pushed_at: "2026-10-10T22:08:12Z"
+forks: 660
+pushed_at: "2026-10-12T14:59:12Z"
 ---
 ## What it is
 Ouroboros — self-creating AI agent. Born Feb 16, 2026.

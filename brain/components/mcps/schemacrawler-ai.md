@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-05T07:15:55Z"
+pushed_at: "2026-10-12T16:13:43Z"
 ---
 ## What it is
 MCP server `SchemaCrawler AI`, catalogued on PulseMCP. Database schema exploration through natural language queries

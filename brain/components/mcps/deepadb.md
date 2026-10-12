@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-02T05:24:32Z"
+pushed_at: "2026-10-11T02:08:59Z"
 ---
 ## What it is
 A comprehensive MCP server that enables AI agents to interact with Android devices through Android Debug Bridge (ADB), offering 198 tools for device control, app management, diagnostics, and more.

@@ -8,12 +8,12 @@ source_url: https://github.com/mlava/scholar-sidekick-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T03:31:25Z"
+pushed_at: "2026-10-12T01:03:14Z"
 ---
 ## What it is
 MCP server `Scholar Sidekick`, catalogued on PulseMCP. Resolve, format, and export academic citations.

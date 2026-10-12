@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T23:26:11Z"
+pushed_at: "2026-10-11T19:42:21Z"
 ---
 ## What it is
 Enables search and retrieval of Shakespeare monologue metadata including character, play, first line, and paraphrases through various tools.

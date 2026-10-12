@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-16T05:45:47Z"
+pushed_at: "2026-10-08T02:28:59Z"
 ---
 ## What it is
 ADR Class 9 compliance toolkit for UK car transporters moving damaged or recalled EVs, enabling automated risk classification, documentation, and safety checks.

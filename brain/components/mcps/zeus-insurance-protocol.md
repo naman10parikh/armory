@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-05T13:58:02Z"
+pushed_at: "2026-10-12T03:40:41Z"
 ---
 ## What it is
 Decentralized insurance and escrow for AI agents. Buy coverage against API failures and validator slashing via MCP tools. Live on X Layer (chainId 196).

@@ -12,8 +12,8 @@ stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-10-02T12:16:17Z"
+forks: 1
+pushed_at: "2026-10-12T14:34:35Z"
 ---
 ## What it is
 MCP server `HasData`, catalogued on PulseMCP. Web scraping and data extraction with 40+ tools covering Google Search, Maps, Amazon, Zillow, Airbnb, Indeed, and other structured data sources.

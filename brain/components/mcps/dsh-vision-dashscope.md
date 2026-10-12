@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-05T15:46:54Z"
+pushed_at: "2026-10-08T04:57:23Z"
 ---
 ## What it is
 MCP server for recognizing and generating images, videos, and audio via DashScope, with support for large video uploads and local output previews.

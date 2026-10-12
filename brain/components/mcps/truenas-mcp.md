@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T18:55:33Z"
+pushed_at: "2026-10-05T22:13:26Z"
 ---
 ## What it is
 Read-only MCP server for TrueNAS SCALE 25.10+ that connects via JSON-RPC 2.0 WebSocket API, providing tools to inspect storage, shares, services, system info, jobs, and alerts.

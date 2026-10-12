@@ -8,12 +8,12 @@ source_url: https://github.com/smith-horn/skillsmith
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 76
+stars: 77
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 18
-pushed_at: "2026-10-05T14:42:38Z"
+pushed_at: "2026-10-12T16:24:48Z"
 ---
 ## What it is
 MCP server `Skillsmith`, catalogued on PulseMCP. Discover, install, and manage reusable skills for Claude Code.

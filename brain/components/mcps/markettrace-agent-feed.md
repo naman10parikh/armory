@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T11:51:05Z"
+pushed_at: "2026-10-06T16:09:51Z"
 ---
 ## What it is
 Read-only crypto perps microstructure for AI agents: normalized cross-exchange market state (funding + multi-year percentile, OI, volume, CVD, order-book imbalance, liquidations, basis), OHLCV, 15-min state history, and measured conditional outcomes (historical base rates, not predictions) — 6 asset

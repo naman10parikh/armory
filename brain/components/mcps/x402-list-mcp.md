@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T19:30:24Z"
+pushed_at: "2026-10-10T15:20:57Z"
 ---
 ## What it is
 Enables AI agents to discover x402 payment services and query on-chain-verified settlement volumes per facilitator through the Model Context Protocol.

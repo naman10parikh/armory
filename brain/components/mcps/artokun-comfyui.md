@@ -8,11 +8,11 @@ source_url: https://github.com/artokun/comfyui-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 789
+stars: 816
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 135
+forks: 137
 pushed_at: "2026-10-05T09:26:43Z"
 ---
 ## What it is

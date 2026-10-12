@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T12:44:18Z"
+pushed_at: "2026-10-08T04:27:07Z"
 ---
 ## What it is
 Provides text analysis tools including word counting, reading time estimation, keyword density analysis, and sentiment scoring.

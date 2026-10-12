@@ -8,12 +8,12 @@ source_url: https://github.com/stanford-crfm/helm
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 2934
+stars: 2939
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, benchmark, academic, stanford]
-forks: 421
+forks: 423
 pushed_at: "2026-09-01T01:33:19Z"
 ---
 ## What it is

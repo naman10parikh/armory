@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-29T22:57:53Z"
+pushed_at: "2026-10-05T17:56:31Z"
 ---
 ## What it is
 MCP server `Bray`, catalogued on PulseMCP. Trust-aware Nostr MCP server for AI agents with tools for social interactions, direct messages, payments, and cryptographic identity.

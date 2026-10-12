@@ -15,7 +15,7 @@ verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, evals]
 forks: 0
-pushed_at: "2026-10-06T16:18:35Z"
+pushed_at: "2026-10-12T11:05:35Z"
 ---
 ## What it is
 AgenticBBO-Bench: cited by 1 practitioner note in the Sentinel brain.

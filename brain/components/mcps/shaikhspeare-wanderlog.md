@@ -8,12 +8,12 @@ source_url: https://github.com/shaikhspeare/wanderlog-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 145
+stars: 149
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 59
-pushed_at: "2026-09-28T23:44:39Z"
+pushed_at: "2026-10-05T23:45:42Z"
 ---
 ## What it is
 MCP server `Wanderlog`, catalogued on PulseMCP. Build and manage Wanderlog trip itineraries with 14 tools for places, hotels, notes, and expenses.

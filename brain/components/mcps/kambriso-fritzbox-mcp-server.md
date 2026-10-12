@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, home-automation]
-stars: 23
-forks: 7
-pushed_at: "2026-06-15T10:01:39Z"
+stars: 24
+forks: 8
+pushed_at: "2026-10-12T06:50:53Z"
 ---
 ## What it is
 Control AVM FRITZ!Box routers - manage devices, WiFi, network settings, parental controls, and schedule time-delayed actions

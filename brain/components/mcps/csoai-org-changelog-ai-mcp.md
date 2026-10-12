@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:36:32Z"
+pushed_at: "2026-10-08T00:59:45Z"
 ---
 ## What it is
 MCP server `Changelog AI`, catalogued on PulseMCP. AI-powered changelog generation and release notes management tools.

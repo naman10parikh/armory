@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-23T10:28:56Z"
+pushed_at: "2026-10-08T17:51:15Z"
 ---
 ## What it is
 MCP server `KRS Poland`, catalogued on PulseMCP. Access Polish National Court Register data

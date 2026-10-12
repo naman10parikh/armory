@@ -8,13 +8,13 @@ source_url: https://github.com/guirguispierre/memoryvault
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-28T21:54:51Z"
+pushed_at: "2026-10-05T21:56:41Z"
 ---
 ## What it is
 A self-hosted, graph-aware memory server for AI assistants that provides persistent memory across sessions with hybrid search and knowledge graph capabilities.

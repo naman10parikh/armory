@@ -8,13 +8,13 @@ source_url: https://github.com/target1m/traderspy-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T09:39:14Z"
+pushed_at: "2026-10-10T07:24:53Z"
 ---
 ## What it is
 Connect AI assistants to TraderSpy's live crypto futures data, including AI trading signals, smart money/whale tracking, market data, and read-only access to your own account.

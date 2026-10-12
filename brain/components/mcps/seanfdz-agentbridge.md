@@ -8,11 +8,11 @@ source_url: https://github.com/seanfdz/agentbridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
+forks: 3
 pushed_at: "2026-04-20T13:02:30Z"
 ---
 ## What it is

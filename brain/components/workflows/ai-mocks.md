@@ -8,13 +8,13 @@ source_url: https://github.com/mokksy/ai-mocks
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 52
+stars: 53
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, frameworks]
 forks: 4
-pushed_at: "2026-09-24T21:48:27Z"
+pushed_at: "2026-10-10T08:24:10Z"
 ---
 ## What it is
 Mock HTTP/SSE and LLM servers, inspired by wiremock, with response streaming and SSE

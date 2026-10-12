@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-10-05T07:20:25Z"
+pushed_at: "2026-10-11T16:54:43Z"
 ---
 ## What it is
 MCP server `MediaWiki`, catalogued on PulseMCP. Integrates with MediaWiki wikis for searching, reading, editing pages, and analyzing wiki content and link structures.

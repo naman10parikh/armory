@@ -12,8 +12,8 @@ stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-10-05T13:28:07Z"
+forks: 7
+pushed_at: "2026-10-09T12:18:27Z"
 ---
 ## What it is
 MCP server `LightCMS`, catalogued on PulseMCP. AI-native CMS with 41 tools for managing websites through natural language.

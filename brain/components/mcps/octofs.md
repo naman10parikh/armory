@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-30T01:34:49Z"
+pushed_at: "2026-10-11T10:39:43Z"
 ---
 ## What it is
 The fastest, most capable filesystem MCP server built in Rust, giving AI agents superpowers to read, search, edit, and manage files and directories.

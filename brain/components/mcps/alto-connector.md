@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T03:41:29Z"
+pushed_at: "2026-10-10T20:52:55Z"
 ---
 ## What it is
 Builds interactive, filterable timelines from your own materials through an interview process, generating self-contained offline files with optional web publishing and cross-device sync.

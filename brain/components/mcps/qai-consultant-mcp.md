@@ -8,13 +8,13 @@ source_url: https://github.com/gvasile29/qai-consultant
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-05T10:10:59Z"
+pushed_at: "2026-10-12T05:59:01Z"
 ---
 ## What it is
 Keyless, local MCP server bringing ISTQB / OWASP / IEEE / ISO / EU AI Act QA standards into your AI client. Standards-grounded retrieval, deterministic QA effort estimation, automated QA document quality review (0-100 rubric), and JUnit/CSV test-results flakiness analysis.

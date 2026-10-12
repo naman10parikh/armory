@@ -1,0 +1,7 @@
+{
+  "name": "trailweights-mcp-2",
+  "description": "Read-only access to TrailWeights' ultralight gear corpus — verified weights, creator video reviews, pack templates, and semantic gear search. Auth: none.",
+  "source_repo": "",
+  "source_url": "https://trailweights.com/mcp",
+  "install": "# git clone --depth 1 https://trailweights.com/mcp\n# See source for mcpServers config block"
+}

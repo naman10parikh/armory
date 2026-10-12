@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T19:28:40Z"
+pushed_at: "2026-10-09T09:37:36Z"
 ---
 ## What it is
 Pushary is an MCP server that connects AI agents to push notifications, enabling human-in-the-loop approval from a phone.

@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, social-media]
-stars: 41
+stars: 43
 forks: 9
-pushed_at: "2026-10-04T18:49:45Z"
+pushed_at: "2026-10-10T15:14:04Z"
 ---
 ## What it is
 MCP server for Substack — read posts, manage drafts, publish Notes, get comments, and upload images. Safe by design: cannot publish or delete posts.

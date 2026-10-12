@@ -8,13 +8,13 @@ source_url: https://github.com/nicobailon/pi-mcp-adapter
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1585
+stars: 1588
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, mcps]
-forks: 386
+forks: 387
 pushed_at: "2026-10-10T07:03:53Z"
 ---
 ## What it is

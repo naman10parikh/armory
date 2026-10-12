@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
-stars: 17
+stars: 18
 forks: 1
-pushed_at: "2026-10-05T15:06:32Z"
+pushed_at: "2026-10-12T12:42:54Z"
 ---
 ## What it is
 AI agent discovery and marketplace on Nostr with Solana payments (SOL, USDC). NIP-89 discovery, NIP-90 jobs, NIP-44 v2 encryption, on-chain micropayments.

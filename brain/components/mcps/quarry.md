@@ -8,13 +8,13 @@ source_url: https://github.com/punt-labs/quarry
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-03T15:39:49Z"
+pushed_at: "2026-10-08T16:15:09Z"
 ---
 ## What it is
 Enables local semantic search over documents and code for Claude Code and Claude Desktop, running entirely offline with local embeddings and vector storage.

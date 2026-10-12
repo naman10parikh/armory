@@ -8,12 +8,12 @@ source_url: https://github.com/makeplane/plane-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 335
+stars: 339
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 185
-pushed_at: "2026-09-29T08:24:54Z"
+forks: 192
+pushed_at: "2026-10-08T13:06:55Z"
 ---
 ## What it is
 MCP server `Plane Project Management`, catalogued on PulseMCP. Integrates with Plane's project management APIs to enable creation and management of projects, issues, cycles, modules, and work logs through over 30 specialized tools for automating workflow tasks.

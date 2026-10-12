@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-11T23:35:20Z"
+pushed_at: "2026-10-10T00:51:24Z"
 ---
 ## What it is
 Reduces token costs for AI coding agents by indexing code symbols and returning only relevant functions/classes for a given task.

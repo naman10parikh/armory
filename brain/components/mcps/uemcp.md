@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T00:57:20Z"
+pushed_at: "2026-10-09T23:08:54Z"
 ---
 ## What it is
 Enables Claude to control Unreal Engine 5 editor, spawn actors, build materials, author Blueprints, and more, with zero plugin installation.

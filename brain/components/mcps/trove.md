@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T12:16:46Z"
+pushed_at: "2026-10-12T13:10:06Z"
 ---
 ## What it is
 A macOS-only local-private runtime that returns bounded cited evidence to external Agents via MCP, with optional Reply Runtime and WeChat source Provider.

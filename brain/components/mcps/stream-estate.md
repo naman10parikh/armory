@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-02T16:11:03Z"
+pushed_at: "2026-10-09T14:51:48Z"
 ---
 ## What it is
 MCP server `Stream.estate`, catalogued on PulseMCP. Provides access to French real estate data including property searches, market statistics, and saved search management with webhook notifications.

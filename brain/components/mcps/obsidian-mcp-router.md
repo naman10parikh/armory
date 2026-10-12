@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T00:41:33Z"
+pushed_at: "2026-10-11T19:49:55Z"
 ---
 ## What it is
 Routes Claude MCP tool calls to multiple Obsidian vaults (local or remote) via a single server, enabling unified read/write/search operations across all vaults.

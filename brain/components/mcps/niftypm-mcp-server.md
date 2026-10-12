@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-01T02:19:08Z"
+pushed_at: "2026-10-08T15:14:15Z"
 ---
 ## What it is
 A Model Context Protocol server that exposes the NiftyPM project management API as a set of 117 tools for AI assistants, covering projects, tasks, documents, webhooks, and more.

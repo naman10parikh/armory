@@ -8,12 +8,12 @@ source_url: https://github.com/rededis/dataverse-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-02T19:22:16Z"
+pushed_at: "2026-10-11T17:55:06Z"
 ---
 ## What it is
 MCP server `Microsoft Dataverse`, catalogued on PulseMCP. Access to Microsoft Dataverse for querying records, schema management, and CRUD operations.

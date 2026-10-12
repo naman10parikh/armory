@@ -8,12 +8,12 @@ source_url: https://github.com/jackccrawford/Geniuz
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 36
+stars: 34
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 3
 pushed_at: "2026-10-02T04:40:02Z"
 ---
 ## What it is

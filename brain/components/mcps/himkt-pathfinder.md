@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-02T23:12:03Z"
+pushed_at: "2026-10-10T23:13:14Z"
 ---
 ## What it is
 MCP server `Pathfinder`, catalogued on PulseMCP. Bridges Language Server Protocol servers to MCP clients, enabling jump-to-definition and code navigation features across multiple programming languages.

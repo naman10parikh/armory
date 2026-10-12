@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, file-systems]
-stars: 19
+stars: 18
 forks: 5
 pushed_at: "2026-08-04T03:23:06Z"
 ---

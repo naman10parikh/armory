@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-21T05:16:43Z"
+pushed_at: "2026-10-08T06:15:13Z"
 ---
 ## What it is
 MCP server that turns your IDE session history and git activity into Azure DevOps ticket updates, drafting comments, hours, and state changes with confirm-before-post. It also provides read-only progress, people, breakdown, and timeline reports for leads.

@@ -8,14 +8,14 @@ source_url: https://github.com/heygen-com/heygen-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 147
+stars: 149
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 25
-pushed_at: "2026-10-10T01:45:36Z"
+forks: 24
+pushed_at: "2026-10-11T16:49:11Z"
 ---
 ## What it is
 Create AI videos from the terminal. Official CLI for the HeyGen video generation API.

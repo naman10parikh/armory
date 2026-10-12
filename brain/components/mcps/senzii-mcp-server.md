@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-02T13:54:23Z"
+forks: 1
+pushed_at: "2026-10-06T21:02:30Z"
 ---
 ## What it is
 Enables interaction with the Senzii scheduling app, allowing users to manage schedules, sessions, and related data through natural language.

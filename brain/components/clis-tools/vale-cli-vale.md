@@ -8,13 +8,13 @@ source_url: https://github.com/vale-cli/vale
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 6225
+stars: 6233
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 232
+forks: 231
 pushed_at: "2026-10-06T12:36:55Z"
 ---
 ## What it is

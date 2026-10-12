@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-20T05:26:58Z"
+pushed_at: "2026-10-10T15:27:43Z"
 ---
 ## What it is
 MCP server that gives AI agents safe, snapshot-based control of a local Chromium browser to publish user content to registered platforms, with strict privacy boundaries and human handoff for final actions.

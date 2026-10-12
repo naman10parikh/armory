@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-22T22:05:50Z"
+pushed_at: "2026-10-07T21:21:04Z"
 ---
 ## What it is
 MCP server `Lisp Development`, catalogued on PulseMCP. Provides direct access to a running Common Lisp image for evaluating arbitrary Lisp expressions, returning multiple values, output streams, and detailed error backtraces.

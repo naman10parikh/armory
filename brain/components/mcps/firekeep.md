@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T14:49:51Z"
+pushed_at: "2026-10-12T14:53:39Z"
 ---
 ## What it is
 Self-hosted control plane for AI coding agents, providing persistent memory, session continuity, environment awareness, coordination, and replayable traces via MCP.

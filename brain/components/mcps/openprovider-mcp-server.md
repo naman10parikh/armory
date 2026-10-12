@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-03T05:55:28Z"
+pushed_at: "2026-10-07T11:14:45Z"
 ---
 ## What it is
 MCP server for Openprovider.com that enables domain management actions such as checking availability, registering domains, listing domains, and managing contacts through natural language.

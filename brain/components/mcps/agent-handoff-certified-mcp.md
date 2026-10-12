@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T05:25:20Z"
+pushed_at: "2026-10-08T02:36:43Z"
 ---
 ## What it is
 Verifiable agent-to-agent task handoff with signed provenance chain.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-05T16:14:15Z"
+pushed_at: "2026-10-07T19:35:47Z"
 ---
 ## What it is
 Enables searching and converting currencies, stocks, crypto, ETFs, and funds with current rates and source freshness for AI agents.

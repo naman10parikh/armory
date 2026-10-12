@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 26
-pushed_at: "2026-10-03T05:59:19Z"
+pushed_at: "2026-10-10T14:18:04Z"
 ---
 ## What it is
 Enables AI assistants to control Apple HomeKit smart home accessories, scenes, and automations via MCP tools.

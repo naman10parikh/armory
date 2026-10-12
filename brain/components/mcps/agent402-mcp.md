@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 30
-pushed_at: "2026-10-05T02:37:27Z"
+pushed_at: "2026-10-11T20:11:48Z"
 ---
 ## What it is
 Open-source MCP server exposing the Agent402.Tools catalog: 500+ deterministic pay-per-call tools for AI agents, including browser rendering, web search, PDFs, OCR, LLM inference, code execution, live financial/crypto/macro data, SEC EDGAR, and wallet-keyed memory. Free via proof-of-work, or pay per

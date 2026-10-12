@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-05T00:15:32Z"
+pushed_at: "2026-10-12T14:47:34Z"
 ---
 ## What it is
 AI-native payment infrastructure that enables AI agents to make purchases, issue virtual cards, and manage spending within delegated budgets and policy controls.

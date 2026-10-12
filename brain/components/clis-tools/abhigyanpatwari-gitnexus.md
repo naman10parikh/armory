@@ -8,14 +8,14 @@ source_url: https://github.com/abhigyanpatwari/GitNexus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 47826
+stars: 47851
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 5196
-pushed_at: "2026-10-10T17:41:55Z"
+forks: 5195
+pushed_at: "2026-10-12T06:28:10Z"
 ---
 ## What it is
 GitNexus: The Zero-Server Code Intelligence Engine

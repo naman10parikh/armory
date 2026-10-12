@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2025-09-11T09:29:31Z"
+pushed_at: "2026-10-11T05:25:37Z"
 ---
 ## What it is
 MCP server `ShadowGit`, catalogued on PulseMCP. Provides secure, read-only access to ShadowGit repositories with git operations like log, diff, blame, and grep to analyze fine-grained commit history and trace code evolution for debugging workflows.

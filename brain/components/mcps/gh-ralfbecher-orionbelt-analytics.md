@@ -8,12 +8,12 @@ source_url: https://github.com/ralfbecher/orionbelt-analytics
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 48
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-10-05T09:14:01Z"
+pushed_at: "2026-10-12T14:15:03Z"
 ---
 ## What it is
 MCP server `OrionBelt Analytics`, catalogued on PulseMCP. Ontology-based database schema analysis and RDF/OWL ontology generation.

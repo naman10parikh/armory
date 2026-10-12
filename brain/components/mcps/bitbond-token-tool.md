@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-03-31T14:55:58Z"
+pushed_at: "2026-10-07T18:24:02Z"
 ---
 ## What it is
 MCP server `Token Tool`, catalogued on PulseMCP. Deploy and manage compliant ERC-20 tokens across multiple blockchain networks.

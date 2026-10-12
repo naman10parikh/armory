@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T03:39:13Z"
+pushed_at: "2026-10-07T15:54:20Z"
 ---
 ## What it is
 An MCP server exposing narrowly scoped storage workflows with Overseer approval integration and redacted execution evidence, currently in fixture-only development for testing via stdio.

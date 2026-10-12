@@ -8,13 +8,13 @@ source_url: https://github.com/ManimCommunity/manim
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 41400
+stars: 41460
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3176
+forks: 3183
 pushed_at: "2026-10-10T20:14:58Z"
 ---
 ## What it is

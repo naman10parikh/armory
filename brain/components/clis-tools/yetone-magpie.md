@@ -8,14 +8,14 @@ source_url: https://github.com/yetone/magpie
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 8560
+stars: 10268
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 565
-pushed_at: "2026-10-11T00:18:40Z"
+forks: 689
+pushed_at: "2026-10-12T16:19:54Z"
 ---
 ## What it is
 Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-23T14:01:13Z"
+pushed_at: "2026-10-07T15:29:11Z"
 ---
 ## What it is
 Provides AI agents with real-time financial market intelligence including regime detection, adaptive signals, macro context chains, and cross-market analysis for crypto, US, and Korean stocks.

@@ -8,13 +8,13 @@ source_url: https://github.com/calesthio/OpenMontage
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 63697
+stars: 67407
 eval_score: null
 mentions: 5
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 8104
+forks: 8601
 pushed_at: "2026-10-03T16:28:55Z"
 ---
 ## What it is

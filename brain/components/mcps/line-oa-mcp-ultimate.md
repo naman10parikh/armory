@@ -8,12 +8,12 @@ source_url: https://github.com/wasintoh/line-oa-mcp-ultimate
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 99
+stars: 102
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 29
+forks: 30
 pushed_at: "2026-08-24T09:28:13Z"
 ---
 ## What it is

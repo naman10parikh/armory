@@ -12,8 +12,8 @@ stars: 184
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 36
-pushed_at: "2026-09-28T23:46:41Z"
+forks: 37
+pushed_at: "2026-10-08T15:10:11Z"
 ---
 ## What it is
 MCP server `WordPress Remote`, catalogued on PulseMCP. Bridges WordPress websites and WooCommerce data with local clients through REST API calls, enabling content access without direct streaming connections.

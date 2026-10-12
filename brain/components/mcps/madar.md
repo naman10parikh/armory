@@ -8,13 +8,13 @@ source_url: https://github.com/mohanagy/madar
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-10-04T14:43:00Z"
+pushed_at: "2026-10-11T14:43:47Z"
 ---
 ## What it is
 Give your coding agent the repo context it needs before it starts searching. Madar builds a local graph of your TypeScript or Node.js repository and turns the current question into a small, task-aware context pack. Claude Code, Codex, Cursor, Copilot, Gemini, Aider, and OpenCode can start from relev

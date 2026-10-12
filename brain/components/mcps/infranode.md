@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T13:21:43Z"
+pushed_at: "2026-10-06T18:44:18Z"
 ---
 ## What it is
 Keyless remote MCP server for German public-infrastructure open data: weather, air quality, traffic, public transit, parking and roadworks across 84+ German cities (DWD, Umweltbundesamt, Mobilithek, GovData). 38 read-only tools.

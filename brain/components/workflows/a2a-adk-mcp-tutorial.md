@@ -8,12 +8,12 @@ source_url: https://github.com/RubensZimbres/A2A_ADK_MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, tutorials-learning-resources]
-forks: 0
+forks: 1
 pushed_at: "2026-09-11T14:51:57Z"
 ---
 ## What it is

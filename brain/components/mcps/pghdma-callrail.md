@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-07T21:45:18Z"
+pushed_at: "2026-10-09T18:49:05Z"
 ---
 ## What it is
 MCP server `CallRail`, catalogued on PulseMCP. CallRail REST API v3 with 49 tools for full CRUD and agency aggregation via AI agents.

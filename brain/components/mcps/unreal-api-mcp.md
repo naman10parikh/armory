@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 12
-pushed_at: "2026-07-19T19:09:12Z"
+pushed_at: "2026-10-12T00:13:58Z"
 ---
 ## What it is
 Provides accurate Unreal Engine C++ API documentation to AI agents, preventing hallucinated signatures and incorrect includes.

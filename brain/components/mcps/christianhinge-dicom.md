@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 29
-pushed_at: "2026-09-12T09:30:04Z"
+pushed_at: "2026-10-06T22:09:41Z"
 ---
 ## What it is
 MCP server `DICOM`, catalogued on PulseMCP. Enables interaction with medical imaging systems through DICOM networking protocols for querying patient information, studies, series, and instances, as well as extracting text from encapsulated PDF documents.

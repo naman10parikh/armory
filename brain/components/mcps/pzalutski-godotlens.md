@@ -8,12 +8,12 @@ source_url: https://github.com/pzalutski-pixel/godotlens-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-07-27T14:15:51Z"
+pushed_at: "2026-10-10T20:16:16Z"
 ---
 ## What it is
 MCP server `GodotLens`, catalogued on PulseMCP. 15 semantic GDScript analysis tools via Godot's built-in LSP for navigation and references.

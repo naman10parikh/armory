@@ -8,7 +8,7 @@ source_url: https://github.com/agentcommunity/agent-identity-discovery
 license: NOASSERTION
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 47
+stars: 48
 eval_score: null
 mentions: null
 verified_at: 2026-09-07

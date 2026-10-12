@@ -8,13 +8,13 @@ source_url: https://github.com/opensearch-project/opensearch-mcp-server-py
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 153
+stars: 155
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 111
-pushed_at: "2026-10-01T18:56:59Z"
+forks: 110
+pushed_at: "2026-10-08T00:36:34Z"
 ---
 ## What it is
 MCP server for OpenSearch that enables AI assistants to interact with OpenSearch clusters through a standardized interface for search, index management, and cluster operations.

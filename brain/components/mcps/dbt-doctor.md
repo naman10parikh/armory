@@ -8,12 +8,12 @@ source_url: https://github.com/Astoriel/dbt-doctor
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 134
+stars: 124
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 7
 pushed_at: "2026-09-29T10:38:47Z"
 ---
 ## What it is

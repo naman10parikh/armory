@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T16:14:12Z"
+pushed_at: "2026-10-11T23:34:32Z"
 ---
 ## What it is
 MCP server giving AI agents 86 tools for browser automation via Chrome DevTools Protocol, including navigation, click/fill ladders, network inspection, per-site cracks, and optional marketplace for site-specific knowledge packs.

@@ -8,12 +8,12 @@ source_url: https://github.com/lyonzin/knowledge-rag
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 290
+stars: 293
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 42
-pushed_at: "2026-10-04T14:37:29Z"
+forks: 44
+pushed_at: "2026-10-09T15:58:32Z"
 ---
 ## What it is
 MCP server `Knowledge RAG`, catalogued on PulseMCP. Local knowledge retrieval system that combines semantic search with keyword-based routing for document analysis across security, development, and general knowledge domains using ChromaDB for vector storage and hybrid search through Reciprocal Rank Fusion.

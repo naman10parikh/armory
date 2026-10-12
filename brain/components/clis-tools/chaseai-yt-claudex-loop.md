@@ -8,13 +8,13 @@ source_url: https://github.com/chaseai-yt/claudex-loop
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2865
+stars: 2942
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 308
+forks: 319
 pushed_at: "2026-09-06T23:05:32Z"
 ---
 ## What it is

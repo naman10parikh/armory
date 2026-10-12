@@ -8,11 +8,11 @@ source_url: https://github.com/fradser/mcp-server-mas-sequential-thinking
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 307
+stars: 305
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 46
+forks: 45
 pushed_at: "2026-10-01T18:53:34Z"
 ---
 ## What it is

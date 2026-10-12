@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T16:33:49Z"
+pushed_at: "2026-10-11T15:07:28Z"
 ---
 ## What it is
 A reconnaissance MCP server that discovers web data sources by monitoring network requests and extracting API structures, enabling AI to understand data location and format without full crawling.

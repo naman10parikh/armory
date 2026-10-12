@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T20:15:26Z"
+pushed_at: "2026-10-10T02:30:21Z"
 ---
 ## What it is
 MCP server for Kenya environment — NEMA permits, climate data, conservation areas, environmental rights, climate adaptation.

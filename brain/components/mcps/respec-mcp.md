@@ -8,13 +8,13 @@ source_url: https://github.com/danielcamposramos/respec-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-20T17:51:48Z"
+pushed_at: "2026-10-12T04:51:44Z"
 ---
 ## What it is
 A stdio MCP server that wraps ReSpec rendering with repo-local profiles, enabling AI agents to scaffold, validate, and build W3C-style documents.

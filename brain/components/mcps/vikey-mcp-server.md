@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-05T17:21:19Z"
+pushed_at: "2026-10-08T14:39:29Z"
 ---
 ## What it is
 MCP server that exposes the Vikey API for reservation management, property listing, and payment information retrieval.

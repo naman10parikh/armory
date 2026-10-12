@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-11T09:11:23Z"
+pushed_at: "2026-10-06T17:31:50Z"
 ---
 ## What it is
 Enables AI agents to autonomously write, run, and debug NASA GMAT mission scripts, with tools for script execution, curated knowledge of common pitfalls, and semantic documentation search.

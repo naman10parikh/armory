@@ -8,13 +8,13 @@ source_url: https://github.com/lizTheDeveloper/pdf-indexer-mcp
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2025-11-04T02:07:33Z"
+pushed_at: "2026-10-06T19:18:44Z"
 ---
 ## What it is
 Enables AI agents to download, index, and semantically search PDF research papers using 8 MCP tools.

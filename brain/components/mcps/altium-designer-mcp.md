@@ -8,13 +8,13 @@ source_url: https://github.com/embedded-society/altium-designer-mcp
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 72
+stars: 77
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 17
-pushed_at: "2026-10-04T22:04:39Z"
+forks: 18
+pushed_at: "2026-10-11T22:11:44Z"
 ---
 ## What it is
 An MCP server that provides file I/O and primitive placement tools, enabling AI assistants to create and manage Altium Designer component libraries.

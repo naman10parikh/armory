@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T01:20:51Z"
+pushed_at: "2026-10-07T17:18:40Z"
 ---
 ## What it is
 Turns CREHQ's live location-intelligence REST API into native tools for AI agents, enabling natural-language queries about franchise brands, store locations, credit signals, and site tenancy history.

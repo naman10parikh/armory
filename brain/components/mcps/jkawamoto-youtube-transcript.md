@@ -8,11 +8,11 @@ source_url: https://github.com/jkawamoto/mcp-youtube-transcript
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 485
+stars: 490
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 75
+forks: 76
 pushed_at: "2026-10-04T06:08:33Z"
 ---
 ## What it is

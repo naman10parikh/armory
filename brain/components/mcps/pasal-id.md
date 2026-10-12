@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T10:53:10Z"
+pushed_at: "2026-10-07T14:03:15Z"
 ---
 ## What it is
 Enables AI assistants to search, retrieve, and verify Indonesian laws (UU, PP, Perpres, etc.) and Constitutional Court decisions from authoritative sources with pasal-level granularity and citation-ready grounding.

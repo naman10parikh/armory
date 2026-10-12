@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-01T01:49:13Z"
+pushed_at: "2026-10-12T16:26:20Z"
 ---
 ## What it is
 MCP server `Browser`, catalogued on PulseMCP. Load authenticated web pages using Chrome DevTools Protocol

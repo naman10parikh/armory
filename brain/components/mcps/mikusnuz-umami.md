@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-28T09:43:43Z"
+pushed_at: "2026-10-08T10:01:54Z"
 ---
 ## What it is
 MCP server `Umami Analytics`, catalogued on PulseMCP. Integrates with Umami Analytics API v2 to provide comprehensive website statistics, visitor tracking, event management, custom reports, team administration, and real-time monitoring.

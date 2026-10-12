@@ -12,8 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
-pushed_at: "2026-10-04T23:32:05Z"
+forks: 13
+pushed_at: "2026-10-11T19:53:01Z"
 ---
 ## What it is
 MCP server `Giskard Argentum`, catalogued on PulseMCP. Karma economy for AI agents with community attestations and on-chain reputation on Arbitrum.

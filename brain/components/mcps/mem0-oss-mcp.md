@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T16:28:22Z"
+pushed_at: "2026-10-11T08:24:02Z"
 ---
 ## What it is
 Bridges MCP to a self-hosted Mem0 OSS server, enabling memory management operations like adding, searching, updating, and deleting memories.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 50
-pushed_at: "2026-10-03T15:48:29Z"
+pushed_at: "2026-10-10T04:25:01Z"
 ---
 ## What it is
 Provides local codebase intelligence as an MCP server, enabling AI agents to query dependencies, assess change impact, and produce tamper-evident change evidence packets.

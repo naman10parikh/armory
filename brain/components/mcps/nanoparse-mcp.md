@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-05T22:44:58Z"
+pushed_at: "2026-10-11T03:00:21Z"
 ---
 ## What it is
 MCP server that enables AI agents to fetch web content as clean, structured Markdown via NanoParse's hosted API, using x402 micropayments in USDC on Base.

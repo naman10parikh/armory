@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 17
-pushed_at: "2026-09-13T08:17:51Z"
+pushed_at: "2026-10-11T20:11:36Z"
 ---
 ## What it is
 MCP server `Better Email`, catalogued on PulseMCP. Provides IMAP/SMTP email operations across multiple accounts with 5 composite tools for search, read, send, organize, and attachment management.

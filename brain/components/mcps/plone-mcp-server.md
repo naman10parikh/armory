@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-10-01T14:04:04Z"
+pushed_at: "2026-10-12T12:00:09Z"
 ---
 ## What it is
 Enables AI assistants to manage Plone CMS content, search, workflows, and Volto blocks via REST API.

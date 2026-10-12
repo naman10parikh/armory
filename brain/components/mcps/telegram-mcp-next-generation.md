@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-20T17:15:40Z"
+pushed_at: "2026-10-06T10:04:37Z"
 ---
 ## What it is
 Enables MCP-compatible clients to securely access and manage Telegram accounts, chats, messages, media, and contacts, with tiered permissions, write controls, and local caching.

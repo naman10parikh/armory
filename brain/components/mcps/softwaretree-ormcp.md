@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-05T04:02:15Z"
+pushed_at: "2026-10-07T02:34:48Z"
 ---
 ## What it is
 MCP server `ORMCP`, catalogued on PulseMCP. Enables object-oriented data exchange with any JDBC-compliant database (e.g., PostgreSQL, MySQL, Oracle, SQL Server, DB2, SQLite) through object-relational mapping.

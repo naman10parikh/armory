@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-08-10T07:38:20Z"
+pushed_at: "2026-10-11T14:12:07Z"
 ---
 ## What it is
 MCP server `Markdown Navigator`, catalogued on PulseMCP. Search, navigate, and extract content from local markdown files with full-text search, section extraction, heading navigation, and code block discovery.

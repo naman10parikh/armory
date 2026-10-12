@@ -15,7 +15,7 @@ verified_at:
 related: []
 tags: [deploy-infra]
 forks: 317
-pushed_at: "2026-10-05T15:06:26Z"
+pushed_at: "2026-10-12T08:44:38Z"
 ---
 
 # flyctl

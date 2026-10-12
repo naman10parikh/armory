@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T02:53:26Z"
+pushed_at: "2026-10-10T17:25:06Z"
 ---
 ## What it is
 An Android-first MCP server for automating real devices, including multi-display handhelds and emulators, with structured tools for device inspection, input, app lifecycle, and diagnostics via ADB.

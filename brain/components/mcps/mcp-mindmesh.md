@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-05T05:27:20Z"
+pushed_at: "2026-10-11T06:53:36Z"
 ---
 ## What it is
 Manages multiple Claude 3.7 Sonnet instances in a quantum-inspired swarm to produce optimally coherent responses through ensemble intelligence.

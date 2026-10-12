@@ -8,12 +8,12 @@ source_url: https://github.com/aryaminus/controlkeel
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-05T12:45:06Z"
+pushed_at: "2026-10-12T15:41:55Z"
 ---
 ## What it is
 MCP server `ControlKeel`, catalogued on PulseMCP. Governance layer for AI coding agents with policy validation, findings tracking, and review gates.

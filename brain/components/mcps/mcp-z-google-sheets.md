@@ -8,12 +8,12 @@ source_url: https://github.com/mcp-z/mcp-sheets
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-20T17:56:42Z"
+pushed_at: "2026-10-12T16:11:14Z"
 ---
 ## What it is
 MCP server `Google Sheets`, catalogued on PulseMCP. Integrates with Google Sheets API for spreadsheet management, batch operations, and formatting.

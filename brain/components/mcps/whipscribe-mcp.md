@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-05T01:37:11Z"
+pushed_at: "2026-10-07T02:43:56Z"
 ---
 ## What it is
 MCP server for Whipscribe — transcribe audio and video from a URL or local file via Claude Desktop, Claude Code, Cursor, Windsurf, or any MCP-compatible client.

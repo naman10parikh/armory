@@ -8,11 +8,11 @@ source_url: https://github.com/whitenightshadow/camoufox-reverse-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 526
+stars: 533
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 103
+forks: 104
 pushed_at: "2026-09-08T12:00:49Z"
 ---
 ## What it is

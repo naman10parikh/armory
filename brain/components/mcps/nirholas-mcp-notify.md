@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-09-15T08:00:11Z"
+pushed_at: "2026-10-11T01:28:01Z"
 ---
 ## What it is
 MCP server `MCP Registry Notify`, catalogued on PulseMCP. Monitor the MCP Registry for new servers and changes with real-time notifications via Discord, Slack, Email, Telegram, Teams, and webhooks.

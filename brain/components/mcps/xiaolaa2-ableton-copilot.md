@@ -8,11 +8,11 @@ source_url: https://github.com/xiaolaa2/ableton-copilot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 94
+stars: 93
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 19
+forks: 18
 pushed_at: "2026-07-29T08:01:25Z"
 ---
 ## What it is

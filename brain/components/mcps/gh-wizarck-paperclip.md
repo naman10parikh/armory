@@ -8,11 +8,11 @@ source_url: https://github.com/wizarck/paperclip-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 50
+stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
+forks: 16
 pushed_at: "2026-09-13T15:32:23Z"
 ---
 ## What it is

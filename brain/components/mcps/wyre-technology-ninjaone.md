@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 26
-pushed_at: "2026-10-05T00:45:32Z"
+pushed_at: "2026-10-12T02:20:38Z"
 ---
 ## What it is
 MCP server `NinjaOne`, catalogued on PulseMCP. Connects AI assistants to NinjaOne device management with tools for managing devices, organizations, alerts, and service tickets.

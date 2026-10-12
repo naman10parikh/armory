@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-10-01T22:16:04Z"
+forks: 5
+pushed_at: "2026-10-12T00:55:46Z"
 ---
 ## What it is
 Statute & article text (mevzuat.gov.tr) and court decisions (UYAP Emsal, Council of State, Constitutional Court), with their citation, source, live. It works as long as the official sources remain reachable.

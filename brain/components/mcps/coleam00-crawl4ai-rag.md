@@ -8,11 +8,11 @@ source_url: https://github.com/coleam00/mcp-crawl4ai-rag
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2265
+stars: 2267
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 575
+forks: 574
 pushed_at: "2025-07-25T15:17:13Z"
 ---
 ## What it is

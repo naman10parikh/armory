@@ -8,13 +8,13 @@ source_url: https://github.com/texttron/BrowseComp-Plus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 372
+stars: 373
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, evals]
-forks: 67
+forks: 68
 pushed_at: "2026-05-28T19:01:25Z"
 ---
 ## What it is

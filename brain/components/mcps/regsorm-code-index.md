@@ -8,12 +8,12 @@ source_url: https://github.com/regsorm/code-index-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 137
+stars: 141
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 19
-pushed_at: "2026-09-28T18:55:16Z"
+forks: 20
+pushed_at: "2026-10-12T14:40:30Z"
 ---
 ## What it is
 MCP server `Code Index`, catalogued on PulseMCP. Fast code search for AI models: indexes 62K files in 43 seconds with sub-millisecond symbol lookup using Rust and tree-sitter.

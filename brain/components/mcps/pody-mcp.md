@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T17:41:40Z"
+pushed_at: "2026-10-06T08:49:42Z"
 ---
 ## What it is
 First MCP server in the Israeli podcast vertical. 7 read-only tools exposing live data on studios, podcasts, glossary, and the State of Israeli Podcasts 2026 industry report. Operated by Pody (Wikidata Q139719199).

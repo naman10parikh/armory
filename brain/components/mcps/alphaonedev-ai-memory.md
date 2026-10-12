@@ -8,12 +8,12 @@ source_url: https://github.com/alphaonedev/ai-memory-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-10-05T14:21:56Z"
+pushed_at: "2026-10-10T22:20:08Z"
 ---
 ## What it is
 MCP server `AI Memory`, catalogued on PulseMCP. Persistent memory for AI agents with semantic, smart, and autonomous retrieval tiers.

@@ -8,14 +8,14 @@ source_url: https://github.com/miqdadbadjuber/anti-slop
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 5786
+stars: 5917
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 387
-pushed_at: "2026-10-04T19:32:36Z"
+forks: 394
+pushed_at: "2026-10-12T11:33:18Z"
 ---
 ## What it is
 Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.

@@ -8,12 +8,12 @@ source_url: https://github.com/aovestdipaperino/tokensave
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 656
+stars: 661
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 68
-pushed_at: "2026-10-04T18:55:25Z"
+forks: 66
+pushed_at: "2026-10-11T17:42:46Z"
 ---
 ## What it is
 MCP server `TokenSave`, catalogued on PulseMCP. Builds semantic code knowledge graphs from codebases in 15+ languages, giving AI agents pre-indexed symbol relationships and call graphs through 37 tools.

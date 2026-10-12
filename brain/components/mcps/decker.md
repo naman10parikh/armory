@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T04:51:34Z"
+pushed_at: "2026-10-12T02:33:16Z"
 ---
 ## What it is
 Deterministic market-state engine for trading agents — zero LLM in the signal path. 8 tools: structural market state & phase, action gate (GO/WATCH/HOLD), entry/target/invalidation coordinates, bar-by-bar state timeline, composed view cards, and pre-trade intent validation. Every output traces to a 

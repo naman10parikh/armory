@@ -13,7 +13,7 @@ related: []
 tags: [mcp, frameworks]
 stars: 17
 forks: 3
-pushed_at: "2026-09-01T10:10:21Z"
+pushed_at: "2026-10-08T17:51:10Z"
 ---
 ## What it is
 When tool count exceeds LLM context limits, accuracy collapses (248 tools → 12%). graph-tool-call builds a tool graph from OpenAPI/MCP specs and retrieves multi-step workflows via hybrid search (BM25 + graph traversal + embedding), recovering accuracy to 82% with 79% fewer tokens. Zero dependencies. Also works as an MCP Proxy — aggregate multiple MCP servers behind 3 meta-tools.

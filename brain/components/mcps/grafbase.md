@@ -8,11 +8,11 @@ source_url: https://github.com/grafbase/grafbase
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1229
+stars: 1228
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 75
+forks: 74
 pushed_at: "2026-07-01T18:16:21Z"
 ---
 ## What it is

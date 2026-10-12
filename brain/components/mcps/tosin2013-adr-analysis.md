@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-10-05T09:32:12Z"
+pushed_at: "2026-10-09T09:53:02Z"
 ---
 ## What it is
 MCP server `ADR Analysis`, catalogued on PulseMCP. Analyzes Architecture Decision Records (ADRs) to extract decision context, validate against best practices, and identify architectural patterns for maintaining documentation quality and tracking technical debt evolution.

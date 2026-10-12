@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T09:14:56Z"
+pushed_at: "2026-10-08T21:47:44Z"
 ---
 ## What it is
 A local, open-source MCP server that wraps astronomy data services (SIMBAD, JPL Horizons, VizieR, etc.) behind a conversational interface, enabling AI assistants to answer astronomy questions with real, typed, and provenance-tracked data.

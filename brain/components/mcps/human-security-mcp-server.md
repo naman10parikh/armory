@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-07-05T05:28:12Z"
+pushed_at: "2026-10-12T11:49:13Z"
 ---
 ## What it is
 Enables AI applications to access HUMAN Security's cybersecurity intelligence for threat detection, attack analysis, and security monitoring.

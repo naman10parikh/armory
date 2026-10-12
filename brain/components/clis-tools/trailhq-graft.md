@@ -8,14 +8,14 @@ source_url: https://github.com/trailhq/Graft
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 9583
+stars: 9906
 eval_score: 1
 mentions: 2
 verified_at: 2026-09-26
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 881
-pushed_at: "2026-10-05T14:43:18Z"
+forks: 876
+pushed_at: "2026-10-12T05:18:47Z"
 ---
 ## What it is
 Turbocharge Claude Code, Cursor, Codex, Gemini & every coding agent: faster, cheaper, with contextual understanding specific to your codebase.

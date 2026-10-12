@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-05T13:08:34Z"
+pushed_at: "2026-10-07T13:05:28Z"
 ---
 ## What it is
 MCP server `Tripo 3D`, catalogued on PulseMCP. Exposes Tripo 3D Generation API operations as MCP tools for generating 3D models from text, images, or multi-view photos.

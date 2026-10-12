@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 33
-pushed_at: "2026-10-05T03:14:20Z"
+forks: 32
+pushed_at: "2026-10-09T20:14:28Z"
 ---
 ## What it is
 From ticket to reviewed pull request, on your own machine

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T20:58:51Z"
+pushed_at: "2026-10-06T20:27:54Z"
 ---
 ## What it is
 An MCP server that lets you manage a Yampi e-commerce store through natural language, enabling operations like looking up orders, creating products, adjusting stock, and building coupons and offers.

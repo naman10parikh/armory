@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-09T17:31:32Z"
+pushed_at: "2026-10-10T00:07:24Z"
 ---
 ## What it is
 MCP server `Slack Web API`, catalogued on PulseMCP. Comprehensive Slack Web API integration covering messaging, channels, files, canvases, lists, reminders, and undocumented endpoints.

@@ -8,13 +8,13 @@ source_url: https://github.com/SpikeyCoder/website-auditor-mcp
 license: Elastic License 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T04:40:46Z"
+pushed_at: "2026-10-08T03:56:23Z"
 ---
 ## What it is
 Provides AI-visibility scoring and site auditing capabilities for websites, enabling agents to check how sites appear in AI engines like ChatGPT and Perplexity, run full SEO/security audits, and monitor changes over time.

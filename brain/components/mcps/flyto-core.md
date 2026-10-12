@@ -8,12 +8,12 @@ source_url: https://github.com/flytohub/flyto-core
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 483
+stars: 484
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 84
-pushed_at: "2026-10-04T13:18:08Z"
+pushed_at: "2026-10-12T00:54:56Z"
 ---
 ## What it is
 MCP server `Flyto Core`, catalogued on PulseMCP. Secure execution engine for AI agents with 300+ modules.

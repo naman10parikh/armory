@@ -8,11 +8,11 @@ source_url: https://github.com/jlucaso1/whatsapp-mcp-ts
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 74
+stars: 76
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 43
+forks: 44
 pushed_at: "2026-01-23T00:03:11Z"
 ---
 ## What it is

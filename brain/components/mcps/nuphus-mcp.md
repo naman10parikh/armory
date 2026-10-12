@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 38
-pushed_at: "2026-10-04T16:11:39Z"
+pushed_at: "2026-10-11T04:30:24Z"
 ---
 ## What it is
 Desktop automation MCP server for any AI agent: control the screen, windows, mouse/keyboard, and Chrome (CDP) on your machine. Installable via npm @nuphus/nuphus-mcp.

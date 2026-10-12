@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-05T14:07:00Z"
+pushed_at: "2026-10-12T16:33:51Z"
 ---
 ## What it is
 MCP server exposing memory search, index, and stats tools for agents, with honesty guards to prevent re-litigation of settled decisions.

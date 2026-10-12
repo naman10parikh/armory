@@ -8,12 +8,12 @@ source_url: https://github.com/professioneit/lsp-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-09-29T12:30:49Z"
+pushed_at: "2026-10-07T09:04:01Z"
 ---
 ## What it is
 MCP server `LSP Bridge`, catalogued on PulseMCP. Bridges Language Server Protocol (LSP) servers to provide advanced code intelligence features like go-to-definition, find references, hover information, diagnostics, completions, and refactoring across multiple programming languages.

@@ -8,11 +8,11 @@ source_url: https://github.com/halilural/electron-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 71
+stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
+forks: 14
 pushed_at: "2026-08-06T13:24:22Z"
 ---
 ## What it is

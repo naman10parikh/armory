@@ -8,13 +8,13 @@ source_url: https://github.com/vitron-ai/alethia-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-05T05:04:44Z"
+pushed_at: "2026-10-11T17:17:24Z"
 ---
 ## What it is
 MCP bridge that lets any MCP client drive the Alethia runtime for agent-native E2E testing. It provides a per-step policy gate that blocks destructive actions with a cryptographic audit trail.

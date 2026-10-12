@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 72
+stars: 73
 forks: 15
-pushed_at: "2026-10-02T04:45:58Z"
+pushed_at: "2026-10-11T01:25:21Z"
 ---
 ## What it is
 A MCP server to interact with Neovim

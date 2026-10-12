@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-20T10:09:14Z"
+pushed_at: "2026-10-11T03:47:08Z"
 ---
 ## What it is
 Exposes read-only location history and related data from Dawarich via MCP tools, designed to run behind an OAuth-terminating proxy.

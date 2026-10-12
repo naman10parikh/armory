@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-13T00:10:15Z"
+pushed_at: "2026-10-12T09:00:26Z"
 ---
 ## What it is
 MCP server `Sysplorer`, catalogued on PulseMCP. Official MCP server for Sysplorer modeling and simulation software by Suzhou Tongyuan.

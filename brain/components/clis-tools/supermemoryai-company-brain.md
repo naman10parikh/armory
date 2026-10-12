@@ -8,13 +8,13 @@ source_url: https://github.com/supermemoryai/company-brain
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 985
+stars: 992
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 138
+forks: 139
 pushed_at: "2026-10-02T18:39:55Z"
 ---
 ## What it is

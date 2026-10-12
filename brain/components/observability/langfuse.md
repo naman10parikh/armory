@@ -8,14 +8,14 @@ source_url: https://github.com/langfuse/langfuse
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 35402
+stars: 35697
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, tracing, evals]
 mentions: 10
-forks: 3922
-pushed_at: "2026-10-05T15:40:11Z"
+forks: 3977
+pushed_at: "2026-10-12T16:36:03Z"
 ---
 ## What it is
 Open-source LLM engineering platform with traces, evals, prompt management, and datasets for debugging and improving LLM applications.

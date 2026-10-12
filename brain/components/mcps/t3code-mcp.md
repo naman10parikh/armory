@@ -8,12 +8,12 @@ source_url: https://github.com/ThomasCrund/t3code-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 3
 pushed_at: "2026-08-11T06:04:39Z"
 ---
 ## What it is

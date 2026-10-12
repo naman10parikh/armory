@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 21
-pushed_at: "2026-09-21T09:25:52Z"
+pushed_at: "2026-10-11T01:40:38Z"
 ---
 ## What it is
 Enables any MCP-compatible LLM client to autonomously hold, spend, earn, and receive cryptocurrency using native MCP tools, no code required.

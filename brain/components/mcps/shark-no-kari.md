@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T18:03:54Z"
+pushed_at: "2026-10-09T11:10:20Z"
 ---
 ## What it is
 Remote MCP server for web scraping with anti-bot evasion. Provides stealth HTTP fetching, headless browser with Cloudflare bypass, CSS selectors, YouTube transcripts, and Markdown conversion.

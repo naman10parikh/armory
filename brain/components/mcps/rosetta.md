@@ -8,13 +8,13 @@ source_url: https://github.com/tikoci/rosetta
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 47
+stars: 48
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-05T08:24:26Z"
+pushed_at: "2026-10-06T01:56:58Z"
 ---
 ## What it is
 MCP server that provides AI assistants with searchable access to MikroTik RouterOS documentation, including command reference, hardware specs, and video transcripts via SQLite FTS5 retrieval.

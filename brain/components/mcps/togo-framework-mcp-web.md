@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-14T13:27:41Z"
+pushed_at: "2026-10-11T10:30:09Z"
 ---
 ## What it is
 The public MCP server for togo — docs, the plugin marketplace, and plugin submission, for any agent.

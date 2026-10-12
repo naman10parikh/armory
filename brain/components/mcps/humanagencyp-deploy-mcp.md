@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-05T17:52:33Z"
+pushed_at: "2026-10-10T18:37:34Z"
 ---
 ## What it is
 Enables agents to deploy software via GitHub Actions only with a signed receipt, providing gated tools to resolve refs, list deployments/environments, and dispatch pipelines for a specific commit.

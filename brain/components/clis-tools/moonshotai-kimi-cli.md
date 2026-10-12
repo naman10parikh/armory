@@ -8,7 +8,7 @@ source_url: https://github.com/MoonshotAI/kimi-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 11425
+stars: 11420
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10

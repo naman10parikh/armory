@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 29
-pushed_at: "2026-07-18T10:56:22Z"
+pushed_at: "2026-10-07T10:40:58Z"
 ---
 ## What it is
 MCP server `HANA Cloud ML Bridge`, catalogued on PulseMCP. Bridges SAP HANA Cloud databases with machine learning operations through a three-layer architecture that enables model management, execution contexts, and standardized communication for both inference and training workflows.
