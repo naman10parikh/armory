@@ -8,13 +8,13 @@ source_url: https://github.com/mlflow/mlflow
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 28353
+stars: 28370
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, tracing, experiment-tracking]
-forks: 6444
-pushed_at: "2026-10-13T01:17:15Z"
+forks: 6447
+pushed_at: "2026-10-13T14:39:28Z"
 mentions: 2
 ---
 ## What it is

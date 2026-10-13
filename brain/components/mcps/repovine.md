@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T06:43:55Z"
+pushed_at: "2026-10-13T05:24:46Z"
 ---
 ## What it is
 MCP server that provides coding agents with structured repository context, including graph-based navigation, dependency analysis, runtime flow tracing, and configuration surface across supported stacks.

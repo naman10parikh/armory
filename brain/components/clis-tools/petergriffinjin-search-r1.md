@@ -8,7 +8,7 @@ source_url: https://github.com/PeterGriffinJin/Search-R1
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 5499
+stars: 5504
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10

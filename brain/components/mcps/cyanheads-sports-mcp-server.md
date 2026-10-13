@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T10:35:45Z"
+pushed_at: "2026-10-13T14:41:55Z"
 ---
 ## What it is
 Get live scores, schedules, standings, team and player data for NFL, NBA, MLB, NHL, soccer, and more via MCP.

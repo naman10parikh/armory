@@ -8,13 +8,13 @@ source_url: https://github.com/asgeirtj/system_prompts_leaks
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 69491
+stars: 69544
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 11300
+forks: 11303
 pushed_at: "2026-10-12T02:20:04Z"
 ---
 ## What it is

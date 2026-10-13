@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-10-13T00:32:18Z"
+pushed_at: "2026-10-13T13:01:50Z"
 ---
 ## What it is
 Enables AI assistants to interact with Atlassian Cloud APIs for Confluence and Jira, supporting document management, search, issue tracking, and sprint operations through natural language.

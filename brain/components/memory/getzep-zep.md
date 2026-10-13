@@ -10,7 +10,7 @@ source_url: https://github.com/getzep/zep
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 4956
+stars: 4959
 eval_score: null
 mentions: 7
 verified_at: 2026-09-02

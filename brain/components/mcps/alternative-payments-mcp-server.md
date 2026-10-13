@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T18:25:26Z"
+pushed_at: "2026-10-13T12:34:06Z"
 ---
 ## What it is
 Provides AI assistants with read and safe-write access to Alternative Payments customers, invoices, payment requests, transactions, payouts, and webhooks without directly moving money.

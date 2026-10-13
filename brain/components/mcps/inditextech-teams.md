@@ -8,7 +8,7 @@ source_url: https://github.com/inditextech/mcp-teams-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 441
+stars: 442
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

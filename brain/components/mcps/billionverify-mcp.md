@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T09:59:33Z"
+pushed_at: "2026-10-13T14:29:06Z"
 ---
 ## What it is
 Connects AI assistants to BillionVerify email verification via the Model Context Protocol, supporting single and batch email verification, account balance checks, and webhook management.

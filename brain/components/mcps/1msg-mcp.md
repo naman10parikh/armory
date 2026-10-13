@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T21:57:07Z"
+pushed_at: "2026-10-13T07:08:45Z"
 ---
 ## What it is
 Enables interaction with the 1msg Chat API through 60 public MCP tools, supporting stdio and hosted HTTP transports. It lets users leverage chat API functionality in Cursor, Claude Desktop, and other MCP clients.

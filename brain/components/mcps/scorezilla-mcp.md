@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T23:32:18Z"
+pushed_at: "2026-10-13T13:34:46Z"
 ---
 ## What it is
 Official MCP server for Scorezilla (leaderboards for games). Your AI coding assistant can bootstrap a leaderboard, inspect games and boards, read top-N standings, and paste ready-to-run SDK integration code — without leaving the editor.

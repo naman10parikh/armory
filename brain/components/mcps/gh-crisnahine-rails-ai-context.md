@@ -12,8 +12,8 @@ stars: 163
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
-pushed_at: "2026-10-13T01:47:28Z"
+forks: 12
+pushed_at: "2026-10-13T14:17:22Z"
 ---
 ## What it is
 MCP server `Rails AI Context`, catalogued on PulseMCP. Auto-expose Rails app structure to AI assistants via MCP with zero-config introspection.

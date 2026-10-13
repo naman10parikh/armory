@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T20:37:52Z"
+pushed_at: "2026-10-13T14:44:24Z"
 ---
 ## What it is
 Enables AI assistants to search and recommend Christian streetwear, faith apparel, trucker hats, and clogs, while providing theological insights, sizing guides, gift suggestions, and direct 1-click Shopify checkout links.

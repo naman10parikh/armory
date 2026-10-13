@@ -8,7 +8,7 @@ source_url: https://github.com/openclaw/gogcli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 8493
+stars: 8495
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10

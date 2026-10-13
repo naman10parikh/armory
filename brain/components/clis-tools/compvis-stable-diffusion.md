@@ -8,7 +8,7 @@ source_url: https://github.com/CompVis/stable-diffusion
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 73492
+stars: 73500
 eval_score: null
 mentions: 6
 verified_at: 2026-10-10

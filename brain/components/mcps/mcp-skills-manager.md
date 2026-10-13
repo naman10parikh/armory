@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T20:24:37Z"
+pushed_at: "2026-10-13T04:34:24Z"
 ---
 ## What it is
 A server that serves reusable markdown skills (instructions, playbooks, references) to agents, with a web UI for editing and organizing skills, profiles, and both HTTP and stdio transports.

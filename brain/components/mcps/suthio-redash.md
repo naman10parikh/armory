@@ -8,12 +8,12 @@ source_url: https://github.com/suthio/redash-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 105
+stars: 106
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 47
-pushed_at: "2026-10-02T23:53:22Z"
+pushed_at: "2026-10-13T09:28:03Z"
 ---
 ## What it is
 MCP server `Redash`, catalogued on PulseMCP. Integrates with Redash data visualization platform to enable natural language querying, dashboard creation, and data source management for analyzing and visualizing data through conversational interfaces.

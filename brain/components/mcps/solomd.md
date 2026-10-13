@@ -8,13 +8,13 @@ source_url: https://github.com/zhitongblog/solomd
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1230
+stars: 1243
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 83
-pushed_at: "2026-10-12T13:16:24Z"
+forks: 85
+pushed_at: "2026-10-13T14:24:36Z"
 ---
 ## What it is
 A free, open-source Markdown editor with a bundled MCP server (stdio, read-only): point Claude, Cursor, or any MCP client at your notes vault for local semantic search, read, and list. ~15MB, 5 platforms, MIT, local-first.

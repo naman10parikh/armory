@@ -1,6 +1,6 @@
 # evals/: 72 components (catalog view)
 
-**Last updated:** 2026-10-13T01:51:25.589Z (UTC), when `catalog.json` was last generated.
+**Last updated:** 2026-10-13T14:54:53.224Z (UTC), when `catalog.json` was last generated.
 
 Each `<slug>.md` is a slim install card generated from `brain/components/evals/`.
 

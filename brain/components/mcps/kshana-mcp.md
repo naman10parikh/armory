@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-13T01:46:29Z"
+pushed_at: "2026-10-13T14:48:30Z"
 ---
 ## What it is
 Validated PNT-resilience simulator over MCP — SGP4/SDP4 orbit propagation, IAU reference frames, GNSS availability/DOP, GNSS/INS fusion, ARAIM integrity, and Allan deviations, with results validated against AIAA/IGS/SOFA/NIST reference data.

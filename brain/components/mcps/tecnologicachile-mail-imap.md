@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 25
-pushed_at: "2026-10-10T12:53:40Z"
+pushed_at: "2026-10-13T05:39:35Z"
 ---
 ## What it is
 MCP server `Mail IMAP`, catalogued on PulseMCP. Secure IMAP email access with read/write operations and cursor-based pagination.

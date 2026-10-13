@@ -8,11 +8,11 @@ source_url: https://github.com/sysprog21/zhtw-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 489
+stars: 490
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 48
+forks: 49
 pushed_at: "2026-10-11T00:43:49Z"
 ---
 ## What it is

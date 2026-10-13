@@ -14,7 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 mentions: null
 forks: 120
-pushed_at: "2026-10-09T12:52:34Z"
+pushed_at: "2026-10-13T08:35:04Z"
 ---
 ## What it is
 MCP server `Redis`, catalogued on PulseMCP. Provides a natural language interface to Redis databases, enabling operations on various data structures with tools for vector similarity search, pub/sub messaging, and server management.

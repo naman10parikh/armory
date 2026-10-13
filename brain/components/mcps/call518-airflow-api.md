@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-10-09T04:23:01Z"
+pushed_at: "2026-10-13T05:01:43Z"
 ---
 ## What it is
 MCP server `Apache Airflow`, catalogued on PulseMCP. Integrates with Apache Airflow clusters through REST API to provide complete workflow management including DAG operations, task monitoring, pool and variable management, XCom data access, and performance analytics with event logging and import error tracking.

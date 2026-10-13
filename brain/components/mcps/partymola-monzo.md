@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-05T22:20:39Z"
+pushed_at: "2026-10-13T09:54:38Z"
 ---
 ## What it is
 MCP server `Monzo`, catalogued on PulseMCP. Provides read-only access to Monzo banking data including accounts, transactions, and spending analytics.

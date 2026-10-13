@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-05-07T14:34:50Z"
+pushed_at: "2026-10-13T10:45:37Z"
 ---
 ## What it is
 MCP server `CryptoAnalysis (CoinPaprika)`, catalogued on PulseMCP. Integrates with CoinPaprika API to provide real-time cryptocurrency price data, historical OHLCV analysis, technical indicators (RSI, MACD, Bollinger Bands), chart pattern recognition, and trading signal generation with risk assessment for automated trading workflows and portfolio management.

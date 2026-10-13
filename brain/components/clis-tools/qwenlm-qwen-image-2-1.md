@@ -8,14 +8,14 @@ source_url: https://github.com/QwenLM/Qwen-Image-2.1
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1898
+stars: 1916
 eval_score: null
 mentions: 1
 verified_at: 2026-10-13
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 122
-pushed_at: "2026-10-12T09:45:36Z"
+forks: 124
+pushed_at: "2026-10-13T04:25:05Z"
 ---
 ## What it is
 Qwen's most powerful open-source image generation model

@@ -8,12 +8,12 @@ source_url: https://github.com/WordPress/mcp-adapter
 license: GPL 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1830
+stars: 1834
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 210
+forks: 211
 pushed_at: "2026-10-08T13:21:42Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T04:28:21Z"
+pushed_at: "2026-10-13T12:18:30Z"
 ---
 ## What it is
 An MCP server for chemistry: it computes molecular weights and isotope distributions from chemical formulae and resolves compound name/formula lookups, backed by NIST atomic-weight data and a cached finder over multiple online and offline sources.

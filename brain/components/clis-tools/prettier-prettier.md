@@ -8,14 +8,14 @@ source_url: https://github.com/prettier/prettier
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 52448
+stars: 52446
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 5038
-pushed_at: "2026-10-12T16:56:33Z"
+forks: 5037
+pushed_at: "2026-10-13T10:37:55Z"
 ---
 ## What it is
 Prettier is an opinionated code formatter.

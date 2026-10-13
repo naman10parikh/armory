@@ -15,7 +15,7 @@ verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 370
-pushed_at: "2026-07-23T19:09:35Z"
+pushed_at: "2026-10-13T05:44:52Z"
 ---
 ## What it is
 SkillsBench evaluates how well skills work and how effective agents are at using them.

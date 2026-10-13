@@ -8,12 +8,12 @@ source_url: https://github.com/atilaahmettaner/tradingview-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5037
+stars: 5045
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1002
+forks: 1001
 pushed_at: "2026-10-11T20:17:05Z"
 ---
 ## What it is

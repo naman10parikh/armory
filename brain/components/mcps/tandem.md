@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-09-08T22:29:13Z"
+pushed_at: "2026-10-13T08:49:59Z"
 ---
 ## What it is
 MCP server `Tendem`, catalogued on PulseMCP. Integrates with Tendem's AI + Human Agent platform to create, monitor, and manage tasks through their complete lifecycle, enabling delegation of work requiring human expertise.

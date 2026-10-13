@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-07T04:35:30Z"
+pushed_at: "2026-10-13T04:04:42Z"
 ---
 ## What it is
 Local-first RAG MCP server that indexes local documents and provides hybrid search (semantic + keyword) with file ingestion, URL fetching, and a CLI, keeping data on-device.

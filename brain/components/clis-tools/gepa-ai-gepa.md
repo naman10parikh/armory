@@ -8,13 +8,13 @@ source_url: https://github.com/gepa-ai/gepa
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 6957
+stars: 6968
 eval_score: null
 mentions: 5
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 575
+forks: 576
 pushed_at: "2026-10-12T20:48:20Z"
 ---
 ## What it is

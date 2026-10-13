@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-25T00:16:01Z"
+pushed_at: "2026-10-13T10:54:02Z"
 ---
 ## What it is
 Enables AI assistants to read and edit LinkedIn profiles including headline, about section, work experience, education, and skills through OAuth 2.0 authentication.

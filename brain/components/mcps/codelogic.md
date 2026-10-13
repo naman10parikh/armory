@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-10-05T21:38:11Z"
+pushed_at: "2026-10-13T12:58:16Z"
 ---
 ## What it is
 MCP server `CodeLogic`, catalogued on PulseMCP. Analyze software dependencies and assess impact of code changes

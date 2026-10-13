@@ -8,13 +8,13 @@ source_url: https://github.com/JayPokale/Chisle
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 653
+stars: 656
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 48
+forks: 49
 pushed_at: "2026-10-12T10:45:03Z"
 ---
 ## What it is

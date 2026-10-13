@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 277
-pushed_at: "2026-10-12T16:33:15Z"
+pushed_at: "2026-10-13T06:28:51Z"
 ---
 ## What it is
 AI-powered OSINT framework exposing 10 tools (email, username, breach, WHOIS, IP, subdomain, phone, Shodan, dorks, Pastebin) as an MCP server for Claude Code and Claude Desktop, with an autonomous agent REPL and direct CLI.

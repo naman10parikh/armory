@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 24
-pushed_at: "2026-10-13T01:35:29Z"
+pushed_at: "2026-10-13T14:09:11Z"
 ---
 ## What it is
 MCP server `Trace`, catalogued on PulseMCP. Framework-aware code intelligence MCP server with 44+ tools for code tracing, analysis, and debugging.

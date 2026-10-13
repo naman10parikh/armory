@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T03:56:10Z"
+pushed_at: "2026-10-13T14:14:25Z"
 ---
 ## What it is
 Governed network controller-layer operations (Cisco Meraki, plus Catalyst Center / Arista CVP / UniFi) — uplink loss/latency RCA, fleet health scoring, and config-template drift, with unbypassable audit logging (MCP + CLI), budget/runaway guards, and rollback.

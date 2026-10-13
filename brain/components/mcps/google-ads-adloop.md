@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 63
-pushed_at: "2026-10-12T18:56:59Z"
+pushed_at: "2026-10-13T10:04:36Z"
 ---
 ## What it is
 An MCP server that gives your AI assistant read + write access to Google Ads and GA4 — with safety guardrails that prevent accidental spend.

@@ -8,12 +8,12 @@ source_url: https://github.com/googleapis/mcp-toolbox
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16652
+stars: 16656
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 eval_score: 1
-forks: 1757
+forks: 1758
 pushed_at: "2026-10-12T22:48:49Z"
 ---
 ## What it is

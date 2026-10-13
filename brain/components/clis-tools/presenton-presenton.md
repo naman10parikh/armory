@@ -8,14 +8,14 @@ source_url: https://github.com/presenton/presenton
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 11076
+stars: 11090
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1687
-pushed_at: "2026-10-12T12:00:55Z"
+forks: 1688
+pushed_at: "2026-10-13T11:16:21Z"
 ---
 ## What it is
 Open-Source AI Presentation Generator and API (Gamma, Canva, Beautiful AI, Decktopus, Presentations AI Alternative)

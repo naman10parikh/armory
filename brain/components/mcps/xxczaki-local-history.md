@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-11T00:45:16Z"
+pushed_at: "2026-10-13T10:03:26Z"
 ---
 ## What it is
 MCP server `Local History`, catalogued on PulseMCP. Provides direct access to Cursor/VS Code Local History data with tools for listing files with history, retrieving complete file histories, accessing specific entries, restoring files to previous states with backup creation, searching across all history content, and generating statistics for data recovery and enhanced development context.

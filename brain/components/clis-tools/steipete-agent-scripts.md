@@ -8,14 +8,14 @@ source_url: https://github.com/steipete/agent-scripts
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 7353
+stars: 7359
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 642
-pushed_at: "2026-10-12T16:19:06Z"
+forks: 643
+pushed_at: "2026-10-13T07:25:52Z"
 ---
 ## What it is
 Scripts for agents, shared between my repositories.

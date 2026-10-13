@@ -8,7 +8,7 @@ source_url: https://github.com/gyoridavid/short-video-maker
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1406
+stars: 1408
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

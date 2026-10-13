@@ -8,14 +8,14 @@ source_url: https://github.com/usestrix/strix
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 68206
+stars: 68327
 eval_score: null
 mentions: 7
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 7552
-pushed_at: "2026-10-12T19:18:42Z"
+forks: 7575
+pushed_at: "2026-10-13T13:32:14Z"
 ---
 ## What it is
 Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.

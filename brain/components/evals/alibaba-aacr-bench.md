@@ -8,7 +8,7 @@ source_url: https://github.com/alibaba/aacr-bench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 241
+stars: 242
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10

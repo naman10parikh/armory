@@ -8,7 +8,7 @@ source_url: https://github.com/ronak-create/FableCut
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 723
+stars: 725
 eval_score: null
 verified_at: 2026-05-27
 related: []

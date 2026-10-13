@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-12T11:51:45Z"
+pushed_at: "2026-10-13T09:40:43Z"
 ---
 ## What it is
 Goal and process maps for humans and AI agents on your own server: agents create and update nodes, manage tasks and automation rules and read the org structure, while people watch the same map live. Connects to your self-hosted killBottleneck instance.

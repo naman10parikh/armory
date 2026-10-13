@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-12T18:06:30Z"
+pushed_at: "2026-10-13T13:41:19Z"
 ---
 ## What it is
 MCP server `OpenCrane`, catalogued on PulseMCP. Extensible RAG library for building AI-powered documentation search with semantic search, keyword matching, and hybrid retrieval.

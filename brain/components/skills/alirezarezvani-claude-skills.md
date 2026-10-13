@@ -8,13 +8,13 @@ source_url: https://github.com/alirezarezvani/claude-skills
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 28077
+stars: 28109
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 3933
+forks: 3935
 pushed_at: "2026-08-30T09:46:16Z"
 ---
 ## What it is

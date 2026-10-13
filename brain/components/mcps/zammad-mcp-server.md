@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 33
-pushed_at: "2026-10-12T10:51:33Z"
+pushed_at: "2026-10-13T14:50:53Z"
 ---
 ## What it is
 An MCP server that connects AI assistants to Zammad, providing tools for managing tickets, users, organizations, and attachments.

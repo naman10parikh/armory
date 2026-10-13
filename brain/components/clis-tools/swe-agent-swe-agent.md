@@ -8,13 +8,13 @@ source_url: https://github.com/SWE-agent/SWE-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 20540
+stars: 20544
 eval_score: null
 mentions: 3
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 2252
+forks: 2253
 pushed_at: "2026-10-12T23:00:33Z"
 ---
 ## What it is

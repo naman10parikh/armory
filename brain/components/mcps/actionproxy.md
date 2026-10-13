@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T00:25:36Z"
+pushed_at: "2026-10-13T07:14:53Z"
 ---
 ## What it is
 Provides a human-in-the-loop approval gateway for AI agents, enforcing policies and audit logging for MCP-compatible tool calls.

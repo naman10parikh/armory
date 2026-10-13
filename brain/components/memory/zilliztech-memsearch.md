@@ -8,7 +8,7 @@ source_url: https://github.com/zilliztech/memsearch
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2737
+stars: 2742
 eval_score: null
 mentions: null
 verified_at: 2026-09-07

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-10-11T22:38:45Z"
+pushed_at: "2026-10-13T09:03:30Z"
 ---
 ## What it is
 MCP server `Better Code Review Graph`, catalogued on PulseMCP. Knowledge graph for token-efficient code reviews with fixed search, configurable embeddings, and qualified call resolution.

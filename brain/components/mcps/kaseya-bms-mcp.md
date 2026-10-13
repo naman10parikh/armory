@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T18:31:08Z"
+pushed_at: "2026-10-13T12:49:52Z"
 ---
 ## What it is
 MCP server for Kaseya BMS PSA — tickets, accounts, time entries, and contracts. Enables AI assistants to manage service desk operations via the Kaseya BMS API.

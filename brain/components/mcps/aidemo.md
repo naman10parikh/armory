@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-05T11:26:03Z"
+pushed_at: "2026-10-13T08:20:48Z"
 ---
 ## What it is
 Your coding agent makes the demo video — turns a storyboard.json into a narrated, captioned product-demo MP4; deterministic replay re-renders it in CI at ~$0.

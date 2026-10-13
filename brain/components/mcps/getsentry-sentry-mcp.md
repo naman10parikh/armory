@@ -13,7 +13,7 @@ related: []
 tags: [mcp, monitoring]
 stars: 928
 forks: 161
-pushed_at: "2026-10-12T12:22:58Z"
+pushed_at: "2026-10-13T14:48:52Z"
 ---
 ## What it is
 Sentry.io integration for error tracking and performance monitoring

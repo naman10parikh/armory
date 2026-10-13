@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-10-09T05:33:06Z"
+pushed_at: "2026-10-13T14:41:10Z"
 ---
 ## What it is
 MCP server `ThoughtSpot`, catalogued on PulseMCP. OAuth-based analytics data querying from ThoughtSpot instances

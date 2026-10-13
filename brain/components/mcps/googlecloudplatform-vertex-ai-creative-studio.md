@@ -8,14 +8,14 @@ source_url: https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1221
+stars: 1222
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, mcps]
-forks: 375
-pushed_at: "2026-10-12T12:53:05Z"
+forks: 376
+pushed_at: "2026-10-13T08:23:05Z"
 ---
 ## What it is
 GenMedia Creative Studio is a generative media user experience highlighting the use of Gemini, Gemini Omni, Veo, Gemini Image 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud.

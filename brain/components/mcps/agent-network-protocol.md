@@ -8,7 +8,7 @@ source_url: https://github.com/agent-network-protocol/AgentNetworkProtocol
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1445
+stars: 1447
 eval_score: null
 verified_at: 2026-05-28
 related: []

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-12T14:55:40Z"
+pushed_at: "2026-10-13T13:15:55Z"
 ---
 ## What it is
 Your real mailbox and calendar for your AI agent — Microsoft 365 via Graph or any IMAP — as 24 tools: read, search, attachments as text, sender history, drafting from identity and knowledge files, free-slot computation. Send, reply, delete and calendar writes need out-of-band human approval: the age

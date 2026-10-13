@@ -8,13 +8,13 @@ source_url: https://github.com/Zackriya-Solutions/meetily
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 31667
+stars: 31691
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3470
+forks: 3478
 pushed_at: "2026-09-15T18:32:32Z"
 ---
 ## What it is

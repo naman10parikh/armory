@@ -14,7 +14,7 @@ mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 318
+forks: 319
 pushed_at: "2026-10-12T11:59:56Z"
 ---
 ## What it is

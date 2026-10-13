@@ -8,7 +8,7 @@ source_url: https://github.com/HKUDS/OpenSpace
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 7755
+stars: 7753
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10

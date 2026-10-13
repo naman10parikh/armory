@@ -8,13 +8,13 @@ source_url: https://github.com/china-qijizhifeng/Work2Skill
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 18
+stars: 20
 eval_score: null
 mentions: 1
 verified_at: 2026-10-13
 related: []
 tags: [sentinel-feed, skills]
-forks: 0
+forks: 2
 pushed_at: "2026-10-12T13:34:40Z"
 ---
 ## What it is

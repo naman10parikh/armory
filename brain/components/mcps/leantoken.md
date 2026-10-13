@@ -8,12 +8,12 @@ source_url: https://github.com/morluto/leantoken
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 65
+stars: 69
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
+forks: 9
 pushed_at: "2026-10-12T09:14:54Z"
 ---
 ## What it is
