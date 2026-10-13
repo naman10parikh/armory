@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:42:23Z"
+pushed_at: "2026-10-08T03:59:55Z"
 ---
 ## What it is
 MCP server `Performance AI`, catalogued on PulseMCP. Python MCP server for performance analysis and optimization tools.

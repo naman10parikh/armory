@@ -8,11 +8,11 @@ source_url: https://github.com/qainsights/jmeter-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 75
+stars: 74
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 28
+forks: 29
 pushed_at: "2026-09-12T16:04:07Z"
 ---
 ## What it is

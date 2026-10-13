@@ -8,12 +8,12 @@ source_url: https://github.com/okapi-ca/ms-365-admin-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 5
 pushed_at: "2026-09-29T01:19:32Z"
 ---
 ## What it is

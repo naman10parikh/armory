@@ -8,13 +8,13 @@ source_url: https://github.com/dat999zx/knowl
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 122
+stars: 89
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-10-06T11:59:33Z"
+forks: 7
+pushed_at: "2026-10-12T20:35:58Z"
 ---
 ## What it is
 Persistent AI agents memory for Claude, Codex, Cursor... that is always current.

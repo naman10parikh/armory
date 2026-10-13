@@ -8,13 +8,13 @@ source_url: https://github.com/cq27-dev/rag-rat
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 23
+stars: 24
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-10-06T11:14:30Z"
+pushed_at: "2026-10-09T16:10:16Z"
 ---
 ## What it is
 Local repo-intelligence MCP for coding agents: indexes source, symbols, call graphs, git/GitHub history, and source-bound repo memories into local database.

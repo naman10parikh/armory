@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-09-22T21:24:14Z"
+pushed_at: "2026-10-06T21:34:19Z"
 ---
 ## What it is
 MCP server `Scorecard`, catalogued on PulseMCP. Evaluate and optimize LLM systems with comprehensive testing and metrics

@@ -10,7 +10,7 @@ cli_compat: []
 maturity: stable
 stars: 51855
 eval_score: 1
-mentions: 1
+mentions: 2
 verified_at: 
 related: []
 tags: [connectors]

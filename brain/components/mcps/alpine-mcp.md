@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T16:30:11Z"
+pushed_at: "2026-10-12T17:04:43Z"
 ---
 ## What it is
 Provides the complete Alpine.js documentation as resources, enabling AI assistants to accurately reference directives, magics, globals, and plugins.

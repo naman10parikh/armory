@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-13T15:41:39Z"
+pushed_at: "2026-10-11T06:58:10Z"
 ---
 ## What it is
 An OpenAPI-driven MCP agent hub that dynamically generates MCP tools from Swagger/OpenAPI specs, enabling conversational interaction with backend APIs through natural language.

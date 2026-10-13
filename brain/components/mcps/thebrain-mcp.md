@@ -8,13 +8,13 @@ source_url: https://github.com/yBookoff/thebrain-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-30T14:17:34Z"
+pushed_at: "2026-10-13T00:22:58Z"
 ---
 ## What it is
 An MCP server for TheBrain 15 that enables semantic search, graph traversal, and structured writing to a personal knowledge base via its local API. It provides tools to read and write thoughts, notes, links, and tags, with optional local embeddings for meaning-based search.

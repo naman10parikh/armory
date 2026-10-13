@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-02-20T17:31:28Z"
+pushed_at: "2026-10-08T17:54:14Z"
 ---
 ## What it is
 Manages WhatsApp conversations, contacts, templates, campaigns, and channels through AI assistants like Claude using the Wati API v3.

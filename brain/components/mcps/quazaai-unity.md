@@ -8,11 +8,11 @@ source_url: https://github.com/quazaai/unitymcpintegration
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 159
+stars: 158
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 32
+forks: 33
 pushed_at: "2025-04-15T07:20:09Z"
 ---
 ## What it is

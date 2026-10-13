@@ -14,8 +14,8 @@ mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 97
-pushed_at: "2026-10-01T21:13:34Z"
+forks: 95
+pushed_at: "2026-10-11T22:46:07Z"
 ---
 ## What it is
 The best notepad for you and your agents

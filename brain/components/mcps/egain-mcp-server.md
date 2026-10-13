@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-03-09T17:42:07Z"
+pushed_at: "2026-10-12T20:12:24Z"
 ---
 ## What it is
 Enables AI clients to interact with eGain Knowledge, supporting portal browsing, article reading, knowledge search, and AI-powered answers through MCP.

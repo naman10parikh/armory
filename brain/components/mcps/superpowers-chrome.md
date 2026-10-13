@@ -8,13 +8,13 @@ source_url: https://github.com/obra/superpowers-chrome
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 356
+stars: 357
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 54
-pushed_at: "2026-10-04T18:47:18Z"
+forks: 55
+pushed_at: "2026-10-10T16:56:07Z"
 ---
 ## What it is
 Enables direct browser control via Chrome DevTools Protocol, supporting navigation, interaction, content extraction, and screenshots through a single MCP tool.

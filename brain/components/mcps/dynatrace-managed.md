@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-10-05T06:09:18Z"
+pushed_at: "2026-10-12T18:04:16Z"
 ---
 ## What it is
 MCP server `Dynatrace Managed`, catalogued on PulseMCP. Integrates with self-hosted Dynatrace Managed environments to access logs, events, metrics, problems, and entity data.

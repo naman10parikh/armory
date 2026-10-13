@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-06T12:54:09Z"
+pushed_at: "2026-10-12T22:50:04Z"
 ---
 ## What it is
 Live, reproducible crypto infrastructure benchmarks for AI agents: RPC latency, bridge fees, L1 finality, gas oracle accuracy, stablecoin pegs. Three tools (list_benchmarks, get_benchmark,query_prom), no API key, CC-BY-4.0 data.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-05T22:25:32Z"
+pushed_at: "2026-10-12T20:50:35Z"
 ---
 ## What it is
 MCP server `Drafto`, catalogued on PulseMCP. Manages notes and notebooks in Drafto, a cross-platform note-taking app with offline-first sync.

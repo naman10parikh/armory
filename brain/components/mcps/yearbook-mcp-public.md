@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-13T16:23:43Z"
+pushed_at: "2026-10-06T17:15:17Z"
 ---
 ## What it is
 e-yearbook.com MCP (Model Context Protocol) server. The server lets any MCP-aware AI agent search over 300,000 U.S. yearbooks indexed by name. Over 22,000 schools across all 50 U.S. states and territories Over 300,000 distinct (school, year) yearbooks Over 100M extracted person mentions

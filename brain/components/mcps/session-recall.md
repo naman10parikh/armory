@@ -8,13 +8,13 @@ source_url: https://github.com/AbsoluteMode/session-recall
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-14T09:45:45Z"
+pushed_at: "2026-10-12T02:49:32Z"
 ---
 ## What it is
 Provides local, agentic semantic recall over Claude Code session history, enabling the agent to search past discussions semantically, expand turns, and grep transcripts.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T19:00:42Z"
+pushed_at: "2026-10-07T02:31:21Z"
 ---
 ## What it is
 A security checkpoint for AI agents that intercepts and polices tool calls with allow/block/ask verdicts, taint tracking, and audit logging.

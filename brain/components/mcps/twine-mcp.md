@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-18T15:42:55Z"
+pushed_at: "2026-10-08T00:24:03Z"
 ---
 ## What it is
 A locally-run MCP server that connects to Twine's story library, enabling AI-assisted story management, passage editing, link-graph analysis, and narrative intelligence from any MCP-compatible client.

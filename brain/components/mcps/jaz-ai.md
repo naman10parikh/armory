@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-06T10:38:22Z"
+pushed_at: "2026-10-08T05:01:22Z"
 ---
 ## What it is
 The complete agent surface for Jaz accounting, providing 284 MCP tools and domain knowledge for AI agents to handle accounting tasks.

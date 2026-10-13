@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
-stars: 65
+stars: 66
 forks: 18
 pushed_at: "2026-01-21T01:42:38Z"
 ---

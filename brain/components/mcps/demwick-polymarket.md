@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-10-01T01:36:08Z"
+pushed_at: "2026-10-08T01:34:36Z"
 ---
 ## What it is
 MCP server `Polymarket`, catalogued on PulseMCP. Trades and analyzes Polymarket prediction markets with 48 tools for trading, portfolio management, smart money tracking, copy-trading, and automated stop-loss/take-profit.

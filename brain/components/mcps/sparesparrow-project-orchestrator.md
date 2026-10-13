@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-06-30T00:22:55Z"
+pushed_at: "2026-10-12T17:35:18Z"
 ---
 ## What it is
 MCP server `Project Orchestrator`, catalogued on PulseMCP. Streamlines software project creation by analyzing user input to select appropriate structures, generate documentation with Mermaid diagrams, and provide tools for setup and management.

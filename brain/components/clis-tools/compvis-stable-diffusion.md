@@ -8,13 +8,13 @@ source_url: https://github.com/CompVis/stable-diffusion
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 73485
+stars: 73492
 eval_score: null
-mentions: 5
+mentions: 6
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 10565
+forks: 10568
 pushed_at: "2024-06-18T01:53:49Z"
 ---
 ## What it is

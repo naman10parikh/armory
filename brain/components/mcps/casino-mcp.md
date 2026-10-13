@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T12:00:20Z"
+pushed_at: "2026-10-09T09:13:02Z"
 ---
 ## What it is
 Control CASINO quantum Monte Carlo calculations: start a run, poll whether it is still running, stop it, list past jobs — and read CASINO's out file as structured data instead of 4000 lines of text.

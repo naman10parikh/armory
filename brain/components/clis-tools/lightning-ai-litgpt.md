@@ -8,13 +8,13 @@ source_url: https://github.com/Lightning-AI/litgpt
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 13697
+stars: 13700
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1519
+forks: 1520
 pushed_at: "2026-10-07T17:01:06Z"
 ---
 ## What it is

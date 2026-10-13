@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-23T15:39:10Z"
+pushed_at: "2026-10-06T17:40:47Z"
 ---
 ## What it is
 Provides AI agents with direct access to SEC filing intelligence, company fundamentals, dilution risk scoring, and cross-company analytics for financial research.

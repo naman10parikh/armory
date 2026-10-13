@@ -8,12 +8,12 @@ source_url: https://github.com/rbbtsn0w/awesome-copilot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-03T05:33:18Z"
+pushed_at: "2026-10-13T00:55:07Z"
 ---
 ## What it is
 MCP server `Awesome Copilot`, catalogued on PulseMCP. Access and search GitHub awesome-copilot agents and collection resources with metadata indexing and on-demand content fetching.

@@ -8,12 +8,12 @@ source_url: https://github.com/pzalutski-pixel/javalens-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-06-16T00:18:31Z"
+pushed_at: "2026-10-10T20:09:30Z"
 ---
 ## What it is
 MCP server `JavaLens`, catalogued on PulseMCP. 63 semantic Java analysis tools via Eclipse JDT for navigation, refactoring, and code intelligence.

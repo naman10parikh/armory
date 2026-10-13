@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
-pushed_at: "2026-10-06T11:21:19Z"
+forks: 12
+pushed_at: "2026-10-12T17:54:34Z"
 ---
 ## What it is
 A generic Markdown vault MCP server with FTS5 full-text search, semantic vector search, frontmatter-aware indexing, incremental reindexing, and non-markdown attachment support that exposes search, read, write, and edit tools.

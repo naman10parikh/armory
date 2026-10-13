@@ -8,14 +8,14 @@ source_url: https://github.com/agentmail-to/agentmail-toolkit
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 107
+stars: 110
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
-forks: 28
-pushed_at: "2026-10-06T02:29:55Z"
+forks: 30
+pushed_at: "2026-10-12T19:44:16Z"
 ---
 ## What it is
 Use when an agent needs its own email address so people and systems can reach it, and it can act on what arrives.

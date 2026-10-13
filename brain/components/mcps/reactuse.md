@@ -8,13 +8,13 @@ source_url: https://github.com/childrentime/reactuse
 license: The Unlicense
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1057
+stars: 1061
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 144
-pushed_at: "2026-09-29T06:17:23Z"
+pushed_at: "2026-10-09T01:32:16Z"
 ---
 ## What it is
 MCP server for the ReactUse library. Exposes 110+ React Hook signatures, examples, and API metadata so AI coding assistants can discover and use any hook from @reactuses/core directly.

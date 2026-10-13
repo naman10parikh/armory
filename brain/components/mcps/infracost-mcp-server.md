@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T21:59:02Z"
+pushed_at: "2026-10-09T07:07:49Z"
 ---
 ## What it is
 An MCP server for running the Infracost CLI to estimate, compare, and publish infrastructure cost changes from Terraform and other IaC projects.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 56
-pushed_at: "2026-09-28T02:08:06Z"
+pushed_at: "2026-10-10T04:18:18Z"
 ---
 ## What it is
 MCP server `Obsidian Web`, catalogued on PulseMCP. Remote Obsidian vault access over HTTPS with OAuth 2.0 authentication and Cloudflare Tunnel security.

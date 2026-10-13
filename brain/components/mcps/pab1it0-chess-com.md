@@ -8,7 +8,7 @@ source_url: https://github.com/pab1it0/chess-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 90
+stars: 89
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

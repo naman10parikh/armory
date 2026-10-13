@@ -14,7 +14,7 @@ verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, general-purpose-implementations]
 forks: 4
-pushed_at: "2025-05-12T20:56:47Z"
+pushed_at: "2026-10-12T21:24:10Z"
 ---
 ## What it is
 Rust A2A tools for the greater good

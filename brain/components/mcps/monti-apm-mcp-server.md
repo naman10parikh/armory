@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-28T14:10:49Z"
+pushed_at: "2026-10-09T19:20:04Z"
 ---
 ## What it is
 Enables AI assistants to interact with Monti APM for Meteor application performance monitoring.

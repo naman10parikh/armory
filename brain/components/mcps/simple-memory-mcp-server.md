@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2025-12-05T13:28:36Z"
+pushed_at: "2026-10-10T00:51:43Z"
 ---
 ## What it is
 A lightweight MCP server that provides persistent knowledge graph storage for AI assistants, enabling memory across sessions through entity-relationship storage with JSON file persistence.

@@ -8,13 +8,13 @@ source_url: https://github.com/putervision/vision-memory-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 92
+stars: 48
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-10-03T15:46:24Z"
+forks: 1
+pushed_at: "2026-10-08T17:13:28Z"
 ---
 ## What it is
 Persistent visual cache for LLM-driven software development. Caches screenshots using perceptual hashing, vector search, and AX trees to prevent token overhead and visual hallucination loops.

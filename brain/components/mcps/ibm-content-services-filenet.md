@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-04-06T21:39:55Z"
+pushed_at: "2026-10-08T23:47:57Z"
 ---
 ## What it is
 MCP server `IBM Content Services (FileNet)`, catalogued on PulseMCP. Integrates with IBM Content Services (FileNet) through GraphQL APIs to provide enterprise document operations, folder management, metadata-driven search, class introspection, and annotation handling with authentication support and performance optimization for automated filing systems and content analysis workflows.

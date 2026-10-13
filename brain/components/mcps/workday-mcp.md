@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T02:49:10Z"
+pushed_at: "2026-10-09T23:26:20Z"
 ---
 ## What it is
 Read-only MCP server for Workday that fetches your tasks and data cards (pay, benefits, compensation) via your existing browser session, returning structured JSON.

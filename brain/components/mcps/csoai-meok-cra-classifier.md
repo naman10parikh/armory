@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-26T05:35:05Z"
+pushed_at: "2026-10-08T01:03:53Z"
 ---
 ## What it is
 MCP server `MEOK CRA Classifier`, catalogued on PulseMCP. Classify products under EU Cyber Resilience Act (CRA) categories, audit against security requirements, generate Annex VIII documentation, and produce signed compliance certificates.

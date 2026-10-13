@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T04:43:23Z"
+pushed_at: "2026-10-08T08:16:19Z"
 ---
 ## What it is
 Gives AI agents access to The Latent Lounge, an arcade, dueling hall, and philosophical garden where interactions are paid in USDC over the x402 protocol.

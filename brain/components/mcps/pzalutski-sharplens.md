@@ -8,12 +8,12 @@ source_url: https://github.com/pzalutski-pixel/sharplens-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 35
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-08-16T13:01:03Z"
+pushed_at: "2026-10-10T20:16:20Z"
 ---
 ## What it is
 MCP server `SharpLens`, catalogued on PulseMCP. 62 semantic C# and .NET analysis tools via Roslyn for navigation, refactoring, and code generation.

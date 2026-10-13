@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-10-06T01:09:49Z"
+forks: 4
+pushed_at: "2026-10-13T01:49:37Z"
 ---
 ## What it is
 Enables creating, editing, inspecting, rendering, and live-previewing Rive (.riv) animations directly from Claude without needing the Rive editor or cloud subscription, including building .riv files from scratch and a local web studio for human-AI collaboration.

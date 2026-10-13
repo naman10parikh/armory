@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-13T13:58:42Z"
+pushed_at: "2026-10-07T08:11:43Z"
 ---
 ## What it is
 MCP server `DORA Compliance`, catalogued on PulseMCP. Tools for Digital Operational Resilience Act compliance and documentation.

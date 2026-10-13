@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T21:00:39Z"
+pushed_at: "2026-10-10T18:47:03Z"
 ---
 ## What it is
 A local RAG MCP server that indexes project documentation and code into ChromaDB for semantic search, supporting multiple tech stacks and deployment modes.

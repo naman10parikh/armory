@@ -8,11 +8,11 @@ source_url: https://github.com/mrwyndham/pocketbase-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 152
+stars: 154
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 36
+forks: 37
 pushed_at: "2026-02-01T07:06:50Z"
 ---
 ## What it is

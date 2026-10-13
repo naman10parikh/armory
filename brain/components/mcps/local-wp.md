@@ -8,12 +8,12 @@ source_url: https://github.com/verygoodplugins/mcp-local-wp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-07-29T15:48:53Z"
+pushed_at: "2026-10-12T03:52:44Z"
 ---
 ## What it is
 MCP server `Local by Flywheel`, catalogued on PulseMCP. Automatically detects and connects to Local by Flywheel WordPress development environments by scanning running processes to find active mysqld instances and dynamically building correct connection parameters, providing reliable database access for WordPress developers without manual path configuration.

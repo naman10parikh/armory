@@ -8,13 +8,13 @@ source_url: https://github.com/peteretelej/directory-indexer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-06T13:49:36Z"
+pushed_at: "2026-10-06T14:09:19Z"
 ---
 ## What it is
 Provides AI assistants with semantic search and read access to local files and directories, enabling knowledge retrieval from indexed content.

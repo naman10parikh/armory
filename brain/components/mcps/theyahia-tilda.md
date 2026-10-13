@@ -8,11 +8,11 @@ source_url: https://github.com/theyahia/tilda-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
+forks: 3
 pushed_at: "2026-09-02T19:02:47Z"
 ---
 ## What it is

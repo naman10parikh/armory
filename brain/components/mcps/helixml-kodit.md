@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 17
-pushed_at: "2026-09-30T02:10:01Z"
+pushed_at: "2026-10-12T02:05:43Z"
 ---
 ## What it is
 MCP server `Kodit`, catalogued on PulseMCP. Indexes local codebases and Git repositories using tree-sitter parsing and semantic embeddings to enable hybrid search combining vector similarity with keyword matching for contextual code retrieval.

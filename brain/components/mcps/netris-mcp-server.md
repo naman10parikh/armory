@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T16:52:08Z"
+pushed_at: "2026-10-12T10:08:03Z"
 ---
 ## What it is
 Enables managing Netris network fabric through natural language, including VPCs, BGP sessions, load balancers, NAT rules, IPAM, and other network operations.

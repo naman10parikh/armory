@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-19T08:18:25Z"
+pushed_at: "2026-10-08T01:05:22Z"
 ---
 ## What it is
 MCP server `MEOK MCP Injection Scanner`, catalogued on PulseMCP. Scan MCP servers for prompt injection, tool poisoning, and supply-chain vulnerabilities using 30+ detection rules across five severity tiers.

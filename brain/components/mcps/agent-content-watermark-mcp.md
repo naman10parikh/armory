@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T05:24:50Z"
+pushed_at: "2026-10-08T02:36:37Z"
 ---
 ## What it is
 Enables EU AI Act Article 50(2) compliant watermarking of AI-generated content using C2PA manifest envelopes.

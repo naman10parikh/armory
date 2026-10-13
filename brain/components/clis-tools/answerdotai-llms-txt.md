@@ -8,7 +8,7 @@ source_url: https://github.com/AnswerDotAI/llms-txt
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2650
+stars: 2656
 eval_score: 1
 mentions: 3
 verified_at: 2026-09-26

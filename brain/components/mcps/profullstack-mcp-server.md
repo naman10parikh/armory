@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
-stars: 45
+stars: 46
 forks: 6
-pushed_at: "2026-10-06T11:03:22Z"
+pushed_at: "2026-10-08T11:20:06Z"
 ---
 ## What it is
 A comprehensive MCP server aggregating 20+ tools including SEO optimization, document conversion, domain lookup, email validation, QR generation, weather data, social media posting, security scanning, and more developer utilities.

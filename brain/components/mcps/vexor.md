@@ -8,12 +8,12 @@ source_url: https://github.com/scarletkc/vexor
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 243
+stars: 244
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 15
+forks: 16
 pushed_at: "2026-10-02T14:13:21Z"
 ---
 ## What it is

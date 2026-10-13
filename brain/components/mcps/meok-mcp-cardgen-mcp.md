@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T05:35:54Z"
+pushed_at: "2026-10-08T02:41:12Z"
 ---
 ## What it is
 Generates signed .well-known MCP server cards (SEP-1649/1960/2127) to enable MCP server discovery and compliance.

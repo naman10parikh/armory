@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T10:38:59Z"
+pushed_at: "2026-10-12T11:11:23Z"
 ---
 ## What it is
 Nexus Memory gives every MCP-compatible agent one persistent, self-hosted shared memory with hybrid retrieval, drift detection, and anti-poisoning features.

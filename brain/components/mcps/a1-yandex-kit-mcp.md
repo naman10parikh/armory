@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T10:20:39Z"
+pushed_at: "2026-10-09T22:57:43Z"
 ---
 ## What it is
 MCP server for the Yandex KIT e-commerce API, built with the official Model Context Protocol SDK. It exposes 61 tools over stdio to manage catalog, orders, discounts, and webhooks.

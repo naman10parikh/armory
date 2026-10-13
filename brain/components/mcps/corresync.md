@@ -8,13 +8,13 @@ source_url: https://github.com/nkiyohara/corresync
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-21T05:12:50Z"
+forks: 1
+pushed_at: "2026-10-12T16:24:12Z"
 ---
 ## What it is
 A local MCP server that unifies email and calendar management across multiple providers, enabling AI agents to search, read, and write with explicit approval and local-first security.

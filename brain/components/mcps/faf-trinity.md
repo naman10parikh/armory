@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T20:59:09Z"
+pushed_at: "2026-10-13T00:33:09Z"
 ---
 ## What it is
 MCP server that exposes project context, persistent memory, and agent identity via FAF formats, providing tools like context-aware callTool, remember/recall, and whoami through file-backed storage.

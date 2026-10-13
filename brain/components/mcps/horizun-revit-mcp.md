@@ -8,13 +8,13 @@ source_url: https://github.com/HorizunGroup/horizun-revit-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 45
+stars: 46
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-10-04T05:04:34Z"
+forks: 6
+pushed_at: "2026-10-13T01:39:45Z"
 ---
 ## What it is
 Connects MCP clients like Claude, Codex, and Cursor to a running Autodesk Revit session for typed BIM queries, verified model edits, family authoring, exports, and Power BI workflows. It is open-source, Apache-2.0, and designed for reliable, verified outcomes.

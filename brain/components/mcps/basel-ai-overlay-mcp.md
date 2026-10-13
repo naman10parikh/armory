@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T05:27:24Z"
+pushed_at: "2026-10-08T00:58:28Z"
 ---
 ## What it is
 Basel III + SR 11-7 + ECB TRIM AI/ML model risk MCP for banks, with EU AI Act compliance built-in.

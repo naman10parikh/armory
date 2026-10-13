@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:43:11Z"
+pushed_at: "2026-10-08T04:19:00Z"
 ---
 ## What it is
 MCP server `Restaurant AI`, catalogued on PulseMCP. Python MCP server for restaurant management and food service tools.

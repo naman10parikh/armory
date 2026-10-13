@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T20:34:06Z"
+pushed_at: "2026-10-07T23:11:59Z"
 ---
 ## What it is
 Self-hosted MCP server giving Claude persistent memory via entities, observations, history, and reminders, backed by a lightweight Node/SQLite backend.

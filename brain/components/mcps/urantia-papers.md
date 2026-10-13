@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-05T17:46:02Z"
+pushed_at: "2026-10-12T06:19:43Z"
 ---
 ## What it is
 MCP server `Urantia Papers`, catalogued on PulseMCP. Free, open API and MCP server for The Urantia Book with 197 papers, full-text search, and entity browsing.

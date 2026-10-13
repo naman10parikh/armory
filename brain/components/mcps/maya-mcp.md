@@ -8,12 +8,12 @@ source_url: https://github.com/GimbalGoats/GG_MayaMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 23
+stars: 25
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 6
 pushed_at: "2026-08-14T10:57:12Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-05T18:27:34Z"
+pushed_at: "2026-10-12T03:07:28Z"
 ---
 ## What it is
 TimeZest scheduling MCP server for the WYRE MCP Gateway. Enables AI assistants to schedule appointments and manage availability.

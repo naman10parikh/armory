@@ -8,14 +8,14 @@ source_url: https://github.com/openclaw/gogcli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 8489
+stars: 8493
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 711
-pushed_at: "2026-10-10T06:09:23Z"
+pushed_at: "2026-10-11T18:53:54Z"
 ---
 ## What it is
 Google Workspace in your terminal.

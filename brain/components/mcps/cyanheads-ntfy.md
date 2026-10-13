@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-09-22T05:24:44Z"
+pushed_at: "2026-10-07T12:34:35Z"
 ---
 ## What it is
 MCP server `ntfy.sh`, catalogued on PulseMCP. Bridges Claude with ntfy.sh notification service, enabling direct push notifications with support for priorities, tags, attachments, and action buttons without leaving the conversation interface.

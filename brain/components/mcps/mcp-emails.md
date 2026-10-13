@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-05T18:56:05Z"
+pushed_at: "2026-10-12T16:44:56Z"
 ---
 ## What it is
 Managed email for AI agents. Connect Gmail, iCloud, Fastmail, or any IMAP/SMTP inbox to Claude and other MCP clients.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-01T14:43:48Z"
+pushed_at: "2026-10-10T00:48:43Z"
 ---
 ## What it is
 Enables AI agents and workflows to safely explore and query data in ephemeral sandboxed databases via MCP, with guardrails and snapshot capabilities.

@@ -8,13 +8,13 @@ source_url: https://github.com/bkmashiro/weixin-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-05T08:49:26Z"
+pushed_at: "2026-10-08T13:13:25Z"
 ---
 ## What it is
 Enables AI assistants to send and receive WeChat messages through the official ClawBot API, supporting text, images, files, and videos.
