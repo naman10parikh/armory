@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T07:02:04Z"
+pushed_at: "2026-10-07T08:15:15Z"
 ---
 ## What it is
 MCP server for RenderDoc that enables AI assistants to analyze GPU frame captures (.rdc files) for graphics debugging and performance analysis, with 42 tools covering the full RenderDoc workflow.

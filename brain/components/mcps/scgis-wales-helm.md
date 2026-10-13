@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-25T20:44:23Z"
+pushed_at: "2026-10-10T12:32:29Z"
 ---
 ## What it is
 MCP server `Helm`, catalogued on PulseMCP. Exposes all 44 Helm CLI operations as MCP tools for release management, chart operations, repository handling, and OCI registry support with Kubernetes integration.

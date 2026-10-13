@@ -8,12 +8,12 @@ source_url: https://github.com/samvallad33/vestige
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 645
+stars: 649
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 70
-pushed_at: "2026-10-06T09:13:57Z"
+forks: 71
+pushed_at: "2026-10-11T21:45:47Z"
 ---
 ## What it is
 MCP server `Vestige`, catalogued on PulseMCP. Biologically-inspired memory system that implements spaced repetition, dual-strength modeling, and forgetting curves to provide local-first memory storage with semantic search, automatic connection discovery, and git-aware context capture for persistent memory that naturally decays and strengthens like human cognition.

@@ -8,12 +8,12 @@ source_url: https://github.com/ormastes/simple
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-06T13:57:05Z"
+pushed_at: "2026-10-13T01:45:03Z"
 ---
 ## What it is
 MCP server `Simple Language`, catalogued on PulseMCP. Code intelligence, debugging, build, test, and VCS tools for the Simple programming language.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-06T11:47:30Z"
+pushed_at: "2026-10-11T10:47:02Z"
 ---
 ## What it is
 A Rust MCP server that indexes codebases into a property graph and provides tools for code intelligence, such as searching, context, impact analysis, and change detection.

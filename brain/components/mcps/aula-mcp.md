@@ -8,12 +8,12 @@ source_url: https://github.com/Casperjuel/aula-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 61
+stars: 63
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 25
+forks: 27
 pushed_at: "2026-10-05T19:43:01Z"
 ---
 ## What it is

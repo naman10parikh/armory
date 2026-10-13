@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
-stars: 185
+stars: 186
 forks: 44
-pushed_at: "2026-10-01T14:43:49Z"
+pushed_at: "2026-10-12T13:24:39Z"
 ---
 ## What it is
 /🏠 - A Kubernetes Model Context Protocol (MCP) server that provides tools for interacting with Kubernetes clusters through a standardized interface, including API resource discovery, resource management, pod logs, metrics, and events.

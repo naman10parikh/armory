@@ -8,12 +8,12 @@ source_url: https://github.com/insforge/insforge-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 35
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
-pushed_at: "2026-10-05T23:43:39Z"
+forks: 14
+pushed_at: "2026-10-08T13:24:02Z"
 ---
 ## What it is
 MCP server `InsForge`, catalogued on PulseMCP. Backend-as-a-service platform with database, storage, auth, edge functions, and deployment tools.

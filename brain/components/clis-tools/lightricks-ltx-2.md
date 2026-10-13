@@ -8,13 +8,13 @@ source_url: https://github.com/Lightricks/LTX-2
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 9645
+stars: 9709
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1535
+forks: 1543
 pushed_at: "2026-10-02T10:38:06Z"
 ---
 ## What it is

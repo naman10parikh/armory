@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-25T11:02:44Z"
+pushed_at: "2026-10-06T23:20:06Z"
 ---
 ## What it is
 Provides semantic search and knowledge graph capabilities for Obsidian vaults using Smart Connections embeddings.

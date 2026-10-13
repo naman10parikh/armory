@@ -8,13 +8,13 @@ source_url: https://github.com/ihorponom/agentpack
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-05T11:21:03Z"
+pushed_at: "2026-10-10T12:18:33Z"
 ---
 ## What it is
 FROM node:22-alpine RUN npm install -g agentpack-cli WORKDIR /workspace RUN agentpack init ENTRYPOINT ["agentpack", "mcp"]

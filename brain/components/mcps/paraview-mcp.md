@@ -8,13 +8,13 @@ source_url: https://github.com/failed33/paraview-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-03T09:18:25Z"
+pushed_at: "2026-10-10T03:04:43Z"
 ---
 ## What it is
 Connects ParaView to LLM assistants via the Model Context Protocol, enabling direct Python code execution and pipeline control within the ParaView GUI.

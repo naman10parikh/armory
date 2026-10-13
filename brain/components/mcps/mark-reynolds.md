@@ -8,13 +8,13 @@ source_url: https://github.com/m-reynaldo35/pq-verifiable-archive
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-06T13:35:12Z"
+forks: 1
+pushed_at: "2026-10-09T14:40:51Z"
 ---
 ## What it is
 Post-quantum document anchoring for AI agents. Anchor any SHA-256 hash to Algorand mainnet with ML-DSA-65 (NIST FIPS-204) signatures and receive a self-contained proof bundle verifiable offline — decades from now, without trusting any vendor.

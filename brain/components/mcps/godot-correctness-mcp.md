@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T06:44:37Z"
+pushed_at: "2026-10-11T13:43:26Z"
 ---
 ## What it is
 Offline static correctness MCP server for Godot 4.x GDScript projects that lints code, looks up API symbols, and validates scenes/resources, all without a running editor.

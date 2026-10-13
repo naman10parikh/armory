@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-08T11:49:05Z"
+pushed_at: "2026-10-08T13:51:35Z"
 ---
 ## What it is
 Remote MCP server for operating a LocalTry CRM with plain-language instructions, enforcing tenant isolation via OAuth-bound connections. Enables searching and managing customers, companies, contacts, leads, jobs, estimates, invoices, and workspace customizations.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T05:46:36Z"
+pushed_at: "2026-10-09T20:30:42Z"
 ---
 ## What it is
 Enables MCP-capable agents to join Landfall incident war rooms as live investigators, contributing findings and widgets to the incident timeline in realtime while pulling other investigators' discoveries, with single-use share links or authenticated sessions.

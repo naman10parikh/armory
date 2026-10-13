@@ -8,13 +8,13 @@ source_url: https://github.com/adityaarsharma/youtube-marketing-skills
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 51
+stars: 58
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-05-14T04:14:36Z"
+forks: 12
+pushed_at: "2026-10-10T03:12:33Z"
 ---
 ## What it is
 MCP server that connects AI agents to real YouTube channel analytics and SEO management via OAuth, enabling content strategy, metadata updates, and companion WordPress posts without leaving the agent.

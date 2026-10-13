@@ -8,13 +8,13 @@ source_url: https://github.com/Travis-Prall/court-listener-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-10-05T00:44:39Z"
+pushed_at: "2026-10-12T20:53:23Z"
 ---
 ## What it is
 Enables LLM-friendly access to the CourtListener legal database and eCFR for searching legal opinions, court cases, judges, documents, and federal regulations.

@@ -14,7 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 eval_score: 1
 forks: 29
-pushed_at: "2026-10-06T12:53:00Z"
+pushed_at: "2026-10-09T18:41:26Z"
 ---
 ## What it is
 MCP server `Telnyx`, catalogued on PulseMCP. Integrates with Telnyx's telecommunications APIs for voice calling, SMS/MMS messaging, phone number management, and AI assistants

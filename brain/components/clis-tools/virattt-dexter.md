@@ -8,13 +8,13 @@ source_url: https://github.com/virattt/dexter
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 27653
+stars: 27655
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3409
+forks: 3412
 pushed_at: "2026-09-23T19:56:36Z"
 ---
 ## What it is

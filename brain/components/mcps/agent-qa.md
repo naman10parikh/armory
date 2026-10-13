@@ -8,7 +8,7 @@ source_url: https://github.com/vostride/agent-qa
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 900
+stars: 903
 eval_score: null
 verified_at: 2026-05-27
 related: []

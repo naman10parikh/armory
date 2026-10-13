@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T13:03:19Z"
+pushed_at: "2026-10-11T04:59:33Z"
 ---
 ## What it is
 An MCP server that enables autonomous code development by pulling GitHub issues, fixing them in a sandboxed environment, running tests, opening PRs, and promoting to production upon human approval.

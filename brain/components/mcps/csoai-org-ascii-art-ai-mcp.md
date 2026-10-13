@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:35:53Z"
+pushed_at: "2026-10-08T00:57:57Z"
 ---
 ## What it is
 MCP server `ASCII Art AI`, catalogued on PulseMCP. ASCII art generation tools using AI for text-based visual output.

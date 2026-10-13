@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-03T11:40:45Z"
+pushed_at: "2026-10-10T18:51:16Z"
 ---
 ## What it is
 Run your Tallyfy workflows from any AI assistant in plain English. 107 tools across processes, tasks, templates, form fields, automation rules, users, and search, each scoped to the signed-in user's Tallyfy permissions.

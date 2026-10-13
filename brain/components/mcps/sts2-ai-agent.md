@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 49
-pushed_at: "2026-10-03T05:12:10Z"
+forks: 48
+pushed_at: "2026-10-07T11:04:48Z"
 ---
 ## What it is
 Enables AI agents to play Slay the Spire 2 by exposing game state and actions through an MCP server, supporting combat, rewards, and run management.

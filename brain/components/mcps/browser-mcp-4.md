@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T00:30:06Z"
+pushed_at: "2026-10-07T04:46:41Z"
 ---
 ## What it is
 Provides real browser automation with stealth capabilities for screenshots, page fetching, web search, and data extraction using system browsers.

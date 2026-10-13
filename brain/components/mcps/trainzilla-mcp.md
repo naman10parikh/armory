@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T09:05:42Z"
+pushed_at: "2026-10-08T14:56:11Z"
 ---
 ## What it is
 Trainzilla MCP connects Claude to your Trainzilla coach account, turning your client roster, programming, and habit tracking into something you can manage conversationally. Built for fitness coaches running their practice on Trainzilla, it lets Claude pull up client profiles and metrics, build and r

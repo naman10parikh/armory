@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 31
-pushed_at: "2026-09-21T22:33:55Z"
+pushed_at: "2026-10-11T22:35:22Z"
 ---
 ## What it is
 Enables AI coding agents to efficiently query code context via a symbol graph, reducing token usage by up to 20x.

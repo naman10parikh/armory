@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T06:17:15Z"
+pushed_at: "2026-10-09T22:00:09Z"
 ---
 ## What it is
 An MCP server for querying KBBI (Kamus Besar Bahasa Indonesia / KBBI Daring).

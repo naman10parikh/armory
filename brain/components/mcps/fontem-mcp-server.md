@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T14:01:22Z"
+pushed_at: "2026-10-09T03:01:46Z"
 ---
 ## What it is
 A Model Context Protocol server that surfaces Fontem entities and queries to Claude via standard MCP tools.

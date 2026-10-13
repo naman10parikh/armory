@@ -8,11 +8,11 @@ source_url: https://github.com/portswigger/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1215
+stars: 1233
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 199
+forks: 208
 pushed_at: "2026-10-02T18:25:01Z"
 ---
 ## What it is

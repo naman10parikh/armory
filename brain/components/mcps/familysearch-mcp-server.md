@@ -8,12 +8,12 @@ source_url: https://github.com/JonathanReiss15/familysearch-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 4
 pushed_at: "2026-07-05T22:29:32Z"
 ---
 ## What it is

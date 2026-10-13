@@ -8,12 +8,12 @@ source_url: https://github.com/davidmosiah/whoop-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-10-03T23:38:20Z"
+forks: 7
+pushed_at: "2026-10-08T14:33:05Z"
 ---
 ## What it is
 MCP server `WHOOP (Unofficial)`, catalogued on PulseMCP. Unofficial WHOOP integration for AI health, sleep, recovery, and performance data access.

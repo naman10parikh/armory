@@ -8,7 +8,7 @@ source_url: https://github.com/context-labs/halo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1187
+stars: 1190
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10

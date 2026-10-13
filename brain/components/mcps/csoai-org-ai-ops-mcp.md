@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:35:42Z"
+pushed_at: "2026-10-08T00:57:19Z"
 ---
 ## What it is
 MCP server `AI Ops`, catalogued on PulseMCP. Operations monitoring and management tools for AI system lifecycle.

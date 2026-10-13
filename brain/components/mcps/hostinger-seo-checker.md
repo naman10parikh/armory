@@ -8,11 +8,11 @@ source_url: https://github.com/hostinger/selfhosted-mcp-server-template
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
+forks: 16
 pushed_at: "2025-08-26T06:15:40Z"
 ---
 ## What it is

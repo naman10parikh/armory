@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-27T14:47:05Z"
+pushed_at: "2026-10-12T14:01:26Z"
 ---
 ## What it is
 Semantic tool-routing gateway for MCP servers that cuts 70-90% of context tokens, with RBAC, API-key auth, response caching, hot-reload config, and a real-time observability dashboard.

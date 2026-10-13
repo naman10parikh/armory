@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T11:16:06Z"
+pushed_at: "2026-10-08T20:25:52Z"
 ---
 ## What it is
 MCP server that bridges Claude with KiloCode, enabling Claude to act as architect and delegate coding tasks to Kilo's fast CLI agent while monitoring progress and reviewing results.

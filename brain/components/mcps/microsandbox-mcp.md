@@ -8,13 +8,13 @@ source_url: https://github.com/superradcompany/microsandbox-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-05T20:48:08Z"
+pushed_at: "2026-10-12T12:30:43Z"
 ---
 ## What it is
 Connects AI agents to microsandbox for creating lightweight sandboxes, executing code, managing files, and monitoring resources.

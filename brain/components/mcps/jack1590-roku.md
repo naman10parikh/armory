@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-06-06T01:21:03Z"
+pushed_at: "2026-10-12T00:14:08Z"
 ---
 ## What it is
 MCP server `Roku`, catalogued on PulseMCP. Automates Roku devices through app deployment, remote control commands, screenshot capture, SceneGraph inspection, and debug console access.

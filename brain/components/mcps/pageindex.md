@@ -8,11 +8,11 @@ source_url: https://github.com/vectifyai/pageindex-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 399
+stars: 400
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 51
+forks: 52
 pushed_at: "2026-07-25T12:16:06Z"
 ---
 ## What it is

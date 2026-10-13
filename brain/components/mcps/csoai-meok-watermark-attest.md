@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-03T03:55:41Z"
+pushed_at: "2026-10-08T01:05:57Z"
 ---
 ## What it is
 MCP server `MEOK Watermark Attest`, catalogued on PulseMCP. Generate C2PA manifests, invisible watermarks, and HMAC-signed attestations for EU AI Act Article 50 transparency compliance.

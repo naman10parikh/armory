@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-16T13:19:39Z"
+pushed_at: "2026-10-12T19:16:41Z"
 ---
 ## What it is
 Travel award search: compare cash vs points on hotels, flights & cars, cents-per-point, and book

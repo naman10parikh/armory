@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
-pushed_at: "2026-10-06T07:45:19Z"
+forks: 11
+pushed_at: "2026-10-10T07:53:04Z"
 ---
 ## What it is
 Read-only MCP server for aggregate HitKeep analytics and official documentation, including traffic, events, goals, funnels, ecommerce, Search Console, and AI visibility reporting.

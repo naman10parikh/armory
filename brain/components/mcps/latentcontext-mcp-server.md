@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-19T21:04:02Z"
+pushed_at: "2026-10-10T22:45:34Z"
 ---
 ## What it is
 A session-scoped memory layer for LLMs that enables AI assistants to explicitly store and retrieve notes, decisions, and context within a single conversation, ensuring focus without cross-session data contamination.

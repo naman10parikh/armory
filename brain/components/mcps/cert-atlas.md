@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T04:10:24Z"
+pushed_at: "2026-10-09T18:22:31Z"
 ---
 ## What it is
 MCP server over the open index of 1,562 certification exam blueprints across 217 certifying bodies. Search exams, pull full blueprints (domains & weights, passing scores, prerequisites, renewal), and compare certifications. Read-only, public data, no API key.

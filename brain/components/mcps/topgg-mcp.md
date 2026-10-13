@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T21:00:32Z"
+pushed_at: "2026-10-13T00:59:57Z"
 ---
 ## What it is
 Enables AI assistants to manage Top.gg bot or server listings, including updating project info, checking votes, posting metrics, and registering commands.

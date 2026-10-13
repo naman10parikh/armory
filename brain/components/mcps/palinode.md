@@ -8,11 +8,11 @@ source_url: https://github.com/phasespace-labs/palinode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 48
+forks: 49
 pushed_at: "2026-10-03T05:26:23Z"
 ---
 ## What it is

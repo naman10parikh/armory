@@ -15,7 +15,7 @@ verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 318
-pushed_at: "2026-10-07T02:30:02Z"
+pushed_at: "2026-10-12T11:59:56Z"
 ---
 ## What it is
 Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.

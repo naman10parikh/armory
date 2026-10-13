@@ -8,11 +8,11 @@ source_url: https://github.com/hagaihen/facebook-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 228
+stars: 229
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 80
+forks: 79
 pushed_at: "2026-04-23T19:08:42Z"
 ---
 ## What it is

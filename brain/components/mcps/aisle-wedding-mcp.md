@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-01T21:54:56Z"
+pushed_at: "2026-10-08T19:17:00Z"
 ---
 ## What it is
 Search destination wedding venues and vendors worldwide with Aisle. 10 tools for AI-assisted wedding planning: Venue Search: Find wedding venues by country, type (villa, beach, castle, resort), capacity, and budget. Covers 20+ countries. Vendor Search: Browse wedding photographers, florists, planner

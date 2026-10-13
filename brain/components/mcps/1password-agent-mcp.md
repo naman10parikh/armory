@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-16T20:31:53Z"
+pushed_at: "2026-10-12T05:31:57Z"
 ---
 ## What it is
 Local MCP server that provides approved 1Password logins to AI agents without exposing plaintext passwords. Agents can request encrypted handles and paste passwords directly into applications.

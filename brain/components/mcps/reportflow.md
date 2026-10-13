@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-10T01:30:58Z"
+pushed_at: "2026-10-11T04:15:54Z"
 ---
 ## What it is
 MCP server `ReportFlow`, catalogued on PulseMCP. Generate PDF reports from ReportFlow templates via AI agents — template-driven document automation.

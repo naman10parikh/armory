@@ -8,13 +8,13 @@ source_url: https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 134
+stars: 138
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 30
-pushed_at: "2026-10-02T19:04:31Z"
+pushed_at: "2026-10-11T08:28:25Z"
 ---
 ## What it is
 Connects AI assistants to real-time Indian stock market data with 34 tools for search, screening, analysis, portfolio tracking, and market insights across all NSE and BSE stocks.

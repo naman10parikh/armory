@@ -8,12 +8,12 @@ source_url: https://github.com/snordquist/alexa-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 3
 pushed_at: "2026-07-15T18:03:08Z"
 ---
 ## What it is

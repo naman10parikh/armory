@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T19:24:10Z"
+pushed_at: "2026-10-09T19:02:17Z"
 ---
 ## What it is
 Runs slack-mcp-server against your Slack desktop app session, eliminating the need for API tokens.

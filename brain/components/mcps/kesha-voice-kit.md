@@ -8,13 +8,13 @@ source_url: https://github.com/drakulavich/kesha-voice-kit
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 76
+stars: 77
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-10-06T10:06:02Z"
+pushed_at: "2026-10-10T22:46:22Z"
 ---
 ## What it is
 Local voice toolkit over MCP: transcribe audio to text in 25 languages, synthesize speech in 9, and list available voices and languages. Runs fully on-device — no API keys, no cloud.

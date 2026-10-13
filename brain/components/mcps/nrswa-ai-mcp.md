@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-03T03:59:55Z"
+pushed_at: "2026-10-08T03:23:38Z"
 ---
 ## What it is
 Enables compliance checks and management for UK New Roads and Street Works Act (NRSWA), including licence checks, work classification, and overrun calculations.

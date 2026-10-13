@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T12:04:44Z"
+pushed_at: "2026-10-12T18:34:20Z"
 ---
 ## What it is
 A minimal MCP server that provides a send_email tool for sending HTML email through an SMTP relay.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T23:31:49Z"
+pushed_at: "2026-10-12T22:41:06Z"
 ---
 ## What it is
 A standalone local MCP server that serves HeroUI v2 component documentation, source code, style definitions, and theme tokens by fetching directly from the official GitHub repository.

@@ -8,13 +8,13 @@ source_url: https://github.com/NeshanMaps/Neshan-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-11T09:10:25Z"
+pushed_at: "2026-10-12T07:48:14Z"
 ---
 ## What it is
 Enables AI assistants to access Neshan maps services for location search, routing, traffic analysis, and more through natural language.

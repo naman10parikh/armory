@@ -8,12 +8,12 @@ source_url: https://github.com/snyk/cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5671
+stars: 5676
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 697
-pushed_at: "2026-10-06T13:41:37Z"
+forks: 698
+pushed_at: "2026-10-12T16:42:45Z"
 ---
 ## What it is
 MCP server `Snyk`, catalogued on PulseMCP. Security scanner that tests applications and infrastructure for vulnerabilities, generates SBOMs, and monitors projects using TypeScript and Go components.

@@ -8,14 +8,14 @@ source_url: https://github.com/langchain-ai/langsmith-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 77
+stars: 78
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 20
-pushed_at: "2026-10-09T21:03:40Z"
+pushed_at: "2026-10-11T11:56:03Z"
 ---
 ## What it is
 A coding agent-first CLI for interacting with LangSmith.

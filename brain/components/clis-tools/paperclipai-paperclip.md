@@ -8,14 +8,14 @@ source_url: https://github.com/paperclipai/paperclip
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 97917
+stars: 100983
 eval_score: null
 mentions: 3
 verified_at: 2026-09-26
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 16547
-pushed_at: "2026-10-06T13:52:37Z"
+forks: 16977
+pushed_at: "2026-10-13T01:45:40Z"
 ---
 ## What it is
 The open-source app everyone uses to manage agents at work

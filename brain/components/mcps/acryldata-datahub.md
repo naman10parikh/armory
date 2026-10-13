@@ -8,12 +8,12 @@ source_url: https://github.com/acryldata/mcp-server-datahub
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 80
+stars: 82
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 95
-pushed_at: "2026-10-05T05:27:35Z"
+pushed_at: "2026-10-12T16:40:22Z"
 ---
 ## What it is
 MCP server `DataHub`, catalogued on PulseMCP. Integrates with DataHub's API to enable metadata management, discovery, and governance across diverse data assets in complex ecosystems.

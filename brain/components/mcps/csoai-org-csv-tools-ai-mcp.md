@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:37:56Z"
+pushed_at: "2026-10-08T01:06:25Z"
 ---
 ## What it is
 MCP server `CSV Tools AI`, catalogued on PulseMCP. AI-powered CSV file manipulation, transformation, and analysis tools.

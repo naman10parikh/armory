@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-31T16:51:08Z"
+pushed_at: "2026-10-10T19:09:48Z"
 ---
 ## What it is
 A local MCP server for creating and editing pixel art canvases as PNG files, with drawing tools, animation support, and various canvas operations.

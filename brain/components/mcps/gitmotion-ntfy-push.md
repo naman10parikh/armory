@@ -8,12 +8,12 @@ source_url: https://github.com/gitmotion/ntfy-me-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 75
+stars: 76
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
-pushed_at: "2026-04-11T22:31:28Z"
+forks: 17
+pushed_at: "2026-10-08T00:57:03Z"
 ---
 ## What it is
 MCP server `Ntfy Push Notifications`, catalogued on PulseMCP. Enables sending push notifications through the ntfy service with customizable titles, summaries, priority levels, and tags for alerting users about completed tasks or status updates.

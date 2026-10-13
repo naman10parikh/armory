@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 19
-pushed_at: "2026-10-06T13:51:16Z"
+pushed_at: "2026-10-06T19:53:26Z"
 ---
 ## What it is
 MCP server `AACT Clinical Trials`, catalogued on PulseMCP. Integrates with the AACT clinical trials database, enabling querying and analysis of large-scale trial data for research and healthcare applications.

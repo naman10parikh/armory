@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T19:44:37Z"
+pushed_at: "2026-10-07T19:47:06Z"
 ---
 ## What it is
 Multi-Agent Development Agentic Network that enables AI-driven software development through specialized agents, interactive wizards, and structured debate, with MCP integration for IDE tools like workflow execution, impact analysis, and ecosystem search.

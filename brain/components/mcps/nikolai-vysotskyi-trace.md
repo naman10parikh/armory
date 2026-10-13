@@ -8,12 +8,12 @@ source_url: https://github.com/nikolai-vysotskyi/trace-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 185
+stars: 191
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 24
-pushed_at: "2026-10-06T06:46:08Z"
+pushed_at: "2026-10-13T01:35:29Z"
 ---
 ## What it is
 MCP server `Trace`, catalogued on PulseMCP. Framework-aware code intelligence MCP server with 44+ tools for code tracing, analysis, and debugging.

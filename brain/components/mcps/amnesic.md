@@ -8,13 +8,13 @@ source_url: https://github.com/SurajKGoyal/amnesic
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-06T11:17:43Z"
+pushed_at: "2026-10-12T12:01:57Z"
 ---
 ## What it is
 Persistent semantic memory for your SQL databases. The name is ironic — it remembers everything.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-11T12:35:13Z"
+pushed_at: "2026-10-10T15:58:45Z"
 ---
 ## What it is
 An MCP server for performing Excel file operations including read, write, and manipulation, with enterprise security features and VS Code integration.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T05:35:21Z"
+pushed_at: "2026-10-08T02:40:56Z"
 ---
 ## What it is
 Generates EU AI Act Article 26(9) FRIA documents with 9-element structure, DPIA crosswalk, and signed attestation for compliance.

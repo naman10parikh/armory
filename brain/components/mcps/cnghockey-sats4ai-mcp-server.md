@@ -13,7 +13,7 @@ related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 2
 forks: 1
-pushed_at: "2026-09-10T04:16:54Z"
+pushed_at: "2026-10-06T19:12:34Z"
 ---
 ## What it is
 Permissionless communication supercharger for AI agents — phone calls, SMS, fax, translation (119 languages), text-to-speech, audiobook generation, plus image/video/music/text generation and document extraction. Pay per request via Lightning (L402) — no signup or API keys.

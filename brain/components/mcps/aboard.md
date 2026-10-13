@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-27T14:15:31Z"
+pushed_at: "2026-10-08T22:31:58Z"
 ---
 ## What it is
 Five read tools plus four gated write tools that open a PR to review; nothing auto-merges. Published as JSON-LD against a versioned schema. npx aboard-mcp-server, or hosted at https://aboard.untype.me/mcp

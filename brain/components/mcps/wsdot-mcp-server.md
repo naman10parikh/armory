@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T22:39:35Z"
+pushed_at: "2026-10-09T07:56:08Z"
 ---
 ## What it is
 Query WA highway conditions, ferry schedules, vessel locations, toll rates, border waits, and alerts via MCP.

@@ -8,14 +8,14 @@ source_url: https://github.com/ggml-org/llama.cpp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 130460
+stars: 130961
 eval_score: null
 mentions: 5
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 24124
-pushed_at: "2026-10-06T13:40:16Z"
+forks: 24347
+pushed_at: "2026-10-12T22:29:39Z"
 ---
 ## What it is
 LLM inference in C/C++

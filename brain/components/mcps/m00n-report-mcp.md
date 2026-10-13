@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T21:39:57Z"
+pushed_at: "2026-10-11T00:15:53Z"
 ---
 ## What it is
 Test management over MCP: author test cases, run manual executions with per-case results, cut releases, and link automated tests to the cases they cover. Works against the hosted M00N Report service or a self-hosted instance.

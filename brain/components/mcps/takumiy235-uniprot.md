@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-05-29T16:23:16Z"
+pushed_at: "2026-10-10T05:19:13Z"
 ---
 ## What it is
 MCP server `UniProt`, catalogued on PulseMCP. Integrates with UniProt API to provide cached protein information for bioinformatics applications and protein research.

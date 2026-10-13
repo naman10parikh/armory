@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T13:33:34Z"
+pushed_at: "2026-10-10T17:53:16Z"
 ---
 ## What it is
 Provides a local catalog of MCP servers (legal data connectors and agent skills) from MateMatic Boutique, enabling search and obtaining install commands without proxying requests.

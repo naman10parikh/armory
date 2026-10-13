@@ -8,7 +8,7 @@ source_url: https://github.com/pgEdge/pgedge-postgres-mcp
 license: PostgreSQL License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 233
+stars: 234
 eval_score: null
 verified_at: 2026-05-27
 related: []

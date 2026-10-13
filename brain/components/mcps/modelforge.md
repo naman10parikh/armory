@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-11T03:41:31Z"
+pushed_at: "2026-10-12T21:17:53Z"
 ---
 ## What it is
 Financial model factory MCP server: turns a spec into a live-formula Excel workbook. 14 templates (LBO, DCF, M\&A, IPO, restructuring, project finance, NPL, structured credit, 3-statement) with every cell formulated and every number source-traced to its document page.

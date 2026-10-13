@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T07:17:42Z"
+pushed_at: "2026-10-08T08:33:04Z"
 ---
 ## What it is
 Audits any MCP server (stdio or Streamable HTTP, legacy or modern era) with wire-level conformance, security, and behavior-regression checks, producing a fingerprinted delivery report and CI regression suite.

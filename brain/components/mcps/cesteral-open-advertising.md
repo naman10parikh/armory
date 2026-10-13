@@ -8,12 +8,12 @@ source_url: https://github.com/cesteral/mcp-open-advertising
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
-pushed_at: "2026-10-02T08:01:21Z"
+forks: 5
+pushed_at: "2026-10-12T20:10:15Z"
 ---
 ## What it is
 MCP server `Open Advertising`, catalogued on PulseMCP. Manage 13 advertising platforms (Google Ads, Meta, TikTok, LinkedIn, The Trade Desk, and more) from AI agents.

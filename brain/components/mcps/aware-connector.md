@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T22:59:14Z"
+pushed_at: "2026-10-06T19:24:15Z"
 ---
 ## What it is
 MCP server for Autodesk's Aware employee directory, enabling search for people by name, email, or title, fetching individual records, viewing org reporting lines, and reading your own profile. It uses your own logged-in session to access the same data as the web app, read-only.

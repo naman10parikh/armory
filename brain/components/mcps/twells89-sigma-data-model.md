@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-14T20:36:04Z"
+pushed_at: "2026-10-12T20:09:41Z"
 ---
 ## What it is
 MCP server `Sigma Data Model Converter`, catalogued on PulseMCP. Converts data models from dbt, Snowflake, LookML, Tableau, and Power BI into Sigma Computing data model format.

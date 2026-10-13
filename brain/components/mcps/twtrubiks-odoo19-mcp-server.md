@@ -13,7 +13,7 @@ related: []
 tags: [mcp, workplace-productivity]
 stars: 4
 forks: 1
-pushed_at: "2026-07-31T04:45:43Z"
+pushed_at: "2026-10-11T00:32:42Z"
 ---
 ## What it is
 MCP Server for Odoo 19 ERP using JSON-RPC API, built with FastMCP. Supports CRUD operations, model inspection, and user/company context with readonly mode and delete confirmation safety.

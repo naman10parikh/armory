@@ -8,13 +8,13 @@ source_url: https://github.com/benchflow-ai/skillsbench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1837
+stars: 1842
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 371
+forks: 370
 pushed_at: "2026-07-23T19:09:35Z"
 ---
 ## What it is

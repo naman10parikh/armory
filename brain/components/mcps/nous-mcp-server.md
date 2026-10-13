@@ -8,11 +8,13 @@ source_url: https://github.com/NousC/opennous
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-10-12T21:04:32Z"
 ---
 ## What it is
 Provides a context graph for GTM teams, centralizing data from multiple tools into unified person and company records, and offers MCP tools to retrieve account context, full entity details, and filtered queries.

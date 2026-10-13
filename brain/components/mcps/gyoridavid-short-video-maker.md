@@ -8,11 +8,11 @@ source_url: https://github.com/gyoridavid/short-video-maker
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1388
+stars: 1406
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 441
+forks: 439
 pushed_at: "2025-06-21T11:17:09Z"
 ---
 ## What it is
