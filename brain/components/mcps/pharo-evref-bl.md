@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-02T18:40:56Z"
+pushed_at: "2026-10-13T19:21:00Z"
 ---
 ## What it is
 MCP server `Pharo`, catalogued on PulseMCP. Enables MCP clients to interact with a Pharo Smalltalk programming environment.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T10:46:24Z"
+pushed_at: "2026-10-11T19:04:02Z"
 ---
 ## What it is
 A hosted MCP server that enables managing Google Ads, Microsoft Advertising, TikTok Ads, LinkedIn Ads, and other Google services from ChatGPT, Claude, or any MCP client using natural language, with no code or API keys required.

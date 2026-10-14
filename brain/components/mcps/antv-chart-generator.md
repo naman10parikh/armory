@@ -8,11 +8,11 @@ source_url: https://github.com/antvis/mcp-server-chart
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4391
+stars: 4397
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 420
+forks: 423
 pushed_at: "2026-08-27T01:50:14Z"
 ---
 ## What it is

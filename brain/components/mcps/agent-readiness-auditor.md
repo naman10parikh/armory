@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-12T00:08:29Z"
+pushed_at: "2026-10-11T19:28:36Z"
 ---
 ## What it is
 Scans a website to score its compatibility and safety for AI agents, and exposes an audit tool via the Model Context Protocol.

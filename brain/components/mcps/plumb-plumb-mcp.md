@@ -8,13 +8,13 @@ source_url: https://github.com/tathagat22/plumb-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 88
+stars: 79
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
-pushed_at: "2026-10-05T22:08:21Z"
+forks: 7
+pushed_at: "2026-10-14T06:44:04Z"
 ---
 ## What it is
 AI-native design engineering platform that converts Figma or live websites into a semantic design graph for code generation, and generates Figma designs from prompts with a self-improving director loop.

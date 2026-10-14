@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-07-17T04:31:41Z"
+pushed_at: "2026-10-12T02:58:09Z"
 ---
 ## What it is
 Exposes any SQLite database as read-only MCP tools for AI assistants, enabling listing tables, describing schemas, and running SELECT queries with filtering, ordering, and pagination.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-06T05:35:47Z"
+pushed_at: "2026-10-11T20:52:12Z"
 ---
 ## What it is
 Gives AI coding assistants, IDEs, and CI full PostgreSQL schema intelligence from an offline snapshot, enabling linting, query validation, migration safety analysis, and foreign key graph exploration without ever exposing database credentials.

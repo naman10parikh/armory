@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T08:20:06Z"
+pushed_at: "2026-10-09T21:45:28Z"
 ---
 ## What it is
 GadgetHumans MCP offers 58 tools across 8 categories—AI, weather, crypto, web scraping, code, DNS, SEO, and data—via a single HTTP endpoint, with no API keys and a free tier. It enables any MCP client to access these utilities through natural language.

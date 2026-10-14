@@ -8,12 +8,12 @@ source_url: https://github.com/remorses/playwriter
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3969
+stars: 3988
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 188
+forks: 193
 pushed_at: "2026-10-07T09:59:19Z"
 ---
 ## What it is

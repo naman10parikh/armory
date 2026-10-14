@@ -8,11 +8,11 @@ source_url: https://github.com/chrisgleissner/c64bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
+forks: 10
 pushed_at: "2026-10-07T10:54:27Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T21:31:11Z"
+pushed_at: "2026-10-14T05:11:24Z"
 ---
 ## What it is
 An MCP server that gives AI assistants access to SEC-registered financial advisor data, enabling searches by name, firm, or state, full profile lookups, disclosure history checks, and risk assessments.

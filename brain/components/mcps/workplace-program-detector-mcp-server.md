@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T16:32:49Z"
+pushed_at: "2026-10-14T09:57:13Z"
 ---
 ## What it is
 MCP server that wraps the Apify Workplace Program Detector actor, taking a company domain and returning the employee programs it publishes, such as ERGs, DEI, wellbeing, parental leave, and volunteering.

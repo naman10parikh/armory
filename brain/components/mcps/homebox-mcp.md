@@ -8,13 +8,13 @@ source_url: https://github.com/dgahagan/homebox-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-10-02T05:59:39Z"
+forks: 3
+pushed_at: "2026-10-11T04:48:46Z"
 ---
 ## What it is
 MCP server for Homebox home inventory, enabling natural language queries and management of items, locations, tags, warranties, maintenance, and attachments.

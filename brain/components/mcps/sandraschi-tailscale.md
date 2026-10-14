@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-28T20:44:25Z"
+pushed_at: "2026-10-13T12:40:41Z"
 ---
 ## What it is
 MCP server `Tailscale`, catalogued on PulseMCP. Integrates with Tailscale networks to provide device management, traffic monitoring, file transfers via Taildrop, MagicDNS configuration, and security operations through 12 specialized tools with built-in monitoring stack and automated device discovery for enterprise network operations.

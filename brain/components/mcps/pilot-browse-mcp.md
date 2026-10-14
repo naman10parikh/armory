@@ -8,12 +8,12 @@ source_url: https://github.com/EndymionLee/PilotBrowseMCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 103
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 4
 pushed_at: "2026-08-01T12:38:03Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/ninetails-io/gnucash-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 76
+stars: 77
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-10-07T05:58:08Z"
+pushed_at: "2026-10-09T12:17:25Z"
 ---
 ## What it is
 Full double-entry accounting on local GnuCash books: transactions (single and batch), invoices and bills, budgets, investment lots, scheduled transactions, reconciliation, and reports. Multi-currency and multi-book aware, with a plain-text audit trail of every write. Your data never leaves your mach

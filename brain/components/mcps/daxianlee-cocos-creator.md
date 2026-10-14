@@ -8,11 +8,11 @@ source_url: https://github.com/daxianlee/cocos-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1436
+stars: 1454
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 332
+forks: 335
 pushed_at: "2026-07-08T07:19:28Z"
 ---
 ## What it is

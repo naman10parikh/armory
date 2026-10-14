@@ -8,13 +8,13 @@ source_url: https://github.com/nichuan/zhenyun-pangu-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T09:33:16Z"
+pushed_at: "2026-10-14T09:49:28Z"
 ---
 ## What it is
 Enables querying logs across Loki/SLS, querying databases via Archery, accessing Choerodon project collaboration tools, and searching local code repositories through a unified MCP interface with self-contained configuration.

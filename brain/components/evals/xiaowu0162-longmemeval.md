@@ -8,7 +8,7 @@ source_url: https://github.com/xiaowu0162/LongMemEval
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1131
+stars: 1150
 eval_score: null
 mentions: 10
 verified_at: 2026-09-02

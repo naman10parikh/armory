@@ -8,13 +8,13 @@ source_url: https://github.com/Exekiel179/MNE-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-21T07:56:45Z"
+pushed_at: "2026-10-14T10:10:52Z"
 ---
 ## What it is
 An MCP server that gives AI assistants conversational access to MNE-Python for analyzing neurophysiology data (EEG, MEG, sEEG, ECoG, fNIRS). Enables plain-language analysis pipelines, from loading recordings to generating figures and explanations.

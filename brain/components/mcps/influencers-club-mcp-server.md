@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T09:49:54Z"
+pushed_at: "2026-10-14T12:40:18Z"
 ---
 ## What it is
 MCP server for the Influencers Club API — creator enrichment, discovery, audience analysis, content data, batch operations, and account management.

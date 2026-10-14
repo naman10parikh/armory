@@ -8,11 +8,11 @@ source_url: https://github.com/webdevtodayjason/a2amcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 6
 pushed_at: "2025-06-09T18:28:44Z"
 ---
 ## What it is

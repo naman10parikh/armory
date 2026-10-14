@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-03T10:14:59Z"
+pushed_at: "2026-10-13T08:16:09Z"
 ---
 ## What it is
 Enables MCP clients to connect to and interact with Elasticsearch 7.x clusters through natural language, supporting search, indexing, mappings, templates, cluster health, and optional diagnostic or destructive tools.

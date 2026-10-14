@@ -8,12 +8,12 @@ source_url: https://github.com/jdshfhds/northcinder
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1208
+stars: 1205
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
+forks: 11
 pushed_at: "2026-08-22T12:11:30Z"
 ---
 ## What it is

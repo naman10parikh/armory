@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T11:35:00Z"
+pushed_at: "2026-10-12T17:55:38Z"
 ---
 ## What it is
 Audits any site's UX the way a design-literate reviewer would — contrast, tap targets, type scale, colour discipline, scan patterns, copy — and returns the rule, the source line and the exact fix.

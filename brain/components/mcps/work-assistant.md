@@ -8,13 +8,13 @@ source_url: https://github.com/Wulfgardr/work-assistant
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T09:45:56Z"
+pushed_at: "2026-10-12T22:10:25Z"
 ---
 ## What it is
 Enables AI agents to search and read a local, provider-independent email archive, reconstruct contacts and interactions, and prepare draft responses without sending anything.

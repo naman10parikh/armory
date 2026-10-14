@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 47
-pushed_at: "2026-10-05T06:28:09Z"
+forks: 48
+pushed_at: "2026-10-12T18:29:23Z"
 ---
 ## What it is
 Free, no-auth crypto news API with 200+ sources for fetching real-time and historical crypto news.

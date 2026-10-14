@@ -8,12 +8,12 @@ source_url: https://github.com/gander-tools/osm-tagging-schema-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-07T12:08:09Z"
+pushed_at: "2026-10-12T22:13:03Z"
 ---
 ## What it is
 MCP server `OpenStreetMap Tagging Schema`, catalogued on PulseMCP. Query and validate OpenStreetMap tags with preset discovery and validation tools

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T10:49:37Z"
+pushed_at: "2026-10-13T13:33:03Z"
 ---
 ## What it is
 Enables domain registration lookup, availability checks, DNS record fetching, and IP/ASN resolution via RDAP and DNS-over-HTTPS through MCP.

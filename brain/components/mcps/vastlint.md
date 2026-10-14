@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-05T23:04:03Z"
+pushed_at: "2026-10-13T22:52:35Z"
 ---
 ## What it is
 MCP server `VastLint`, catalogued on PulseMCP. VAST XML validator MCP server that checks video ad tags against IAB VAST 2.0–4.3 specifications with 108 validation rules.

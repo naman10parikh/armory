@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T14:36:55Z"
+pushed_at: "2026-10-12T15:23:47Z"
 ---
 ## What it is
 Agent-loop coverage governance that provides coverage feedback to AI coding agents before commit, preventing regressions from reaching CI.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T10:32:08Z"
+pushed_at: "2026-10-13T23:07:59Z"
 ---
 ## What it is
 Enables integration with the ZapSign API for electronic document signing and management, including document, template, signer, webhook, and background check operations through MCP tools.

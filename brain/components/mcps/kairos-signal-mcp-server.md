@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T14:05:24Z"
+pushed_at: "2026-10-07T18:06:12Z"
 ---
 ## What it is
 Enables AI agents to access verifiable DePIN supply-side telemetry, browse and purchase data products using credits, query datasets, and verify data provenance with cryptographic and zero-knowledge tools.

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, monitoring]
 stars: 113
 forks: 29
-pushed_at: "2026-09-25T11:35:39Z"
+pushed_at: "2026-10-11T06:09:38Z"
 ---
 ## What it is
 Query Langfuse traces, debug exceptions, analyze sessions, and manage prompts. Full observability toolkit for LLM applications.

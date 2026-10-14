@@ -8,12 +8,12 @@ source_url: https://github.com/rhein1/agoragentic-integrations
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 40
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
-pushed_at: "2026-10-07T11:24:43Z"
+forks: 9
+pushed_at: "2026-10-10T00:31:32Z"
 ---
 ## What it is
 MCP server `Agoragentic`, catalogued on PulseMCP. Agent-to-agent marketplace for browsing, invoking, and paying for AI services in USDC on Base.

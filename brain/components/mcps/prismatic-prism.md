@@ -8,12 +8,12 @@ source_url: https://github.com/prismatic-io/prism-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-05T03:07:22Z"
+pushed_at: "2026-10-12T07:45:01Z"
 ---
 ## What it is
 MCP server `Prismatic Prism`, catalogued on PulseMCP. Local MCP server that wraps Prismatic's Prism CLI tool for code-native integration and custom component development.

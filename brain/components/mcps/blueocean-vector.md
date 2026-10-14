@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-06T17:45:24Z"
+pushed_at: "2026-10-09T03:33:00Z"
 ---
 ## What it is
 A shared, persistent MCP memory server for coding agents that enables storing and retrieving project decisions and context across different tools like Claude Code, Codex, and Cursor using semantic vector search.

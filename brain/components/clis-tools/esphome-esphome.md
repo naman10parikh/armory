@@ -8,14 +8,14 @@ source_url: https://github.com/esphome/esphome
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 11805
+stars: 11890
 eval_score: 1
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 5695
-pushed_at: "2026-10-10T23:24:13Z"
+forks: 5707
+pushed_at: "2026-10-14T11:16:03Z"
 ---
 ## What it is
 ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.

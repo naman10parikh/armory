@@ -8,12 +8,12 @@ source_url: https://github.com/Hyperion-GPU/ProofFlow-v0.1
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 49
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 1
 pushed_at: "2026-08-08T02:12:59Z"
 ---
 ## What it is

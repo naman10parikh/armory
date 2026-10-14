@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-07T14:02:32Z"
+pushed_at: "2026-10-14T12:02:15Z"
 ---
 ## What it is
 MCP server `Plasmate`, catalogued on PulseMCP. Browser engine for agents that compiles HTML into a Semantic Object Model with 10-800x token compression and V8 JavaScript execution.

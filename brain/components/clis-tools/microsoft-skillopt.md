@@ -8,13 +8,13 @@ source_url: https://github.com/microsoft/SkillOpt
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 18096
+stars: 18340
 eval_score: null
 mentions: 5
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 1705
+forks: 1739
 pushed_at: "2026-10-06T17:42:32Z"
 ---
 ## What it is

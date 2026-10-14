@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-10-02T00:04:17Z"
+forks: 7
+pushed_at: "2026-10-13T07:29:18Z"
 ---
 ## What it is
 Enables AI assistants to access and manage Respan logs, traces, customers, and prompts for monitoring and management.

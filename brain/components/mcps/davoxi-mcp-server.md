@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-25T17:05:42Z"
+pushed_at: "2026-10-13T07:06:41Z"
 ---
 ## What it is
 Enables AI assistants to manage Davoxi voice agent platform resources such as businesses, agents, call logs, webhooks, analytics, and billing through natural language conversations.

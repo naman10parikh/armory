@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 21
-pushed_at: "2026-10-07T10:03:26Z"
+pushed_at: "2026-10-14T06:15:17Z"
 ---
 ## What it is
 Mu is an MCP server and web app that provides agents and humans access to real-world services like news, web search, mail, markets, weather, video, places, images, files, calendar, and contacts. It offers a wide range of tools and can be self-hosted or used live at micro.mu.

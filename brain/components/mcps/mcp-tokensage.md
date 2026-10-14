@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T04:08:54Z"
+pushed_at: "2026-10-14T04:35:36Z"
 ---
 ## What it is
 Enables token counting, usage tracking, and cost calculation for LLM APIs, with a proxy server mode to automatically intercept and monitor API requests from clients like Cursor and Windsurf.

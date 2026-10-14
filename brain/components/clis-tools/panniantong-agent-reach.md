@@ -8,14 +8,14 @@ source_url: https://github.com/Panniantong/Agent-Reach
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 93002
+stars: 97205
 eval_score: 1
 mentions: 4
 verified_at: 2026-10-01
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 8146
-pushed_at: "2026-09-15T16:16:24Z"
+forks: 8504
+pushed_at: "2026-10-08T08:31:08Z"
 ---
 ## What it is
 Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.

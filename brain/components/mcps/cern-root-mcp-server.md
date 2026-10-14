@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-30T21:19:39Z"
+pushed_at: "2026-10-09T17:27:42Z"
 ---
 ## What it is
 An MCP server and CLI tool that allow LLMs to interact with CERN ROOT files.

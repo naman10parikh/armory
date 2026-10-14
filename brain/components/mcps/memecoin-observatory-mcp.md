@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-01-26T15:39:47Z"
+pushed_at: "2026-10-12T21:09:05Z"
 ---
 ## What it is
 A Solana MCP server for analyzing memecoins, tracking trends, and providing AI-powered insights using cultural analysis and on-chain data.

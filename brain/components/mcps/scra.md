@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-02T12:53:01Z"
+pushed_at: "2026-10-12T05:58:58Z"
 ---
 ## What it is
 Enables web search via DuckDuckGo and content extraction from URLs using Readability.js.

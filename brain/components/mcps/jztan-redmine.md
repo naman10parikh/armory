@@ -8,12 +8,12 @@ source_url: https://github.com/jztan/redmine-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 82
+stars: 84
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 39
-pushed_at: "2026-10-06T07:02:01Z"
+forks: 40
+pushed_at: "2026-10-14T05:04:12Z"
 ---
 ## What it is
 MCP server `Redmine`, catalogued on PulseMCP. Integrates with Redmine project management systems for issue tracking, project coordination, and file management

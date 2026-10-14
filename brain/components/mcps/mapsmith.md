@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T10:13:05Z"
+pushed_at: "2026-10-13T14:57:43Z"
 ---
 ## What it is
 Enables AI agents to perform professional-grade geoprocessing tasks such as buffers, overlays, reprojections, and terrain analysis with deterministic tools and verifiable provenance.

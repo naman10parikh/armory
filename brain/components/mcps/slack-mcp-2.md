@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 50
-pushed_at: "2026-10-06T05:40:18Z"
+pushed_at: "2026-10-10T05:00:06Z"
 ---
 ## What it is
 Enables AI assistants to interact with Slack workspaces, providing tools for reading messages, posting content, managing channels, and more.

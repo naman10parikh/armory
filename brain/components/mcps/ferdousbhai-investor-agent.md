@@ -8,12 +8,12 @@ source_url: https://github.com/ferdousbhai/investor-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 346
+stars: 347
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 64
-pushed_at: "2026-10-04T12:37:48Z"
+forks: 63
+pushed_at: "2026-10-09T13:58:27Z"
 ---
 ## What it is
 MCP server `Investor Agent (Financial Analysis)`, catalogued on PulseMCP. Provides real-time financial analysis tools leveraging market data from yfinance and CNN's Fear & Greed Index for investment research, portfolio analysis, and market sentiment evaluation.

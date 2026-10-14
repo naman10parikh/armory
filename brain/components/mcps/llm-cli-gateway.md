@@ -8,13 +8,13 @@ source_url: https://github.com/verivus-oss/llm-cli-gateway
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T10:09:28Z"
+pushed_at: "2026-10-14T07:17:52Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) gateway for running Claude Code, Codex, Gemini, Grok, and Mistral (Vibe) CLIs from one MCP endpoint, with durable async jobs, session continuity, cache-aware prompting, observability, and personal-appliance setup tooling. Why developers try it: one local MCP endpoint f

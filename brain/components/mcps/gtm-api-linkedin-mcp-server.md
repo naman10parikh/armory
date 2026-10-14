@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T20:52:54Z"
+pushed_at: "2026-10-14T11:22:00Z"
 ---
 ## What it is
 A managed MCP server that gives AI agents 160+ typed LinkedIn tools for searching, connecting, messaging, and enriching profiles, with built-in account safety enforcement.

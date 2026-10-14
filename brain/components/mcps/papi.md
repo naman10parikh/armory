@@ -8,13 +8,13 @@ source_url: https://github.com/getpapi/papi
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T01:54:47Z"
+pushed_at: "2026-10-09T11:07:37Z"
 ---
 ## What it is
 A structured project memory MCP server that persists plans, builds, reviews, and decisions across AI coding sessions and tools, enabling continuous project management with a dashboard.

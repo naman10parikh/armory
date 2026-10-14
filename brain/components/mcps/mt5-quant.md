@@ -8,13 +8,13 @@ source_url: https://github.com/masdevid/mt5-quant
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 39
+stars: 42
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 11
-pushed_at: "2026-10-07T13:44:10Z"
+pushed_at: "2026-10-14T12:15:15Z"
 ---
 ## What it is
 MCP server for MT5 strategy development on macOS/Linux with 89 tools to compile, backtest, analyze, optimize, debug crashes, and manage MQL5 Expert Advisors — no Windows required.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T10:19:52Z"
+pushed_at: "2026-10-14T12:00:49Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to search royalty-free stock photos using natural language, example images, or similarity, and render results as an inline thumbnail grid.

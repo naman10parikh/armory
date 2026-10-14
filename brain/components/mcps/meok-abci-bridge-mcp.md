@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-25T15:59:50Z"
+pushed_at: "2026-10-08T02:36:15Z"
 ---
 ## What it is
 Read-only Tendermint/Cosmos blockchain query for agents, with 10 pre-configured mainnets and custom RPC support.

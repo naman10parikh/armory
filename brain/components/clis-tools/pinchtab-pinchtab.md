@@ -8,13 +8,13 @@ source_url: https://github.com/pinchtab/pinchtab
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 10358
+stars: 10378
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 779
+forks: 778
 pushed_at: "2026-10-06T22:45:38Z"
 ---
 ## What it is

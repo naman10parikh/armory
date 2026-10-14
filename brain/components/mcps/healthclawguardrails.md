@@ -8,13 +8,13 @@ source_url: https://github.com/aks129/HealthClawGuardrails
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 30
+stars: 31
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
-pushed_at: "2026-10-06T17:20:02Z"
+forks: 12
+pushed_at: "2026-10-14T01:24:37Z"
 ---
 ## What it is
 Open-source guardrails between AI agents and FHIR clinical data — PHI redaction, immutable audit, step-up auth, tenant isolation. MCP server + OpenAI/Gemini adapters. A healthclaw.io project.

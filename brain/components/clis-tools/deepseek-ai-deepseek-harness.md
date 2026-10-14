@@ -8,13 +8,13 @@ source_url: https://github.com/deepseek-ai/deepseek-harness
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 247003
+stars: 249455
 eval_score: null
 mentions: 5
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 29666
+forks: 30008
 pushed_at: "2026-10-09T10:04:06Z"
 ---
 ## What it is

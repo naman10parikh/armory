@@ -8,12 +8,12 @@ source_url: https://github.com/inditextech/mcp-server-simulator-ios-idb
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 316
+stars: 331
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 24
-pushed_at: "2026-10-06T13:05:48Z"
+forks: 30
+pushed_at: "2026-10-13T09:09:49Z"
 ---
 ## What it is
 MCP server `iOS Simulator Automation (IDB)`, catalogued on PulseMCP. Enables iOS simulator automation via Facebook's IDB tool, allowing control of simulators, app launching, screenshot capture, and UI interactions through natural language commands

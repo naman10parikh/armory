@@ -8,13 +8,13 @@ source_url: https://github.com/GibsonAI/memori
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 17092
+stars: 17147
 eval_score: null
 mentions: 0
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, memory]
-forks: 3674
+forks: 3714
 pushed_at: "2026-10-03T01:33:14Z"
 ---
 ## What it is

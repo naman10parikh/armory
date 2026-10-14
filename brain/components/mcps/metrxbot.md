@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-05-29T05:55:45Z"
+pushed_at: "2026-10-13T22:46:19Z"
 ---
 ## What it is
 MCP server `MetrxBot`, catalogued on PulseMCP. Track AI agent costs, detect waste, optimize model selection, and prove ROI.

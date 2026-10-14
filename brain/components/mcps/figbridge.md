@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-03T06:40:07Z"
+pushed_at: "2026-10-11T03:58:24Z"
 ---
 ## What it is
 Bridges Figma and code for AI agents, enabling reading design data, importing live URLs into Figma, auditing designs, and generating source patches via 48 MCP tools.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T00:03:44Z"
+pushed_at: "2026-10-13T16:34:12Z"
 ---
 ## What it is
 Enterprise-grade MCP server for Sigma Computing, providing 155 tools for managing workbooks, data models, members, teams, deployments, webhooks, and multi-tenant operations. Enables AI assistants to interact with Sigma via natural language.

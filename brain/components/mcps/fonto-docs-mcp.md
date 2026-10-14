@@ -8,13 +8,13 @@ source_url: https://github.com/DrRataplan/fonto-docs-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T16:16:41Z"
+pushed_at: "2026-10-09T13:50:03Z"
 ---
 ## What it is
 Makes Fonto XML documentation accessible to AI tools by fetching underlying XML and converting it to clean Markdown on demand, enabling search and retrieval of docs pages.

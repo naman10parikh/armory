@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T12:31:30Z"
+pushed_at: "2026-10-11T12:36:11Z"
 ---
 ## What it is
 Enables natural-language queries about AI startup metrics like ARR and funding, with sourced, confidence-scored answers and contradiction detection.

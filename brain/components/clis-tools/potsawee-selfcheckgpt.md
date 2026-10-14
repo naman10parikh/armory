@@ -8,13 +8,13 @@ source_url: https://github.com/potsawee/selfcheckgpt
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 634
+stars: 635
 eval_score: 0
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 72
+forks: 71
 pushed_at: "2024-06-26T16:17:02Z"
 ---
 ## What it is

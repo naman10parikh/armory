@@ -8,13 +8,13 @@ source_url: https://github.com/Scormave/gramps-web-mcp
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-07T10:25:38Z"
+pushed_at: "2026-10-14T12:30:54Z"
 ---
 ## What it is
 MCP server for Gramps Web. Gives AI agents structured, tool-based access to family trees through the Model Context Protocol. Built with .NET 8.

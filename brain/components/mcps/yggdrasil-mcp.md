@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T08:52:45Z"
+pushed_at: "2026-10-09T01:14:31Z"
 ---
 ## What it is
 A reasoning orchestration MCP server that enables tree-of-thoughts thinking, multi-phase planning, and multi-agent evaluation for complex problem-solving.

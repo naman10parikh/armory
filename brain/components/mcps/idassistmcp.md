@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 12
-pushed_at: "2026-09-20T15:43:23Z"
+pushed_at: "2026-10-09T20:13:18Z"
 ---
 ## What it is
 Enables LLM clients like Claude to interact with IDA Pro for binary analysis, decompilation, cross-references, patching, and more via 41 MCP tools, 8 resources, and 7 guided prompts.

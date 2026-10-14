@@ -8,11 +8,11 @@ source_url: https://github.com/alikarami/mikromcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 72
+stars: 75
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 7
 pushed_at: "2026-10-06T20:00:37Z"
 ---
 ## What it is

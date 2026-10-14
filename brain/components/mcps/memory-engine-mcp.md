@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T04:55:53Z"
+pushed_at: "2026-10-14T12:19:02Z"
 ---
 ## What it is
 Enables AI assistants to have a living memory with atomic knowledge storage, multi-factor recall, organic decay, automatic learning, and graph traversal via MCP.

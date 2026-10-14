@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T13:26:16Z"
+pushed_at: "2026-10-09T07:22:31Z"
 ---
 ## What it is
 AI-powered running course generator that creates custom routes on Seoul's pedestrian network based on natural language requests (distance, elevation, shape), integrating slope, lighting, and facility data.

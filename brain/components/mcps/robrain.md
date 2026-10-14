@@ -8,12 +8,12 @@ source_url: https://github.com/adelinamart/robrain
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 81
+stars: 82
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 5
 pushed_at: "2026-10-07T09:33:11Z"
 ---
 ## What it is

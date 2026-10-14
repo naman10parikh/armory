@@ -8,13 +8,13 @@ source_url: https://github.com/gavgrego/seats.aero-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 26
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 19
-pushed_at: "2026-08-10T04:23:48Z"
+pushed_at: "2026-10-13T05:36:49Z"
 ---
 ## What it is
 Enables natural language interaction with the seats.aero API for searching flight availability, routes, and bulk availability using your seats.aero Pro API key.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-07T02:55:21Z"
+pushed_at: "2026-10-13T01:08:13Z"
 ---
 ## What it is
 MCP server `ChromaDB Remote`, catalogued on PulseMCP. Self-hosted remote access to ChromaDB vector database via streamable HTTP

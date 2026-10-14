@@ -8,14 +8,14 @@ source_url: https://github.com/qrak/LLM_trader
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 132
+stars: 133
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, memory]
-forks: 45
-pushed_at: "2026-10-10T17:27:08Z"
+forks: 46
+pushed_at: "2026-10-14T01:06:58Z"
 ---
 ## What it is
 LLM-powered Crypto Trading Framework with Vision AI chart analysis, real-time Neural Engine, and a live monitoring dashboard at semanticsignal.qrak.org. Features memory-augmented reasoning and professional risk metrics.

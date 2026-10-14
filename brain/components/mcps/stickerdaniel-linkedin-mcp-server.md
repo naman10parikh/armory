@@ -8,14 +8,14 @@ source_url: https://github.com/stickerdaniel/linkedin-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3815
+stars: 3869
 eval_score: null
 mentions: 2
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, mcps]
-forks: 664
-pushed_at: "2026-10-10T13:12:07Z"
+forks: 675
+pushed_at: "2026-10-14T12:34:32Z"
 ---
 ## What it is
 Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages.

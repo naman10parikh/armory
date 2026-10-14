@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T11:56:59Z"
+pushed_at: "2026-10-12T07:09:49Z"
 ---
 ## What it is
 Enables AI assistants to control DaVinci Resolve (Free and Studio) through 215 MCP tools covering the full Resolve scripting API, including projects, timelines, media, Fusion, color, and rendering.

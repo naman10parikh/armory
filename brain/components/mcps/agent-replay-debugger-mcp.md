@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T05:26:21Z"
+pushed_at: "2026-10-08T02:37:12Z"
 ---
 ## What it is
 Enables step-debugging, deterministic replay, and signed audit evidence for AI agents, compliant with EU AI Act.

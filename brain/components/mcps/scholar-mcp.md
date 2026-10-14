@@ -8,13 +8,13 @@ source_url: https://github.com/Liyux3/scholar-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-19T20:31:41Z"
+forks: 1
+pushed_at: "2026-10-08T12:28:15Z"
 ---
 ## What it is
 Multi-source academic paper search, citation graph exploration, and PDF download as an MCP server, designed for LLM agents doing research.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 21
-pushed_at: "2026-09-24T14:53:08Z"
+pushed_at: "2026-10-14T10:44:59Z"
 ---
 ## What it is
 MCP server `Lara Translate`, catalogued on PulseMCP. Bridges to the Lara Translation API for accurate, context-aware text translations between languages with automatic language detection capabilities.

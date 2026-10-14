@@ -8,11 +8,11 @@ source_url: https://github.com/stefanoamorelli/sec-edgar-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 365
+stars: 372
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 98
+forks: 100
 pushed_at: "2026-10-03T09:11:21Z"
 ---
 ## What it is

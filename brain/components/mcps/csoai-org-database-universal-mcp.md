@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:38:04Z"
+pushed_at: "2026-10-08T03:23:48Z"
 ---
 ## What it is
 MCP server `Database Universal`, catalogued on PulseMCP. Universal database connectivity and query tools for multiple database systems.

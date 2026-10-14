@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-10-06T21:10:57Z"
+pushed_at: "2026-10-13T23:13:31Z"
 ---
 ## What it is
 Enables AI clients to control Blender's 3D workflow via an embedded MCP server.

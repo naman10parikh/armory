@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T12:11:09Z"
+pushed_at: "2026-10-14T08:30:02Z"
 ---
 ## What it is
 Connects AI agents to AgentData's company intelligence platform, enabling natural language queries for structured company data like tech stacks, emails, people, and signals.

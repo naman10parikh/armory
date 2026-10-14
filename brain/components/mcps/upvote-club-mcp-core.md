@@ -8,13 +8,13 @@ source_url: https://github.com/upvoteclub/upvote-club-mcp-core
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 38
+stars: 37
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-14T09:26:54Z"
+pushed_at: "2026-10-12T15:00:56Z"
 ---
 ## What it is
 Provides tools to interact with the Upvote.club Public API, including creating tasks, checking task status, listing platforms, and more.

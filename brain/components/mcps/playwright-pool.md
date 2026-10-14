@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T03:46:32Z"
+pushed_at: "2026-10-13T19:07:26Z"
 ---
 ## What it is
 MCP server for browser automation with shared authentication and built-in UI auditing.

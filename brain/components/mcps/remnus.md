@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-10-06T10:15:28Z"
+pushed_at: "2026-10-12T17:49:24Z"
 ---
 ## What it is
 Notion-like workspace of pages and customizable databases with a remote MCP server (OAuth 2.1 + PKCE, scoped read/write tokens, full audit log). 14 tools to search, read, and write pages, database rows, and database schemas.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-28T14:55:09Z"
+pushed_at: "2026-10-08T04:59:25Z"
 ---
 ## What it is
 Enables LLMs to query Certificate Transparency logs via CertIndex API, allowing searches for TLS certificates, subdomains, and certificate metadata.

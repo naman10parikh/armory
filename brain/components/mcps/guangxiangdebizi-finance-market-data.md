@@ -8,12 +8,12 @@ source_url: https://github.com/guangxiangdebizi/financemcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 857
+stars: 862
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 141
-pushed_at: "2026-10-05T10:38:34Z"
+forks: 143
+pushed_at: "2026-10-12T11:04:49Z"
 ---
 ## What it is
 MCP server `Finance Market Data`, catalogued on PulseMCP. Provides real-time financial data and news through tools for stock market information, market indices tracking, and financial news updates

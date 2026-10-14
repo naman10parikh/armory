@@ -8,11 +8,11 @@ source_url: https://github.com/thehesiod/psquare-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 9
 pushed_at: "2026-09-29T21:16:50Z"
 ---
 ## What it is

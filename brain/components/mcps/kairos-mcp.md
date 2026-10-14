@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T06:55:23Z"
+pushed_at: "2026-10-13T04:55:06Z"
 ---
 ## What it is
 Enables AI agents to store and execute reusable protocol chains with persistent memory and deterministic execution.

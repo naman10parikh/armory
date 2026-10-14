@@ -15,7 +15,7 @@ verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 25
-pushed_at: "2026-10-10T18:07:29Z"
+pushed_at: "2026-10-14T09:13:14Z"
 ---
 ## What it is
 Incubating experimental AI projects to operate millions of lines of code

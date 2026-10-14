@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T02:41:24Z"
+pushed_at: "2026-10-11T19:10:57Z"
 ---
 ## What it is
 Enables querying a permanent taste log of NYC jazz club playlists and recording personal feedback on liked acts via natural language to Claude.

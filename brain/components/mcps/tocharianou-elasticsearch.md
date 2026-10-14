@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-08-28T22:35:31Z"
+pushed_at: "2026-10-11T11:28:10Z"
 ---
 ## What it is
 MCP server `TocharianOU Elasticsearch`, catalogued on PulseMCP. Integrates with Elasticsearch clusters (versions 5.x-9.x) for security-focused threat detection, anomaly analysis, incident investigation, and compliance monitoring with automatic version detection and adaptive feature loading.

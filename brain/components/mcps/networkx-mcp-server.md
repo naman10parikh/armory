@@ -8,13 +8,13 @@ source_url: https://github.com/brightlikethelight/networkx-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-05T17:39:49Z"
+pushed_at: "2026-10-12T18:27:08Z"
 ---
 ## What it is
 Comprehensive Model Context Protocol server for advanced graph analysis using NetworkX, enabling graph creation, manipulation, and algorithm execution through natural language.

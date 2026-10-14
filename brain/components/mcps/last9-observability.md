@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-10-07T14:16:57Z"
+pushed_at: "2026-10-13T10:15:28Z"
 ---
 ## What it is
 MCP server `Last9 Observability`, catalogued on PulseMCP. Integrates with Last9's observability platform to enable exception retrieval and service dependency analysis for efficient troubleshooting within monitoring environments.

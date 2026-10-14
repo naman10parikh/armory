@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T12:44:27Z"
+pushed_at: "2026-10-08T04:34:12Z"
 ---
 ## What it is
 AI-powered translation MCP server with EU AI Act compliance, enabling automated translation workflows via the MCP protocol.

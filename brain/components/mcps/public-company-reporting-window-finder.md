@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T16:03:52Z"
+pushed_at: "2026-10-14T11:53:51Z"
 ---
 ## What it is
 Enables users to look up public company earnings dates and reporting windows by providing identifiers like ticker, domain, or CIK. It returns fiscal year end, next reporting date, and an outreach window, helping plan investor communications.

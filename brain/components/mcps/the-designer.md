@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T07:06:14Z"
+pushed_at: "2026-10-14T06:19:11Z"
 ---
 ## What it is
 Enables generating UI design rules, fetching color palettes, and retrieving brand design references from over 328 brands.

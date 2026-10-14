@@ -12,8 +12,8 @@ stars: 160
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 25
-pushed_at: "2026-10-05T09:06:11Z"
+forks: 26
+pushed_at: "2026-10-09T09:06:22Z"
 ---
 ## What it is
 MCP server `Arbor`, catalogued on PulseMCP. Graph-native code intelligence that builds complete dependency graphs for impact analysis and code understanding.

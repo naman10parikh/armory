@@ -13,7 +13,7 @@ related: []
 tags: [mcp, cloud-platforms]
 stars: 12
 forks: 3
-pushed_at: "2026-04-27T23:36:28Z"
+pushed_at: "2026-10-13T09:00:57Z"
 ---
 ## What it is
 /🏠 - MCP server for the Rancher ecosystem with multi-cluster Kubernetes operations, Harvester HCI management (VMs, storage, networks), and Fleet GitOps tooling.

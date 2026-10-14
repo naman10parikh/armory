@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T21:19:48Z"
+pushed_at: "2026-10-07T23:47:58Z"
 ---
 ## What it is
 A self-hosted MCP server with a web UI that integrates Geektastic Realms, enabling management of statblocks, campaigns, lore entries, and adventure modules through MCP clients.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:42:39Z"
+pushed_at: "2026-10-08T04:02:17Z"
 ---
 ## What it is
 MCP server `Pomodoro AI`, catalogued on PulseMCP. Python MCP server for Pomodoro technique and time management tools.

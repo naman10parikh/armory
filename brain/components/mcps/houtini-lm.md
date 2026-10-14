@@ -8,12 +8,12 @@ source_url: https://github.com/houtini-ai/houtini-lm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 121
+stars: 120
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 26
-pushed_at: "2026-10-06T17:06:50Z"
+pushed_at: "2026-10-10T10:34:49Z"
 ---
 ## What it is
 MCP server `Houtini LM`, catalogued on PulseMCP. Provides expert prompt engineering capabilities through LM Studio integration, featuring 35+ specialized functions for code analysis, generation, security audits, documentation creation, and creative tasks with intelligent context window management and caching optimization.

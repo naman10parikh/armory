@@ -8,13 +8,13 @@ source_url: https://github.com/moulwyse/lattice
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-06T19:14:43Z"
+pushed_at: "2026-10-14T09:46:04Z"
 ---
 ## What it is
 Provides bounded repository context and edit-grant MCP tools to coding agents such as Codex, indexing local repositories and enabling fingerprint-checked patch application.

@@ -8,7 +8,7 @@ source_url: https://github.com/ARISE-Initiative/robosuite
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2650
+stars: 2658
 eval_score: 0
 mentions: 1
 verified_at: 2026-10-10

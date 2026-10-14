@@ -8,12 +8,12 @@ source_url: https://github.com/Ayushmaniar/powerpoint-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 117
+stars: 120
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 17
+forks: 19
 pushed_at: "2026-05-01T05:29:42Z"
 ---
 ## What it is

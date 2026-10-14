@@ -8,13 +8,13 @@ source_url: https://github.com/mariolpantunes/crepe-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-07T07:23:22Z"
+pushed_at: "2026-10-12T06:48:21Z"
 ---
 ## What it is
 An MCP server that turns an AI agent into a slide author, enabling drafting decks in Pandoc Markdown, compiling to PDF or PowerPoint, validating with PNG exports, and pulling in research from the web, Wikipedia, and Semantic Scholar.

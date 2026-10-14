@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-22T08:01:37Z"
+pushed_at: "2026-10-14T05:11:17Z"
 ---
 ## What it is
 Enables AI agents to manage citations in Microsoft Word via EndNote, including DOI-verified paper search, RIS import/export, and genuine CWYW IEEE citations.

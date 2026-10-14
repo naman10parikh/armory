@@ -15,7 +15,7 @@ verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 40
-pushed_at: "2026-10-09T10:19:16Z"
+pushed_at: "2026-10-14T11:59:51Z"
 ---
 ## What it is
 IPPL is a C++ library to develop performance portable code for fully Eulerian, Lagrangian or hybrid Eulerian-Lagrangian methods.

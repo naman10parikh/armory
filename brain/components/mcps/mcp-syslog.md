@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T13:04:27Z"
+pushed_at: "2026-10-11T04:59:24Z"
 ---
 ## What it is
 Enables secure search, tail, grep, and correlation of centrally collected infrastructure logs, turning blind restarts into informed remediation decisions.

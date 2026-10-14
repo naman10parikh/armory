@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T09:45:35Z"
+pushed_at: "2026-10-13T08:58:43Z"
 ---
 ## What it is
 MCP server that wraps Kilango's operator/control API as tools so an AI assistant can build and manage portals in a Kilango workspace — creating/managing portals, pages, blocks, widgets, apps, and connections, with drag-and-drop reordering and a contract-driven escape hatch for any OpenAPI operation.

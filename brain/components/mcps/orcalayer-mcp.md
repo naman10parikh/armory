@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T10:19:13Z"
+pushed_at: "2026-10-10T07:56:44Z"
 ---
 ## What it is
 Enables smart-money whale and market analytics for Polymarket, including leaderboards, wallet profiles, positions, market clusters, and alerts, through Claude Desktop and other MCP clients.

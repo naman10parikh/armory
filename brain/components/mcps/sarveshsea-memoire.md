@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-09-29T07:33:29Z"
+pushed_at: "2026-10-14T10:25:56Z"
 ---
 ## What it is
 MCP server `Memoire`, catalogued on PulseMCP. Design consistency CI for Tailwind apps with shadcn/ui registry export and component management tools.

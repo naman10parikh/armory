@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-09-16T11:10:43Z"
+pushed_at: "2026-10-12T03:03:26Z"
 ---
 ## What it is
 MCP server `Micu Image`, catalogued on PulseMCP. MCP server wrapping the Micu image generation API for text-to-image, editing, batch processing, and multi-reference fusion.

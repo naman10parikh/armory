@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T14:12:43Z"
+pushed_at: "2026-10-14T12:29:22Z"
 ---
 ## What it is
 A unified backend MCP server that aggregates and filters data from external services like Zaim, GitHub, Google, and Notion, providing cross-cutting views via MCP and REST API without heavy AI inference.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T17:23:23Z"
+pushed_at: "2026-10-11T10:56:34Z"
 ---
 ## What it is
 MCP server providing typed tools for Norwegian public data sources, enabling natural language queries to official datasets like SSB, Brønnøysund, MET, Kartverket, Entur, and more, without requiring API keys.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-09T07:22:59Z"
+pushed_at: "2026-10-08T18:00:33Z"
 ---
 ## What it is
 Serves 484 Claude Code skills and 17 global rules as MCP tools, enabling skill and rule retrieval, keyword search, and project-level rule discovery for any Claude client.

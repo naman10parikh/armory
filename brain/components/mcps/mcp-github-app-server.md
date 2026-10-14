@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-02-14T18:41:53Z"
+pushed_at: "2026-10-08T20:52:42Z"
 ---
 ## What it is
 Provides GitHub App authentication for Git and API operations, enabling temporary token generation for private repository access.

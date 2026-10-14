@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T05:31:14Z"
+pushed_at: "2026-10-08T03:21:18Z"
 ---
 ## What it is
 EU Digital Identity Wallet (eIDAS 2.0) for AI agents, compliant with MCP protocol and EU AI Act.

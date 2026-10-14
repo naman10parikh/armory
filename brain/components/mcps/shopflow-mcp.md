@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T08:55:03Z"
+pushed_at: "2026-10-08T08:54:52Z"
 ---
 ## What it is
 Enables retrieval of domain knowledge and expert matching for e-commerce delivery reviews, with unified evidence snapshot freezing.

@@ -8,12 +8,12 @@ source_url: https://github.com/Nam088/mcp-database-server-v2
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 82
+stars: 81
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 87
+forks: 85
 pushed_at: "2026-09-04T03:33:49Z"
 ---
 ## What it is

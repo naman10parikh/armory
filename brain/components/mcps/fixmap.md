@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-29T16:28:16Z"
+pushed_at: "2026-10-14T10:00:36Z"
 ---
 ## What it is
 Deterministic, local-first repository context for coding agents. Maps an issue, prompt, or git diff to ranked files to read first, likely test commands, and review-risk notes—no API key required.

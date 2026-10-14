@@ -8,13 +8,13 @@ source_url: https://github.com/nathanrcast/planning-center-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T20:13:56Z"
+pushed_at: "2026-10-07T17:04:58Z"
 ---
 ## What it is
 Enables AI agents to access Planning Center Online data including worship plans, song library, teams, and volunteer information through natural language queries and direct tools.

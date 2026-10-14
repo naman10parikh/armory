@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T18:28:27Z"
+pushed_at: "2026-10-08T08:09:19Z"
 ---
 ## What it is
 19 pay-per-call APIs for AI agents via x402 USDC micropayments on Base — prediction markets (Polymarket, Kalshi), DeFi/crypto data, multi-chain on-chain reads across 5 EVM chains, live weather, and real-time web search. No API key or signup — from $0.001/call. npx -y microtap-mcp

@@ -8,7 +8,7 @@ source_url: https://github.com/rakyll/hey
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 20674
+stars: 20698
 eval_score: 1
 mentions: 1
 verified_at: 2026-10-10

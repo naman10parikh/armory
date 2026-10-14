@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-03-12T22:28:58Z"
+pushed_at: "2026-10-10T19:57:08Z"
 ---
 ## What it is
 MCP server `AgroBR`, catalogued on PulseMCP. Brazilian agricultural data — commodity prices, crop statistics, climate data, and deforestation tracking.

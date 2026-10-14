@@ -8,13 +8,13 @@ source_url: https://github.com/brave/brave-search-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1485
+stars: 1496
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 eval_score: 1
-forks: 207
-pushed_at: "2026-10-05T20:59:28Z"
+forks: 210
+pushed_at: "2026-10-14T08:20:11Z"
 mentions: null
 ---
 ## What it is

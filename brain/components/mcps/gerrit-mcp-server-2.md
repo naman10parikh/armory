@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 26
-pushed_at: "2026-09-17T18:14:15Z"
+pushed_at: "2026-10-13T23:58:04Z"
 ---
 ## What it is
 Enables interaction with Gerrit code review system via REST API, allowing language models to query changes, retrieve details, and manage reviews.

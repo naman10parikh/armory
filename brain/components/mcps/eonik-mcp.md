@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-20T19:17:05Z"
+pushed_at: "2026-10-10T10:53:54Z"
 ---
 ## What it is
 Enables AI assistants to connect to eonik and access brand assets, competitor research, and ad performance facts, while drafting creative briefs and scene breakdowns without spending or making changes.

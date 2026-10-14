@@ -8,13 +8,13 @@ source_url: https://github.com/TickDB/tickdb-unified-realtime-marketdata-api
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 852
+stars: 863
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 15
-pushed_at: "2026-06-20T15:31:17Z"
+pushed_at: "2026-10-10T16:43:06Z"
 ---
 ## What it is
 Unified real-time & historical market data API for Forex, stocks (US/HK/A-share), crypto, indices & precious metals. Tick, order book depth & K-line via REST + WebSocket. AI-native: MCP server, Skill & CLI.

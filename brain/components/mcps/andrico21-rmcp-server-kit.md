@@ -8,12 +8,12 @@ source_url: https://github.com/andrico21/rmcp-server-kit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-07T12:15:14Z"
+pushed_at: "2026-10-14T07:23:37Z"
 ---
 ## What it is
 MCP server `rmcp Server Kit`, catalogued on PulseMCP. Production-grade Rust framework for building authenticated, observable MCP servers over Streamable HTTP.

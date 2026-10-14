@@ -8,13 +8,13 @@ source_url: https://github.com/SigNoz/signoz-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 125
+stars: 128
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 45
-pushed_at: "2026-10-07T09:06:17Z"
+forks: 46
+pushed_at: "2026-10-14T11:06:41Z"
 ---
 ## What it is
 Enables AI assistants and LLMs to query SigNoz observability data (metrics, traces, logs, alerts, dashboards) using natural language.

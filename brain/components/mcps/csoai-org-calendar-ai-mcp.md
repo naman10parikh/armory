@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:36:25Z"
+pushed_at: "2026-10-08T00:59:14Z"
 ---
 ## What it is
 MCP server `Calendar AI`, catalogued on PulseMCP. AI-powered calendar management and scheduling optimization tools.

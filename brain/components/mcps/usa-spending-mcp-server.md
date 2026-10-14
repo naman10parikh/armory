@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-06-04T17:26:55Z"
+pushed_at: "2026-10-07T15:00:53Z"
 ---
 ## What it is
 An MCP server for interacting with the USAspending.gov API, supporting local use with Claude Desktop and cloud deployment with login.gov authentication.

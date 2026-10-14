@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-09T17:08:28Z"
+pushed_at: "2026-10-11T12:58:12Z"
 ---
 ## What it is
 Connect Claude to your Exponential workspace to manage projects, actions, and OKRs directly from Claude.

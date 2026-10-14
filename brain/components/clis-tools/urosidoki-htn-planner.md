@@ -8,14 +8,14 @@ source_url: https://github.com/urosidoki/htn_planner
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 360
+stars: 365
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 28
-pushed_at: "2026-10-10T17:57:24Z"
+pushed_at: "2026-10-11T06:34:36Z"
 ---
 ## What it is
 Ahead-of-time compiled HTN planner and C++ SDK for game AI.

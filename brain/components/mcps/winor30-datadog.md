@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 76
-pushed_at: "2026-09-10T09:46:49Z"
+pushed_at: "2026-10-14T01:41:08Z"
 ---
 ## What it is
 MCP server `Datadog`, catalogued on PulseMCP. Integrates with Datadog's API to enable incident management, including listing and retrieving incident information for system monitoring and observability workflows.

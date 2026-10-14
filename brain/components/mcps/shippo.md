@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T14:13:37Z"
+pushed_at: "2026-10-09T14:55:41Z"
 ---
 ## What it is
 AI-powered shipping integrations with Shippo: shipping labels, rates, address validation, tracking and more for USPS, UPS, FedEx, DHL and other carriers.

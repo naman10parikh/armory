@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T23:10:42Z"
+pushed_at: "2026-10-11T14:20:25Z"
 ---
 ## What it is
 Bridges Claude Code and OpenAI Codex through MCP, allowing cross-harness querying, code review, explanation, and implementation delegation.

@@ -8,13 +8,13 @@ source_url: https://github.com/memtomem/memtomem
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 32
-pushed_at: "2026-10-07T14:16:20Z"
+pushed_at: "2026-10-14T11:53:39Z"
 ---
 ## What it is
 Markdown-first long-term memory for AI coding agents, enabling hybrid search over local files via MCP tools.

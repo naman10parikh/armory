@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T16:57:20Z"
+pushed_at: "2026-10-09T00:15:36Z"
 ---
 ## What it is
 An extended, self-hosted web research server for MCP-compatible clients that provides tools for web search, page fetching, JavaScript rendering, Internet Archive snapshots, and YouTube transcripts.

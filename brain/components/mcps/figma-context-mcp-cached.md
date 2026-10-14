@@ -8,7 +8,7 @@ source_url: https://github.com/Pactortester/figma-mcp-cached
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 77
+stars: 78
 eval_score: null
 verified_at: 2026-05-27
 related: []

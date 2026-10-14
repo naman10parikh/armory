@@ -13,7 +13,7 @@ related: []
 tags: [mcp, communication]
 stars: 9
 forks: 8
-pushed_at: "2026-10-05T16:05:10Z"
+pushed_at: "2026-10-12T05:49:39Z"
 ---
 ## What it is
 Full Signal messenger MCP server and CLI. Send/receive messages, manage groups and contacts, search history, handle attachments and reactions. Runs locally via signal-cli — no third-party servers.

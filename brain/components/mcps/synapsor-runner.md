@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T13:22:59Z"
+pushed_at: "2026-10-10T05:23:26Z"
 ---
 ## What it is
 Reviewed Postgres and MySQL business actions for MCP agents, without exposing raw execute_sql.

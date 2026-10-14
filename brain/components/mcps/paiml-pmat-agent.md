@@ -8,12 +8,12 @@ source_url: https://github.com/paiml/paiml-mcp-agent-toolkit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 164
+stars: 165
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 30
-pushed_at: "2026-10-05T03:14:17Z"
+pushed_at: "2026-10-12T07:55:49Z"
 ---
 ## What it is
 MCP server `PMAT Agent`, catalogued on PulseMCP. Zero-config AI context generation and code quality toolkit

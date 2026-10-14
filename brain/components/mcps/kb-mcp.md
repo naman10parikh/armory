@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T06:15:45Z"
+pushed_at: "2026-10-13T03:42:23Z"
 ---
 ## What it is
 Provides LLM agents with a structured, queryable, local-first knowledge base with typed documents and full-text search via MCP.

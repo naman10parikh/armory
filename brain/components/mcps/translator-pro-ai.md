@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T12:44:29Z"
+pushed_at: "2026-10-08T04:34:24Z"
 ---
 ## What it is
 Translates text, detects languages, and compares translations across multiple languages using a built-in phrase dictionary.

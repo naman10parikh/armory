@@ -8,12 +8,12 @@ source_url: https://github.com/maxanatsko/mcp-engine-public
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 257
+stars: 256
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 66
-pushed_at: "2026-09-19T11:10:12Z"
+pushed_at: "2026-10-12T13:23:16Z"
 ---
 ## What it is
 MCP server `Power BI MCP Engine`, catalogued on PulseMCP. Natural language Power BI model interaction including DAX queries, measure creation, and relationship management.

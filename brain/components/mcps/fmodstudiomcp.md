@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-17T16:55:02Z"
+pushed_at: "2026-10-14T03:48:12Z"
 ---
 ## What it is
 MCP server that connects AI assistants to FMOD Studio via its scripting terminal, enabling live game-audio authoring such as creating events, importing sounds, routing mixers, and building banks through natural language.

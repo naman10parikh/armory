@@ -8,13 +8,13 @@ source_url: https://github.com/arduino/Arduino
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 14661
+stars: 14667
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 6951
+forks: 6948
 pushed_at: "2025-10-11T09:27:40Z"
 ---
 ## What it is

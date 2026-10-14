@@ -8,13 +8,13 @@ source_url: https://github.com/ronniechong/healthchecks-io-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T21:37:33Z"
+pushed_at: "2026-10-14T05:45:31Z"
 ---
 ## What it is
 Enables AI assistants to interact with Healthchecks.io, allowing users to list, create, update, pause, resume, and delete checks, as well as view ping history and integrations.

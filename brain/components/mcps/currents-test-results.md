@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-10-07T10:32:24Z"
+pushed_at: "2026-10-14T10:54:27Z"
 ---
 ## What it is
 MCP server `Currents Test Results`, catalogued on PulseMCP. Provides a bridge to Currents test results platform, enabling AI to analyze failing tests, optimize test suites, and troubleshoot CI/CD pipeline issues through direct access to test execution data.

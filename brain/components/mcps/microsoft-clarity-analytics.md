@@ -8,11 +8,11 @@ source_url: https://github.com/microsoft/clarity-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 120
+stars: 123
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 38
+forks: 39
 pushed_at: "2026-02-24T14:02:49Z"
 ---
 ## What it is

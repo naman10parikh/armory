@@ -8,11 +8,11 @@ source_url: https://github.com/aquasecurity/trivy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 50
+stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 9
 pushed_at: "2025-12-17T16:02:32Z"
 ---
 ## What it is

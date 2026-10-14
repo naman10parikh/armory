@@ -13,7 +13,7 @@ related: []
 tags: [mcp, search-data-extraction]
 stars: 88
 forks: 30
-pushed_at: "2026-10-06T05:01:42Z"
+pushed_at: "2026-10-07T15:44:27Z"
 ---
 ## What it is
 MCP server for Naver Search API integration, supporting blog, news, shopping search and DataLab analytics features.

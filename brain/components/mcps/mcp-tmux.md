@@ -8,13 +8,13 @@ source_url: https://github.com/laszlopere/mcp-tmux
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-06-19T04:00:04Z"
+forks: 1
+pushed_at: "2026-10-13T12:09:19Z"
 ---
 ## What it is
 A comprehensive MCP server for driving tmux sessions, windows, panes, sending keystrokes, and reading pane output locally or over SSH, enabling real-time collaborative pairing with AI.

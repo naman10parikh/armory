@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T10:37:34Z"
+pushed_at: "2026-10-08T07:18:27Z"
 ---
 ## What it is
 Acts as an authenticated proxy between AI IDEs and remote MCP endpoints, handling OAuth2 client_credentials token generation and transparently injecting bearer tokens into all proxied requests.

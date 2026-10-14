@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-06-09T18:40:53Z"
+pushed_at: "2026-10-11T10:55:14Z"
 ---
 ## What it is
 MCP server `Apache Sling`, catalogued on PulseMCP. Bridges Apache Sling web framework with development capabilities including servlet generation, OSGi component management, and system diagnostics.

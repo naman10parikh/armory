@@ -8,13 +8,13 @@ source_url: https://github.com/dinglebear-ai/rytdl
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T06:04:28Z"
+pushed_at: "2026-10-08T03:35:41Z"
 ---
 ## What it is
 MCP server and CLI for yt-dlp to search and download media, embed metadata and cover art, and deliver to local, SSH, rclone, or Plex targets.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-26T16:43:26Z"
+pushed_at: "2026-10-08T07:40:00Z"
 ---
 ## What it is
 Calculates Vietnamese Tử Vi horoscope charts, generating structured JSON with Thiên Bàn and Địa Bàn, transit analysis, and local persistence via SQLite.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T16:54:46Z"
+pushed_at: "2026-10-11T08:13:03Z"
 ---
 ## What it is
 Codexa is a local change-evidence layer for software workflows, providing committed-change receipts, plan conformance, and verification crediting. It acts as an MCP server to help agents reason about code changes and verify correctness.

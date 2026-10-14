@@ -8,14 +8,14 @@ source_url: https://github.com/HKUDS/DeepCode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 16697
+stars: 16704
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2169
-pushed_at: "2026-09-28T08:06:05Z"
+forks: 2174
+pushed_at: "2026-10-14T12:39:54Z"
 ---
 ## What it is
 "DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)"

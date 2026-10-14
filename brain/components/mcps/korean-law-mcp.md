@@ -8,13 +8,13 @@ source_url: https://github.com/chrisryugj/korean-law-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2647
+stars: 2707
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 532
-pushed_at: "2026-10-05T04:29:41Z"
+forks: 557
+pushed_at: "2026-10-14T11:35:31Z"
 ---
 ## What it is
 MCP server for Korean law data (statutes, precedents, regulations) with citation verification, impact analysis, and time comparison tools.

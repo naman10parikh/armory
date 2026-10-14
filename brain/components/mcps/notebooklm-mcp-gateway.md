@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T09:45:00Z"
+pushed_at: "2026-10-13T14:06:21Z"
 ---
 ## What it is
 Unofficial MCP server that enables interaction with NotebookLM through a Cloudflare Worker, supporting tools for notebooks, sources, chat, notes, and more. It uses OAuth authentication and stateless encrypted credential envelopes.

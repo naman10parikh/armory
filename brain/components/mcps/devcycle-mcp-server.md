@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-10-06T20:09:39Z"
+pushed_at: "2026-10-13T18:34:15Z"
 ---
 ## What it is
 Enables AI coding assistants like Cursor and Claude to manage DevCycle feature flags directly from the development environment.

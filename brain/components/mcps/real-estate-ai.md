@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T12:43:01Z"
+pushed_at: "2026-10-08T04:08:28Z"
 ---
 ## What it is
 Enables AI-powered real estate analysis with built-in EU AI Act compliance, providing a production-ready MCP server for property insights and governance.

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, research]
 stars: 20
 forks: 8
-pushed_at: "2026-09-27T09:25:18Z"
+pushed_at: "2026-10-11T09:17:27Z"
 ---
 ## What it is
 Evidence-backed web research for AI agents. Real-time search with cited claims, confidence scores, and compare mode (raw LLM vs evidence-backed). MCP server, REST API, and Python SDK.

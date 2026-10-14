@@ -8,12 +8,12 @@ source_url: https://github.com/oakplank/RevitMCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 62
+stars: 63
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
+forks: 14
 pushed_at: "2026-09-30T06:44:54Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-05T07:35:50Z"
+pushed_at: "2026-10-14T06:14:18Z"
 ---
 ## What it is
 MCP server `GLEIF LEI`, catalogued on PulseMCP. Accesses the GLEIF LEI database for company verification, KYC, and ownership research.

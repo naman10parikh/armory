@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-12T14:58:22Z"
+pushed_at: "2026-10-08T14:49:04Z"
 ---
 ## What it is
 Lightweight ClickUp MCP server for task management with 37 tools and token-optimized responses to reduce API verbosity.

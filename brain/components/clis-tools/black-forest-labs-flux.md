@@ -8,13 +8,13 @@ source_url: https://github.com/black-forest-labs/flux
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 26008
+stars: 26011
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1925
+forks: 1927
 pushed_at: "2025-07-31T13:58:55Z"
 ---
 ## What it is

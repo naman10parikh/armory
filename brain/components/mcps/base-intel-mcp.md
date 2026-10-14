@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T06:13:48Z"
+pushed_at: "2026-10-09T08:48:32Z"
 ---
 ## What it is
 Read-only on-chain intelligence for AI agents on Base, providing tools to read balances, token metadata, gas, and transaction status live from chain without API keys.

@@ -8,14 +8,14 @@ source_url: https://github.com/vercel/satori
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 14044
+stars: 14070
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 381
-pushed_at: "2026-10-09T15:07:30Z"
+forks: 383
+pushed_at: "2026-10-14T10:57:31Z"
 ---
 ## What it is
 Enlightened library to convert HTML and CSS to SVG

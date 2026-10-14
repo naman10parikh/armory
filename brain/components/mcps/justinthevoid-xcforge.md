@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-19T22:33:59Z"
+pushed_at: "2026-10-10T18:40:58Z"
 ---
 ## What it is
 MCP server `xcforge`, catalogued on PulseMCP. 95 MCP tools for iOS development — build, test, simulate, automate UI, capture screenshots, and diagnose.

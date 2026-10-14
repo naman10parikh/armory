@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T05:35:28Z"
+pushed_at: "2026-10-08T01:04:22Z"
 ---
 ## What it is
 Generates EU AI Act Article 9 Risk Management Systems with a 4-step iteration process, covering 12 risk categories and Annex IV attestation.

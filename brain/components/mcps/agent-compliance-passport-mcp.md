@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-14T08:12:34Z"
+pushed_at: "2026-10-08T02:35:49Z"
 ---
 ## What it is
 Issues, verifies, and exchanges portable cryptographic compliance passports for AI agents, enabling offline verification of regulatory compliance across 11 frameworks.

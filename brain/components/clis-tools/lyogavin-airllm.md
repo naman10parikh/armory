@@ -8,14 +8,14 @@ source_url: https://github.com/lyogavin/airllm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 36437
+stars: 38610
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3816
-pushed_at: "2026-10-11T06:19:49Z"
+forks: 3941
+pushed_at: "2026-10-14T06:21:01Z"
 ---
 ## What it is
 AirLLM 70B inference with single 4GB GPU

@@ -8,12 +8,12 @@ source_url: https://github.com/shouldnotappearcalm/a-share-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-03-18T05:40:25Z"
+pushed_at: "2026-10-11T07:56:44Z"
 ---
 ## What it is
 MCP server `A-Share Stock Market`, catalogued on PulseMCP. Access Chinese A-share market data including real-time quotes, K-lines, and technical indicators.

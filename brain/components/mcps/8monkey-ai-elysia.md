@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-27T03:43:33Z"
+pushed_at: "2026-10-14T05:48:14Z"
 ---
 ## What it is
 MCP server `Elysia`, catalogued on PulseMCP. Turn existing Elysia framework routes into MCP tools automatically, with no schema duplication or handler rewrites.

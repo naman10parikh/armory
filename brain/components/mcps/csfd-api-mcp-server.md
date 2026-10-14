@@ -8,13 +8,13 @@ source_url: https://github.com/bartholomej/node-csfd-api
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 63
+stars: 64
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-08-31T16:40:02Z"
+pushed_at: "2026-10-12T18:31:42Z"
 ---
 ## What it is
 Enables LLMs to query movie details, search, creator info, user ratings, and reviews from the Czech-Slovak Film Database (CSFD.CZ) via the Model Context Protocol.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T05:52:58Z"
+pushed_at: "2026-10-08T08:48:18Z"
 ---
 ## What it is
 Chomps through any document, parsing 36+ file formats for AI systems like Claude.

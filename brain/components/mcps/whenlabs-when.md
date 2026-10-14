@@ -8,12 +8,12 @@ source_url: https://github.com/whenlabs-org/when
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-05T21:50:51Z"
+pushed_at: "2026-10-12T22:24:20Z"
 ---
 ## What it is
 MCP server `When`, catalogued on PulseMCP. Developer toolkit bundling six tools for documentation drift detection, environment validation, port conflict resolution, and performance monitoring.

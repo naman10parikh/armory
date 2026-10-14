@@ -8,13 +8,13 @@ source_url: https://github.com/strvmarv/total-recall
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-04T19:46:43Z"
+pushed_at: "2026-10-08T19:10:54Z"
 ---
 ## What it is
 Persistent, cross-tool memory for AI coding assistants, enabling context retention across sessions, tools, and devices with a three-tier memory model and hybrid search.

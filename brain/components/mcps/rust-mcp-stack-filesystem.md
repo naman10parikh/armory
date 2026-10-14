@@ -8,11 +8,11 @@ source_url: https://github.com/rust-mcp-stack/rust-mcp-filesystem
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 179
+stars: 180
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 29
+forks: 28
 pushed_at: "2026-08-29T20:59:11Z"
 ---
 ## What it is

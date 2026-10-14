@@ -8,14 +8,14 @@ source_url: https://github.com/Comfy-Org/ComfyUI
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 136796
+stars: 137447
 eval_score: null
 mentions: 4
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 16277
-pushed_at: "2026-10-10T23:20:58Z"
+forks: 16366
+pushed_at: "2026-10-14T12:26:54Z"
 ---
 ## What it is
 The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.

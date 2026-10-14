@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 11
-pushed_at: "2026-09-20T15:23:45Z"
+pushed_at: "2026-10-09T20:11:50Z"
 ---
 ## What it is
 A bridge between Binary Ninja and LLMs for AI-powered reverse engineering, exposing binary analysis tools through the Model Context Protocol.

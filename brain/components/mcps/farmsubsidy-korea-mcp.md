@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T09:48:35Z"
+pushed_at: "2026-10-14T08:23:34Z"
 ---
 ## What it is
 Aggregates Korean agricultural subsidy announcements from multiple government sources. Enables searching, detailed viewing, and calendar integration for subsidy deadlines.

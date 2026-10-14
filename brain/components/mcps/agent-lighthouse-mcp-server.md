@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-07T09:16:25Z"
+pushed_at: "2026-10-14T11:44:05Z"
 ---
 ## What it is
 Enables AI coding agents like Claude and Cursor to audit websites for AI agent readiness, checking 199 rules across agentic discovery, content structure, and technical SEO.

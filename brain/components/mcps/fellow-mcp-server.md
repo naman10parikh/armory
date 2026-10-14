@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-08T18:31:24Z"
+pushed_at: "2026-10-12T18:02:03Z"
 ---
 ## What it is
 Enables AI tools to interact with the Fellow.ai API for managing action items, notes, recordings, webhooks, and user info with full CRUD operations.

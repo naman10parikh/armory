@@ -8,12 +8,12 @@ source_url: https://github.com/aliasunder/vault-cortex
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-07T14:10:52Z"
+pushed_at: "2026-10-12T19:52:19Z"
 ---
 ## What it is
 MCP server `Vault Cortex`, catalogued on PulseMCP. Obsidian vault MCP server with search, memory, link graph, and 23 tools. OAuth-protected.

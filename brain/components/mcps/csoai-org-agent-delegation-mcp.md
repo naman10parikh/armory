@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:35:14Z"
+pushed_at: "2026-10-08T00:54:41Z"
 ---
 ## What it is
 MCP server `Agent Delegation`, catalogued on PulseMCP. Tools for enabling agent delegation workflows in multi-agent architectures.

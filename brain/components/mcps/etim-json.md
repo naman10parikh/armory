@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T15:06:45Z"
+pushed_at: "2026-10-08T15:32:11Z"
 ---
 ## What it is
 Provides read-only MCP tools to query the ETIM classification model, enabling AI agents to search classes, retrieve feature/unit definitions, and look up ETIM codes.

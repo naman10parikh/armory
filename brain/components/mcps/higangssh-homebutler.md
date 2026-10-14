@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, monitoring]
-stars: 297
+stars: 303
 forks: 22
-pushed_at: "2026-10-05T04:39:27Z"
+pushed_at: "2026-10-12T03:13:38Z"
 ---
 ## What it is
 All-in-one homelab management MCP server. Monitor system resources, manage Docker containers, Wake-on-LAN, scan networks, check open ports, and run alerts — across multiple servers via SSH. Single 10MB binary, zero dependencies.

@@ -8,14 +8,14 @@ source_url: https://github.com/harbor-framework/harbor
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 5886
+stars: 6104
 eval_score: null
 mentions: 10
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 1940
-pushed_at: "2026-10-07T02:18:58Z"
+forks: 2000
+pushed_at: "2026-10-14T04:07:41Z"
 ---
 ## What it is
 Framework for evaluating and improving agents

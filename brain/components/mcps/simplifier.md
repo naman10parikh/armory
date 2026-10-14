@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-16T14:30:43Z"
+pushed_at: "2026-10-08T09:59:12Z"
 ---
 ## What it is
 MCP server `Simplifier`, catalogued on PulseMCP. Integration with the Simplifier Low Code Platform

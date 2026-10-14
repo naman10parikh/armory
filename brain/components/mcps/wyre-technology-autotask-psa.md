@@ -8,12 +8,12 @@ source_url: https://github.com/wyre-technology/autotask-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 57
+stars: 58
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 64
-pushed_at: "2026-10-07T13:59:52Z"
+forks: 66
+pushed_at: "2026-10-13T12:43:10Z"
 ---
 ## What it is
 MCP server `Autotask PSA`, catalogued on PulseMCP. Gives AI assistants direct access to Kaseya Autotask PSA with 39 tools for tickets, time entries, companies, projects, and billing.

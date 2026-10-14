@@ -8,14 +8,14 @@ source_url: https://github.com/mermaid-js/mermaid
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 90605
+stars: 90649
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 9335
-pushed_at: "2026-10-10T12:24:14Z"
+forks: 9347
+pushed_at: "2026-10-14T09:01:48Z"
 ---
 ## What it is
 Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown

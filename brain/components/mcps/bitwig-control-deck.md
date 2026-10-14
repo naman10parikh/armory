@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-16T20:40:30Z"
+pushed_at: "2026-10-13T15:08:41Z"
 ---
 ## What it is
 Local MCP bridge for Bitwig Studio, enabling read-back-verified control of tracks, devices, transport, and plug-in parameters via any MCP client.

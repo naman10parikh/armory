@@ -8,13 +8,13 @@ source_url: https://github.com/HasData/airbnb-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T10:40:31Z"
+pushed_at: "2026-10-12T14:33:37Z"
 ---
 ## What it is
 A hosted MCP server that lets Claude, Cursor, Windsurf, and other clients search Airbnb stays by location and dates, and read full listing details as structured JSON, with no Airbnb developer account or partner approval required.

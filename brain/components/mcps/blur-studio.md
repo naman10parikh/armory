@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T08:21:48Z"
+pushed_at: "2026-10-14T10:50:19Z"
 ---
 ## What it is
 MCP server for coordinate-based selective photo blurring, letting AI agents blur faces, plates, or regions with ellipses, rectangles, and VIP exclusion boxes. Exposes tools to scan folders, manage configs, apply blur, and export Python snippets.

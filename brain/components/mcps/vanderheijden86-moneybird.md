@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-03-01T13:52:40Z"
+pushed_at: "2026-10-11T05:57:07Z"
 ---
 ## What it is
 MCP server `Moneybird`, catalogued on PulseMCP. Bridges Moneybird accounting software with natural language interaction, enabling users to manage contacts, invoices, financial accounts, products, projects, and time entries through conversational prompts.

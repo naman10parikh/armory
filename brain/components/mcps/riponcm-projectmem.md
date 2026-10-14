@@ -8,11 +8,11 @@ source_url: https://github.com/riponcm/projectmem
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 852
+stars: 865
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 46
+forks: 50
 pushed_at: "2026-10-03T00:01:18Z"
 ---
 ## What it is

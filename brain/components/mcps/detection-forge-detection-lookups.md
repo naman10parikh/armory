@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-17T03:25:29Z"
+pushed_at: "2026-10-08T15:37:29Z"
 ---
 ## What it is
 MCP server `Agentic Detection Lookups`, catalogued on PulseMCP. Security detection lookups for LOLBAS, GTFOBins, and process parent-child relationship analysis.

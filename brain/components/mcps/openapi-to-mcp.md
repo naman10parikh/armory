@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-05-01T16:06:38Z"
+pushed_at: "2026-10-13T17:49:48Z"
 ---
 ## What it is
 A minimal MCP server that auto-generates tools from your OpenAPI spec, optimized for Vercel.

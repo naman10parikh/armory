@@ -13,7 +13,7 @@ related: []
 tags: [mcp, aggregators]
 stars: 5
 forks: 1
-pushed_at: "2026-10-03T21:27:41Z"
+pushed_at: "2026-10-14T08:49:47Z"
 ---
 ## What it is
 Search and discover AI agents, skills, prompts, bundles and MCP connectors from a curated catalog of 4500+ assets.

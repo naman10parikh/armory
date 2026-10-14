@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-24T05:06:51Z"
+pushed_at: "2026-10-08T00:39:25Z"
 ---
 ## What it is
 MCP server which collects data from www.xiaohongshu.com social media

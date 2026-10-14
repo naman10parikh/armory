@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T05:36:31Z"
+pushed_at: "2026-10-08T01:06:03Z"
 ---
 ## What it is
 Provides a 1-line USDC paywall wrapper for any FastMCP tool using the Coinbase x402 protocol, enabling pay-per-call endpoints settled on Base, Polygon, Solana, or Bitcoin Lightning.

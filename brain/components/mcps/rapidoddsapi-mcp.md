@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T11:09:18Z"
+pushed_at: "2026-10-13T04:35:16Z"
 ---
 ## What it is
 MCP server for RapidOddsAPI that provides bookmaker odds, live scores, arbitrage and value bets to AI assistants. It supports querying sports, odds, results, and betting opportunities with credit-based usage.

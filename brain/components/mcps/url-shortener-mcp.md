@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T04:04:37Z"
+pushed_at: "2026-10-14T03:21:36Z"
 ---
 ## What it is
 Enables URL shortening and management through MCP, allowing creation of short links with optional tags and expiry, search, and stats.

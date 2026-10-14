@@ -8,7 +8,7 @@ source_url: https://github.com/Mercor-Intelligence/ApexAgents-SkyRL-Recipe
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 215
+stars: 217
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10

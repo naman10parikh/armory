@@ -8,12 +8,12 @@ source_url: https://github.com/louiewoof2026/skool-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 42
+stars: 46
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 19
+forks: 20
 pushed_at: "2026-03-22T21:44:38Z"
 ---
 ## What it is

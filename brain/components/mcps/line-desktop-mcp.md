@@ -8,12 +8,12 @@ source_url: https://github.com/dtwang/line-desktop-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 118
+stars: 121
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 56
+forks: 57
 pushed_at: "2026-05-25T13:16:07Z"
 ---
 ## What it is

@@ -8,7 +8,7 @@ source_url: https://github.com/agentrhq/authsome
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 95
+stars: 97
 eval_score: null
 mentions: null
 verified_at: 2026-09-07

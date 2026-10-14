@@ -8,12 +8,12 @@ source_url: https://github.com/n24q02m/wet-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-07T01:07:04Z"
+pushed_at: "2026-10-13T18:03:10Z"
 ---
 ## What it is
 MCP server `Web Extended Toolkit`, catalogued on PulseMCP. Web search, content extraction, academic research, and library documentation indexing.

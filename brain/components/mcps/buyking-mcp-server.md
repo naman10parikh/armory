@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T12:50:04Z"
+pushed_at: "2026-10-09T15:19:43Z"
 ---
 ## What it is
 Enables AI assistants to search Saleplaza's hot deals using semantic search and recommend products with a distinctive 'BuyKing' persona.

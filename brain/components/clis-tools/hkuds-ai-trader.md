@@ -8,13 +8,13 @@ source_url: https://github.com/HKUDS/AI-Trader
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 22730
+stars: 22780
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3431
+forks: 3439
 pushed_at: "2026-06-11T09:26:03Z"
 ---
 ## What it is

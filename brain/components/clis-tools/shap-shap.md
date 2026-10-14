@@ -8,14 +8,14 @@ source_url: https://github.com/shap/shap
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 25803
+stars: 25811
 eval_score: 1
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3768
-pushed_at: "2026-10-09T06:44:08Z"
+forks: 3772
+pushed_at: "2026-10-12T19:42:45Z"
 ---
 ## What it is
 A game theoretic approach to explain the output of any machine learning model.

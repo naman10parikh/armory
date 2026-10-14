@@ -8,13 +8,13 @@ source_url: https://github.com/elibarnett/kie-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-10-05T18:59:31Z"
+forks: 4
+pushed_at: "2026-10-12T15:44:23Z"
 ---
 ## What it is
 A comprehensive Model Context Protocol server for the kie.ai generation API, providing access to 47+ image models, 86+ video models, and 20+ audio tools with deep model intelligence.

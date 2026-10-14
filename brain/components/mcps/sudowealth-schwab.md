@@ -8,11 +8,11 @@ source_url: https://github.com/sudowealth/schwab-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 80
+stars: 81
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 41
+forks: 44
 pushed_at: "2025-06-02T23:51:26Z"
 ---
 ## What it is

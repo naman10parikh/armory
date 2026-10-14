@@ -8,13 +8,13 @@ source_url: https://github.com/ltspace/dowse
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 26
+stars: 34
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-05T01:33:47Z"
+pushed_at: "2026-10-12T03:58:47Z"
 ---
 ## What it is
 Windows-native full-disk search: file names, document contents, and text inside screenshots. Acrylic command palette on Alt+`. Rust · tantivy · Tauri. 本地全盘搜索：文件名、文档内容、截图文字。

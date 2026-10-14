@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:36:26Z"
+pushed_at: "2026-10-08T00:59:20Z"
 ---
 ## What it is
 MCP server `Canada AIDA AI`, catalogued on PulseMCP. Compliance tools for Canada's Artificial Intelligence and Data Act requirements.

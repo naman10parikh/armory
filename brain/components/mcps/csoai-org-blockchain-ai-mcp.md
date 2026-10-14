@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:36:14Z"
+pushed_at: "2026-10-08T00:58:45Z"
 ---
 ## What it is
 MCP server `Blockchain AI`, catalogued on PulseMCP. AI-powered tools for blockchain data analysis and on-chain analytics.

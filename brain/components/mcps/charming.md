@@ -8,13 +8,13 @@ source_url: https://github.com/tambo-labs/charming-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-07T05:45:08Z"
+pushed_at: "2026-10-11T04:28:26Z"
 ---
 ## What it is
 Charming MCP server — generate and host interactive web apps via MCP

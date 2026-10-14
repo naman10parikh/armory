@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-09-29T21:23:16Z"
+pushed_at: "2026-10-09T05:31:29Z"
 ---
 ## What it is
 MCP server `Renpho`, catalogued on PulseMCP. Connects to Renpho smart scales to retrieve body composition data including weight, BMI, body fat percentage, muscle mass, and water content with intelligent caching and trend analysis for fitness tracking and health monitoring.

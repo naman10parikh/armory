@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-10-06T18:03:48Z"
+pushed_at: "2026-10-14T08:29:45Z"
 ---
 ## What it is
 MCP server `esa`, catalogued on PulseMCP. Manage posts, comments, categories, tags, and team members on the esa.io documentation sharing platform.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-07T04:14:29Z"
+pushed_at: "2026-10-12T12:22:24Z"
 ---
 ## What it is
 Enables AI coding assistants to control and inspect a browser via DevTools, with additional Opera Neon AI tools for chat, page actions, content generation, and research.

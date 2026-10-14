@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:43:08Z"
+pushed_at: "2026-10-08T04:18:46Z"
 ---
 ## What it is
 MCP server `Regex AI`, catalogued on PulseMCP. Python MCP server for regular expression generation and pattern matching tools.

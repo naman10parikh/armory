@@ -8,12 +8,12 @@ source_url: https://github.com/smart-mcp-proxy/mcpproxy-go
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 387
+stars: 390
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 58
-pushed_at: "2026-10-07T12:03:43Z"
+forks: 61
+pushed_at: "2026-10-14T03:29:29Z"
 ---
 ## What it is
 MCP server `MCPProxy`, catalogued on PulseMCP. Smart proxy with BM25 tool discovery, quarantine security, and token savings.

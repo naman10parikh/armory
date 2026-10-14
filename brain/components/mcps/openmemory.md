@@ -8,13 +8,13 @@ source_url: https://github.com/gordonkjlee/openmemory
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-06T00:56:43Z"
+pushed_at: "2026-10-14T07:21:06Z"
 ---
 ## What it is
 AI memory engine exposed as an MCP server with structured knowledge capture, entity extraction, and hybrid search for persistent, portable memory across AI tools.

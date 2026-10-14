@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-07T14:58:41Z"
+pushed_at: "2026-10-13T12:58:04Z"
 ---
 ## What it is
 Enables multi-agent code review with cross-verification of findings against source code, catching hallucinations and improving agent accuracy over time.

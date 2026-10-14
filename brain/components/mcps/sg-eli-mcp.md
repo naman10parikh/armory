@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-06T08:42:14Z"
+pushed_at: "2026-10-08T14:55:12Z"
 ---
 ## What it is
 An MCP server for Singapore Statutes Online (SSO), the official portal for Singapore legislation. It browses, fetches, and cites Acts, with a verifiable citation on every response.

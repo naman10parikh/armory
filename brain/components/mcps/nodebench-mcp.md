@@ -8,13 +8,13 @@ source_url: https://github.com/HomenShum/nodebench-ai
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-10-07T10:01:13Z"
+forks: 3
+pushed_at: "2026-10-09T18:07:48Z"
 ---
 ## What it is
 NodeBench MCP server provides public research memory and tool access for entity intelligence, enabling agents to perform deep research, generate reports, and track entities without requiring signup.

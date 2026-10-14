@@ -8,12 +8,12 @@ source_url: https://github.com/freepeak/db-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 433
+stars: 466
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 69
-pushed_at: "2026-09-24T13:34:35Z"
+forks: 83
+pushed_at: "2026-10-13T05:28:06Z"
 ---
 ## What it is
 MCP server `DB Connector (MySQL/PostgreSQL)`, catalogued on PulseMCP. Enables direct interaction with MySQL and PostgreSQL databases through a Go-based connectivity layer that supports both local stdio and production SSE transport modes for querying, analyzing, and manipulating structured data.

@@ -8,12 +8,12 @@ source_url: https://github.com/harusame64/desktop-touch-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-07T13:20:16Z"
+pushed_at: "2026-10-13T23:21:44Z"
 ---
 ## What it is
 MCP server `Desktop Touch`, catalogued on PulseMCP. Windows desktop automation MCP server — screenshots, mouse/keyboard, Windows UI Automation, Chrome DevTools Protocol, and workflow batching across 57 tools.

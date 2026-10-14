@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-05T04:25:08Z"
+pushed_at: "2026-10-09T00:05:04Z"
 ---
 ## What it is
 Korean public-data MCP servers for AI agents, enabling natural language queries to KOSIS statistics and other Korean official data sources without requiring local accounts or API keys.

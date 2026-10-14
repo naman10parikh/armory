@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-09-15T08:00:08Z"
+pushed_at: "2026-10-09T16:15:21Z"
 ---
 ## What it is
 MCP server `Repo Intel`, catalogued on PulseMCP. Analyze repositories of any size with deep code analysis, security scanning, complexity metrics, and AI-powered semantic search.

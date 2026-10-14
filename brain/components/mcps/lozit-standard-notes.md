@@ -8,11 +8,11 @@ source_url: https://github.com/lozit/mcp-standardnotes
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 4
 pushed_at: "2026-09-08T08:07:49Z"
 ---
 ## What it is

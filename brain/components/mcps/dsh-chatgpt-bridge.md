@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-09-29T14:24:54Z"
+forks: 7
+pushed_at: "2026-10-08T13:26:51Z"
 ---
 ## What it is
 MCP bridge enabling ChatGPT to create, view, and control DeepSeek Harness agent sessions, with session management, messaging, and approval tools.

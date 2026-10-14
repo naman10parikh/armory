@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-01-03T15:51:26Z"
+pushed_at: "2026-10-09T19:19:25Z"
 ---
 ## What it is
 An MCP server for querying and analyzing a Stash instance with advanced filters, caching, and personalized recommendations.

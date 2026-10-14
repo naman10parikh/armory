@@ -8,11 +8,11 @@ source_url: https://github.com/gomarble-ai/facebook-ads-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 365
+stars: 364
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 109
+forks: 110
 pushed_at: "2026-08-05T09:45:30Z"
 ---
 ## What it is

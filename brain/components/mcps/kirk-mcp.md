@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-18T17:24:49Z"
+pushed_at: "2026-10-11T11:54:57Z"
 ---
 ## What it is
 MCP server exposing Kirk, an algorithm for real-time unsupervised pairwise structural anomaly detection, as a set of validation and discovery tools. It enables scoring of L2 order-book data, model enumeration, and secure attestation of engine identity.

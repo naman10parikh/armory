@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 20
-pushed_at: "2025-10-08T05:46:12Z"
+pushed_at: "2026-10-13T04:52:05Z"
 ---
 ## What it is
 MCP server `Markdown to PDF`, catalogued on PulseMCP. Converts Markdown to PDF using Puppeteer, offering syntax highlighting, custom styling, and watermarking capabilities for document generation.

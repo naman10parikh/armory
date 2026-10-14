@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
 stars: 11
-forks: 7
+forks: 8
 pushed_at: "2025-04-07T07:30:00Z"
 ---
 ## What it is

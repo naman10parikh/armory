@@ -8,12 +8,12 @@ source_url: https://github.com/lofifren/picocalc
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 79
+stars: 80
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-07-01T16:35:13Z"
+pushed_at: "2026-10-14T09:20:10Z"
 ---
 ## What it is
 MCP server `PicoCalc`, catalogued on PulseMCP. Connect AI assistants to PicoCalc MicroPython hardware over USB.

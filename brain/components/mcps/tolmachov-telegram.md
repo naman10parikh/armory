@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-09-26T15:02:56Z"
+pushed_at: "2026-10-10T15:04:44Z"
 ---
 ## What it is
 MCP server `Telegram`, catalogued on PulseMCP. Integrates with Telegram through the MTProto API to send messages, retrieve chat histories, search conversations, manage notifications, and perform chat summarization using configurable LLM providers.

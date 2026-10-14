@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T23:19:04Z"
+pushed_at: "2026-10-10T18:11:43Z"
 ---
 ## What it is
 A portable, user-owned memory for MCP-capable agents in VS Code, enabling cross-agent recall and memory creation.

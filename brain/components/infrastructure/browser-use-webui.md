@@ -8,12 +8,12 @@ source_url: https://github.com/browser-use/web-ui
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 16603
+stars: 16613
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, browser-use]
-forks: 2768
+forks: 2771
 pushed_at: "2026-09-25T03:56:21Z"
 ---
 ## What it is

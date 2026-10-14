@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-14T09:50:38Z"
+pushed_at: "2026-10-08T10:59:25Z"
 ---
 ## What it is
 A self-hosted MCP server for PageIndex's vectorless, reasoning-based document retrieval. It ingests PDFs into a hierarchical table of contents using an LLM and serves documents, structure, and page content via MCP tools.

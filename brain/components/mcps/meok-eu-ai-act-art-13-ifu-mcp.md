@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-16T05:45:36Z"
+pushed_at: "2026-10-08T02:28:29Z"
 ---
 ## What it is
 Generates EU AI Act Article 13 Instructions for Use (IFU) and provides a FRIA crosswalk, enabling providers to create transparency documentation compliant with the EU AI Act.

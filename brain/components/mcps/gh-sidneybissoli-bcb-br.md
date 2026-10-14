@@ -12,8 +12,8 @@ stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-10-07T13:10:32Z"
+forks: 2
+pushed_at: "2026-10-14T06:04:38Z"
 ---
 ## What it is
 MCP server `Brazilian Central Bank (BCB)`, catalogued on PulseMCP. Brazilian Central Bank time series data — economic indicators, exchange rates, and financial data.

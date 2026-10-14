@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T20:56:36Z"
+pushed_at: "2026-10-11T14:37:48Z"
 ---
 ## What it is
 Enables managing your Starlink terminal fleet through Claude AI using the Starlink Enterprise API, supporting terminal management, telemetry, data usage, and service line operations.

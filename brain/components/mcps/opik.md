@@ -8,12 +8,12 @@ source_url: https://github.com/comet-ml/opik-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 219
+stars: 222
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 37
-pushed_at: "2026-10-07T13:52:11Z"
+forks: 38
+pushed_at: "2026-10-08T14:35:04Z"
 mentions: 1
 ---
 ## What it is

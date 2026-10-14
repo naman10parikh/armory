@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-23T13:24:28Z"
+pushed_at: "2026-10-08T23:12:54Z"
 ---
 ## What it is
 Indexes local Maven and Gradle caches to enable AI agents to search for Java classes, method signatures, and source code, including from internal or obscure libraries.

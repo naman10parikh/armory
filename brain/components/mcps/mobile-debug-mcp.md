@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-10-06T03:46:19Z"
+pushed_at: "2026-10-09T15:08:23Z"
 ---
 ## What it is
 A minimal, secure MCP server for AI-assisted mobile development, enabling build, install, interact, and inspect Android/iOS apps.

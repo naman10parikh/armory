@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T03:06:09Z"
+pushed_at: "2026-10-08T18:59:35Z"
 ---
 ## What it is
 Provides AI agents with direct liteserver access to the TON blockchain for querying balances, account states, transactions, and contract get-methods without HTTP gateways.

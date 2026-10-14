@@ -8,14 +8,14 @@ source_url: https://github.com/audacity/audacity
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 18693
+stars: 18732
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2681
-pushed_at: "2026-10-09T11:48:56Z"
+forks: 2686
+pushed_at: "2026-10-14T11:26:30Z"
 ---
 ## What it is
 Audio Editor

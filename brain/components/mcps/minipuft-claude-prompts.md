@@ -8,12 +8,12 @@ source_url: https://github.com/minipuft/claude-prompts
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 187
+stars: 188
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 33
-pushed_at: "2026-10-07T09:46:00Z"
+pushed_at: "2026-10-14T11:24:20Z"
 ---
 ## What it is
 MCP server `Claude Prompts`, catalogued on PulseMCP. Provides a flexible, template-based prompt system for Claude models that enables standardized interactions, complex reasoning workflows, and multi-step prompt chains through a TypeScript/Node.js server with comprehensive API support.

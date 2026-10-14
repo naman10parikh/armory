@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
-stars: 27
-forks: 39
-pushed_at: "2026-10-05T04:45:55Z"
+stars: 28
+forks: 38
+pushed_at: "2026-10-13T14:07:34Z"
 ---
 ## What it is
 Cybersecurity reconnaissance server for Claude. WHOIS lookup, DNS enumeration with subdomain brute-forcing, Nmap port scanning with service detection, SSL/TLS certificate inspection, technology stack fingerprinting, CVE lookup, and IP reputation checking. Runs fully locally via FastMCP.

@@ -8,13 +8,13 @@ source_url: https://github.com/konippi/servo-fetch
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 157
+stars: 159
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 18
-pushed_at: "2026-10-03T11:34:44Z"
+pushed_at: "2026-10-10T11:36:05Z"
 ---
 ## What it is
 Servo-powered MCP server for JS-aware web fetching, content extraction, crawling, and software-rendered screenshots — Chromium-free single binary.

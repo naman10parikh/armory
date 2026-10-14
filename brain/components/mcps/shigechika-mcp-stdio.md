@@ -8,12 +8,12 @@ source_url: https://github.com/shigechika/mcp-stdio
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-06T09:45:14Z"
+pushed_at: "2026-10-13T11:01:51Z"
 ---
 ## What it is
 MCP server `Stdio HTTP Relay`, catalogued on PulseMCP. Converts stdio-based MCP servers to HTTP transport for remote access.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T12:42:26Z"
+pushed_at: "2026-10-08T04:00:25Z"
 ---
 ## What it is
 MCP server `Pet Care AI`, catalogued on PulseMCP. Python MCP server for pet care guidance and veterinary information tools.

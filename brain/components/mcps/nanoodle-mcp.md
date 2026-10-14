@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-07T01:21:28Z"
+pushed_at: "2026-10-12T18:20:32Z"
 ---
 ## What it is
 MCP server that exposes saved nanoodle graphs as callable tools for AI agents, enabling them to run multi-model media pipelines. Supports stdio and HTTP serve modes, with optional Nano wallet payments.

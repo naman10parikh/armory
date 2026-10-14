@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-10-05T21:45:01Z"
+pushed_at: "2026-10-14T10:26:43Z"
 ---
 ## What it is
 MCP server `Zabbix`, catalogued on PulseMCP. Integrates with Zabbix monitoring infrastructure for managing hosts, templates, items, triggers, problems, events, users, proxies, and maintenance periods.

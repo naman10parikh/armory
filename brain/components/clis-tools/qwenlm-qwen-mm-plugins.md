@@ -8,14 +8,14 @@ source_url: https://github.com/QwenLM/Qwen-MM-Plugins
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3117
+stars: 3136
 eval_score: 1
 mentions: 1
 verified_at: 2026-09-26
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 207
-pushed_at: "2026-10-07T14:11:45Z"
+forks: 209
+pushed_at: "2026-10-11T05:16:53Z"
 ---
 ## What it is
 Make any agent harness multimodal-native.

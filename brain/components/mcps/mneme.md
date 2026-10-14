@@ -8,13 +8,13 @@ source_url: https://github.com/TheGoatPsy/mneme
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T13:15:29Z"
+pushed_at: "2026-10-14T11:24:11Z"
 ---
 ## What it is
 Vault-native, accountable memory for Claude Code and MCP clients. Markdown is the source of truth, no LLM on the Stop path.

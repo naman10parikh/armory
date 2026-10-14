@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T14:00:05Z"
+pushed_at: "2026-10-12T12:28:59Z"
 ---
 ## What it is
 A local MCP server with a web board that lets coding agents manage kanban cards, checklists, and work tracking through 30 MCP tools, with live updates and session tracking.

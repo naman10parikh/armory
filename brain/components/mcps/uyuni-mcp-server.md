@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-10-07T13:28:54Z"
+pushed_at: "2026-10-13T09:29:42Z"
 ---
 ## What it is
 Bridges LLMs with Uyuni infrastructure management, enabling natural language system administration such as inspecting systems, managing updates, and scheduling actions.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T21:39:30Z"
+pushed_at: "2026-10-14T05:56:29Z"
 ---
 ## What it is
 MCP server exposing WhatsApp Cloud API operations as tools for AI agents like Claude Code, Cursor, and Codex.

@@ -8,12 +8,12 @@ source_url: https://github.com/luckypipewrench/pipelock
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 920
+stars: 928
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 106
-pushed_at: "2026-10-07T13:42:40Z"
+forks: 108
+pushed_at: "2026-10-14T11:58:10Z"
 ---
 ## What it is
 MCP server `Pipelock`, catalogued on PulseMCP. Security harness that wraps MCP servers as stdio proxies with credential exfiltration prevention, DLP pattern matching, and SSRF protection.

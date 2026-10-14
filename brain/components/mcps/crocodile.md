@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-29T15:18:09Z"
+pushed_at: "2026-10-12T20:41:40Z"
 ---
 ## What it is
 Enables querying and replaying deterministic market data for crypto and US equities from a local Parquet lake via natural language.

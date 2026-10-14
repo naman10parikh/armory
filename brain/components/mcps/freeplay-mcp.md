@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T17:00:51Z"
+pushed_at: "2026-10-12T06:00:06Z"
 ---
 ## What it is
 Enables AI agents to interact with Freeplay, an ops platform for AI engineering teams, to analyze production logs, identify quality issues, iterate on prompts and agents using real data, and run experiments before deploying.

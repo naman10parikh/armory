@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T12:38:03Z"
+pushed_at: "2026-10-14T11:09:48Z"
 ---
 ## What it is
 Agent-native directory of healthcare conferences enabling AI agents and humans to search, list, and retrieve conference details via natural language commands.

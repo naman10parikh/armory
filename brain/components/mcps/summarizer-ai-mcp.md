@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T12:44:07Z"
+pushed_at: "2026-10-08T04:25:41Z"
 ---
 ## What it is
 Text summarization and extraction MCP server by MEOK AI Labs, featuring EU AI Act compliance and easy installation.

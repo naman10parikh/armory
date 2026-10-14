@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-19T11:22:00Z"
+pushed_at: "2026-10-10T05:16:02Z"
 ---
 ## What it is
 Enables Bedrock agents to act as a Lark user, performing document operations (list, create, edit, delete) and identity verification via Lark's REST API, with per-user credential injection through a Gateway Interceptor.

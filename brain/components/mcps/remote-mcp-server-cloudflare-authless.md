@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T16:37:25Z"
+pushed_at: "2026-10-14T08:44:48Z"
 ---
 ## What it is
 Deploy a remote MCP server on Cloudflare Workers without authentication, enabling custom tool definitions and SSE-based connections to clients like Cloudflare AI Playground or Claude Desktop.

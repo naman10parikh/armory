@@ -8,7 +8,7 @@ source_url: https://github.com/liyix/finding-the-right-fit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 10
+stars: 14
 eval_score: 0
 mentions: 1
 verified_at: 2026-10-10

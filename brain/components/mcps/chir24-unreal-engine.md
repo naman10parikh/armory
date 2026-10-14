@@ -8,12 +8,12 @@ source_url: https://github.com/chir24/unreal_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 905
+stars: 932
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 172
-pushed_at: "2026-10-05T16:54:01Z"
+forks: 179
+pushed_at: "2026-10-13T05:53:50Z"
 ---
 ## What it is
 MCP server `Unreal Engine Remote Control`, catalogued on PulseMCP. Connects to Unreal Engine 5's Remote Control API to enable automated game development workflows including asset management, actor manipulation, level streaming, animation control, particle effects, Blueprint creation, landscape sculpting, and Play-in-Editor operations.

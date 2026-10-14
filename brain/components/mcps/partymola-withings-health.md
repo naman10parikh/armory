@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-05T22:20:56Z"
+pushed_at: "2026-10-13T23:06:30Z"
 ---
 ## What it is
 MCP server `Withings Health`, catalogued on PulseMCP. Integrates with Withings health devices for body metrics, sleep, activity, workouts, and ECG data with local SQLite caching.

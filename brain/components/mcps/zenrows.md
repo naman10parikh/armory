@@ -8,12 +8,12 @@ source_url: https://github.com/zenrows/zenrows-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-07T13:24:48Z"
+pushed_at: "2026-10-14T10:54:52Z"
 ---
 ## What it is
 MCP server `ZenRows`, catalogued on PulseMCP. Scrapes any webpage through the ZenRows Universal Scraper API, including JavaScript-rendered content and anti-bot protected sites.
