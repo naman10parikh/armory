@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T22:58:01Z"
+pushed_at: "2026-10-14T22:58:45Z"
 ---
 ## What it is
 Enables interaction with the Officient HR API to manage people, days off, and salary slips through natural language.

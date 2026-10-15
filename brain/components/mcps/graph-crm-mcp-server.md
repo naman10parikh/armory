@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-29T16:30:02Z"
+pushed_at: "2026-10-10T04:52:07Z"
 ---
 ## What it is
 Enables AI assistants like Claude to read and write contacts, relationships, and interactions in a personal CRM via a graph-based API.

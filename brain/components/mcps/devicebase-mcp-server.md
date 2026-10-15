@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-20T09:24:26Z"
+pushed_at: "2026-10-10T01:45:21Z"
 ---
 ## What it is
 Enables remote control of mobile devices via the Devicebase API, including touch gestures, app management, and UI inspection.

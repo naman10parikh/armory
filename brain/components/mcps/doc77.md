@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T05:44:44Z"
+pushed_at: "2026-10-11T06:21:21Z"
 ---
 ## What it is
 A local document management agent with MCP tools for file operations, previewing, and AI-driven management, featuring safety approvals and transaction rollback.

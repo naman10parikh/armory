@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T04:52:33Z"
+pushed_at: "2026-10-15T05:08:40Z"
 ---
 ## What it is
 Enables AI assistants to read and manage a Jobkeepr field service business including jobs, customers, scheduling, estimates, invoices, and payments via MCP.

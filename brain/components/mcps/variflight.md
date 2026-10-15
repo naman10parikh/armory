@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-09-26T05:22:40Z"
+pushed_at: "2026-10-10T06:07:17Z"
 ---
 ## What it is
 MCP server `Variflight`, catalogued on PulseMCP. Integrates with Variflight API to provide real-time flight information, schedules, aircraft tracking, airport weather forecasts, and comfort metrics for travel planning and aviation monitoring applications.

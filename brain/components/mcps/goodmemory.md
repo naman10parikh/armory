@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-06T17:27:17Z"
+pushed_at: "2026-10-15T01:55:22Z"
 ---
 ## What it is
 Local-first, auditable memory for Codex, Claude Code, and MCP clients. It stores scoped user/project memory in SQLite or Postgres, serves read-only recall and inspection tools by default, and supports opt-in governed writeback with review and forget controls.

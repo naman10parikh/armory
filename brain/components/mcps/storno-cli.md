@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T08:22:01Z"
+pushed_at: "2026-10-12T08:56:20Z"
 ---
 ## What it is
 Enables AI assistants to manage invoices, clients, companies, and ANAF e-Factura through the Storno.ro e-invoicing API.

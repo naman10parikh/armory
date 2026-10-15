@@ -8,11 +8,11 @@ source_url: https://github.com/trialanderrorai/appstore-connect-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
+forks: 6
 pushed_at: "2026-05-19T21:25:26Z"
 ---
 ## What it is

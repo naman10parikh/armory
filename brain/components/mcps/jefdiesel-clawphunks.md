@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-03-05T19:36:16Z"
+pushed_at: "2026-10-11T15:10:27Z"
 ---
 ## What it is
 MCP server `ClawPhunks`, catalogued on PulseMCP. Mint and trade ClawPhunks NFTs with x402 payment and ethscriptions on L1.

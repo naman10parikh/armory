@@ -8,7 +8,7 @@ source_url: https://github.com/openai/gpt-2
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 25004
+stars: 25003
 eval_score: 0
 mentions: 3
 verified_at: 2026-10-10

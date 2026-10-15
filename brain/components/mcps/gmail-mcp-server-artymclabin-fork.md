@@ -8,12 +8,12 @@ source_url: https://github.com/ArtyMcLabin/Gmail-MCP-Server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 246
+stars: 250
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 61
+forks: 60
 pushed_at: "2026-10-07T23:15:46Z"
 ---
 ## What it is

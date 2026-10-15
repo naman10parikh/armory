@@ -8,12 +8,12 @@ source_url: https://github.com/ant-intl/global-antom-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 32
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 11
 pushed_at: "2025-07-16T06:25:35Z"
 ---
 ## What it is

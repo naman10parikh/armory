@@ -8,12 +8,12 @@ source_url: https://github.com/nowork-studio/notfair
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3908
+stars: 3938
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 494
-pushed_at: "2026-10-01T05:12:03Z"
+forks: 496
+pushed_at: "2026-10-14T16:37:03Z"
 ---
 ## What it is
 MCP server `AdsAgent`, catalogued on PulseMCP. Google Ads analysis and management — read performance, manage keywords, bids, and campaigns via AI agents.

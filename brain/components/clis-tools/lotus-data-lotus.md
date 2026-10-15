@@ -8,13 +8,13 @@ source_url: https://github.com/lotus-data/lotus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1714
+stars: 1718
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 156
+forks: 157
 pushed_at: "2026-10-08T07:35:15Z"
 ---
 ## What it is

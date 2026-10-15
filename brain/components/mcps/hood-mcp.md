@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-15T07:57:00Z"
+pushed_at: "2026-10-11T01:24:57Z"
 ---
 ## What it is
 A zero-config data server for read-only queries on Robinhood Chain (stock tokens, memecoins, launches, chain stats) and an opt-in trading server with spend caps and confirm gates for executing swaps and transfers.

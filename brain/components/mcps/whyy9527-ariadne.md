@@ -13,7 +13,7 @@ related: []
 tags: [mcp, developer-tools]
 stars: 3
 forks: 0
-pushed_at: "2026-07-13T03:08:33Z"
+pushed_at: "2026-10-12T09:19:20Z"
 ---
 ## What it is
 Cross-service API dependency graph for microservice codebases. Give it a business term or endpoint name; get back a ranked chain of GraphQL operations, REST endpoints, Kafka topics, and frontend queries across all services. Offline, local SQLite + TF-IDF + optional embeddings.

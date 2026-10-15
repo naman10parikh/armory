@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-08T11:25:59Z"
+pushed_at: "2026-10-15T10:45:38Z"
 ---
 ## What it is
 Connects AI assistants to the ADAS platform, enabling them to build, validate, and deploy multi-agent systems through natural language commands without manual configuration.

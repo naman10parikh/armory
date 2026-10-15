@@ -8,13 +8,13 @@ source_url: https://github.com/bosmdavid-gif/dropthehassle-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T13:48:37Z"
+pushed_at: "2026-10-15T06:33:13Z"
 ---
 ## What it is
 Enables AI to deploy static sites, search for available domains, and point domains to sites, all without spending money.

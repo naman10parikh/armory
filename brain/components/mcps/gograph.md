@@ -8,13 +8,13 @@ source_url: https://github.com/ozgurcd/gograph
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 228
+stars: 229
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 16
-pushed_at: "2026-10-07T14:27:19Z"
+pushed_at: "2026-10-10T11:40:39Z"
 ---
 ## What it is
 A local AST and type-aware Go repository context indexer that uses CHA to map symbols, call graphs, dependencies, and architecture patterns. Built for AI coding agents that need to navigate and reason about large Go codebases without reading raw files.

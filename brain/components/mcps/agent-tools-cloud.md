@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-07T19:01:02Z"
+pushed_at: "2026-10-13T07:23:39Z"
 ---
 ## What it is
 An MCP server providing discovery of x402 paid services, MCP servers, and A2A agents, with safety scanning capabilities.

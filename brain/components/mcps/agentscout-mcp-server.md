@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T15:19:27Z"
+pushed_at: "2026-10-08T15:14:53Z"
 ---
 ## What it is
 Enables web content extraction, reading, crawling, and pricing via MCP tools, with pay-per-fetch in USDC on Base using x402.

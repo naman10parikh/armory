@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-16T11:58:10Z"
+pushed_at: "2026-10-09T05:39:26Z"
 ---
 ## What it is
 Enables AI agents to manage web production projects by providing tools for sitemap planning, content drafting, and review comment workflows.

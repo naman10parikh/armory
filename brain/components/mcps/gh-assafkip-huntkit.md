@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-09-10T17:32:36Z"
+pushed_at: "2026-10-10T08:14:03Z"
 ---
 ## What it is
 MCP server `Huntkit`, catalogued on PulseMCP. OSINT investigation toolkit providing two MCP servers for infrastructure reconnaissance and threat intelligence lookups, covering WHOIS, DNS, Wayback, VirusTotal, URLhaus, ThreatFox, and certificate transparency.

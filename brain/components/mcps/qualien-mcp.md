@@ -8,13 +8,13 @@ source_url: https://github.com/qualienai/qualien-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T15:50:20Z"
+pushed_at: "2026-10-14T16:23:54Z"
 ---
 ## What it is
 A composite MCP gateway that aggregates multiple MCP servers into one endpoint for SDET/QE workflows, with curated tool namespacing, central safety guardrails, and composite tools like API-vs-DB verification.

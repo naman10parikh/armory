@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T10:06:12Z"
+pushed_at: "2026-10-14T11:16:45Z"
 ---
 ## What it is
 Resolves TikTok handles or company domains to brand accounts, returning follower, like, video counts, verification status, and more.

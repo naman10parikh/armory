@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-14T10:19:55Z"
+pushed_at: "2026-10-15T08:14:38Z"
 ---
 ## What it is
 Provides a Streamable HTTP MCP proxy for VS Code Copilot and Claude Code, using JWT client assertion to securely access NetSuite APIs.

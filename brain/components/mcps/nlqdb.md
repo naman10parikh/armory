@@ -8,13 +8,13 @@ source_url: https://github.com/nlqdb/nlqdb
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-08T08:51:28Z"
+pushed_at: "2026-10-15T09:12:40Z"
 ---
 ## What it is
 Analytical memory for AI agents: a real Postgres your agent connects to over MCP and queries in plain English — GROUP BY, JOIN, aggregate over what it remembered, not just top-k vector recall.

@@ -8,12 +8,12 @@ source_url: https://github.com/vybenetwork/solana-mcp-vybe
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1714
+stars: 1907
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 99
+forks: 100
 pushed_at: "2026-09-21T20:36:39Z"
 ---
 ## What it is

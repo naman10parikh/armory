@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T04:37:16Z"
+pushed_at: "2026-10-15T11:03:32Z"
 ---
 ## What it is
 MCP server for generating astrology chart data (Western, Jyotish, Four Pillars) using Swiss Ephemeris and AI-based interpretation.

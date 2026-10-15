@@ -8,11 +8,11 @@ source_url: https://github.com/apache/doris-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 351
+stars: 350
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 102
+forks: 103
 pushed_at: "2026-10-01T19:00:50Z"
 ---
 ## What it is

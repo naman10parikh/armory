@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
-stars: 886
+stars: 888
 forks: 160
 pushed_at: "2026-10-03T05:56:03Z"
 ---

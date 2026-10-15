@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
-stars: 0
+stars: 1
 forks: 0
 pushed_at: "2026-10-06T10:13:07Z"
 ---

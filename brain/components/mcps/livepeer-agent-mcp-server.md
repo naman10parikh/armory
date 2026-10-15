@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T02:52:07Z"
+pushed_at: "2026-10-14T15:54:45Z"
 ---
 ## What it is
 A terminal-first Livepeer client that provides identity, access, and email verification through the MCP protocol, enabling interaction with Daydream AI models and browser automation.

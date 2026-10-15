@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T17:45:07Z"
+pushed_at: "2026-10-14T18:17:14Z"
 ---
 ## What it is
 An MCP server that lets Codex generate, edit, and display images via the Wawapi image API using only text content blocks, local file paths, and Markdown, without requiring native image support from the model API.

@@ -8,12 +8,12 @@ source_url: https://github.com/youngminsw/Origin-Pro-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 41
+stars: 44
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 3
 pushed_at: "2026-07-11T12:30:02Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-29T06:48:02Z"
+pushed_at: "2026-10-14T08:28:13Z"
 ---
 ## What it is
 MCP server `Mulmocast Vision`, catalogued on PulseMCP. AI-powered presentation slide generator with 80+ business templates

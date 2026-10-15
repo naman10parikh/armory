@@ -8,11 +8,11 @@ source_url: https://github.com/louislva/claude-peers-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2208
+stars: 2207
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 309
+forks: 308
 pushed_at: "2026-04-26T06:47:35Z"
 ---
 ## What it is

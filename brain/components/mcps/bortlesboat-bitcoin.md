@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-09-10T01:32:52Z"
+pushed_at: "2026-10-10T21:25:47Z"
 ---
 ## What it is
 MCP server `Bitcoin`, catalogued on PulseMCP. Comprehensive Bitcoin network toolkit with fee intelligence, mempool analysis, block exploration, mining stats, and price data. Works instantly with zero configuration via hosted API, or connects to a local Bitcoin Core node.

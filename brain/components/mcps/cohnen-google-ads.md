@@ -8,11 +8,11 @@ source_url: https://github.com/cohnen/mcp-google-ads
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 709
+stars: 712
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 161
+forks: 159
 pushed_at: "2025-10-16T20:20:14Z"
 ---
 ## What it is

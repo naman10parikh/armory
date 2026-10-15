@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T17:24:34Z"
+pushed_at: "2026-10-15T01:35:39Z"
 ---
 ## What it is
 Enables AI agents to create, schedule, and publish social media posts across Instagram, X/Twitter, LinkedIn, Threads, Facebook, and other platforms via the PosteAhora API.

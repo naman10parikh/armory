@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T20:57:17Z"
+pushed_at: "2026-10-08T18:04:22Z"
 ---
 ## What it is
 Enables read-only access to Lightspeed X retail data (sales, inventory, products, customers) with aggregated reporting on revenue, COGS, profit, and other metrics for MCP clients like Claude.

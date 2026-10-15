@@ -8,7 +8,7 @@ source_url: https://github.com/Mirix-AI/MIRIX
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3449
+stars: 3452
 eval_score: null
 mentions: null
 verified_at: 2026-09-07

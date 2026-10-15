@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
-stars: 18921
-forks: 868
-pushed_at: "2026-10-08T13:27:22Z"
+stars: 19012
+forks: 878
+pushed_at: "2026-10-15T11:25:07Z"
 ---
 ## What it is
 A CLI tool that reads local Claude Code logs and reports usage: cost, token consumption and more, in a dashboard.

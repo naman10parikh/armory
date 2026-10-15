@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-03-03T11:11:57Z"
+pushed_at: "2026-10-11T07:48:44Z"
 ---
 ## What it is
 MCP server for generating and editing images using xAI's Grok image model, supporting text prompts, batch generation, local files, and optional proxy configurations.

@@ -8,13 +8,13 @@ source_url: https://github.com/SuMayaBee/HoloViz-MCP-Server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T10:11:14Z"
+pushed_at: "2026-10-10T04:09:26Z"
 ---
 ## What it is
 Let AI agents create interactive visualizations that render live inside your chat — no code required.

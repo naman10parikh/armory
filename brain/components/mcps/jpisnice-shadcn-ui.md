@@ -8,11 +8,11 @@ source_url: https://github.com/jpisnice/shadcn-ui-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3033
+stars: 3053
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 313
+forks: 314
 pushed_at: "2026-10-03T15:17:41Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 18
-pushed_at: "2026-10-05T03:09:21Z"
+pushed_at: "2026-10-12T07:31:07Z"
 ---
 ## What it is
 MCP server `Quarkus Agent`, catalogued on PulseMCP. Creates, manages, and debugs Quarkus applications with lifecycle control, extension skills, and semantic documentation search.

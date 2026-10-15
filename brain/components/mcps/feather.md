@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T17:04:08Z"
+pushed_at: "2026-10-09T07:05:00Z"
 ---
 ## What it is
 MCP server for Feather that lets AI agents compress videos, images, GIFs, and PDFs locally via CLI tools for compression, probing, estimation, and history.

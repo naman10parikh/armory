@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T17:16:19Z"
+pushed_at: "2026-10-14T09:29:11Z"
 ---
 ## What it is
 Enables streaming and control of Android devices via browser, with UI tree inspection, Logcat, and MCP tool integration for AI agents.

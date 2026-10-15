@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T00:53:53Z"
+pushed_at: "2026-10-11T07:10:54Z"
 ---
 ## What it is
 Enables configuring and running StableOps Agent Payments while keeping secrets user-controlled, with wallet-pairing via user signatures and runtime payments through a user-operated signer sidecar.

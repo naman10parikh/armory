@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T01:24:38Z"
+pushed_at: "2026-10-13T22:05:22Z"
 ---
 ## What it is
 MCP server that controls SolidWorks via COM, enabling CAD automation with 138 tools for sketching, 3D features, assemblies, drawings, and more.

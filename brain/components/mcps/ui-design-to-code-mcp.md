@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T06:41:09Z"
+pushed_at: "2026-10-15T09:46:22Z"
 ---
 ## What it is
 MCP server for ingesting UI screenshots, Figma MCP node JSON, or hybrid Figma-plus-screenshot sources into a cross-platform design-to-code artifact pipeline.

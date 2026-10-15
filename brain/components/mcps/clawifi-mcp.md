@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T14:30:43Z"
+pushed_at: "2026-10-12T07:41:53Z"
 ---
 ## What it is
 MCP server for Clawifi, enabling AI agents to fetch and interact with web pages through the Clawifi internet gateway.

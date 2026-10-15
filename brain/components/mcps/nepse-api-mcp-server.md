@@ -8,13 +8,13 @@ source_url: https://github.com/surajrimal07/NepseAPI-Unofficial
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 63
+stars: 64
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 27
-pushed_at: "2026-09-24T03:30:36Z"
+forks: 28
+pushed_at: "2026-10-15T03:31:28Z"
 ---
 ## What it is
 Provides structured access to Nepal Stock Exchange market data through the Model Context Protocol, enabling AI integration for querying real-time stock data and market analysis.

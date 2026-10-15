@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T13:35:30Z"
+pushed_at: "2026-10-11T09:45:14Z"
 ---
 ## What it is
 Provides function-level structural retrieval for coding agents using tree-sitter, with zero-LLM indexing and MCP serving, enabling exact function localization and cost savings.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T15:28:59Z"
+pushed_at: "2026-10-13T20:47:26Z"
 ---
 ## What it is
 Read-only MCP server for NEURA's AI news platform, enabling clients to list, search, and retrieve published articles in English and Italian.

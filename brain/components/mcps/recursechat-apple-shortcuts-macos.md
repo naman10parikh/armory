@@ -8,11 +8,11 @@ source_url: https://github.com/recursechat/mcp-server-apple-shortcuts
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 350
+stars: 351
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 42
+forks: 41
 pushed_at: "2024-12-22T03:27:15Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T07:02:24Z"
+pushed_at: "2026-10-09T21:36:55Z"
 ---
 ## What it is
 A self-contained FastMCP server that exposes a running drevo graph database to AI clients as Model Context Protocol tools, enabling graph queries and traversal via natural language.

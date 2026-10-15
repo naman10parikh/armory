@@ -8,11 +8,11 @@ source_url: https://github.com/nighttrek/software-planning-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 396
+stars: 397
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 60
+forks: 59
 pushed_at: "2025-03-14T09:36:09Z"
 ---
 ## What it is

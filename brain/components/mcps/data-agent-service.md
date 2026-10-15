@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T06:40:27Z"
+pushed_at: "2026-10-11T19:32:55Z"
 ---
 ## What it is
 Enables natural-language queries over data warehouses with catalog-grounded semantics and per-query authorization, returning answers with attached reasoning.

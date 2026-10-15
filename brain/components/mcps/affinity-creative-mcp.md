@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T04:29:40Z"
+pushed_at: "2026-10-14T07:33:58Z"
 ---
 ## What it is
 Enables automation of Affinity Photo, Designer, and Publisher from MCP clients, supporting document creation, layer editing, text replacement, export, and more via safe, validated tools.

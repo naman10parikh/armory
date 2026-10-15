@@ -12,8 +12,8 @@ stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
-pushed_at: "2026-10-07T19:48:10Z"
+forks: 6
+pushed_at: "2026-10-15T12:29:00Z"
 ---
 ## What it is
 MCP server `Filesystem Context`, catalogued on PulseMCP. Secure, read-only filesystem exploration and analysis

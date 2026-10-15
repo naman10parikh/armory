@@ -8,11 +8,11 @@ source_url: https://github.com/gongrzhe/travel-planner-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 99
+stars: 98
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
+forks: 28
 pushed_at: "2025-03-12T10:55:44Z"
 ---
 ## What it is

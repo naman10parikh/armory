@@ -8,14 +8,14 @@ source_url: https://github.com/laude-institute/headlong
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1218
+stars: 1220
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 127
-pushed_at: "2026-10-09T08:24:08Z"
+forks: 129
+pushed_at: "2026-10-15T11:32:29Z"
 ---
 ## What it is
 An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bash, for bash; it's shells all the way down.

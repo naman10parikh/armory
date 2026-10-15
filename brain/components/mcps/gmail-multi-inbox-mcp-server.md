@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-03T17:38:32Z"
+pushed_at: "2026-10-08T20:43:36Z"
 ---
 ## What it is
 Enables AI assistants to manage multiple Gmail accounts simultaneously with built-in OAuth authentication, supporting email reading, sending, drafts, labels, and account management.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-30T14:38:59Z"
+pushed_at: "2026-10-14T05:57:03Z"
 ---
 ## What it is
 A visual canary that detects context rot and silent model degradation in long agent conversations by embedding externally verified checkpoints and self-reported status into each response.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-09-15T07:59:37Z"
+pushed_at: "2026-10-11T01:21:54Z"
 ---
 ## What it is
 Monitors Solana PumpFun on-chain activity and broadcasts rich, intelligence-enriched Telegram cards for GitHub social fee claims and token graduations, including credibility scores, dev track records, and influencer tiers.

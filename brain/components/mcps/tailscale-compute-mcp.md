@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T02:52:09Z"
+pushed_at: "2026-10-13T19:37:02Z"
 ---
 ## What it is
 Runs builds, tests, and benchmarks on a remote compute node via Tailscale and SSH, syncing projects with rsync.

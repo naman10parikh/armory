@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-08T10:51:44Z"
+pushed_at: "2026-10-15T10:37:10Z"
 ---
 ## What it is
 Structured, versioned context for AI agents. Context Nest organizes knowledge as markdown documents in a vault, with versioning, integrity verification, and a query language.

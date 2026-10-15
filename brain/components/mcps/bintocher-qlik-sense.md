@@ -8,12 +8,12 @@ source_url: https://github.com/bintocher/qlik-sense-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 16
-pushed_at: "2026-09-25T14:23:30Z"
+pushed_at: "2026-10-13T17:23:13Z"
 ---
 ## What it is
 MCP server `Qlik Sense`, catalogued on PulseMCP. Integrates with Qlik Sense Enterprise through Repository and Engine APIs to enable querying data models, managing applications and users, extracting table data, and automating reload tasks for business intelligence workflows.

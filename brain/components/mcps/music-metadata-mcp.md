@@ -8,13 +8,13 @@ source_url: https://github.com/stevebirring-star/music-metadata-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T16:46:43Z"
+pushed_at: "2026-10-13T15:50:16Z"
 ---
 ## What it is
 Music Metadata API

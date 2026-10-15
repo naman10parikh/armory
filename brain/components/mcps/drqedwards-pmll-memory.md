@@ -12,8 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
-pushed_at: "2026-10-07T03:01:29Z"
+forks: 11
+pushed_at: "2026-10-10T23:40:09Z"
 ---
 ## What it is
 MCP server `PMLL Memory`, catalogued on PulseMCP. Persistent key-value context memory with Q-promise deduplication for AI agent tasks.

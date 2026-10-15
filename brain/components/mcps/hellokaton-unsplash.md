@@ -12,8 +12,8 @@ stars: 237
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 25
-pushed_at: "2026-09-11T07:30:27Z"
+forks: 26
+pushed_at: "2026-10-12T03:24:26Z"
 ---
 ## What it is
 MCP server `Unsplash`, catalogued on PulseMCP. Integrates with Unsplash to enable keyword-based photo searches with filtering options for color, orientation, and sorting, returning structured image data including URLs, dimensions, and descriptions.

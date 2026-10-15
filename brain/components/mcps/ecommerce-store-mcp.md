@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2025-05-13T22:55:29Z"
+pushed_at: "2026-10-15T07:03:22Z"
 ---
 ## What it is
 Enables intelligent ecommerce tools for agents and applications, including product catalog access, product addition, and shopping policies.

@@ -8,11 +8,11 @@ source_url: https://github.com/pleaseprompto/notebooklm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3438
+stars: 3436
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 549
+forks: 556
 pushed_at: "2026-09-10T07:43:58Z"
 ---
 ## What it is

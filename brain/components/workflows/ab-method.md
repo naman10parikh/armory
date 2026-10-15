@@ -13,7 +13,7 @@ related: []
 tags: [claude-code, workflows-knowledge-guides]
 stars: 192
 forks: 14
-pushed_at: "2026-10-01T09:15:27Z"
+pushed_at: "2026-10-14T19:37:48Z"
 ---
 ## What it is
 A principled, spec-driven workflow that transforms large problems into focused, incremental missions using Claude Code's specialized sub agents. Includes slash-commands, sub agents, and specialized workflows designed for specific parts of the SDLC.

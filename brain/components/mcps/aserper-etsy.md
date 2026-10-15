@@ -8,11 +8,11 @@ source_url: https://github.com/aserper/etsy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 6
 pushed_at: "2026-04-02T02:16:57Z"
 ---
 ## What it is

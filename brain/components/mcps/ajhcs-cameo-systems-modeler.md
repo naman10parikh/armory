@@ -8,11 +8,11 @@ source_url: https://github.com/ajhcs/cameo-mcp-bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
+forks: 20
 pushed_at: "2026-09-04T22:00:07Z"
 ---
 ## What it is

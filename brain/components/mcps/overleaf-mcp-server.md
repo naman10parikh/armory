@@ -8,13 +8,13 @@ source_url: https://github.com/YounesBensafia/overleaf-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 60
+stars: 63
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-06-05T21:13:00Z"
+pushed_at: "2026-10-11T08:47:08Z"
 ---
 ## What it is
 Enables MCP clients to manage Overleaf projects via Git sync, including listing, reading, writing, and syncing files.

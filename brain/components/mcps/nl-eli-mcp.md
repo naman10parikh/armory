@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-06T08:58:21Z"
+pushed_at: "2026-10-08T14:55:22Z"
 ---
 ## What it is
 An MCP server for Dutch consolidated legislation, enabling AI agents to retrieve acts and their full text in force on a given date with verifiable citations via the official KOOP SRU API.

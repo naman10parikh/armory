@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-17T11:17:42Z"
+pushed_at: "2026-10-15T11:55:38Z"
 ---
 ## What it is
 Enables local AI agents to generate and edit Figma designs via the Plugin API through a WebSocket relay, with no rate limits and all communication remaining local.

@@ -8,12 +8,12 @@ source_url: https://github.com/dmontgomery40/faxbot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T10:07:03Z"
+pushed_at: "2026-10-15T08:04:31Z"
 ---
 ## What it is
 MCP server `Faxbot`, catalogued on PulseMCP. Provides T.38 fax transmission capabilities through cloud (Phaxio) and on-premises (Asterisk SIP) backends, enabling document sending, status tracking, and webhook callbacks with HIPAA compliance considerations for healthcare, legal, and business fax operations.

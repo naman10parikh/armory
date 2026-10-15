@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-29T18:41:53Z"
+forks: 2
+pushed_at: "2026-10-13T04:13:21Z"
 ---
 ## What it is
 A Model Context Protocol server that gives Claude direct access to your D\&D Beyond account for characters, campaigns, sourcebooks, spells, monsters, rules, encounters, and treasure.

@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
-stars: 9
+stars: 10
 forks: 3
-pushed_at: "2026-07-12T11:49:18Z"
+pushed_at: "2026-10-09T14:52:24Z"
 ---
 ## What it is
 Local MCP server for generating image assets with Google Gemini (Nano Banana 2 / Pro). Supports transparent PNG/WebP output, exact resizing/cropping, up to 14 reference images, and Google Search grounding.

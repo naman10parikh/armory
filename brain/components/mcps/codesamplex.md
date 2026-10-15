@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T13:22:19Z"
+pushed_at: "2026-10-15T02:18:21Z"
 ---
 ## What it is
 MCP server that helps coding LLMs avoid re-solving common problems by serving verified minimal code samples and compatibility evidence, with tools to search, retrieve, and explain known solutions across languages and environments.

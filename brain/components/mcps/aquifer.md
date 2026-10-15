@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T01:44:11Z"
+pushed_at: "2026-10-15T02:33:50Z"
 ---
 ## What it is
 A MCP Runtime for dealing with spiky agentic traffic in golang

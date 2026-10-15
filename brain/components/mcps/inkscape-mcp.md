@@ -8,13 +8,13 @@ source_url: https://github.com/sandraschi/inkscape-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 83
+stars: 85
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-10-07T16:20:28Z"
+pushed_at: "2026-10-12T11:31:49Z"
 ---
 ## What it is
 Enables AI agents to control Inkscape for vector graphics editing via MCP tools.

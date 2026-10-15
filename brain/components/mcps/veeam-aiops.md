@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-16T12:54:10Z"
+pushed_at: "2026-10-15T09:17:08Z"
 ---
 ## What it is
 AI-powered Veeam Backup & Replication operations MCP server with tools for managing jobs, restores, sessions, and repositories, featuring built-in governance, audit logging, and safety controls.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-16T14:58:19Z"
+pushed_at: "2026-10-13T10:23:37Z"
 ---
 ## What it is
 MCP server for interacting with self-hosted HedgeDoc 1.x, enabling AI agents to create, read, update, and manage notes via session-cookie authentication with automatic re-login.

@@ -8,14 +8,14 @@ source_url: https://github.com/runvendo/vendo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 629
+stars: 626
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 107
-pushed_at: "2026-10-08T22:27:42Z"
+pushed_at: "2026-10-14T05:12:33Z"
 ---
 ## What it is
 Embedded agents your customers use to automate work, build views, and connect their tools.

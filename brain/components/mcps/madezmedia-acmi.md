@@ -8,12 +8,12 @@ source_url: https://github.com/madezmedia/acmi
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-09-09T15:41:48Z"
+forks: 1
+pushed_at: "2026-10-12T18:46:42Z"
 ---
 ## What it is
 MCP server `ACMI`, catalogued on PulseMCP. Persistent agent memory with Profile, Signals, and Timeline layers backed by Upstash Redis.

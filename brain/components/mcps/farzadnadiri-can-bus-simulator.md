@@ -8,12 +8,12 @@ source_url: https://github.com/farzadnadiri/mcp-can
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-10-08T00:15:24Z"
+forks: 4
+pushed_at: "2026-10-09T18:47:05Z"
 ---
 ## What it is
 MCP server `CAN Bus Simulator`, catalogued on PulseMCP. Bridges CAN bus networks with virtual ECU simulation and DBC file decoding for automotive diagnostics, signal monitoring, and vehicle data analysis without physical hardware.

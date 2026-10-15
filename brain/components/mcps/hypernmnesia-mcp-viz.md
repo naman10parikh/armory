@@ -8,13 +8,13 @@ source_url: https://github.com/cdeust/cortex-viz
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-10-08T11:04:26Z"
+forks: 2
+pushed_at: "2026-10-12T22:46:26Z"
 ---
 ## What it is
 A read-only, cross-platform visualization layer for Cortex that renders memory, sessions, and code into six live reading angles (graph galaxy, 3D anatomical brain, execution trace, consolidation board, knowledge browser, and wiki) without ever writing a memory.

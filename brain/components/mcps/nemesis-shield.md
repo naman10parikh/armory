@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-07T08:28:26Z"
+pushed_at: "2026-10-09T00:44:59Z"
 ---
 ## What it is
 A Model Context Protocol server that gives AI coding agents 16 tools to secure what they build: install the one-line Nemesis Shield SDK, learn/approve/enforce app protection, put a domain behind a Cloudflare-like edge, guard LLMs (OWASP LLM Top 10), and create + score Omniguard business-logic fraud 

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, search-data-extraction]
 stars: 16
 forks: 1
-pushed_at: "2026-10-05T23:06:41Z"
+pushed_at: "2026-10-12T20:02:36Z"
 ---
 ## What it is
 Ultra-fast web fetcher and MCP server with HTTP/3, JS rendering, anti-fingerprinting, browser cookie auth, and 1Password integration. Fetches any URL as clean Markdown for AI context.

@@ -8,12 +8,12 @@ source_url: https://github.com/NickoScope/nickol-knx-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 5
 pushed_at: "2026-09-16T17:20:51Z"
 ---
 ## What it is

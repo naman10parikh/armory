@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-10-08T11:16:14Z"
+pushed_at: "2026-10-11T11:36:38Z"
 ---
 ## What it is
 MCP server for creating, editing, and evaluating Power BI (.pbix/.pbit) files without Power BI Desktop. Supports 101 tools including report creation, data sources, DAX measures, and file manipulation.

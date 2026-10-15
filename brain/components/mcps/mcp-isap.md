@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-24T13:20:15Z"
+pushed_at: "2026-10-13T19:13:05Z"
 ---
 ## What it is
 MCP server for Polish legislation (ISAP / Sejm) — search acts (Dz.U., M.P.) and fetch full texts with ELI identifiers and verifiable citations.

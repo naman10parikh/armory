@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T04:47:06Z"
+pushed_at: "2026-10-13T03:17:33Z"
 ---
 ## What it is
 Hosted MCP server for structured public web data — 319 tools across search, maps, commerce, social & finance, returning clean JSON.

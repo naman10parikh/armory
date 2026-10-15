@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-10-08T14:02:00Z"
+pushed_at: "2026-10-15T09:01:58Z"
 ---
 ## What it is
 Cross-source attribution across 37+ business tools. True ROAS in 14 seconds. Not a dashboard. A decision.

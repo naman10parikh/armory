@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-05T11:13:32Z"
+pushed_at: "2026-10-13T08:01:25Z"
 ---
 ## What it is
 MCP server `Agent Trace Inspector`, catalogued on PulseMCP. Local-first observability for agent workflows with tool call tracing, token cost estimation, trace comparison, and exportable HTML dashboards.

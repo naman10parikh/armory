@@ -8,13 +8,13 @@ source_url: https://github.com/LuxAlgo/luxalgo-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 89
+stars: 96
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 32
-pushed_at: "2026-10-06T02:49:06Z"
+forks: 36
+pushed_at: "2026-10-13T18:50:29Z"
 ---
 ## What it is
 Read-only, keyless MCP server for searching and retrieving trading concepts, indicator details, families, and source code from the LuxAlgo Library.

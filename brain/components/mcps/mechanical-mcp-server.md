@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-27T04:42:26Z"
+pushed_at: "2026-10-13T18:17:30Z"
 ---
 ## What it is
 Enables natural language interaction with ANSYS Mechanical simulation software via gRPC, allowing users to manage geometry, mesh, boundary conditions, solve analyses, and generate reports through MCP-compatible AI clients.

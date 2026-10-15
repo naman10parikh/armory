@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-26T15:45:54Z"
+pushed_at: "2026-10-14T20:16:47Z"
 ---
 ## What it is
 MCP server that wraps agent-browser to let LLMs control a real browser, providing tools for navigation, interaction, reading page content, accessibility snapshots, screenshots, and session management.

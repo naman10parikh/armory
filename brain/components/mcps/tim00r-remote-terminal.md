@@ -8,7 +8,7 @@ source_url: https://github.com/tim00r/remote-terminal
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

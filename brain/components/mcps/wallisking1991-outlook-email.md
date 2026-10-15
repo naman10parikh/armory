@@ -8,11 +8,11 @@ source_url: https://github.com/wallisking1991/outlook-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 59
+stars: 58
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 30
+forks: 29
 pushed_at: "2025-03-22T07:35:54Z"
 ---
 ## What it is

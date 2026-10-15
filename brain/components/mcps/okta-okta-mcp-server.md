@@ -8,11 +8,11 @@ source_url: https://github.com/okta/okta-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 70
+stars: 71
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 61
+forks: 60
 pushed_at: "2026-10-01T19:15:28Z"
 ---
 ## What it is

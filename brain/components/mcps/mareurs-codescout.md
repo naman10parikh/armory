@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-10-08T09:28:22Z"
+pushed_at: "2026-10-14T19:19:10Z"
 ---
 ## What it is
 MCP server `CodeScout`, catalogued on PulseMCP. IDE-grade code intelligence with LSP integration, semantic search, and persistent project memory.

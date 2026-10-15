@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T18:21:41Z"
+pushed_at: "2026-10-13T20:42:12Z"
 ---
 ## What it is
 Provides MCP tools to interact with GoHighLevel CRM data, including contacts, conversations, call transcripts, broker lead overviews, pipelines/opportunities, and task creation. Supports both stdio and HTTP transports for local and remote use.

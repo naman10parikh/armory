@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, general-purpose-implementations]
-forks: 38
-pushed_at: "2026-09-03T08:31:42Z"
+forks: 39
+pushed_at: "2026-10-15T08:21:16Z"
 ---
 ## What it is
 Go implementation for A2A (Agent2Agent) protocol

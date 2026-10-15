@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-07T08:50:09Z"
+pushed_at: "2026-10-13T07:05:24Z"
 ---
 ## What it is
 Around the World and Complex Must-Stop Airfare and routing MCP

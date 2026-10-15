@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-20T03:52:49Z"
+pushed_at: "2026-10-13T17:30:48Z"
 ---
 ## What it is
 Connects LLM coding agents to Home Assistant instances, enabling configuration file management, service calls, template testing, and automation diagnostics via MCP tools.

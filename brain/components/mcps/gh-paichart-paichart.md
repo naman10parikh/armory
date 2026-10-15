@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T08:18:20Z"
+pushed_at: "2026-10-14T05:19:34Z"
 ---
 ## What it is
 MCP server `pAIchart`, catalogued on PulseMCP. Service orchestration hub that enables discovery, composition, and authentication of multiple services through a single endpoint.

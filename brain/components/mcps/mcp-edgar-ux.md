@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-20T13:34:17Z"
+pushed_at: "2026-10-13T14:13:09Z"
 ---
 ## What it is
 Enables efficient SEC EDGAR filing access by saving filings to disk, returning file paths to avoid context overflow, and providing Bloomberg Terminal-style formatted output for selective reading and search.

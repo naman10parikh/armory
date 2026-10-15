@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-29T08:26:35Z"
+pushed_at: "2026-10-14T09:56:01Z"
 ---
 ## What it is
 MCP server that turns video URLs into transcripts and important keyframes locally, with no cloud or API keys.

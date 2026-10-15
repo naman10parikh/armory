@@ -8,14 +8,14 @@ source_url: https://github.com/TraderAlice/OpenAlice
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 7270
+stars: 7292
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1138
-pushed_at: "2026-10-08T08:44:25Z"
+forks: 1143
+pushed_at: "2026-10-11T08:37:44Z"
 ---
 ## What it is
 Your one-person Wall Street. An AI trading agent covering equities, crypto, commodities, forex, and macro — from research through position entry, ongoing management, to exit.

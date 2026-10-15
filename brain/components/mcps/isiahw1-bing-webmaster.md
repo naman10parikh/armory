@@ -8,11 +8,11 @@ source_url: https://github.com/isiahw1/mcp-server-bing-webmaster
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 12
 pushed_at: "2026-02-10T01:42:33Z"
 ---
 ## What it is

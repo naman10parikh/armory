@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T01:55:57Z"
+pushed_at: "2026-10-15T01:53:49Z"
 ---
 ## What it is
 Enables MCP clients to read, search, create, update, and share collaborative documentation pages on the AgentDocs platform.

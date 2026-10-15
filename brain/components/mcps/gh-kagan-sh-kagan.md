@@ -8,12 +8,12 @@ source_url: https://github.com/kagan-sh/kagan
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 106
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-07-28T11:07:01Z"
+forks: 8
+pushed_at: "2026-10-15T10:37:11Z"
 ---
 ## What it is
 MCP server `Kagan`, catalogued on PulseMCP. Terminal Kanban board that orchestrates autonomous and pair-mode coding agents across 14 supported providers.

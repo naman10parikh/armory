@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-13T11:29:14Z"
+pushed_at: "2026-10-14T22:44:40Z"
 ---
 ## What it is
 Enables local load testing with k6/locust/native tools and cloud-based test management through the perfscale platform.

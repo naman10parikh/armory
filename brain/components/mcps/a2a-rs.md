@@ -14,7 +14,7 @@ verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, libraries]
 forks: 17
-pushed_at: "2026-10-01T18:59:52Z"
+pushed_at: "2026-10-15T10:40:29Z"
 ---
 ## What it is
 A2A Protocol implementation for Rust

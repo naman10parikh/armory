@@ -8,13 +8,13 @@ source_url: https://github.com/Hardik500/quick-commerce-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T10:06:51Z"
+pushed_at: "2026-10-13T05:08:23Z"
 ---
 ## What it is
 Aggregates quick commerce platforms like Zepto, Swiggy Instamart, and BigBasket for searching, comparing prices, and ordering through a single MCP interface.

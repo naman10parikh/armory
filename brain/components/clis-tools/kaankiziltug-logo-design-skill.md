@@ -8,13 +8,13 @@ source_url: https://github.com/kaankiziltug/logo-design-skill
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2624
+stars: 3405
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 185
+forks: 257
 pushed_at: "2026-09-30T18:16:50Z"
 ---
 ## What it is

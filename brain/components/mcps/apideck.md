@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-05T14:13:19Z"
+pushed_at: "2026-10-14T18:09:52Z"
 ---
 ## What it is
 MCP server `Apideck`, catalogued on PulseMCP. Unified API MCP — 229 tools across 200+ SaaS connectors for accounting, HRIS, CRM, and file storage.

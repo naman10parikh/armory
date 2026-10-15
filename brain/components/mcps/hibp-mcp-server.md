@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-07T07:36:10Z"
+pushed_at: "2026-10-14T03:20:34Z"
 ---
 ## What it is
 Enables querying Have I Been Pwned API for data breaches, passwords, and pastes via natural language.

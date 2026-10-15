@@ -8,12 +8,12 @@ source_url: https://github.com/lstudlo/ScholarMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 31
+stars: 32
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 6
 pushed_at: "2026-09-23T17:22:09Z"
 ---
 ## What it is

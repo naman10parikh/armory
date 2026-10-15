@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-29T16:39:02Z"
+pushed_at: "2026-10-12T23:36:33Z"
 ---
 ## What it is
 MCP server `CarsXE`, catalogued on PulseMCP. Vehicle data including VIN decoding, specs, history, images, recalls, and OBD codes.

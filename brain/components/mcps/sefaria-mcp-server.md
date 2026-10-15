@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-10-05T14:16:46Z"
+pushed_at: "2026-10-11T08:30:27Z"
 ---
 ## What it is
 Enables LLMs to access and search Jewish texts from the Sefaria library through 15 MCP tools, including text retrieval, search, and manuscript access.

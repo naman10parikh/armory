@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T12:27:11Z"
+pushed_at: "2026-10-09T07:13:03Z"
 ---
 ## What it is
 A real video editor for AI agents, served over MCP, enabling journaled timeline editing, rendering via FFmpeg/MLT, and deterministic CLI operation.

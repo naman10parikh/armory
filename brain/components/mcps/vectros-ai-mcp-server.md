@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T16:11:39Z"
+pushed_at: "2026-10-14T01:36:33Z"
 ---
 ## What it is
 MCP server for Vectros, a typed multi-tenant record store with hybrid search and citation-grounded RAG, enabling agents to query, search, and ask questions over their own indexed data.

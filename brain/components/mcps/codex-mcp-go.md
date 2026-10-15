@@ -8,7 +8,7 @@ source_url: https://github.com/w31r4/codex-mcp-go
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 52
+stars: 51
 eval_score: null
 verified_at: 2026-05-27
 related: []

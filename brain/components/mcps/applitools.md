@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-07T11:18:59Z"
+pushed_at: "2026-10-12T15:15:24Z"
 ---
 ## What it is
 MCP server `Applitools`, catalogued on PulseMCP. Create, update, and analyze visual tests using Applitools Eyes with Playwright integration.

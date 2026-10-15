@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-29T22:53:33Z"
+pushed_at: "2026-10-11T23:59:37Z"
 ---
 ## What it is
 MCP server for searching French and European law, providing natural language access to jurisprudence, consolidated legal texts, and related legal information via tools like search_decisions and search_legal_texts.

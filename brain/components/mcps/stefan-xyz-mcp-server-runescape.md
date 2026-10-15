@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, gaming]
 stars: 13
-forks: 5
+forks: 4
 pushed_at: "2026-02-26T23:25:59Z"
 ---
 ## What it is

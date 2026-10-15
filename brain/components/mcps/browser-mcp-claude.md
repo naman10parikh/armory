@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-21T08:03:23Z"
+pushed_at: "2026-10-11T15:14:28Z"
 ---
 ## What it is
 Enables remote browser automation via MCP, allowing models to open pages, read snapshots, click, fill, and select elements using Playwright, with built-in security restrictions against sensitive actions.

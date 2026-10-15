@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T02:34:46Z"
+pushed_at: "2026-10-11T15:08:37Z"
 ---
 ## What it is
 Provides AI agents with a human-inspired memory layer via MCP, enabling episodic and semantic memory recall, forgetting curves, consolidation, and contradiction detection. It integrates with MCP clients to offer local-first, dependency-free memory management.

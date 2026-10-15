@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-07T18:28:58Z"
+pushed_at: "2026-10-09T03:02:43Z"
 ---
 ## What it is
 Model Context Protocol server for pyCycle/OpenMDAO engine-cycle workflows, enabling lifecycle management, variable inspection, execution, sweeps, and integration with CPACS aircraft analysis pipelines.

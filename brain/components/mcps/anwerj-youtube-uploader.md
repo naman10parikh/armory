@@ -8,11 +8,11 @@ source_url: https://github.com/anwerj/youtube-uploader-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 57
+stars: 59
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 23
+forks: 24
 pushed_at: "2026-09-20T12:14:11Z"
 ---
 ## What it is

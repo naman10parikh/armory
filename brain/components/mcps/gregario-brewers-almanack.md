@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-05T13:07:33Z"
+pushed_at: "2026-10-12T13:59:14Z"
 ---
 ## What it is
 MCP server `Brewers Almanack`, catalogued on PulseMCP. Brewing knowledge reference covering beer styles, ingredients, off-flavour diagnosis, water chemistry, and recipe guidance.

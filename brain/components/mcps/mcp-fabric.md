@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T18:13:33Z"
+pushed_at: "2026-10-14T15:14:03Z"
 ---
 ## What it is
 MCP server for managing Microsoft Fabric notebooks and Dataflow Gen2 via the Fabric REST API. Supports reading, creating, updating, running, and deleting items within workspaces.

@@ -8,12 +8,12 @@ source_url: https://github.com/standardbeagle/agnt
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-03T17:24:15Z"
+pushed_at: "2026-10-14T19:14:13Z"
 ---
 ## What it is
 MCP server `agnt`, catalogued on PulseMCP. Browser instrumentation and development tooling with process management, reverse proxy, and frontend diagnostics

@@ -8,11 +8,11 @@ source_url: https://github.com/organicmoron/sp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 124
+stars: 125
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 28
+forks: 29
 pushed_at: "2025-07-15T18:45:45Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/iowarp/clio-kit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 25
-pushed_at: "2026-10-07T21:38:57Z"
+pushed_at: "2026-10-08T19:23:40Z"
 ---
 ## What it is
 MCP server `CLIO ADIOS`, catalogued on PulseMCP. Scientific data analysis for ADIOS2 BP5 files with metadata extraction and variable inspection.

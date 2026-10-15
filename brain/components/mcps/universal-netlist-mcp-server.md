@@ -8,13 +8,13 @@ source_url: https://github.com/IntelligentElectron/universal-netlist
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 50
+stars: 55
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-10-08T12:46:03Z"
+pushed_at: "2026-10-09T14:22:59Z"
 ---
 ## What it is
 This MCP server enables AI agents to understand and analyze electrical schematics from Cadence and Altium for comprehensive design reviews through natural conversations.

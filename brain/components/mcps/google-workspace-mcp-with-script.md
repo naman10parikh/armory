@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T04:48:03Z"
+pushed_at: "2026-10-13T06:48:53Z"
 ---
 ## What it is
 MCP server for Claude Code CLI that integrates with Google Workspace, enabling management of Docs, Sheets, Drive, Gmail, Calendar, and Apps Script.

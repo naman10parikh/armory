@@ -12,8 +12,8 @@ stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
-pushed_at: "2026-09-22T08:54:40Z"
+forks: 12
+pushed_at: "2026-10-14T16:51:25Z"
 ---
 ## What it is
 MCP server `Cloud Audit`, catalogued on PulseMCP. Open-source AWS security scanner with attack chain detection, breach cost estimation, and copy-paste remediation across 47 checks and 15 AWS resource types.

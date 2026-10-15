@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 2
+stars: 3
 forks: 1
-pushed_at: "2026-10-07T12:18:13Z"
+pushed_at: "2026-10-14T10:36:44Z"
 ---
 ## What it is
 MCP server for Atlassian Jira and Confluence with schema-validated Markdown↔ADF conversion. Catches content-model violations at conversion time rather than silently dropping ADF-only nodes like panels, mentions, and layouts.

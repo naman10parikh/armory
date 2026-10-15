@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-07T17:29:56Z"
+pushed_at: "2026-10-13T19:56:45Z"
 ---
 ## What it is
 MCP server `Flutterwave`, catalogued on PulseMCP. Integrates with Flutterwave's payment processing API to enable creating payment links, verifying transactions, and resending failed webhooks for seamless payment processing within conversations.

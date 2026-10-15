@@ -8,13 +8,13 @@ source_url: https://github.com/xDarkzx/SongForge-MCP
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-15T21:01:00Z"
+pushed_at: "2026-10-14T03:48:01Z"
 ---
 ## What it is
 Generates original AI music through Claude, powered by ACE-Step 1.5, running entirely on your local machine with no cloud dependency.

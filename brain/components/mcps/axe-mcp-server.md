@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-02T13:11:55Z"
+pushed_at: "2026-10-13T20:07:58Z"
 ---
 ## What it is
 MCP server `Axe DevTools`, catalogued on PulseMCP. Axe DevTools for Web accessibility testing.

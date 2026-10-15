@@ -8,13 +8,13 @@ source_url: https://github.com/StanimirTenev/qrp-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-08T04:42:18Z"
+pushed_at: "2026-10-13T09:22:31Z"
 ---
 ## What it is
 An MCP server that scans local codebases for quantum-vulnerable cryptography (secp256k1, Ed25519, RSA, etc.) and CI signing commands, classifying each finding as quantum-broken, post-quantum, or neither. It runs entirely locally with no network calls, providing a deterministic inventory for AI agent

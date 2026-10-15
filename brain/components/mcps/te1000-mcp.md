@@ -8,13 +8,13 @@ source_url: https://github.com/Edge-JB/tc1000-MCP-TC-4026
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-24T13:56:55Z"
+pushed_at: "2026-10-10T18:35:48Z"
 ---
 ## What it is
 MCP server for Beckhoff TwinCAT XAE / TE1000 Automation Interface, enabling control of XAE Shell, TwinCAT tree manipulation, PLC operations, and build actions via natural language.

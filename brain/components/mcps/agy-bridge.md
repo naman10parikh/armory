@@ -8,12 +8,12 @@ source_url: https://github.com/sshahzaiib/agy-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 56
+stars: 59
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
+forks: 13
 pushed_at: "2026-09-19T21:01:07Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T18:29:52Z"
+pushed_at: "2026-10-12T18:49:05Z"
 ---
 ## What it is
 FastMCP server exposing Wiswa settings discovery to AI assistants such as Claude Code, Cursor, and GitHub Copilot.

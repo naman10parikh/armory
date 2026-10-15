@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T13:33:05Z"
+pushed_at: "2026-10-13T07:54:28Z"
 ---
 ## What it is
 Connects MCP-compatible agents to Telegraph's network of AI miners, exposing inference tools with automatic x402 micropayments handled transparently.

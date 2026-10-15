@@ -8,11 +8,11 @@ source_url: https://github.com/aliyun/alibabacloud-dataworks-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 16
+forks: 17
 pushed_at: "2026-06-16T06:31:49Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/acedatacloud/sunomcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 64
+stars: 68
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-10-08T01:35:52Z"
+pushed_at: "2026-10-12T02:53:52Z"
 ---
 ## What it is
 MCP server `AceDataCloud Suno`, catalogued on PulseMCP. Suno AI music generation, lyrics, and covers through the AceDataCloud API platform.

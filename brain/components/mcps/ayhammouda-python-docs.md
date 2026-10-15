@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-05T20:19:00Z"
+pushed_at: "2026-10-12T20:10:43Z"
 ---
 ## What it is
 MCP server `Python Docs`, catalogued on PulseMCP. Local, read-only MCP retrieval over official Python standard library documentation across versions 3.10–3.14.

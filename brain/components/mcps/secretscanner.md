@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T13:33:31Z"
+pushed_at: "2026-10-10T13:34:38Z"
 ---
 ## What it is
 An MCP server for autonomous AI agents to scan and detect hardcoded secrets, API keys, and passwords in source code files.

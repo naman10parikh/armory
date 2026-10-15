@@ -8,7 +8,7 @@ source_url: https://github.com/non-npc/Vibe-Model-Context-Protocol-Server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []

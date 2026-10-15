@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-06T21:42:51Z"
+pushed_at: "2026-10-14T00:36:15Z"
 ---
 ## What it is
 MCP server `AIFP`, catalogued on PulseMCP. Database-driven FP enforcement and project management.

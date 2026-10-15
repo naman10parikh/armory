@@ -8,13 +8,13 @@ source_url: https://github.com/daltonnyx/swissknife
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 217
+stars: 218
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, communication-services]
 forks: 43
-pushed_at: "2026-10-08T07:55:37Z"
+pushed_at: "2026-10-15T08:27:05Z"
 ---
 ## What it is
 Chat application with multi-agents system supporting multiple models and MCP

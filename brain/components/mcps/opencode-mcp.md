@@ -8,12 +8,12 @@ source_url: https://github.com/AlaeddineMessadi/opencode-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 146
+stars: 149
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 25
+forks: 27
 pushed_at: "2026-09-18T06:55:49Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T17:26:21Z"
+pushed_at: "2026-10-12T10:20:20Z"
 ---
 ## What it is
 Free, source-linked research on U.S. judges and courts, including judicial profiles, biographies, courtroom rules, AI-abuse cases, and recent rule changes.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-31T09:56:24Z"
+pushed_at: "2026-10-09T06:48:09Z"
 ---
 ## What it is
 Enables interaction with the AccuKnox cloud security platform through MCP, allowing users to query cloud assets, vulnerabilities, and perform security analysis via natural language or API.

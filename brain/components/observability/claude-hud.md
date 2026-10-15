@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [ccstatusline, claude-code-statusline]
 tags: [statusline, observability]
-stars: 28401
-forks: 1312
-pushed_at: "2026-10-03T21:32:41Z"
+stars: 28544
+forks: 1329
+pushed_at: "2026-10-13T04:58:13Z"
 ---
 ## What it is
 A community statusline, catalogued in awesome-claude-code. A status line for Claude Code that shows context usage, tools, agents, to-dos and more. Highly configurable, and maintained when it was listed.

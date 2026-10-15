@@ -8,14 +8,14 @@ source_url: https://github.com/browser-use/browser-harness
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 18377
+stars: 18441
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1795
-pushed_at: "2026-10-09T06:16:16Z"
+forks: 1820
+pushed_at: "2026-10-15T01:52:09Z"
 ---
 ## What it is
 Browser Harness | Self-healing harness that enables LLMs to complete any task.

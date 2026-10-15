@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T01:43:29Z"
+pushed_at: "2026-10-11T02:07:55Z"
 ---
 ## What it is
 A simple MCP server that executes SQL queries on a MariaDB database using a YAML config file.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T06:55:42Z"
+pushed_at: "2026-10-12T20:50:20Z"
 ---
 ## What it is
 The control plane for AI prompts that scores, enforces policy, locks config, and audits every prompt decision.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-10-08T11:14:46Z"
+forks: 5
+pushed_at: "2026-10-15T11:43:34Z"
 ---
 ## What it is
 Audits Japanese construction and renovation estimates for overcharge. Fair price ranges by work type, red flag checks for sales tactics, and signed recomputable verdicts. Backed by the open JCCDB dataset (65,729 items, CC BY 4.0).

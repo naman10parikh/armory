@@ -8,12 +8,12 @@ source_url: https://github.com/nicholasglazer/gnosis-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
-pushed_at: "2026-09-25T18:40:48Z"
+forks: 11
+pushed_at: "2026-10-15T05:13:50Z"
 ---
 ## What it is
 MCP server `Gnosis`, catalogued on PulseMCP. Zero-config searchable documentation with SQLite or PostgreSQL storage.

@@ -8,7 +8,7 @@ source_url: https://github.com/AetherLabsAI/Video2World
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 113
+stars: 157
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11

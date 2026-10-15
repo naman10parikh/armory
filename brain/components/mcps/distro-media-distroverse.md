@@ -8,10 +8,12 @@ source_url: https://github.com/null/null
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: null
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-10-15T01:08:12Z"
 ---
 ## What it is
 MCP server `Distro Publisher`, catalogued on PulseMCP. Agentic press platform for managing publications, writing stories, and browsing content feeds.

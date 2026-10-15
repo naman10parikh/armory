@@ -8,13 +8,13 @@ source_url: https://github.com/jzhao234/big-brain
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T14:25:58Z"
+pushed_at: "2026-10-15T03:01:30Z"
 ---
 ## What it is
 Enables AI assistants to read and write to a personal knowledge vault of markdown notes, projects, and tasks, with tooling for search, capture, daily logs, and project management across different AI tools.

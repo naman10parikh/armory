@@ -13,7 +13,7 @@ related: []
 tags: [mcp, coding-agents]
 stars: 18
 forks: 10
-pushed_at: "2026-10-05T05:28:58Z"
+pushed_at: "2026-10-12T16:39:01Z"
 ---
 ## What it is
 A DeepSeek MCP-like Server for Terminal

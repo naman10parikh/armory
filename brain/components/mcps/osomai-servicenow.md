@@ -8,11 +8,11 @@ source_url: https://github.com/echelon-ai-labs/servicenow-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 303
+stars: 304
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 226
+forks: 228
 pushed_at: "2026-04-26T15:45:58Z"
 ---
 ## What it is

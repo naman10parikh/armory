@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T12:37:58Z"
+pushed_at: "2026-10-13T09:40:21Z"
 ---
 ## What it is
 Bridges Gitee, China's largest code hosting platform, to MCP for exploring trending repos, searching users/repos, and translating Chinese content with a local LLM.

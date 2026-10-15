@@ -8,13 +8,13 @@ source_url: https://github.com/google-research/camel-prompt-injection
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 405
+stars: 406
 eval_score: null
 mentions: 3
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 58
+forks: 61
 pushed_at: "2025-06-20T13:59:30Z"
 ---
 ## What it is

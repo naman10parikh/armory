@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-29T15:59:51Z"
+pushed_at: "2026-10-11T09:06:42Z"
 ---
 ## What it is
 MCP server enabling real-time communication, task delegation, and acknowledgment among multiple AI agents through a single local endpoint.

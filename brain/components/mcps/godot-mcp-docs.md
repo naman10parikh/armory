@@ -8,7 +8,7 @@ source_url: https://github.com/Nihilantropy/godot-mcp-docs
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 74
+stars: 73
 eval_score: null
 verified_at: 2026-05-27
 related: []

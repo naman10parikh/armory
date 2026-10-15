@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-08T13:22:08Z"
+pushed_at: "2026-10-10T23:18:16Z"
 ---
 ## What it is
 Exposes French political data from Poligraph as MCP tools, allowing journalists and citizens to query politicians, votes, fact-checks, elections, and more via natural language.

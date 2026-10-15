@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T09:13:13Z"
+pushed_at: "2026-10-10T05:53:42Z"
 ---
 ## What it is
 Enables AI systems to interact with TAK Server for geospatial operations, real-time event handling, and mission management through natural language.

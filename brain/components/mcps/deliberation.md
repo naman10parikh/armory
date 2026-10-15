@@ -8,13 +8,13 @@ source_url: https://github.com/antonbabenko/deliberation
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 169
+stars: 172
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 11
-pushed_at: "2026-10-08T13:32:19Z"
+pushed_at: "2026-10-15T10:41:42Z"
 ---
 ## What it is
 Ask Codex, Gemini, Grok, and 400+ OpenRouter models (Qwen, Kimi, DeepSeek) for second opinions or arbiter-mediated consensus. One MCP server for Claude Code, Codex, Cursor, Kiro, OpenCode. Measures which models earn their seat.

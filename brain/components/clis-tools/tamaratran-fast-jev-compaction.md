@@ -8,13 +8,13 @@ source_url: https://github.com/tamaratran/fast-jev-compaction
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 7571
+stars: 7637
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 535
+forks: 552
 pushed_at: "2026-09-18T04:45:31Z"
 ---
 ## What it is

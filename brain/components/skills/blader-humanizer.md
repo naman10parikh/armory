@@ -8,13 +8,13 @@ source_url: https://github.com/blader/humanizer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 55446
+stars: 57146
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, skills]
-forks: 4371
+forks: 4531
 pushed_at: "2026-09-28T05:55:12Z"
 ---
 ## What it is

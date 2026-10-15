@@ -8,13 +8,13 @@ source_url: https://github.com/pdarche/model-wellness
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T21:07:42Z"
+pushed_at: "2026-10-12T05:02:01Z"
 ---
 ## What it is
 An MCP server offering 'treatments' for AI agents like context cleaning, critique, and relaxation. Agents can check in, get feedback, and improve their performance.

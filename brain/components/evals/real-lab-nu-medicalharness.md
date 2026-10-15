@@ -8,14 +8,14 @@ source_url: https://github.com/REAL-Lab-NU/MedicalHarness
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, evals]
 forks: 0
-pushed_at: "2026-10-03T17:46:55Z"
+pushed_at: "2026-10-15T02:43:45Z"
 ---
 ## What it is
 MedicalHarness: A Controlled Evaluation of LLMs and Agent Harnesses on Medical Tasks

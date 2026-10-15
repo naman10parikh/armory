@@ -8,12 +8,12 @@ source_url: https://github.com/tencent/cls-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-09-10T06:04:07Z"
+pushed_at: "2026-10-12T03:34:24Z"
 ---
 ## What it is
 MCP server `Tencent Cloud Log Service`, catalogued on PulseMCP. Search logs, query metrics with PromQL, and manage alarms in Tencent Cloud Log Service.

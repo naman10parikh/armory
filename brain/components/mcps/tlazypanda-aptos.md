@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2025-03-24T13:56:40Z"
+pushed_at: "2026-10-10T05:07:29Z"
 ---
 ## What it is
 MCP server `Aptos`, catalogued on PulseMCP. Integrates with the Aptos blockchain ecosystem to enable smart contract development, testing, and deployment through natural language interactions for generating components, managing projects, and automating gas station creation

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-09-29T23:10:13Z"
+pushed_at: "2026-10-10T20:22:33Z"
 ---
 ## What it is
 Access Korea's national tax law information system to search rulings, precedents, statutes, and more using natural language queries via Claude.

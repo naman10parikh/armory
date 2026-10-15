@@ -8,11 +8,11 @@ source_url: https://github.com/mxiris-reverse-engineering/ida-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 549
+stars: 548
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 58
+forks: 59
 pushed_at: "2025-05-29T09:58:03Z"
 ---
 ## What it is

@@ -8,11 +8,11 @@ source_url: https://github.com/chy168/google-chat-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 6
 pushed_at: "2026-09-09T16:01:30Z"
 ---
 ## What it is

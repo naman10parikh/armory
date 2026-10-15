@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-07T17:47:22Z"
+pushed_at: "2026-10-11T05:03:46Z"
 ---
 ## What it is
 MCP server `WorkBoard by crunchtools`, catalogued on PulseMCP. Manages WorkBoard OKR objectives, key results, users, and workstreams.

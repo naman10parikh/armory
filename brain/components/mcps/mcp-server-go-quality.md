@@ -8,13 +8,13 @@ source_url: https://github.com/afshinator/mcp-server-go-quality
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T21:28:45Z"
+pushed_at: "2026-10-14T18:07:52Z"
 ---
 ## What it is
 One MCP server for golangci-lint, govulncheck, and nilaway — a unified Diagnostic\[] array with consistent file:line:column navigation, parallel execution, and zero-config auto-install - for golang development.

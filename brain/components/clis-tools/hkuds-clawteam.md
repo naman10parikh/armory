@@ -8,13 +8,13 @@ source_url: https://github.com/HKUDS/ClawTeam
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 5537
+stars: 5535
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 765
+forks: 767
 pushed_at: "2026-05-09T07:25:56Z"
 ---
 ## What it is

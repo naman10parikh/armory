@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T21:43:43Z"
+pushed_at: "2026-10-12T01:22:33Z"
 ---
 ## What it is
 Read-only access to TrailWeights' ultralight gear corpus — verified weights, creator video reviews, pack templates, and semantic gear search. Auth: none.

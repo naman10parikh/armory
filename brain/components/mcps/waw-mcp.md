@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-16T10:21:00Z"
+pushed_at: "2026-10-09T23:38:26Z"
 ---
 ## What it is
 Gives AI agents a real email identity, OTP reading, autonomous signup, and MCP server registry via a single stdio MCP connection.
