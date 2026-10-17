@@ -8,12 +8,12 @@ source_url: https://github.com/ictinnovations/pbx-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
+forks: 14
 pushed_at: "2026-10-09T04:56:05Z"
 ---
 ## What it is

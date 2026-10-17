@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-07T07:09:30Z"
+pushed_at: "2026-10-17T06:46:25Z"
 ---
 ## What it is
 Enables management of e-signature envelopes — create, check status, list, send reminders, and void — through natural language.

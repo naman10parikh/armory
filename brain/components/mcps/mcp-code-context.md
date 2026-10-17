@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-17T21:47:57Z"
+pushed_at: "2026-10-12T19:03:23Z"
 ---
 ## What it is
 Enables LLMs to efficiently read, write, and refactor code using precise AST-based operations, reducing token usage and context window waste.

@@ -1,0 +1,7 @@
+{
+  "name": "wellness-pulse",
+  "description": "Wellness Pulse MCP is a plug-and-play intelligence layer that transforms raw wellbeing data into clear, actionable insights for AI systems. With a single integration, your copilots, agents, and dashboards gain access to trusted public benchmarks (CDC PLACES) and live institutional wellness signals —",
+  "source_repo": "",
+  "source_url": "https://wpulse.org/mcp-wellpulse.html",
+  "install": "# git clone --depth 1 https://wpulse.org/mcp-wellpulse.html\n# See source for mcpServers config block"
+}

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T14:23:28Z"
+pushed_at: "2026-10-13T16:04:42Z"
 ---
 ## What it is
 MCP server that enables AI agents to parse, validate, and reverse ISO 20022 bank statements, with tools for discovering message types and return reasons.

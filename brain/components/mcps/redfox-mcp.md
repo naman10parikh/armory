@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-09T02:32:33Z"
+pushed_at: "2026-10-15T08:46:20Z"
 ---
 ## What it is
 Provides 40 MCP tools for searching and retrieving content from six major platforms (Douyin, Xiaohongshu, WeChat, Bilibili, Toutiao, TikTok) along with AI search and image/video generation via RedFoxHub's API.

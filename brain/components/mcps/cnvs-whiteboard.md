@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-20T09:57:44Z"
+pushed_at: "2026-10-12T07:22:11Z"
 ---
 ## What it is
 MCP server `CNVS Whiteboard`, catalogued on PulseMCP. Zero-auth real-time collaborative whiteboard with AI agent support for live board editing and annotation.

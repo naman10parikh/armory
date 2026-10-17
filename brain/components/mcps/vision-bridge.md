@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-07T20:36:34Z"
+pushed_at: "2026-10-15T19:58:51Z"
 ---
 ## What it is
 A single MCP server that lets any agent see and act on the screen across native desktop apps, Electron/Chromium windows, and the browser undetected, providing four tools (capture, act, find, wait_for) for UI interaction via structured text.

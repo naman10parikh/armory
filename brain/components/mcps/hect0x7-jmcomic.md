@@ -8,12 +8,12 @@ source_url: https://github.com/hect0x7/jmcomic-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 113
+stars: 116
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-09-29T11:11:23Z"
+pushed_at: "2026-10-16T03:57:02Z"
 ---
 ## What it is
 MCP server `JMComic`, catalogued on PulseMCP. Integrates with JMComic platforms for manga searching, downloading, and collection management with batch operations and PDF generation.

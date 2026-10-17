@@ -8,12 +8,12 @@ source_url: https://github.com/tsuru0805/engawa-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 43
+stars: 53
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 5
 pushed_at: "2026-10-01T17:26:20Z"
 ---
 ## What it is

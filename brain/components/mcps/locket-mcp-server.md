@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 16
-pushed_at: "2026-09-12T22:30:14Z"
+pushed_at: "2026-10-14T18:41:37Z"
 ---
 ## What it is
 Enables interaction with a read-later and link sharing social feed app, allowing users to manage links, bookmarks, and share through web, API, and MCP.

@@ -8,11 +8,11 @@ source_url: https://github.com/mukul975/cve-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1622
+stars: 1625
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 268
+forks: 269
 pushed_at: "2026-10-01T07:11:17Z"
 ---
 ## What it is

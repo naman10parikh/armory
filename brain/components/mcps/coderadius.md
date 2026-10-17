@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-20T07:14:22Z"
+pushed_at: "2026-10-15T10:57:24Z"
 ---
 ## What it is
 Enables AI agents to query architecture context, data contracts, and blast radius to prevent cross-repo architectural breakage before merging.

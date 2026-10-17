@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T14:19:07Z"
+pushed_at: "2026-10-16T21:55:10Z"
 ---
 ## What it is
 MCP server for creating and managing SOPS-encrypted secret files using age encryption, enabling AI agents to generate and manage secrets without ever seeing plaintext values.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-11T21:01:13Z"
+pushed_at: "2026-10-15T17:11:21Z"
 ---
 ## What it is
 MCP server exposing Windows desktop UI Automation as tools for AI agents, enabling automated interaction with Windows applications via Appium.

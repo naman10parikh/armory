@@ -8,11 +8,11 @@ source_url: https://github.com/yctimlin/mcp_excalidraw
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2525
+stars: 2546
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 283
+forks: 285
 pushed_at: "2026-10-09T16:46:29Z"
 ---
 ## What it is

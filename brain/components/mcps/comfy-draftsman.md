@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-04T00:14:05Z"
+pushed_at: "2026-10-17T03:18:03Z"
 ---
 ## What it is
 The MCP server that drafts ComfyUI workflows a human can actually read. It lets coding agents build, repair, port, validate, and run ComfyUI workflows against your own ComfyUI instance, delivering clean, organized, fully-labeled workflows.

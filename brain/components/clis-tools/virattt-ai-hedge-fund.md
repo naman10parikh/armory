@@ -8,13 +8,13 @@ source_url: https://github.com/virattt/ai-hedge-fund
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 63929
+stars: 64057
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 11226
+forks: 11244
 pushed_at: "2026-10-02T14:19:04Z"
 ---
 ## What it is

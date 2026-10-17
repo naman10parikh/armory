@@ -8,12 +8,12 @@ source_url: https://github.com/0xmassi/webclaw
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2372
+stars: 2381
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 236
-pushed_at: "2026-09-23T08:10:19Z"
+forks: 241
+pushed_at: "2026-10-16T15:07:37Z"
 ---
 ## What it is
 MCP server `Webclaw`, catalogued on PulseMCP. Web extraction engine for LLMs with TLS fingerprinting to bypass bot detection, delivering clean markdown output.

@@ -14,7 +14,7 @@ verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, blogging-content]
 forks: 0
-pushed_at: "2026-07-26T19:53:45Z"
+pushed_at: "2026-10-12T09:20:23Z"
 ---
 ## What it is
 Personal developer portfolio with A2A integration

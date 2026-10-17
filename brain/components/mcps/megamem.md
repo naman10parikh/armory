@@ -8,13 +8,13 @@ source_url: https://github.com/C-Bjorn/MegaMem
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 81
+stars: 82
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 12
-pushed_at: "2026-07-23T21:30:26Z"
+pushed_at: "2026-10-13T14:50:38Z"
 ---
 ## What it is
 Syncs Obsidian notes into a temporal knowledge graph and exposes 23 MCP tools for AI assistants to read, search, and write to your vault, enabling persistent memory across conversations.

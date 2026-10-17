@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T16:26:10Z"
+pushed_at: "2026-10-16T18:25:18Z"
 ---
 ## What it is
 A standalone memory service that provides a unified, pull-based knowledge store for AI agents, enabling shared memory and skills across multiple AI clients via MCP.

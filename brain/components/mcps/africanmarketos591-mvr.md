@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T19:24:49Z"
+pushed_at: "2026-10-17T09:47:56Z"
 ---
 ## What it is
 MCP server `MVR API`, catalogued on PulseMCP. Minimum Viable Relationships API — relational-readiness tools for high-context market decisions in African and emerging markets.

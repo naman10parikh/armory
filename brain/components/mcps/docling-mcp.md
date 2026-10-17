@@ -8,13 +8,13 @@ source_url: https://github.com/docling-project/docling-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 769
+stars: 774
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 143
-pushed_at: "2026-10-06T12:22:12Z"
+forks: 144
+pushed_at: "2026-10-14T14:16:29Z"
 ---
 ## What it is
 Provides tools for document conversion, processing, and generation, enabling PDF to structured JSON conversion, document creation, and caching for improved performance.

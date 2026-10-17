@@ -8,12 +8,12 @@ source_url: https://github.com/acedatacloud/midjourneymcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-10-08T01:36:38Z"
+forks: 1
+pushed_at: "2026-10-12T02:54:19Z"
 ---
 ## What it is
 MCP server `AceDataCloud Midjourney`, catalogued on PulseMCP. Midjourney AI image generation and editing through the AceDataCloud API platform.

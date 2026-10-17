@@ -8,11 +8,11 @@ source_url: https://github.com/veenastudio/flstudio-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 106
+stars: 107
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 10
 pushed_at: "2025-07-08T07:31:56Z"
 ---
 ## What it is

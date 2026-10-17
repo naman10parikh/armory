@@ -58,6 +58,8 @@ found + fixed an "an component" grammar bug (8a6ad38b), now regression-guarded b
 - [ ] **A1** When U1 clears: confirm a real `claude -p` run produces a new `ingest/crawl-<name>.mjs` + `incoming/<name>/` stubs that pass the gate.
 - [ ] **A2** Add a weekly "deep POR" (broader research: read repos/status.json staleness, propose enrichment, not just new sources).
 - [ ] **A3** Upload `/tmp/discovery.log` as a workflow artifact so every nightly Claude-Code run is inspectable.
+- [x] **A4** (2026-10-17 POR) New source `ingest/crawl-guardrails.mjs` → 22 runtime guardrail / AI-security frameworks (NeMo Guardrails, Guardrails AI, LLM Guard, Rebuff, garak, PyRIT, Presidio, Detoxify, WildGuard, AgentDojo, …) as type `evals`, emitting to disjoint `incoming/guardrails/`. Fills a real gap: the `evals` list was benchmark-heavy with zero I/O-validation / prompt-injection / red-team tooling. Self-validated + gate PASS (L1 0 / L2 0 over 22). Zero slug collision with existing evals.
+- [ ] **A5** Next novel crawl candidate (found, deferred this run): vector / retrieval databases (Pinecone, Weaviate, Qdrant, Milvus, Chroma, pgvector, LanceDB, Vespa, Marqo) → the retrieval substrate for agent memory/RAG, uncovered by both the infra (compute/sandbox) and memory (framework) lists. Map to `infrastructure` or `memory`.
 
 ## Track B — Testing pyramid + gates (HMLC + agentic + LLM-council), wired into CI
 Current: `ingest/test-pyramid.test.mjs` (L1 unit + contract + chaos) + `ingest/test-gate.mjs` (Hamel L1+L2) + `armory-mcp` vitest, all gated in `ci.yml` (+ catalog-freshness, folded in from the retired catalog.yml). **Nothing ships until it passes.** Expand toward the full pyramid:

@@ -8,11 +8,11 @@ source_url: https://github.com/saidsurucu/yokatlas-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 71
+stars: 73
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
+forks: 11
 pushed_at: "2026-07-23T16:38:42Z"
 ---
 ## What it is

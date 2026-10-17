@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-15T16:58:31Z"
+pushed_at: "2026-10-17T00:36:34Z"
 ---
 ## What it is
 Marketing analytics MCP server with 21 tools for SEO, keyword research, backlinks, competitors, content audits, page speed, and Google Search Console data.

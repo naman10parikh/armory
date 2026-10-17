@@ -8,13 +8,13 @@ source_url: https://github.com/quantidexyz/openllmc
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T20:53:14Z"
+pushed_at: "2026-10-17T05:41:24Z"
 ---
 ## What it is
 Unified MCP server exposing the full OpenLLM gateway API (one tool per operation), semantic code/docs search, and cross-session memory.

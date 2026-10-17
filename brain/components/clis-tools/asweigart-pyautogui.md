@@ -8,13 +8,13 @@ source_url: https://github.com/asweigart/pyautogui
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 12733
+stars: 12731
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1433
+forks: 1436
 pushed_at: "2024-08-20T18:34:57Z"
 ---
 ## What it is

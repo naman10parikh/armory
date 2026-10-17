@@ -8,13 +8,13 @@ source_url: https://github.com/swnotmetal/Project-Koma
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-10T21:32:39Z"
+pushed_at: "2026-10-13T02:16:04Z"
 ---
 ## What it is
 Blocks prompt injection, jailbreaks, and out-of-scope input before an AI agent acts. classify_input tool, stdio transport.

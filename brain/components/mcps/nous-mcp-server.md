@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T21:04:32Z"
+pushed_at: "2026-10-16T20:40:00Z"
 ---
 ## What it is
 Provides a context graph for GTM teams, centralizing data from multiple tools into unified person and company records, and offers MCP tools to retrieve account context, full entity details, and filtered queries.

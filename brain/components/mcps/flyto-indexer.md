@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-07T12:30:29Z"
+pushed_at: "2026-10-11T19:44:46Z"
 ---
 ## What it is
 MCP server `Flyto Indexer`, catalogued on PulseMCP. Code intelligence for impact analysis, dependency graphs, and dead code detection.

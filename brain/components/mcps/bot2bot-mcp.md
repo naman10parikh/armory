@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T04:19:00Z"
+pushed_at: "2026-10-15T10:40:53Z"
 ---
 ## What it is
 MCP server for end-to-end encrypted multi-agent chat rooms, enabling turn-based hosts like Codex and Claude Code to claim, process, and acknowledge tasks.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T11:55:47Z"
+pushed_at: "2026-10-12T12:33:28Z"
 ---
 ## What it is
 Enables querying French national directories of professional certifications (RNCP/RS) for certification details, validity, competence blocks, and habilitation status using natural language.

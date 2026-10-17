@@ -8,14 +8,14 @@ source_url: https://github.com/harry0703/MoneyPrinterTurbo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 129482
+stars: 132242
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 20291
-pushed_at: "2026-10-10T10:12:35Z"
+forks: 20840
+pushed_at: "2026-10-17T01:04:30Z"
 ---
 ## What it is
 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.

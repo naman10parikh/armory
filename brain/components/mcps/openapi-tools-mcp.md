@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T08:19:42Z"
+pushed_at: "2026-10-11T13:45:33Z"
 ---
 ## What it is
 Enables inspecting local OpenAPI specification files by listing and retrieving spec details with filters and $ref resolution.

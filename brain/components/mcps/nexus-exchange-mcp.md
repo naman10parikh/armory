@@ -8,13 +8,13 @@ source_url: https://github.com/nexus-xyz/nexus-exchange-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-09T20:28:27Z"
+pushed_at: "2026-10-16T19:12:55Z"
 ---
 ## What it is
 An MCP server that exposes the Nexus Exchange API as tools an AI agent can call to read market data and place trades.

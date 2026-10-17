@@ -8,13 +8,13 @@ source_url: https://github.com/nickatnight96/iphone-mirror-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-10-10T11:13:18Z"
+forks: 2
+pushed_at: "2026-10-17T05:29:35Z"
 ---
 ## What it is
 An MCP server that lets LLMs drive a real iPhone through macOS iPhone Mirroring, with tools for screen capture, OCR, taps, typing, and Xcode build/test/install automation.

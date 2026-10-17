@@ -8,14 +8,14 @@ source_url: https://github.com/excalidraw/excalidraw
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 133615
+stars: 134032
 eval_score: null
 mentions: 2
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 15632
-pushed_at: "2026-10-10T21:34:02Z"
+forks: 15703
+pushed_at: "2026-10-15T09:11:06Z"
 ---
 ## What it is
 Virtual whiteboard for sketching hand-drawn like diagrams

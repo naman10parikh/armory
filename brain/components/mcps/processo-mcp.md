@@ -8,11 +8,13 @@ source_url: https://github.com/fxbarros/MCP-Processo
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T22:13:25Z"
 ---
 ## What it is
 MCP server for handling large PDF legal documents (PJe, SEI) on macOS, providing local OCR, hybrid BM25+dense search, visual indexing, and citation validation.

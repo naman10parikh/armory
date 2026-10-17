@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T14:39:40Z"
+pushed_at: "2026-10-13T13:49:29Z"
 ---
 ## What it is
 Connects Claude to the campaign's LegendKeeper wiki, allowing interaction with campaign resources, charter, and planned tools for NPCs and locations.

@@ -8,13 +8,13 @@ source_url: https://github.com/Dataojitori/nocturne_memory
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1389
+stars: 1394
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 171
+forks: 185
 pushed_at: "2026-09-22T20:13:39Z"
 ---
 ## What it is

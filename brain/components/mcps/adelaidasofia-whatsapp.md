@@ -8,12 +8,12 @@ source_url: https://github.com/adelaidasofia/whatsapp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-10-07T06:38:21Z"
+pushed_at: "2026-10-15T16:36:02Z"
 ---
 ## What it is
 MCP server `WhatsApp (adelaidasofia)`, catalogued on PulseMCP. WhatsApp MCP with SQLCipher-encrypted storage, scrubber CI, draft-and-confirm sends, and voice transcription.

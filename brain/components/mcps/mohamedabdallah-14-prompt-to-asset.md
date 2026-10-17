@@ -8,12 +8,12 @@ source_url: https://github.com/mohamedabdallah-14/prompt-to-asset
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-08T05:09:28Z"
+pushed_at: "2026-10-17T02:07:02Z"
 ---
 ## What it is
 MCP server `Prompt to Asset`, catalogued on PulseMCP. Generates validated, ship-ready logo, icon, and image asset bundles from text prompts using 60+ AI models.

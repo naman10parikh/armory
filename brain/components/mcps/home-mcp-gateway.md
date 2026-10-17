@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-20T11:01:27Z"
+pushed_at: "2026-10-15T11:46:14Z"
 ---
 ## What it is
 A local MCP gateway that provides image generation and editing tools via external APIs (e.g., DALL-E) and local ComfyUI workflows, with authentication and policy enforcement.

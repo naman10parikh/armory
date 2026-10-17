@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T15:54:58Z"
+pushed_at: "2026-10-12T03:22:10Z"
 ---
 ## What it is
 Provides AI assistants with direct access to your ebook library, enabling listing books, reading chapters, and searching across books via the Model Context Protocol.

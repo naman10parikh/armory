@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-03T12:47:58Z"
+pushed_at: "2026-10-14T13:04:17Z"
 ---
 ## What it is
 Open-source TypeScript MCP server template with Streamable HTTP transport, Bearer auth, and prompt-injection containment, plus a client SDK for Onplana's hosted MCP endpoint.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 19
-pushed_at: "2026-09-22T08:34:03Z"
+pushed_at: "2026-10-14T02:18:02Z"
 ---
 ## What it is
 MCP server for searching, comparing, and booking hotels globally, with live rates and over 2 million properties, powered by DIDA.

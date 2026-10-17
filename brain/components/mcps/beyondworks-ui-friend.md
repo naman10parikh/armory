@@ -8,11 +8,11 @@ source_url: https://github.com/beyondworks/ui-inspector
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
+forks: 18
 pushed_at: "2026-07-10T07:52:27Z"
 ---
 ## What it is

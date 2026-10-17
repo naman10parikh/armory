@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T01:01:36Z"
+pushed_at: "2026-10-12T19:33:29Z"
 ---
 ## What it is
 MCP server for Yandex Wiki with full-text search. Read and write pages, comments, attachments, and dynamic tables (grids); optional server-side read-only mode for agents. Docker-ready.

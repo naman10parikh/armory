@@ -8,12 +8,12 @@ source_url: https://github.com/delorenj/mcp-server-trello
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 445
+stars: 446
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 147
-pushed_at: "2026-09-23T19:51:44Z"
+forks: 148
+pushed_at: "2026-10-15T16:35:44Z"
 ---
 ## What it is
 MCP server `Trello`, catalogued on PulseMCP. Enables Trello board interactions for task and project management using the Trello REST API.

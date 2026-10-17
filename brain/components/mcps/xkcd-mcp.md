@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-02T12:57:12Z"
+pushed_at: "2026-10-13T09:57:13Z"
 ---
 ## What it is
 MCP server to fetch xkcd comics (latest, random, by number, search) and display them with rich in-chat previews via the official JSON API and explainxkcd semantic search.

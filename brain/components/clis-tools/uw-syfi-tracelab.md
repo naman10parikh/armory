@@ -8,14 +8,14 @@ source_url: https://github.com/uw-syfi/TraceLab
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 142
+stars: 149
 eval_score: 1
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 22
-pushed_at: "2026-08-22T08:02:11Z"
+forks: 23
+pushed_at: "2026-10-15T10:50:51Z"
 ---
 ## What it is
 An open toolkit and public dataset hub for collecting, sanitizing, analyzing, and visualizing coding agent traces.

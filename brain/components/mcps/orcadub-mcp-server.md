@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T12:04:31Z"
+pushed_at: "2026-10-15T12:04:39Z"
 ---
 ## What it is
 Enables AI video dubbing from any MCP-capable agent: upload a video or provide a URL, submit a dubbing job, poll progress, and download the finished MP4.

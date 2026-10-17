@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-11T19:07:20Z"
+pushed_at: "2026-10-12T09:01:45Z"
 ---
 ## What it is
 Connects AI assistants to Arvo fitness coach for tracking workouts, PRs, body progress, and training splits through natural conversation.

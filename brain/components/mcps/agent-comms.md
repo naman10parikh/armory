@@ -8,12 +8,12 @@ source_url: https://github.com/ExaDev/agent-comms
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 29
+stars: 31
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
+forks: 10
 pushed_at: "2026-10-10T16:51:11Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-08T08:05:48Z"
+pushed_at: "2026-10-16T01:10:57Z"
 ---
 ## What it is
 Naver Search API + Datalab API MCP server with 19 tools for Korean web search and trend analysis.

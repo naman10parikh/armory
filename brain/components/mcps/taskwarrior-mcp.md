@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-04T16:32:39Z"
+pushed_at: "2026-10-11T16:33:01Z"
 ---
 ## What it is
 Enables natural language interaction with Taskwarrior tasks through the MCP. Supports project-scoped task management including adding, searching, modifying, completing, and annotating tasks.

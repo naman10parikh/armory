@@ -8,11 +8,11 @@ source_url: https://github.com/mikusnuz/meta-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 12
 pushed_at: "2026-10-08T10:00:16Z"
 ---
 ## What it is

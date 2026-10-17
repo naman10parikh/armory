@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T21:43:15Z"
+pushed_at: "2026-10-12T22:14:21Z"
 ---
 ## What it is
 Shared memory layer for AI coding agents to store and recall learned information across sessions and tools.

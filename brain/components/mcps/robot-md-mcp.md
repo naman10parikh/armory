@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-11T01:33:19Z"
+pushed_at: "2026-10-12T23:29:52Z"
 ---
 ## What it is
 A one-command MCP server that bridges a ROBOT.md file to any MCP-aware agent, exposing structured robot manifest resources and validation tools without configuration.

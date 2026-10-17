@@ -8,11 +8,11 @@ source_url: https://github.com/officemcp/officemcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 121
+stars: 123
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
+forks: 19
 pushed_at: "2025-05-28T19:12:56Z"
 ---
 ## What it is

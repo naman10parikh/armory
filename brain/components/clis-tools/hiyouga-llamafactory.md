@@ -8,13 +8,13 @@ source_url: https://github.com/hiyouga/LlamaFactory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 75403
+stars: 75533
 eval_score: 1
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 9240
+forks: 9257
 pushed_at: "2026-10-10T07:29:23Z"
 ---
 ## What it is

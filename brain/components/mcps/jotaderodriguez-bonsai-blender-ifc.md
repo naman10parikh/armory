@@ -8,11 +8,11 @@ source_url: https://github.com/jotaderodriguez/bonsai_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 66
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 23
+forks: 25
 pushed_at: "2026-09-06T16:31:07Z"
 ---
 ## What it is

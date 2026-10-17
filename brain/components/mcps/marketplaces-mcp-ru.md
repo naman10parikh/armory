@@ -8,12 +8,12 @@ source_url: https://github.com/ilyautov/marketplaces-mcp-ru
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 43
+stars: 51
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
+forks: 13
 pushed_at: "2026-10-07T09:36:43Z"
 ---
 ## What it is

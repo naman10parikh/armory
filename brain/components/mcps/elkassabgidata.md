@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T03:35:26Z"
+pushed_at: "2026-10-12T00:02:17Z"
 ---
 ## What it is
 Provides AI assistants with direct access to economic statistics, high-frequency US equity bars, and patent/innovation measures, enabling search, metadata retrieval, and data download through MCP tools.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T23:45:42Z"
+pushed_at: "2026-10-14T22:11:03Z"
 ---
 ## What it is
 Provides access to Ukraine's public procurement data (ProZorro) via MCP, keyless and integrated with Pipeworx gateway for AI agents.

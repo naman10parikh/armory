@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-05T07:21:03Z"
+pushed_at: "2026-10-17T01:45:14Z"
 ---
 ## What it is
 MCP server `MCP Server Attestation`, catalogued on PulseMCP. Harden MCP servers with Ed25519-signed tool manifests, runtime spawn attestation, and default-deny argument sanitization against supply-chain attacks.

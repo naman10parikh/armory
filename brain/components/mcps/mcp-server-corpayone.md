@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T09:45:19Z"
+pushed_at: "2026-10-13T08:55:38Z"
 ---
 ## What it is
 Enables managing Corpay One accounts-payable workflows including expense listing, coding, and policy-controlled writes, with read-only defaults and audit logging.

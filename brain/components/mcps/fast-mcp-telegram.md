@@ -8,12 +8,12 @@ source_url: https://github.com/leshchenko1979/fast-mcp-telegram
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 48
+stars: 49
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 16
+forks: 17
 pushed_at: "2026-10-06T20:15:52Z"
 ---
 ## What it is

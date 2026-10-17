@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
-stars: 7
+stars: 8
 forks: 5
-pushed_at: "2026-08-04T04:21:06Z"
+pushed_at: "2026-10-13T01:52:05Z"
 ---
 ## What it is
 MCP server for Binance USDT-M Futures trading — exposes tools for market data, account state, order management, and position/margin control.

@@ -8,12 +8,12 @@ source_url: https://github.com/ccdejene/fotmob-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-06-29T19:33:01Z"
 ---
 ## What it is

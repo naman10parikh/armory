@@ -8,12 +8,12 @@ source_url: https://github.com/cwinvestments/memstack
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 424
+stars: 425
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 45
+forks: 46
 pushed_at: "2026-09-26T19:30:36Z"
 ---
 ## What it is

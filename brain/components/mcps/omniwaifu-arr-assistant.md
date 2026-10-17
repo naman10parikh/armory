@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-08T18:54:08Z"
+pushed_at: "2026-10-15T19:22:33Z"
 ---
 ## What it is
 MCP server `Arr Assistant (Radarr/Sonarr)`, catalogued on PulseMCP. Integrates with Radarr and Sonarr media management systems to search movies and TV shows, add content with automatic root folder detection, and monitor server connectivity for streamlined home media automation.

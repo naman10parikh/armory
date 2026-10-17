@@ -8,12 +8,12 @@ source_url: https://github.com/surisoft-io/capi-core
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-06T07:59:04Z"
+pushed_at: "2026-10-13T14:28:02Z"
 ---
 ## What it is
 MCP server `CAPI Gateway`, catalogued on PulseMCP. Apache Camel API gateway with REST-to-MCP bridging for LLM agent integration.

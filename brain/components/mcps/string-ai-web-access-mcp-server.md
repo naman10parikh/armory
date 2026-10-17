@@ -8,13 +8,13 @@ source_url: https://github.com/usestring/string-ai-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-08T18:21:34Z"
+pushed_at: "2026-10-13T11:56:29Z"
 ---
 ## What it is
 Provides web access tools (fetch, search, sitemap crawl) through String AI's API, automatically handling anti-bot bypass, CAPTCHA, and JavaScript rendering.

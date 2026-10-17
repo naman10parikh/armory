@@ -8,12 +8,12 @@ source_url: https://github.com/supermemoryai/supermemory-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1723
+stars: 1722
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 173
+forks: 171
 pushed_at: "2026-10-02T18:38:46Z"
 ---
 ## What it is

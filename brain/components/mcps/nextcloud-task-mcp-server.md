@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T13:28:56Z"
+pushed_at: "2026-10-13T14:08:08Z"
 ---
 ## What it is
 Enables managing Nextcloud tasks through natural language, including creating, updating, completing, and deleting tasks.

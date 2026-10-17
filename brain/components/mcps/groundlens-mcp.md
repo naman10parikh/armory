@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T11:34:45Z"
+pushed_at: "2026-10-14T20:54:01Z"
 ---
 ## What it is
 Enables hallucination detection for AI assistants by providing tools to assess whether responses are grounded in source material or follow grounded patterns.

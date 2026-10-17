@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T02:08:54Z"
+pushed_at: "2026-10-14T22:11:14Z"
 ---
 ## What it is
 Wraps the Revternal Developer Intelligence API, allowing AI agents to query Revternal data through natural language via the Pipeworx MCP gateway.

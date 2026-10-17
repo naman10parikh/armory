@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-08-28T00:04:08Z"
+pushed_at: "2026-10-14T20:03:16Z"
 ---
 ## What it is
 MCP server `Nutrient Document Web Services`, catalogued on PulseMCP. Integrates with Nutrient Document Web Services API to provide PDF manipulation, digital signing, and document processing capabilities across multiple file formats including Office documents and images.

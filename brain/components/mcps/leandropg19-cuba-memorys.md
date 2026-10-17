@@ -8,12 +8,12 @@ source_url: https://github.com/leandropg19/cuba-memorys
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-08T15:10:22Z"
+pushed_at: "2026-10-14T14:44:22Z"
 ---
 ## What it is
 MCP server `Cuba Memorys`, catalogued on PulseMCP. Persistent knowledge graph memory for AI agents with Hebbian learning, RRF fusion search, and neuroscience-inspired decay algorithms.

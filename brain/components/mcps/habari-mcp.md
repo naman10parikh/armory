@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T02:30:00Z"
+pushed_at: "2026-10-17T04:53:01Z"
 ---
 ## What it is
 MCP server for Kenya civic information — Kenya Gazette, government tenders, open data, parliament tracker, citizen feedback.

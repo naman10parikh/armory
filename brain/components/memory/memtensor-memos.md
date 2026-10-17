@@ -8,13 +8,13 @@ source_url: https://github.com/MemTensor/MemOS
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 11795
+stars: 11902
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 1073
+forks: 1164
 pushed_at: "2026-10-10T07:55:31Z"
 ---
 ## What it is

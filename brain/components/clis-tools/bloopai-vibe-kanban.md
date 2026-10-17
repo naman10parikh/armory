@@ -8,13 +8,13 @@ source_url: https://github.com/BloopAI/vibe-kanban
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 28320
+stars: 28381
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3032
+forks: 3034
 pushed_at: "2026-09-19T06:52:48Z"
 ---
 ## What it is

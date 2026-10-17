@@ -8,13 +8,13 @@ source_url: https://github.com/alexanderradahl/mac-developer-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 50
+stars: 52
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-10-09T00:25:12Z"
+pushed_at: "2026-10-12T19:38:58Z"
 ---
 ## What it is
 Local macOS MCP bridge that gives ChatGPT shell, unrestricted filesystem access, real PTY sessions, background jobs, and read-only stored Codex history. ChatGPT stays the reasoning layer; the bridge makes no model calls.

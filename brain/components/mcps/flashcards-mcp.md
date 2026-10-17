@@ -8,11 +8,13 @@ source_url: https://github.com/saiashirwad/flashcards
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-10-17T11:13:49Z"
 ---
 ## What it is
 An MCP server for making flashcards with your agents and being quizzed on them using SM-2 spaced repetition.

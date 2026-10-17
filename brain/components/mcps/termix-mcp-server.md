@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-29T04:33:16Z"
+pushed_at: "2026-10-17T07:06:50Z"
 ---
 ## What it is
 An MCP server that enables managing SSH hosts, tunnels, Docker containers, and monitoring metrics via Termix's REST API.

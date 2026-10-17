@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-03-26T01:16:53Z"
+pushed_at: "2026-10-15T18:08:34Z"
 ---
 ## What it is
 MCP server `Trade It`, catalogued on PulseMCP. Execute stock, crypto, and options trades through natural language commands

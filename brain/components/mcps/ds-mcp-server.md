@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-06T08:31:15Z"
+pushed_at: "2026-10-15T12:14:14Z"
 ---
 ## What it is
 Provides data science, plotting, statistics, system, and web tools via MCP, with interactive CLI clients for OpenAI-compatible and Anthropic providers.

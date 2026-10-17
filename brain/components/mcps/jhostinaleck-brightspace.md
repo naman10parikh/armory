@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-05T11:08:09Z"
+pushed_at: "2026-10-15T16:34:01Z"
 ---
 ## What it is
 MCP server `Brightspace`, catalogued on PulseMCP. Exposes D2L Brightspace LMS data including courses, grades, assignments, and calendar through 15 tools with multi-strategy authentication.

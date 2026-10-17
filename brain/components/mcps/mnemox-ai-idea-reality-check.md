@@ -8,11 +8,11 @@ source_url: https://github.com/mnemox-ai/idea-reality-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 822
+stars: 825
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 89
+forks: 91
 pushed_at: "2026-09-18T08:23:57Z"
 ---
 ## What it is

@@ -8,14 +8,14 @@ source_url: https://github.com/NovaSky-AI/SkyRL
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2402
+stars: 2427
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 456
-pushed_at: "2026-10-10T01:26:55Z"
+forks: 463
+pushed_at: "2026-10-17T04:27:05Z"
 ---
 ## What it is
 SkyRL: A Modular Full-stack RL Library for LLMs

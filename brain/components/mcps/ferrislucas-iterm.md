@@ -8,11 +8,11 @@ source_url: https://github.com/ferrislucas/iterm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 568
+stars: 570
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 73
+forks: 74
 pushed_at: "2025-09-20T17:31:44Z"
 ---
 ## What it is

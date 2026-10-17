@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-04T08:53:05Z"
+forks: 1
+pushed_at: "2026-10-11T08:54:39Z"
 ---
 ## What it is
 Enables managing releases, monitoring Android vitals, analyzing earnings and search terms, optimizing ASO, and preflighting store assets through natural language, with a confirmation gate before destructive writes.

@@ -8,12 +8,12 @@ source_url: https://github.com/piyushsteelcase-design/mcp-sap-gui-advanced
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2025-09-26T14:06:34Z"
+pushed_at: "2026-10-16T16:39:35Z"
 ---
 ## What it is
 MCP server `SAP GUI Advanced`, catalogued on PulseMCP. Integrates with SAP systems through COM APIs to provide transaction navigation, field operations, data extraction, and workflow automation across sales orders, purchase orders, and master data management with session handling and visual operations support.

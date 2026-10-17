@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-10T09:44:23Z"
+pushed_at: "2026-10-17T07:39:48Z"
 ---
 ## What it is
 MCP server `Open Eagle Eye`, catalogued on PulseMCP. Live snapshots from approximately 29,000 public cameras across 11 countries for traffic, weather, and scenic monitoring.

@@ -8,14 +8,14 @@ source_url: https://github.com/dust-tt/dust
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1483
+stars: 1487
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 369
-pushed_at: "2026-10-10T21:27:58Z"
+forks: 376
+pushed_at: "2026-10-17T11:28:55Z"
 ---
 ## What it is
 Custom AI agent platform to speed up your work.

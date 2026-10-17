@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T11:38:31Z"
+pushed_at: "2026-10-15T09:16:28Z"
 ---
 ## What it is
 MCP server for the Runway Aleph model line. Enables creating edit video tasks, polling status, and checking pricing through a single RunAPI API key.

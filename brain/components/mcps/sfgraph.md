@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-11T13:41:08Z"
+pushed_at: "2026-10-16T13:21:03Z"
 ---
 ## What it is
 A local, privacy-first knowledge graph for Salesforce orgs. It live-syncs your org to a SQLite + vector index on your machine and exposes 26 MCP tools to Cursor, Claude Code/Desktop, and VS Code, so the AI you already use can reason about Apex, LWC, Flow, Vlocity, OmniStudio, security, and integrati

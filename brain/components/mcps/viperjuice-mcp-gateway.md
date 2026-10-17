@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
-stars: 22
+stars: 23
 forks: 4
-pushed_at: "2026-10-10T21:32:54Z"
+pushed_at: "2026-10-17T06:18:00Z"
 ---
 ## What it is
 A meta-server for minimal Claude Code tool bloat with progressive disclosure and dynamic server provisioning. Exposes 9 stable meta-tools, auto-starts Playwright and Context7, and can dynamically provision 25+ MCP servers on-demand from a curated manifest.

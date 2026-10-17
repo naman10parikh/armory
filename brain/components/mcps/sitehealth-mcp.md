@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-27T19:21:39Z"
+pushed_at: "2026-10-14T14:39:51Z"
 ---
 ## What it is
 Performs comprehensive website health audits including SSL, DNS, email authentication, performance, uptime, and broken link checks, all without requiring API keys. Returns a scored report with weighted metrics and actionable recommendations.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T07:15:15Z"
+pushed_at: "2026-10-17T08:17:35Z"
 ---
 ## What it is
 A local, privacy-first MCP server providing direct access to official YouTube Data, Analytics, Reporting, and Live Streaming APIs for creators, enabling channel analysis, research, and guarded management operations.

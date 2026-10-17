@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-04-24T14:56:25Z"
+pushed_at: "2026-10-14T00:41:17Z"
 ---
 ## What it is
 Enables interaction with the Rockfish AI platform for synthetic data generation, dataset management, and ML workflow orchestration through tools like TabGAN training and Manta analytics.

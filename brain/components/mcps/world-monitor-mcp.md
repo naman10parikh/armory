@@ -8,13 +8,13 @@ source_url: https://github.com/koala73/worldmonitor
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 88182
+stars: 88588
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13465
-pushed_at: "2026-10-10T19:41:53Z"
+forks: 13568
+pushed_at: "2026-10-17T11:30:40Z"
 ---
 ## What it is
 MCP server for real-time global intelligence, AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking, enabling agents and scripts to access curated news feeds, country instability indices, and market data.

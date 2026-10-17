@@ -8,13 +8,13 @@ source_url: https://github.com/mifi/editly
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 5523
+stars: 5527
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 383
+forks: 384
 pushed_at: "2025-05-12T07:03:44Z"
 ---
 ## What it is

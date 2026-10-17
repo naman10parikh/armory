@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-07-28T02:23:53Z"
+pushed_at: "2026-10-12T11:42:54Z"
 ---
 ## What it is
 MCP server `Kimi Code`, catalogued on PulseMCP. Delegates bulk codebase analysis to Kimi K2.5's 256K context window, enabling architecture reviews, security audits, dependency mapping, and cross-file pattern scanning at reduced token cost.

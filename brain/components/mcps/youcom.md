@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-02T20:06:37Z"
+pushed_at: "2026-10-14T00:25:22Z"
 ---
 ## What it is
 MCP server `You.com Web Access & AI`, catalogued on PulseMCP. Web search, AI agent, and content extraction via You.com APIs

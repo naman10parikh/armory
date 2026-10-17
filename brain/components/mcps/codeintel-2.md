@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T14:46:22Z"
+pushed_at: "2026-10-16T09:42:13Z"
 ---
 ## What it is
 MCP server that provides code intelligence by indexing configured repositories, extracting deterministic facts, and enabling graph queries, drift checks, and maps via Kuzu-backed MCP tools.

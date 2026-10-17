@@ -8,12 +8,12 @@ source_url: https://github.com/aiperceivable/apcore-mcp-rust
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-10T01:41:01Z"
+pushed_at: "2026-10-14T08:15:54Z"
 ---
 ## What it is
 MCP server `Apcore`, catalogued on PulseMCP. Turns any apcore-based project into an MCP-compatible tool provider with zero code changes, supporting auto-discovery of modules and multiple transports.

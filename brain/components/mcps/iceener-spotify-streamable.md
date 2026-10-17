@@ -8,11 +8,11 @@ source_url: https://github.com/iceener/spotify-streamable-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 79
+stars: 80
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
+forks: 19
 pushed_at: "2026-10-10T14:22:30Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-13T12:48:43Z"
+pushed_at: "2026-10-13T17:19:35Z"
 ---
 ## What it is
 Loads signed, verified markdown capsules into AI agents, refusing any capsule without a valid signature from a trusted key. Enables secure, provenance-checked context loading for agents.

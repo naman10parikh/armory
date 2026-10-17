@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-01-11T16:35:15Z"
+pushed_at: "2026-10-11T11:37:30Z"
 ---
 ## What it is
 Enables querying, searching, and controlling Kodi media center libraries and playback remotely, including smart episode tracking and targeted library scanning.

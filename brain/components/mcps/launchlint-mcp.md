@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T09:38:36Z"
+pushed_at: "2026-10-13T04:15:40Z"
 ---
 ## What it is
 Secure local MCP connector for LaunchLint. It reads only supported files from the explicitly approved workspace, respects .gitignore and .launchlintignore, never executes project code, and sends a controlled snapshot directly to LaunchLint over HTTPS.

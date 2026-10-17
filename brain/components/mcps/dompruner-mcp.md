@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T09:38:45Z"
+pushed_at: "2026-10-13T14:27:19Z"
 ---
 ## What it is
 MCP server that fetches URLs and returns token-efficient Markdown by pruning DOM noise, reducing LLM context costs by up to 99% without API keys or vector databases.

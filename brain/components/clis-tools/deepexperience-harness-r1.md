@@ -8,14 +8,14 @@ source_url: https://github.com/DeepExperience/Harness-R1
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 110
+stars: 116
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 21
-pushed_at: "2026-09-20T13:48:19Z"
+pushed_at: "2026-10-11T16:01:50Z"
 ---
 ## What it is
 Official Repository of Harness-R1: Learning to Edit Executable Runtime Harnesses from Agent Failure Trajectories

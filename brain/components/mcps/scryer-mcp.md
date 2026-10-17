@@ -8,7 +8,7 @@ source_url: https://github.com/aklos/scryer
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 117
+stars: 119
 eval_score: null
 verified_at: 2026-05-27
 related: []

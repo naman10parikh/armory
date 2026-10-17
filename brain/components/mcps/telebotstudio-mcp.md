@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-07T01:34:11Z"
+pushed_at: "2026-10-14T19:17:21Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve official TeleBot Studio documentation via BM25, eliminating hallucinations by grounding responses in verified markdown files.

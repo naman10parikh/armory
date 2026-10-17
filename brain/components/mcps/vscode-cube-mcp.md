@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T02:56:17Z"
+pushed_at: "2026-10-15T16:58:28Z"
 ---
 ## What it is
 MCP server that wraps STM32CubeMX CLI to let AI load .ioc projects, modify pin/peripheral configurations, generate HAL code, and export pinout tables.

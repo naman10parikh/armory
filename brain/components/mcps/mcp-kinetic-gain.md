@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T20:22:48Z"
+pushed_at: "2026-10-14T01:19:43Z"
 ---
 ## What it is
 Provides 75 tools for the Kinetic Gain Protocol Suite, including validation, inspection, and attestation for 12 specs such as AEO, Prompt Provenance, Agent Cards, and DefenseTech modules. Enables agents to interact with these protocols directly in MCP-compatible clients.

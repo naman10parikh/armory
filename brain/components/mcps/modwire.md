@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T12:30:28Z"
+pushed_at: "2026-10-16T10:54:19Z"
 ---
 ## What it is
 Provides a tool to inspect and execute actions on a scaffolding API through Siren hypermedia links, enabling management of scaffolding resources without endpoint knowledge.

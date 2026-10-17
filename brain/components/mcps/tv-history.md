@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T20:50:33Z"
+pushed_at: "2026-10-13T05:07:19Z"
 ---
 ## What it is
 MCP server for historical asset analysis using tvDatafeed and cached CSV files. Enables fetching OHLCV bars, candlestick charts, and trade execution data for TradingView-style assets.

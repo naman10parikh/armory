@@ -8,11 +8,11 @@ source_url: https://github.com/soukouki/local-wikipedia
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 4
 pushed_at: "2025-11-16T08:54:22Z"
 ---
 ## What it is

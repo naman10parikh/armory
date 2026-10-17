@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-14T15:53:08Z"
+pushed_at: "2026-10-12T08:38:33Z"
 ---
 ## What it is
 Provides AI assistants with real-time, verified European funding data including open grant calls, programmes, consortium partners, VCs, and incubators, enabling natural language queries about EU funding.

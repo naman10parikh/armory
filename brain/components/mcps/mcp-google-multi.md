@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
-pushed_at: "2026-10-09T06:28:36Z"
+forks: 16
+pushed_at: "2026-10-14T09:32:06Z"
 ---
 ## What it is
 Gives MCP clients access to Google Workspace (Gmail, Drive, Calendar, Sheets, Docs, etc.) across multiple Google accounts simultaneously.

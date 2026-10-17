@@ -8,12 +8,12 @@ source_url: https://github.com/fayzan123/rungraph
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 28
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 6
 pushed_at: "2026-08-24T22:41:37Z"
 ---
 ## What it is

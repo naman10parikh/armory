@@ -8,12 +8,12 @@ source_url: https://github.com/trailofbits/slither-mcp
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 97
+stars: 98
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
+forks: 10
 pushed_at: "2026-05-19T22:18:12Z"
 ---
 ## What it is

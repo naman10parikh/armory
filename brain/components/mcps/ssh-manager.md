@@ -8,11 +8,11 @@ source_url: https://github.com/bvisible/mcp-ssh-manager
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 502
+stars: 508
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 71
+forks: 73
 pushed_at: "2026-10-09T09:46:33Z"
 ---
 ## What it is

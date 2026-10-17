@@ -8,14 +8,14 @@ source_url: https://github.com/cocoindex-io/cocoindex
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 11664
+stars: 11710
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 911
-pushed_at: "2026-10-10T23:23:20Z"
+forks: 920
+pushed_at: "2026-10-17T01:46:17Z"
 ---
 ## What it is
 Incremental engine for long horizon agents 🌟 Star if you like it!

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-16T12:53:15Z"
+pushed_at: "2026-10-15T13:10:22Z"
 ---
 ## What it is
 Governed CI/CD operations for self-hosted GitLab and Gitea — pipeline-failure, runner, artifact-bloat, and stale-branch RCA, with unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.

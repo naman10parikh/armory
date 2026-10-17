@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-10T18:50:49Z"
+pushed_at: "2026-10-13T14:08:08Z"
 ---
 ## What it is
 Enables AI agents to lip-sync video to a different audio track via LipDub 2, including creating renders, checking statuses, and retrieving results.

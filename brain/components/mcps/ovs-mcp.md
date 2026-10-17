@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-08T16:11:24Z"
+pushed_at: "2026-10-11T08:37:40Z"
 ---
 ## What it is
 Enables searching Official Vegan Shop products and managing your shopping cart through natural language, with secure local login.

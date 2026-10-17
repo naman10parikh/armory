@@ -8,12 +8,12 @@ source_url: https://github.com/nukIeer/higgsfield-unlimited-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 3
 pushed_at: "2026-07-22T20:47:58Z"
 ---
 ## What it is

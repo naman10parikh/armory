@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T16:31:20Z"
+pushed_at: "2026-10-12T18:18:03Z"
 ---
 ## What it is
 Enables read-only queries across App Store Connect and Google Play from one toolset, letting users list apps, track release states, and review merged store feedback without extra dependencies or credentials in demo mode.

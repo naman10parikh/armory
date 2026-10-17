@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T17:30:55Z"
+pushed_at: "2026-10-15T10:26:34Z"
 ---
 ## What it is
 An MCP server that gives AI agents real OS-level control of macOS, enabling them to click real buttons, type real keys, and observe rendered screens just like a human would.

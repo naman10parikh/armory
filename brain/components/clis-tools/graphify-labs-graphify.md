@@ -8,14 +8,14 @@ source_url: https://github.com/Graphify-Labs/graphify
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 125299
+stars: 127445
 eval_score: null
 mentions: 8
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 12097
-pushed_at: "2026-10-10T21:32:30Z"
+forks: 12282
+pushed_at: "2026-10-16T17:57:21Z"
 ---
 ## What it is
 Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.

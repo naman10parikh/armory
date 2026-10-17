@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-08-06T19:56:30Z"
+pushed_at: "2026-10-15T06:53:28Z"
 ---
 ## What it is
 Exposes 25 tools for Claude Code across Gmail, Calendar, Drive, Docs, Sheets, and Slides. Supports multi-account, local-first, encrypted OAuth tokens.

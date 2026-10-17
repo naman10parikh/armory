@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T10:20:12Z"
+pushed_at: "2026-10-16T14:19:31Z"
 ---
 ## What it is
 MCP server `HashLock OTC`, catalogued on PulseMCP. OTC crypto trading with HTLC atomic settlement on Ethereum and Bitcoin.

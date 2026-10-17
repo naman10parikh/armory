@@ -12,8 +12,8 @@ stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 42
-pushed_at: "2026-10-05T23:35:51Z"
+forks: 43
+pushed_at: "2026-10-14T06:37:45Z"
 ---
 ## What it is
 MCP server `PluggedIn`, catalogued on PulseMCP. A unified interface for managing all your MCP servers.

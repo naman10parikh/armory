@@ -8,13 +8,13 @@ source_url: https://github.com/whats2000/isaacsim-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 66
+stars: 69
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
-pushed_at: "2026-10-02T13:17:10Z"
+forks: 15
+pushed_at: "2026-10-16T16:15:45Z"
 ---
 ## What it is
 Enables natural language control of NVIDIA Isaac Sim through the Model Context Protocol, allowing you to create robots, build scenes, run simulations, and debug physics from any MCP-compatible IDE.

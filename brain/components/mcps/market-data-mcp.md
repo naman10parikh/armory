@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T09:29:06Z"
+pushed_at: "2026-10-16T12:42:24Z"
 ---
 ## What it is
 Provides real-time market data tools (quotes, news, earnings calendar, watchlist scanner, and composite analysis) for AI agents via Finnhub, with optional Alpaca broker integration and graceful degradation.

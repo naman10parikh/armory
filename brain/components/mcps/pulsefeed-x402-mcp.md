@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-10T20:19:44Z"
+forks: 1
+pushed_at: "2026-10-17T07:41:41Z"
 ---
 ## What it is
 Before an AI agent pays an x402 endpoint, checks whether it's safe to pay: liveness, scam/anomaly scan (payTo hijack, bait-and-switch, honeypot), and on-chain receiver verification. ~70% of x402 endpoints are dead or scams.

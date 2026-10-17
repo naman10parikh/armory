@@ -8,13 +8,13 @@ source_url: https://github.com/agenticnotetaking/arscontexta
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3493
+stars: 3506
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 231
+forks: 234
 pushed_at: "2026-02-24T23:54:21Z"
 ---
 ## What it is

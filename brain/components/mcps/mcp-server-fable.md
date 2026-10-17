@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-26T15:46:09Z"
+pushed_at: "2026-10-14T20:17:03Z"
 ---
 ## What it is
 An MCP server that exposes Anthropic's Claude Fable 5 as tools (plan, critique, ask) to enable expensive model for planning and review, while cheaper models execute.

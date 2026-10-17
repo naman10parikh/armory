@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T17:32:43Z"
+pushed_at: "2026-10-15T23:15:38Z"
 ---
 ## What it is
 An MCP server that provides persistent memory for AI agents, enabling context retention across sessions and supporting vibe-loop workflows where agent promises and deliverables are tracked and validated.

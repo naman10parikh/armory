@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-06T19:01:23Z"
+pushed_at: "2026-10-16T05:41:13Z"
 ---
 ## What it is
 MCP server `Gemini FAF`, catalogued on PulseMCP. Unified AI project context format bridging CLAUDE.md, GEMINI.md, and AGENTS.md into a single .faf source of truth.

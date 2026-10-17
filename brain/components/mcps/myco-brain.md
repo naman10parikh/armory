@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-25T22:59:18Z"
+pushed_at: "2026-10-15T23:26:01Z"
 ---
 ## What it is
 Myco Brain gives AI agents persistent, source-traceable memory and a knowledge graph on your own Postgres. Capture decisions, repos, and docs, then recall them across sessions with every answer traceable to its source via brain_why. Self-hosted and keyless on local Ollama; facts earn confidence from

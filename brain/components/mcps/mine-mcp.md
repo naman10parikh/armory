@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T20:05:05Z"
+pushed_at: "2026-10-14T09:57:28Z"
 ---
 ## What it is
 MCP server for Minecraft that manages map points, provides recipes and guides, and enables inspection/download of files and worlds via the exaroton REST API.

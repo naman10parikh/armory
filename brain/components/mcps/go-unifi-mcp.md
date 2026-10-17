@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-10T04:19:19Z"
+pushed_at: "2026-10-17T11:29:59Z"
 ---
 ## What it is
 MCP server `Go UniFi`, catalogued on PulseMCP. Manage UniFi sites, devices, clients, networks, port forwarding, DNS, and firewall rules.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T20:23:18Z"
+pushed_at: "2026-10-15T19:47:49Z"
 ---
 ## What it is
 Local MCP server for semantic code search using Tree-sitter AST parsing, local embeddings, and hybrid search; enables indexing and querying codebases entirely offline.

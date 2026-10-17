@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-10T21:28:19Z"
+pushed_at: "2026-10-11T19:05:29Z"
 ---
 ## What it is
 MCP server `Parism`, catalogued on PulseMCP. Structured shell output parser for command execution.

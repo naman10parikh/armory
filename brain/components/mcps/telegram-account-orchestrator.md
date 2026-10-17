@@ -8,13 +8,13 @@ source_url: https://github.com/soulknight666/telegram-account-orchestrator
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-08-21T16:23:11Z"
+forks: 3
+pushed_at: "2026-10-15T12:21:35Z"
 ---
 ## What it is
 MCP server for self-hosted Telegram multi-account management, enabling encrypted session storage, health checks, batch operations, device-session management, and automation through AI agents.

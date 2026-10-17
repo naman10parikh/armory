@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-10-03T00:47:51Z"
+forks: 4
+pushed_at: "2026-10-17T05:16:25Z"
 ---
 ## What it is
 Enables AI coding agents to pull, triage, and resolve user feedback pinned directly on live web prototypes via MCP tools.

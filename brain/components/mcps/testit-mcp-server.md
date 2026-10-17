@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T06:24:03Z"
+pushed_at: "2026-10-17T06:23:24Z"
 ---
 ## What it is
 Enables interaction with TestIT test management platform, allowing management of projects, work items, test runs, test plans, and analytics.

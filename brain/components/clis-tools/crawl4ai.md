@@ -8,13 +8,13 @@ source_url: https://github.com/unclecode/crawl4ai
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 85161
+stars: 85693
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, crawl]
-forks: 8835
-pushed_at: "2026-10-05T11:26:42Z"
+forks: 8905
+pushed_at: "2026-10-15T10:16:13Z"
 ---
 ## What it is
 Open-source async web crawling library optimised for LLM data extraction: Playwright-backed, outputs clean Markdown, supports CSS/XPath selectors and chunking; popular for feeding AI pipelines.

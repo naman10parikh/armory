@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, research]
-forks: 124
+forks: 125
 pushed_at: "2024-03-04T03:36:39Z"
 mentions: 1
 ---

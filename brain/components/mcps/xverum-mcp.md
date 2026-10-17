@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T11:47:38Z"
+pushed_at: "2026-10-12T13:31:59Z"
 ---
 ## What it is
 Find and enrich the right people from 750M professional profiles. Search by role, seniority, skills, industry, and location in plain English. Pull profiles with work history, education, and seniority, then see who's likely to change jobs next with Next Move Signal. Built for AI products and agents: 

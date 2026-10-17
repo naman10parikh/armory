@@ -8,13 +8,13 @@ source_url: https://github.com/b1ff/atlassian-dc-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 103
+stars: 105
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 46
-pushed_at: "2026-10-09T20:25:50Z"
+pushed_at: "2026-10-12T18:56:44Z"
 ---
 ## What it is
 Provides MCP integration for Atlassian Data Center products including Jira, Confluence, and Bitbucket.

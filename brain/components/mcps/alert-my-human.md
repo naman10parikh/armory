@@ -8,13 +8,13 @@ source_url: https://github.com/LMol-4/alert-my-human
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 125
+stars: 163
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T16:02:59Z"
+pushed_at: "2026-10-11T13:59:30Z"
 ---
 ## What it is
 A lightweight MCP server that lets agents send alerts across multiple channels (email, Slack, Telegram, SMS, webhooks) to notify humans about important events.

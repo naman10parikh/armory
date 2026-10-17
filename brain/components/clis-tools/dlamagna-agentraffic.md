@@ -15,7 +15,7 @@ verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 0
-pushed_at: "2026-10-10T10:51:08Z"
+pushed_at: "2026-10-13T19:41:30Z"
 ---
 ## What it is
 Measurement framework for studying how coordination topology shapes LLM-call traffic in multi-agent systems. Open-source release for NAIC 2026

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-04T00:35:48Z"
+pushed_at: "2026-10-16T06:22:46Z"
 ---
 ## What it is
 MCP server that lets AI agents interact with NIGHTGATE, the Midnight blockchain attestation layer, to anchor documents, verify zero-knowledge predicates, manage disclosure grants, and poll async jobs.

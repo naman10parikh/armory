@@ -8,13 +8,13 @@ source_url: https://github.com/Celian-mrc/serum-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-09T15:15:27Z"
+pushed_at: "2026-10-13T12:34:22Z"
 ---
 ## What it is
 An MCP server that lets users generate, edit, and save Xfer Serum 2 presets from plain-English descriptions directly through MCP clients like Claude Code or Claude Desktop, without any separate API keys or LLM calls.

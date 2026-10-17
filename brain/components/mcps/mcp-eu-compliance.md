@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-24T13:20:23Z"
+pushed_at: "2026-10-13T19:13:16Z"
 ---
 ## What it is
 MCP server for EU compliance grounding (GDPR, AI Act, DORA, NIS2, eIDAS 2.0, CRA) — verbatim retrieval from a local SQLite FTS5 index.

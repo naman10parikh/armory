@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-23T17:30:38Z"
+pushed_at: "2026-10-12T21:18:30Z"
 ---
 ## What it is
 MCP server `Word Orb`, catalogued on PulseMCP. Language infrastructure providing dictionary definitions, 47-language translations, IPA pronunciation, etymology, and age-appropriate content for AI agents.

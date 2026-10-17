@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-12T00:25:22Z"
+pushed_at: "2026-10-14T03:46:36Z"
 ---
 ## What it is
 MCP server `TensorFeed x402 Base Reader`, catalogued on PulseMCP. Read-only Base mainnet reader for verifying x402 payment settlements and AFTA federation status.

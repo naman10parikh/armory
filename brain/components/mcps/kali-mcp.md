@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T07:22:01Z"
+pushed_at: "2026-10-12T04:50:47Z"
 ---
 ## What it is
 Enables AI assistants to run Kali Linux security tools in an isolated Docker container for tasks like network scanning, port checking, and service enumeration.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-10-10T04:44:30Z"
+pushed_at: "2026-10-16T00:47:06Z"
 ---
 ## What it is
 MCP server for the Delinea Secret Server and Platform APIs, enabling AI agents to manage secrets, users, groups, folders, roles, and access requests through natural language commands.

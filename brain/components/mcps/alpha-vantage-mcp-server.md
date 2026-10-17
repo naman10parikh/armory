@@ -8,7 +8,7 @@ source_url: https://github.com/alphavantage/alpha_vantage_mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 218
+stars: 221
 eval_score: null
 verified_at: 2026-05-27
 related: []

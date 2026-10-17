@@ -8,12 +8,12 @@ source_url: https://github.com/glidermcp/glidermcp.com
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-09T14:32:10Z"
+pushed_at: "2026-10-16T14:30:10Z"
 ---
 ## What it is
 MCP server `Glider`, catalogued on PulseMCP. Provides Roslyn-powered C# code analysis capabilities including solution management, diagnostics, symbol search, refactoring, and dependency analysis.

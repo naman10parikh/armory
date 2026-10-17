@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-03-09T04:37:26Z"
+pushed_at: "2026-10-14T18:42:10Z"
 ---
 ## What it is
 MCP server that integrates Ghidra for binary analysis, enabling decompilation, disassembly, and advanced reverse engineering tasks through Claude Code.

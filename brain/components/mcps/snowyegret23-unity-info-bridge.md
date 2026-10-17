@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-16T20:06:07Z"
+pushed_at: "2026-10-11T00:50:10Z"
 ---
 ## What it is
 MCP server `Unity Info Bridge`, catalogued on PulseMCP. Bridges running Unity games for runtime inspection with scene hierarchy, component analysis, text discovery, and snapshot tools for modding and localization.

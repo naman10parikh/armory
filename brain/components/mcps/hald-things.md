@@ -8,11 +8,11 @@ source_url: https://github.com/hald/things-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 612
+stars: 616
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 67
+forks: 68
 pushed_at: "2026-06-05T23:25:24Z"
 ---
 ## What it is

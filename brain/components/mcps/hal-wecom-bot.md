@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 19
-pushed_at: "2026-10-03T01:31:49Z"
+pushed_at: "2026-10-13T00:45:33Z"
 ---
 ## What it is
 MCP server `WeCom`, catalogued on PulseMCP. Integrates WeCom (WeChat Work) bot functionality for enterprise messaging, notifications, and interactive chatbots.

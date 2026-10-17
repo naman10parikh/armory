@@ -8,12 +8,12 @@ source_url: https://github.com/smaniches/semantic-scholar-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-09T12:51:30Z"
+pushed_at: "2026-10-15T16:46:22Z"
 ---
 ## What it is
 MCP server `Semantic Scholar`, catalogued on PulseMCP. Integrates with Semantic Scholar's database of 200+ million academic papers to enable searching with filters, retrieving detailed paper information including citations, and finding authors for literature reviews and research discovery.

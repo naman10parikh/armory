@@ -8,14 +8,14 @@ source_url: https://github.com/tensorflow/tensorflow
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 200725
+stars: 201075
 eval_score: 1
 mentions: 2
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 78964
-pushed_at: "2026-10-11T00:29:53Z"
+forks: 79639
+pushed_at: "2026-10-17T11:10:00Z"
 ---
 ## What it is
 An Open Source Machine Learning Framework for Everyone

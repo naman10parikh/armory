@@ -8,12 +8,12 @@ source_url: https://github.com/achiya-automation/safari-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 212
+stars: 217
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 29
-pushed_at: "2026-10-10T19:27:30Z"
+forks: 31
+pushed_at: "2026-10-14T05:35:06Z"
 ---
 ## What it is
 MCP server `Safari Automation`, catalogued on PulseMCP. Native Safari browser automation on macOS with 80 tools via AppleScript and JavaScript, requiring no external dependencies.

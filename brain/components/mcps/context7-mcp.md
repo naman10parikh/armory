@@ -9,14 +9,14 @@ source_url: https://github.com/upstash/context7
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: stable
-stars: 62875
+stars: 63182
 eval_score: null
 mentions: 6
 verified_at: 2026-05-26
 related: [troubleshoot, github-mcp, firecrawl-mcp]
 tags: [documentation, docs, api-reference, research]
-forks: 3062
-pushed_at: "2026-10-10T02:04:01Z"
+forks: 3106
+pushed_at: "2026-10-17T02:03:24Z"
 ---
 
 ## What it is

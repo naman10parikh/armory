@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T19:54:51Z"
+pushed_at: "2026-10-14T18:39:11Z"
 ---
 ## What it is
 Infrastructure access broker for AI agents — SSH & Kubernetes. Per-operation ephemeral credentials minted by a separate signer; the model never touches one. MCP stdio / HTTP+OIDC.

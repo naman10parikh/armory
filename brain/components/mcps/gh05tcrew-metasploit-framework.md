@@ -8,11 +8,11 @@ source_url: https://github.com/gh05tcrew/metasploitmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 743
+stars: 744
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 208
+forks: 210
 pushed_at: "2026-02-05T16:43:49Z"
 ---
 ## What it is

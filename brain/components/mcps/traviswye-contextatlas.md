@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-25T19:33:50Z"
+pushed_at: "2026-10-14T21:32:15Z"
 ---
 ## What it is
 MCP server `ContextAtlas`, catalogued on PulseMCP. Pre-computed codebase atlas for Claude Code combining LSP, ADRs, and git for 45-72% token reduction.

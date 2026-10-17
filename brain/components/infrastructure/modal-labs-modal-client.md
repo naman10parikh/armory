@@ -8,14 +8,14 @@ source_url: https://github.com/modal-labs/modal-client
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 523
+stars: 525
 eval_score: 1
 mentions: 11
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, infrastructure]
 forks: 138
-pushed_at: "2026-10-09T21:37:09Z"
+pushed_at: "2026-10-16T22:09:10Z"
 eval_score_from: infrastructure/modal
 ---
 ## What it is

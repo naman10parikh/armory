@@ -8,12 +8,12 @@ source_url: https://github.com/mgreen27/mcp-velociraptor
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 95
+stars: 94
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 22
+forks: 21
 pushed_at: "2026-06-28T14:15:48Z"
 ---
 ## What it is

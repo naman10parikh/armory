@@ -8,13 +8,13 @@ source_url: https://github.com/UnboundCompute/lachesis
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-07T11:23:53Z"
+pushed_at: "2026-10-16T09:24:08Z"
 ---
 ## What it is
 Exposes Lachesis's code navigation tools over MCP, letting LLM agents ask precise compiler-level questions about dataflow, taint, callers, and guards in source code.

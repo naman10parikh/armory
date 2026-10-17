@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T11:44:07Z"
+pushed_at: "2026-10-15T09:43:13Z"
 ---
 ## What it is
 Enables creating professional documents (invoices, contracts, certificates, proposals, reports) via the DocuQueue API, with tools for template management, filling, previewing, and PDF generation.

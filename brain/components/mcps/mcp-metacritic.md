@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T21:44:20Z"
+pushed_at: "2026-10-17T05:17:07Z"
 ---
 ## What it is
 MCP server for Metacritic that enables searching films, shows, and games, retrieving Metascores and audience scores, and accessing critic reviews with publication details and links, all without requiring an API key.

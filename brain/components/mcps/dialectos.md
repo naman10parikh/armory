@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-09T18:30:40Z"
+pushed_at: "2026-10-13T11:57:59Z"
 ---
 ## What it is
 Spanish dialect localization MCP server and CLI. It translates and QA-checks content across 25 regional variants with register control, structure preservation, and adversarial quality gates.

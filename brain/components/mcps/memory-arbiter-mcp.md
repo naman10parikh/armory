@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T00:06:03Z"
+pushed_at: "2026-10-13T02:58:40Z"
 ---
 ## What it is
 A lightweight, fully local MCP server that provides AI coding tools with a shared SQLite memory store and built-in conflict arbitration, enabling structured memory sharing across tools like ZCode, Codex, Cursor, and Claude Code without external dependencies.

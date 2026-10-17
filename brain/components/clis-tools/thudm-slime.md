@@ -8,14 +8,14 @@ source_url: https://github.com/THUDM/slime
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 8627
+stars: 8675
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1308
-pushed_at: "2026-10-10T14:33:22Z"
+forks: 1316
+pushed_at: "2026-10-17T07:15:57Z"
 ---
 ## What it is
 slime is an LLM post-training framework for RL Scaling.
