@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T10:57:16Z"
+pushed_at: "2026-10-18T14:32:28Z"
 ---
 ## What it is
 Remote MCP server for nonpartisan U.S. Congress data: plain-language bill decodes (bilingual EN/ES), representative lookup by ZIP with district-office phones, and what's-moving urgency ranking. Read-only, keyless.

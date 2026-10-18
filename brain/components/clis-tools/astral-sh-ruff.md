@@ -15,7 +15,7 @@ verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 2523
-pushed_at: "2026-10-18T11:32:50Z"
+pushed_at: "2026-10-18T15:01:46Z"
 ---
 ## What it is
 An extremely fast Python linter and code formatter, written in Rust.

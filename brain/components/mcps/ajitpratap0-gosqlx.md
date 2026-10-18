@@ -13,7 +13,7 @@ related: []
 tags: [mcp, developer-tools]
 stars: 120
 forks: 15
-pushed_at: "2026-10-18T11:58:48Z"
+pushed_at: "2026-10-18T14:37:44Z"
 ---
 ## What it is
 7 SQL tools (validate, format, parse, lint, security scan, metadata extraction, full analysis) over Streamable HTTP. Public remote server at mcp.gosqlx.dev - no install needed. 1.25M+ ops/sec, 6 SQL dialects.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 23
-pushed_at: "2026-10-01T13:53:06Z"
+pushed_at: "2026-10-18T12:54:53Z"
 ---
 ## What it is
 MCP server and local proxy that compresses LLM prompts, tool output, and replies to cut token cost, with a quality gate that reverts any step that does not save. Exposes llmtrim_compress, llmtrim_compress_text, and llmtrim_stats.

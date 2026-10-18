@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T09:46:35Z"
+pushed_at: "2026-10-18T13:23:09Z"
 ---
 ## What it is
 Local code context engine for Codex App/CLI that indexes code with SQLite/sqlite-vec for hybrid search and context packing to provide relevant files, line numbers, snippets, and paths.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 37
-pushed_at: "2026-10-18T11:54:25Z"
+pushed_at: "2026-10-18T14:34:57Z"
 ---
 ## What it is
 Open, local-first engram memory for AI agents: read, correct, and delete what your agent remembers. Works across Claude Code, Hermes, OpenClaw, and Cursor over MCP.

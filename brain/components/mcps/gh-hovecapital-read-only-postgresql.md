@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-16T20:05:52Z"
+pushed_at: "2026-10-18T12:24:37Z"
 ---
 ## What it is
 MCP server `Read-Only PostgreSQL by hovecapital`, catalogued on PulseMCP. Read-only PostgreSQL database queries for safe local database exploration.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T13:38:32Z"
+pushed_at: "2026-10-18T14:34:47Z"
 ---
 ## What it is
 Provides AI agents with personalized timing intelligence by scoring decisions (0-100) against a user's energy profile and the Five Elements framework, enabling optimal scheduling for actions like trip planning, product launches, and meetings.

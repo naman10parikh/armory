@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T08:45:50Z"
+pushed_at: "2026-10-18T12:57:31Z"
 ---
 ## What it is
 MCP sidecar that exposes a local Nodel runtime via the Model Context Protocol, read-only by default with optional write/lifecycle/delete operations and approval workflows.

@@ -13,7 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [workflow, guide, teams]
-stars: 9197
+stars: 9198
 forks: 1318
 pushed_at: "2026-09-28T05:19:20Z"
 ---

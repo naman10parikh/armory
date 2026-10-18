@@ -8,7 +8,7 @@ source_url: https://github.com/s-stefanov/actual-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 264
+stars: 265
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

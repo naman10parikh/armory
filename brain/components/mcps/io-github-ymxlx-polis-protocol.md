@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-18T11:41:49Z"
+pushed_at: "2026-10-18T13:32:37Z"
 ---
 ## What it is
 This MCP server provides a local-first control plane for coding agents, enabling task routing, contract management, and shared learning across multiple AI vendors via markdown files.

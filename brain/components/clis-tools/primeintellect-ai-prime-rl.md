@@ -15,7 +15,7 @@ verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
 forks: 464
-pushed_at: "2026-10-18T11:55:37Z"
+pushed_at: "2026-10-18T14:59:48Z"
 ---
 ## What it is
 Agentic RL Training at Scale
