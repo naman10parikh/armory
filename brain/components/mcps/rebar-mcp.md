@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-18T11:33:45Z"
+pushed_at: "2026-10-18T14:35:57Z"
 ---
 ## What it is
 Enables agents to manage an event-sourced, git-backed ticket store through MCP tools, supporting operations like ticket creation, claiming, and transitions.

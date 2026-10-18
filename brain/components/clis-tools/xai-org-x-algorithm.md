@@ -8,7 +8,7 @@ source_url: https://github.com/xai-org/x-algorithm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 33675
+stars: 33676
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10

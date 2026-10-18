@@ -8,7 +8,7 @@ source_url: https://github.com/InsForge/InsForge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 13141
+stars: 13144
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11

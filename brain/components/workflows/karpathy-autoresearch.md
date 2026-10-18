@@ -8,13 +8,13 @@ source_url: https://github.com/karpathy/autoresearch
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 98082
+stars: 98098
 eval_score: null
 mentions: 7
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 13592
+forks: 13593
 pushed_at: "2026-03-26T00:07:37Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/charmbracelet/crush
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 28687
+stars: 28690
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2340
+forks: 2341
 pushed_at: "2026-10-18T03:11:41Z"
 ---
 ## What it is

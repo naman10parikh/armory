@@ -9,13 +9,13 @@ source_url: https://github.com/f/prompts.chat
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 173304
+stars: 173320
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 22166
+forks: 22168
 pushed_at: "2026-10-18T03:17:54Z"
 ---
 ## What it is

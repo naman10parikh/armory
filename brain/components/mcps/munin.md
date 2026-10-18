@@ -8,12 +8,12 @@ source_url: https://github.com/getmunin/munin
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-10-16T12:03:30Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T02:53:23Z"
+pushed_at: "2026-10-18T15:01:29Z"
 ---
 ## What it is
 MCP server for MiniMax H3 multimodal video generation. Enables text-to-video, image-to-video, and audio-guided video creation with async task retrieval and batch processing.

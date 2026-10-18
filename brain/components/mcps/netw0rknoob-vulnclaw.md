@@ -8,13 +8,13 @@ source_url: https://github.com/Netw0rkNoob/VulnClaw
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3743
+stars: 3744
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, mcps]
-forks: 526
+forks: 527
 pushed_at: "2026-10-12T12:40:32Z"
 ---
 ## What it is

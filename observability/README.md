@@ -1,6 +1,6 @@
 # observability/: 36 components (catalog view)
 
-**Last updated:** 2026-10-18T12:05:30.613Z (UTC), when `catalog.json` was last generated.
+**Last updated:** 2026-10-18T15:08:22.256Z (UTC), when `catalog.json` was last generated.
 
 Each `<slug>.md` is a slim install card generated from `brain/components/observability/`.
 

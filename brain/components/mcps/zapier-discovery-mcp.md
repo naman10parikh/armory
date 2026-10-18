@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T00:01:59Z"
+pushed_at: "2026-10-18T13:42:12Z"
 ---
 ## What it is
 MCP server for automation discovery, enabling users to search Zapier's app directory for integrations and find popular ready-made Zap templates with one-click create links.

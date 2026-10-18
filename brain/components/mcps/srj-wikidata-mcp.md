@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-08T06:28:47Z"
+pushed_at: "2026-10-18T13:52:20Z"
 ---
 ## What it is
 MCP server for maintaining specific Wikidata items (person, company, publications) with read tools and a two-step write workflow that enforces sourced, human-approved batch edits.

@@ -8,13 +8,13 @@ source_url: https://github.com/Storybloq/storybloq
 license: PolyForm Noncommercial License 1.0.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 774
+stars: 775
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 37
-pushed_at: "2026-10-18T11:42:32Z"
+pushed_at: "2026-10-18T14:50:44Z"
 ---
 ## What it is
 Enables AI coding assistants to persist and manage project context across sessions, including tickets, roadmap, handovers, and lessons learned, via a structured .story/ directory.
