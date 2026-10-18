@@ -8,13 +8,13 @@ source_url: https://github.com/super21-bat/trek-agent-control
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T08:25:18Z"
+pushed_at: "2026-10-14T07:30:25Z"
 ---
 ## What it is
 Enables AI agents to securely read, plan, and sync real trips from the Trek WeChat mini-program via authenticated remote MCP, supporting tools for itinerary management, reservations, and file attachments.

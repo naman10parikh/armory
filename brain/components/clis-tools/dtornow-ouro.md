@@ -8,14 +8,14 @@ source_url: https://github.com/dtornow/ouro
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 19
+stars: 29
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 0
-pushed_at: "2026-10-09T19:12:00Z"
+forks: 1
+pushed_at: "2026-10-13T12:47:48Z"
 ---
 ## What it is
 A bootstrapped agent harness

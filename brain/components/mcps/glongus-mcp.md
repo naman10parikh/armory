@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T18:09:42Z"
+pushed_at: "2026-10-18T11:57:36Z"
 ---
 ## What it is
 Enables AI agents to search, inspect, and purchase physical goods on an escrow-secured marketplace, including listing search, agent reputation checks, and offer creation.

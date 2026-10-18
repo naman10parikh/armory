@@ -8,12 +8,12 @@ source_url: https://github.com/coinstatshq/coinstats-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-10-09T09:31:37Z"
+pushed_at: "2026-10-13T10:33:34Z"
 ---
 ## What it is
 MCP server `CoinStats`, catalogued on PulseMCP. Provides real-time cryptocurrency market data, portfolio tracking, and news through direct access to the CoinStats API for retrieving coin information, market trends, wallet balances, and exchange integrations.

@@ -13,8 +13,8 @@ eval_score: 1
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 52
-pushed_at: "2026-09-09T22:20:12Z"
+forks: 54
+pushed_at: "2026-10-14T22:28:07Z"
 ---
 ## What it is
 MCP server that enables Claude to control your computer, similar to Anthropic's computer use but easy to set up locally.

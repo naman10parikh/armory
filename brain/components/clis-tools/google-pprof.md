@@ -8,14 +8,14 @@ source_url: https://github.com/google/pprof
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 9297
+stars: 9307
 eval_score: 1
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 681
-pushed_at: "2026-10-08T00:33:36Z"
+forks: 682
+pushed_at: "2026-10-16T15:06:09Z"
 ---
 ## What it is
 pprof is a tool for visualization and analysis of profiling data

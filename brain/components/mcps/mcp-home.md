@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T04:35:50Z"
+pushed_at: "2026-10-18T07:36:23Z"
 ---
 ## What it is
 A self-hosted MCP control plane and protocol gateway that aggregates and manages multiple MCP servers, exposing them via stable, authenticated MCP endpoints for any client.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-07T02:14:59Z"
+pushed_at: "2026-10-15T10:01:22Z"
 ---
 ## What it is
 Provides real-time crypto whale trade data and market analysis to AI agents, including unusual flow radar, liquidations, funding rates, and market snapshots across 15 exchanges and on-chain DEXs.

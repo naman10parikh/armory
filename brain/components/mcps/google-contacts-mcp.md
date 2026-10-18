@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-09T16:11:51Z"
+pushed_at: "2026-10-14T22:28:00Z"
 ---
 ## What it is
 MCP server for Google Contacts - list, search, and manage contacts.

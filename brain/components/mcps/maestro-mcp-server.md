@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T21:00:53Z"
+pushed_at: "2026-10-12T02:06:45Z"
 ---
 ## What it is
 Produce complete videos from a natural-language brief with Maestro through the Ace Data Cloud API.

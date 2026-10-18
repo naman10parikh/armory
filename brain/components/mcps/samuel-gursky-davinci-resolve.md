@@ -8,12 +8,12 @@ source_url: https://github.com/samuelgursky/davinci-resolve-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3472
+stars: 3611
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 403
-pushed_at: "2026-10-10T11:26:16Z"
+forks: 430
+pushed_at: "2026-10-18T05:02:41Z"
 ---
 ## What it is
 MCP server `DaVinci Resolve`, catalogued on PulseMCP. Enables developers and video editors to automate complex workflows in DaVinci Resolve by providing a flexible Python-based scripting interface for timeline manipulation, clip analysis, color correction, and media pool management.

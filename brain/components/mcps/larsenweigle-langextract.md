@@ -8,11 +8,11 @@ source_url: https://github.com/larsenweigle/langextract-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 35
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
+forks: 6
 pushed_at: "2025-08-06T17:50:05Z"
 ---
 ## What it is

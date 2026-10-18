@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T09:00:06Z"
+pushed_at: "2026-10-16T07:24:03Z"
 ---
 ## What it is
 Enables AI agents to look up XRPL domain availability, pricing, profiles, portfolios, and transaction status, and to get registration links for signing in the user's own wallet.

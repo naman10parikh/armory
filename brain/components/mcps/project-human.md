@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-10T00:47:44Z"
+pushed_at: "2026-10-17T00:44:18Z"
 ---
 ## What it is
 The MCP server incorporate humanity into the LLM response

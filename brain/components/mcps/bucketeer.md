@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-11T22:01:45Z"
+pushed_at: "2026-10-14T01:48:54Z"
 ---
 ## What it is
 MCP server `Bucketeer`, catalogued on PulseMCP. Integrates with Bucketeer's open-source feature flag platform to provide complete CRUD operations for managing feature flags, including listing with filtering, creating with targeting rules, updating with audit trails, and archiving flags across multiple environments.

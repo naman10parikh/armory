@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-10T13:39:55Z"
+pushed_at: "2026-10-16T16:50:37Z"
 ---
 ## What it is
 A read-only MCP server exposing TOTVS support tickets (Portal do Cliente) as tools for LLMs in Claude Code, Claude Desktop, and Cursor.

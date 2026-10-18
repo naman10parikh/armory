@@ -8,11 +8,11 @@ source_url: https://github.com/semgrep/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 687
+stars: 685
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 57
+forks: 58
 pushed_at: "2025-10-28T22:32:31Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-09T08:16:36Z"
+pushed_at: "2026-10-16T07:53:24Z"
 ---
 ## What it is
 MCP server `SearXNG`, catalogued on PulseMCP. Wraps SearXNG with HTTP and stdio transports, offering web search across 200+ engines with autocomplete and engine discovery tools.

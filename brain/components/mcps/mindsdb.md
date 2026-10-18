@@ -8,12 +8,12 @@ source_url: https://github.com/mindsdb/mindshub
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39788
+stars: 39801
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6239
-pushed_at: "2026-09-16T21:37:33Z"
+forks: 6241
+pushed_at: "2026-10-14T16:44:03Z"
 ---
 ## What it is
 MCP server `MindsDB`, catalogued on PulseMCP. MindsDB allows applications to answer questions over large-scale federated data—spanning databases, data warehouses, and SaaS applications.

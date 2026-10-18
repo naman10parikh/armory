@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-10-10T05:58:48Z"
+forks: 2
+pushed_at: "2026-10-15T11:12:15Z"
 ---
 ## What it is
 Enables AI agents to interact with the SCF Controls Platform for security compliance, including browsing controls, tracking implementation, managing evidence, assessing risks, and monitoring vendors via natural language.

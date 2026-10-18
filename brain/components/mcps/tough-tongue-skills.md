@@ -8,13 +8,13 @@ source_url: https://github.com/tough-tongue/toughtongue-skills
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T13:02:05Z"
+pushed_at: "2026-10-17T00:29:39Z"
 ---
 ## What it is
 MCP server and agent skills for Tough Tongue AI, enabling handling tough conversations through voice agents, scenario creation, and session analysis.

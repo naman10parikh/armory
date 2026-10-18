@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T10:55:41Z"
+pushed_at: "2026-10-14T17:17:40Z"
 ---
 ## What it is
 Run commands in the background and get notified when they finish, so your AI agent can proceed without blocking.

@@ -8,11 +8,11 @@ source_url: https://github.com/cafetechne/antigravity-link-extension
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 220
+stars: 219
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 33
+forks: 37
 pushed_at: "2026-06-04T05:55:39Z"
 ---
 ## What it is

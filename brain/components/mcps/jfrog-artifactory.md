@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-10-11T13:24:30Z"
+pushed_at: "2026-10-18T08:34:22Z"
 ---
 ## What it is
 MCP server `JFrog Artifactory`, catalogued on PulseMCP. Integrates with JFrog's Artifactory and platform ecosystem to manage binary artifacts, container images, build information, and security scanning results across repository types and deployment pipelines for DevOps automation and CI/CD optimization.

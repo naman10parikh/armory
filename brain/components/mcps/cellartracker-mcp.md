@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-10T04:13:59Z"
+pushed_at: "2026-10-17T04:13:01Z"
 ---
 ## What it is
 Connects Claude to your CellarTracker wine cellar, enabling natural language queries for inventory, drinking recommendations, purchase history, and tasting notes.

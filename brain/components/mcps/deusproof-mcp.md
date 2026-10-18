@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T21:34:42Z"
+pushed_at: "2026-10-15T22:54:24Z"
 ---
 ## What it is
 Enables AI agents to certify their creations with verifiable, timestamped proof anchored to Bitcoin, and to verify certificates.

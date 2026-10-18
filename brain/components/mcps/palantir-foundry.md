@@ -8,11 +8,11 @@ source_url: https://github.com/qwert666/mcp-server-foundry
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
+forks: 6
 pushed_at: "2025-03-28T13:54:04Z"
 mentions: null
 ---

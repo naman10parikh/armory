@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-11T14:27:23Z"
+pushed_at: "2026-10-15T06:21:30Z"
 ---
 ## What it is
 Read-only MCP server that exposes public TokenLab model catalog tools for agents to discover models, inspect request contracts, and compare pricing.

@@ -8,13 +8,13 @@ source_url: https://github.com/lilyco-42/letsgal-ai
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T09:06:43Z"
+pushed_at: "2026-10-13T18:31:35Z"
 ---
 ## What it is
 Enables AI agents to programmatically create and manage LetsGal Studio visual novel projects via a story DSL, supporting project initialization, story compilation, dialogue/narration addition, validation, and asset registration through MCP tools.

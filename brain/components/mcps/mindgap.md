@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T09:54:18Z"
+pushed_at: "2026-10-14T08:46:24Z"
 ---
 ## What it is
 Exposes the mindgap knowledge graph as an MCP server over stdio, providing tools to add, link, query, and manage nodes and edges in a local org-roam-style graph.

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, search-data-extraction]
 stars: 3
 forks: 2
-pushed_at: "2025-10-17T10:24:40Z"
+pushed_at: "2026-10-13T09:57:40Z"
 ---
 ## What it is
 📇 🏠 A reliable MCP server for generating and managing screenshots, PDFs, and videos, performing AI-powered screenshot analysis, and extracting web content (Markdown, metadata, and HTML) via the [Urlbox](https://urlbox.com) API.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-11T16:35:20Z"
+pushed_at: "2026-10-17T01:03:02Z"
 ---
 ## What it is
 A local markdown memory and cross-agent context engine for AI coding assistants. It provides an MCP server with tools to search, add, retrieve, and distill persistent memory across tools like Claude Code, Cursor, and Zed.

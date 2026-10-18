@@ -8,13 +8,13 @@ source_url: https://github.com/linxule/durable-thinking
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T11:56:02Z"
+pushed_at: "2026-10-13T09:18:20Z"
 ---
 ## What it is
 Persistent sequential thinking for MCP clients, stored durably on Cloudflare Workers with support for branching, revision, and history retrieval.

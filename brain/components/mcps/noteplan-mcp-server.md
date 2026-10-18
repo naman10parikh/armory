@@ -8,12 +8,12 @@ source_url: https://github.com/NotePlan/noteplan-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 6
 pushed_at: "2026-08-15T16:37:27Z"
 ---
 ## What it is

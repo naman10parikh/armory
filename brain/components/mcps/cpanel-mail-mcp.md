@@ -8,12 +8,12 @@ source_url: https://github.com/rosauceda/cpanel-mail-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-10-07T06:31:41Z"
 ---
 ## What it is

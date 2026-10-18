@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T02:10:07Z"
+pushed_at: "2026-10-14T05:56:57Z"
 ---
 ## What it is
 Enables searching GOV.UK by keyword and fetching latest publications using the GOV.UK Search API.

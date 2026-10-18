@@ -8,11 +8,11 @@ source_url: https://github.com/iamtouchskyer/memex
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 143
+stars: 144
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 42
+forks: 43
 pushed_at: "2026-09-08T16:20:21Z"
 ---
 ## What it is

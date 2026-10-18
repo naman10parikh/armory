@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-01T14:11:26Z"
+pushed_at: "2026-10-13T14:01:19Z"
 ---
 ## What it is
 MCP server `SqlAugur`, catalogued on PulseMCP. Read-only SQL Server database access with schema exploration and query execution.

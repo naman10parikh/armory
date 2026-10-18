@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 17
-pushed_at: "2026-10-11T15:53:40Z"
+pushed_at: "2026-10-14T16:06:55Z"
 ---
 ## What it is
 Connects AI assistants to a task management API for creating, updating, and tracking tasks with iPhone notifications.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T23:02:18Z"
+pushed_at: "2026-10-17T21:49:52Z"
 ---
 ## What it is
 Enables AI assistants to interact with OpenL Studio's business rules management system, allowing repository, project, rule, and deployment management via natural language.

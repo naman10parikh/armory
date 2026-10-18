@@ -8,11 +8,11 @@ source_url: https://github.com/zhaoyouj/mcp-slicer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 6
 pushed_at: "2026-08-05T05:06:03Z"
 ---
 ## What it is

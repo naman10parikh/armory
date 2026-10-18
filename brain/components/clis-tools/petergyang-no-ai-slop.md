@@ -8,13 +8,13 @@ source_url: https://github.com/petergyang/no-ai-slop
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 12193
+stars: 12508
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 840
+forks: 873
 pushed_at: "2026-09-02T04:19:00Z"
 ---
 ## What it is

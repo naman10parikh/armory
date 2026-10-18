@@ -8,7 +8,7 @@ source_url: https://github.com/quantgeekdev/docker-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 504
+stars: 505
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

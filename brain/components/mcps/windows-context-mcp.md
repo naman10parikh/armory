@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T21:02:38Z"
+pushed_at: "2026-10-13T18:49:02Z"
 ---
 ## What it is
 Enables AI agents to access real-time Windows PC context including active window, system performance, screen time, productivity analytics, and historical usage through MCP tools.

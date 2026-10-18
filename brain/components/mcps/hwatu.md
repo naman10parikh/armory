@@ -8,13 +8,13 @@ source_url: https://github.com/hongnoul/hwatu
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 115
+stars: 116
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 12
-pushed_at: "2026-10-03T22:33:21Z"
+pushed_at: "2026-10-17T21:58:03Z"
 ---
 ## What it is
 Verification browser for coding agents. Headless-by-default WebKit windows with DOM eval, screenshots, pixel-diff with a real match percentage and heatmap, and live hand-off to a human. One static binary, no Chromium.

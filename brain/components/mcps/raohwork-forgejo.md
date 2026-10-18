@@ -8,11 +8,11 @@ source_url: https://github.com/raohwork/forgejo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 69
+stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 18
+forks: 19
 pushed_at: "2025-10-28T07:59:05Z"
 ---
 ## What it is

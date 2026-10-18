@@ -8,13 +8,13 @@ source_url: https://github.com/sandraschi/steam-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-02T12:53:00Z"
+pushed_at: "2026-10-13T09:53:05Z"
 ---
 ## What it is
 MCP server for Valve's Steam that enables querying game libraries, player profiles, achievements, friends, store listings, Workshop items, and current player counts. Provides 14 tools across 5 categories with a React dashboard and REST bridge.

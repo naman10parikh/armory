@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-10-01T19:06:57Z"
+pushed_at: "2026-10-17T20:59:30Z"
 ---
 ## What it is
 MCP server `OpenZIM`, catalogued on PulseMCP. Provides offline access to ZIM format knowledge bases with search capabilities, content retrieval, and smart fallback mechanisms for accessing Wikipedia dumps and educational archives without internet connectivity.

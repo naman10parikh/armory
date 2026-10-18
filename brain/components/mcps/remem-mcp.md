@@ -8,13 +8,13 @@ source_url: https://github.com/tinhien11/remem-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-29T08:49:19Z"
+pushed_at: "2026-10-17T08:14:16Z"
 ---
 ## What it is
 Local memory MCP server that survives context compaction, learns from errors, injects fixes before the next attempt, and syncs to your git repo so your whole team shares it.

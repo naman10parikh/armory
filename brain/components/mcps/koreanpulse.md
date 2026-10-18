@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-26T13:22:34Z"
+pushed_at: "2026-10-18T02:03:15Z"
 ---
 ## What it is
 MCP server `KoreanPulse`, catalogued on PulseMCP. Korean equity intelligence with DART filings, activist disclosures, and KRX news in English.

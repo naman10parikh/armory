@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-10-02T17:58:31Z"
+pushed_at: "2026-10-16T19:11:43Z"
 ---
 ## What it is
 MCP server `Xdebug`, catalogued on PulseMCP. PHP debugging with breakpoints, stepping, and variable inspection

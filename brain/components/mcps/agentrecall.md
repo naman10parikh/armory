@@ -8,13 +8,13 @@ source_url: https://github.com/Goldentrii/AgentRecall-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 372
+stars: 371
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 60
-pushed_at: "2026-09-27T21:57:19Z"
+forks: 58
+pushed_at: "2026-10-16T12:40:57Z"
 ---
 ## What it is
 MCP server for persistent, compounding memory that automatically captures corrections and insights across AI sessions, enabling agents to learn and improve over time.

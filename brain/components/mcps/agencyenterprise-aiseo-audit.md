@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-31T00:23:58Z"
+pushed_at: "2026-10-13T01:39:10Z"
 ---
 ## What it is
 MCP server `AI SEO Audit`, catalogued on PulseMCP. MCP server for auditing web content AI search readiness across 7 categories and 30+ factors with deterministic, zero-API-key scoring.

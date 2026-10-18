@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T16:15:00Z"
+pushed_at: "2026-10-14T18:08:11Z"
 ---
 ## What it is
 An MCP server that gives coding agents IDE-like access to JVM classpaths by querying the actual build tool, providing precise source code, signatures, and structure without cache-walking or version guesswork.

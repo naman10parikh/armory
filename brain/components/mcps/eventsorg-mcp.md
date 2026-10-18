@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-16T14:04:17Z"
+pushed_at: "2026-10-15T20:10:37Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to autonomously manage live events, including volunteer reassignment, vendor management, SMS communication via Twilio, and Google Sheets synchronization.

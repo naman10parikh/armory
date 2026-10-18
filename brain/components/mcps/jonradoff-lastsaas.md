@@ -8,12 +8,12 @@ source_url: https://github.com/jonradoff/lastsaas
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 173
+stars: 176
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 63
-pushed_at: "2026-03-05T18:12:51Z"
+pushed_at: "2026-10-17T00:33:01Z"
 ---
 ## What it is
 MCP server `LastSaaS`, catalogued on PulseMCP. Read-only admin interface for LastSaaS covering dashboards, users, tenants, billing, and logs.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T15:06:28Z"
+pushed_at: "2026-10-15T21:20:17Z"
 ---
 ## What it is
 Enables AI assistants and n8n workflows to interact with SAP S/4HANA and ECC systems via OData, IDoc, and RFC/BAPI, with governed read-only-by-default access and multiple authentication types.

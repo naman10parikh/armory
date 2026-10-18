@@ -8,13 +8,13 @@ source_url: https://github.com/cameronsjo/obsidi-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T14:17:29Z"
+pushed_at: "2026-10-16T23:09:22Z"
 ---
 ## What it is
 Exposes Obsidian vault tools via Model Context Protocol (MCP) server over stdio, HTTP, or SSE transports, enabling AI assistants to read, write, search, and manage vault notes with 28+ built-in tools and CLI bridge integration.

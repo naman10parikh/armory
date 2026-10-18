@@ -1,6 +1,6 @@
 # identity/: 37 components (catalog view)
 
-**Last updated:** 2026-10-17T11:33:01.759Z (UTC), when `catalog.json` was last generated.
+**Last updated:** 2026-10-18T12:05:30.613Z (UTC), when `catalog.json` was last generated.
 
 Each `<slug>.md` is a slim install card generated from `brain/components/identity/`.
 

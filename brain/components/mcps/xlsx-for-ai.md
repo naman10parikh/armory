@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T21:03:25Z"
+pushed_at: "2026-10-16T12:47:28Z"
 ---
 ## What it is
 50 tools and 400 functions for working with Excel/.xlsx spreadsheets — read/write, recalculate formulas, diff, repair broken references, and audit. Built for AI agents.

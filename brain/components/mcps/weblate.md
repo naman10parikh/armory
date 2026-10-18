@@ -8,12 +8,12 @@ source_url: https://github.com/mmntm/weblate-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 19
-pushed_at: "2026-02-19T16:15:09Z"
+forks: 20
+pushed_at: "2026-10-15T12:09:21Z"
 ---
 ## What it is
 MCP server `Weblate`, catalogued on PulseMCP. Integrates with Weblate translation management systems to provide project and component management, translation operations, change tracking, and statistical reporting for multilingual application development workflows.

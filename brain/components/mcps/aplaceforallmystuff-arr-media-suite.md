@@ -8,12 +8,12 @@ source_url: https://github.com/aplaceforallmystuff/mcp-arr
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 224
+stars: 229
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 41
-pushed_at: "2026-09-28T23:29:12Z"
+forks: 45
+pushed_at: "2026-10-16T17:50:28Z"
 ---
 ## What it is
 MCP server `*arr Media Suite`, catalogued on PulseMCP. Unified control over Sonarr, Radarr, Lidarr, Readarr, and Prowlarr through automatic service detection with tools for library management, content searching, download monitoring, and calendar viewing

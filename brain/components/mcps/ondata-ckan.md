@@ -8,12 +8,12 @@ source_url: https://github.com/ondata/ckan-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 61
+stars: 60
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-10-11T18:07:23Z"
+pushed_at: "2026-10-18T10:01:05Z"
 ---
 ## What it is
 MCP server `CKAN`, catalogued on PulseMCP. Connects to any CKAN open data portal for searching datasets, exploring organizations, querying tabular data, and reading metadata.

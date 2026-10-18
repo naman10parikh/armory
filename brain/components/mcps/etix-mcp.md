@@ -8,13 +8,13 @@ source_url: https://github.com/chrischall/etix-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T23:21:37Z"
+pushed_at: "2026-10-17T13:33:29Z"
 ---
 ## What it is
 Etix event discovery as an MCP server for Claude — search events, venues, and performers and pull full event/venue details via natural language. Routes requests through your own signed-in etix.com tab via the fetchproxy extension to bypass DataDome.

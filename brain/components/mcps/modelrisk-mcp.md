@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T21:19:57Z"
+pushed_at: "2026-10-13T18:05:14Z"
 ---
 ## What it is
 Enables Monte Carlo risk modeling in Excel via conversation, including model building, fitting, simulation, and audit.

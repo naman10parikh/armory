@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-16T12:54:05Z"
+pushed_at: "2026-10-15T09:18:27Z"
 ---
 ## What it is
 Governed Redis + RabbitMQ middleware operations — memory-pressure, latency, backlog, and churn RCA, with guarded queue/key writes, unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.

@@ -8,13 +8,13 @@ source_url: https://github.com/jefflitt1/health4ai
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-10T10:28:40Z"
+pushed_at: "2026-10-14T11:41:57Z"
 ---
 ## What it is
 Apple HealthKit → PostgreSQL sync + MCP server for Claude Code, Cursor, and Ollama. Open-source iOS app with reliable background sync (HKObserverQuery). 11 tools covering health summary, sleep, HRV trends, workouts, daily snapshots, metric stats, period comparison, and coaching briefs. Supports Supa

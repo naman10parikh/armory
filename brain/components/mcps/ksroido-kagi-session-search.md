@@ -8,11 +8,11 @@ source_url: https://github.com/ksroido/kagi-session2api-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 84
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
+forks: 2
 pushed_at: "2026-05-26T08:49:31Z"
 ---
 ## What it is

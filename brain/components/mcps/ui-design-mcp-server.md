@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T13:16:56Z"
+pushed_at: "2026-10-15T15:23:49Z"
 ---
 ## What it is
 Provides comprehensive UI design assistance tools for LLMs, generating color palettes, typography, spacing systems, shadows, design tokens, and more via the MCP protocol.

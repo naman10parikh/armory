@@ -8,13 +8,13 @@ source_url: https://github.com/CorgiCorner/bisibility-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T16:13:11Z"
+pushed_at: "2026-10-16T09:16:26Z"
 ---
 ## What it is
 Open-source MCP server for Bisibility, providing tools for keyword rank tracking, SERP history, keyword research, backlinks, alerts, reports, and project management. Runs locally through npm or Docker and connects to Bisibility Cloud or a self-hosted instance.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T20:49:58Z"
+pushed_at: "2026-10-18T03:59:16Z"
 ---
 ## What it is
 MCP server that provides Pexels wallpaper search functionality as a Leo provider package, returning photo results with download URLs and metadata.

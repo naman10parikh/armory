@@ -8,13 +8,13 @@ source_url: https://github.com/cedricziel/truenas-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-05T06:32:47Z"
+pushed_at: "2026-10-12T06:32:37Z"
 ---
 ## What it is
 An MCP server for TrueNAS SCALE that enables read-first management of storage, system, sharing, and virtualization resources with per-user API key authentication, and optional write operations.

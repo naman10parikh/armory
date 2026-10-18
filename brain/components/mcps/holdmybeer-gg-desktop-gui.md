@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-07-28T11:21:30Z"
+pushed_at: "2026-10-15T17:20:57Z"
 ---
 ## What it is
 MCP server `Desktop GUI Automation`, catalogued on PulseMCP. Cross-platform desktop GUI automation via OS-native accessibility APIs on macOS, Linux, and Windows.

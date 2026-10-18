@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2025-05-11T04:56:06Z"
+pushed_at: "2026-10-14T02:24:48Z"
 ---
 ## What it is
 MCP server `SupaUI`, catalogued on PulseMCP. Enables React UI component generation, fetching, and management through natural language interactions on the buouui.com platform, leveraging TypeScript and developer-focused design workflows.

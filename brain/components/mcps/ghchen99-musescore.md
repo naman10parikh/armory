@@ -8,12 +8,12 @@ source_url: https://github.com/ghchen99/mcp-musescore
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 113
+stars: 120
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 31
-pushed_at: "2026-10-07T20:51:08Z"
+forks: 33
+pushed_at: "2026-10-13T11:56:48Z"
 ---
 ## What it is
 MCP server `MuseScore`, catalogued on PulseMCP. Provides control of MuseScore music notation software through WebSocket communication, enabling composition, editing, and analysis of musical scores with note insertion, cursor navigation, tuplet creation, lyrics addition, and time signature modifications.

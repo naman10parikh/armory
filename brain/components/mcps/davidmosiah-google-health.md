@@ -8,12 +8,12 @@ source_url: https://github.com/davidmosiah/google-health-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 66
+stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
-pushed_at: "2026-10-08T14:25:40Z"
+forks: 11
+pushed_at: "2026-10-17T18:43:50Z"
 ---
 ## What it is
 MCP server `Google Health`, catalogued on PulseMCP. Connects to the Google Health API v4 for Fitbit and Pixel Watch data with tools for connection status, data inventory, and daily summaries.

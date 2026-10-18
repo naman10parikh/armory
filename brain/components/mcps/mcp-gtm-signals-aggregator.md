@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T10:05:12Z"
+pushed_at: "2026-10-16T07:14:02Z"
 ---
 ## What it is
 Runs all GTM signal tools in a single call and returns a unified company intelligence report combining hiring, tech stack, LinkedIn, and job board data.

@@ -8,11 +8,11 @@ source_url: https://github.com/tuannvm/mcp-trino
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 121
+stars: 122
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 57
+forks: 58
 pushed_at: "2026-07-01T05:08:19Z"
 ---
 ## What it is

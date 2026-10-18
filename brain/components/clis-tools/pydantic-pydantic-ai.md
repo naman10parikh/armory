@@ -8,14 +8,14 @@ source_url: https://github.com/pydantic/pydantic-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 20554
+stars: 20700
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2903
-pushed_at: "2026-10-11T05:08:41Z"
+forks: 2943
+pushed_at: "2026-10-18T04:43:49Z"
 ---
 ## What it is
 How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.

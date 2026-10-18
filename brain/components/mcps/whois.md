@@ -8,13 +8,13 @@ source_url: https://github.com/KincaidYang/whois
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 64
+stars: 65
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 15
-pushed_at: "2026-10-08T04:11:10Z"
+pushed_at: "2026-10-14T18:37:51Z"
 ---
 ## What it is
 Query WHOIS/RDAP information for domains, IP addresses, CIDR prefixes and ASNs. Results are normalized to RDAP-style (RFC 9083) JSON. Public instance of the open-source KincaidYang/whois server, which can also be self-hosted.

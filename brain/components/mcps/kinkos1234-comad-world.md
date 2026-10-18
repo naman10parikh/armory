@@ -8,11 +8,11 @@ source_url: https://github.com/kinkos1234/comad-world
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
+forks: 10
 pushed_at: "2026-09-03T06:43:49Z"
 ---
 ## What it is

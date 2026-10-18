@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T09:26:06Z"
+pushed_at: "2026-10-14T20:27:32Z"
 ---
 ## What it is
 Enables AI agents to search and monitor Dutch and Belgian classifieds (Marktplaats and 2dehands) for listings, seller profiles, and categories.

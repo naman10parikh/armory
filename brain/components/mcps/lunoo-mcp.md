@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-03T13:20:45Z"
+pushed_at: "2026-10-17T06:56:32Z"
 ---
 ## What it is
 MCP server for Lunoo rankings, enabling users to discover niches, fetch rankings, and get item details across thousands of categories using consensus-based scores.

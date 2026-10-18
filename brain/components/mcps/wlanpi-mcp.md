@@ -8,13 +8,13 @@ source_url: https://github.com/WLAN-Pi/wlanpi-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-05T03:30:12Z"
+pushed_at: "2026-10-14T15:45:16Z"
 ---
 ## What it is
 An MCP server that exposes WLAN Pi capabilities like device info, Wi-Fi scanning, service management, and VLANs to AI assistants via the wlanpi-core REST API.

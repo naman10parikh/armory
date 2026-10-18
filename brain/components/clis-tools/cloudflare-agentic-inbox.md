@@ -8,13 +8,13 @@ source_url: https://github.com/cloudflare/agentic-inbox
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 8251
+stars: 8355
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1064
+forks: 1083
 pushed_at: "2026-04-23T21:04:17Z"
 ---
 ## What it is

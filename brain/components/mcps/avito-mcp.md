@@ -8,13 +8,13 @@ source_url: https://github.com/elchin92/avito-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-06T07:59:22Z"
+pushed_at: "2026-10-18T11:05:50Z"
 ---
 ## What it is
 Universal MCP server for the Avito API (Russia's largest classifieds marketplace), built for autonomous AI agents to operate an account hands-free — 145 tools across 18 domains (listings, messenger, orders, delivery, promotion, autoload, reviews, analytics). Safe-by-default: dry-run, idempotency, st

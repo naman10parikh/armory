@@ -8,14 +8,14 @@ source_url: https://github.com/affaan-m/agentshield
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1273
+stars: 1297
 eval_score: 1
 mentions: 2
 verified_at: 2026-09-26
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 280
-pushed_at: "2026-09-10T12:51:47Z"
+forks: 287
+pushed_at: "2026-10-18T02:39:18Z"
 ---
 ## What it is
 AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration. 🛡️

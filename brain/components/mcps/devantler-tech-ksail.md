@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-10-11T23:11:00Z"
+pushed_at: "2026-10-18T11:28:24Z"
 ---
 ## What it is
 MCP server `KSail`, catalogued on PulseMCP. SDK for creating, managing, and operating Kubernetes clusters and workloads.

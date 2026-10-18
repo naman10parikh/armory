@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 7
+stars: 8
 forks: 3
 pushed_at: "2026-04-18T07:42:00Z"
 ---

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 51
-pushed_at: "2026-10-08T02:00:12Z"
+forks: 53
+pushed_at: "2026-10-15T01:33:04Z"
 ---
 ## What it is
 Gives AI agents eyes on in-memory image buffers in live gdb/lldb C/C++ debug sessions: list observable symbols at a breakpoint, view renderings, read exact pixel values, and dump lossless .npy copies. Agents can also drive the human's viewer window (pan, zoom, channels, auto-contrast).

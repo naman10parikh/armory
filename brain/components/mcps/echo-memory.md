@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-11T08:34:33Z"
+pushed_at: "2026-10-15T23:57:01Z"
 ---
 ## What it is
 A long-horizon memory architecture for AI agents, providing a scalable, graph-based memory with causal typing and an MCP interface.

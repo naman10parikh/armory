@@ -8,11 +8,11 @@ source_url: https://github.com/emekaokoye/mcp-rdf-explorer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
+forks: 11
 pushed_at: "2025-07-03T00:29:40Z"
 ---
 ## What it is

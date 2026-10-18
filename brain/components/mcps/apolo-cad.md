@@ -8,13 +8,13 @@ source_url: https://github.com/mariorojasmz/apolo-cad
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-11T19:54:59Z"
+pushed_at: "2026-10-14T14:29:24Z"
 ---
 ## What it is
 Enables AI agents to design parametric 3D CAD models of industrial machinery end-to-end, including modeling, assembly, validation, and manufacturing drawings, through 79 MCP tools.

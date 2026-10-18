@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-24T13:32:51Z"
+pushed_at: "2026-10-15T14:40:50Z"
 ---
 ## What it is
 MCP server for Polish public-procurement rulings (KIO / Krajowa Izba Odwoławcza) with verifiable citations.

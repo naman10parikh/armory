@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-07T03:44:59Z"
+pushed_at: "2026-10-14T19:41:49Z"
 ---
 ## What it is
 Enables AI agents to administrate WHMCS installations through the External API, providing ~50 tools for clients, billing, orders, services, domains, support, and aggregators with safety features and governance.

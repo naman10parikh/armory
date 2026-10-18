@@ -8,13 +8,13 @@ source_url: https://github.com/fegone/claude-code-delegate-local
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-11T23:06:57Z"
+pushed_at: "2026-10-17T10:44:42Z"
 ---
 ## What it is
 MCP server that delegates Claude Code subagents to alternative backends such as local models, DeepSeek, or AWS Bedrock, while keeping your Claude Code orchestrator session intact.

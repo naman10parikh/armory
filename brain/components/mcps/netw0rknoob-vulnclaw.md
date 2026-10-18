@@ -8,14 +8,14 @@ source_url: https://github.com/Netw0rkNoob/VulnClaw
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3533
+stars: 3743
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, mcps]
-forks: 488
-pushed_at: "2026-10-10T15:25:31Z"
+forks: 526
+pushed_at: "2026-10-12T12:40:32Z"
 ---
 ## What it is
 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。

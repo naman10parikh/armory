@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-07T03:57:34Z"
+pushed_at: "2026-10-14T04:07:48Z"
 ---
 ## What it is
 MCP server `deBridge`, catalogued on PulseMCP. Execute cross-chain and same-chain token swaps, fee estimation, and trade execution across major blockchain networks.

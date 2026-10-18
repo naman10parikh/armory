@@ -8,14 +8,14 @@ source_url: https://github.com/stan-dev/stan
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2777
+stars: 2779
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 388
-pushed_at: "2026-10-10T11:04:25Z"
+forks: 389
+pushed_at: "2026-10-16T07:29:21Z"
 ---
 ## What it is
 Stan development repository. The master branch contains the current release. The develop branch contains the latest stable development.  See the Developer Process Wiki for details.

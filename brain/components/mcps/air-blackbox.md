@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-31T14:11:18Z"
+pushed_at: "2026-10-15T19:32:02Z"
 ---
 ## What it is
 MCP server `Air Blackbox`, catalogued on PulseMCP. EU AI Act compliance scanning for Python AI agents with remediation tools.

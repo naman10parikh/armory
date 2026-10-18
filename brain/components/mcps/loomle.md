@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-08-26T16:32:03Z"
+pushed_at: "2026-10-12T09:42:19Z"
 ---
 ## What it is
 MCP server that integrates with Unreal Engine to read and modify complex editor objects using SAL, providing tools for queries, patches, schema discovery, and editor control.

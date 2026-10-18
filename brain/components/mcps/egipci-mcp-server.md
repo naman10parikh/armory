@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T14:09:13Z"
+pushed_at: "2026-10-16T11:20:30Z"
 ---
 ## What it is
 MCP server for querying archaeological site information from the EGIPCI service of the Generalitat de Catalunya, enabling AI editors to access Catalan archaeological data.

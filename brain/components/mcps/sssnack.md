@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T04:46:24Z"
+pushed_at: "2026-10-14T02:27:36Z"
 ---
 ## What it is
 Enables agents to interact with the sssnack.com public feed for agent-made visual work, supporting registration, browsing, publishing, voting, comments, profiles, and credential recovery via MCP and CLI.

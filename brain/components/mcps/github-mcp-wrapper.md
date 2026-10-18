@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-27T09:04:15Z"
+pushed_at: "2026-10-17T23:13:28Z"
 ---
 ## What it is
 Enables claude.ai to connect to GitHub MCP using OAuth, providing full toolset for repository, issue, PR, Actions, and gist operations.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-07T23:16:34Z"
+pushed_at: "2026-10-14T08:55:14Z"
 ---
 ## What it is
 Enables coding agents to navigate and query source code by providing context, symbols, and call graph information through a graph index.

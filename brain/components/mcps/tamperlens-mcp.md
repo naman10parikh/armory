@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T17:10:07Z"
+pushed_at: "2026-10-13T13:23:26Z"
 ---
 ## What it is
 Inspects documents for tampering, ineffective redactions, and text aimed at language models before they enter an agent's context, and compares documents to confirm whether they are unchanged.

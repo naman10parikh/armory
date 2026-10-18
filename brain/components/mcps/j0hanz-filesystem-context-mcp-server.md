@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, file-systems]
-stars: 24
+stars: 25
 forks: 6
-pushed_at: "2026-10-11T20:06:03Z"
+pushed_at: "2026-10-16T10:59:22Z"
 ---
 ## What it is
 Read-only MCP server for secure filesystem exploration, searching, and analysis with symlink protection.

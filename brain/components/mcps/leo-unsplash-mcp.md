@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T20:49:56Z"
+pushed_at: "2026-10-18T04:00:11Z"
 ---
 ## What it is
 Enables Leo to fetch Unsplash wallpapers via a provider package, returning photo metadata such as download URLs, descriptions, and photographers.

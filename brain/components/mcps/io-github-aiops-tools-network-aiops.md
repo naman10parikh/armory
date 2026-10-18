@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-16T12:53:49Z"
+pushed_at: "2026-10-15T09:17:17Z"
 ---
 ## What it is
 Provides MCP tools for governed multi-vendor network device operations, including configuration management (backup, diff, merge, replace, rollback) and read-only queries (facts, interfaces, BGP, LLDP, ARP) via NAPALM, with optional NetBox source-of-truth integration.

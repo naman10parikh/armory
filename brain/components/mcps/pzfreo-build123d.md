@@ -8,12 +8,12 @@ source_url: https://github.com/pzfreo/build123d-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 112
+stars: 115
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 14
-pushed_at: "2026-09-25T15:13:45Z"
+pushed_at: "2026-10-15T20:57:23Z"
 ---
 ## What it is
 MCP server `build123d`, catalogued on PulseMCP. AI-driven 3D CAD via build123d — execute, render, measure, and export geometry interactively.

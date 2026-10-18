@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T17:34:18Z"
+pushed_at: "2026-10-17T17:35:41Z"
 ---
 ## What it is
 Enables managing Gmail inbox and Google Calendar through MCP, with tools for email operations and calendar events.

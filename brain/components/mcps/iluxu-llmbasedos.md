@@ -8,7 +8,7 @@ source_url: https://github.com/iluxu/llmbasedos
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 292
+stars: 291
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

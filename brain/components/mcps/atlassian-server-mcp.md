@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T14:09:47Z"
+pushed_at: "2026-10-13T15:03:19Z"
 ---
 ## What it is
 A TypeScript MCP server that enables LLM agents to interact with Atlassian Data Center products (Jira, Confluence, Bitbucket) through typed tools, with tiered operation exposure and safety defaults.

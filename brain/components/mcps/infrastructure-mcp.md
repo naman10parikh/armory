@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-04T09:57:19Z"
+pushed_at: "2026-10-15T15:22:21Z"
 ---
 ## What it is
 Give Claude Code, Cursor, and other AI agents safe access to your real infrastructure — without giving them raw SSH access.

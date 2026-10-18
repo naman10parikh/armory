@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-08T21:07:55Z"
+pushed_at: "2026-10-14T18:00:47Z"
 ---
 ## What it is
 An MCP bridge that lets AI assistants control Roblox Studio 2021 in real time, offering tools for workspace inspection, instance creation, and Lua execution.

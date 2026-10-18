@@ -8,12 +8,12 @@ source_url: https://github.com/maquina-app/rails-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 573
+stars: 574
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 36
-pushed_at: "2026-09-28T18:44:21Z"
+pushed_at: "2026-10-14T00:23:11Z"
 ---
 ## What it is
 MCP server `Rails Explorer`, catalogued on PulseMCP. Enables AI models to explore and understand Rails projects by providing tools for file browsing, route inspection, model analysis, and database schema retrieval across multiple applications.

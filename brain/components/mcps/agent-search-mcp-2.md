@@ -8,12 +8,12 @@ source_url: https://github.com/lennney/agent-search-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 110
+stars: 111
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
+forks: 13
 pushed_at: "2026-09-21T13:36:32Z"
 ---
 ## What it is

@@ -12,8 +12,8 @@ stars: 188
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 28
-pushed_at: "2026-07-24T01:14:54Z"
+forks: 29
+pushed_at: "2026-10-13T00:49:51Z"
 ---
 ## What it is
 MCP server `Raindrop.io`, catalogued on PulseMCP. Integrates with Raindrop.io bookmarking service to provide direct access for managing collections, bookmarks, tags, highlights, and user data without leaving your conversation context.

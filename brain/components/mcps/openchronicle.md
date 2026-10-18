@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-05T06:10:07Z"
+pushed_at: "2026-10-12T19:00:59Z"
 ---
 ## What it is
 Persistent memory database for LLM agents with hybrid semantic and keyword search, project namespacing, and MCP/REST interfaces.

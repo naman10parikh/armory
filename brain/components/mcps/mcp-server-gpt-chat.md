@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T15:46:31Z"
+pushed_at: "2026-10-14T20:17:23Z"
 ---
 ## What it is
 MCP server for OpenAI ChatGPT API. Enables chat completions, vision analysis, embeddings, and model listing through natural language.

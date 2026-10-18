@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-18T18:39:19Z"
+pushed_at: "2026-10-17T04:36:48Z"
 ---
 ## What it is
 Integrates GovGreed's congressional-trading intelligence API, giving Claude native access to 18 tools for analyzing politician trading signals, conflict scores, bill carveouts, and political influence data.

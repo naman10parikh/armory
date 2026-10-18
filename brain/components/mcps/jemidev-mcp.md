@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-08T14:20:56Z"
+pushed_at: "2026-10-14T15:15:13Z"
 ---
 ## What it is
 MCP server for Jemi that lets AI assistants read and edit Jemi projects via a local WebSocket bridge.

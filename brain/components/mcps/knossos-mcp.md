@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T18:58:08Z"
+pushed_at: "2026-10-18T08:59:03Z"
 ---
 ## What it is
 Local-first MCP server that scans a repository once and answers architecture questions from an evidence-backed graph, enabling dependency analysis, impact analysis, and codebase exploration without re-reading the source tree.

@@ -8,13 +8,13 @@ source_url: https://github.com/lacausecrypto/mcp-sports-hub
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 37
+stars: 38
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
-pushed_at: "2026-08-19T09:04:35Z"
+forks: 14
+pushed_at: "2026-10-14T14:18:45Z"
 ---
 ## What it is
 A unified MCP server that aggregates 32 sports API providers into a single service, providing 336 tools for scores, stats, odds, esports, and more across 70+ sports.

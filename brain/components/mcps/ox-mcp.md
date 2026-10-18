@@ -8,13 +8,13 @@ source_url: https://github.com/Rheopyrin/ox-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-11T19:10:41Z"
+pushed_at: "2026-10-12T12:16:19Z"
 ---
 ## What it is
 MCP server for Open-Xchange & standards-based mail: email (IMAP/SMTP), Sieve filters, CalDAV calendar, CardDAV contacts, free/busy.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-10-05T21:25:15Z"
+pushed_at: "2026-10-14T05:22:59Z"
 ---
 ## What it is
 MCP server `Avrotize`, catalogued on PulseMCP. Schema conversion and schema-driven code generation across formats.

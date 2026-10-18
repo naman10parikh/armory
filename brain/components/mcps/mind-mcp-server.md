@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-09T18:23:10Z"
+pushed_at: "2026-10-17T14:13:52Z"
 ---
 ## What it is
 Enables AI agents to persist and retrieve memories via a personal knowledge graph, with tools for emotional intelligence, CRM, life management, social features, self-training, and autonomous insights.

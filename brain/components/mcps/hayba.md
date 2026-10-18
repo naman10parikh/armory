@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-11T17:04:39Z"
+pushed_at: "2026-10-14T01:41:56Z"
 ---
 ## What it is
 An MCP server enabling AI agents to author Unreal Engine 5 scenes directly, with tools for spawning actors, building PCG graphs, validating physics, generating terrain, and more through a single MCP connection.

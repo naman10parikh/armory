@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-30T05:47:35Z"
+pushed_at: "2026-10-12T07:27:04Z"
 ---
 ## What it is
 MCP server for automating and introspecting native Qt applications (QWidget and QML) without source changes. Enables AI agents to control running Qt apps through UI snapshots, element lookup, and real input simulation.

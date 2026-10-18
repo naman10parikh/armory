@@ -8,13 +8,13 @@ source_url: https://github.com/webull-inc/webull-openapi-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 28
+stars: 29
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-12T08:05:14Z"
+pushed_at: "2026-10-17T08:04:28Z"
 ---
 ## What it is
 Enables AI assistants to securely access Webull trading and market data, including real-time market data, screener, watchlist, fundamentals, and order placement across multiple regions.

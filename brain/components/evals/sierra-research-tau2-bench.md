@@ -8,14 +8,14 @@ source_url: https://github.com/sierra-research/tau2-bench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2215
+stars: 2254
 eval_score: 0
 mentions: 3
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, evals]
-forks: 573
-pushed_at: "2026-10-07T04:04:45Z"
+forks: 583
+pushed_at: "2026-10-16T22:53:57Z"
 ---
 ## What it is
 τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains

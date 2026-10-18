@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-10-11T08:53:21Z"
+forks: 5
+pushed_at: "2026-10-18T00:59:28Z"
 ---
 ## What it is
 MCP server for Cookidoo, enabling AI tools to search recipes, manage shopping lists, and retrieve account and subscription information.

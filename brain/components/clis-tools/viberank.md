@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
-stars: 117
-forks: 21
-pushed_at: "2026-09-23T14:03:50Z"
+stars: 119
+forks: 22
+pushed_at: "2026-10-13T14:03:06Z"
 ---
 ## What it is
 A community-driven leaderboard tool that enables developers to visualize, track, and compete based on their Claude Code usage statistics. It features robust data analytics, GitHub OAuth, data validation, and user-friendly CLI/web submission methods.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T05:39:48Z"
+pushed_at: "2026-10-13T00:23:42Z"
 ---
 ## What it is
 Send and read SMS through your own Android phone via textbee.dev, the open-source SMS gateway. Three tools for Claude, Cursor, and any MCP client: send_sms, get_messages (replies, verification codes, delivery status), list_devices. Self-hosted friendly.

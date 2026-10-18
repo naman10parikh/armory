@@ -8,12 +8,12 @@ source_url: https://github.com/sajithrw/mcp-jira-xray
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 2
 pushed_at: "2025-11-08T18:06:20Z"
 ---
 ## What it is

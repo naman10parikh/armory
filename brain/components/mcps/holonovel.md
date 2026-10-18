@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T16:03:05Z"
+pushed_at: "2026-10-12T18:51:14Z"
 ---
 ## What it is
 Enables running tabletop RPG campaigns as interactive stories with a world model, narrative tools, and role enforcement, integrating rulebooks like D&D 5e and Starfinder.

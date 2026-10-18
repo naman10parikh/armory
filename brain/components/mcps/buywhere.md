@@ -8,12 +8,12 @@ source_url: https://github.com/buywhere/buywhere-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-05T06:24:08Z"
+pushed_at: "2026-10-12T19:15:40Z"
 ---
 ## What it is
 MCP server `BuyWhere`, catalogued on PulseMCP. Search millions of products across global platforms with AI-powered price comparison and deal discovery.

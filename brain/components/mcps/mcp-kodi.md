@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-19T09:20:44Z"
+pushed_at: "2026-10-12T16:01:27Z"
 ---
 ## What it is
 An MCP server that lets an AI assistant control a Kodi media player over Kodi's JSON-RPC API — transport, volume, library search, queue management, and playback history. Written in C on the GLib stack.

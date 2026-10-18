@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T23:21:13Z"
+pushed_at: "2026-10-17T16:11:11Z"
 ---
 ## What it is
 Enables searching Swedish property listings, sold prices, areas, and market statistics via the Booli API using natural language.

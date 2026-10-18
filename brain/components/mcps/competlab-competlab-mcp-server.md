@@ -13,7 +13,7 @@ related: []
 tags: [mcp, marketing]
 stars: 3
 forks: 0
-pushed_at: "2026-10-10T18:17:52Z"
+pushed_at: "2026-10-17T21:50:13Z"
 ---
 ## What it is
 Competitive intelligence platform with 24 tools. Monitor competitor pricing, content, positioning, tech stacks, and AI visibility — track how ChatGPT, Claude, and Gemini rank your brand.

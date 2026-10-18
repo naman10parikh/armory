@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-20T06:58:57Z"
+pushed_at: "2026-10-16T21:50:37Z"
 ---
 ## What it is
 MCP server `Spikes`, catalogued on PulseMCP. Collect and manage user feedback through AI-accessible tools.

@@ -12,8 +12,8 @@ stars: 403
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 66
-pushed_at: "2026-10-11T01:23:41Z"
+forks: 64
+pushed_at: "2026-10-18T01:22:52Z"
 ---
 ## What it is
 MCP server `PlanExe`, catalogued on PulseMCP. Generate rough-draft project plans from natural-language prompts.

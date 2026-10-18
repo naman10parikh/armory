@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-13T00:16:51Z"
+pushed_at: "2026-10-13T09:21:35Z"
 ---
 ## What it is
 An MCP server that bridges AI assistants to other CLI tools, enabling capabilities like large-context reads, vision, file generation, and cross-vendor verification without API keys.

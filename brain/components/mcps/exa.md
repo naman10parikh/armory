@@ -8,13 +8,13 @@ source_url: https://github.com/exa-labs/exa-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5107
+stars: 5136
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 eval_score: 1
 mentions: null
-forks: 401
+forks: 411
 pushed_at: "2026-10-07T22:45:09Z"
 ---
 ## What it is

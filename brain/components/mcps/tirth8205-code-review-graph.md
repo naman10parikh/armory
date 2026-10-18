@@ -8,14 +8,14 @@ source_url: https://github.com/tirth8205/code-review-graph
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 32045
+stars: 32232
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, mcps]
-forks: 2936
-pushed_at: "2026-10-06T19:33:08Z"
+forks: 3029
+pushed_at: "2026-10-16T11:20:26Z"
 ---
 ## What it is
 Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.

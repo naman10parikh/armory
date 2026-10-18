@@ -8,13 +8,13 @@ source_url: https://github.com/AndrewDryga/emisar
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 337
+stars: 339
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 33
-pushed_at: "2026-10-11T09:57:29Z"
+pushed_at: "2026-10-16T09:08:31Z"
 ---
 ## What it is
 Give AI agents Zero-Trust access to production infrastructure without the risks of granting them shell access. Actions are bounded by policy and an on-host runner.

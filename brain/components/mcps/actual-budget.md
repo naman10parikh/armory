@@ -8,12 +8,12 @@ source_url: https://github.com/s-stefanov/actual-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 254
+stars: 264
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 93
-pushed_at: "2026-10-11T22:06:23Z"
+forks: 94
+pushed_at: "2026-10-18T10:03:06Z"
 ---
 ## What it is
 MCP server `Actual Budget`, catalogued on PulseMCP. Integrates with Actual Budget to provide transaction filtering, spending breakdowns by category, monthly summaries with savings rates, and account balance history for budget analysis and financial insights.

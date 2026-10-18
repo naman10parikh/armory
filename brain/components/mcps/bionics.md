@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-05T16:02:13Z"
+pushed_at: "2026-10-14T05:00:59Z"
 ---
 ## What it is
 MCP server for controlling Unreal Engine 5 with 199 tools across 37 categories, including Blueprint analysis, animation pipeline, and async tasks.

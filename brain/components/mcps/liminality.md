@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-09T01:04:12Z"
+forks: 1
+pushed_at: "2026-10-12T14:31:10Z"
 ---
 ## What it is
 A hosted MCP server that breaks hard questions or decisions into sub-questions grounded in real tools, returning a verifiable answer.

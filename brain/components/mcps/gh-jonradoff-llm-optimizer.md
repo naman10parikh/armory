@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-06-18T15:51:07Z"
+pushed_at: "2026-10-17T00:33:23Z"
 ---
 ## What it is
 MCP server `LLM Optimizer`, catalogued on PulseMCP. AI brand visibility analytics with visibility scores, optimization strategies, and search rankings.

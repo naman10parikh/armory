@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 35
-pushed_at: "2026-10-11T12:47:05Z"
+forks: 36
+pushed_at: "2026-10-18T11:01:49Z"
 ---
 ## What it is
 Plug-and-play homelab dashboard in one container — GPU, local-AI VRAM, Docker, systemd, host health. Built-in read-only MCP server so AI agents can explore it too.

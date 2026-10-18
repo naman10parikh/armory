@@ -8,13 +8,13 @@ source_url: https://github.com/AgentsKit-io/doc-bridge
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-11T20:38:45Z"
+pushed_at: "2026-10-15T21:09:54Z"
 ---
 ## What it is
 Turn repository documentation into deterministic, executable handoffs for coding agents through MCP, CLI, and CI—without an LLM or API key.

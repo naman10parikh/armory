@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T21:10:41Z"
+pushed_at: "2026-10-13T14:45:46Z"
 ---
 ## What it is
 Enables managing Onde Inference accounts and model catalog operations through MCP tools such as login, app management, model registration, and assignment. Returns structured JSON over stdio for use with any MCP client.

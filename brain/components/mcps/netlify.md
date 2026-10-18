@@ -8,12 +8,12 @@ source_url: https://github.com/netlify/netlify-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 67
+stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 42
-pushed_at: "2026-10-10T04:26:59Z"
+pushed_at: "2026-10-17T12:17:15Z"
 ---
 ## What it is
 MCP server `Netlify`, catalogued on PulseMCP. Integrates with Netlify's platform for complete site management including project operations, deployments with zip uploads, team administration, extension configuration, and documentation access across hosting, build, and collaboration workflows.

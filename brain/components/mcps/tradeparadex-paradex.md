@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-05T01:54:48Z"
+pushed_at: "2026-10-14T03:50:07Z"
 ---
 ## What it is
 MCP server `Paradex`, catalogued on PulseMCP. Official integration with Paradex perpetual futures trading platform for market data, account management, order placement, vault operations, and position monitoring.

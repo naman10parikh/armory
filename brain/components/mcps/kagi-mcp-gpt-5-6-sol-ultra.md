@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T07:26:13Z"
+pushed_at: "2026-10-13T17:13:46Z"
 ---
 ## What it is
 Enables AI agents to search Kagi using a personal Kagi Session Link, providing web search results and account lens information.

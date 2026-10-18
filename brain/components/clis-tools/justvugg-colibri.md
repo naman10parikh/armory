@@ -8,14 +8,14 @@ source_url: https://github.com/JustVugg/colibri
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 41242
+stars: 42677
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 4544
-pushed_at: "2026-10-11T20:56:34Z"
+forks: 4764
+pushed_at: "2026-10-18T11:34:09Z"
 ---
 ## What it is
 Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦

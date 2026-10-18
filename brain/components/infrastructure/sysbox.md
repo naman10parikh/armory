@@ -8,12 +8,12 @@ source_url: https://github.com/nestybox/sysbox
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 3903
+stars: 3916
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [infrastructure, containers]
-forks: 234
+forks: 237
 pushed_at: "2026-09-15T16:58:10Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-30T11:34:12Z"
+pushed_at: "2026-10-15T09:11:19Z"
 ---
 ## What it is
 Enables AI image and video generation tasks (text-to-image, image-to-video, edit, upscale, etc.) via RunAPI, with support for polling and pricing lookups.

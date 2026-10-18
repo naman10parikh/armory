@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T22:46:16Z"
+pushed_at: "2026-10-16T14:05:09Z"
 ---
 ## What it is
 Read-only MCP server for licensed Healthpoint HL7 FHIR API access.

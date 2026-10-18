@@ -8,13 +8,13 @@ source_url: https://github.com/kaeawc/auto-mobile
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 51
+stars: 52
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-11T23:13:19Z"
+pushed_at: "2026-10-18T12:00:16Z"
 ---
 ## What it is
 An MCP server that enables AI agents to control Android and iOS devices via natural language, using platform tools like adb and simctl.

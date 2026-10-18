@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-13T00:37:53Z"
+pushed_at: "2026-10-18T01:46:46Z"
 ---
 ## What it is
 MCP server `COMSOL Multiphysics`, catalogued on PulseMCP. Control COMSOL Multiphysics simulations with physics-aware mesh generation, solver configuration, and parametric sweeps.

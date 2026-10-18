@@ -8,13 +8,13 @@ source_url: https://github.com/Sage-Bionetworks/synapse-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-02T22:33:46Z"
+pushed_at: "2026-10-14T17:40:04Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that enables AI agent access to Synapse entities such as Datasets, Projects, Folders, Files, Tables, and more.

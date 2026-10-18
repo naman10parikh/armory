@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T06:36:23Z"
+pushed_at: "2026-10-13T14:53:39Z"
 ---
 ## What it is
 A drop-in Context7 MCP proxy that manages multiple API keys, balancing quota usage, caching responses, and providing failover for the standard Context7 tools. It lets MCP clients like OpenCode use the standard Context7 tools without worrying about account selection or quota limits.

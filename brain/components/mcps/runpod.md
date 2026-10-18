@@ -12,8 +12,8 @@ stars: 83
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 21
-pushed_at: "2026-10-09T20:32:19Z"
+forks: 22
+pushed_at: "2026-10-16T15:00:31Z"
 ---
 ## What it is
 MCP server `RunPod`, catalogued on PulseMCP. Enables programmatic control of RunPod cloud GPU resources and serverless deployments through a TypeScript interface to the RunPod REST API.

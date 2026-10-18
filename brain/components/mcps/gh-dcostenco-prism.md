@@ -8,12 +8,12 @@ source_url: https://github.com/dcostenco/prism-coder
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 158
+stars: 157
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 26
-pushed_at: "2026-10-11T22:56:12Z"
+pushed_at: "2026-10-17T23:14:36Z"
 ---
 ## What it is
 MCP server `Prism`, catalogued on PulseMCP. AI agent persistent memory system with local-first storage, time travel, and multi-agent sync.

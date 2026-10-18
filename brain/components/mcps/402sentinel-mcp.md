@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-06T07:48:50Z"
+pushed_at: "2026-10-17T12:56:09Z"
 ---
 ## What it is
 MCP server for assessing counterparty risk in x402 payments using on-chain data, providing risk scores, decisions, and wallet spending policies to prevent fraud and unauthorized payments.

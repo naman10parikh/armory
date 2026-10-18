@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-11T21:15:44Z"
+forks: 1
+pushed_at: "2026-10-16T03:06:43Z"
 ---
 ## What it is
 An MCP server that wraps the @apitomy/data-models library for querying, validating, and editing OpenAPI and AsyncAPI documents.

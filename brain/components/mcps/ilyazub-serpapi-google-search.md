@@ -8,12 +8,12 @@ source_url: https://github.com/serpapi/serpapi-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 179
+stars: 180
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 43
-pushed_at: "2026-09-22T04:54:55Z"
+pushed_at: "2026-10-15T12:23:48Z"
 ---
 ## What it is
 MCP server `SerpApi Google Search`, catalogued on PulseMCP. Integrates with the SerpApi Google Search API to enable access to structured search results data for SEO tools, market research, or data aggregation services.

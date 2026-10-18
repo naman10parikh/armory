@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T08:33:53Z"
+pushed_at: "2026-10-15T22:28:28Z"
 ---
 ## What it is
 Enables AI agents to query live solar telemetry from public SolarNetwork sites, detect dated equipment faults with peer-relative analysis, and generate printable PDF service reports for field technicians.

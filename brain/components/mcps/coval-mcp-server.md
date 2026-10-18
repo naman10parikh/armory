@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T18:39:00Z"
+pushed_at: "2026-10-14T21:41:01Z"
 ---
 ## What it is
 Enables AI assistants to interact with Coval's evaluation platform for launching and monitoring evaluation runs, managing agents and test sets, and retrieving evaluation metrics.

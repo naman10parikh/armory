@@ -8,7 +8,7 @@ source_url: https://github.com/kage-core/Kage
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 40
+stars: 41
 eval_score: null
 verified_at: 2026-05-27
 related: []

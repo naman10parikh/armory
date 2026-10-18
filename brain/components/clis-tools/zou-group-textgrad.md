@@ -8,13 +8,13 @@ source_url: https://github.com/zou-group/textgrad
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3756
+stars: 3762
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 293
+forks: 296
 pushed_at: "2025-07-25T14:30:39Z"
 ---
 ## What it is

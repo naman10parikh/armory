@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T03:20:05Z"
+pushed_at: "2026-10-18T03:31:17Z"
 ---
 ## What it is
 Enables searching and retrieving job postings from multiple job boards (USAJOBS, Adzuna, Jooble, The Muse, Reed, and ATS) through the JobStack API, exposing search_jobs and get_job as MCP tools.

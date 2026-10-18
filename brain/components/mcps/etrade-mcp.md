@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-25T03:07:41Z"
+pushed_at: "2026-10-15T02:49:18Z"
 ---
 ## What it is
 MCP server for E*TRADE that reads account balances, positions, transactions, and orders, with optional opt-in order placement via a two-step preview-confirm handshake.

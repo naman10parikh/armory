@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-08T19:05:43Z"
+pushed_at: "2026-10-14T07:44:48Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides AI assistants with secure access to your Google Docs.

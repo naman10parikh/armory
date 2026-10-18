@@ -8,11 +8,11 @@ source_url: https://github.com/kukapay/opcua-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
+forks: 13
 pushed_at: "2025-10-29T23:52:25Z"
 ---
 ## What it is

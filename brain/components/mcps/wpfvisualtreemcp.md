@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-07-23T22:43:58Z"
+pushed_at: "2026-10-17T22:43:14Z"
 ---
 ## What it is
 Let AI agents inspect and drive running WPF (.NET desktop) apps: visual tree, dependency properties, data bindings and binding errors, DataContext, screenshots (popups included), plus click, select-item, text input, keyboard shortcuts, live property editing and wait-for — via runtime injection, with

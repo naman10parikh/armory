@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T01:14:33Z"
+pushed_at: "2026-10-13T18:11:52Z"
 ---
 ## What it is
 SlowMCP is a modern framework for building, testing, and shipping MCP servers, written in CoffeeScript. It includes a protocol-backed test harness and works over Streamable HTTP.

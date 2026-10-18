@@ -8,13 +8,13 @@ source_url: https://github.com/Dave-London/Pare
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 138
+stars: 139
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-09-29T03:46:33Z"
+pushed_at: "2026-10-14T15:11:24Z"
 ---
 ## What it is
 Provides MCP servers that wrap common developer tools (git, npm, docker, etc.) returning structured JSON output, enabling AI agents to reliably interact with these tools without parsing fragile terminal text.

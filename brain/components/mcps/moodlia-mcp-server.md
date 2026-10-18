@@ -8,13 +8,13 @@ source_url: https://github.com/gafapa/moodle-local_moodlia
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T23:52:42Z"
+pushed_at: "2026-10-15T23:05:36Z"
 ---
 ## What it is
 Enables LLM agents and automation tools to interact with Moodle through a permission-checked MCP endpoint, covering courses, activities, question banks, enrolments, and administrative operations via 240 external functions.

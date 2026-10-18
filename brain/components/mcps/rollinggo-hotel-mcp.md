@@ -8,13 +8,13 @@ source_url: https://github.com/RollingGo-AI/RollingGo-hotel-MCP-CN
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 44
+stars: 47
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-08T03:34:41Z"
+forks: 1
+pushed_at: "2026-10-14T03:59:44Z"
 ---
 ## What it is
 Enables AI agents to search, compare, and book hotels worldwide through natural language, with real-time pricing and availability, plus price monitoring and order management.

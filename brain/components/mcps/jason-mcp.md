@@ -8,13 +8,13 @@ source_url: https://github.com/jasonsteinman/youtrack-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T21:18:28Z"
+pushed_at: "2026-10-13T16:48:03Z"
 ---
 ## What it is
 Enables natural language interaction with JetBrains YouTrack, including issue management, sprint operations, team reporting, name-based assignments, and notification checks.

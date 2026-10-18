@@ -8,12 +8,12 @@ source_url: https://github.com/ThreatRecall/zettelforge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 66
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-10-08T20:25:08Z"
+pushed_at: "2026-10-15T20:24:41Z"
 ---
 ## What it is
 MCP server `ZettelForge`, catalogued on PulseMCP. Agentic memory system for cyber threat intelligence that extracts CVEs, threat actors, and IOCs from analyst notes into a structured knowledge base.

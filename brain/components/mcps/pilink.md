@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-05T04:23:01Z"
+pushed_at: "2026-10-12T14:06:59Z"
 ---
 ## What it is
 An OAuth-protected MCP server exposing a coding-tool harness over Streamable HTTP, enabling remote MCP clients like ChatGPT to securely access a local development environment.

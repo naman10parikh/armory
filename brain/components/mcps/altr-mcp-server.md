@@ -8,13 +8,13 @@ source_url: https://github.com/altrsoftware/altr-mcp-server
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-09T19:48:22Z"
+pushed_at: "2026-10-13T14:30:17Z"
 ---
 ## What it is
 Enables AI assistants to manage data security on the ALTR platform for Snowflake, Databricks, and OLTP databases, offering 99 tools across 10 domains including tag masking, policies, classification, and access governance.

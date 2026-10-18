@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T19:49:28Z"
+pushed_at: "2026-10-17T20:50:00Z"
 ---
 ## What it is
 Enables planning, scaffolding, diagnosing, and hardening MediaSFU frontend and backend integrations across multiple SDKs with 138 integration tools.

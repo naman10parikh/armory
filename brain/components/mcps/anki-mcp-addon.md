@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-12T16:43:00Z"
+pushed_at: "2026-10-17T11:09:45Z"
 ---
 ## What it is
 Enables to interact with your Anki collection through natural language, allowing you to study, edit, and analyze flashcards without external dependencies.

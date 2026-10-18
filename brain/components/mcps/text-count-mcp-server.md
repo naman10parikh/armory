@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-09T19:22:10Z"
+pushed_at: "2026-10-13T18:53:59Z"
 ---
 ## What it is
 Provides tools for AI models to count characters and words in text, supporting English and other space-delimited languages.

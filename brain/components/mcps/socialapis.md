@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-10T16:29:49Z"
+pushed_at: "2026-10-16T07:18:28Z"
 ---
 ## What it is
 MCP server `SocialAPIs`, catalogued on PulseMCP. Unified API for extracting data from Facebook, Instagram, TikTok, and other social platforms at scale.

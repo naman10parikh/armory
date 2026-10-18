@@ -8,7 +8,7 @@ source_url: https://github.com/s4dp4nd4/frida-c2-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 66
+stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

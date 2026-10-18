@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-08T08:10:18Z"
+pushed_at: "2026-10-13T08:41:41Z"
 ---
 ## What it is
 Real-time stablecoin yield index across DeFi protocols and CEX earn programs, with an AI yield advisor, risk signals and non-custodial deposit/redeem quotes for AI agents. Ships agent skills and a self-host stdio wrapper alongside the hosted remote MCP with x402 pay-per-call.

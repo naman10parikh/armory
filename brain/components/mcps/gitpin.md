@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T10:56:21Z"
+pushed_at: "2026-10-15T13:06:58Z"
 ---
 ## What it is
 Provides index-free, read-only, multi-repo Git evidence for MCP agents, enabling prove-verify loops with git show.

@@ -8,14 +8,14 @@ source_url: https://github.com/PrimeIntellect-ai/prime-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 21912
+stars: 22104
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 2416
-pushed_at: "2026-10-11T22:58:11Z"
+forks: 2453
+pushed_at: "2026-10-17T20:26:45Z"
 ---
 ## What it is
 A self-improving RLM agent for coding workflows and long-running autonomous tasks.

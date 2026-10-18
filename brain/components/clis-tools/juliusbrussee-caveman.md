@@ -8,14 +8,14 @@ source_url: https://github.com/JuliusBrussee/caveman
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 111052
+stars: 113373
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 6431
-pushed_at: "2026-10-11T20:41:27Z"
+forks: 6560
+pushed_at: "2026-10-18T07:42:47Z"
 ---
 ## What it is
 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-10-11T12:07:40Z"
+forks: 10
+pushed_at: "2026-10-13T08:20:48Z"
 ---
 ## What it is
 LibreNMS MCP Server is a Python-based Model Context Protocol (MCP) server designed to provide advanced, programmable access to LibreNMS network monitoring data and management features, enabling querying devices, ports, alerts, inventory, and more.

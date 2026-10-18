@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-09T08:37:32Z"
+pushed_at: "2026-10-16T11:56:09Z"
 ---
 ## What it is
 MCP server `Platfone`, catalogued on PulseMCP. Virtual phone numbers for AI agents — rent numbers in 200+ countries and receive SMS programmatically.

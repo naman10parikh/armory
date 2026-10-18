@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T04:59:08Z"
+pushed_at: "2026-10-13T18:33:10Z"
 ---
 ## What it is
 Enables AI assistants to create and edit Rive animations through 139 MCP tools, supporting shapes, animations, state machines, physics, and export to .riv or .rev files.

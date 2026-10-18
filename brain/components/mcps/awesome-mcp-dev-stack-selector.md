@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T08:07:19Z"
+pushed_at: "2026-10-18T06:52:01Z"
 ---
 ## What it is
 A machine-readable FOSS registry and zero-latency MCP server for AI coding agents to search free and open-source software alternatives to commercial tools, with capabilities to find replacements, get app details, and search by query.

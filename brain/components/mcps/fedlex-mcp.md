@@ -8,12 +8,12 @@ source_url: https://github.com/malkreide/fedlex-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 4
 pushed_at: "2026-09-27T16:40:46Z"
 ---
 ## What it is

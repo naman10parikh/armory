@@ -8,13 +8,13 @@ source_url: https://github.com/CadQuery/cadquery
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 5917
+stars: 5954
 eval_score: 1
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 555
+forks: 557
 pushed_at: "2026-10-10T00:00:48Z"
 ---
 ## What it is

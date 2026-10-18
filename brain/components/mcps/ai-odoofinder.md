@@ -8,13 +8,13 @@ source_url: https://github.com/SantipBarber/ai-odoo-finder
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2025-12-22T12:18:42Z"
+pushed_at: "2026-10-14T19:59:26Z"
 ---
 ## What it is
 Enables LLMs to search Odoo modules in OCA repositories using hybrid search (semantic + full-text) for finding the perfect module quickly.

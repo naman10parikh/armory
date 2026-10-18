@@ -8,12 +8,12 @@ source_url: https://github.com/giancarloerra/socraticode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3336
+stars: 3341
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 430
-pushed_at: "2026-10-10T21:23:44Z"
+pushed_at: "2026-10-15T22:21:08Z"
 ---
 ## What it is
 MCP server `SocratiCode`, catalogued on PulseMCP. Local codebase indexing, semantic search, and code dependency graphs.

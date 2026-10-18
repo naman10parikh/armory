@@ -8,11 +8,11 @@ source_url: https://github.com/ahonn/mcp-server-gsc
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 277
+stars: 279
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 53
+forks: 54
 pushed_at: "2026-09-04T05:41:21Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T03:11:07Z"
+pushed_at: "2026-10-13T23:44:45Z"
 ---
 ## What it is
 A local-first MCP server stub that exposes provisioning tools for converting ecological intent into work packets, proof plans, receipts, and validation workflows.

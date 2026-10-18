@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T09:39:14Z"
+pushed_at: "2026-10-13T08:50:05Z"
 ---
 ## What it is
 MCP server for the Snipe-IT asset management REST API, enabling read and write operations on assets, licenses, accessories, and more.

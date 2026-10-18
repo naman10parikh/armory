@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-28T18:35:56Z"
+pushed_at: "2026-10-16T19:28:03Z"
 ---
 ## What it is
 Enables asking questions to AI twins representing specific audiences for research purposes.

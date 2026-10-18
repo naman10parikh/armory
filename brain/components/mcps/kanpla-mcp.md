@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-11T16:34:54Z"
+pushed_at: "2026-10-16T22:50:36Z"
 ---
 ## What it is
 Unofficial read-only MCP server to log into Kanpla and read canteen menus using your account credentials.

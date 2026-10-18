@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T22:35:53Z"
+pushed_at: "2026-10-17T23:58:30Z"
 ---
 ## What it is
 Enables triggering, streaming, and reviewing autonomous production-incident investigations directly from your editor, with human-gated approval for any mutating actions.

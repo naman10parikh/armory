@@ -13,7 +13,7 @@ related: []
 tags: [mcp, knowledge-memory]
 stars: 15
 forks: 4
-pushed_at: "2026-10-11T11:26:23Z"
+pushed_at: "2026-10-13T15:11:39Z"
 ---
 ## What it is
 Deterministic knowledge graph MCP server. Single binary, zero LLM/embedding calls in the bridge, BLAKE3 state hashing, canonical KREX export for byte-identical audit. Local-first via redb (ACID). **Alpha**.

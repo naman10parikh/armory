@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-06T17:37:17Z"
+pushed_at: "2026-10-15T16:40:23Z"
 ---
 ## What it is
 MCP server for analyzing Canadian federal spending data, offering tools for contract search, NLP, semantic search, anomaly detection, and money-flow tracing.

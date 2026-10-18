@@ -13,7 +13,7 @@ related: []
 tags: [mcp, aggregators]
 stars: 370
 forks: 54
-pushed_at: "2026-10-07T12:48:19Z"
+pushed_at: "2026-10-15T15:38:28Z"
 ---
 ## What it is
 Turn a web API into an MCP server in 10 seconds and add it to the open source registry: https://open-mcp.org

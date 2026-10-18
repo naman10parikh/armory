@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-07T20:02:36Z"
+pushed_at: "2026-10-17T13:48:34Z"
 ---
 ## What it is
 Governed cross-agent memory for coding agents with hybrid retrieval, provenance tracking, and cross-machine sync.

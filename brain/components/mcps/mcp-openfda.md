@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T20:13:01Z"
+pushed_at: "2026-10-16T22:06:04Z"
 ---
 ## What it is
 Enables querying openFDA drug and device data via natural language through the Pipeworx MCP gateway.

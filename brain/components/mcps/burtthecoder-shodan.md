@@ -8,12 +8,12 @@ source_url: https://github.com/burtthecoder/mcp-shodan
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 174
+stars: 178
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
-pushed_at: "2026-09-08T18:27:50Z"
+forks: 28
+pushed_at: "2026-10-12T17:13:53Z"
 ---
 ## What it is
 MCP server `Shodan`, catalogued on PulseMCP. Access Shodan API and CVEDB to query IoT device data and vulnerability information.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-03T07:12:20Z"
+pushed_at: "2026-10-17T03:30:37Z"
 ---
 ## What it is
 Browser automation MCP server with persistent memory for AI assistants, enabling automated web testing and workflow replay with self-healing selectors.

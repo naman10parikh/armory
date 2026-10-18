@@ -8,13 +8,13 @@ source_url: https://github.com/amyodov/yet-another-agentic-chat
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-11T16:20:44Z"
+pushed_at: "2026-10-12T20:31:24Z"
 ---
 ## What it is
 An MCP server that lets multiple agent sessions (e.g., Claude Code, Claude Desktop) on the same machine communicate over shared channels like walkie-talkies, enabling them to exchange messages and coordinate tasks without any central broker.

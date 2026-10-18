@@ -8,13 +8,13 @@ source_url: https://github.com/lorenzouriel/mssql-mcp-python
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 28
+stars: 29
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-08-12T13:49:54Z"
+pushed_at: "2026-10-13T00:24:14Z"
 ---
 ## What it is
 MCP server for safely exposing SQL Server database capabilities to LLM clients, with read-only mode, security features, and observability.

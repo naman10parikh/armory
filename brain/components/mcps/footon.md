@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T21:14:20Z"
+pushed_at: "2026-10-17T21:12:53Z"
 ---
 ## What it is
 Turns Claude and Codex JSONL transcripts into sanitized, unlisted links with explicit approval, exposing share management via OAuth-protected MCP endpoints.

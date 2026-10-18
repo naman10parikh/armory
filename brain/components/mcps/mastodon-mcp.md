@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T12:41:48Z"
+pushed_at: "2026-10-13T09:43:44Z"
 ---
 ## What it is
 A Mastodon client MCP server providing full webapp and agent automation for the Fediverse, with human-approved outbox for promotion drafts and comprehensive MCP tools for timeline, posting, and account management.

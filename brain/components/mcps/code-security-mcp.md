@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-25T05:33:45Z"
+pushed_at: "2026-10-16T17:23:47Z"
 ---
 ## What it is
 An MCP server that exposes a 216-rule Kotlin/JVM security analyzer to AI coding agents, enabling real-time security scanning and secure pattern retrieval for frameworks like Spring and Ktor.

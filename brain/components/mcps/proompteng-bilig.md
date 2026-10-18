@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
-stars: 34
+stars: 35
 forks: 18
-pushed_at: "2026-10-06T22:47:53Z"
+pushed_at: "2026-10-13T12:28:18Z"
 ---
 ## What it is
 Headless WorkPaper MCP server for spreadsheet formulas, workbook edits, JSON persistence, and verified readback from TypeScript services.

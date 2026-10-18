@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 27
-pushed_at: "2026-10-09T17:48:35Z"
+forks: 28
+pushed_at: "2026-10-16T03:33:07Z"
 ---
 ## What it is
 Your sysadmin co-pilot — an AI that administers Linux through typed, approval-gated, Ed25519-audited actions instead of shell strings. Reference implementation of the LACS standard.

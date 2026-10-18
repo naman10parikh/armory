@@ -11,10 +11,10 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claude-esp, claude-tmux]
 tags: [claude-code, alternative-clients]
-stars: 2906
+stars: 2939
 mentions: 4
-forks: 235
-pushed_at: "2026-10-11T23:01:19Z"
+forks: 237
+pushed_at: "2026-10-16T23:59:31Z"
 ---
 ## What it is
 A command center for AI agents that syncs Claude Code sessions across terminal, web, and mobile. Allows for remote monitoring, human-in-the-loop interaction, and team collaboration.

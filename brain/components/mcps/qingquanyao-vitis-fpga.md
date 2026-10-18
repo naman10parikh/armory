@@ -8,11 +8,11 @@ source_url: https://github.com/qingquanyao/vitis_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 4
 pushed_at: "2026-04-05T15:46:09Z"
 ---
 ## What it is
