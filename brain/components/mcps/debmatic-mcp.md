@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-07T07:01:13Z"
+pushed_at: "2026-10-14T08:17:15Z"
 ---
 ## What it is
 Integrates HomeMatic smart home devices (via CCU3, RaspberryMatic, or debmatic) as MCP tools, enabling natural language query and control of rooms, devices, programs, and system variables.

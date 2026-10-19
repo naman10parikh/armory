@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-09-17T06:01:38Z"
+pushed_at: "2026-10-15T14:17:43Z"
 ---
 ## What it is
 MCP server `OpenRouter Deep Research`, catalogued on PulseMCP. Orchestrates multi-agent research by breaking complex queries into specialized sub-questions, distributing them across different models, and synthesizing findings into comprehensive reports.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T02:53:23Z"
+pushed_at: "2026-10-19T07:32:45Z"
 ---
 ## What it is
 Connects official daily housing-transaction data and market signals (offense/defense) for 12 major Chinese cities to AI agents via MCP, REST API, or Claude Skill.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T13:29:01Z"
+pushed_at: "2026-10-15T22:03:12Z"
 ---
 ## What it is
 A secure multi-tenant server that provides real-time context to LLMs via REST API, using JWT authentication and PostgreSQL row-level security for tenant isolation.

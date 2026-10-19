@@ -8,7 +8,7 @@ source_url: https://github.com/memodb-io/memobase
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2930
+stars: 2934
 eval_score: null
 mentions: 0
 verified_at: 2026-09-02

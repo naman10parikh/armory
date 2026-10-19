@@ -13,7 +13,7 @@ related: []
 tags: [mcp, security]
 stars: 15
 forks: 3
-pushed_at: "2026-10-04T11:24:30Z"
+pushed_at: "2026-10-14T07:15:53Z"
 ---
 ## What it is
 Trust, identity (W3C DID), and EigenTrust reputation for AI agents. Attestations, disputes, sybil detection, IPFS audit anchoring.

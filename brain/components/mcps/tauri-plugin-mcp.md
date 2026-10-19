@@ -8,13 +8,13 @@ source_url: https://github.com/P3GLEG/tauri-plugin-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 110
+stars: 112
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 34
-pushed_at: "2026-07-17T06:27:49Z"
+pushed_at: "2026-10-14T01:03:43Z"
 ---
 ## What it is
 An MCP server that allows AI agents to interact with and debug Tauri applications through screenshots, DOM access, input simulation, and more.

@@ -8,12 +8,12 @@ source_url: https://github.com/theloniuser/indesign-uxp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 106
+stars: 108
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 22
+forks: 24
 pushed_at: "2026-08-10T22:41:50Z"
 ---
 ## What it is

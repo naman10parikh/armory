@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 39
-pushed_at: "2026-10-11T09:14:07Z"
+pushed_at: "2026-10-18T10:10:59Z"
 ---
 ## What it is
 MCP server for the FLOX trading framework. About 30 tools to run backtests, scaffold strategies, validate for lookahead bias, compute indicators, place orders, and query PnL from Claude/Cursor.

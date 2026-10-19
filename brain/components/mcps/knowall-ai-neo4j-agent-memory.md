@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 16
-pushed_at: "2026-10-05T01:36:37Z"
+pushed_at: "2026-10-17T22:08:37Z"
 ---
 ## What it is
 MCP server `Neo4j Agent Memory`, catalogued on PulseMCP. Stores entities and relationships in a Neo4j graph database with semantic search and temporal filtering, enabling persistent contextual memory for conversational systems through 10 specialized tools for creating memories, building connections, and querying knowledge graphs with configurable depth traversal.

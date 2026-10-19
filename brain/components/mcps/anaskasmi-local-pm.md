@@ -8,11 +8,11 @@ source_url: https://github.com/anaskasmi/local-pm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 4
 pushed_at: "2026-10-09T00:13:14Z"
 ---
 ## What it is

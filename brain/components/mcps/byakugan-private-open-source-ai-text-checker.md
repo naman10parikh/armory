@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T04:40:07Z"
+pushed_at: "2026-10-18T13:18:54Z"
 ---
 ## What it is
 A private, open-source AI-text checker. Get a read on whether text looks AI-written, the exact AI-tell spans to fix, a reuse check, and a grammar pass.

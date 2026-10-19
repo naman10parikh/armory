@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
-stars: 295
-forks: 42
-pushed_at: "2026-10-12T12:03:17Z"
+stars: 296
+forks: 41
+pushed_at: "2026-10-17T18:14:49Z"
 ---
 ## What it is
 A transparent HTTP proxy and real-time dashboard that sits between Claude Code and the Anthropic API. Captures every request and response without configuration, presenting them in a Miller-column interface with session grouping, token/cost tracking, and context-window visualization.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-05T05:06:19Z"
+pushed_at: "2026-10-19T12:45:23Z"
 ---
 ## What it is
 MCP server that executes Blueprint workflows (flow.ir) with swarm operations, dispatching agent steps to backends like Lua, Rust, processes, or interactive Operator sessions.

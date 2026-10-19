@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T16:08:46Z"
+pushed_at: "2026-10-19T05:23:46Z"
 ---
 ## What it is
 RAG Vault lets your AI coding assistant search your private documents locally. Everything runs on your machine and your data stays private.

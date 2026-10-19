@@ -8,13 +8,13 @@ source_url: https://github.com/1020911401/ArchNavMCPServer
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-30T10:32:07Z"
+pushed_at: "2026-10-17T09:09:17Z"
 ---
 ## What it is
 Architecture-aware code navigation system for AI agents, providing line-level symbol location, layered architecture detection, and dual-engine hybrid analysis with 22 MCP tools.

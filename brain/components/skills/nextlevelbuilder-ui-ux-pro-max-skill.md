@@ -8,11 +8,11 @@ source_url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 135089
-forks: 14357
+stars: 137493
+forks: 14605
 eval_score: null
 mentions: null
-pushed_at: "2026-10-12T11:08:03Z"
+pushed_at: "2026-10-15T02:04:34Z"
 verified_at: 2026-09-07
 related: []
 tags: [sentinel-feed, skills]

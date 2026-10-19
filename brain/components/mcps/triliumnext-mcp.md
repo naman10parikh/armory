@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-10-10T13:09:35Z"
+pushed_at: "2026-10-18T08:57:00Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for interacting with TriliumNext via its ETAPI. Enables LLMs to create, read, update, and organize notes, including embedding images and files directly into note content.

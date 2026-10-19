@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T16:29:26Z"
+pushed_at: "2026-10-16T20:55:20Z"
 ---
 ## What it is
 MCP server for debugging regional ocean (MOM6 + CESM) model runs, combining log analysis tools with a searchable knowledge base of expert interview transcripts.

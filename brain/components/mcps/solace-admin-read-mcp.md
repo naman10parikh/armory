@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T16:22:20Z"
+pushed_at: "2026-10-17T00:34:25Z"
 ---
 ## What it is
 Read-only MCP server for Solace PubSub+ brokers and Event Portal. Enables Claude to query queue depths, client connections, VPN stats, event schemas, and more via natural language.

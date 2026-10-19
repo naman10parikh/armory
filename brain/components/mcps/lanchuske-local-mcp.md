@@ -8,12 +8,12 @@ source_url: https://github.com/lanchuske/local-mcp-releases
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 69
+stars: 73
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
-pushed_at: "2026-10-09T23:34:41Z"
+forks: 12
+pushed_at: "2026-10-17T22:12:16Z"
 ---
 ## What it is
 MCP server `Local MCP`, catalogued on PulseMCP. Native macOS app exposing 82 system-level tools via MCP for AI assistant integration.

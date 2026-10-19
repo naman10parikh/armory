@@ -8,13 +8,13 @@ source_url: https://github.com/Kartaverse/lightwave-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-05-02T20:22:23Z"
+pushed_at: "2026-10-15T03:18:47Z"
 ---
 ## What it is
 Enables AI assistants to discover, connect to, and control LightWave3D Modeler and Layout programmatically via the Command Port.

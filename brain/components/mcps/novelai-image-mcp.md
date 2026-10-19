@@ -8,13 +8,13 @@ source_url: https://github.com/xinvxueyuan/NovelAI-Image-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-11T22:14:12Z"
+pushed_at: "2026-10-19T12:18:39Z"
 ---
 ## What it is
 An MCP server that exposes NovelAI image generation as tools for AI agents, supporting txt2img, img2img, inpaint, upscaling, Director tools, ControlNet annotation, tag suggestions, vibe encoding, and subscription queries via stdio or streamable-http transports.

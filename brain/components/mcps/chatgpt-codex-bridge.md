@@ -8,13 +8,13 @@ source_url: https://github.com/AaAndrew233/chatgpt-codex-bridge
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-14T11:45:38Z"
+pushed_at: "2026-10-13T08:58:50Z"
 ---
 ## What it is
 Enables ChatGPT to securely inspect local Codex projects, read session history, and dispatch confirmed tasks to the Codex CLI through a local MCP bridge.

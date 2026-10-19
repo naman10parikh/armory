@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-16T12:59:46Z"
+pushed_at: "2026-10-13T12:36:11Z"
 ---
 ## What it is
 Enables AI agents to generate branded talent documents such as assessment reports, executive profiles, shortlists, and client deliverables in DOCX, PPTX, PDF, or Excel formats from source text or LinkedIn profiles.

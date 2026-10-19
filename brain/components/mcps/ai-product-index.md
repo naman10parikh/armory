@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T12:13:20Z"
+pushed_at: "2026-10-19T10:54:12Z"
 ---
 ## What it is
 Machine-readable directory of AI products that register themselves, plus an agent-readability grader for any URL.

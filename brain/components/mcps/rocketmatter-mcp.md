@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T23:23:01Z"
+pushed_at: "2026-10-18T23:26:40Z"
 ---
 ## What it is
 Enables interaction with Rocketmatter legal practice management via natural language, covering matters, clients, tasks, time, invoices, calendar, documents, and trust accounting.

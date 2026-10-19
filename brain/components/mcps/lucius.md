@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-12T13:58:25Z"
+pushed_at: "2026-10-13T08:58:08Z"
 ---
 ## What it is
 An MCP server for Allure TestOps that enables AI agents to manage test cases, defects, test plans, and other test management entities with clear, easy-to-use tools and helpful error guidance.

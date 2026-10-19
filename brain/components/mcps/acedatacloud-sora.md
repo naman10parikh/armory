@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T01:36:18Z"
+pushed_at: "2026-10-18T18:56:52Z"
 ---
 ## What it is
 MCP server `AceDataCloud Sora`, catalogued on PulseMCP. OpenAI Sora AI video generation through the AceDataCloud API platform.

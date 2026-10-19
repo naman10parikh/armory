@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-24T06:01:41Z"
+pushed_at: "2026-10-18T08:52:06Z"
 ---
 ## What it is
 Prometheus-MCP is an AI Creative Director MCP server that enhances creative output from models like Claude and GPT to expert-level quality through iterative improvement loops.

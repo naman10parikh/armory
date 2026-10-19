@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-07-01T11:44:56Z"
+pushed_at: "2026-10-15T13:30:17Z"
 ---
 ## What it is
 MCP server `Propstack`, catalogued on PulseMCP. Propstack CRM integration for contacts, properties, deals, and viewings.

@@ -8,13 +8,13 @@ source_url: https://github.com/kevinnbass/metr-money-figure
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 79
+stars: 80
 eval_score: null
 mentions: 1
 verified_at: 2026-10-13
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 20
+forks: 19
 pushed_at: "2026-09-15T03:36:10Z"
 ---
 ## What it is

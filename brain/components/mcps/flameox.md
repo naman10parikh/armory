@@ -8,12 +8,12 @@ source_url: https://github.com/morluto/flameox
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 183
+stars: 211
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
+forks: 15
 pushed_at: "2026-10-12T09:21:36Z"
 ---
 ## What it is

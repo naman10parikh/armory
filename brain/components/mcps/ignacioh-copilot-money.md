@@ -8,12 +8,12 @@ source_url: https://github.com/ignaciohermosillacornejo/copilot-money-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 84
+stars: 85
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 30
-pushed_at: "2026-10-11T06:44:01Z"
+pushed_at: "2026-10-19T12:18:45Z"
 ---
 ## What it is
 MCP server `Copilot Money`, catalogued on PulseMCP. Query and manage Copilot Money personal finance data including accounts, transactions, and budgets.

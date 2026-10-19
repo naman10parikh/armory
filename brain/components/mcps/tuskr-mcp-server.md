@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-02T11:35:29Z"
+pushed_at: "2026-10-19T10:46:40Z"
 ---
 ## What it is
 Enables interaction with the Tuskr test management API through MCP, supporting account ID and access token authentication for managing test cases, runs, and projects.

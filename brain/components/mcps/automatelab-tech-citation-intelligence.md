@@ -13,7 +13,7 @@ related: []
 tags: [mcp, search-data-extraction]
 stars: 9
 forks: 0
-pushed_at: "2026-06-08T10:51:16Z"
+pushed_at: "2026-10-13T10:38:12Z"
 ---
 ## What it is
 What LLMs cite, for agents. Check which URLs Perplexity, Claude, ChatGPT, Gemini, Bing, and Google AI Overviews cite for any query. Self-hosted, BYO API key. Install via `npx @automatelab/citation-intelligence`.

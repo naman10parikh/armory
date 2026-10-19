@@ -8,14 +8,14 @@ source_url: https://github.com/kirodotdev/Kiro
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 4363
+stars: 4374
 eval_score: null
 mentions: 1
 verified_at: 2026-10-13
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 326
-pushed_at: "2026-09-15T14:31:12Z"
+forks: 329
+pushed_at: "2026-10-18T11:35:32Z"
 ---
 ## What it is
 Kiro is an agentic IDE that works alongside you from prototype to production.

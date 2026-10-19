@@ -8,11 +8,11 @@ source_url: https://github.com/qrussell/wemo-ops-center
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
+forks: 7
 pushed_at: "2026-02-25T21:34:27Z"
 ---
 ## What it is

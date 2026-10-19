@@ -8,12 +8,12 @@ source_url: https://github.com/zinja-coder/jadx-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 795
+stars: 805
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 132
-pushed_at: "2026-10-09T08:03:18Z"
+forks: 140
+pushed_at: "2026-10-19T00:23:17Z"
 ---
 ## What it is
 MCP server `JADX (Java Decompiler)`, catalogued on PulseMCP. Integrates with JADX-GUI to enable reverse engineering of Java and Android applications through decompiled code analysis, method searching, and access to both Java and Smali representations.

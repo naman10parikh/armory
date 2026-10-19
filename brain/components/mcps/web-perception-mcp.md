@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T04:32:10Z"
+pushed_at: "2026-10-17T06:26:29Z"
 ---
 ## What it is
 A DOM-first, vision-second MCP server for webpage analysis, combining structural DOM extraction with MiniMax vision to provide accurate, context-rich page understanding for AI coding assistants.

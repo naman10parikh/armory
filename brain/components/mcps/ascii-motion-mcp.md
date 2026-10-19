@@ -8,13 +8,13 @@ source_url: https://github.com/CameronFoxly/ascii-motion-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-08-11T21:15:56Z"
+pushed_at: "2026-10-16T23:36:38Z"
 ---
 ## What it is
 Enables AI assistants to create, animate, and export ASCII art using natural language, with live browser sync.

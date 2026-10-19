@@ -12,8 +12,8 @@ stars: 59
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
-pushed_at: "2026-10-09T12:48:25Z"
+forks: 7
+pushed_at: "2026-10-19T13:09:43Z"
 ---
 ## What it is
 MCP server `Kubernetes`, catalogued on PulseMCP. Integrates with Kubernetes clusters to manage resources, retrieve pod logs, execute commands in containers, and apply YAML manifests with configurable timeouts and rate limiting for DevOps automation and cluster monitoring.

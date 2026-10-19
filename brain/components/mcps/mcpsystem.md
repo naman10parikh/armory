@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T12:45:46Z"
+pushed_at: "2026-10-13T15:57:02Z"
 ---
 ## What it is
 A local runtime for persistent, isolated replicas of services such as GitHub, GitLab, Bitbucket, Jira, Linear, and YouTrack, providing MCP surfaces for agents to interact with software-company resources.

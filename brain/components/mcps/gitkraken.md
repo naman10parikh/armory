@@ -8,12 +8,12 @@ source_url: https://github.com/gitkraken/gk-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 461
+stars: 460
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 371
-pushed_at: "2026-09-29T11:27:40Z"
+forks: 375
+pushed_at: "2026-10-16T16:44:59Z"
 ---
 ## What it is
 MCP server `GitKraken`, catalogued on PulseMCP. Git CLI with integrated MCP server for GitHub, GitLab, Bitbucket, Azure DevOps, and Jira

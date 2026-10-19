@@ -8,12 +8,12 @@ source_url: https://github.com/stud0709/sap-dev-release
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-12T07:01:21Z"
+pushed_at: "2026-10-18T09:00:16Z"
 ---
 ## What it is
 MCP server `SAP ABAP Dev Release`, catalogued on PulseMCP. Bridges AI agents to legacy SAP ABAP systems for read-only code exploration and documentation generation.

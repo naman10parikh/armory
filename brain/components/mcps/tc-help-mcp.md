@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-30T16:24:39Z"
+pushed_at: "2026-10-15T14:40:41Z"
 ---
 ## What it is
 Provides live access to TutorCruncher and Bobbin product documentation via Intercom and GitHub, enabling Claude to search and retrieve help articles and API docs on demand.

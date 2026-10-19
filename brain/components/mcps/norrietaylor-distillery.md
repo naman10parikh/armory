@@ -12,8 +12,8 @@ stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
-pushed_at: "2026-10-03T18:57:07Z"
+forks: 10
+pushed_at: "2026-10-13T05:06:15Z"
 ---
 ## What it is
 MCP server `Distillery`, catalogued on PulseMCP. Team knowledge base that captures, organizes, and retrieves collaborative knowledge from working sessions, meetings, bookmarks, and conversations.

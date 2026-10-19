@@ -8,13 +8,13 @@ source_url: https://github.com/huikku/comfyui-loop-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T13:42:54Z"
+pushed_at: "2026-10-19T11:25:02Z"
 ---
 ## What it is
 A loop-aware MCP server for your own ComfyUI that enforces a build-run-look-critique-fix cycle, making the model iterate on pixel quality until the output matches the brief.

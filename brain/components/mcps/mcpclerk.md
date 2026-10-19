@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T01:46:52Z"
+pushed_at: "2026-10-16T04:53:23Z"
 ---
 ## What it is
 Provides a governance proxy layer for MCP servers, enforcing per-tool allowlists, human approval for write operations, quotas, secret redaction, and a hash-chained audit log of all calls.

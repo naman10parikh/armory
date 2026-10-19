@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T10:44:20Z"
+pushed_at: "2026-10-14T12:08:59Z"
 ---
 ## What it is
 Connects AI assistants to Axcient for real-time data retrieval and actions through natural conversation.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T14:17:44Z"
+pushed_at: "2026-10-17T16:42:19Z"
 ---
 ## What it is
 Scans repositories to produce a readiness score and actionable fixes across positioning, tryability, community, MCP, and monetization, plus generates launch assets and sponsor-tier ideas.

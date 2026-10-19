@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-02T20:09:20Z"
+pushed_at: "2026-10-13T09:31:40Z"
 ---
 ## What it is
 Integrates AI-powered music generation with professional production tools, enabling autonomous music creation workflows from MIDI input to live streaming.

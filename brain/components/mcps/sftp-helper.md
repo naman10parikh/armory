@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T10:02:14Z"
+pushed_at: "2026-10-19T06:52:45Z"
 ---
 ## What it is
 Provides SFTP file operations (upload, download, check existence, create directories) via MCP tools.

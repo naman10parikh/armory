@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T21:18:34Z"
+pushed_at: "2026-10-14T20:48:09Z"
 ---
 ## What it is
 Enables AI agents to discover and read Typeship API documentation and execute API operations through schema-validated MCP tools, with optional read-only mode and configurable result limits.

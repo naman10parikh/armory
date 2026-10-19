@@ -8,13 +8,13 @@ source_url: https://github.com/BartWaardenburg/bol-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-03-05T22:22:45Z"
+pushed_at: "2026-10-13T14:04:09Z"
 ---
 ## What it is
 MCP server for the bol.com Retailer API that enables managing orders, offers, shipments, returns, invoices, and commissions via natural language.

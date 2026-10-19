@@ -8,11 +8,13 @@ source_url: https://github.com/ameobius-ai/web-check-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-17T09:40:08Z"
 ---
 ## What it is
 MCP server that exposes 31 OSINT checks from Lissy93/web-check as tools for website analysis, including SSL, DNS, headers, WHOIS, and security presets. Enables natural-language-driven web recon and health checks.

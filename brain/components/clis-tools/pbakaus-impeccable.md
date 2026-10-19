@@ -8,14 +8,14 @@ source_url: https://github.com/pbakaus/impeccable
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 80181
+stars: 83003
 eval_score: null
 mentions: 5
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 4771
-pushed_at: "2026-10-12T16:08:25Z"
+forks: 5019
+pushed_at: "2026-10-19T02:18:38Z"
 ---
 ## What it is
 The design language that makes your AI harness better at design.

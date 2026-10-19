@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-10T09:02:21Z"
+pushed_at: "2026-10-19T09:47:03Z"
 ---
 ## What it is
 Enables AI to scan AWS accounts, analyze attack paths, and verify security fixes on a read-only graph of cloud resources.

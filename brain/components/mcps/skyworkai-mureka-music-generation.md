@@ -8,11 +8,11 @@ source_url: https://github.com/skyworkai/mureka-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 119
+stars: 120
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
+forks: 28
 pushed_at: "2025-05-13T10:25:27Z"
 ---
 ## What it is

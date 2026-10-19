@@ -8,11 +8,11 @@ source_url: https://github.com/blakeem/navidrome-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 90
+stars: 93
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
+forks: 11
 pushed_at: "2026-10-08T08:01:31Z"
 ---
 ## What it is

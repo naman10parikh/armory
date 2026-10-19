@@ -8,12 +8,12 @@ source_url: https://github.com/playcanvas/editor-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 137
+stars: 149
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 29
-pushed_at: "2026-10-12T16:03:00Z"
+forks: 32
+pushed_at: "2026-10-16T14:44:23Z"
 ---
 ## What it is
 MCP server `PlayCanvas Editor`, catalogued on PulseMCP. Enables real-time interaction with the PlayCanvas game engine through a Chrome extension that injects WebSocket capabilities into the Editor, allowing creation and modification of game objects, assets, and scene settings.

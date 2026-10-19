@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-04-29T13:33:16Z"
+pushed_at: "2026-10-15T12:22:28Z"
 ---
 ## What it is
 MCP server `Agent Skill Loader`, catalogued on PulseMCP. Dynamically loads Claude Code skills into AI agents without copying files.

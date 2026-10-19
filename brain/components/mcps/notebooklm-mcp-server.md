@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T16:28:34Z"
+pushed_at: "2026-10-19T14:21:21Z"
 ---
 ## What it is
 Provides CLI and MCP server to programmatically access Google NotebookLM, enabling AI assistants to create notebooks, add sources, generate podcasts, and more, with support for both personal and enterprise accounts.

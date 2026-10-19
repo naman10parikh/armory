@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T17:30:39Z"
+pushed_at: "2026-10-16T11:15:09Z"
 ---
 ## What it is
 MCP server for the entire Shelly smart-home ecosystem, enabling local-first control, automation, and energy monitoring of Shelly devices with cloud fallback.

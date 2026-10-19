@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T08:48:39Z"
+pushed_at: "2026-10-18T23:03:36Z"
 ---
 ## What it is
 Turns Claude into a race engineer for original Assetto Corsa by reading telemetry, storing laps, and providing engineer-grade summaries, alongside read/write access to car setups.

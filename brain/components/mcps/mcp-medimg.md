@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T05:00:57Z"
+pushed_at: "2026-10-19T08:21:52Z"
 ---
 ## What it is
 Enables standardized PACS-AI integration through the Model Context Protocol, providing medical imaging workflows with DICOMweb transport, hierarchical PHI de-identification, and AI model orchestration.

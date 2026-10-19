@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T15:10:21Z"
+pushed_at: "2026-10-17T09:57:02Z"
 ---
 ## What it is
 Remote MCP server for searching and aggregating Japan's administrative procedures survey data, powered by Cloudflare Workers and D1.

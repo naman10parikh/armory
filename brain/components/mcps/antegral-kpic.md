@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-27T23:24:11Z"
+pushed_at: "2026-10-14T09:08:30Z"
 ---
 ## What it is
 MCP server `KPIC`, catalogued on PulseMCP. Integrates with the Korea Pharmaceutical Information Center (KPIC) API to retrieve drug details, interactions, safety information, and regulatory data for healthcare applications and pharmaceutical compliance workflows.

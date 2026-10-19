@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 94
-pushed_at: "2026-10-09T02:48:23Z"
+pushed_at: "2026-10-17T03:15:58Z"
 ---
 ## What it is
 MCP server `Salesforce`, catalogued on PulseMCP. Integrates with Salesforce CRM for natural language-driven data management, querying, and administration tasks.

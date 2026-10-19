@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T21:41:59Z"
+pushed_at: "2026-10-13T18:49:11Z"
 ---
 ## What it is
 A minimal MCP server that provides a health check (server_info) and multi-language greeting (greet) tools, built with TypeScript and the official SDK.

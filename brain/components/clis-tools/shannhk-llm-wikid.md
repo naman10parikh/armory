@@ -8,13 +8,13 @@ source_url: https://github.com/shannhk/llm-wikid
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 421
+stars: 428
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 40
+forks: 39
 pushed_at: "2026-08-24T09:02:40Z"
 ---
 ## What it is

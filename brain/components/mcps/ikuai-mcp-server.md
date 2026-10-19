@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-08-28T19:53:04Z"
+forks: 3
+pushed_at: "2026-10-15T17:43:50Z"
 ---
 ## What it is
 An MCP server that provides 229 tools to control iKuai routers, enabling AI assistants to manage network settings, monitoring, security, and more through natural language.

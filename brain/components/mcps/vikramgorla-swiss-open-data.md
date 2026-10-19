@@ -8,12 +8,12 @@ source_url: https://github.com/vikramgorla/mcp-swiss
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-05T06:55:17Z"
+pushed_at: "2026-10-19T06:54:56Z"
 ---
 ## What it is
 MCP server `Swiss Open Data`, catalogued on PulseMCP. Provides access to Swiss public data including transport schedules, weather, hydrology, geodata, company registries, and exchange rates.

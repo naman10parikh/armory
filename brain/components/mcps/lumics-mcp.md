@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T06:18:20Z"
+pushed_at: "2026-10-12T18:42:23Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that lets an AI assistant read and operate the Lumics network monitoring platform via its REST API.

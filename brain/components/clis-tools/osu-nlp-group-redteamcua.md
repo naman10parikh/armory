@@ -8,7 +8,7 @@ source_url: https://github.com/OSU-NLP-Group/RedTeamCUA
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 65
+stars: 66
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10

@@ -8,13 +8,13 @@ source_url: https://github.com/mrpulor-gh/nuphus-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 322
+stars: 326
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 38
-pushed_at: "2026-10-11T04:30:24Z"
+forks: 39
+pushed_at: "2026-10-13T12:06:07Z"
 ---
 ## What it is
 Desktop automation MCP server for any AI agent: control the screen, windows, mouse/keyboard, and Chrome (CDP) on your machine. Installable via npm @nuphus/nuphus-mcp.

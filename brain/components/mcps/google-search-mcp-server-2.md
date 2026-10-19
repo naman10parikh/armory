@@ -8,12 +8,12 @@ source_url: https://github.com/web-agent-master/google-search
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 622
+stars: 623
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 103
+forks: 105
 pushed_at: "2025-04-06T06:05:15Z"
 ---
 ## What it is

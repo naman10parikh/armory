@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T12:11:31Z"
+pushed_at: "2026-10-15T11:49:29Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to read-only search and retrieve GNOME mail, contacts, and calendar data using IMAP and Evolution Data Server, with no password storage.

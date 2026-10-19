@@ -8,13 +8,13 @@ source_url: https://github.com/ibm-client-engineering/concert-operate-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-29T07:22:20Z"
+pushed_at: "2026-10-17T06:03:36Z"
 ---
 ## What it is
 MCP server for IBM Concert Operate that exposes the full v2 REST API as callable tools, enabling AI assistants to manage alerts, incidents, policies, runbooks, and more.

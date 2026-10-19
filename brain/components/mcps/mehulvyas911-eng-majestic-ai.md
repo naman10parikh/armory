@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-10T06:33:06Z"
+pushed_at: "2026-10-17T17:08:08Z"
 ---
 ## What it is
 MCP server `Majestic AI`, catalogued on PulseMCP. Python MCP server with 50+ cybersecurity automation tools for authorized penetration testing and CTF challenges.

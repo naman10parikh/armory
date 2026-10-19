@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-03-31T11:03:00Z"
+pushed_at: "2026-10-15T11:28:55Z"
 ---
 ## What it is
 MCP server `ThriveStack`, catalogued on PulseMCP. PLG CRM analytics with account engagement, MAU/MTU, and sales lead data.

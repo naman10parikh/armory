@@ -8,13 +8,13 @@ source_url: https://github.com/FastMAS/KVCOMM
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 194
+stars: 195
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 31
+forks: 32
 pushed_at: "2025-11-03T03:54:28Z"
 ---
 ## What it is

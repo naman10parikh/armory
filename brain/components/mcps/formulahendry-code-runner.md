@@ -8,7 +8,7 @@ source_url: https://github.com/formulahendry/mcp-server-code-runner
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 243
+stars: 242
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

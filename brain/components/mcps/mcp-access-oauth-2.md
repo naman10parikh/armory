@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T14:58:20Z"
+pushed_at: "2026-10-14T19:23:30Z"
 ---
 ## What it is
 A remote MCP server with Cloudflare Access OAuth authentication, deployable to Cloudflare Workers, enabling secure connections from MCP clients with identity-based access control.

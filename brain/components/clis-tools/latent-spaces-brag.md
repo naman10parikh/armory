@@ -8,14 +8,14 @@ source_url: https://github.com/latent-spaces/brag
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 15423
+stars: 16880
 eval_score: null
 mentions: 3
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1130
-pushed_at: "2026-10-09T09:53:29Z"
+forks: 1259
+pushed_at: "2026-10-13T11:08:09Z"
 ---
 ## What it is
 You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.

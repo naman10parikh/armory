@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-11T10:37:43Z"
+pushed_at: "2026-10-13T07:42:47Z"
 ---
 ## What it is
 Cortex is an MCP server that helps build and maintain a project Memory Bank for AI assistants, enabling reproducible, high-quality AI-driven development with a plan-do-commit loop.

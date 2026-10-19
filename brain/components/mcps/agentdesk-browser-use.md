@@ -8,13 +8,13 @@ source_url: https://github.com/AgentDeskAI/browser-tools-mcp
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 7329
+stars: 7327
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, agentdesk]
-forks: 535
-pushed_at: "2026-08-12T16:48:04Z"
+forks: 548
+pushed_at: "2026-10-16T18:21:25Z"
 ---
 ## What it is
 AgentDesk fork of browser-use that integrates with the AgentDesk agent platform. It adds desktop-tool registration, task planning hooks, and multi-agent coordination on top of the browser-use core.

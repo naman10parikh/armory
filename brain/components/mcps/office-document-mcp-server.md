@@ -8,12 +8,12 @@ source_url: https://github.com/rcarmo/python-office-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 31
+stars: 30
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 5
 pushed_at: "2026-09-30T05:44:07Z"
 ---
 ## What it is

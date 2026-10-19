@@ -8,7 +8,7 @@ source_url: https://github.com/PeanutSplash/chelaile-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []

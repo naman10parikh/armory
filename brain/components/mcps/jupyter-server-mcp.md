@@ -8,13 +8,13 @@ source_url: https://github.com/jupyter-ai-contrib/jupyter-server-mcp
 license: BSD 3-Clause
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 30
+stars: 32
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
-pushed_at: "2026-09-16T19:14:51Z"
+forks: 12
+pushed_at: "2026-10-12T19:31:29Z"
 ---
 ## What it is
 A configurable MCP server extension for Jupyter Server that enables dynamic registration of Python functions as tools accessible to MCP clients from a running Jupyter Server.

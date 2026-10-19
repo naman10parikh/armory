@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-01T22:16:45Z"
+pushed_at: "2026-10-16T18:51:41Z"
 ---
 ## What it is
 MCP server `OpenPaper`, catalogued on PulseMCP. Generate academic papers with AI agents and verified citations.

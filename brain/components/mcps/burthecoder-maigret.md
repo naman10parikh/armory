@@ -8,12 +8,12 @@ source_url: https://github.com/burtthecoder/mcp-maigret
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 268
+stars: 269
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 38
-pushed_at: "2026-10-09T22:43:14Z"
+pushed_at: "2026-10-16T08:54:16Z"
 ---
 ## What it is
 MCP server `Maigret OSINT`, catalogued on PulseMCP. OSINT Maigret integration to gather user info across social networks.

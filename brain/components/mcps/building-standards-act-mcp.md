@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-22T01:44:05Z"
+pushed_at: "2026-10-17T10:23:13Z"
 ---
 ## What it is
 Provides real-time access to Japanese building standards laws and regulations from e-Gov API, helping prevent AI hallucinations by validating citations against original legal texts.

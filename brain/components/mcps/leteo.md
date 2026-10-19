@@ -8,13 +8,13 @@ source_url: https://github.com/asanabrial/leteo
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-12T05:49:59Z"
+pushed_at: "2026-10-17T02:10:42Z"
 ---
 ## What it is
 Persistent memory for AI coding agents, storing decisions, bug fixes, conventions, and discoveries in a local SQLite database and automatically recalling them when relevant. Works with Claude Code, Codex, Cursor, Gemini CLI, and other MCP-compatible agents.

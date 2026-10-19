@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T19:42:44Z"
+pushed_at: "2026-10-19T13:57:17Z"
 ---
 ## What it is
 An MCP server that enables AI agents to generate images and videos through Google Flow using models like Veo and Nano Banana, with tools for image generation, upscaling, video creation, character management, and music generation.

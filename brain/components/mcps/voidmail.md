@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T00:59:39Z"
+pushed_at: "2026-10-16T22:46:40Z"
 ---
 ## What it is
 Email for AI agents. Create inboxes, send and receive emails without phone or CAPTCHA.

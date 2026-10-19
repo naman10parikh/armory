@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-03-16T10:18:47Z"
+pushed_at: "2026-10-13T14:04:30Z"
 ---
 ## What it is
 MCP server for AI image generation, transformation, and style management via the Recraft API. Provides tools for text-to-image, image-to-image, inpainting, background operations, vectorization, upscaling, and custom style creation.

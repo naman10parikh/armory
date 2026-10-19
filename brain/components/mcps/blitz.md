@@ -8,11 +8,11 @@ source_url: https://github.com/blitzdotdev/blitz-mac
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1756
+stars: 1760
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 138
+forks: 139
 pushed_at: "2026-07-14T00:05:46Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-12T08:57:26Z"
+pushed_at: "2026-10-15T12:01:40Z"
 ---
 ## What it is
 Enables AI agents to provision phone numbers, send SMS, place AI voice calls, and react to inbound events via the Dial communication stack, all through MCP tools.

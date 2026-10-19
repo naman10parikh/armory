@@ -13,7 +13,7 @@ related: []
 tags: [mcp, monitoring]
 stars: 7
 forks: 0
-pushed_at: "2026-05-16T20:09:34Z"
+pushed_at: "2026-10-18T06:27:02Z"
 ---
 ## What it is
 Synthetic monitoring for LLM inference endpoints. Measure TTFT, latency, throughput, and errors across OpenAI, Anthropic, Google, Azure, Bedrock, and local servers (vLLM, SGLang, Ollama). CLI + MCP server with Prometheus and OpenTelemetry export.

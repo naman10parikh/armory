@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, communication]
-stars: 539
-forks: 105
-pushed_at: "2026-04-25T13:55:22Z"
+stars: 549
+forks: 108
+pushed_at: "2026-10-18T00:54:59Z"
 ---
 ## What it is
 A MCP server for the Discord integration. Enable your AI assistants to seamlessly interact with Discord. Enhance your Discord experience with powerful automation capabilities.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-12T15:29:51Z"
+pushed_at: "2026-10-17T19:22:17Z"
 ---
 ## What it is
 An MCP server that enables running commands against a ServiceNow instance via its REST APIs, including Table, Aggregate, Attachment, Import Set, Batch, CMDB, Service Catalog, Change Management, and Knowledge APIs.

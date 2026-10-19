@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T03:52:49Z"
+pushed_at: "2026-10-18T19:10:14Z"
 ---
 ## What it is
 MCP server for local fitness-data extraction and analysis from Garmin Connect, Intervals.icu, and Strava. Provides read-only analytical tools over DuckDB and targeted Strava enrichment.

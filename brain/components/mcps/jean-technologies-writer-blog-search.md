@@ -8,11 +8,11 @@ source_url: https://github.com/jonathan-politzki/mcp-writer-substack
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 4
 pushed_at: "2025-04-11T03:45:50Z"
 ---
 ## What it is

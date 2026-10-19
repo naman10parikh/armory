@@ -8,12 +8,12 @@ source_url: https://github.com/thepiruthvirajan/autocad-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 63
+stars: 66
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 32
+forks: 34
 pushed_at: "2025-07-28T14:59:30Z"
 ---
 ## What it is

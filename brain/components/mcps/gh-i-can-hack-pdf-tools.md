@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-07-30T09:07:06Z"
+pushed_at: "2026-10-19T11:45:37Z"
 ---
 ## What it is
 MCP server `PDF Tools`, catalogued on PulseMCP. Reads, renders, and searches PDF files using PyMuPDF.

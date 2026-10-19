@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T15:11:33Z"
+pushed_at: "2026-10-13T17:11:22Z"
 ---
 ## What it is
 Local-first CLI + proxy that curates your MCP servers per client from one canonical config, cutting tool-schema tokens ~80% and resolving secret references instead of hardcoding keys.

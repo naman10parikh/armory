@@ -12,8 +12,8 @@ stars: 502
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 66
-pushed_at: "2026-09-29T20:38:23Z"
+forks: 70
+pushed_at: "2026-10-17T09:47:45Z"
 ---
 ## What it is
 MCP server `Vibe Check`, catalogued on PulseMCP. The definitive Vibe Coder's sanity check MCP server: Upgrade your agent with self-aware oversight.

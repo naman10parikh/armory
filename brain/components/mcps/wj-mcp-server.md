@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T11:05:47Z"
+pushed_at: "2026-10-16T09:57:41Z"
 ---
 ## What it is
 Exposes WJ's image generation capabilities as a remote MCP plugin for ChatGPT Work, enabling users to generate images through natural language with OAuth 2.1 security and support for various models, aspect ratios, and reference images.

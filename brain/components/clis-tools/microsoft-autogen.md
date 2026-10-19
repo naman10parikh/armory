@@ -8,14 +8,14 @@ source_url: https://github.com/microsoft/autogen
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 61372
+stars: 61481
 eval_score: null
 mentions: 8
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 9280
-pushed_at: "2026-04-15T11:59:09Z"
+forks: 9299
+pushed_at: "2026-10-16T16:14:37Z"
 ---
 ## What it is
 A programming framework for agentic AI

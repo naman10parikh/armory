@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-29T16:58:46Z"
+pushed_at: "2026-10-12T21:04:36Z"
 ---
 ## What it is
 MCP server for Genesys Cloud that enables AI assistants to build and manage queues, skills, users, wrap-up codes, and Architect flows, including a flow builder that renders diagrams and publishes via Genesys' validation pipeline.

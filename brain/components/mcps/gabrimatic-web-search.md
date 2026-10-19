@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-09-28T22:37:38Z"
+pushed_at: "2026-10-16T10:13:52Z"
 ---
 ## What it is
 MCP server `Web Search (Brave)`, catalogued on PulseMCP. Integrates Brave Search API for real-time web information retrieval, dynamically categorizing queries to proactively fetch current events, weather, sports scores, and time-sensitive data with robust error handling.

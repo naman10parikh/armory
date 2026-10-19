@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-08T19:46:19Z"
+pushed_at: "2026-10-16T20:21:00Z"
 ---
 ## What it is
 Converts natural language queries into Cypher queries against the NASA GeneLab Knowledge Graph, enabling AI-assisted analysis of spaceflight experiments and their biological effects.

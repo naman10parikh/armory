@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-05T18:31:44Z"
+pushed_at: "2026-10-19T12:55:27Z"
 ---
 ## What it is
 MCP server `Datto BCDR`, catalogued on PulseMCP. Manage Datto BCDR appliances, agents, recovery points, and alerts via MCP.

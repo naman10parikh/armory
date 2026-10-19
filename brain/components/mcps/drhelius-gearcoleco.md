@@ -8,12 +8,12 @@ source_url: https://github.com/drhelius/gearcoleco
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 142
+stars: 143
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 27
-pushed_at: "2026-10-12T09:26:27Z"
+pushed_at: "2026-10-19T09:53:28Z"
 ---
 ## What it is
 MCP server `Gearcoleco`, catalogued on PulseMCP. AI-assisted debugging for ColecoVision emulation, exposing memory inspection, breakpoints, disassembly, and hardware monitoring through the MCP interface.

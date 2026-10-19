@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-06-30T13:21:53Z"
+pushed_at: "2026-10-17T16:53:41Z"
 ---
 ## What it is
 Connects Claude to Amazon Seller Central via the SP-API for natural language queries on sales, inventory, reports, fees, reimbursements, and analytics.

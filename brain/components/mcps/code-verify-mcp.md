@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T10:59:39Z"
+pushed_at: "2026-10-16T14:54:21Z"
 ---
 ## What it is
 An MCP server for verifying AI-generated code quality, security, and performance, addressing trust gaps in AI coding assistants.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-05T02:07:29Z"
+pushed_at: "2026-10-19T02:07:18Z"
 ---
 ## What it is
 MCP server `La Réunion Open Data`, catalogued on PulseMCP. Accesses La Réunion regional open data through 99 tools across 22 topic modules.

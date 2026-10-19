@@ -8,12 +8,12 @@ source_url: https://github.com/marcelroozekrans/memorylens-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-11T20:04:42Z"
+pushed_at: "2026-10-19T00:58:57Z"
 ---
 ## What it is
 MCP server `MemoryLens`, catalogued on PulseMCP. .NET memory profiling with JetBrains dotMemory integration for AI-assisted analysis.

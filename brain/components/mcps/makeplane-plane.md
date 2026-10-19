@@ -8,11 +8,11 @@ source_url: https://github.com/makeplane/plane-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 339
+stars: 343
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 192
+forks: 196
 pushed_at: "2026-10-08T13:06:55Z"
 ---
 ## What it is

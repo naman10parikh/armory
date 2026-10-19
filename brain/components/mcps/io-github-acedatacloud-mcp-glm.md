@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T02:06:16Z"
+pushed_at: "2026-10-18T19:02:13Z"
 ---
 ## What it is
 MCP server for Zhipu GLM chat completions via AceDataCloud. Provides tools for chat completions, model listing, and usage guide.

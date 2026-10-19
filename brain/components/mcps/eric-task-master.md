@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-11T19:38:01Z"
+pushed_at: "2026-10-18T19:35:14Z"
 ---
 ## What it is
 Enables AI agents to run durable, isolated, and observable browser automation tasks via Playwright, with persistent profiles, recovery, evidence capture, and unattended execution for long-running web workflows.

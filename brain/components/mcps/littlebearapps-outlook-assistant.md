@@ -12,8 +12,8 @@ stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
-pushed_at: "2026-10-08T06:15:04Z"
+forks: 18
+pushed_at: "2026-10-19T12:24:26Z"
 ---
 ## What it is
 MCP server `Outlook Assistant`, catalogued on PulseMCP. Microsoft Outlook integration with 20+ tools for email, calendar, contacts, and mailbox management via Graph API.

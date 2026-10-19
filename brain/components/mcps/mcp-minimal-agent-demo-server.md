@@ -8,7 +8,7 @@ source_url: https://github.com/Synaptechlabs/mcp-minimal-agent
 license: Creative Commons Zero v1.0 Universal
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []

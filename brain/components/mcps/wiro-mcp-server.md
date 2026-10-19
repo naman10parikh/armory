@@ -8,13 +8,13 @@ source_url: https://github.com/wiroai/Wiro-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-30T10:56:49Z"
+forks: 1
+pushed_at: "2026-10-18T17:34:20Z"
 ---
 ## What it is
 Official MCP server for Wiro AI that provides access to hundreds of AI models for generation, editing, and analysis from any MCP-compatible assistant.

@@ -8,13 +8,13 @@ source_url: https://github.com/fouradata/mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T11:14:43Z"
+pushed_at: "2026-10-14T21:26:21Z"
 ---
 ## What it is
 Provides MCP tools for web scraping, including smart fetching, proxy rotation, and browser rendering to bypass anti-bot challenges and render JavaScript-heavy sites.

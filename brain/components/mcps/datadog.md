@@ -8,13 +8,13 @@ source_url: https://github.com/datadog-labs/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 45
+stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
 forks: 4
-pushed_at: "2026-09-25T20:44:34Z"
+pushed_at: "2026-10-16T22:22:44Z"
 ---
 ## What it is
 MCP server `Datadog`, catalogued on PulseMCP. Connects AI agents to Datadog's unified observability platform for querying logs, metrics, traces, dashboards, monitors, incidents, and more in real time.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-23T06:08:48Z"
+pushed_at: "2026-10-13T13:43:21Z"
 ---
 ## What it is
 Enables AI assistants to perform reconnaissance tasks using the reconFTW framework, supporting full, passive, subdomain, vulnerability, and OSINT scans through MCP tools.

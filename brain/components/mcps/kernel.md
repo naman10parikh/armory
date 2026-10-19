@@ -12,8 +12,8 @@ stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
-pushed_at: "2026-10-12T14:22:14Z"
+forks: 9
+pushed_at: "2026-10-19T14:06:54Z"
 ---
 ## What it is
 MCP server `Kernel Platform`, catalogued on PulseMCP. Integrates with Kernel platform's cloud deployment and browser automation services to enable app deployment with dependency resolution, browser session management with stealth capabilities, and automated testing workflows through OAuth2-secured API access.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T13:19:55Z"
+pushed_at: "2026-10-14T19:20:13Z"
 ---
 ## What it is
 MCP server that reads local SQLite database populated by a Playwright scraper to provide daily summary, food log, weight history, and water log from LoseIt.

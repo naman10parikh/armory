@@ -8,13 +8,13 @@ source_url: https://github.com/sandraschi/pywinauto-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 41
+stars: 46
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
-pushed_at: "2026-10-10T15:15:18Z"
+forks: 16
+pushed_at: "2026-10-13T12:40:56Z"
 ---
 ## What it is
 A Windows computer use agent — FastMCP server that gives AI assistants hands on the real desktop: windows, UI elements, mouse, keyboard, screenshots, OCR, shortcuts, dialogs, and outcome verification.

@@ -8,12 +8,12 @@ source_url: https://github.com/FunplayAI/funplay-unity-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 261
+stars: 265
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 21
+forks: 23
 pushed_at: "2026-10-08T10:23:01Z"
 ---
 ## What it is

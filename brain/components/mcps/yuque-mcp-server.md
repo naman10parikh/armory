@@ -8,12 +8,12 @@ source_url: https://github.com/yuque/yuque-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 249
+stars: 255
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 27
+forks: 28
 pushed_at: "2026-07-15T03:00:57Z"
 ---
 ## What it is

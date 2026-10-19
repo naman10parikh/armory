@@ -8,14 +8,14 @@ source_url: https://github.com/chaseai-yt/claudex-loop
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2942
+stars: 3121
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 319
-pushed_at: "2026-09-06T23:05:32Z"
+forks: 338
+pushed_at: "2026-10-14T17:20:17Z"
 ---
 ## What it is
 Claude Code skill: four-phase plan hardening (recon, interrogate, Codex adversarial review, cross-model build & inspection) — two AI models harden your plan before a line of code exists, then swap jobs to build it. Whoever built it never grades it.

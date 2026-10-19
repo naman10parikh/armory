@@ -8,13 +8,13 @@ source_url: https://github.com/Knuckles-Team/vector-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-11T12:53:47Z"
+pushed_at: "2026-10-18T09:49:15Z"
 ---
 ## What it is
 A production-grade MCP server for integrating RAG into AI agents, supporting multiple vector databases with enterprise security and dynamic tool selection.

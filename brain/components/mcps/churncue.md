@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T11:06:06Z"
+pushed_at: "2026-10-14T20:21:54Z"
 ---
 ## What it is
 Production-oriented customer-retention intelligence that uses deterministic machine learning to predict churn and generate prioritized rescue reports, governed through MCP tools.

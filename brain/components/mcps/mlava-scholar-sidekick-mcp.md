@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-12T01:03:14Z"
+pushed_at: "2026-10-15T22:06:34Z"
 ---
 ## What it is
 MCP server `Scholar Sidekick`, catalogued on PulseMCP. Resolve, format, and export academic citations.

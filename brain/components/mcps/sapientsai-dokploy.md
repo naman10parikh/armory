@@ -8,12 +8,12 @@ source_url: https://github.com/sapientsai/dokploy-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-04T01:36:12Z"
+pushed_at: "2026-10-17T19:02:05Z"
 ---
 ## What it is
 MCP server `Dokploy`, catalogued on PulseMCP. Integrates with Dokploy's self-hosted PaaS for deployment management, database orchestration, and infrastructure automation via 13 consolidated action-based tools.

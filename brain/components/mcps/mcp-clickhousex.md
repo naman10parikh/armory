@@ -8,13 +8,13 @@ source_url: https://github.com/alyiox/mcp-clickhousex
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T00:52:44Z"
+pushed_at: "2026-10-13T07:12:41Z"
 ---
 ## What it is
 A read-only MCP server for ClickHouse that enables metadata discovery, parameterized SELECT queries, SHOW introspection, query analysis, and snapshot mode for large result sets, with profile-based configuration and strict no-DML/DDL enforcement.

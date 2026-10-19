@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T21:12:42Z"
+pushed_at: "2026-10-12T20:43:54Z"
 ---
 ## What it is
 Agent-native MCP server for Carly, the AI scheduling assistant. Exposes 11 tools to read and manage booking pages, event types, calendars, bookings, and available slots. Allows you to manage and create booking pages from the command line.

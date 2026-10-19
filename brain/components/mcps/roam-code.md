@@ -8,13 +8,13 @@ source_url: https://github.com/Cranot/roam-code
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 517
+stars: 518
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 50
-pushed_at: "2026-10-10T04:25:01Z"
+pushed_at: "2026-10-18T11:43:34Z"
 ---
 ## What it is
 Provides local codebase intelligence as an MCP server, enabling AI agents to query dependencies, assess change impact, and produce tamper-evident change evidence packets.

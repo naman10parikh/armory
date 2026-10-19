@@ -8,13 +8,13 @@ source_url: https://github.com/weironz/appflowy_mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-07-23T04:31:48Z"
+pushed_at: "2026-10-19T14:25:55Z"
 ---
 ## What it is
 An MCP server for AppFlowy Cloud that enables workspace, space, page, trash, favorite, and page-content management.

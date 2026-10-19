@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T01:53:45Z"
+pushed_at: "2026-10-12T21:12:51Z"
 ---
 ## What it is
 Enables agents to build and query code knowledge graphs for repositories in a folder — finding shortest paths between concepts, explaining concepts with neighbours and community context, and visualizing per-repo graphs through MCP tools.

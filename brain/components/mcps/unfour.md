@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-12T07:45:36Z"
+pushed_at: "2026-10-19T13:40:45Z"
 ---
 ## What it is
 Local-first backend developer workspace exposing API debugging, SSH, database, workspace, and diagnostics tools to AI agents through a local MCP server

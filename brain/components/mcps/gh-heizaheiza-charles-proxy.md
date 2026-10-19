@@ -8,11 +8,11 @@ source_url: https://github.com/heizaheiza/charles-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 318
+stars: 326
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 34
+forks: 40
 pushed_at: "2026-06-23T13:38:18Z"
 ---
 ## What it is

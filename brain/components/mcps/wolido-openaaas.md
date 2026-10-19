@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
-stars: 30
+stars: 31
 forks: 10
-pushed_at: "2026-10-09T06:24:30Z"
+pushed_at: "2026-10-18T04:07:41Z"
 ---
 ## What it is
 Python MCP adapter connecting Claude/Cursor/Cline to the OpenAaaS scientific agent network. Submit tasks to remote research agents (literature analysis, materials databases, etc.) — data stays local, only KB~MB results flow. Install: `uvx openaaas-mcp-adapter`.

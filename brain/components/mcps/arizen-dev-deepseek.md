@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-05-04T16:14:39Z"
+pushed_at: "2026-10-15T08:13:38Z"
 ---
 ## What it is
 MCP server `DeepSeek Worker`, catalogued on PulseMCP. Integrates DeepSeek AI as a supervised worker with two tools: fast flash-model tasks and deep-reasoning pro-model advice.

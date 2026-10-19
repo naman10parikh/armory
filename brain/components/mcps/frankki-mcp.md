@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-11T04:42:06Z"
+pushed_at: "2026-10-16T07:23:18Z"
 ---
 ## What it is
 Hosted remote MCP server that lets AI agents compose, price, send, and track real physical letters worldwide.

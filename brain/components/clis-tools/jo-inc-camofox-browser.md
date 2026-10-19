@@ -8,14 +8,14 @@ source_url: https://github.com/jo-inc/camofox-browser
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 11549
+stars: 11704
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1154
-pushed_at: "2026-10-07T03:38:45Z"
+forks: 1176
+pushed_at: "2026-10-16T20:27:20Z"
 ---
 ## What it is
 Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.

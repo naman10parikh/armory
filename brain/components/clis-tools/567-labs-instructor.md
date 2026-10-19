@@ -8,14 +8,14 @@ source_url: https://github.com/567-labs/instructor
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 14006
+stars: 14036
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1302
-pushed_at: "2026-10-11T06:43:16Z"
+forks: 1323
+pushed_at: "2026-10-14T22:21:57Z"
 ---
 ## What it is
 structured outputs for llms

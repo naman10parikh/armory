@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T05:58:40Z"
+pushed_at: "2026-10-16T17:48:15Z"
 ---
 ## What it is
 Enables starting and monitoring shared multiplayer sessions for agentic coding terminals, allowing agents to host wrapped commands and retrieve session status via WebSocket.

@@ -8,11 +8,11 @@ source_url: https://github.com/professioneit/lsp-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
+forks: 7
 pushed_at: "2026-10-07T09:04:01Z"
 ---
 ## What it is

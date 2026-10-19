@@ -8,14 +8,14 @@ source_url: https://github.com/facebookresearch/ProgramBench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 952
+stars: 963
 eval_score: null
 mentions: 3
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 69
-pushed_at: "2026-09-29T06:42:27Z"
+forks: 67
+pushed_at: "2026-10-12T23:46:04Z"
 ---
 ## What it is
 Can Language Models Rebuild Programs From Scratch?

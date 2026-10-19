@@ -8,11 +8,11 @@ source_url: https://github.com/krekun/vrchat-mcp-osc
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 6
 pushed_at: "2025-03-30T13:00:44Z"
 ---
 ## What it is

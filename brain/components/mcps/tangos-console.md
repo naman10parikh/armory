@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-08-14T22:34:46Z"
+pushed_at: "2026-10-17T01:00:07Z"
 ---
 ## What it is
 Exposes a repo's decompilation tools as an MCP server, allowing AI to drive them with real-time visualization.

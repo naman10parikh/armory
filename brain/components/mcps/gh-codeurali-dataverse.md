@@ -8,12 +8,12 @@ source_url: https://github.com/codeurali/mcp-dataverse
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-07-21T21:20:56Z"
+pushed_at: "2026-10-14T01:37:17Z"
 ---
 ## What it is
 MCP server `Dataverse`, catalogued on PulseMCP. 73 tools for Microsoft Dataverse including CRUD, FetchXML, metadata, and audit operations.

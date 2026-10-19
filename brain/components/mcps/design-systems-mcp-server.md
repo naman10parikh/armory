@@ -8,12 +8,12 @@ source_url: https://github.com/southleft/design-systems-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 219
+stars: 222
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 21
+forks: 20
 pushed_at: "2026-09-10T17:48:43Z"
 ---
 ## What it is

@@ -8,14 +8,14 @@ source_url: https://github.com/codejunkie99/agentic-stack
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2295
+stars: 2299
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, memory]
-forks: 281
-pushed_at: "2026-10-12T14:04:45Z"
+forks: 282
+pushed_at: "2026-10-12T17:05:33Z"
 ---
 ## What it is
 One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.

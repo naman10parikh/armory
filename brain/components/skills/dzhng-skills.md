@@ -8,14 +8,14 @@ source_url: https://github.com/dzhng/skills
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1207
+stars: 1360
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, skills]
-forks: 72
-pushed_at: "2026-10-12T08:31:58Z"
+forks: 87
+pushed_at: "2026-10-19T02:39:05Z"
 ---
 ## What it is
 Reusable AI agent skills for software factories: explore ideas, write specs, implement, review, and run autonomous research. Works with Claude Code, Codex, and other skill-compatible agents.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T18:11:53Z"
+pushed_at: "2026-10-19T11:43:34Z"
 ---
 ## What it is
 Publish the website you built with AI to a live public URL — straight from chat, no setup. Enables deploying static sites and updating them with edit tokens.

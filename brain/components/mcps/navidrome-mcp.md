@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T08:05:31Z"
+pushed_at: "2026-10-17T07:44:54Z"
 ---
 ## What it is
 Enables building mood-based playlists for Navidrome by joining your library, listen history, and personal playlist labels from Navidrome, ListenBrainz, and Last.fm.

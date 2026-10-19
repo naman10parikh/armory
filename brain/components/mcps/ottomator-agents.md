@@ -8,12 +8,12 @@ source_url: https://github.com/coleam00/ottomator-agents
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5789
+stars: 5794
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, multiagent-systems]
-forks: 1941
+forks: 1937
 pushed_at: "2025-11-09T21:46:48Z"
 ---
 ## What it is

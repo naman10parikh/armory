@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 110
-pushed_at: "2026-10-08T00:36:34Z"
+pushed_at: "2026-10-19T13:36:30Z"
 ---
 ## What it is
 MCP server for OpenSearch that enables AI assistants to interact with OpenSearch clusters through a standardized interface for search, index management, and cluster operations.

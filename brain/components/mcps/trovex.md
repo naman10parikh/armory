@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T13:32:29Z"
+pushed_at: "2026-10-14T08:39:56Z"
 ---
 ## What it is
 Indexes your repo's markdown into a canonical doc store, serving agents the single current doc per question via MCP to save tokens and keep all agents on the same source of truth.

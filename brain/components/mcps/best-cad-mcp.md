@@ -8,12 +8,12 @@ source_url: https://github.com/LokmenoWer/best-cad-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 28
+stars: 30
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 6
 pushed_at: "2026-10-01T04:33:12Z"
 ---
 ## What it is

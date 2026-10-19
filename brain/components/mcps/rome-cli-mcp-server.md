@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T16:11:15Z"
+pushed_at: "2026-10-18T09:38:32Z"
 ---
 ## What it is
 Provides grounded chain facts and build patterns for Rome Protocol, enabling agents to access live registry data and SDK patterns read-only.

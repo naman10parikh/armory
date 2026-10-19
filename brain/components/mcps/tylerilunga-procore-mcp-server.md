@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, product-management]
 stars: 12
-forks: 6
+forks: 7
 pushed_at: "2026-08-21T10:59:35Z"
 ---
 ## What it is

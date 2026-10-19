@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-05T21:56:41Z"
+pushed_at: "2026-10-14T06:16:37Z"
 ---
 ## What it is
 A self-hosted, graph-aware memory server for AI assistants that provides persistent memory across sessions with hybrid search and knowledge graph capabilities.

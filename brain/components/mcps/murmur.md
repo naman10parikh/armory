@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-12T12:10:06Z"
+pushed_at: "2026-10-19T07:24:23Z"
 ---
 ## What it is
 Encrypted agent-to-agent messaging for AI agents via NATS JetStream, enabling autonomous, secure communication and collaborative workflows.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-15T18:31:50Z"
+pushed_at: "2026-10-13T17:31:24Z"
 ---
 ## What it is
 MCP server that enables AI assistants to query Parse.ly analytics for top posts, authors, tags, referrers, content search, and social shares.

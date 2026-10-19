@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-05T20:46:54Z"
+pushed_at: "2026-10-14T17:06:56Z"
 ---
 ## What it is
 MCP server `PR Copilot`, catalogued on PulseMCP. Monitors GitHub pull requests with automated state machine-driven CI checks, review comment handling, merge conflict detection, and TUI dashboard visualization.

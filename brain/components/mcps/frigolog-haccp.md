@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-25T21:48:14Z"
+pushed_at: "2026-10-16T12:19:21Z"
 ---
 ## What it is
 MCP server `Frigolog HACCP`, catalogued on PulseMCP. French HACCP food safety compliance server with 16 tools for live RappelConso recalls and Alim'confiance inspections.

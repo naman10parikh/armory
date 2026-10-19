@@ -8,7 +8,7 @@ source_url: https://github.com/automateyournetwork/MCPyATS
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 69
+stars: 70
 eval_score: null
 verified_at: 2026-05-28
 related: []

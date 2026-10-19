@@ -8,12 +8,12 @@ source_url: https://github.com/tomtom-international/tomtom-traffic-analytics-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-04T20:10:25Z"
+pushed_at: "2026-10-14T08:54:32Z"
 ---
 ## What it is
 MCP server `TomTom Traffic Analytics`, catalogued on PulseMCP. Provides 8 tools for analyzing real-time and historical traffic patterns via TomTom's MOVE portal and Developer API.

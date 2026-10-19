@@ -8,12 +8,12 @@ source_url: https://github.com/icebird1998/scientific-illustrator
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 920
+stars: 945
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 70
+forks: 71
 pushed_at: "2026-09-08T06:46:04Z"
 ---
 ## What it is

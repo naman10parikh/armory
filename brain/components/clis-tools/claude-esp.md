@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claude-tmux, omnara]
 tags: [claude-code, alternative-clients]
-stars: 155
+stars: 156
 forks: 6
 pushed_at: "2026-09-22T23:27:53Z"
 ---

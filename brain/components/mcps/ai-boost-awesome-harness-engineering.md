@@ -8,14 +8,14 @@ source_url: https://github.com/ai-boost/awesome-harness-engineering
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 4797
+stars: 4882
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, mcps]
-forks: 639
-pushed_at: "2026-10-12T09:15:28Z"
+forks: 685
+pushed_at: "2026-10-19T09:13:14Z"
 ---
 ## What it is
 Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.

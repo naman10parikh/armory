@@ -8,11 +8,11 @@ source_url: https://github.com/yeuxuan/ace-mcp-node
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 359
+stars: 358
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 38
+forks: 37
 pushed_at: "2026-04-20T07:33:02Z"
 ---
 ## What it is

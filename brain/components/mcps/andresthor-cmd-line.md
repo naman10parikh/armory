@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-03-16T16:47:22Z"
+pushed_at: "2026-10-14T12:05:27Z"
 ---
 ## What it is
 MCP server `Command Line`, catalogued on PulseMCP. Safely run command-line arguments for Unix/macOS systems.

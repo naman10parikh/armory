@@ -8,13 +8,13 @@ source_url: https://github.com/lukszi/SatisfactoryMCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-09T06:30:24Z"
+pushed_at: "2026-10-18T18:12:58Z"
 ---
 ## What it is
 An MCP server for Satisfactory that plans factories using your actual save files, reads game data, and runs LP/MILP optimization. It provides tools for game data lookup, factory planning, hard drive advice, and a local web map of your world.

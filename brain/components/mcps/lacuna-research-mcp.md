@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-09T02:30:55Z"
+pushed_at: "2026-10-18T03:20:51Z"
 ---
 ## What it is
 Empowers coding agents for machine learning research by providing access to Lacuna's research map, including novel research proposals, research directions, papers, authors, venues, institutions, and hypotheses. It enables searching and retrieving context-aware research information through MCP tools.

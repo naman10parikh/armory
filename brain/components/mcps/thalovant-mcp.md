@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T18:39:17Z"
+pushed_at: "2026-10-19T13:13:07Z"
 ---
 ## What it is
 MCP server for Thalovant control-plane and hub runtime APIs, supporting local stdio and remote Streamable HTTP with authentication and per-principal credentials.

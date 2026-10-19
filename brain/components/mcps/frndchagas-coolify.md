@@ -8,12 +8,12 @@ source_url: https://github.com/frndchagas/coolify-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-10-05T16:13:06Z"
+forks: 2
+pushed_at: "2026-10-12T16:51:14Z"
 ---
 ## What it is
 MCP server `Coolify`, catalogued on PulseMCP. Integrates with Coolify self-hosting platform for managing applications, databases, deployments, environment variables, and monitoring infrastructure health.

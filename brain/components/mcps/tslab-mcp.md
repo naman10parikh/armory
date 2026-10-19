@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T06:27:09Z"
+pushed_at: "2026-10-15T17:57:48Z"
 ---
 ## What it is
 Enables users to perform deterministic time series forecasting through Claude by running reproducible Python statistical and foundation models, providing tools for loading data, cross-validation, forecasting, anomaly detection, and exporting re-runnable manifests without any LLM involvement.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-10T20:16:16Z"
+pushed_at: "2026-10-17T20:51:08Z"
 ---
 ## What it is
 MCP server `GodotLens`, catalogued on PulseMCP. 15 semantic GDScript analysis tools via Godot's built-in LSP for navigation and references.

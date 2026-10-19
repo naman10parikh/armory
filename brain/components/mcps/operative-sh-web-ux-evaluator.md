@@ -8,11 +8,11 @@ source_url: https://github.com/refreshdotdev/web-eval-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1236
+stars: 1233
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 110
+forks: 109
 pushed_at: "2026-02-11T14:55:42Z"
 ---
 ## What it is

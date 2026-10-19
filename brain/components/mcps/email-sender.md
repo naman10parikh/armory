@@ -8,7 +8,7 @@ source_url: https://github.com/shy2593666979/mcp-server-email
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 80
+stars: 81
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -8,13 +8,13 @@ source_url: https://github.com/gefsikatsinelou/MetaSearchMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 59
+stars: 60
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-10-12T11:03:49Z"
+forks: 3
+pushed_at: "2026-10-19T08:28:11Z"
 ---
 ## What it is
 Aggregates search results from multiple providers (web, academic, code, finance) with a unified JSON schema, providing both an HTTP API and an MCP server for AI agent tooling.

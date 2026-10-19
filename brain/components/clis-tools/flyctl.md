@@ -14,8 +14,8 @@ mentions: null
 verified_at: 
 related: []
 tags: [deploy-infra]
-forks: 317
-pushed_at: "2026-10-12T08:44:38Z"
+forks: 319
+pushed_at: "2026-10-19T13:36:09Z"
 ---
 
 # flyctl

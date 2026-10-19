@@ -8,11 +8,11 @@ source_url: https://github.com/alpacahq/alpaca-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1016
+stars: 1027
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 336
+forks: 354
 pushed_at: "2026-10-12T10:40:50Z"
 ---
 ## What it is

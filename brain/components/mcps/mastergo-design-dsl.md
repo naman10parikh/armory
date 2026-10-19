@@ -8,12 +8,12 @@ source_url: https://github.com/mastergo-design/mastergo-magic-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 286
+stars: 285
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 51
-pushed_at: "2026-08-25T07:31:41Z"
+pushed_at: "2026-10-15T06:06:27Z"
 ---
 ## What it is
 MCP server `MasterGo Design`, catalogued on PulseMCP. Extracts design file metadata from MasterGo files using a personal access token, enabling direct retrieval of design element details for analysis and code generation.

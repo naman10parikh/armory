@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-10-12T06:45:18Z"
+forks: 5
+pushed_at: "2026-10-19T06:49:40Z"
 ---
 ## What it is
 Educational MCP server with 17 tools for mathematical calculations, matrix operations, statistical analysis, and data visualization. Includes persistent workspace, cloud hosting, and safety features like restricted eval.

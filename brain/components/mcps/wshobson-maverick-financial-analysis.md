@@ -8,12 +8,12 @@ source_url: https://github.com/wshobson/maverick-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 702
+stars: 707
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 165
-pushed_at: "2026-10-05T20:40:23Z"
+pushed_at: "2026-10-17T23:30:31Z"
 ---
 ## What it is
 MCP server `Maverick Financial Analysis`, catalogued on PulseMCP. Personal-use financial market analysis server that provides technical analysis tools including RSI, MACD, and moving averages with stock screening capabilities for supply/demand breakouts and momentum patterns using Tiingo and Yahoo Finance data.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-12T04:57:46Z"
+pushed_at: "2026-10-19T01:54:56Z"
 ---
 ## What it is
 A focused MCP server for Salesforce CRM that exposes read/write access to standard CRM objects via six tools, designed for multi-tenant gateway deployments.

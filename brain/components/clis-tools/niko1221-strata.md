@@ -8,14 +8,14 @@ source_url: https://github.com/Niko1221/Strata
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 22483
+stars: 27952
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2177
-pushed_at: "2026-10-11T14:37:54Z"
+forks: 2959
+pushed_at: "2026-10-19T14:03:06Z"
 ---
 ## What it is
 Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.

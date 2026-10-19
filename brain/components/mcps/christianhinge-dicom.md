@@ -8,12 +8,12 @@ source_url: https://github.com/christianhinge/dicom-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 101
+stars: 103
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 29
-pushed_at: "2026-10-06T22:09:41Z"
+forks: 30
+pushed_at: "2026-10-18T21:52:48Z"
 ---
 ## What it is
 MCP server `DICOM`, catalogued on PulseMCP. Enables interaction with medical imaging systems through DICOM networking protocols for querying patient information, studies, series, and instances, as well as extracting text from encapsulated PDF documents.

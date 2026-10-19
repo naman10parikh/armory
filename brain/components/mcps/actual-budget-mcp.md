@@ -8,13 +8,13 @@ source_url: https://github.com/henfrydls/actual-budget-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-10T02:45:40Z"
+pushed_at: "2026-10-18T16:55:46Z"
 ---
 ## What it is
 An MCP server that connects Actual Budget to Claude, enabling users to manage budgets, transactions, and spending insights through natural language.

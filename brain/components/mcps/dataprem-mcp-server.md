@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-20T08:25:20Z"
+pushed_at: "2026-10-16T13:23:00Z"
 ---
 ## What it is
 A Model Context Protocol server that provides access to Spanish public data sources (cadastral, business registry, judicial, and tenders) by wrapping the DataPrem REST API for AI agents.

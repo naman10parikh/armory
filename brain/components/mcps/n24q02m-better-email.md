@@ -8,11 +8,11 @@ source_url: https://github.com/n24q02m/better-email-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
+forks: 18
 pushed_at: "2026-10-11T20:11:36Z"
 ---
 ## What it is

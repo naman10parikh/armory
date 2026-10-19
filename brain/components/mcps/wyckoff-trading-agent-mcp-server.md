@@ -8,13 +8,13 @@ source_url: https://github.com/YoungCan-Wang/WyckoffTradingAgent
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 747
+stars: 753
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 216
-pushed_at: "2026-10-12T14:38:58Z"
+forks: 215
+pushed_at: "2026-10-19T09:08:19Z"
 ---
 ## What it is
 Provides 10 tools for Wyckoff volume-price analysis across A-shares, Hong Kong, and US stocks, enabling natural language interactions for stock screening, diagnosis, and reporting.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T12:10:51Z"
+pushed_at: "2026-10-15T12:10:50Z"
 ---
 ## What it is
 Aggregates site analytics and published content from Google Analytics, Search Console, Cloudflare, and Buffer into MCP tools for traffic, search, request, and content reports.

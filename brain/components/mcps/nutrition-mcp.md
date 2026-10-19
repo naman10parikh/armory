@@ -8,11 +8,11 @@ source_url: https://github.com/akutishevsky/nutrition-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 78
+stars: 79
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 29
+forks: 30
 pushed_at: "2026-10-10T16:57:05Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2025-09-10T04:29:55Z"
+pushed_at: "2026-10-12T20:22:40Z"
 ---
 ## What it is
 MCP server `Gmail`, catalogued on PulseMCP. Enterprise-grade Gmail integration with governance controls and OAuth authentication
