@@ -8,9 +8,9 @@
 <text x="80" y="162" font-size="25" fill="#a39e93">Where agents gear up: 60,000+ open-source agent components,</text>
 <text x="80" y="196" font-size="25" fill="#a39e93">ranked on public evidence.</text>
 <rect x="80" y="236" width="144" height="34" rx="17" fill="#1f2a35"/><text x="152" y="258" font-size="15" text-anchor="middle" fill="#c9dbee">Agent employee</text>
-<rect x="236" y="236" width="95" height="34" rx="17" fill="#1f2a35"/><text x="283" y="258" font-size="15" text-anchor="middle" fill="#c9dbee">4 skills</text>
-<rect x="343" y="236" width="120" height="34" rx="17" fill="#1f2a35"/><text x="403" y="258" font-size="15" text-anchor="middle" fill="#c9dbee">5 MCP tools</text>
-<rect x="475" y="236" width="128" height="34" rx="17" fill="#1f2a35"/><text x="539" y="258" font-size="15" text-anchor="middle" fill="#c9dbee">Command line</text>
-<rect x="615" y="236" width="120" height="34" rx="17" fill="#1f2a35"/><text x="675" y="258" font-size="15" text-anchor="middle" fill="#c9dbee">Evals in CI</text>
-<rect x="747" y="236" width="54" height="34" rx="17" fill="#1f2a35"/><text x="774" y="258" font-size="15" text-anchor="middle" fill="#c9dbee">MIT</text>
+<rect x="236" y="236" width="161" height="34" rx="17" fill="#1f2a35"/><text x="316" y="258" font-size="15" text-anchor="middle" fill="#c9dbee">Persona: Armiger</text>
+<rect x="409" y="236" width="95" height="34" rx="17" fill="#1f2a35"/><text x="456" y="258" font-size="15" text-anchor="middle" fill="#c9dbee">4 skills</text>
+<rect x="516" y="236" width="120" height="34" rx="17" fill="#1f2a35"/><text x="576" y="258" font-size="15" text-anchor="middle" fill="#c9dbee">5 MCP tools</text>
+<rect x="648" y="236" width="128" height="34" rx="17" fill="#1f2a35"/><text x="712" y="258" font-size="15" text-anchor="middle" fill="#c9dbee">Command line</text>
+<rect x="788" y="236" width="120" height="34" rx="17" fill="#1f2a35"/><text x="848" y="258" font-size="15" text-anchor="middle" fill="#c9dbee">Evals in CI</text>
 </svg>

@@ -18,7 +18,7 @@
 
 **Where agents gear up: 60,000+ open-source agent components, ranked on public evidence.**
 
-Armory is an agent employee, a packaged specialist agent with its own skills, memory and tests. It owns one job: MCPs and the component registry. Coding agents use it through its skills, its MCP server and its command line. A nightly job grows its catalogue, reruns every gate, and commits the result to main only when all of them pass.
+Armory is an agent employee, a packaged specialist agent with its own skills, memory and tests. It owns one job: MCPs and the component registry. Its persona is Armiger. Coding agents use it through its skills, its MCP server and its command line. A nightly job grows its catalogue, reruns every gate, and commits the result to main only when all of them pass.
 
 _Armory is part of an agent-native play for agent-native systems that can eventually be recursively self-improving and evolving, operated by agent employees._
 
