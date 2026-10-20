@@ -1,0 +1,4 @@
+# GitHub's source archives leave out the catalog's raw folders (125,000 files), so `npx -y -p github:naman10parikh/armory`
+# downloads what it builds from. A clone still has everything; the CLI fetches a component's brain page from GitHub.
+/brain export-ignore
+/mcps export-ignore
