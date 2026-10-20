@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: performance-profiling
 description: Performance profiling principles. Measurement, analysis, and optimization techniques.
 allowed-tools: Read, Glob, Grep, Bash
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Performance Profiling
 

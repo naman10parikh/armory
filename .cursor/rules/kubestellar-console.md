@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "KubeStellar Console — Multi-cluster Kubernetes dashboard development rules"
 globs: **/*.tsx, **/*.ts, **/*.go, web/src/**/*.ts, web/src/**/*.tsx, pkg/**/*.go, cmd/**/*.go
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # KubeStellar Console Development Rules
 
 ## Project Structure

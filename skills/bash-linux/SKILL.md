@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: bash-linux
 description: Bash/Linux terminal patterns. Critical commands, piping, error handling, scripting. Use when working on macOS or Linux systems.
 allowed-tools: Read, Write, Edit, Glob, Grep, Bash
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Bash Linux Patterns
 

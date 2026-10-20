@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash, Glob
 argument-hint: [package-name] [package-type] | --library | --application | --tool
 description: Add and configure new package to workspace with proper structure and dependencies
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Add Package to Workspace
 

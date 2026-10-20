@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: worktree-guide
 description: Interactive guide for parallel development with Ghostty, git worktrees, and Lazygit. Use when setting up multi-task workflows or learning the worktree system.
@@ -7,6 +6,7 @@ metadata:
   author: claude-code-templates
   version: "1.0"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 Guide the user through parallel development workflows using Ghostty terminal panels, git worktrees, and Lazygit. This is both a teaching experience and a practical reference.
 

@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Write comprehensive failing tests following TDD red phase principles"
 argument-hint: "<feature or component to write tests for>"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # TDD Red Phase
 

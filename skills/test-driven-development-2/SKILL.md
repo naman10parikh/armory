@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: test-driven-development
 description: Use when implementing any feature or bugfix, before writing implementation code
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Test-Driven Development (TDD)
 

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Move a Google Calendar event to a new time and automatically notify all attendees.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Reschedule Meeting
 

@@ -1,7 +1,7 @@
-<!-- source: wshobson/commands · MIT · vendored by Armory -->
 ---
 model: claude-sonnet-4-0
 ---
+<!-- source: wshobson/commands · MIT · vendored by Armory -->
 
 Please analyze and fix the GitHub issue: $ARGUMENTS.
 

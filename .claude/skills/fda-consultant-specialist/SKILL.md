@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: fda-consultant-specialist
 description: Senior FDA consultant and specialist for medical device companies including HIPAA compliance and requirement management. Provides FDA pathway expertise, QSR compliance, cybersecurity guidance, and regulatory submission support. Use for FDA submission planning, QSR compliance assessments, HIPAA evaluations, and FDA regulatory strategy development.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Senior FDA Consultant and Specialist
 

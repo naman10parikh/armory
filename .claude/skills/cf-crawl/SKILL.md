@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: cf-crawl
 description: "Crawl entire websites using Cloudflare Browser Rendering /crawl API. Initiates async crawl jobs, polls for completion, and saves results as markdown files. Useful for ingesting documentation sites, knowledge bases, or any web content into your project context. Requires CLOUDFLARE_ACCOUNT_ID and CLOUDFLARE_API_TOKEN environment variables."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Cloudflare Website Crawler
 

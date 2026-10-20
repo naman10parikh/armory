@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: AutoML and hyperparameter optimization rules for Python ML projects using Ray Tune, Optuna, PyCaret, and time-series AutoML libraries
 globs: ["**/*.py", "**/*.ipynb", "pyproject.toml", "requirements*.txt", "environment*.yml"]
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 
 # AutoML and Hyperparameter Optimization Rules
 

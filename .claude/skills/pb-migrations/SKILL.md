@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: "PocketBase Migrations"
 description: "Schema migrations and versioning for PocketBase. Use when creating migrations, managing schema versions, syncing collections between environments, using automigrate, or creating collections programmatically. Covers migrate commands, migration file format, snapshot imports, and the _migrations tracking table."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # PocketBase Migrations & Schema Versioning
 

@@ -1,5 +1,5 @@
-# source: davila7/claude-code-templates · MIT · vendored by Armory
 #!/bin/bash
+# source: davila7/claude-code-templates · MIT · vendored by Armory
 # Continuous Learning - Session Evaluator
 # Runs on Stop hook to extract reusable patterns from Claude Code sessions
 #

@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: segment-anything-model
 description: Foundation model for image segmentation with zero-shot transfer. Use when you need to segment any object in images using points, boxes, or masks as prompts, or automatically generate all object masks in an image.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Multimodal, Image Segmentation, Computer Vision, SAM, Zero-Shot]
 dependencies: [segment-anything, transformers>=4.30.0, torch>=1.7.0]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Segment Anything Model (SAM)
 

@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Semiotic data visualization library with 30+ chart types, MCP server, and AI-assisted chart generation."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Semiotic — AI Assistant Guide
 
 ## Quick Start

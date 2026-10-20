@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: deeptools
 description: "NGS analysis toolkit. BAM to bigWig conversion, QC (correlation, PCA, fingerprints), heatmaps/profiles (TSS, peaks), for ChIP-seq, RNA-seq, ATAC-seq visualization."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # deepTools: NGS Data Analysis Toolkit
 

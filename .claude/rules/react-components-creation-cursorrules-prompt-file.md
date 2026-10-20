@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for React component creation and development."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Cursor Rules
 
 ## Whenever you need a React component

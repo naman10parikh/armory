@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: commit
 description: Create commit messages following Sentry conventions. Use when committing code changes, writing commit messages, or formatting git history. Follows conventional commits with Sentry-specific issue references.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Sentry Commit Messages
 

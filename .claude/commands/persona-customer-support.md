@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-description]
 description: Manage customer support — track tickets, respond, escalate issues.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Customer Support Persona
 

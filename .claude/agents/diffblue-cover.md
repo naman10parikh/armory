@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: diffblue-cover
 description: Expert agent for creating unit tests for java applications using Diffblue Cover.
 tools: DiffblueCover/*
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Java Unit Test Agent
 

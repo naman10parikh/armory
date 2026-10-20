@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: salary-negotiation-prep
 description: Research market rates, build negotiation strategy, and create counter-offer scripts. Use when the user mentions salary negotiation, counter offer, compensation discussion, or pay raise conversation.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Salary Negotiation Prep
 

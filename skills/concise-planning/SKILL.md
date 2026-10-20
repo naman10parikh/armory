@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: concise-planning
 description: Use when a user asks for a plan for a coding task, to generate a clear, actionable, and atomic checklist.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Concise Planning
 

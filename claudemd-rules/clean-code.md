@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: Guidelines for writing clean, maintainable, and human-readable code. Apply these rules when writing or reviewing code to ensure consistency and quality.
 globs: ["**/*"]
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Clean Code Guidelines
 
 ## Constants Over Magic Numbers

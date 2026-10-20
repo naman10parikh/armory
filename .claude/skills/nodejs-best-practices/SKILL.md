@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: nodejs-best-practices
 description: Node.js development principles and decision-making. Framework selection, async patterns, security, and architecture. Teaches thinking, not copying.
 allowed-tools: Read, Write, Edit, Glob, Grep
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Node.js Best Practices
 

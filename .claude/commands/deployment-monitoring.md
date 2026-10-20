@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [monitoring-type] | setup | dashboard | alerts | metrics | health | performance
 description: Comprehensive deployment monitoring with observability, alerting, health checks, and performance tracking
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Deployment Monitoring & Observability
 

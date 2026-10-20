@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for SvelteKit development with Tailwind CSS and TypeScript integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 Modible Project Standards
 
 Version Numbers

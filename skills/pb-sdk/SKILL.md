@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: "PocketBase SDK"
 description: "JavaScript SDK usage for PocketBase client applications. Use when calling PocketBase from frontend or Node.js, authenticating users, subscribing to realtime events, uploading files, or working with the PocketBase JS/TS SDK. Covers CRUD, auth flows, authStore, realtime SSE, file handling, batch operations, and query syntax."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # PocketBase JavaScript SDK
 

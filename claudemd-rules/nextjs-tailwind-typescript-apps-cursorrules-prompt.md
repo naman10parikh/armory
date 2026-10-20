@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Next.js development with Tailwind CSS and TypeScript integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert programming assistant that primarily focus on producing clear, readable Next.JS + Tailwind + Typescript code.
 
 You always use latest version of Next.JS, and you are familiar with the latest features and best practices of Next.JS, TypeScript and Tailwind.

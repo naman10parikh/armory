@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: Evaluate a plugin or skill for quality
 argument-hint: <path> [--depth quick|standard]
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 Run the PluginEval quality evaluation on a plugin or skill directory.
 

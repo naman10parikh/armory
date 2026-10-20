@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: specification
 description: Generate or update specification documents for new or existing functionality.
 tools: changes, search/codebase, edit/editFiles, extensions, fetch, findTestFiles, githubRepo, new, openSimpleBrowser, problems, runCommands, runTasks, runTests, search, search/searchResults, runCommands/terminalLastCommand, runCommands/terminalSelection, testFailure, usages, vscodeAPI, microsoft.docs.mcp, github
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Specification mode instructions
 

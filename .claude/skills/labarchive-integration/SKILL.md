@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: labarchive-integration
 description: "Electronic lab notebook API integration. Access notebooks, manage entries/attachments, backup notebooks, integrate with Protocols.io/Jupyter/REDCap, for programmatic ELN workflows."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # LabArchives Integration
 

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: search-ai-optimization-expert
 description: Expert guidance for modern search optimization: SEO, Answer Engine Optimization (AEO), and Generative Engine Optimization (GEO) with AI-ready content strategies
 tools: codebase, fetch, githubRepo, terminalCommand, edit/editFiles, problems
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Search & AI Optimization Expert
 

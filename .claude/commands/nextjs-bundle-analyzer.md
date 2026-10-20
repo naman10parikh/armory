@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Edit, Bash
 argument-hint: [--build] [--analyze] [--report]
 description: Analyze and optimize Next.js bundle size with detailed recommendations
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 ## Next.js Bundle Analyzer
 

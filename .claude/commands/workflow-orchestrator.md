@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [workflow-name] | create | run | schedule | monitor
 description: Orchestrate complex automation workflows with task dependencies, scheduling, and cross-platform execution
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Workflow Orchestrator
 

@@ -1,7 +1,7 @@
-<!-- source: wshobson/commands · MIT · vendored by Armory -->
 ---
 model: claude-opus-4-1
 ---
+<!-- source: wshobson/commands · MIT · vendored by Armory -->
 
 Implement a new feature using specialized agents with explicit Task tool invocations:
 

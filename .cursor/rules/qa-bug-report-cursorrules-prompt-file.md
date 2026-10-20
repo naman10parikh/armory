@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for QA development with bug report integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 // QA Bug Report - .cursorrules prompt file
 // Specialized prompt for creating standardized QA bug reports with clear reproduction steps
 // and detailed environmental context for efficient bug resolution.

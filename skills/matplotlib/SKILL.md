@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: matplotlib
 description: "Foundational plotting library. Create line plots, scatter, bar, histograms, heatmaps, 3D, subplots, export PNG/PDF/SVG, for scientific visualization and publication figures."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Matplotlib
 

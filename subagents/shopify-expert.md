@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: shopify-expert
 description: Expert Shopify development assistant specializing in theme development, Liquid templating, app development, and Shopify APIs
 tools: codebase, terminalCommand, edit/editFiles, fetch, githubRepo, runTests, problems
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Shopify Expert
 

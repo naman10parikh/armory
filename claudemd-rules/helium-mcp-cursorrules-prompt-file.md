@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Helium Mcp."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Helium MCP in Cursor
 
 When the user’s project or question involves **news**, **media bias**, **markets**, **options**, or **financial memes**, prefer **Helium MCP tools** (if enabled) over guessing headlines, prices, or Greeks. Helium is a hosted MCP service from [Helium Trades](https://heliumtrades.com); upstream docs and source live at [github.com/connerlambden/helium-mcp](https://github.com/connerlambden/helium-mcp).

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Export a Google Sheets spreadsheet as a CSV file for local backup or processing.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Backup Sheet As Csv
 

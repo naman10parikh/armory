@@ -1,9 +1,9 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Generate comprehensive market opportunity analysis with TAM/SAM/SOM calculations"
 allowed-tools:
   ["Read", "Write", "Edit", "Glob", "Grep", "Bash", "WebSearch", "WebFetch"]
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Market Opportunity Analysis
 

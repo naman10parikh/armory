@@ -1,7 +1,7 @@
-<!-- source: wshobson/commands · MIT · vendored by Armory -->
 ---
 model: claude-sonnet-4-0
 ---
+<!-- source: wshobson/commands · MIT · vendored by Armory -->
 
 Write comprehensive failing tests following TDD red phase principles:
 

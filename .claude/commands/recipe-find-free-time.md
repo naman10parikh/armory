@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Query Google Calendar free/busy status for multiple users to find a meeting slot.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Find Free Time
 

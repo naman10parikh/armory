@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: Full quality certification with badge
 argument-hint: <path>
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 Run the complete PluginEval certification pipeline (all three layers + Elo ranking) and assign a quality badge.
 

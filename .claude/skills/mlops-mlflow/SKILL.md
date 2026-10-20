@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: mlflow
 description: Track ML experiments, manage model registry with versioning, deploy models to production, and reproduce experiments with MLflow - framework-agnostic ML lifecycle platform
@@ -8,6 +7,7 @@ license: MIT
 tags: [MLOps, MLflow, Experiment Tracking, Model Registry, ML Lifecycle, Deployment, Model Versioning, PyTorch, TensorFlow, Scikit-Learn, HuggingFace]
 dependencies: [mlflow, sqlalchemy, boto3]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # MLflow: ML Lifecycle Management Platform
 

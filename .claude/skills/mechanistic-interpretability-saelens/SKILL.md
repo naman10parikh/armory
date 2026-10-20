@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: sparse-autoencoder-training
 description: Provides guidance for training and analyzing Sparse Autoencoders (SAEs) using SAELens to decompose neural network activations into interpretable features. Use when discovering interpretable features, analyzing superposition, or studying monosemantic representations in language models.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Sparse Autoencoders, SAE, Mechanistic Interpretability, Feature Discovery, Superposition]
 dependencies: [sae-lens>=6.0.0, transformer-lens>=2.0.0, torch>=2.0.0]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # SAELens: Sparse Autoencoders for Mechanistic Interpretability
 

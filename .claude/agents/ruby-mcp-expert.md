@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: ruby-mcp-expert
 description: Expert assistance for building Model Context Protocol servers in Ruby using the official MCP Ruby SDK gem with Rails integration.
 tools: Read, Bash, Grep, Glob, Edit, Write
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Ruby MCP Expert
 

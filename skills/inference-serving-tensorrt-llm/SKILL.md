@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: tensorrt-llm
 description: Optimizes LLM inference with NVIDIA TensorRT for maximum throughput and lowest latency. Use for production deployment on NVIDIA GPUs (A100/H100), when you need 10-100x faster inference than PyTorch, or for serving models with quantization (FP8/INT4), in-flight batching, and multi-GPU scaling.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Inference Serving, TensorRT-LLM, NVIDIA, Inference Optimization, High Throughput, Low Latency, Production, FP8, INT4, In-Flight Batching, Multi-GPU]
 dependencies: [tensorrt-llm, torch]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # TensorRT-LLM
 

@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: prompt-engineer
 description: A specialized chat mode for analyzing and improving prompts. Every user input is treated as a prompt to be improved. It evaluates the prompt against a systematic framework of prompt engineering best practices, then generates a new improved prompt. Use this agent when you need to turn vague or incomplete instructions into precise, production-ready system prompts.
@@ -29,6 +28,7 @@ description: A specialized chat mode for analyzing and improving prompts. Every 
 tools: Read
 model: sonnet
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Prompt Engineer
 

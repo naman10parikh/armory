@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: grpo-rl-training
 description: Expert guidance for GRPO/RL fine-tuning with TRL for reasoning and task-specific model training
@@ -8,6 +7,7 @@ license: MIT
 tags: [Post-Training, Reinforcement Learning, GRPO, TRL, RLHF, Reward Modeling, Reasoning, DPO, PPO, Structured Output]
 dependencies: [transformers>=4.47.0, trl>=0.14.0, datasets>=3.2.0, peft>=0.14.0, torch]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # GRPO/RL Training with TRL
 

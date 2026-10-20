@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Launch a multi-reviewer parallel code review with specialized review dimensions"
 argument-hint: "<target> [--reviewers security,performance,architecture,testing,accessibility] [--base-branch main]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Team Review
 

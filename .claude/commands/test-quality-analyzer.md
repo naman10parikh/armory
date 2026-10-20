@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [analysis-type] | --coverage-quality | --test-effectiveness | --maintainability | --performance-analysis
 description: Analyze test suite quality with comprehensive metrics and improvement recommendations
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Test Quality Analyzer
 

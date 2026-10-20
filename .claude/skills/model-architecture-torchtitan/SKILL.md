@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: distributed-llm-pretraining-torchtitan
 description: Provides PyTorch-native distributed LLM pretraining using torchtitan with 4D parallelism (FSDP2, TP, PP, CP). Use when pretraining Llama 3.1, DeepSeek V3, or custom models at scale from 8 to 512+ GPUs with Float8, torch.compile, and distributed checkpointing.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Model Architecture, Distributed Training, TorchTitan, FSDP2, Tensor Parallel, Pipeline Parallel, Context Parallel, Float8, Llama, Pretraining]
 dependencies: [torch>=2.6.0, torchtitan>=0.2.0, torchao>=0.5.0]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # TorchTitan - PyTorch Native Distributed LLM Pretraining
 

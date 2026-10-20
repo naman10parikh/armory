@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: terraform-azure-planning
 description: Act as implementation planner for your Azure Terraform Infrastructure as Code task.
 tools: Read, Edit, Write, Bash, Grep, Glob, WebFetch, azureterraformbestpractices, cloudarchitect, documentation, get_bestpractices, microsoft-docs
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Azure Terraform Infrastructure Planning
 

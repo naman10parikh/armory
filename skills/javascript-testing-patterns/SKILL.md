@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: javascript-testing-patterns
 description: "Comprehensive guide for implementing robust testing strategies in JavaScript/TypeScript applications using modern testing frameworks and best practices."
@@ -6,6 +5,7 @@ risk: safe
 source: community
 date_added: "2026-02-27"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # JavaScript Testing Patterns
 

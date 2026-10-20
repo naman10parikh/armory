@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: n8n-workflow-patterns
 description: Proven workflow architectural patterns from real n8n workflows. Use when building new workflows, designing workflow structure, choosing workflow patterns, planning workflow architecture, or asking about webhook processing, HTTP API integration, database operations, AI agent workflows, or scheduled tasks.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # n8n Workflow Patterns
 

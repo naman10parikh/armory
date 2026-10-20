@@ -1,8 +1,8 @@
-<!-- source: obra/superpowers · MIT · vendored by Armory -->
 ---
 name: requesting-code-review
 description: Use when completing tasks, implementing major features, or before merging to verify work meets requirements
 ---
+<!-- source: obra/superpowers · MIT · vendored by Armory -->
 
 # Requesting Code Review
 

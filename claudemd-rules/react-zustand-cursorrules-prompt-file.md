@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "React and TypeScript state management guidance for Zustand stores, selectors, middleware, persistence, and testing."
 globs: **/*.ts, **/*.tsx
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert in React, TypeScript, and Zustand state management.
 
 # React + Zustand Guidelines

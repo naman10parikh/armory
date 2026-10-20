@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: game-audio
 description: Game audio principles. Sound design, music integration, adaptive audio systems.
 allowed-tools: Read, Glob, Grep
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Game Audio Principles
 

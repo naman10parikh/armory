@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: "spreadsheet"
 description: "Use when tasks involve creating, editing, analyzing, or formatting spreadsheets (`.xlsx`, `.csv`, `.tsv`) using Python (`openpyxl`, `pandas`), especially when formulas, references, and formatting need to be preserved and verified."
 author: openai
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 
 # Spreadsheet Skill (Create, Edit, Analyze, Visualize)

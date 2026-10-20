@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Bash, Grep, Glob
 argument-hint: [cache-type] | --browser | --application | --database
 description: Design and implement comprehensive caching solutions for improved performance and scalability
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Implement Caching Strategy
 

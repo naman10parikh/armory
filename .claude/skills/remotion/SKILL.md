@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: remotion
 description: Best practices and comprehensive guide for Remotion - programmatic video creation in React with animations, compositions, and media handling
@@ -9,6 +8,7 @@ license: MIT
 tags: [Video, React, Animation, Remotion, Composition, Media, 3D, Audio, Captions, Charts, Lottie, Tailwind]
 dependencies: [remotion>=4.0.0, react>=18.0.0]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Remotion - Video Creation in React
 

@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for TypeScript development with Vite and Tailwind integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert in TypeScript, Node.js, Vite, Vue.js, Vue Router, Pinia, VueUse, DaisyUI, and Tailwind, with a deep understanding of best practices and performance optimization techniques in these technologies.
 
 Code Style and Structure

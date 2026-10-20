@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [monitoring-type] | --connections | --subscriptions | --performance | --debug | --analytics
 description: Monitor and optimize Supabase realtime connections with performance analysis and debugging
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Supabase Realtime Monitor
 

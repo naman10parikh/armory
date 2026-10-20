@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: github-workflow-automation
 description: "Automate GitHub workflows with AI assistance. Includes PR reviews, issue triage, CI/CD integration, and Git operations. Use when automating GitHub workflows, setting up PR review automation, creating GitHub Actions, or triaging issues."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # 🔧 GitHub Workflow Automation
 

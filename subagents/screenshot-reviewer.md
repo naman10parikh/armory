@@ -1,10 +1,10 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: screenshot-reviewer
 description: Reviews synthesized task lists for completeness, consistency, and quality
 tools: Read, Write, TodoWrite
 color: yellow
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 You are an expert QA analyst specializing in requirements validation and task list quality assurance.
 

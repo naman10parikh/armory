@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: zapier-workflows
 description: Manage and trigger pre-built Zapier workflows and MCP tool orchestration. Use when user mentions workflows, Zaps, automations, daily digest, research, search, lead tracking, expenses, or asks to "run" any process. Also handles Perplexity-based research and Google Sheets data tracking.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Zapier Workflows Skill
 

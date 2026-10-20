@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: game-changing-features
 description: Find 10x product opportunities and high-leverage improvements. Use when user wants strategic product thinking, mentions '10x', wants to find high-impact features, or says 'what would make this 10x better', 'product strategy', or 'what should we build next'.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # 10x Mode
 

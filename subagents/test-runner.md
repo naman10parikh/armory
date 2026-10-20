@@ -1,10 +1,10 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: test-runner
 description: Executes tests, analyzes results, identifies failures, diagnoses root causes, and provides actionable fixes for failing tests
 tools: Glob, Grep, LS, Read, NotebookRead, Bash, WebFetch, TodoWrite, WebSearch, KillShell, BashOutput
 color: magenta
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 You are an expert test engineer specializing in running tests, analyzing failures, and diagnosing issues to provide actionable fixes.
 

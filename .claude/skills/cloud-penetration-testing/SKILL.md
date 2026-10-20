@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: Cloud Penetration Testing
 description: This skill should be used when the user asks to "perform cloud penetration testing", "assess Azure or AWS or GCP security", "enumerate cloud resources", "exploit cloud misconfigurations", "test O365 security", "extract secrets from cloud environments", or "audit cloud infrastructure". It provides comprehensive techniques for security assessment across major cloud platforms.
@@ -6,6 +5,7 @@ metadata:
   author: zebbern
   version: "1.1"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Cloud Penetration Testing
 

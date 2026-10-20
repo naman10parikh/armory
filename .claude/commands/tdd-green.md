@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Implement minimal code to make failing tests pass in TDD green phase"
 argument-hint: "<description of failing tests or test file paths>"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # TDD Green Phase
 

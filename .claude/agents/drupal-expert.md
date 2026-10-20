@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: drupal-expert
 description: Expert assistant for Drupal development, architecture, and best practices using PHP 8.3+ and modern Drupal patterns
 tools: codebase, terminalCommand, edit/editFiles, fetch, githubRepo, runTests, problems
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Drupal Expert
 

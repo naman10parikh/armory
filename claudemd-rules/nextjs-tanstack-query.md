@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Next.js App Router combined with TanStack Query v5 — HydrationBoundary pattern, Server Actions as mutations, optimistic updates, and infinite scroll"
 globs: ["app/**/*.tsx", "app/**/*.ts", "src/app/**/*.tsx", "src/queries/**/*"]
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert in Next.js App Router, TanStack Query v5, TypeScript, and combining server components with client-side data fetching.
 
 ## Architecture

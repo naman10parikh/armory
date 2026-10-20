@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: React Router v7 rules for framework mode, data routers, loaders, actions, route modules, and progressive enhancement
 globs: ["app/routes/**/*", "src/routes/**/*", "routes/**/*", "react-router.config.*", "vite.config.*", "**/*.tsx", "**/*.ts"]
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 
 # React Router v7 Rules
 

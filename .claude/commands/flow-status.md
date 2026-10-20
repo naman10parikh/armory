@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash(git:*), Read
 description: Display comprehensive Git Flow status including branch type, sync status, changes, and merge targets
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Git Flow Status
 

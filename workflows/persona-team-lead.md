@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-description]
 description: Lead a team — run standups, coordinate tasks, and communicate.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Team Lead Persona
 

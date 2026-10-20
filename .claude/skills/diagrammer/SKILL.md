@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: diagrammer
 description: Render clean blueprint-style SVG diagrams from JSON specs. Use when users ask to draw, sketch, or diagram a request flow, neural net, transformer block, system architecture, state machine, data pipeline, or any node-and-edge technical visual they want as an SVG for docs, READMEs, posts, or slides.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # diagrammer
 

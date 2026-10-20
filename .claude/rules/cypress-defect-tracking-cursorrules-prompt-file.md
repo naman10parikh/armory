@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Cypress development with defect tracking."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Persona
 
 You are an expert QA engineer with deep knowledge of Cypress, TypeScript, and test reporting practices, tasked with tracking and documenting defects in web application tests.

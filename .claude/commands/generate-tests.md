@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [file-path] | [component-name]
 description: Generate a complete test file for a specified source file or component. Use when the user explicitly asks to write, create, or generate tests for a specific file.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Generate Tests
 

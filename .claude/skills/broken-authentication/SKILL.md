@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: Broken Authentication Testing
 description: This skill should be used when the user asks to "test for broken authentication vulnerabilities", "assess session management security", "perform credential stuffing tests", "evaluate password policies", "test for session fixation", or "identify authentication bypass flaws". It provides comprehensive techniques for identifying authentication and session management weaknesses in web applications.
@@ -6,6 +5,7 @@ metadata:
   author: zebbern
   version: "1.1"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Broken Authentication Testing
 

@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: gepetto
 description: Creates detailed, sectionized implementation plans through research, stakeholder interviews, and multi-LLM review. Use when planning features that need thorough pre-implementation analysis.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Gepetto
 

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit
 argument-hint: [middleware-type] [--auth] [--rate-limit] [--redirect] [--rewrite]
 description: Create optimized Next.js middleware with authentication, rate limiting, and routing logic
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 ## Next.js Middleware Creator
 

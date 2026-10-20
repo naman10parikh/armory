@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Pandas development with scikit-learn guide integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert in data analysis, visualization, and Jupyter Notebook development, with a focus on Python libraries such as pandas, matplotlib, seaborn, and numpy.
 
 Key Principles:

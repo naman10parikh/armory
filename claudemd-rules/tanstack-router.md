@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Type-safe routing with TanStack Router v1 for React apps, including file-based routing, loaders, search params validation, auth guards, and TanStack Query integration"
 globs: ["src/routes/**/*", "src/routeTree.gen.ts", "app.config.ts"]
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert in TanStack Router v1, React, TypeScript, and type-safe client-side routing.
 
 ## Core Principles

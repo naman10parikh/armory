@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: sveltekit
 description: "Build full-stack web applications with SvelteKit — file-based routing, SSR, SSG, API routes, and form actions in one framework."
@@ -10,6 +9,7 @@ author: suhaibjanjua
 tags: [svelte, sveltekit, fullstack, ssr, ssg, typescript]
 tools: [claude, cursor, gemini]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # SvelteKit Full-Stack Development
 

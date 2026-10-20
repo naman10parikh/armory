@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: Blender Python add-on rules for operators, panels, properties, registration, testing, and API-safe scripting
 globs: ["**/*.py", "blender_manifest.toml", "__init__.py"]
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 
 # Blender Python Add-on Rules
 

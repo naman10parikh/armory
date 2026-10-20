@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: dotnet-backend
 description: "Build ASP.NET Core 8+ backend services with EF Core, auth, background jobs, and production API patterns."
@@ -6,6 +5,7 @@ risk: safe
 source: self
 date_added: "2026-02-27"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # .NET Backend Agent - ASP.NET Core & Enterprise API Expert
 

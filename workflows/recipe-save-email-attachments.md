@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Find Gmail messages with attachments and save them to a Google Drive folder.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Save Email Attachments
 

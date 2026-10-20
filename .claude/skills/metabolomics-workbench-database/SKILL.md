@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: metabolomics-workbench-database
 description: "Access NIH Metabolomics Workbench via REST API (4,200+ studies). Query metabolites, RefMet nomenclature, MS/NMR data, m/z searches, study metadata, for metabolomics and biomarker discovery."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Metabolomics Workbench Database
 

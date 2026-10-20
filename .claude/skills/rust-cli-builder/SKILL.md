@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: rust-cli-builder
 description: Plan and build production-ready Rust CLI tools using clap for argument parsing, with subcommands, config file support, colored output, and proper error handling. Uses interview-driven planning to clarify commands, input/output formats, and distribution strategy before writing any code.
 tags: [rust, cli, clap, terminal, command-line, devtools]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Rust CLI Tool Builder
 

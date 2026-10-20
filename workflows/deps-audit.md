@@ -1,7 +1,7 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: Audit project dependencies for vulnerabilities, outdated packages, license conflicts, and supply chain risks — then provide actionable remediation strategies.
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Dependency Audit and Security Analysis
 

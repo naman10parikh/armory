@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Aspnet Abp."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # ABP .NET Development Rules
 
 You are a senior .NET backend developer and an expert in C#, ASP.NET Core, ABP Framework, and Entity Framework Core.

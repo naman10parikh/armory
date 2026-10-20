@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [format] | --generate | --validate | --demo
 description: Demonstrate changelog automation features with real examples and validation
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Changelog Automation Demo
 

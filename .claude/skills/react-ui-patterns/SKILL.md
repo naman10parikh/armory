@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: react-ui-patterns
 description: Modern React UI patterns for loading states, error handling, and data fetching. Use when building UI components, handling async data, or managing UI states.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # React UI Patterns
 

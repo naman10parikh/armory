@@ -1,8 +1,8 @@
-<!-- source: obra/superpowers · MIT · vendored by Armory -->
 ---
 name: receiving-code-review
 description: Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation
 ---
+<!-- source: obra/superpowers · MIT · vendored by Armory -->
 
 # Code Review Reception
 

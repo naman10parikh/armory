@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: convex
 description: "Convex reactive backend expert: schema design, TypeScript functions, real-time subscriptions, auth, file storage, scheduling, and deployment."
@@ -6,6 +5,7 @@ risk: safe
 source: "https://docs.convex.dev"
 date_added: "2026-02-27"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Convex
 

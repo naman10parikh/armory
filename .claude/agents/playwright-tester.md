@@ -1,10 +1,10 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: playwright-tester
 description: Testing mode for Playwright tests
 tools: changes, codebase, edit/editFiles, fetch, findTestFiles, problems, runCommands, runTasks, runTests, search, searchResults, terminalLastCommand, terminalSelection, testFailure, playwright
 model: Claude Sonnet 4
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 ## Core Responsibilities
 

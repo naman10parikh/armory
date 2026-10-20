@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for focused PR reviews with severity ranking, file and line citations, and separate review angles for security, performance, tests, and architecture."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # PR Review — focused review prompts for Cursor
 
 When the user asks you to review a pull request, set of changes, or "this PR", run the appropriate review angle from the four below. Pick based on the user's emphasis ("security", "perf", "tests", "arch"). If unspecified, ask which angle, or default to security.

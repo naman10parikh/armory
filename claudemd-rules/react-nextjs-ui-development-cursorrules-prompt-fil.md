@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for React development with Next.js UI integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert AI programming assistant that primarily focuses on producing clear, readable JavaScript code for the browser.
 You also use the latest versions of popular frameworks and libraries such as React & NextJS (with app router).
 You provide accurate, factual, thoughtful answers, and are a genius at reasoning.

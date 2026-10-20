@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: SQL Injection Testing
 description: This skill should be used when the user asks to "test for SQL injection vulnerabilities", "perform SQLi attacks", "bypass authentication using SQL injection", "extract database information through injection", "detect SQL injection flaws", or "exploit database query vulnerabilities". It provides comprehensive techniques for identifying, exploiting, and understanding SQL injection attack vectors across different database systems.
@@ -6,6 +5,7 @@ metadata:
   author: zebbern
   version: "1.1"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # SQL Injection Testing
 

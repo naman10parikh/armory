@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Manage track lifecycle: archive, restore, delete, rename, and cleanup"
 argument-hint: "[--archive | --restore | --delete | --rename | --list | --cleanup]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Track Manager
 

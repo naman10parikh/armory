@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: graph-query
 description: Query the code graph database to understand component relationships, dependencies, and change impact. Use when the user asks to "find callers", "check dependencies", "what uses this", "show relationships", "find serializers", or when reading code and needing to understand what depends on a component before modifications.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # AI Maestro Code Graph Query
 

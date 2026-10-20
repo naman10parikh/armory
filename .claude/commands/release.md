@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash(git:*), Read, Edit, Write
 argument-hint: <version>
 description: Create a new Git Flow release branch from develop with version bumping and changelog generation
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Git Flow Release Branch
 

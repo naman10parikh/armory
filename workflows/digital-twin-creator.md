@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, WebSearch
 argument-hint: [twin-subject] | --manufacturing | --business-process | --customer-journey | --system-performance
 description: Create calibrated digital twins with real-world validation, scenario testing, and decision optimization
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Digital Twin Creator
 

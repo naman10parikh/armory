@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Git-aware undo by logical work unit (track, phase, or task)"
 argument-hint: "[track-id | track-id:phase | track-id:task]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Revert Track
 

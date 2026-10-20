@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: cover-letter-generator
 description: Create personalized, compelling cover letters from a resume and job description. Use when the user asks for a cover letter, application letter, or motivation letter for a specific role.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Cover Letter Generator
 

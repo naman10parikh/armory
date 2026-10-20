@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: firecrawl-scraper
 description: Deep web scraping, screenshots, PDF parsing, and website crawling using Firecrawl API
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # firecrawl-scraper
 

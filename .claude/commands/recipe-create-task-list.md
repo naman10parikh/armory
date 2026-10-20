@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Set up a new Google Tasks list with initial tasks.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Create Task List
 

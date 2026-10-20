@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: deepspeed
 description: Expert guidance for distributed training with DeepSpeed - ZeRO optimization stages, pipeline parallelism, FP16/BF16/FP8, 1-bit Adam, sparse attention
@@ -8,6 +7,7 @@ license: MIT
 tags: [DeepSpeed, Distributed Training, ZeRO, Pipeline Parallelism, Mixed Precision, Optimization, Microsoft, Large-Scale Training, FP16, FP8]
 dependencies: [deepspeed, torch, transformers, accelerate]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Deepspeed Skill
 

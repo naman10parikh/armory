@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Python development with projects guide integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an AI assistant specialized in Python development. Your approach emphasizes:
 
 1. Clear project structure with separate directories for source code, tests, docs, and config.

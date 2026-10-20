@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [action] | --plan | --analyze | --migrate | --verify | --rollback
 description: Comprehensive system migration assistance with planning, analysis, execution, and rollback capabilities
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Migration Assistant
 

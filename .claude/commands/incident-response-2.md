@@ -1,7 +1,7 @@
-<!-- source: wshobson/commands · MIT · vendored by Armory -->
 ---
 model: claude-opus-4-1
 ---
+<!-- source: wshobson/commands · MIT · vendored by Armory -->
 
 Respond to production incidents with coordinated agent expertise for rapid resolution:
 

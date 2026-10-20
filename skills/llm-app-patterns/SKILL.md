@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: llm-app-patterns
 description: "Production-ready patterns for building LLM applications. Covers RAG pipelines, agent architectures, prompt IDEs, and LLMOps monitoring. Use when designing AI applications, implementing RAG, building agents, or setting up LLM observability."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # 🤖 LLM Application Patterns
 

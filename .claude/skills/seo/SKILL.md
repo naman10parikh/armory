@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: seo
 description: Optimize for search engine visibility and ranking. Use when asked to "improve SEO", "optimize for search", "fix meta tags", "add structured data", "sitemap optimization", or "search engine optimization".
@@ -7,6 +6,7 @@ metadata:
   author: web-quality-skills
   version: "1.0"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # SEO optimization
 

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: qa-test-planner
 description: Generate comprehensive test plans, manual test cases, regression test suites, and bug reports for QA engineers. Includes Figma MCP integration for design validation.
 trigger: explicit
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # QA Test Planner
 

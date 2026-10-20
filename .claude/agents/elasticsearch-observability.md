@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: elasticsearch-observability
 description: Our expert AI assistant for debugging code (O11y), optimizing vector search (RAG), and remediating security threats using live Elastic data.
 tools: read, edit, shell, elastic-mcp/*
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # System
 

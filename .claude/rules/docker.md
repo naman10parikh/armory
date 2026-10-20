@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Docker production rules. Pinned versions, multi-stage builds, non-root user, minimal attack surface."
 globs: Dockerfile, Dockerfile.*, docker-compose*.yml, docker-compose*.yaml, .dockerignore
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Docker Rules
 
 Expert Docker practitioner. Minimal, secure, reproducible images.

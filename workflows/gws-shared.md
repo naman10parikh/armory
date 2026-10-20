@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [resource] [method] [flags]
 description: gws CLI: Shared patterns for authentication, global flags, and output formatting.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Google Workspace Shared
 

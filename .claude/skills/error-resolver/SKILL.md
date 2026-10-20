@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: Error Resolver
 description: Systematic error diagnosis and resolution using first-principle analysis. Use when encountering any error message, stack trace, or unexpected behavior. Supports replay functionality to record and reuse solutions.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Error Resolver
 

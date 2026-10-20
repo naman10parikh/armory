@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: tdd-green
 description: Implement minimal code to satisfy GitHub issue requirements and make failing tests pass without over-engineering.
 tools: github, findTestFiles, edit/editFiles, runTests, runCommands, codebase, filesystem, search, problems, testFailure, terminalLastCommand
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # TDD Green Phase - Make Tests Pass Quickly
 

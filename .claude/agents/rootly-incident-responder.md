@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: rootly-incident-responder
 version: "1.0.0"
@@ -15,6 +14,7 @@ description: |
   CAPABILITIES: Analyzes incidents using ML-based similarity matching, provides AI-powered solution suggestions from past resolutions, coordinates with on-call teams across timezones, correlates with code changes, and creates structured remediation plans. Requires Rootly MCP server and optionally GitHub MCP for code correlation.
 model: claude-sonnet-4-5-20250929
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Rootly Incident Responder
 

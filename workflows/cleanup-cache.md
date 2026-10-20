@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash(df:*), Bash(du:*), Bash(npm cache clean:*), Bash(brew cleanup:*), Bash(rm:*), Bash(find:*), Bash(docker system prune:*)
 argument-hint: [--aggressive] | [--maximum]
 description: Clean system caches (npm, Homebrew, Yarn, browsers, Python/ML) to free disk space
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # System Cache Cleanup
 

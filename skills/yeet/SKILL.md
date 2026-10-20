@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: "yeet"
 description: "Use only when the user explicitly asks to stage, commit, push, and open a GitHub pull request in one flow using the GitHub CLI (`gh`)."
 author: openai
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 ## Prerequisites
 

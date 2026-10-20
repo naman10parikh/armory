@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read
 description: Instrument a webapp to send useful telemetry data to Azure App Insights
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # AppInsights instrumentation
 

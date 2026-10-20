@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: executing-plans
 description: Use when you have a written implementation plan to execute in a separate session with review checkpoints
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Executing Plans
 

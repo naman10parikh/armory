@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: sentencepiece
 description: Language-independent tokenizer treating text as raw Unicode. Supports BPE and Unigram algorithms. Fast (50k sentences/sec), lightweight (6MB memory), deterministic vocabulary. Used by T5, ALBERT, XLNet, mBART. Train on raw text without pre-tokenization. Use when you need multilingual support, CJK languages, or reproducible tokenization.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Tokenization, SentencePiece, Language-Independent, BPE, Unigram, Multilingual, CJK Languages, Unicode, Deterministic, Google]
 dependencies: [sentencepiece, transformers]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # SentencePiece - Language-Independent Tokenization
 

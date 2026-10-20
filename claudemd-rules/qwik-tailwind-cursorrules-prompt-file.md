@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Qwik development with Tailwind CSS integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 // Qwik.js with Tailwind CSS (TypeScript and Vite included) .cursorrules
 
 // Prefer functional components

@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: railway-deployment
 description: Manage Railway deployments - view logs, redeploy, restart, or remove deployments. Use for deployment lifecycle (remove, stop, redeploy, restart), deployment visibility (list, status, history), and troubleshooting (logs, errors, failures, crashes). NOT for deleting services - use railway-environment skill with isDeleted for that.
@@ -9,6 +8,7 @@ tags: [Railway, Deployment, Logs, Debug, Troubleshooting, Redeploy, Infrastructu
 dependencies: [railway-cli]
 allowed-tools: Bash(railway:*)
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Railway Deployment Management
 

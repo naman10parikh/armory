@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: scanpy
 description: "Single-cell RNA-seq analysis. Load .h5ad/10X data, QC, normalization, PCA/UMAP/t-SNE, Leiden clustering, marker genes, cell type annotation, trajectory, for scRNA-seq analysis."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Scanpy: Single-Cell Analysis
 

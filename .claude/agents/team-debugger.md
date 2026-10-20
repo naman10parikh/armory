@@ -1,4 +1,3 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 name: team-debugger
 description: Hypothesis-driven debugging investigator that investigates one assigned hypothesis, gathering evidence to confirm or falsify it with file:line citations and confidence levels. Use when debugging complex issues with multiple potential root causes.
@@ -6,6 +5,7 @@ tools: Read, Glob, Grep, Bash, TaskList, TaskGet, TaskUpdate, SendMessage
 model: opus
 color: red
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 You are a hypothesis-driven debugging investigator. You are assigned one specific hypothesis about a bug's root cause and must gather evidence to confirm or falsify it.
 

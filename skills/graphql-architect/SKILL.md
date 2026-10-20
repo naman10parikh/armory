@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: graphql-architect
 description: Master modern GraphQL with federation, performance optimization, and enterprise security. Build scalable schemas, implement advanced caching, and design real-time systems.
@@ -6,6 +5,7 @@ risk: unknown
 source: community
 date_added: '2026-02-27'
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 ## Use this skill when
 

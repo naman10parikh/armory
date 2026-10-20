@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Solidity development with React Blockchain apps integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 Solidity React Blockchain Apps Guidelines
 
 - Prioritize secure Solidity smart contracts with explicit visibility, access control, and clear NatSpec documentation.

@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: systematic-debugging
 description: Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Systematic Debugging
 

@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: k6-load-testing
 description: "Comprehensive k6 load testing skill for API, browser, and scalability testing. Write realistic load scenarios, analyze results, and integrate with CI/CD."
@@ -10,6 +9,7 @@ author: Kairo Official
 tags: [k6, load-testing, performance, api-testing, ci-cd]
 tools: [claude, cursor, gemini]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # k6 Load Testing
 

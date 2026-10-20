@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [version-type] | patch | minor | major | --pre-release | --hotfix
 description: Prepare and validate release packages with comprehensive testing, documentation, and automation
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Release Preparation
 

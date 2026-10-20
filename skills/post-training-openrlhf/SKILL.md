@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: openrlhf-training
 description: High-performance RLHF framework with Ray+vLLM acceleration. Use for PPO, GRPO, RLOO, DPO training of large models (7B-70B+). Built on Ray, vLLM, ZeRO-3. 2× faster than DeepSpeedChat with distributed architecture and GPU resource sharing.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Post-Training, OpenRLHF, RLHF, PPO, GRPO, RLOO, DPO, Ray, vLLM, Distributed Training, Large Models, ZeRO-3]
 dependencies: [openrlhf, ray, vllm, torch, transformers, deepspeed]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # OpenRLHF - High-Performance RLHF Training
 

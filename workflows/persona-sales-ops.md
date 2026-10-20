@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-description]
 description: Manage sales workflows — track deals, schedule calls, client comms.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Sales Ops Persona
 

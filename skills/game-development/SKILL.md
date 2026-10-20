@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: game-development
 description: Game development orchestrator. Routes to platform-specific skills based on project needs.
 allowed-tools: Read, Write, Edit, Glob, Grep, Bash
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Game Development
 

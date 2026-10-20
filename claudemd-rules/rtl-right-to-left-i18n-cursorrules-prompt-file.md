@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for RTL development with logical CSS properties, Tailwind logical classes, bidirectional text, and automated auditing via rtlify-ai."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # RTL (Right-to-Left) Development Rules
 
 You are an expert in building applications that support RTL (Right-to-Left) languages including Hebrew, Arabic, Persian, and Urdu.

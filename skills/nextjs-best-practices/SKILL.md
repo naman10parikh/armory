@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: nextjs-best-practices
 description: Next.js App Router principles. Server Components, data fetching, routing patterns.
 allowed-tools: Read, Write, Edit, Glob, Grep
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Next.js Best Practices
 

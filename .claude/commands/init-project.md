@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash, Glob
 argument-hint: [project-type] [framework] | --react | --vue | --api | --cli
 description: Initialize new project with essential structure, configuration, and development environment setup
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Initialize New Project
 

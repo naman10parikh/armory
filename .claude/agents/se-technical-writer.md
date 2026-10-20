@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: se-technical-writer
 description: Technical writing specialist for creating developer documentation, technical blogs, tutorials, and educational content
 tools: codebase, edit/editFiles, search, fetch
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Technical Writer
 

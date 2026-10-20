@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for README documentation with best practices integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 Write READMEs like landing pages, not API docs. The reader decides in 3-5 seconds.
 
 Start with a bold one-liner saying what it does and why someone should care. Not "A tool that..." - a punchline.

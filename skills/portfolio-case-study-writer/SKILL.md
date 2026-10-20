@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: portfolio-case-study-writer
 description: Transform resume bullets into detailed portfolio case studies with context, action, and outcome. Use when the user mentions portfolio, case study, project write-up, or expanding a resume bullet into a longer narrative.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Portfolio Case Study Writer
 

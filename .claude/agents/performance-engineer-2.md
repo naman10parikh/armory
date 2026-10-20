@@ -1,9 +1,9 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 name: backend-development-performance-engineer
 description: Profile and optimize application performance including response times, memory usage, query efficiency, and scalability. Use for performance review during feature development.
 model: sonnet
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 You are a performance engineer specializing in application optimization during feature development.
 

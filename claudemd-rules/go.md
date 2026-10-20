@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Idiomatic Go rules. Explicit error handling, interface-based design, context-first concurrency."
 globs: **/*.go
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Go Language Rules
 
 Expert Go developer. Simple, explicit, idiomatic.

@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: Wireshark Network Traffic Analysis
 description: This skill should be used when the user asks to "analyze network traffic with Wireshark", "capture packets for troubleshooting", "filter PCAP files", "follow TCP/UDP streams", "detect network anomalies", "investigate suspicious traffic", or "perform protocol analysis". It provides comprehensive techniques for network packet capture, filtering, and analysis using Wireshark.
@@ -6,6 +5,7 @@ metadata:
   author: zebbern
   version: "1.1"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Wireshark Network Traffic Analysis
 

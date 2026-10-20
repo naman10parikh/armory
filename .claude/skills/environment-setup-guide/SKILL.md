@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: environment-setup-guide
 description: "Guide developers through setting up development environments with proper tools, dependencies, and configurations"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Environment Setup Guide
 

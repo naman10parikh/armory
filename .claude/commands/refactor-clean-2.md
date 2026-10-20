@@ -1,7 +1,7 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: Refactor provided code for cleanliness, maintainability, and alignment with SOLID principles and modern best practices — no over-engineering.
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Refactor and Clean Code
 

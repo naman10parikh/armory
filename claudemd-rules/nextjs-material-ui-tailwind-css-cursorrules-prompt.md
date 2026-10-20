@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Next.js development with Material UI and Tailwind CSS integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 Ce projet s'appel Portfolio2
 
 Il est basé sur Next.Js, il a tailwindcss, materialui, shadcn/ui et aceternityui

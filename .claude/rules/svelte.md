@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Svelte best practices and patterns for modern web applications"
 globs: **/*.svelte, src/**/*.ts, src/**/*.js
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Svelte Best Practices
 
 ## Component Structure

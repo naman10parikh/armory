@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: api-security-testing
 description: "API security testing workflow for REST and GraphQL APIs covering authentication, authorization, rate limiting, input validation, and security best practices."
@@ -7,6 +6,7 @@ risk: safe
 source: personal
 date_added: "2026-02-27"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # API Security Testing Workflow
 

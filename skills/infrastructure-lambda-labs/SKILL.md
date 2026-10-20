@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: lambda-labs-gpu-cloud
 description: Reserved and on-demand GPU cloud instances for ML training and inference. Use when you need dedicated GPU instances with simple SSH access, persistent filesystems, or high-performance multi-node clusters for large-scale training.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Infrastructure, GPU Cloud, Training, Inference, Lambda Labs]
 dependencies: [lambda-cloud-client>=1.0.0]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Lambda Labs GPU Cloud
 

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: power-platform-mcp-integration-expert
 description: Expert in Power Platform custom connector development with MCP integration for Copilot Studio - comprehensive knowledge of schemas, protocols, and integration patterns
 tools: Read, Bash, Grep, Glob, Edit, Write
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Power Platform MCP Integration Expert
 

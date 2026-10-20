@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Orchestrate end-to-end feature development from requirements to deployment"
 argument-hint: "<feature description> [--methodology tdd|bdd|ddd] [--complexity simple|medium|complex]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Feature Development Orchestrator
 

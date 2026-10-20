@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: resume-quantifier
 description: Find opportunities to add metrics and estimate numbers when exact data is unavailable. Use when the user wants to quantify achievements, add numbers, percentages, or impact metrics to a resume.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Resume Quantifier
 

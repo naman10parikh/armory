@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: pubchem-database
 description: "Query PubChem via PUG-REST API/PubChemPy (110M+ compounds). Search by name/CID/SMILES, retrieve properties, similarity/substructure searches, bioactivity, for cheminformatics."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # PubChem Database
 

@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: create-pr
 description: Create pull requests following Sentry conventions. Use when opening PRs, writing PR descriptions, or preparing changes for review. Follows Sentry's code review guidelines.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Create Pull Request
 

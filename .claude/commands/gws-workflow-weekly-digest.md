@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [resource] [method] [flags]
 description: Google Workflow: Weekly summary: this week's meetings + unread email count.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Google Workspace Workflow Weekly Digest
 

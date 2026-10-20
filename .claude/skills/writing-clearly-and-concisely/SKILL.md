@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: writing-clearly-and-concisely
 description: Use when writing prose humans will read—documentation, commit messages, error messages, explanations, reports, or UI text. Applies Strunk's timeless rules for clearer, stronger, more professional writing.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Writing Clearly and Concisely
 

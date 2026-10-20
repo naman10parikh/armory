@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: GameMaker Language (GML) rules for scripts, objects, events, rooms, data structures, and performance-minded game code
 globs: ["**/*.gml", "**/*.yy", "**/*.yyp"]
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 
 # GameMaker GML Rules
 

@@ -1,4 +1,3 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: SQL database migrations with zero-downtime strategies for PostgreSQL, MySQL, SQL Server
 version: "1.0.0"
@@ -16,6 +15,7 @@ tags:
   ]
 tool_access: [Read, Write, Edit, Bash, Grep, Glob]
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # SQL Database Migration Strategy and Implementation
 

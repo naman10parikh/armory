@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: pymatgen
 description: "Materials science toolkit. Crystal structures (CIF, POSCAR), phase diagrams, band structure, DOS, Materials Project integration, format conversion, for computational materials science."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Pymatgen - Python Materials Genomics
 

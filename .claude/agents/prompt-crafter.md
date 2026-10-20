@@ -1,4 +1,3 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 name: prompt-crafter
 description: >-
@@ -9,6 +8,7 @@ description: >-
   crafted simultaneously.
 model: haiku
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 You are an expert AI image generation prompt writer. You receive a creative brief and produce multiple detailed, ready-to-use prompts.
 

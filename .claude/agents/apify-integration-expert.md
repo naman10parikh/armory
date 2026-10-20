@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: apify-integration-expert
 description: Expert agent for integrating Apify Actors into codebases. Handles Actor selection, workflow design, implementation across JavaScript/TypeScript and Python, testing, and production-ready deployment.
 tools: Read, Bash, Grep, Glob, Edit, Write
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Apify Actor Expert Agent
 

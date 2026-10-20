@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Flutter development with MVVM architecture, Riverpod state management, Material widgets, and Dart style guidelines."
 globs: **/*.dart
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ### Code style and structure
 - Write concise and efficient source code.
 - Strive for source code that is easy to read and maintain, and provide accurate examples.

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: "doc"
 description: "Use when the task involves reading, creating, or editing `.docx` documents, especially when formatting or layout fidelity matters; prefer `python-docx` plus the bundled `scripts/render_docx.py` for visual checks."
 author: openai
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 
 # DOCX Skill

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: geo-fundamentals
 description: Generative Engine Optimization for AI search engines (ChatGPT, Claude, Perplexity).
 allowed-tools: Read, Glob, Grep
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # GEO Fundamentals
 

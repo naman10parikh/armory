@@ -1,7 +1,7 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: Analyze and resolve errors across the full application lifecycle — from stack traces to distributed tracing — using systematic root-cause analysis and observability tools.
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Error Analysis and Resolution
 

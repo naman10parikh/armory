@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Open a review-action approval window by creating the ./.review-approved flag file. Takes an optional reason string that is embedded in the receipt chain."
 argument-hint: "[reason for approval]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Approve Review
 

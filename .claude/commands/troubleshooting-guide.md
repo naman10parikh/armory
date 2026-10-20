@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [system-component] | --application | --database | --network | --deployment | --comprehensive
 description: Generate systematic troubleshooting documentation with diagnostic procedures, common issues, and automated solutions
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Troubleshooting Guide Generator
 

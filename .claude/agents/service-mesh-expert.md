@@ -1,9 +1,9 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 name: service-mesh-expert
 description: Expert service mesh architect specializing in Istio, Linkerd, and cloud-native networking patterns. Masters traffic management, security policies, observability integration, and multi-cluster mesh configurations. Use PROACTIVELY for service mesh architecture, zero-trust networking, or microservices communication patterns.
 model: opus
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Service Mesh Expert
 

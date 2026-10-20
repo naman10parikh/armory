@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: chembl-database
 description: "Query ChEMBL's bioactive molecules and drug discovery data. Search compounds by structure/properties, retrieve bioactivity data (IC50, Ki), find inhibitors, perform SAR studies, for medicinal chemistry."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # ChEMBL Database
 

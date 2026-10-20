@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Create a Google Meet meeting space and share the join link.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Create Meet Space
 

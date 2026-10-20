@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: firebase-basics
 description: Sets up and develops projects using Firebase products and services, especially for mobile or web apps. Covers Firebase CLI setup, project configuration, and integration with Firebase platform services.
 source: google/skills (Apache 2.0)
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Firebase Basics
 

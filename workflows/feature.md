@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash(git:*)
 argument-hint: <feature-name>
 description: Create a new Git Flow feature branch from develop with proper naming and tracking
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Git Flow Feature Branch
 

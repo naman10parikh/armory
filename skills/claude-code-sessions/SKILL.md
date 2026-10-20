@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: claude-code-sessions
 description: Search, analyze, and manage Claude Code session history. Use when the user wants to find past sessions, check token usage, review tool breakdowns, resume previous work, or manage tasks across sessions. Provides 11 skills and a web dashboard.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Claude Code Sessions
 

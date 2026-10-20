@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Bash, Grep, Glob
 argument-hint: [focus-area] | --full
 description: Perform comprehensive security assessment and vulnerability analysis
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Security Audit
 

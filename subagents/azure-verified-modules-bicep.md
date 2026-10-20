@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: azure-verified-modules-bicep
 description: Create, update, or review Azure IaC in Bicep using Azure Verified Modules (AVM).
 tools: Read, Edit, Write, Bash, Grep, Glob, WebFetch, microsoft.docs.mcp, azure_get_deployment_best_practices, azure_get_schema_for_Bicep
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Azure AVM Bicep mode
 

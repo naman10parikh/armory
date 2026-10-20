@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: gcc
 description: "Git Context Controller (GCC) - Manages agent memory as a versioned file system under .GCC/. This skill should be used when working on multi-step projects that benefit from structured memory persistence, milestone tracking, branching for alternative approaches, and cross-session context recovery. Triggers on /gcc commands or natural language like 'commit this progress', 'branch to try an alternative', 'merge results', 'recover context'."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Git Context Controller (GCC)
 

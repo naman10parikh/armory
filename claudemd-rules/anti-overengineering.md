@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Prevent AI over-engineering by keeping changes scoped, simple, and directly tied to the user's request"
 globs: ["**/*"]
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Anti-Over-Engineering
 
 Only change what was asked. Simplest solution first. When unsure, ask.

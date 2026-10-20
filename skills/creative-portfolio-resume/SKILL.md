@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: creative-portfolio-resume
 description: Balance visual design with ATS compatibility for creative roles. Use when the user is in design, art, writing, marketing creative, or any visual/creative field and needs a resume that looks distinctive but still parses.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Creative Portfolio Resume
 

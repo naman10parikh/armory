@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: Guide Cursor to write modern C++ and CMake code with clear structure, RAII, const-correctness, and safe error handling.
 globs: **/*.c,**/*.cpp,**/*.h,**/*.hpp,**/*.cxx,CMakeLists.txt,*.cmake,conanfile.txt,Makefile,**/*.cc
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # C++ Programming Guidelines
 
 ## Basic Principles

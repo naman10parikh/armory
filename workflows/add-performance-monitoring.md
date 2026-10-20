@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Bash, Grep, Glob
 argument-hint: [monitoring-type] | --apm | --rum | --custom
 description: Setup comprehensive application performance monitoring with metrics, alerting, and observability
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Add Performance Monitoring
 

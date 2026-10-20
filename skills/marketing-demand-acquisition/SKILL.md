@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: marketing-demand-acquisition
 description: Multi-channel demand generation, paid media optimization, SEO strategy, and partnership programs for Series A+ startups. Includes CAC calculator, channel playbooks, HubSpot integration, and international expansion tactics. Use when planning demand generation campaigns, optimizing paid media, building SEO strategies, establishing partnerships, or when user mentions demand gen, paid ads, LinkedIn ads, Google ads, CAC, acquisition, lead generation, or pipeline generation.
@@ -13,6 +12,7 @@ metadata:
   tech-stack: HubSpot, LinkedIn-Ads, Google-Ads, Meta-Ads, SEO-tools
   target-market: B2B-SaaS, Series-A+
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Marketing Demand & Acquisition
 

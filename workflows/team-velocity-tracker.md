@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Bash, Glob, Grep
 argument-hint: [analysis-period] | --sprint | --monthly | --quarterly | --trend-analysis
 description: Track and analyze team velocity with predictive forecasting and performance optimization recommendations
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Team Velocity Tracker
 

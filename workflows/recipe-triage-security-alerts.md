@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: List and review Google Workspace security alerts from Alert Center.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Triage Security Alerts
 

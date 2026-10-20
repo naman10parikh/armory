@@ -1,10 +1,10 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: >-
   Quick image generation. Use when user runs /meigen-ai-design:gen with a prompt.
   Skips intent assessment, generates directly.
 argument-hint: <prompt>
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Quick Generate
 

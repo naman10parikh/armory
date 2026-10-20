@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: shopify-development
 description: |
@@ -7,6 +6,7 @@ description: |
   "shopify theme", "liquid template", "polaris", "shopify graphql", "shopify webhook",
   "shopify billing", "app subscription", "metafields", "shopify functions"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Shopify Development Skill
 

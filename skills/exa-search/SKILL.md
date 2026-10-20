@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: exa-search
 description: Semantic search, similar content discovery, and structured research using Exa API
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # exa-search
 

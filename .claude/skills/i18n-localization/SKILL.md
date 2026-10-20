@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: i18n-localization
 description: Internationalization and localization patterns. Detecting hardcoded strings, managing translations, locale files, RTL support.
 allowed-tools: Read, Glob, Grep
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # i18n & Localization
 

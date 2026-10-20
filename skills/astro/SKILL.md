@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: astro
 description: "Build content-focused websites with Astro — zero JS by default, islands architecture, multi-framework components, and Markdown/MDX support."
@@ -10,6 +9,7 @@ author: suhaibjanjua
 tags: [astro, ssg, ssr, islands, content, markdown, mdx, performance]
 tools: [claude, cursor, gemini]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Astro Web Framework
 

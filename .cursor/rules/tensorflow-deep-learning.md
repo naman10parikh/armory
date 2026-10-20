@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: TensorFlow and deep learning rules for building, training, evaluating, and deploying neural network models
 globs: ["**/*.py", "**/*.ipynb", "pyproject.toml", "requirements*.txt", "environment*.yml"]
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 
 # TensorFlow and Deep Learning Rules
 

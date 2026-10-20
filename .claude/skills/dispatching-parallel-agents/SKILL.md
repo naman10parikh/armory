@@ -1,8 +1,8 @@
-<!-- source: obra/superpowers · MIT · vendored by Armory -->
 ---
 name: dispatching-parallel-agents
 description: Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies
 ---
+<!-- source: obra/superpowers · MIT · vendored by Armory -->
 
 # Dispatching Parallel Agents
 

@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: remotion-best-practices
 description: Best practices for Remotion - Video creation in React
@@ -7,6 +6,7 @@ version: "1.0"
 metadata:
   tags: remotion, video, react, animation, composition
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 ## When to use
 

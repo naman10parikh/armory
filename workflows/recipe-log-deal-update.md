@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Append a deal status update to a Google Sheets sales tracking spreadsheet.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Log Deal Update
 

@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: data-feeds
 description: Extract structured data from 40+ websites including Amazon, LinkedIn, Instagram, TikTok, Facebook, YouTube, and more. Uses Bright Data's Web Data APIs with automatic polling. Returns clean JSON with product details, profiles, reviews, posts, and comments.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Bright Data - Structured Data Feeds
 

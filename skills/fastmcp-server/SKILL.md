@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: fastmcp-server
 description: Complete guide for building MCP servers with FastMCP 3.0 - tools, resources, authentication, providers, middleware, and deployment. Use when creating Python MCP servers or integrating AI models with external tools and data.
@@ -8,6 +7,7 @@ license: MIT
 tags: [FastMCP, MCP, Python, AI, Tools, Server, Authentication, Providers]
 dependencies: []
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # FastMCP 3.0 Server Development
 

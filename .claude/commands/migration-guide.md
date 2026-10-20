@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [migration-type] | framework | database | cloud | architecture | --version-upgrade
 description: Create comprehensive migration guides with step-by-step procedures, validation, and rollback strategies
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Migration Guide Generator
 

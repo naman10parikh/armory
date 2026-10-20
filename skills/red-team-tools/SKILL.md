@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: Red Team Tools and Methodology
 description: This skill should be used when the user asks to "follow red team methodology", "perform bug bounty hunting", "automate reconnaissance", "hunt for XSS vulnerabilities", "enumerate subdomains", or needs security researcher techniques and tool configurations from top bug bounty hunters.
@@ -6,6 +5,7 @@ metadata:
   author: zebbern
   version: "1.1"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Red Team Tools and Methodology
 

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [platform] | --docusaurus | --gitbook | --notion | --storybook | --jupyter | --comprehensive
 description: Use PROACTIVELY to create interactive documentation platforms with live examples, code playgrounds, and user engagement features
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Interactive Documentation Platform
 

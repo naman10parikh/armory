@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Review who attended a Google Meet conference and for how long.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Review Meet Participants
 

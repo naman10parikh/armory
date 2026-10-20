@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [migration-strategy] | --gradual | --complete | --strict | --incremental
 description: Migrate JavaScript project to TypeScript with proper typing and tooling setup
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Migrate to TypeScript
 

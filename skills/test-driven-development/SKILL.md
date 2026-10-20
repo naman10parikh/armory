@@ -1,8 +1,8 @@
-<!-- source: obra/superpowers · MIT · vendored by Armory -->
 ---
 name: test-driven-development
 description: Use when implementing any feature or bugfix, before writing implementation code
 ---
+<!-- source: obra/superpowers · MIT · vendored by Armory -->
 
 # Test-Driven Development (TDD)
 

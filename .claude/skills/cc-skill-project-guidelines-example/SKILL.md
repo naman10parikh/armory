@@ -1,10 +1,10 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: cc-skill-project-guidelines-example
 description: Project Guidelines Skill (Example)
 author: affaan-m
 version: "1.0"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Project Guidelines Skill (Example)
 

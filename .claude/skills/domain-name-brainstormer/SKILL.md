@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: domain-name-brainstormer
 description: Generates creative domain name ideas for your project and checks availability across multiple TLDs (.com, .io, .dev, .ai, etc.). Saves hours of brainstorming and manual checking.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Domain Name Brainstormer
 

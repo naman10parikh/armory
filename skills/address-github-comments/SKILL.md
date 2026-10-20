@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: address-github-comments
 description: Use when you need to address review or issue comments on an open GitHub Pull Request using the gh CLI.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Address GitHub Comments
 

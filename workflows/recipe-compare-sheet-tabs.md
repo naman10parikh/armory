@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Read data from two tabs in a Google Sheet to compare and identify differences.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Compare Sheet Tabs
 

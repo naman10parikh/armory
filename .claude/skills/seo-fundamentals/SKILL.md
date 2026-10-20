@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: seo-fundamentals
 description: SEO fundamentals, E-E-A-T, Core Web Vitals, and Google algorithm principles.
 allowed-tools: Read, Glob, Grep
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # SEO Fundamentals
 

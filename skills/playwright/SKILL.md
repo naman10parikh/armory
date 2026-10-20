@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: "playwright"
 description: "Use when the task requires automating a real browser from the terminal (navigation, form filling, snapshots, screenshots, data extraction, UI-flow debugging) via `playwright-cli` or the bundled wrapper script."
 author: openai
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 
 # Playwright CLI Skill

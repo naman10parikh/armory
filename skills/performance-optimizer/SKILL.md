@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: performance-optimizer
 description: "Identifies and fixes performance bottlenecks in code, databases, and APIs. Measures before and after to prove improvements."
@@ -7,6 +6,7 @@ risk: safe
 source: community
 date_added: "2026-03-05"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Performance Optimizer
 

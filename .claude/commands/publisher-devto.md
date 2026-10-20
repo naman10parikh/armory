@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Bash, Glob
 argument-hint:
 description: Generate Dev.to RSS feed from all blog posts for automatic syndication
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Dev.to RSS Feed Generator
 

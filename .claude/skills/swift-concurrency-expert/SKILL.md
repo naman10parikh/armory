@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: swift-concurrency-expert
 description: Review and fix Swift concurrency issues such as actor isolation and Sendable violations.
@@ -6,6 +5,7 @@ risk: safe
 source: "Dimillian/Skills (MIT)"
 date_added: "2026-03-25"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Swift Concurrency Expert
 

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [ticket-id] | --status | --assignee | --comment
 description: Update PAC ticket status and track progress in Product as Code workflow
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Update PAC Ticket Status
 

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: algolia-search
 description: "Expert patterns for Algolia search implementation, indexing strategies, React InstantSearch, and relevance tuning Use when: adding search to, algolia, instantsearch, search api, search functionality."
 source: vibeship-spawner-skills (Apache 2.0)
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Algolia Search Integration
 

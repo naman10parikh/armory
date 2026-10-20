@@ -1,10 +1,10 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: notion-spec-to-implementation
 description: Turn Notion specs into implementation plans, tasks, and progress tracking; use when implementing PRDs/feature specs and creating Notion plans + tasks from them.
 metadata:
   short-description: Turn Notion specs into implementation plans, tasks, and progress tracking
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Spec to Implementation
 

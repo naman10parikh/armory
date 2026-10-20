@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Audit UI code for WCAG compliance"
 argument-hint: "[file-path|component-name|--level AA|AAA]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Accessibility Audit
 

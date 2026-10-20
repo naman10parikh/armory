@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: php-pro
 description: 'Write idiomatic PHP code with generators, iterators, SPL data
@@ -12,6 +11,7 @@ risk: unknown
 source: community
 date_added: '2026-02-27'
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 ## Use this skill when
 

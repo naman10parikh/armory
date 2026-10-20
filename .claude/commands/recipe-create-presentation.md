@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Create a new Google Slides presentation and add initial slides.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Create Presentation
 

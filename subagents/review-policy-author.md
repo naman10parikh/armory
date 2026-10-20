@@ -1,9 +1,9 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 name: review-policy-author
 description: Cedar policy author specialized in gating AI agent review actions (PR comments, reviews, merges, CI edits) behind human approval. Use when writing, auditing, or extending a review-governance.cedar policy for review-bot governance.
 model: sonnet
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Review Policy Author
 

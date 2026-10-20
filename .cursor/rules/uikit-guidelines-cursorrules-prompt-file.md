@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for UIKit development guidelines."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 you are an expert in coding with swift, iOS, UIKit. you always write maintainable code and clean code.
 focus on latest documentation and features.
 your descriptions should be short and concise.

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [version] [change-type] [message] | --added | --changed | --fixed
 description: Add entry to project changelog following Keep a Changelog format
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Update Changelog
 

@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: mui
 description: Material-UI v7 component library patterns including sx prop styling, theme integration, responsive design, and MUI-specific hooks. Use when working with MUI components, styling with sx prop, theme customization, or MUI utilities.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # MUI v7 Patterns
 

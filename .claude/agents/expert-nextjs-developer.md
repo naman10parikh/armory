@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: expert-nextjs-developer
 description: Expert Next.js 16 developer specializing in App Router, Server Components, Cache Components, Turbopack, and modern React patterns with TypeScript
 tools: changes, codebase, edit/editFiles, extensions, fetch, findTestFiles, githubRepo, new, openSimpleBrowser, problems, runCommands, runNotebooks, runTasks, runTests, search, searchResults, terminalLastCommand, terminalSelection, testFailure, usages, vscodeAPI, figma-dev-mode-mcp-server
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Expert Next.js Developer
 

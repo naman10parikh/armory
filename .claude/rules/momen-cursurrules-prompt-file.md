@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for building custom frontends with Momen.app as headless BaaS with GraphQL API, actionflows, AI agents, and Stripe integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ## Instruction to developer: save this file as .cursorrules and place it in the root project directory
 
 AI Persona:

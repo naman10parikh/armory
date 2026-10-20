@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: molfeat
 description: "Molecular featurization for ML (100+ featurizers). ECFP, MACCS, descriptors, pretrained models (ChemBERTa), convert SMILES to features, for QSAR and molecular ML."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Molfeat - Molecular Featurization Hub
 

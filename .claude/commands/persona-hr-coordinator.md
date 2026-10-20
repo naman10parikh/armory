@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-description]
 description: Handle HR workflows — onboarding, announcements, and employee comms.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Hr Coordinator Persona
 

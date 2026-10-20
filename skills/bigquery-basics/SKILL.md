@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: bigquery-basics
 description: Manages datasets, tables, and jobs in BigQuery, and integrates with BigQuery ML and Gemini for advanced data analytics and AI-driven insights. Use for SQL queries, resource management, data ingestion, or AI applications on BigQuery.
 source: google/skills (Apache 2.0)
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # BigQuery Basics
 

@@ -1,10 +1,10 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: coding-standards
 description: Universal coding standards, best practices, and patterns for TypeScript, JavaScript, React, and Node.js development.
 author: affaan-m
 version: "1.0"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Coding Standards & Best Practices
 

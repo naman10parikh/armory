@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [schema-type] | --relational | --nosql | --hybrid | --normalize
 description: Design optimized database schemas with proper relationships, constraints, and performance considerations
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Design Database Schema
 

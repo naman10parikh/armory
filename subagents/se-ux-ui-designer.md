@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: se-ux-ui-designer
 description: Jobs-to-be-Done analysis, user journey mapping, and UX research artifacts for Figma and design workflows
 tools: codebase, edit/editFiles, search, fetch
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # UX/UI Designer
 

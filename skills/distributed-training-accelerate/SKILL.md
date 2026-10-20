@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: huggingface-accelerate
 description: Simplest distributed training API. 4 lines to add distributed support to any PyTorch script. Unified API for DeepSpeed/FSDP/Megatron/DDP. Automatic device placement, mixed precision (FP16/BF16/FP8). Interactive config, single launch command. HuggingFace ecosystem standard.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Distributed Training, HuggingFace, Accelerate, DeepSpeed, FSDP, Mixed Precision, PyTorch, DDP, Unified API, Simple]
 dependencies: [accelerate, torch, transformers]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # HuggingFace Accelerate - Unified Distributed Training
 

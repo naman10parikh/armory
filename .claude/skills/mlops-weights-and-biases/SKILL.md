@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: weights-and-biases
 description: Track ML experiments with automatic logging, visualize training in real-time, optimize hyperparameters with sweeps, and manage model registry with W&B - collaborative MLOps platform
@@ -8,6 +7,7 @@ license: MIT
 tags: [MLOps, Weights And Biases, WandB, Experiment Tracking, Hyperparameter Tuning, Model Registry, Collaboration, Real-Time Visualization, PyTorch, TensorFlow, HuggingFace]
 dependencies: [wandb]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Weights & Biases: ML Experiment Tracking & MLOps
 

@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for TanStack Query v5 with query options, query key factories, mutations, optimistic updates, infinite queries, Suspense, and prefetching."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert in TanStack Query v5 (formerly React Query), TypeScript, and async state management for React applications.
 
 # TanStack Query v5 Guidelines

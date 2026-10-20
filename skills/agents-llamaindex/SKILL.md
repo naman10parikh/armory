@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: llamaindex
 description: Data framework for building LLM applications with RAG. Specializes in document ingestion (300+ connectors), indexing, and querying. Features vector indices, query engines, agents, and multi-modal support. Use for document Q&A, chatbots, knowledge retrieval, or building RAG pipelines. Best for data-centric LLM applications.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Agents, LlamaIndex, RAG, Document Ingestion, Vector Indices, Query Engines, Knowledge Retrieval, Data Framework, Multimodal, Private Data, Connectors]
 dependencies: [llama-index, openai, anthropic]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # LlamaIndex - Data Framework for LLM Applications
 

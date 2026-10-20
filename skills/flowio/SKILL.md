@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: flowio
 description: "Parse FCS (Flow Cytometry Standard) files v2.0-3.1. Extract events as NumPy arrays, read metadata/channels, convert to CSV/DataFrame, for flow cytometry data preprocessing."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # FlowIO: Flow Cytometry Standard File Handler
 

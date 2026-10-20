@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Optimize prompts for production with CoT, few-shot, and constitutional AI patterns"
 argument-hint: "<prompt-text-or-file>"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Prompt Optimization
 

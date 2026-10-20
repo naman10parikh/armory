@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: code-tour
 description: Expert agent for creating and maintaining VSCode CodeTour files with comprehensive schema support and best practices
 tools: Read, Bash, Grep, Glob, Edit, Write
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # VSCode Tour Expert 🗺️
 

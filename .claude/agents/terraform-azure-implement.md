@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: terraform-azure-implement
 description: Act as an Azure Terraform Infrastructure as Code coding specialist that creates and reviews Terraform for Azure resources.
 tools: Read, Edit, Write, Bash, Grep, Glob, WebFetch, azureterraformbestpractices, documentation, get_bestpractices, microsoft-docs
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Azure Terraform Infrastructure as Code Implementation Specialist
 

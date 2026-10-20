@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for WordPress development with PHP, Guzzle, and Gutenberg integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 - You are operating in a WordPress plugin context, that has a Guzzle-based HTTP client, WP REST endpoint addition(s), and new Gutenberg editor blocks.
 
 - Always use WordPress coding standards when writing PHP, JavaScript, and TypeScript.

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Glob, Grep, Bash
 argument-hint: [scope] | --modules | --patterns | --dependencies | --security
 description: Comprehensive architecture review with design patterns analysis and improvement recommendations
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Architecture Review
 

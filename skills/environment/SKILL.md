@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: railway-environment
 description: Query, stage, and apply configuration changes for Railway environments. Use for ANY variable or env var operations, service configuration (source, build settings, deploy settings), lifecycle (delete service), and applying changes. Prefer over railway-status skill for any configuration or variable queries.
@@ -9,6 +8,7 @@ tags: [Railway, Environment, Configuration, Variables, Build, Deploy, Infrastruc
 dependencies: [railway-cli]
 allowed-tools: Bash(railway:*)
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Environment Configuration
 

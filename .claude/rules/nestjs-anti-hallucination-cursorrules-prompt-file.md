@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules that block deprecated, phantom, or incorrect NestJS imports, decorators, providers, modules, and testing patterns."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # NestJS Anti-Hallucination Rules
 
 These rules OVERRIDE all other generation behavior. Check EVERY line of generated code against these rules.

@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "React best practices and patterns for modern web applications"
 globs: **/*.tsx, **/*.jsx, components/**/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # React Best Practices
 
 ## Component Structure

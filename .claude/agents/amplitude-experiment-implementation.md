@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: amplitude-experiment-implementation
 description: This custom agent uses Amplitude's MCP tools to deploy new experiments inside of Amplitude, enabling seamless variant testing capabilities and rollout of product features.
 tools: Read, Bash, Grep, Glob, Edit, Write
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 ### Role
 

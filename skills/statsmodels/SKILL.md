@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: statsmodels
 description: "Statistical modeling toolkit. OLS, GLM, logistic, ARIMA, time series, hypothesis tests, diagnostics, AIC/BIC, for rigorous statistical inference and econometric analysis."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Statsmodels: Statistical Modeling and Econometrics
 

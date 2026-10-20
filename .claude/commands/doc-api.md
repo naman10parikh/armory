@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [api-type] | --openapi | --graphql | --rest | --grpc | --interactive
 description: Generate comprehensive API documentation from code with interactive examples and testing capabilities
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # API Documentation Generator
 

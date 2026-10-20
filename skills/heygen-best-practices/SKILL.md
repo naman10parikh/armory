@@ -1,10 +1,10 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: heygen-best-practices
 description: Best practices for HeyGen - AI avatar video creation API
 metadata:
   tags: heygen, video, avatar, ai, api, text-to-video
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 ## When to use
 

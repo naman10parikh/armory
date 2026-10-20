@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: cloud-devops
 description: "Cloud infrastructure and DevOps workflow covering AWS, Azure, GCP, Kubernetes, Terraform, CI/CD, monitoring, and cloud-native development."
@@ -7,6 +6,7 @@ risk: safe
 source: personal
 date_added: "2026-02-27"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Cloud/DevOps Workflow Bundle
 

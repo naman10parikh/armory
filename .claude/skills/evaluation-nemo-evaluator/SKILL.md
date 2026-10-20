@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: nemo-evaluator-sdk
 description: Evaluates LLMs across 100+ benchmarks from 18+ harnesses (MMLU, HumanEval, GSM8K, safety, VLM) with multi-backend execution. Use when needing scalable evaluation on local Docker, Slurm HPC, or cloud platforms. NVIDIA's enterprise-grade platform with container-first architecture for reproducible benchmarking.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Evaluation, NeMo, NVIDIA, Benchmarking, MMLU, HumanEval, Multi-Backend, Slurm, Docker, Reproducible, Enterprise]
 dependencies: [nemo-evaluator-launcher>=0.1.25, docker]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # NeMo Evaluator SDK - Enterprise LLM Benchmarking
 

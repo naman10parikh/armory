@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: terraform-iac-reviewer
 description: Terraform-focused agent that reviews and creates safer IaC changes with emphasis on state safety, least privilege, module patterns, drift detection, and plan/apply discipline
 tools: Read, Edit, Write, Bash, Grep, Glob
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Terraform IaC Reviewer
 

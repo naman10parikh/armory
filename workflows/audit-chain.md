@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Walk the receipt chain in ./receipts/ verifying every signature and hash link. Detects insertions, deletions, and tampering across the entire audit trail."
 argument-hint: "[--last N] [--dir path]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Audit Chain
 

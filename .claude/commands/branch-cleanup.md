@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash(git branch:*), Bash(git checkout:*), Bash(git push:*), Bash(git merge:*), Bash(gh:*), Read, Grep
 argument-hint: [--dry-run] | [--force] | [--remote-only] | [--local-only]
 description: Use PROACTIVELY to clean up merged branches, stale remotes, and organize branch structure
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Git Branch Cleanup & Organization
 

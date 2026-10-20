@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: manim
 description: Comprehensive guide for Manim Community - Python framework for creating mathematical animations and educational videos with programmatic control
@@ -9,6 +8,7 @@ license: MIT
 tags: [Video, Python, Animation, Manim, Mathematical, Educational, Visualization, LaTeX, 3Blue1Brown]
 dependencies: [manim>=0.19.0, python>=3.8]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Manim Community - Mathematical Animation Engine
 

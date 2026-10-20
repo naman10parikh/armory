@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [auth-method] | --oauth | --jwt | --mfa | --passwordless
 description: Implement secure user authentication system with chosen method and security best practices
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Add Authentication System
 

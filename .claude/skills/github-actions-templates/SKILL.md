@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: github-actions-templates
 description: "Production-ready GitHub Actions workflow patterns for testing, building, and deploying applications."
@@ -6,6 +5,7 @@ risk: critical
 source: community
 date_added: "2026-02-27"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # GitHub Actions Templates
 

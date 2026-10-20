@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Find Gmail messages matching a query and export them for review.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Search And Export Emails
 

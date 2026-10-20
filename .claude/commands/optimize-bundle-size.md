@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Bash, Grep, Glob
 argument-hint: [build-tool] | --webpack | --vite | --rollup
 description: Reduce and optimize bundle sizes through analysis, configuration, and code splitting strategies
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Optimize Bundle Size
 

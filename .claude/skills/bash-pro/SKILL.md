@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: bash-pro
 description: 'Master of defensive Bash scripting for production automation, CI/CD
@@ -12,6 +11,7 @@ risk: critical
 source: community
 date_added: '2026-02-27'
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ## Use this skill when
 
 - Writing or reviewing Bash scripts for automation, CI/CD, or ops

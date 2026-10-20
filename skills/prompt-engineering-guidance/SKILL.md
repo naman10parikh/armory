@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: guidance
 description: Control LLM output with regex and grammars, guarantee valid JSON/XML/code generation, enforce structured formats, and build multi-step workflows with Guidance - Microsoft Research's constrained generation framework
@@ -8,6 +7,7 @@ license: MIT
 tags: [Prompt Engineering, Guidance, Constrained Generation, Structured Output, JSON Validation, Grammar, Microsoft Research, Format Enforcement, Multi-Step Workflows]
 dependencies: [guidance, transformers]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Guidance: Constrained LLM Generation
 

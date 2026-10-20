@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Task delegation dashboard for managing team workload, assignments, and rebalancing"
 argument-hint: "[team-name] [--assign task-id=member-name] [--message member-name 'content'] [--rebalance]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Team Delegate
 

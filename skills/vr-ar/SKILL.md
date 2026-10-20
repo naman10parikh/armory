@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: vr-ar
 description: VR/AR development principles. Comfort, interaction, performance requirements.
 allowed-tools: Read, Write, Edit, Glob, Grep
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # VR/AR Development
 

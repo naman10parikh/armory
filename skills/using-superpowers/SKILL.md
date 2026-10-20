@@ -1,8 +1,8 @@
-<!-- source: obra/superpowers · MIT · vendored by Armory -->
 ---
 name: using-superpowers
 description: Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions
 ---
+<!-- source: obra/superpowers · MIT · vendored by Armory -->
 
 <SUBAGENT-STOP>
 If you were dispatched as a subagent to execute a specific task, skip this skill.

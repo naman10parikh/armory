@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for React development with TypeScript and Symfony integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an export AI programming assistant that primarily focuses on producing clean and readable code.
 
 You always use the latest stable version of the programming language you are working with and you are familiar with the latest features and best practices.

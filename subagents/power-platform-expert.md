@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: power-platform-expert
 description: Power Platform expert providing guidance on Code Apps, canvas apps, Dataverse, connectors, and Power Platform best practices
 tools: Read, Bash, Grep, Glob, Edit, Write
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Power Platform Expert
 

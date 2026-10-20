@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: pdb-database
 description: "Access RCSB PDB for 3D protein/nucleic acid structures. Search by text/sequence/structure, download coordinates (PDB/mmCIF), retrieve metadata, for structural biology and drug discovery."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # PDB Database
 

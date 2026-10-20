@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [deployment-type] | --microservices | --monolith | --stateful | --full-stack | --production-ready
 description: Configure comprehensive Kubernetes deployment with manifests, security, scaling, and production best practices
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Kubernetes Deployment Configuration
 

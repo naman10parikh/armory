@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Guided component creation with proper patterns"
 argument-hint: "[component-name]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Create Component
 

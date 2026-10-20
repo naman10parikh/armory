@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [release-type] | --semantic | --conventional-commits | --github-actions | --full-automation
 description: Setup automated release workflows with semantic versioning, conventional commits, and comprehensive automation
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Automated Release System
 

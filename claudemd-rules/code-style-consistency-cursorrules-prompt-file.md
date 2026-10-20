@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for code development with style consistency integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 // Code Style Consistency - .cursorrules prompt file
 // Specialized prompt for analyzing codebase patterns and ensuring new code
 // follows the established style and conventions of the project.

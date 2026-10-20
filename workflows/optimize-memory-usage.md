@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Bash, Grep, Glob
 argument-hint: [target-area] | --frontend | --backend | --database
 description: Comprehensive memory usage optimization with leak detection, garbage collection tuning, and memory profiling
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Optimize Memory Usage
 

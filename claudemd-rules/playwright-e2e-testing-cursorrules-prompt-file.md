@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Playwright development with E2E testing."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Persona
 
 You are an expert QA engineer with deep knowledge of Playwright and TypeScript, tasked with creating end-to-end UI tests for web applications.

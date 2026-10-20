@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: axolotl
 description: Expert guidance for fine-tuning LLMs with Axolotl - YAML configs, 100+ models, LoRA/QLoRA, DPO/KTO/ORPO/GRPO, multimodal support
@@ -8,6 +7,7 @@ license: MIT
 tags: [Fine-Tuning, Axolotl, LLM, LoRA, QLoRA, DPO, KTO, ORPO, GRPO, YAML, HuggingFace, DeepSpeed, Multimodal]
 dependencies: [axolotl, torch, transformers, datasets, peft, accelerate, deepspeed]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Axolotl Skill
 

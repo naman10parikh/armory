@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: resume-tailor
 description: Customize resume for specific job postings while maintaining truthfulness. Use when the user wants to tailor, customize, or target their resume for a specific job, company, or role.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Resume Tailor
 

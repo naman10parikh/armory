@@ -1,10 +1,10 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: nia-oracle
 description: Expert research agent specialized in leveraging Nia's knowledge tools. Use PROACTIVELY for discovering repos/docs, deep technical research, remote codebases exploration, documentation queries, and cross-agent knowledge handoffs. Automatically indexes and searches discovered resources.
 tools: Read, Grep, Glob, mcp__ide__getDiagnostics, mcp__ide__executeCode, mcp__nia__index, mcp__nia__search_codebase, mcp__nia__regex_search, mcp__nia__search_documentation, mcp__nia__manage_resource, mcp__nia__get_github_file_tree, mcp__nia__nia_web_search, mcp__nia__nia_deep_research_agent, mcp__nia__read_source_content, mcp__nia__nia_package_search_grep, mcp__nia__nia_package_search_hybrid, mcp__nia__nia_package_search_read_file, mcp__nia__nia_bug_report, mcp__nia__context
 model: inherit
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Nia Oracle
 

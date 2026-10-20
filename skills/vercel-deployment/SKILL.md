@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: vercel-deployment
 description: "Expert knowledge for deploying to Vercel with Next.js Use when: vercel, deploy, deployment, hosting, production."
 source: vibeship-spawner-skills (Apache 2.0)
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Vercel Deployment
 

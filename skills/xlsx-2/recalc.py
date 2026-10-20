@@ -1,5 +1,5 @@
-# source: davila7/claude-code-templates · MIT · vendored by Armory
 #!/usr/bin/env python3
+# source: davila7/claude-code-templates · MIT · vendored by Armory
 """
 Excel Formula Recalculation Script
 Recalculates all formulas in an Excel file using LibreOffice

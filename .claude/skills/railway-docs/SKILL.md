@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: railway-docs
 description: Fetch up-to-date Railway documentation to answer questions accurately. Use when user asks about Railway features, how Railway works, or shares a docs.railway.com URL.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Railway, Documentation, Docs, Help, Reference, Learning]
 dependencies: [railway-cli]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Railway Documentation
 

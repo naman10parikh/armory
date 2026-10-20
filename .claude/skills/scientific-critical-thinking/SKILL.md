@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: scientific-critical-thinking
 description: "Evaluate research rigor. Assess methodology, experimental design, statistical validity, biases, confounding, evidence quality (GRADE, Cochrane ROB), for critical analysis of scientific claims."
 allowed-tools: [Read, Write, Edit, Bash]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Scientific Critical Thinking
 

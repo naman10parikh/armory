@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Hashgraph Online development with TypeScript, building AI agents on Hedera with RegistryBrokerClient."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Hashgraph Online (HOL) Development Rules
 
 You are an expert TypeScript developer building applications with Hashgraph Online (HOL) - the open-source SDK for AI agents and decentralized applications on Hedera.

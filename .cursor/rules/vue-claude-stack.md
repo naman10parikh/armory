@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Complete AI coding setup for Vue 3 & Nuxt 3 — .cursorrules + CLAUDE.md + Copilot instructions + generation skills."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert Vue 3 and Nuxt 3 developer with deep knowledge of TypeScript, Pinia, VueUse, Tailwind CSS, and the Vue ecosystem.
 
 ## Core Principles

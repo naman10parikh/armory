@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: pymoo
 description: "Multi-objective optimization framework. NSGA-II, NSGA-III, MOEA/D, Pareto fronts, constraint handling, benchmarks (ZDT, DTLZ), for engineering design and optimization problems."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Pymoo - Multi-Objective Optimization in Python
 

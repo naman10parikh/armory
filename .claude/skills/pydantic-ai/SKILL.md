@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: pydantic-ai
 description: "Build production-ready AI agents with PydanticAI — type-safe tool use, structured outputs, dependency injection, and multi-model support."
@@ -10,6 +9,7 @@ author: suhaibjanjua
 tags: [pydantic-ai, ai-agents, llm, openai, anthropic, gemini, tool-use, structured-output, python]
 tools: [claude, cursor, gemini]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # PydanticAI — Typed AI Agents in Python
 

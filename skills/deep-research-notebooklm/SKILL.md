@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: deep-research-notebooklm
 description: "Deep research skill powered by NotebookLM MCP. Conducts structured multi-source research (market analysis, competitive intel, trend analysis, prospect research) using Google NotebookLM as the research engine, then delivers formatted briefs and optional studio artifacts (slides, audio podcasts, videos, infographics, reports, mind maps)."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Deep Research via NotebookLM
 

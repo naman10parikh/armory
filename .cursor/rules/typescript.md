@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "TypeScript coding standards and best practices for modern web development"
 globs: **/*.ts, **/*.tsx, **/*.d.ts
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # TypeScript Best Practices
 
 ## Type System

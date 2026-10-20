@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: playwright-java
 description: "Scaffold, write, debug, and enhance enterprise-grade Playwright E2E tests in Java using Page Object Model, JUnit 5, Allure reporting, and parallel execution."
@@ -10,6 +9,7 @@ author: amalsam18
 tags: [playwright, java, e2e-testing, junit5, page-object-model, allure, selenium-alternative]
 tools: [claude, cursor,antigravity]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Playwright Java – Advanced Test Automation
 

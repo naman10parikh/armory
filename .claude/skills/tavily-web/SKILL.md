@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: tavily-web
 description: Web search, content extraction, crawling, and research capabilities using Tavily API
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # tavily-web
 

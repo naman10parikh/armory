@@ -1,7 +1,7 @@
-<!-- source: wshobson/commands · MIT · vendored by Armory -->
 ---
 model: claude-opus-4-1
 ---
+<!-- source: wshobson/commands · MIT · vendored by Armory -->
 
 Refactor code with confidence using comprehensive test safety net:
 

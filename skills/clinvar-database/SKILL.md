@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: clinvar-database
 description: "Query NCBI ClinVar for variant clinical significance. Search by gene/position, interpret pathogenicity classifications, access via E-utilities API or FTP, annotate VCFs, for genomic medicine."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # ClinVar Database
 

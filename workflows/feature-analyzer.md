@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 description: "Turn ideas into fully formed designs and specs through natural collaborative dialogue. Use before implementing new features or making significant changes."
 argument-hint: Optional feature description
 allowed-tools: Read, Write, Grep, Glob, Bash, TodoWrite, AskUserQuestion, Skill, Task
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 ## Phase 1: Discovery
 

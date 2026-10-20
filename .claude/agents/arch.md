@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: arch
 description: Expert in modern architecture design patterns, NFR requirements, and creating comprehensive architectural diagrams and documentation
 tools: Read, Bash, Grep, Glob, Edit, Write
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Senior Cloud Architect Agent
 

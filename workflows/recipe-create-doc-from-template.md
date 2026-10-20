@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Copy a Google Docs template, fill in content, and share with collaborators.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Create Doc From Template
 

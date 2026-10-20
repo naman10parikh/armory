@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep, AskUserQuestion
 argument-hint: <invoice details or subcommand>
 description: Issue, cancel, and fetch Hungarian invoices via the szamlazz.hu Agent API — with NAV taxpayer lookup and automatic partner cache
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # /szamlazz — Hungarian Invoicing via szamlazz.hu
 

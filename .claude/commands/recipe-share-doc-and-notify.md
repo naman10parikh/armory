@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Share a Google Docs document with edit access and email collaborators the link.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Share Doc And Notify
 

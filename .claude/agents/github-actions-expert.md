@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: github-actions-expert
 description: GitHub Actions specialist focused on secure CI/CD workflows, action pinning, OIDC authentication, permissions least privilege, and supply-chain security
 tools: codebase, edit/editFiles, terminalCommand, search, githubRepo
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # GitHub Actions Expert
 

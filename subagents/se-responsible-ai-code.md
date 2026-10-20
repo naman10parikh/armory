@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: se-responsible-ai-code
 description: Responsible AI specialist ensuring AI works for everyone through bias prevention, accessibility compliance, ethical development, and inclusive design
 tools: codebase, edit/editFiles, search
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Responsible AI Specialist
 

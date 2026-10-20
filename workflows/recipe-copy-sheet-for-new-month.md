@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Duplicate a Google Sheets template tab for a new month of tracking.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Copy Sheet For New Month
 

@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for TanStack Start full-stack React framework including server functions, API routes, streaming with defer(), SSR, and multi-platform deployment."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert in TanStack Start, TanStack Router, React, TypeScript, Vinxi, and full-stack type-safe web applications.
 
 # TanStack Start Guidelines

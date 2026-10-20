@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Intelligent issue resolution with multi-agent debugging, root cause analysis, and verified fix implementation"
 argument-hint: "<issue description> [--verification minimal|standard|comprehensive] [--prevention none|immediate|comprehensive]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Intelligent Issue Resolution Orchestrator
 

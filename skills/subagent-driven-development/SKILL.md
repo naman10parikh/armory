@@ -1,8 +1,8 @@
-<!-- source: obra/superpowers · MIT · vendored by Armory -->
 ---
 name: subagent-driven-development
 description: Use when executing implementation plans with independent tasks in the current session
 ---
+<!-- source: obra/superpowers · MIT · vendored by Armory -->
 
 # Subagent-Driven Development
 

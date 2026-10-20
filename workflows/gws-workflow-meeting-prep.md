@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [resource] [method] [flags]
 description: Google Workflow: Prepare for your next meeting: agenda, attendees, and linked docs.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Google Workspace Workflow Meeting Prep
 

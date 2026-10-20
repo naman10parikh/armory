@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: agent-memory-mcp
 author: Amit Rathiesh
 description: A hybrid memory system that provides persistent, searchable knowledge management for AI agents (Architecture, Patterns, Decisions).
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Agent Memory Skill
 

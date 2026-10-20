@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Best practices for Shopify theme development with Liquid, JavaScript, and CSS"
 globs: ["**/*.liquid", "assets/**/*.js", "assets/**/*.css", "sections/**/*.liquid", "snippets/**/*.liquid", "templates/**/*.liquid"]
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Shopify Theme Development Best Practices
 
 ## Project Structure

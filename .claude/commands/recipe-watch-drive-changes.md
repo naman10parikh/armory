@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Subscribe to change notifications on a Google Drive file or folder.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Watch Drive Changes
 

@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: optimizing-attention-flash
 description: Optimizes transformer attention with Flash Attention for 2-4x speedup and 10-20x memory reduction. Use when training/running transformers with long sequences (>512 tokens), encountering GPU memory issues with attention, or need faster inference. Supports PyTorch native SDPA, flash-attn library, H100 FP8, and sliding window attention.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Optimization, Flash Attention, Attention Optimization, Memory Efficiency, Speed Optimization, Long Context, PyTorch, SDPA, H100, FP8, Transformers]
 dependencies: [flash-attn, torch, transformers]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Flash Attention - Fast Memory-Efficient Attention
 

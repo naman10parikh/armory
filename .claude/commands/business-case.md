@@ -1,9 +1,9 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Generate comprehensive investor-ready business case document with market, solution, financials, and strategy"
 allowed-tools:
   ["Read", "Write", "Edit", "Glob", "Grep", "Bash", "WebSearch", "WebFetch"]
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Business Case Generator
 

@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: job-description-analyzer
 description: Analyze job postings, calculate match scores, identify gaps, and create an application strategy. Use when the user shares a job description or asks to evaluate fit, match score, or gaps against a posting.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Job Description Analyzer
 

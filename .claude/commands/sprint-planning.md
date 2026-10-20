@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, WebSearch
 argument-hint: [sprint-duration] | [start-date] [duration]
 description: Plan and organize sprint workflows with Linear integration and capacity analysis
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Sprint Planning
 

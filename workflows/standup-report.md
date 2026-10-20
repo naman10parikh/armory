@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Bash, Glob, Grep
 argument-hint: [time-range] | --yesterday | --last-24h | --since-friday | --custom-range
 description: Generate comprehensive daily standup reports with team activity analysis and progress tracking
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Standup Report
 

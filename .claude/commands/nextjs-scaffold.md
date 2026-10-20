@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [project-name] [--typescript] [--tailwind] [--app-router]
 description: Create a new Next.js application with best practices and optimal configuration
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 ## Next.js Application Scaffolding
 

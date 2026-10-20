@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Delete a Google Calendar event and send a cancellation email via Gmail.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Cancel And Notify
 

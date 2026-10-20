@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: writing-plans
 description: Use when you have a spec or requirements for a multi-step task, before touching code
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Writing Plans
 

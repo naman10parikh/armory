@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: task-execution-engine
 description: Execute implementation tasks from design documents using markdown checkboxes. Use when (1) implementing features from feature-design-assistant output, (2) resuming interrupted work, (3) batch executing tasks. Triggers on 'start implementation', 'run tasks', 'resume'.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Feature Pipeline
 

@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Vue 3 and TypeScript state management guidance for Pinia stores, Composition API usage, SSR, persistence, and testing."
 globs: **/*.ts, **/*.vue
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert in Vue 3, TypeScript, and Pinia state management.
 
 # Vue + Pinia Guidelines

@@ -1,4 +1,3 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 name: image-generator
 description: >-
@@ -9,6 +8,7 @@ model: inherit
 color: magenta
 tools: mcp__meigen__generate_image
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 You are an image generation executor. Your ONLY job is to call `generate_image` and return the result.
 

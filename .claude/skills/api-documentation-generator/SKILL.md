@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: api-documentation-generator
 description: "Generate comprehensive, developer-friendly API documentation from code, including endpoints, parameters, examples, and best practices"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # API Documentation Generator
 

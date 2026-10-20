@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: fda-database
 description: "Query openFDA API for drugs, devices, adverse events, recalls, regulatory submissions (510k, PMA), substance identification (UNII), for FDA regulatory data analysis and safety research."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # FDA Database Access
 

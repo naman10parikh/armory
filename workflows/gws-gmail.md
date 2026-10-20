@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [resource] [method] [flags]
 description: Gmail: Send, read, and manage email.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Google Workspace Gmail
 

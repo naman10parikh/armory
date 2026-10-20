@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "7 sample production-tested rules (dependency discipline, error handling, state management, webhook security, and more). See the pack README for full-pack details."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Cursor Rules Pack v2 — Sample Rules
 # 7 production-tested rules from the full 50-rule pack
 # Full pack: https://oliviacraftlat.gumroad.com/l/wyaeil

@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Ankra CLI rules and best practices for managing Kubernetes clusters via the Ankra platform"
 globs: **/*.sh, **/*.yaml, **/*.yml, Makefile, **/Makefile, **/*.md
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Ankra CLI Best Practices
 
 Ankra is a Kubernetes cluster management platform. Its CLI (`ankra`) lets you manage organisations, clusters, add-ons, stacks, Helm releases, credentials, and tokens from the terminal.

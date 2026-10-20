@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: product-manager-toolkit
 description: Comprehensive toolkit for product managers including RICE prioritization, customer interview analysis, PRD templates, discovery frameworks, and go-to-market strategies. Use for feature prioritization, user research synthesis, requirement documentation, and product strategy development.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Product Manager Toolkit
 

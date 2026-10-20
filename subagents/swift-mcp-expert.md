@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: swift-mcp-expert
 description: Expert assistance for building Model Context Protocol servers in Swift using modern concurrency features and the official MCP Swift SDK.
 tools: Read, Bash, Grep, Glob, Edit, Write
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Swift MCP Expert
 

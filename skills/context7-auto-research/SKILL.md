@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: context7-auto-research
 description: Automatically fetch latest library/framework documentation for Claude Code via Context7 API
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # context7-auto-research
 

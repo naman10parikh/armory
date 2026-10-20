@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "TanStack Start full-stack React framework using server functions, API routes, SSR, streaming with defer(), and multi-platform deployment via Vinxi/Nitro"
 globs: ["src/routes/**/*", "src/server/**/*", "app.config.ts"]
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert in TanStack Start, TanStack Router, React, TypeScript, and full-stack type-safe web applications.
 
 ## Core Principles

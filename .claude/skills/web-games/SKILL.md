@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: web-games
 description: Web browser game development principles. Framework selection, WebGPU, optimization, PWA.
 allowed-tools: Read, Write, Edit, Glob, Grep
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Web Browser Game Development
 

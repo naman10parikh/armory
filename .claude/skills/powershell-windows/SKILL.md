@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: powershell-windows
 description: PowerShell Windows patterns. Critical pitfalls, operator syntax, error handling.
 allowed-tools: Read, Write, Edit, Glob, Grep, Bash
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # PowerShell Windows Patterns
 

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [setup-mode] | --full | --webhooks-only | --monitoring | --deploy-target
 description: Setup comprehensive automated synchronization workflows with monitoring and CI/CD integration
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Sync Automation Setup
 

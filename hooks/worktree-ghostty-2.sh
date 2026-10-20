@@ -1,5 +1,5 @@
-# source: davila7/claude-code-templates · MIT · vendored by Armory
 #!/bin/bash
+# source: davila7/claude-code-templates · MIT · vendored by Armory
 # Hook: Worktree Ghostty Layout
 #
 # Creates git worktrees in a sibling directory and opens a Ghostty terminal

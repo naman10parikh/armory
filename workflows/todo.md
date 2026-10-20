@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit
 argument-hint: [action] [task-description] | add | complete | remove | list
 description: Manage project todos in todos.md file
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Project Todo Manager
 

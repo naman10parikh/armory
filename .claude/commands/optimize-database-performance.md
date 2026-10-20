@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Bash, Grep, Glob
 argument-hint: [database-type] | --postgresql | --mysql | --mongodb
 description: Optimize database queries, indexing, and performance for improved response times and scalability
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Optimize Database Performance
 

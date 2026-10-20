@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: demonstrate-understanding
 description: Validate user understanding of code, design patterns, and implementation details through guided questioning.
 tools: codebase, fetch, findTestFiles, githubRepo, search, usages
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Demonstrate Understanding mode instructions
 

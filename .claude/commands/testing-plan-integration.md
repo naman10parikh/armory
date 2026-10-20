@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [target-code] | [test-type] | --rust | --inline | --refactoring-suggestions
 description: Create comprehensive integration testing plan with inline tests and refactoring recommendations
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Testing Plan Integration
 

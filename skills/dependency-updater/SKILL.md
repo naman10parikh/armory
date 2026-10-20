@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: dependency-updater
 description: Smart dependency management for any language. Auto-detects project type, applies safe updates automatically, prompts for major versions, diagnoses and fixes dependency issues.
@@ -6,6 +5,7 @@ license: MIT
 metadata:
   version: 1.0.0
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Dependency Updater
 

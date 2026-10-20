@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: executive-resume-writer
 description: Create C-suite and VP-level resumes emphasizing strategic leadership, P&L ownership, and board-level impact. Use when the user mentions executive, C-suite, CEO, CFO, CTO, VP, director, or senior leadership resume.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Executive Resume Writer
 

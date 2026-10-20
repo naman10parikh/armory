@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: bleu
 description: "Use this skill whenever a developer wants to turn an idea into a complete, production-ready, end-to-end system plan BEFORE writing any code. Trigger on 'plan this system', 'design the architecture for', 'help me blueprint', 'deep plan for X', 'break this idea into components', 'expand into action points', 'full implementation plan', or when the user pastes a project idea wanting architecture, components, pipelines, and file-level execution mapped out. Casual phrasing also triggers: 'help me think this through end-to-end', 'plan before coding'. Also covers living-workspace patterns: self-improving knowledge bases, reflection loops with auditor agents, four-agent teams, schema-as-code, wiki health scoring. **Resume triggers**: 'where did we leave off', 'continue this plan', 'resume my blueprint' - rehydrates state from disk via SESSION.md/NEXT.md/decisions/. Web research is mandatory every invocation."
@@ -8,6 +7,7 @@ metadata:
   version: "1.0.0"
   source: https://github.com/Nirvaan05/Bleu-plugin
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Bleu
 

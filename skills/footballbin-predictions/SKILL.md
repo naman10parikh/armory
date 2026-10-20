@@ -1,10 +1,10 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: footballbin-predictions
 description: Get AI-powered match predictions for Premier League and Champions League including scores, next goal, and corners.
 homepage: https://apps.apple.com/app/footballbin/id6757111871
 metadata: {"clawdbot":{"emoji":"⚽","requires":{"bins":["curl","jq"]},"files":["scripts/*"]}}
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # FootballBin Match Predictions
 

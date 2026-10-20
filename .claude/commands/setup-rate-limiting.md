@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [rate-limit-type] | --api | --authentication | --file-upload | --database
 description: Implement comprehensive API rate limiting with advanced algorithms and user-specific policies
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Setup Rate Limiting
 

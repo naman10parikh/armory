@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: haskell-pro
 description: "Expert Haskell engineer specializing in advanced type systems, pure"
@@ -6,6 +5,7 @@ risk: safe
 source: community
 date_added: "2026-02-27"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 ## Use this skill when
 

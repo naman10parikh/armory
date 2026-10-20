@@ -1,9 +1,9 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 name: playwright
 description: Playwright testing agent. Only runs for FRONTEND tasks. Verifies acceptance criteria in a real browser using the page object pattern. Passes on success, routes back to developer on failure.
 model: sonnet
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Playwright Test Agent
 

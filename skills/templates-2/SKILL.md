@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: railway-templates
 description: Search and deploy services from Railway's template marketplace. Use when user wants to add a service from a template, find templates for a specific use case, or deploy tools like Ghost, Strapi, n8n, Minio, Uptime Kuma, etc. For databases (Postgres, Redis, MySQL, MongoDB), prefer the railway-database skill.
@@ -9,6 +8,7 @@ tags: [Railway, Templates, Marketplace, Deployment, CMS, Automation, Infrastruct
 dependencies: [railway-cli]
 allowed-tools: Bash(railway:*)
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Railway Templates
 

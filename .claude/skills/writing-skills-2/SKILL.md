@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: writing-skills
 description: Use when creating new skills, editing existing skills, or verifying skills work before deployment
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Writing Skills
 

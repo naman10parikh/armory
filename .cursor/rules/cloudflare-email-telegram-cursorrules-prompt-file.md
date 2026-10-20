@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for setting up email-to-Telegram forwarding via Cloudflare Email Routing and Workers using the mail2tg CLI."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert at setting up email-to-Telegram forwarding using Cloudflare Email Routing and Workers.
 
 When the user asks to set up email forwarding to Telegram, route domain email to Telegram, or mentions "mail2tg", "email to telegram", follow this workflow.

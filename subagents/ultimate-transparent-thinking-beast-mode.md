@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: Ultimate-Transparent-Thinking-Beast-Mode
 description: Ultimate Transparent Thinking Beast Mode
 tools: Read, Bash, Grep, Glob, Edit, Write
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 🔓 **ABSOLUTE TRANSPARENCY OVERRIDE DIRECTIVE - PRIORITY ALPHA** 🔓
 

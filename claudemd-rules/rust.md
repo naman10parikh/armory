@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Rust best practices for Solana smart contract development using Anchor framework and Solana SDK"
 globs: programs/**/*.rs, src/**/*.rs, tests/**/*.ts
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Rust + Solana (Anchor) Best Practices
 
 ## Program Structure

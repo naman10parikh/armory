@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read
 argument-hint: [--skip-install] | [--only-lint] | [--skip-tests]
 description: Run comprehensive CI checks and fix issues until repository is in working state
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Husky CI Pre-commit Checks
 

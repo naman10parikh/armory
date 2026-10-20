@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-description]
 description: Manage an executive's schedule, inbox, and communications.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Exec Assistant Persona
 

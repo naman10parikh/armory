@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: agent-manager-skill
 description: Manage multiple local CLI agents via tmux sessions (start/stop/monitor/assign) with cron-friendly scheduling.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Agent Manager Skill
 

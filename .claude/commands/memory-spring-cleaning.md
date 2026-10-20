@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Glob
 argument-hint: [scope] | --claude-md | --documentation | --outdated-patterns | --implementation-sync
 description: Clean and organize project memory files with implementation synchronization and pattern updates
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Memory Spring Cleaning
 

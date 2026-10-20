@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: mcp-m365-agent-expert
 description: Expert assistant for building MCP-based declarative agents for Microsoft 365 Copilot with Model Context Protocol integration
 tools: Read, Bash, Grep, Glob, Edit, Write
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # MCP M365 Agent Expert
 

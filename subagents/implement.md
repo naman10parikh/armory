@@ -1,9 +1,9 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 name: implement
 description: Developer agent. Implements the architect plan step-by-step, guided by AGENTS.md guardrails. Writes tests, leaves no TODOs, and flags plan deviations rather than silently skipping them.
 model: sonnet
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Developer Agent
 

@@ -1,7 +1,7 @@
-<!-- source: wshobson/commands · MIT · vendored by Armory -->
 ---
 model: claude-opus-4-1
 ---
+<!-- source: wshobson/commands · MIT · vendored by Armory -->
 
 Build data-driven features with integrated pipelines and ML capabilities using specialized agents:
 

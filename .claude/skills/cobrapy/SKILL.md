@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: cobrapy
 description: "Constraint-based metabolic modeling (COBRA). FBA, FVA, gene knockouts, flux sampling, SBML models, for systems biology and metabolic engineering analysis."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # COBRApy - Constraint-Based Reconstruction and Analysis
 

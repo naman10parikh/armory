@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Bash, Grep, Glob
 argument-hint: [analysis-type] | --current-workload | --skill-matching | --capacity-planning | --assignment-optimization
 description: Analyze and optimize team workload distribution with skill matching and capacity planning
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Team Workload Balancer
 

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: agirails-agent-payments
 +description: "AI agent payment infrastructure — ACTP escrow, x402 instant payments, USDC settlement on Base L2. Interactive onboarding: asks your preferences, generates customized agent code, and verifies setup. Covers provider/requester patterns, adapter routing, 8-state machine, pricing, disputes, and identity."
 license: MIT
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # AGIRAILS — Agent Payment Infrastructure
 

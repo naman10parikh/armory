@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: csharp-mcp-expert
 description: Expert assistant for developing Model Context Protocol (MCP) servers in C#
 tools: Read, Bash, Grep, Glob, Edit, Write
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # C# MCP Server Expert
 

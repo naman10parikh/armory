@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [environment-type] | --local | --docker | --cloud | --full-stack
 description: Setup comprehensive development environment with tools, configurations, and workflows
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Setup Development Environment
 

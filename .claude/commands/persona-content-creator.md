@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-description]
 description: Create, organize, and distribute content across Workspace.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Content Creator Persona
 

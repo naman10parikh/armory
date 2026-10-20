@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: zarr-python
 description: "Chunked N-D arrays for cloud storage. Compressed arrays, parallel I/O, S3/GCS integration, NumPy/Dask/Xarray compatible, for large-scale scientific computing pipelines."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Zarr Python
 

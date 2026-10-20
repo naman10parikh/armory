@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: interview-prep-generator
 description: Generate STAR stories, practice questions, and talking points from a resume. Use when the user mentions interview prep, behavioral questions, STAR method, mock interview, or preparing for an upcoming interview.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Interview Prep Generator
 

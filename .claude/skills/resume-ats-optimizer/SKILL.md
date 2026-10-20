@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: resume-ats-optimizer
 description: Optimize resumes for Applicant Tracking Systems, check ATS compatibility, and analyze keyword match. Use when the user mentions ATS, applicant tracking, keyword optimization, parsing, or getting past resume screening software.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Resume ATS Optimizer
 

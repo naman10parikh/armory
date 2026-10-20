@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [operation] | --backup | --restore | --schedule | --validate | --cleanup
 description: Manage Supabase database backups with automated scheduling and recovery procedures
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Supabase Backup Manager
 

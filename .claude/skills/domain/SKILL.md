@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: railway-domain
 description: Add, view, or remove domains for Railway services. Use when user wants to add a domain, generate a railway domain, check current domains, get the URL for a service, or remove a domain.
@@ -9,6 +8,7 @@ tags: [Railway, Domain, DNS, URL, Custom Domain, Infrastructure]
 dependencies: [railway-cli]
 allowed-tools: Bash(railway:*)
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Railway Domain Management
 

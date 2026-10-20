@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: roier-seo
 description: Technical SEO auditor and fixer. Runs Lighthouse/PageSpeed audits on websites or local dev servers, analyzes SEO/performance/accessibility scores, and automatically implements fixes for meta tags, structured data, Core Web Vitals, and accessibility issues.
@@ -8,6 +7,7 @@ license: MIT
 tags: [SEO, Lighthouse, PageSpeed, Accessibility, Performance, Meta Tags, Structured Data, Core Web Vitals, WCAG, Next.js, React, Vue]
 dependencies: [lighthouse, chrome-launcher]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Roier SEO - Technical SEO Auditor & Fixer
 

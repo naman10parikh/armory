@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [epic-name] | --name | --description | --owner
 description: Create new PAC epic following Product as Code specification
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Create PAC Epic
 

@@ -1,7 +1,7 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: Plan and execute safe, incremental dependency upgrades with minimal risk — including breaking-change migration paths and proper test verification.
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Dependency Upgrade Strategy
 

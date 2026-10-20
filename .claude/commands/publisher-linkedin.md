@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Bash, Glob, WebFetch
 argument-hint: <input> [lang] [custom-file-path]
 description: Generate LinkedIn posts from blog content with automatic media attachment via LinkedIn API
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # LinkedIn Post Generator
 

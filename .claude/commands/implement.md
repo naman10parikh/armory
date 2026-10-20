@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Execute tasks from a track's implementation plan following TDD workflow"
 argument-hint: "[track-id] [--task X.Y] [--phase N]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Implement Track
 

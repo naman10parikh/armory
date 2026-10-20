@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: railway-metrics
 description: Query resource usage metrics for Railway services. Use when user asks about resource usage, CPU, memory, network, disk, or service performance like "how much memory is my service using" or "is my service slow".
@@ -9,6 +8,7 @@ tags: [Railway, Metrics, Monitoring, Performance, CPU, Memory, Resources, Analyt
 dependencies: [railway-cli]
 allowed-tools: Bash(railway:*)
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Railway Service Metrics
 

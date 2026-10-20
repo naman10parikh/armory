@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [route-path] [--method=GET] [--data='{}'] [--headers='{}']
 description: Test and validate Next.js API routes with comprehensive test scenarios
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 ## Next.js API Route Tester
 

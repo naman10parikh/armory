@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Unity development with C# integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 // Unity Tower Defense Game using Nintendo Ringcon
 // This project involves creating a tower defense style game controlled by a Nintendo Ringcon.
 

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [testing-type] | --capacity | --stress | --spike | --endurance | --volume
 description: Configure comprehensive load testing with performance metrics and bottleneck identification
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Setup Load Testing
 

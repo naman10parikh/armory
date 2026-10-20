@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [profile-type] | --fps | --memory | --rendering | --comprehensive
 description: Use PROACTIVELY to analyze game performance bottlenecks and generate optimization recommendations across multiple platforms
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Game Performance Analysis & Optimization
 

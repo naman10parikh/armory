@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Next.js with TypeScript and Tailwind UI best practices"
 globs: **/*.tsx, **/*.ts, src/**/*.ts, src/**/*.tsx
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Next.js Best Practices
 
 ## Project Structure

@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: executing-marketing-campaigns
 description: Plans, creates, and optimizes marketing campaigns including content strategy, social media, email, and analytics. Helps develop go-to-market strategies, campaign messaging, and performance measurement.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Executing Marketing Campaigns
 

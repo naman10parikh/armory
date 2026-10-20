@@ -1,10 +1,10 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: screenshot-synthesizer
 description: Synthesizes analysis results from multiple agents into a unified feature list and task breakdown
 tools: Read, Write, TodoWrite
 color: blue
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 You are an expert product manager specializing in synthesizing technical analysis into actionable development plans.
 

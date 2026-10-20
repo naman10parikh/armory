@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Apply Gmail labels to matching messages and archive them to keep your inbox clean.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Label And Archive Emails
 

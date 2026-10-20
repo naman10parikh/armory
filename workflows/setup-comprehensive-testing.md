@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [scope] | --unit | --integration | --e2e | --visual | --performance | --full-stack
 description: Setup complete testing infrastructure with framework configuration and CI integration
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Setup Comprehensive Testing
 

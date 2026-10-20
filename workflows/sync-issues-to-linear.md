@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [sync-scope] | --state | --label | --assignee | --milestone
 description: Sync GitHub issues to Linear workspace with comprehensive field mapping and rate limit management
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Sync Issues to Linear
 

@@ -1,5 +1,5 @@
-# source: davila7/claude-code-templates · MIT · vendored by Armory
 #!/bin/bash
+# source: davila7/claude-code-templates · MIT · vendored by Armory
 # tdd-gate.sh — Enforce Test-Driven Development: tests must exist before production code
 # Source: pm-workspace (https://github.com/gonzalezpazmonica/pm-workspace)
 # License: MIT

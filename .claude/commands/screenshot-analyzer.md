@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 description: "Analyze product screenshots to extract features and generate development task lists."
 argument-hint: Screenshot path or description
 allowed-tools: Read, Write, Grep, Glob, TodoWrite, Task
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Screenshot Analysis Command
 

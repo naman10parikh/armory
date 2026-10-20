@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: ROS and ROS2 rules for packages, nodes, launch files, messages, services, actions, simulation, and testing
 globs: ["**/*.py", "**/*.cpp", "**/*.hpp", "**/*.h", "package.xml", "CMakeLists.txt", "**/*.launch.py", "**/*.msg", "**/*.srv", "**/*.action", "**/*.urdf", "**/*.xacro"]
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 
 # ROS and ROS2 Rules
 

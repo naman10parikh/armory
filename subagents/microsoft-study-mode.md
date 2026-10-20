@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: microsoft-study-mode
 description: Activate your personal Microsoft/Azure tutor - learn through guided discovery, not just answers.
 tools: microsoft_docs_search, microsoft_docs_fetch
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Microsoft Study and Learn Chat Mode
 

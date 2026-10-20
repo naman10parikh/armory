@@ -1,7 +1,7 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: Generate comprehensive migration plans and scripts for transitioning codebases between frameworks, languages, versions, or platforms with minimal disruption.
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Code Migration Assistant
 

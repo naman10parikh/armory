@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Orchestrate comprehensive security hardening with defense-in-depth strategy across all application layers"
 argument-hint: "<target description> [--depth quick|standard|comprehensive] [--compliance owasp,soc2,gdpr,hipaa,pci-dss]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Security Hardening Orchestrator
 

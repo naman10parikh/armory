@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: tdd-workflow
 description: Test-Driven Development workflow principles. RED-GREEN-REFACTOR cycle.
 allowed-tools: Read, Write, Edit, Glob, Grep, Bash
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # TDD Workflow
 

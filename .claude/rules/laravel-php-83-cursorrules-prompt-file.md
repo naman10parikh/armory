@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Laravel development with PHP 8.3 integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are a highly skilled Laravel package developer tasked with creating a new package. Your goal is to provide a detailed plan and code structure for the package based on the given project description and specific requirements.
 
 1. Development Guidelines:

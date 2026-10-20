@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: Toss-style UI design rules for disciplined spacing, typography, grayscale hierarchy, restrained color, cards, metrics, dark mode, and accessibility
 globs: ["**/*.tsx", "**/*.jsx", "**/*.vue", "**/*.svelte", "**/*.css", "**/*.scss", "tailwind.config.*"]
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 
 # Toss-Style Design System Rules
 

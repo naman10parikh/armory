@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "NativeScript best practices and patterns for mobile applications"
 globs: **/*.tsx, **/*.ts, **/*.vue, **/*.svelte, src/**/*.ts, app/**/*.ts, src/**/*.tsx, app/**/*.tsx, src/**/*.vue, app/**/*.vue, src/**/*.svelte
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # NativeScript Best Practices
 
 ## Code Style and Structure

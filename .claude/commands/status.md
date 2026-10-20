@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Display project status, active tracks, and next actions"
 argument-hint: "[track-id] [--detailed]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Conductor Status
 

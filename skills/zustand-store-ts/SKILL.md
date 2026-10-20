@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: zustand-store-ts
 description: "Create Zustand stores following established patterns with proper TypeScript types and middleware."
@@ -6,6 +5,7 @@ risk: unknown
 source: community
 date_added: "2026-02-27"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Zustand Store
 

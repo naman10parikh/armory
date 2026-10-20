@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: power-bi-data-modeling-expert
 description: Expert Power BI data modeling guidance using star schema principles, relationship design, and Microsoft best practices for optimal model performance and usability.
 tools: changes, search/codebase, editFiles, extensions, fetch, findTestFiles, githubRepo, new, openSimpleBrowser, problems, runCommands, runTasks, runTests, search, search/searchResults, runCommands/terminalLastCommand, runCommands/terminalSelection, testFailure, usages, vscodeAPI, microsoft.docs.mcp
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Power BI Data Modeling Expert Mode
 

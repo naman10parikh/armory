@@ -1,7 +1,7 @@
-<!-- source: wshobson/commands · MIT · vendored by Armory -->
 ---
 model: claude-opus-4-1
 ---
+<!-- source: wshobson/commands · MIT · vendored by Armory -->
 
 Perform a comprehensive review using multiple specialized agents with explicit Task tool invocations:
 

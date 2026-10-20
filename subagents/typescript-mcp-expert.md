@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: typescript-mcp-expert
 description: Expert assistant for developing Model Context Protocol (MCP) servers in TypeScript
 tools: Read, Bash, Grep, Glob, Edit, Write
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # TypeScript MCP Server Expert
 

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit
 argument-hint: [component-name] [--typescript] [--story]
 description: Create new Svelte components with best practices, TypeScript support, and testing
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Create Svelte Component
 

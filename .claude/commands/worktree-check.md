@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash(git:*), Bash(cat:*), Bash(pwd:*), Bash(ls:*)
 description: Check current worktree status, branch, and assigned task
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Worktree Status Check
 

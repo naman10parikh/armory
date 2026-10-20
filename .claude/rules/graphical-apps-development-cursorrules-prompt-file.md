@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for graphical apps development with integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Project Synopsis
 
 Pyllments is a Python library for building graphical and API-based LLM applications through chaining together Elements in a potentially cyclic graph. Elements and Payloads are a type of Components. A Component is composed of a Model and Views. The Model handles the underlying data and logic, while the Views are the UI components that are used to display display the interactive UI used to interact with the Model.

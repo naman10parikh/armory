@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Database best practices focusing on Prisma and Supabase integration"
 globs: prisma/**/*, src/db/**/*, **/*.prisma, supabase/**/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Database Best Practices
 
 ## Prisma Setup

@@ -1,10 +1,10 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: gh-fix-ci
 description: Inspect GitHub PR checks with gh, pull failing GitHub Actions logs, summarize failure context, then create a fix plan and implement after user approval. Use when a user asks to debug or fix failing PR CI/CD checks on GitHub Actions and wants a plan + code changes; for external checks (e.g., Buildkite), only report the details URL and mark them out of scope.
 metadata:
   short-description: Fix failing Github CI actions
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Gh Pr Checks Plan Fix
 

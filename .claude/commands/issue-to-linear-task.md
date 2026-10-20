@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [issue-number] | --team | --project | --close-github | --skip-comments
 description: Convert individual GitHub issues to Linear tasks with comprehensive data preservation
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Issue to Linear Task
 

@@ -1,10 +1,10 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: neon-instagres
 description: Instantly provision production-ready Postgres databases with Neon Instagres. Use when setting up databases, when users mention PostgreSQL/Postgres, database setup, or need a development database. Works with Drizzle, Prisma, raw SQL.
 allowed-tools: Read, Write, Bash, Grep, Glob
 user-invocable: true
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Neon Instagres - Instant Postgres Provisioning
 

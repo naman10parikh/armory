@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: gtars
 description: High-performance toolkit for genomic interval analysis in Rust with Python bindings. Use when working with genomic regions, BED files, coverage tracks, overlap detection, tokenization for ML models, or fragment analysis in computational genomics and machine learning applications.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Gtars: Genomic Tools and Algorithms in Rust
 

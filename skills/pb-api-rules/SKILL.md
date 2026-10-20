@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: "PocketBase API Rules"
 description: "API rules and filter expressions for PocketBase access control. Use when setting permissions, writing filter expressions, configuring who can access what, or debugging 403/404 responses. Covers all 5 rule types, filter syntax, operators, request/collection macros, and field modifiers."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # PocketBase API Rules & Filter Expressions
 

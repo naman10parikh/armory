@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash, Grep
 argument-hint: [maintenance-type] | --audit | --update | --validate | --optimize | --comprehensive
 description: Use PROACTIVELY to implement comprehensive documentation maintenance systems with quality assurance, validation, and automated updates
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Documentation Maintenance & Quality Assurance
 

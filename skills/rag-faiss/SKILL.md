@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: faiss
 description: Facebook's library for efficient similarity search and clustering of dense vectors. Supports billions of vectors, GPU acceleration, and various index types (Flat, IVF, HNSW). Use for fast k-NN search, large-scale vector retrieval, or when you need pure similarity search without metadata. Best for high-performance applications.
@@ -8,6 +7,7 @@ license: MIT
 tags: [RAG, FAISS, Similarity Search, Vector Search, Facebook AI, GPU Acceleration, Billion-Scale, K-NN, HNSW, High Performance, Large Scale]
 dependencies: [faiss-cpu, faiss-gpu, numpy]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # FAISS - Efficient Similarity Search
 

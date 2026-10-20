@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Export Google Contacts directory to a Google Sheets spreadsheet.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Sync Contacts To Sheet
 

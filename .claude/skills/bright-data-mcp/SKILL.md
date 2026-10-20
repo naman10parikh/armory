@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: bright-data-mcp
 description: |
@@ -15,6 +14,7 @@ metadata:
   documentation: https://docs.brightdata.com
   support: support@brightdata.com
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Bright Data MCP
 

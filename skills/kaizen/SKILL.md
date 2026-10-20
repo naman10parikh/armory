@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: kaizen
 description: Guide for continuous improvement, error proofing, and standardization. Use this skill when the user wants to improve code quality, refactor, or discuss process improvements.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Kaizen: Continuous Improvement
 

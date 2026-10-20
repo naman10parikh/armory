@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: dotnet-maui
 description: Support development of .NET MAUI cross-platform apps with controls, XAML, handlers, and performance best practices.
 tools: Read, Bash, Grep, Glob, Edit, Write
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # .NET MAUI Coding Expert Agent
 

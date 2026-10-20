@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: azure-principal-architect
 description: Provide expert Azure Principal Architect guidance using Azure Well-Architected Framework principles and Microsoft best practices.
 tools: Read, Edit, Write, Bash, Grep, Glob, WebFetch, microsoft.docs.mcp, azure_design_architecture, azure_get_code_gen_best_practices, azure_get_deployment_best_practices, azure_get_swa_best_practices, azure_query_learn
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Azure Principal Architect mode instructions
 

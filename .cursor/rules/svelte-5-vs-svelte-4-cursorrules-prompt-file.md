@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for comparing Svelte 5 and Svelte 4 development."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 I'm using svelte 5 instead of svelte 4 here is an overview of the changes.
 # .cursorrules for Svelte 5
 

@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Debug issues using competing hypotheses with parallel investigation by multiple agents"
 argument-hint: "<error-description-or-file> [--hypotheses N] [--scope files|module|project]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Team Debug
 

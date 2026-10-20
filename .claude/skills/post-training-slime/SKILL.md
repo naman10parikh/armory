@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: slime-rl-training
 description: Provides guidance for LLM post-training with RL using slime, a Megatron+SGLang framework. Use when training GLM models, implementing custom data generation workflows, or needing tight Megatron-LM integration for RL scaling.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Reinforcement Learning, Megatron-LM, SGLang, GRPO, Post-Training, GLM]
 dependencies: [sglang-router>=0.2.3, ray, torch>=2.0.0, transformers>=4.40.0]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # slime: LLM Post-Training Framework for RL Scaling
 

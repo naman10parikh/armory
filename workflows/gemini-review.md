@@ -1,10 +1,10 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash(gh:*), Read, Grep, TodoWrite, Edit, MultiEdit
 argument-hint: [pr-number] | --analyze-only | --preview | --priority high|medium|low
 description: Transform Gemini Code Assist PR reviews into prioritized TodoLists with automated execution
 model: claude-sonnet-4-5-20250929
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Gemini PR Review Automation
 

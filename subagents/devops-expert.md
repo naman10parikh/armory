@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: devops-expert
 description: DevOps specialist following the infinity loop principle (Plan → Code → Build → Test → Release → Deploy → Operate → Monitor) with focus on automation, collaboration, and continuous improvement
 tools: Read, Edit, Write, Bash, Grep, Glob
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # DevOps Expert
 

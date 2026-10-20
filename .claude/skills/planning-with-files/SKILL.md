@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: planning-with-files
 version: "2.1.2"
@@ -33,6 +32,7 @@ hooks:
         - type: command
           command: "${CLAUDE_PLUGIN_ROOT}/scripts/check-complete.sh"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Planning with Files
 

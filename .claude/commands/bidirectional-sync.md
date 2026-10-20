@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [sync-mode] | --full | --incremental | --dry-run | --conflict-strategy
 description: Enable comprehensive bidirectional GitHub-Linear synchronization with conflict resolution
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Bidirectional Sync
 

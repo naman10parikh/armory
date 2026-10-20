@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Bash, Grep, Glob
 argument-hint: [file-path] | [commit-hash] | --full
 description: Comprehensive code quality review with security, performance, and architecture analysis
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Code Quality Review
 

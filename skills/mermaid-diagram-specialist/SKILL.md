@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: mermaid-diagram-specialist
 category: tech
@@ -12,6 +11,7 @@ input:
   Process description, data model, architecture requirements, workflow steps
 output: Mermaid diagrams (flowchart, sequence, ERD, C4, state, etc.) in markdown
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Mermaid Diagram Specialist
 

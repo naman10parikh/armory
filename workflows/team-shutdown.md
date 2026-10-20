@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Gracefully shut down an agent team, collect final results, and clean up resources"
 argument-hint: "[team-name] [--force] [--keep-tasks]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Team Shutdown
 

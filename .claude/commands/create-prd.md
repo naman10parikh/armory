@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Grep, Glob
 argument-hint: [feature-name] | --template | --interactive
 description: Create Product Requirements Document (PRD) for new features
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Create Product Requirements Document
 

@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: General Rust rules for safe, idiomatic application and library development
 globs: ["**/*.rs", "Cargo.toml", "Cargo.lock"]
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 
 # Rust General Rules
 

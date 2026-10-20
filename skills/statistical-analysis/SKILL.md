@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: statistical-analysis
 description: "Statistical analysis toolkit. Hypothesis tests (t-test, ANOVA, chi-square), regression, correlation, Bayesian stats, power analysis, assumption checks, APA reporting, for academic research."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Statistical Analysis
 

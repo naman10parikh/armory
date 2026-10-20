@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Initialize a design system with tokens"
 argument-hint: "[--preset minimal|standard|comprehensive]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Design System Setup
 

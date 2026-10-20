@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Create a Google Drive folder structure and move files into the right locations.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Organize Drive Folder
 

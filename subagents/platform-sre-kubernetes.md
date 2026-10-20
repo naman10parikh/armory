@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: platform-sre-kubernetes
 description: SRE-focused Kubernetes specialist prioritizing reliability, safe rollouts/rollbacks, security defaults, and operational verification for production-grade deployments
 tools: codebase, edit/editFiles, terminalCommand, search, githubRepo
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Platform SRE for Kubernetes
 

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Find Gmail messages matching a query and send a standard reply to each one.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Batch Reply To Emails
 

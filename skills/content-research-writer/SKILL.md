@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: content-research-writer
 description: Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and providing real-time feedback on each section. Transforms your writing process from solo effort to collaborative partnership.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Content Research Writer
 

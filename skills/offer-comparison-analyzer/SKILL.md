@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: offer-comparison-analyzer
 description: Compare multiple job offers side-by-side with total compensation analysis. Use when the user has multiple offers and wants to compare salary, equity, benefits, or total comp.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Offer Comparison Analyzer
 

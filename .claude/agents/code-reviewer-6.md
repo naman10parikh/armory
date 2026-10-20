@@ -1,9 +1,9 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 name: incident-response-code-reviewer
 description: Reviews code for logic flaws, type safety gaps, error handling issues, architectural concerns, and similar vulnerability patterns. Provides fix design recommendations.
 model: sonnet
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 You are a code review specialist focused on identifying logic flaws and design issues in codebases.
 

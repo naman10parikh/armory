@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for TypeScript development with React, NextUI, and Supabase integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Codebase Overview
 
 This codebase appears to be part of a web application built using TypeScript, React, and various NextUI components. It is structured to support a landing page, authentication flows, and a dashboard for logged-in users. The application integrates with Supabase for backend services, including authentication and database interactions.

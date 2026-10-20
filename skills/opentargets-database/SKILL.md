@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: opentargets-database
 description: "Query Open Targets Platform for target-disease associations, drug target discovery, tractability/safety data, genetics/omics evidence, known drugs, for therapeutic target identification."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Open Targets Database
 

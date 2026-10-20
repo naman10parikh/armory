@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash(git:*), Bash(gh:*), Bash(rm:*), Bash(cat:*), Bash(pwd:*), Bash(ls:*)
 description: Commit, push, and create PR from the current worktree
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Worktree Deliver
 

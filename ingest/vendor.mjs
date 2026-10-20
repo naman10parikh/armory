@@ -101,19 +101,23 @@ function scrubHeader(s) {
     .replace(/\bnaman\b/gi, "<author>");
 }
 
-// Prepend a provenance comment to the top of content, format-aware.
+// Add a provenance comment near the top of content, format-aware. A #! line and YAML frontmatter must stay
+// first (Claude Code reads name and description only from frontmatter at the very top), so it goes after them.
 // Returns the new content string.
 function withProvenance(content, owner, repo, license, ext) {
   const safeComment = scrubHeader(`source: ${owner}/${repo} · ${license} · vendored by Armory`);
   if (ext === ".py" || ext === ".sh") {
-    // Only prepend if not already provenance-stamped
+    // Only add it if not already provenance-stamped
     if (content.includes("vendored by Armory")) return content;
-    return `# ${safeComment}\n${content}`;
+    const at = content.startsWith("#!") ? content.indexOf("\n") + 1 : 0;
+    return `${content.slice(0, at)}# ${safeComment}\n${content.slice(at)}`;
   }
   if (ext === ".json") return content; // don't break JSON
   // .md and everything else → HTML comment
   if (content.includes("vendored by Armory")) return content;
-  return `<!-- ${safeComment} -->\n${content}`;
+  const close = content.startsWith("---\n") ? content.indexOf("\n---\n", 3) : -1;
+  const at = close === -1 ? 0 : close + 5;
+  return `${content.slice(0, at)}<!-- ${safeComment} -->\n${content.slice(at)}`;
 }
 
 // ─── copy helpers ────────────────────────────────────────────────────────────

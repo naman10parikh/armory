@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: "PocketBase Deploy"
 description: "Production deployment for PocketBase. Use when deploying PocketBase to a server, setting up Docker, configuring systemd, reverse proxy (nginx/Caddy), TLS, SMTP, backups, S3 storage, rate limiting, or hardening for production. Provides ready-to-use configs."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # PocketBase Production Deployment
 

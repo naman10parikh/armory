@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: php-mcp-expert
 description: Expert assistant for PHP MCP server development using the official PHP SDK with attribute-based discovery
 tools: Read, Bash, Grep, Glob, Edit, Write
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # PHP MCP Expert
 

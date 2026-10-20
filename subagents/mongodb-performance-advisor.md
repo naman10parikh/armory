@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: mongodb-performance-advisor
 description: Analyze MongoDB database performance, offer query and index optimization insights and provide actionable recommendations to improve overall usage of the database.
 tools: Read, Bash, Grep, Glob, Edit, Write
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Role
 

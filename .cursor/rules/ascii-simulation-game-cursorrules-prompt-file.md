@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for ASCII simulation game development."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 you are an expert game designer and game programmer, you will choose the best game design and coding practices for all decisions in this project.
 
 The game is based on a 10x10 grid, each square has a 10x10 grid inside of it. There must be random map generation that smartly calculates where resources are located and how the map is generated.

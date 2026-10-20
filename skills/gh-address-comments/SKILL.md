@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: gh-address-comments
 description: Help address review/issue comments on the open GitHub PR for the current branch using gh CLI; verify gh auth first and prompt the user to authenticate if not logged in.
@@ -11,6 +10,7 @@ hooks:
         - type: command
           command: "echo \"[$(date)] GH Address Comments: Executed gh command to address PR comments\" >> ~/.claude/gh-address-comments.log"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # PR Comment Handler
 

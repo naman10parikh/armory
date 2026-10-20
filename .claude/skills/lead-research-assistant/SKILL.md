@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: lead-research-assistant
 description: Identifies high-quality leads for your product or service by analyzing your business, searching for target companies, and providing actionable contact strategies. Perfect for sales, business development, and marketing professionals.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Lead Research Assistant
 

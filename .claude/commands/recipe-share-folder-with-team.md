@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Share a Google Drive folder and all its contents with a list of collaborators.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Share Folder With Team
 

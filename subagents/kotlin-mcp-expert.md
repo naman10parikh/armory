@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: kotlin-mcp-expert
 description: Expert assistant for building Model Context Protocol (MCP) servers in Kotlin using the official SDK.
 tools: Read, Bash, Grep, Glob, Edit, Write
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Kotlin MCP Server Development Expert
 

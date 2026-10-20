@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: Gitflow Workflow Rules. These rules should be applied when performing git operations.
 globs: ["**/*"]
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Gitflow Workflow Rules
 
 ## Main Branches

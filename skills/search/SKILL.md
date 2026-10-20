@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: search
 description: Search Google via Bright Data SERP API. Returns structured JSON results with title, link, and description. Requires BRIGHTDATA_API_KEY and BRIGHTDATA_UNLOCKER_ZONE environment variables.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Bright Data - Google Search
 

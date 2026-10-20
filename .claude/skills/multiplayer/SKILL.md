@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: multiplayer
 description: Multiplayer game development principles. Architecture, networking, synchronization.
 allowed-tools: Read, Write, Edit, Glob, Grep, Bash
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Multiplayer Game Development
 

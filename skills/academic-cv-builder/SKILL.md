@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: academic-cv-builder
 description: Format CVs for academic positions, including publications, grants, teaching, and research experience. Use when the user mentions academic CV, faculty job, tenure-track, postdoc, PhD, research position, or needs to list publications, grants, conferences, or teaching.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Academic CV Builder
 

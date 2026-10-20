@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: google-cloud-onboarding
 description: Guides developers through their first steps on Google Cloud, covering account creation, billing setup, project management, CLI installation, and deploying a first resource.
 source: google/skills (Apache 2.0)
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Onboarding to Google Cloud
 

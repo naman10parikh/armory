@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: dependabot-review
 description: Review and manage Dependabot PRs. Categorizes by risk, checks CI status, auto-merges safe updates, and reports issues. Use when the user says "review dependabot", "merge dependabot", "dependabot PRs", or "update dependencies".
@@ -7,6 +6,7 @@ metadata:
   author: claude-code-templates
   version: "1.0.0"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Dependabot PR Review
 

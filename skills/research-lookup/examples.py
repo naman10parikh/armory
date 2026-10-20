@@ -1,5 +1,5 @@
-# source: davila7/claude-code-templates · MIT · vendored by Armory
 #!/usr/bin/env python3
+# source: davila7/claude-code-templates · MIT · vendored by Armory
 """
 Example usage of the Research Lookup skill with automatic model selection.
 

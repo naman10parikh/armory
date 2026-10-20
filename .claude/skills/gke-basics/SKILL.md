@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: gke-basics
 description: Plans, creates, and configures production-ready Google Kubernetes Engine (GKE) clusters using the golden path Autopilot configuration. Covers networking, security, observability, scaling, cost optimization, and AI/ML inference on GKE.
 source: google/skills (Apache 2.0)
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Google Kubernetes Engine (GKE) Basics
 

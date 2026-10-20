@@ -1,9 +1,9 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 name: backend-development-security-auditor
 description: Review code and architecture for security vulnerabilities, OWASP Top 10, auth flaws, and compliance issues. Use for security review during feature development.
 model: sonnet
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 You are a security auditor specializing in application security review during feature development.
 

@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: huggingface-tokenizers
 description: Fast tokenizers optimized for research and production. Rust-based implementation tokenizes 1GB in <20 seconds. Supports BPE, WordPiece, and Unigram algorithms. Train custom vocabularies, track alignments, handle padding/truncation. Integrates seamlessly with transformers. Use when you need high-performance tokenization or custom tokenizer training.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Tokenization, HuggingFace, BPE, WordPiece, Unigram, Fast Tokenization, Rust, Custom Tokenizer, Alignment Tracking, Production]
 dependencies: [tokenizers, transformers, datasets]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # HuggingFace Tokenizers - Fast Tokenization for NLP
 

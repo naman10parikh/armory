@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: railway-deploy
 description: Deploy code to Railway using "railway up". Use when user wants to push code, says "railway up", "deploy", "ship", or "push". For initial setup or creating services, use railway-new skill. For Docker images, use railway-environment skill.
@@ -9,6 +8,7 @@ tags: [Railway, Deploy, CI/CD, Push, Ship, Infrastructure, Deployment]
 dependencies: [railway-cli]
 allowed-tools: Bash(railway:*)
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Railway Deploy
 

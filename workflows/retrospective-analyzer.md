@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Bash, Glob
 argument-hint: [sprint-identifier] | --metrics | --insights | --action-items | --trends
 description: Analyze team retrospectives with quantitative metrics and actionable insights generation
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Retrospective Analyzer
 

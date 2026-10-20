@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: domain-driven-design
 description: "Plan and route Domain-Driven Design work from strategic modeling to tactical implementation and evented architecture patterns."
@@ -7,6 +6,7 @@ source: self
 tags: "[ddd, domain, bounded-context, architecture]"
 date_added: "2026-02-27"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Domain-Driven Design
 

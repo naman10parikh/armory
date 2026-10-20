@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: sglang
 description: Fast structured generation and serving for LLMs with RadixAttention prefix caching. Use for JSON/regex outputs, constrained decoding, agentic workflows with tool calls, or when you need 5× faster inference than vLLM with prefix sharing. Powers 300,000+ GPUs at xAI, AMD, NVIDIA, and LinkedIn.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Inference Serving, SGLang, Structured Generation, RadixAttention, Prefix Caching, Constrained Decoding, Agents, JSON Output, Fast Inference, Production Scale]
 dependencies: [sglang, torch, transformers]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # SGLang
 

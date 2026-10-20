@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Python best practices and patterns for modern software development with Flask and SQLite"
 globs: **/*.py, src/**/*.py, tests/**/*.py
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Python Best Practices
 
 ## Project Structure

@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Orchestrate git workflow from code review through PR creation with quality gates"
 argument-hint: "<target branch> [--skip-tests] [--draft-pr] [--no-push] [--squash] [--conventional] [--trunk-based]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Git Workflow Orchestrator
 

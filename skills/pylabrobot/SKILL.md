@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: pylabrobot
 description: Laboratory automation toolkit for controlling liquid handlers, plate readers, pumps, heater shakers, incubators, centrifuges, and analytical equipment. Use this skill when automating laboratory workflows, programming liquid handling robots (Hamilton STAR, Opentrons OT-2, Tecan EVO), integrating lab equipment, managing deck layouts and resources (plates, tips, containers), reading plates, or creating reproducible laboratory protocols. Applicable for both simulated protocols and physical hardware control.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # PyLabRobot
 

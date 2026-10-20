@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: resume-bullet-writer
 description: Transform weak resume bullets into achievement-focused statements with metrics and impact. Use when the user wants to rewrite bullets, strengthen accomplishments, or add action verbs and impact to their resume.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Resume Bullet Writer
 

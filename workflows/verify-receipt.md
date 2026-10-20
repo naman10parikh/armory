@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Verify a single Ed25519-signed receipt file. Returns exit 0 if valid, 1 if tampered, 2 if malformed."
 argument-hint: "<path-to-receipt.json>"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Verify Receipt
 

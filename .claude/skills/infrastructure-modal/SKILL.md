@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: modal-serverless-gpu
 description: Serverless GPU cloud platform for running ML workloads. Use when you need on-demand GPU access without infrastructure management, deploying ML models as APIs, or running batch jobs with automatic scaling.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Infrastructure, Serverless, GPU, Cloud, Deployment, Modal]
 dependencies: [modal>=0.64.0]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Modal Serverless GPU
 

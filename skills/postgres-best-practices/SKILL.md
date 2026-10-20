@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: supabase-postgres-best-practices
 description: Postgres performance optimization and best practices from Supabase. Use this skill when writing, reviewing, or optimizing Postgres queries, schema designs, or database configurations.
@@ -7,6 +6,7 @@ metadata:
   author: supabase
   version: "1.0.0"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Supabase Postgres Best Practices
 

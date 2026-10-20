@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: hmdb-database
 description: "Access Human Metabolome Database (220K+ metabolites). Search by name/ID/structure, retrieve chemical properties, biomarker data, NMR/MS spectra, pathways, for metabolomics and identification."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # HMDB Database
 

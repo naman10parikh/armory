@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: diagram-architect
 description: Create technical diagrams in multiple formats (ASCII, Mermaid, PlantUML, Draw.io). Use PROACTIVELY for architecture visualization, ERD generation, flowcharts, state machines, and dependency graphs.
 tools: Read, Write, Edit, Bash
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Diagram Architect Agent
 

@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: codex-review
 description: Professional code review with auto CHANGELOG generation, integrated with Codex AI
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # codex-review
 

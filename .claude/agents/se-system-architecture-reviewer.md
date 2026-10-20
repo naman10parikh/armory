@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: se-system-architecture-reviewer
 description: System architecture review specialist with Well-Architected frameworks, design validation, and scalability analysis for AI and distributed systems
 tools: codebase, edit/editFiles, search, fetch
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # System Architecture Reviewer
 

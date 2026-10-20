@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "List recent denied review actions from the receipt chain. Shows what the agent tried to do that was blocked by the review-governance policy."
 argument-hint: "[--last N]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # List Pending Reviews
 

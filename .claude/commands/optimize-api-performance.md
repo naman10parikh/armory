@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Bash, Grep, Glob
 argument-hint: [api-type] | --rest | --graphql | --grpc
 description: Comprehensive API performance optimization with response time reduction, throughput improvement, and scalability enhancements
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Optimize API Performance
 

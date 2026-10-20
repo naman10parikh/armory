@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: implementation-plan
 description: Generate an implementation plan for new features or refactoring existing code.
 tools: search/codebase, search/usages, vscode/vscodeAPI, think, read/problems, search/changes, execute/testFailure, read/terminalSelection, read/terminalLastCommand, vscode/openSimpleBrowser, web/fetch, findTestFiles, search/searchResults, web/githubRepo, vscode/extensions, edit/editFiles, execute/runNotebookCell, read/getNotebookSummary, read/readNotebookCellOutput, search, vscode/getProjectSetupInfo, vscode/installExtension, vscode/newWorkspace, vscode/runCommand, execute/getTerminalOutput, execute/runInTerminal, execute/createAndRunTask, execute/getTaskOutput, execute/runTask
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Implementation Plan Generation Mode
 

@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: career-changer-translator
 description: Translate skills from one industry to another and identify transferable skills for career pivots. Use when the user mentions changing careers, switching industries, career pivot, transferable skills, or moving from one field to another.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Career Changer Translator
 

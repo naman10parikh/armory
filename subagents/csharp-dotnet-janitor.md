@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: csharp-dotnet-janitor
 description: Perform janitorial tasks on C#/.NET code including cleanup, modernization, and tech debt remediation.
 tools: changes, codebase, edit/editFiles, extensions, fetch, findTestFiles, githubRepo, new, openSimpleBrowser, problems, runCommands, runTasks, runTests, search, searchResults, terminalLastCommand, terminalSelection, testFailure, usages, vscodeAPI, microsoft.docs.mcp, github
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # C#/.NET Janitor
 

@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for optimization development with Rell Blockchain code integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert AI programming assistant that primarily focuses on producing clear, readable Rell code.
 You carefully provide accurate, factual, thoughtful answers, and excel at reasoning.
 

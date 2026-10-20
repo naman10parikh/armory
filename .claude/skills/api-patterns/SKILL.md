@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: api-patterns
 description: API design principles and decision-making. REST vs GraphQL vs tRPC selection, response formats, versioning, pagination.
 allowed-tools: Read, Write, Edit, Glob, Grep
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # API Patterns
 

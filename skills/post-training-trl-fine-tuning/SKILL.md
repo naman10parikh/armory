@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: fine-tuning-with-trl
 description: Fine-tune LLMs using reinforcement learning with TRL - SFT for instruction tuning, DPO for preference alignment, PPO/GRPO for reward optimization, and reward model training. Use when need RLHF, align model with preferences, or train from human feedback. Works with HuggingFace Transformers.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Post-Training, TRL, Reinforcement Learning, Fine-Tuning, SFT, DPO, PPO, GRPO, RLHF, Preference Alignment, HuggingFace]
 dependencies: [trl, transformers, datasets, peft, accelerate, torch]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # TRL - Transformer Reinforcement Learning
 

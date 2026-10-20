@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: instructor
 description: Extract structured data from LLM responses with Pydantic validation, retry failed extractions automatically, parse complex JSON with type safety, and stream partial results with Instructor - battle-tested structured output library
@@ -8,6 +7,7 @@ license: MIT
 tags: [Prompt Engineering, Instructor, Structured Output, Pydantic, Data Extraction, JSON Parsing, Type Safety, Validation, Streaming, OpenAI, Anthropic]
 dependencies: [instructor, pydantic, openai, anthropic]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Instructor: Structured LLM Outputs
 

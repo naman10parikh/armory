@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: unsloth
 description: Expert guidance for fast fine-tuning with Unsloth - 2-5x faster training, 50-80% less memory, LoRA/QLoRA optimization
@@ -8,6 +7,7 @@ license: MIT
 tags: [Fine-Tuning, Unsloth, Fast Training, LoRA, QLoRA, Memory-Efficient, Optimization, Llama, Mistral, Gemma, Qwen]
 dependencies: [unsloth, torch, transformers, trl, datasets, peft]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Unsloth Skill
 

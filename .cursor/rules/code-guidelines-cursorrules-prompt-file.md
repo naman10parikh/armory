@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for code development with guidelines integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 1. **Verify Information**: Always verify information before presenting it. Do not make assumptions or speculate without clear evidence.
 
 2. **File-by-File Changes**: Make changes file by file and give me a chance to spot mistakes.

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [language] | --javascript | --java | --python | --rust | --go | --csharp
 description: Setup comprehensive mutation testing with framework selection and CI integration
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Add Mutation Testing
 

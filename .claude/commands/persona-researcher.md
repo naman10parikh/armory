@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-description]
 description: Organize research — manage references, notes, and collaboration.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Researcher Persona
 

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Grep, Glob
 argument-hint: [time-period] | --sprint | --quarter | --all
 description: Track and analyze project milestone progress with predictive analytics
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Milestone Tracker
 

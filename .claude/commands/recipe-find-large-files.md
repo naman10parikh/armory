@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Identify large Google Drive files consuming storage quota.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Find Large Files
 

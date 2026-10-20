@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Anti-sycophancy directives for code review and generation. Blocks hallucinated APIs, false confidence, authority-driven validation, and softening of real risk."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 1. **Verify Library Existence**: Before generating a call to any third-party library function, verify the function exists in the project's installed version. Check `package.json`, `requirements.txt`, `go.mod`, `Cargo.toml`, or equivalent. If you cannot verify, mark the line `// VERIFY: <library>.<symbol> against version X` and surface the uncertainty in your response.
 
 2. **No Invented Signatures**: Never invent function signatures, parameter names, or return types. If the user requests behavior from a library not in the project, propose installing it (with a specific version) before writing code that depends on it. Silent stubs are worse than refusal.

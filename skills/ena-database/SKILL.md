@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: ena-database
 description: "Access European Nucleotide Archive via API/FTP. Retrieve DNA/RNA sequences, raw reads (FASTQ), genome assemblies by accession, for genomics and bioinformatics pipelines. Supports multiple formats."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # ENA Database
 

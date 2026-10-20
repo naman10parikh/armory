@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: pytdc
 description: "Therapeutics Data Commons. AI-ready drug discovery datasets (ADME, toxicity, DTI), benchmarks, scaffold splits, molecular oracles, for therapeutic ML and pharmacological prediction."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # PyTDC (Therapeutics Data Commons)
 

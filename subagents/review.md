@@ -1,9 +1,9 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 name: review
 description: PR Reviewer agent. Reviews implemented code using a 3-tier taxonomy (🔴 Critical / 🟡 Should Fix / 💡 Consider). Auto-resolves minor issues, pauses on critical ones. Applies security guardrails. Outputs review-report.md.
 model: inherit
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # PR Reviewer Agent
 

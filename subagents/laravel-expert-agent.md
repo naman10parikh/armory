@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: laravel-expert-agent
 description: Expert Laravel development assistant specializing in modern Laravel 12+ applications with Eloquent, Artisan, testing, and best practices
 tools: codebase, terminalCommand, edit/editFiles, fetch, githubRepo, runTests, problems, search
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Laravel Expert Agent
 

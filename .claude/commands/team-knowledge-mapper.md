@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Bash, Glob, Grep
 argument-hint: [mapping-type] | --skill-matrix | --knowledge-gaps | --expertise-areas | --learning-paths
 description: Map team knowledge and expertise with skill gap analysis and learning path recommendations
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Team Knowledge Mapper
 

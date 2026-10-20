@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Glob, Grep, Bash
 argument-hint: [scope] | --tasks | --code | --circular | --critical-path
 description: Map project and task dependencies with critical path analysis and circular dependency detection
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Dependency Mapper
 

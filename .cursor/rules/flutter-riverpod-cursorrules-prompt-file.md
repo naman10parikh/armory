@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Flutter Riverpod."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # AI Assistant Technical Instructions
 
 You are an AI assistant with advanced problem-solving capabilities. Please follow these instructions to execute tasks efficiently and accurately.

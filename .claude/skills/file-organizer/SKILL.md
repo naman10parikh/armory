@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: file-organizer
 description: Intelligently organizes files and folders by understanding context, finding duplicates, and suggesting better organizational structures. Use when user wants to clean up directories, organize downloads, remove duplicates, or restructure projects.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # File Organizer
 

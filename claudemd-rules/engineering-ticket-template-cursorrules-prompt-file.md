@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for engineering development with ticket template integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 // Engineering Ticket Template - .cursorrules prompt file
 // Specialized prompt for creating standardized engineering tickets with detailed requirements,
 // implementation plans, and acceptance criteria for effective development team collaboration.

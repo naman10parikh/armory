@@ -1,10 +1,10 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: Migration monitoring, CDC, and observability infrastructure
 version: "1.0.0"
 tags: [database, cdc, debezium, kafka, prometheus, grafana, monitoring]
 tool_access: [Read, Write, Edit, Bash, WebFetch]
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Migration Observability and Real-time Monitoring
 

@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: ceo-advisor
 description: Executive leadership guidance for strategic decision-making, organizational development, and stakeholder management. Includes strategy analyzer, financial scenario modeling, board governance frameworks, and investor relations playbooks. Use when planning strategy, preparing board presentations, managing investors, developing organizational culture, making executive decisions, or when user mentions CEO, strategic planning, board meetings, investor updates, organizational leadership, or executive strategy.
@@ -12,6 +11,7 @@ metadata:
   python-tools: strategy_analyzer.py, financial_scenario_analyzer.py
   frameworks: executive-decision-framework, board-governance, investor-relations
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # CEO Advisor
 

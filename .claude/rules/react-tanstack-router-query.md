@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "React SPA with TanStack Router v1 + TanStack Query v5 — the definitive pattern for zero-loading-spinner routing, type-safe URLs, and cache-first data"
 globs: ["src/routes/**/*", "src/queries/**/*", "src/lib/router.ts", "src/lib/queryClient.ts"]
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert in React, TanStack Router v1, TanStack Query v5, TypeScript, and Vite.
 
 ## Architecture

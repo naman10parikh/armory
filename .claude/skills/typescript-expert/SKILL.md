@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: typescript-expert
 description: >-
@@ -13,6 +12,7 @@ bundle: [typescript-type-expert, typescript-build-expert]
 displayName: TypeScript
 color: blue
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # TypeScript Expert
 

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: bicep-implement
 description: Act as an Azure Bicep Infrastructure as Code coding specialist that creates Bicep templates.
 tools: Read, Edit, Write, Bash, Grep, Glob, WebFetch, get_bicep_best_practices, azure_get_azure_verified_module
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Azure Bicep Infrastructure as Code coding Specialist
 

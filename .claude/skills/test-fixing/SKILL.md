@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: test-fixing
 description: Run tests and systematically fix all failing tests using smart error grouping. Use when user asks to fix failing tests, mentions test failures, runs test suite and failures occur, or requests to make tests pass.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Test Fixing
 

@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: simpy
 description: Process-based discrete-event simulation framework in Python. Use this skill when building simulations of systems with processes, queues, resources, and time-based events such as manufacturing systems, service operations, network traffic, logistics, or any system where entities interact with shared resources over time.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # SimPy - Discrete-Event Simulation
 

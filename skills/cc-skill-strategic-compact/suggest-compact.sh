@@ -1,5 +1,5 @@
-# source: davila7/claude-code-templates · MIT · vendored by Armory
 #!/bin/bash
+# source: davila7/claude-code-templates · MIT · vendored by Armory
 # Strategic Compact Suggester
 # Runs on PreToolUse or periodically to suggest manual compaction at logical intervals
 #

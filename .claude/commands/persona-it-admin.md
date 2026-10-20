@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-description]
 description: Administer IT — manage users, monitor security, configure Workspace.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # It Admin Persona
 

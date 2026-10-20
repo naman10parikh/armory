@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Guidelines for writing Solana-native code with wallet-security awareness, isolated signer subprocesses, MEV defense, oracle gates, and transaction safety checks"
 globs: **/*.{ts,tsx,js,jsx,py,rs}
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Solana Wallet-Aware Coding
 
 When writing Solana on-chain or off-chain code, apply these wallet-safety and transaction-safety rules.

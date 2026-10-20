@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: resume-version-manager
 description: Track different resume versions, maintain a master resume, and manage tailored variants. Use when the user mentions managing multiple resume versions, master resume, or organizing tailored copies.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Resume Version Manager
 

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [generation-scope] | --all-tables | --specific-table | --functions | --enums | --views
 description: Generate TypeScript types from Supabase schema with automatic synchronization and validation
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Supabase Type Generator
 

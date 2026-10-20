@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: Embedded C/C++ rules for MCU, STM32, HAL, interrupts, DMA, memory constraints, and hardware-focused testing
 globs: ["**/*.c", "**/*.h", "**/*.cpp", "**/*.hpp", "**/*.ioc", "CMakeLists.txt", "Makefile", "platformio.ini"]
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 
 # Embedded MCU, STM32, and HAL Rules
 

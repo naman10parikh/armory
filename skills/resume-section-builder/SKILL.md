@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: resume-section-builder
 description: Create targeted resume sections optimized for different experience levels and roles. Use when the user wants to build or rewrite specific sections like summary, skills, experience, education, or projects.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Resume Section Builder
 

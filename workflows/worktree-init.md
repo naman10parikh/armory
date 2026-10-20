@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash(git:*), Bash(mkdir:*), Bash(ls:*), Bash(cat:*), Bash(basename:*), Bash(pwd:*), Bash(sed:*)
 argument-hint: task 1 | task 2 | task 3
 description: Create parallel worktrees for multi-task development with Ghostty panels
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Worktree Parallel Init
 

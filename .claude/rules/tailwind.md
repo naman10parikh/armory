@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Tailwind CSS and UI component best practices for modern web applications"
 globs: **/*.css, **/*.tsx, **/*.jsx, tailwind.config.js, tailwind.config.ts
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Tailwind CSS Best Practices
 
 ## Project Setup

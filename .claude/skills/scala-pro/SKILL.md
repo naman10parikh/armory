@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: scala-pro
 description: Master enterprise-grade Scala development with functional programming, distributed systems, and big data processing. Expert in Apache Pekko, Akka, Spark, ZIO/Cats Effect, and reactive architectures.
@@ -6,6 +5,7 @@ risk: safe
 source: community
 date_added: '2026-02-27'
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 ## Use this skill when
 

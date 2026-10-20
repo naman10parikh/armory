@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: app-store-optimization
 description: Complete App Store Optimization (ASO) toolkit for researching, optimizing, and tracking mobile app performance on Apple App Store and Google Play Store
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # App Store Optimization (ASO) Skill
 

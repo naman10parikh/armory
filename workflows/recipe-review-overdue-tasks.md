@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Find Google Tasks that are past due and need attention.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Review Overdue Tasks
 

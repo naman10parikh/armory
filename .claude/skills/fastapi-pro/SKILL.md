@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: fastapi-pro
 description: Build high-performance async APIs with FastAPI, SQLAlchemy 2.0, and Pydantic V2. Master microservices, WebSockets, and modern Python async patterns.
@@ -6,6 +5,7 @@ risk: unknown
 source: community
 date_added: '2026-02-27'
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 ## Use this skill when
 

@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: dnanexus-integration
 description: "DNAnexus cloud genomics platform. Build apps/applets, manage data (upload/download), dxpy Python SDK, run workflows, FASTQ/BAM/VCF, for genomics pipeline development and execution."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # DNAnexus Integration
 

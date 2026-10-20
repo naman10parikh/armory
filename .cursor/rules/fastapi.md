@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "FastAPI best practices and patterns for building modern Python web APIs"
 globs: **/*.py, app/**/*.py, api/**/*.py
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # FastAPI Best Practices
 
 ## Project Structure

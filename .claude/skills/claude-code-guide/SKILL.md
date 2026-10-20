@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: Claude Code Guide
 description: Master guide for using Claude Code effectively. Includes configuration templates, prompting strategies "Thinking" keywords, debugging techniques, and best practices for interacting with the agent.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Claude Code Guide
 

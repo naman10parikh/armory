@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Build features guided by data insights, A/B testing, and continuous measurement"
 argument-hint: "<feature description> [--experiment-type ab|multivariate|bandit] [--confidence 0.90|0.95|0.99]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Data-Driven Feature Development Orchestrator
 

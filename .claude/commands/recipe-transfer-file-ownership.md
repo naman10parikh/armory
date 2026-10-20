@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Transfer ownership of Google Drive files from one user to another.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Transfer File Ownership
 

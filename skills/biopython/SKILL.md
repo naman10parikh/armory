@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: biopython
 description: "Primary Python toolkit for molecular biology. Preferred for Python-based PubMed/NCBI queries (Bio.Entrez), sequence manipulation, file parsing (FASTA, GenBank, FASTQ, PDB), advanced BLAST workflows, structures, phylogenetics. For quick BLAST, use gget. For direct REST API, use pubmed-database."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Biopython: Computational Molecular Biology in Python
 

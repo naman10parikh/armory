@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: alphafold-database
 description: "Access AlphaFold's 200M+ AI-predicted protein structures. Retrieve structures by UniProt ID, download PDB/mmCIF files, analyze confidence metrics (pLDDT, PAE), for drug discovery and structural biology."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # AlphaFold Database
 

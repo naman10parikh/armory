@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: Google Agent Development Kit rules for agents, tools, sessions, memory, artifacts, evaluation, and deployment
 globs: ["**/*.py", "**/*.ts", "**/*.tsx", "**/*.go", "**/*.java", "pyproject.toml", "package.json"]
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 
 # Google ADK Rules
 

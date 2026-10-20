@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: benchling-integration
 description: "Benchling R&D platform integration. Access registry (DNA, proteins), inventory, ELN entries, workflows via API, build Benchling Apps, query Data Warehouse, for lab data management automation."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Benchling Integration
 

@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: avalonia-viewmodels-zafiro
 description: Optimal ViewModel and Wizard creation patterns for Avalonia using Zafiro and ReactiveUI.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Avalonia ViewModels with Zafiro
 

@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: react-native-architecture
 description: "Production-ready patterns for React Native development with Expo, including navigation, state management, native modules, and offline-first architecture."
@@ -6,6 +5,7 @@ risk: safe
 source: community
 date_added: "2026-02-27"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # React Native Architecture
 

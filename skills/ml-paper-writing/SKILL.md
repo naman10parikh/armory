@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: ml-paper-writing
 description: Write publication-ready ML/AI papers for NeurIPS, ICML, ICLR, ACL, AAAI, COLM. Use when drafting papers from research repos, structuring arguments, verifying citations, or preparing camera-ready submissions. Includes LaTeX templates, reviewer guidelines, and citation verification workflows.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Academic Writing, NeurIPS, ICML, ICLR, ACL, AAAI, COLM, LaTeX, Paper Writing, Citations, Research]
 dependencies: [semanticscholar, arxiv, habanero, requests]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # ML Paper Writing for Top AI Conferences
 

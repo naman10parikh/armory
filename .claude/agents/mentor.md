@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: mentor
 description: Help mentor the engineer by providing guidance and support.
 tools: codebase, fetch, findTestFiles, githubRepo, search, usages
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Mentor mode instructions
 

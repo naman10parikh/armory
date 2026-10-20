@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: langchain
 description: Framework for building LLM-powered applications with agents, chains, and RAG. Supports multiple providers (OpenAI, Anthropic, Google), 500+ integrations, ReAct agents, tool calling, memory management, and vector store retrieval. Use for building chatbots, question-answering systems, autonomous agents, or RAG applications. Best for rapid prototyping and production deployments.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Agents, LangChain, RAG, Tool Calling, ReAct, Memory Management, Vector Stores, LLM Applications, Chatbots, Production]
 dependencies: [langchain, langchain-core, langchain-openai, langchain-anthropic]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # LangChain - Build LLM Applications with Agents & RAG
 

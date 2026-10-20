@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [version-type] | --patch | --minor | --major | --prerelease
 description: Prepare and execute project release with version management and changelog updates
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Project Release
 

@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "TanStack Query v5 (React Query) patterns including queryOptions helper, query key factories, mutations, optimistic updates, infinite queries, Suspense mode, and prefetching"
 globs: ["src/**/*.tsx", "src/**/*.ts", "src/queries/**/*"]
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert in TanStack Query v5 (React Query), TypeScript, and async state management.
 
 ## Core Principles

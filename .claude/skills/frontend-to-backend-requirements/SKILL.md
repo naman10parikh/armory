@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: frontend-to-backend-requirements
 description: Document frontend data needs for backend developers. Use when frontend needs to communicate API requirements to backend, or user says 'backend requirements', 'what data do I need', 'API requirements', or is describing data needs for a UI.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Backend Requirements Mode
 

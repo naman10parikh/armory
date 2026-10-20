@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Retrieve and review responses from a Google Form.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Collect Form Responses
 

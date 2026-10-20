@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: image-enhancer
 description: Improves the quality of images, especially screenshots, by enhancing resolution, sharpness, and clarity. Perfect for preparing images for presentations, documentation, or social media posts.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Image Enhancer
 

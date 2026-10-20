@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: accessibility
 description: Expert assistant for web accessibility (WCAG 2.1/2.2), inclusive UX, and a11y testing
 tools: changes, codebase, edit/editFiles, extensions, fetch, findTestFiles, githubRepo, new, openSimpleBrowser, problems, runCommands, runTasks, runTests, search, searchResults, terminalLastCommand, terminalSelection, testFailure, usages, vscodeAPI
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Accessibility Expert
 

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [automation-type] | --changelog | --workflow-demo | --ci-integration | --validation
 description: Automate changelog testing workflow with CI integration and validation
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Test Changelog Automation
 

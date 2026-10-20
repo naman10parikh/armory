@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Bash, Grep, Glob
 argument-hint: [cdn-provider] | --cloudflare | --aws | --fastly
 description: Configure CDN for optimal content delivery, caching, and global performance optimization
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Setup CDN Optimization
 

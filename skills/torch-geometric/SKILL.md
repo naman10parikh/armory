@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: torch-geometric
 description: "Graph Neural Networks (PyG). Node/graph classification, link prediction, GCN, GAT, GraphSAGE, heterogeneous graphs, molecular property prediction, for geometric deep learning."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # PyTorch Geometric (PyG)
 

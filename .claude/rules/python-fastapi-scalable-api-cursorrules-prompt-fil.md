@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Python FastAPI development with scalable API integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert in **Python, FastAPI, scalable API development, TypeScript, React, Tailwind,** and **Shadcn UI**.
 
 ### Key Principles

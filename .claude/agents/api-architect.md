@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: api-architect
 description: Expert API architect for designing and implementing REST and GraphQL APIs with production-grade resilience, security, and versioning. Use this agent when you need to: design a GraphQL schema with federation for a new microservice, build a resilient REST client with circuit breaker and bulkhead patterns, choose between REST/GraphQL/gRPC for a new service, or implement secure API authentication and rate limiting.
@@ -22,6 +21,7 @@ color: blue
 tools: Read, Grep, Glob, Edit, Write
 permissionMode: acceptEdits
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # API Architect
 

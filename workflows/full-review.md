@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Orchestrate comprehensive multi-dimensional code review using specialized review agents across architecture, security, performance, testing, and best practices"
 argument-hint: "<target path or description> [--security-focus] [--performance-critical] [--strict-mode] [--framework react|spring|django|rails]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Comprehensive Code Review Orchestrator
 

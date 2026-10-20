@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: pufferlib
 description: This skill should be used when working with reinforcement learning tasks including high-performance RL training, custom environment development, vectorized parallel simulation, multi-agent systems, or integration with existing RL environments (Gymnasium, PettingZoo, Atari, Procgen, etc.). Use this skill for implementing PPO training, creating PufferEnv environments, optimizing RL performance, or developing policies with CNNs/LSTMs.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # PufferLib - High-Performance Reinforcement Learning
 

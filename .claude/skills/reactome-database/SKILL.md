@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: reactome-database
 description: "Query Reactome REST API for pathway analysis, enrichment, gene-pathway mapping, disease pathways, molecular interactions, expression analysis, for systems biology studies."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Reactome Database
 

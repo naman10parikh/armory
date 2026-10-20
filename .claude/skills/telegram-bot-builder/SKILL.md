@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: Telegram Bot Builder
 description: This skill should be used when the user asks to "create a Telegram bot", "build a Telegram chatbot", "set up a Telegram webhook", "add inline keyboards to a bot", "handle Telegram callback queries", "implement Telegram payments", "send media via Telegram bot", "configure Telegram bot commands", "deploy a Telegram bot", or mentions the Telegram Bot API, telegram bot tokens, getUpdates, setWebhook, or bot frameworks like node-telegram-bot-api, grammy, python-telegram-bot, or aiogram. Provides comprehensive guidance for building production-ready Telegram bots with Node.js and Python.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Telegram Bot Builder
 

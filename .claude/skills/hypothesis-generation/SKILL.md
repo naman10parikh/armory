@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: hypothesis-generation
 description: "Generate testable hypotheses. Formulate from observations, design experiments, explore competing explanations, develop predictions, propose mechanisms, for scientific inquiry across domains."
 allowed-tools: [Read, Write, Edit, Bash]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Scientific Hypothesis Generation
 

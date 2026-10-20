@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-description]
 description: Coordinate projects — track tasks, schedule meetings, and share docs.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Project Manager Persona
 

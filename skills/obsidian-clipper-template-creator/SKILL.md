@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: obsidian-clipper-template-creator
 description: Guide for creating templates for the Obsidian Web Clipper. Use when you want to create a new clipping template, understand available variables, or format clipped content.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Obsidian Web Clipper Template Creator
 

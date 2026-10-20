@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: planner
 description: Generate an implementation plan for new features or refactoring existing code.
 tools: codebase, fetch, findTestFiles, githubRepo, search, usages
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Planning mode instructions
 

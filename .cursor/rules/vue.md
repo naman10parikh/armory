@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Vue.js best practices and patterns for modern web applications"
 globs: **/*.vue, **/*.ts, components/**/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Vue.js Best Practices
 
 ## Component Structure

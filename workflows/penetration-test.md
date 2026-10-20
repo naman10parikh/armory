@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Bash, Grep, Glob
 argument-hint: [target] | --web-app | --api | --auth | --full-scan
 description: Perform penetration testing and vulnerability assessment on application
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Penetration Test
 

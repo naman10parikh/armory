@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: BettorEdge Value Finder
 description: Find +EV betting opportunities on BettorEdge prediction markets with edge calculation, Kelly criterion sizing, and bankroll management
@@ -14,6 +13,7 @@ tags:
   - bankroll-management
   - mcp-server
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # BettorEdge Value Finder
 

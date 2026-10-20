@@ -1,5 +1,5 @@
-# source: davila7/claude-code-templates · MIT · vendored by Armory
 #!/usr/bin/env python3
+# source: davila7/claude-code-templates · MIT · vendored by Armory
 """
 Dangerous Command Blocker Hook
 Multi-level security system for blocking dangerous shell commands

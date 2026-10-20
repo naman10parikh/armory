@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: umap-learn
 description: "UMAP dimensionality reduction. Fast nonlinear manifold learning for 2D/3D visualization, clustering preprocessing (HDBSCAN), supervised/parametric UMAP, for high-dimensional data."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # UMAP-Learn
 

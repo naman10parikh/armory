@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: mamba-architecture
 description: State-space model with O(n) complexity vs Transformers' O(n²). 5× faster inference, million-token sequences, no KV cache. Selective SSM with hardware-aware design. Mamba-1 (d_state=16) and Mamba-2 (d_state=128, multi-head). Models 130M-2.8B on HuggingFace.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Model Architecture, Mamba, State Space Models, SSM, Linear Complexity, Long Context, Efficient Inference, Hardware-Aware, Alternative To Transformers]
 dependencies: [mamba-ssm, torch, transformers, causal-conv1d]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Mamba - Selective State Space Models
 

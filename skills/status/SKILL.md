@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: railway-status
 description: Check current Railway project status for this directory. Use when user asks "railway status", "is it running", "what's deployed", "deployment status", or about uptime. NOT for variables or configuration queries - use railway-environment skill for those.
@@ -9,6 +8,7 @@ tags: [Railway, Status, Project, Environment, Deployment, Infrastructure]
 dependencies: [railway-cli]
 allowed-tools: Bash(railway:*), Bash(which:*), Bash(command:*)
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Railway Status
 

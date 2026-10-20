@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [import-scope] | --state | --label | --milestone | --batch-size
 description: Bulk import GitHub issues to Linear with comprehensive progress tracking and error handling
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Bulk Import Issues
 

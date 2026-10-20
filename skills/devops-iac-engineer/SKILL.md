@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: devops-iac-engineer
 description: Implements infrastructure as code using Terraform, Kubernetes, and cloud platforms. Designs scalable architectures, CI/CD pipelines, and observability solutions. Provides security-first DevOps practices and site reliability engineering guidance.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # DevOps IaC Engineer
 

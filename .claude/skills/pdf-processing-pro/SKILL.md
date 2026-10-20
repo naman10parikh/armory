@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: PDF Processing Pro
 description: Production-ready PDF processing with forms, tables, OCR, validation, and batch operations. Use when working with complex PDF workflows in production environments, processing large volumes of PDFs, or requiring robust error handling and validation.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # PDF Processing Pro
 

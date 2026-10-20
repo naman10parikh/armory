@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-description]
 description: Plan and manage events — scheduling, invitations, and logistics.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Event Coordinator Persona
 

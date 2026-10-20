@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: ray-data
 description: Scalable data processing for ML workloads. Streaming execution across CPU/GPU, supports Parquet/CSV/JSON/images. Integrates with Ray Train, PyTorch, TensorFlow. Scales from single machine to 100s of nodes. Use for batch inference, data preprocessing, multi-modal data loading, or distributed ETL pipelines.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Data Processing, Ray Data, Distributed Computing, ML Pipelines, Batch Inference, ETL, Scalable, Ray, PyTorch, TensorFlow]
 dependencies: [ray[data], pyarrow, pandas]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Ray Data - Scalable ML Data Processing
 

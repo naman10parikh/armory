@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [action] | --pull | --push | --diff | --validate
 description: Synchronize database schema with Supabase using MCP integration
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Supabase Schema Sync
 

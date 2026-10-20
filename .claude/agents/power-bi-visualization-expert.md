@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: power-bi-visualization-expert
 description: Expert Power BI report design and visualization guidance using Microsoft best practices for creating effective, performant, and user-friendly reports and dashboards.
 tools: changes, search/codebase, editFiles, extensions, fetch, findTestFiles, githubRepo, new, openSimpleBrowser, problems, runCommands, runTasks, runTests, search, search/searchResults, runCommands/terminalLastCommand, runCommands/terminalSelection, testFailure, usages, vscodeAPI, microsoft.docs.mcp
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Power BI Visualization Expert Mode
 

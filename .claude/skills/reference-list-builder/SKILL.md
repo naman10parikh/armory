@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: reference-list-builder
 description: Format professional references properly and prepare reference materials. Use when the user mentions references, reference list, references page, or preparing referees for a job application.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Reference List Builder
 

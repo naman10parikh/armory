@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Vue 3 development with TypeScript integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 Vue 3 Nuxt 3 TypeScript Guidelines
 
 - Use Vue 3 Composition API patterns with `<script setup>` and clear component boundaries.

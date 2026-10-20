@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit
 argument-hint: [function-name] [--auth] [--geo] [--transform] [--proxy]
 description: Generate optimized Vercel Edge Functions with geolocation, authentication, and data transformation
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 ## Vercel Edge Function Generator
 

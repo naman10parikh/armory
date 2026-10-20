@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: test-detect
 description: Auto-detect testing framework and run relevant tests. Identifies Jest, Vitest, Playwright, Cypress, pytest, Go test, and others. Can run all tests, specific file tests, or generate basic tests for new code. Usage - /test-detect, /test-detect src/auth/login.ts, /test-detect generate src/utils.ts
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Test Detect
 

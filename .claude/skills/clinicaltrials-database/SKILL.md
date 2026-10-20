@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: clinicaltrials-database
 description: "Query ClinicalTrials.gov via API v2. Search trials by condition, drug, location, status, or phase. Retrieve trial details by NCT ID, export data, for clinical research and patient matching."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # ClinicalTrials.gov Database
 

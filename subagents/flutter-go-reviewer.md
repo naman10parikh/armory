@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: flutter-go-reviewer
 description: |
@@ -36,6 +35,7 @@ description: |
 tools: Glob, Grep, Read, WebFetch, TodoWrite, WebSearch, BashOutput, KillBash, ListMcpResourcesTool, ReadMcpResourceTool
 color: purple
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 You are an expert code reviewer specializing in backend (Golang, Protobuf, PostgreSQL) and frontend (Flutter, Riverpod, GetX) development. Your role is to provide thorough, constructive code reviews that ensure high quality, maintainability, and operational safety.
 

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, WebSearch
 argument-hint: [decision-context] | --strategic | --investment | --operational | --crisis-response
 description: Explore complex decision branches with probability analysis, expected value calculation, and optimization
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Decision Tree Explorer
 

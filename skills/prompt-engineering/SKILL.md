@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: prompt-engineering
 description: Expert guide on prompt engineering patterns, best practices, and optimization techniques. Use when user wants to improve prompts, learn prompting strategies, or debug agent behavior.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Prompt Engineering Patterns
 

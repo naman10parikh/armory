@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Display team members, task status, and progress for an active agent team"
 argument-hint: "[team-name] [--tasks] [--members] [--json]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Team Status
 

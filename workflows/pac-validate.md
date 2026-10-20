@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Bash
 argument-hint: [scope] | --file | --epic | --fix | --pre-commit
 description: Validate Product as Code project structure and files for PAC specification compliance
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Validate PAC Structure
 

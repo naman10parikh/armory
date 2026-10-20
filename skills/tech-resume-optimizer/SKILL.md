@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: tech-resume-optimizer
 description: Optimize resumes for software engineering, product management, and technical roles. Use when the user mentions software engineer, developer, PM, data scientist, ML, DevOps, or other technical role resumes.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Tech Resume Optimizer
 

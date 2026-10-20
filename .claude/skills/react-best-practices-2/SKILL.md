@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: react-best-practices
 description: Comprehensive React and Next.js performance optimization guide with 40+ rules for eliminating waterfalls, optimizing bundles, and improving rendering. Use when optimizing React apps, reviewing performance, or refactoring components.
@@ -8,6 +7,7 @@ license: MIT
 tags: [React, Next.js, Performance, Optimization, Best Practices, Bundle Size, Rendering, Server Components]
 dependencies: []
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # React Best Practices - Performance Optimization
 

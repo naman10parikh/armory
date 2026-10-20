@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: datadog-cli
 description: Datadog CLI for searching logs, querying metrics, tracing requests, and managing dashboards. Use this when debugging production issues or working with Datadog observability.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Datadog CLI
 

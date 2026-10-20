@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "PostgreSQL production rules. Safe migrations, parameterized queries, TIMESTAMPTZ, proper indexing strategy."
 globs: **/*.sql, **/migrations/**/*.sql, **/schema.sql, **/seed.sql
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # PostgreSQL Rules
 
 Expert PostgreSQL developer. Safe migrations, parameterized queries, proper indexing.

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Review your Google Calendar week, identify gaps, and add events to fill them.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Plan Weekly Schedule
 

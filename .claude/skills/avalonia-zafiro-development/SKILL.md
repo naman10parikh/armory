@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: avalonia-zafiro-development
 description: Mandatory skills, conventions, and behavioral rules for Avalonia UI development using the Zafiro toolkit.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Avalonia Zafiro Development
 

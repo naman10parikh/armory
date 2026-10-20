@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Spawn an agent team using presets (review, debug, feature, fullstack, research, security, migration) or custom composition"
 argument-hint: "<preset|custom> [--name team-name] [--members N] [--delegate]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Team Spawn
 

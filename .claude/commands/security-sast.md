@@ -1,4 +1,3 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: Static Application Security Testing (SAST) for code vulnerability analysis across multiple languages and frameworks
 globs:
@@ -28,6 +27,7 @@ keywords:
     ast analysis,
   ]
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # SAST Security Plugin
 

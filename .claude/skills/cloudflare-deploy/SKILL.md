@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: cloudflare-deploy
 description: Deploy applications and infrastructure to Cloudflare using Workers, Pages, and related platform services. Use when the user asks to deploy, host, publish, or set up a project on Cloudflare.
 author: openai
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Cloudflare Deploy
 

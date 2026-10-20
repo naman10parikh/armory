@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash(git:*), Bash(rm:*), Bash(ls:*), Bash(pwd:*), Bash(grep:*)
 argument-hint: --all | --branch claude/name | --dry-run
 description: Clean up merged worktrees and their branches
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Worktree Cleanup
 

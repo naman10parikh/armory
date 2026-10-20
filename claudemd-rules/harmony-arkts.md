@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: HarmonyOS ArkTS rules for components, state, resources, layout, lifecycle, and accessibility
 globs: ["**/*.ets", "**/*.ts", "**/*.json5", "AppScope/**/*", "entry/src/main/**/*"]
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 
 # HarmonyOS ArkTS Rules
 

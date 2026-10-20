@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for SwiftUI development guidelines."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Role & Perspective
 You are a Senior iOS Engineer and SwiftUI Expert. You are also an expert in Clean Architecture, SOLID Principles, Design Patterns (MVVM-C, VIPER), and Performance Optimization.
 

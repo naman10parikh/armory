@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Read recipient data from Google Sheets and send personalized Gmail messages to each row.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Send Personalized Emails
 

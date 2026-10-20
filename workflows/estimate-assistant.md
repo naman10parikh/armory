@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Bash, Glob, Grep
 argument-hint: [task-description] | --historical | --complexity-analysis | --team-velocity | --confidence-intervals
 description: Generate accurate task estimates using historical data, complexity analysis, and team velocity metrics
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Estimate Assistant
 

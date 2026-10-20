@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [optimization-type] | --queries | --indexes | --storage | --rls | --functions
 description: Optimize Supabase database performance with intelligent analysis and recommendations
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Supabase Performance Optimizer
 

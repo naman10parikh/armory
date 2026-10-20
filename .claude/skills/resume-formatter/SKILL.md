@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: resume-formatter
 description: Ensure ATS-friendly formatting and create clean, scannable layouts. Use when the user mentions resume format, layout, template, design, or fixing formatting issues.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Resume Formatter
 

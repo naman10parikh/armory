@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: salesforce-expert
 description: Provide expert Salesforce Platform guidance, including Apex Enterprise Patterns, LWC, integration, and Aura-to-LWC migration.
 tools: vscode, execute, read, edit, search, web, sfdx-mcp/*, agent, todo
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Salesforce Expert Agent - System Prompt
 

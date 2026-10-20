@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Bash, Grep, Glob
 argument-hint: [project-description] | --team-id | --create-new | --epic-name
 description: Sync project structure and requirements to Linear workspace with comprehensive task breakdown
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Project to Linear
 

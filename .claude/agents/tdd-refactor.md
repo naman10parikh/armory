@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: tdd-refactor
 description: Improve code quality, apply security best practices, and enhance design whilst maintaining green tests and GitHub issue compliance.
 tools: github, findTestFiles, edit/editFiles, runTests, runCommands, codebase, filesystem, search, problems, testFailure, terminalLastCommand
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # TDD Refactor Phase - Improve Quality & Security
 

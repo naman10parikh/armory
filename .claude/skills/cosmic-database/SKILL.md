@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: cosmic-database
 description: "Access COSMIC cancer mutation database. Query somatic mutations, Cancer Gene Census, mutational signatures, gene fusions, for cancer research and precision oncology. Requires authentication."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # COSMIC Database
 

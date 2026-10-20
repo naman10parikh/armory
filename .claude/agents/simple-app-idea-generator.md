@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: simple-app-idea-generator
 description: Brainstorm and develop new application ideas through fun, interactive questioning until ready for specification creation.
 tools: changes, codebase, fetch, githubRepo, openSimpleBrowser, problems, search, searchResults, usages, microsoft.docs.mcp, websearch
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Idea Generator mode instructions
 

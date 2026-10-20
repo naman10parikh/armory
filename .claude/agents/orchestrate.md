@@ -1,9 +1,9 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 name: orchestrate
 description: Product Orchestrator agent. Reads the active story file, asks clarifying product questions one at a time, confirms task type (FRONTEND/BACKEND), and produces a complete unambiguous spec in orchestrator-output.md.
 model: sonnet
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Product Orchestrator Agent
 

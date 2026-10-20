@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: autonomous-agent-patterns
 description: "Design patterns for building autonomous coding agents. Covers tool integration, permission systems, browser automation, and human-in-the-loop workflows. Use when building AI agents, designing tool APIs, implementing permission systems, or creating autonomous coding assistants."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # 🕹️ Autonomous Agent Patterns
 

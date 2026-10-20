@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Find Gmail messages with a specific label and forward them to another address.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Forward Labeled Emails
 

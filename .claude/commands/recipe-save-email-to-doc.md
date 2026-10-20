@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Save a Gmail message body into a Google Doc for archival or reference.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Save Email To Doc
 

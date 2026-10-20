@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: atlassian-requirements-to-jira
 description: Transform requirements documents into structured Jira epics and user stories with intelligent duplicate detection, change management, and user-approved creation workflow.
 tools: atlassian
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 ## 🔒 SECURITY CONSTRAINTS & OPERATIONAL LIMITS
 

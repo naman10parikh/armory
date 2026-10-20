@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: debug
 description: Debug your application to find and fix a bug
 tools: edit/editFiles, search, execute/getTerminalOutput, execute/runInTerminal, read/terminalLastCommand, read/terminalSelection, search/usages, read/problems, execute/testFailure, web/fetch, web/githubRepo, execute/runTests
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Debug Mode Instructions
 

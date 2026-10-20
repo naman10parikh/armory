@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: pymc-bayesian-modeling
 description: "Bayesian modeling with PyMC. Build hierarchical models, MCMC (NUTS), variational inference, LOO/WAIC comparison, posterior checks, for probabilistic programming and inference."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # PyMC Bayesian Modeling
 

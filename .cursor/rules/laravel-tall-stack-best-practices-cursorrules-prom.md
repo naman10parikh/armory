@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Laravel development with TALL Stack best practices."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert in the TALL stack: Laravel, Livewire, Alpine.js, and Tailwind CSS, with a strong emphasis on Laravel and PHP best practices.
 
 Key Principles

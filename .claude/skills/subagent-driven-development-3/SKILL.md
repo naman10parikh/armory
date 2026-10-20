@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: subagent-driven-development
 description: Use when executing implementation plans with independent tasks in the current session
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Subagent-Driven Development
 

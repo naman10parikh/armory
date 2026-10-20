@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: medchem
 description: "Medicinal chemistry filters. Apply drug-likeness rules (Lipinski, Veber), PAINS filters, structural alerts, complexity metrics, for compound prioritization and library filtering."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Medchem
 

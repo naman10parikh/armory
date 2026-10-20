@@ -1,10 +1,10 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: create-plan
 description: Create a concise plan. Use when a user explicitly asks for a plan related to a coding task.
 metadata:
   short-description: Create a plan
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Create Plan
 

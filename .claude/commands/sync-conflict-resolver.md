@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [action] | detect | resolve | analyze | configure | report
 description: Resolve synchronization conflicts with intelligent strategies and automated resolution
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Sync Conflict Resolver
 

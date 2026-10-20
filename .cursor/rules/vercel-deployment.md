@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Best practices for Vercel deployments including serverless functions, Edge Runtime, middleware, caching, environment variables, and CI/CD configuration"
 globs: ["vercel.json", ".vercelignore", "middleware.ts", "middleware.js", "api/**/*", "app/api/**/*"]
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert in Vercel deployments, serverless architecture, and modern web application hosting.
 
 ## Core Principles

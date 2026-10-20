@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: brightdata-local-search
 description: Set up and run local web searches using Bright Data SERP API with the unfancy-search pipeline (query expansion, SERP retrieval, RRF reranking).
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Bright Data Local Search
 

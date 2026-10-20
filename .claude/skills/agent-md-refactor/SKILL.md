@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: agent-md-refactor
 description: Refactor bloated AGENTS.md, CLAUDE.md, or similar agent instruction files to follow progressive disclosure principles. Splits monolithic files into organized, linked documentation.
 license: MIT
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Agent MD Refactor
 

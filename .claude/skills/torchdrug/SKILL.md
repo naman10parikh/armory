@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: torchdrug
 description: "Graph-based drug discovery toolkit. Molecular property prediction (ADMET), protein modeling, knowledge graph reasoning, molecular generation, retrosynthesis, GNNs (GIN, GAT, SchNet), 40+ datasets, for PyTorch-based ML on molecules, proteins, and biomedical graphs."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # TorchDrug
 

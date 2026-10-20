@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: skill-share
 description: A skill that creates new Claude skills and automatically shares them on Slack using Rube for seamless team collaboration and skill discovery.
 license: Complete terms in LICENSE.txt
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 ## When to use this skill
 

@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: seaborn
 description: "Statistical visualization. Scatter, box, violin, heatmaps, pair plots, regression, correlation matrices, KDE, faceted plots, for exploratory analysis and publication figures."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Seaborn Statistical Visualization
 

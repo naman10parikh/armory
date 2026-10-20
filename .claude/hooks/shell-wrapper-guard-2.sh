@@ -1,5 +1,5 @@
-# source: davila7/claude-code-templates · MIT · vendored by Armory
 #!/bin/bash
+# source: davila7/claude-code-templates · MIT · vendored by Armory
 # shell-wrapper-guard.sh — Detect destructive commands hidden in shell wrappers
 #
 # Solves: Bypass vectors that evade destructive-guard by wrapping commands:

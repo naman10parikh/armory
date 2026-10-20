@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [platform] | --github-actions | --gitlab-ci | --azure-pipelines | --jenkins
 description: Setup comprehensive CI/CD pipeline with automated testing, deployment, and monitoring
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Setup CI/CD Pipeline
 

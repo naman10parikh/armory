@@ -1,10 +1,10 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: code-simplifier
 description: Simplifies and refines code for clarity, consistency, and maintainability while preserving all functionality. Use when asked to "simplify code", "clean up code", "refactor for clarity", "improve readability", or review recently modified code for elegance. Focuses on project-specific best practices.
 risk: unknown
 source: community
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 <!--
 Based on Anthropic's code-simplifier agent:

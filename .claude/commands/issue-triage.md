@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Bash
 argument-hint: [scope] | --github-issues | --linear-tasks | --priority-analysis | --team-assignment
 description: Intelligent issue triage with automatic categorization, prioritization, and team assignment
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Issue Triage
 

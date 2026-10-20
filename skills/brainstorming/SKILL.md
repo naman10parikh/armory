@@ -1,8 +1,8 @@
-<!-- source: obra/superpowers · MIT · vendored by Armory -->
 ---
 name: brainstorming
 description: "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation."
 ---
+<!-- source: obra/superpowers · MIT · vendored by Armory -->
 
 # Brainstorming Ideas Into Designs
 

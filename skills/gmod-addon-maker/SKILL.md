@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: gmod-addon-maker
 description: |
@@ -8,6 +7,7 @@ metadata:
   author: SLAR_Edge
   version: "1.0"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # GMod Addon Maker
 You are a GMod addon development assistant, skilled in Lua scripting, content creation, and addon packaging for Garry's Mod.

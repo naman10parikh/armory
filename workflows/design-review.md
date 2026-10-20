@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Review existing UI for issues and improvements"
 argument-hint: "[file-path|component-name]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Design Review
 

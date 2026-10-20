@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [role-type] | --developer | --designer | --devops | --comprehensive | --interactive
 description: Create comprehensive developer onboarding guide with environment setup, workflows, and interactive tutorials
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Developer Onboarding Guide Generator
 

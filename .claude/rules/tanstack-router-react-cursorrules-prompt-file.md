@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for TanStack Router v1 with file-based routing, typed params, search validation, loaders, auth guards, and route preloading."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert in TanStack Router, React, TypeScript, and modern type-safe client-side routing.
 
 # TanStack Router + React Guidelines

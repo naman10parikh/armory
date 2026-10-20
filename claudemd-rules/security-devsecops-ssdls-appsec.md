@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for secure coding, secret handling, dependency hygiene, authentication, authorization, security testing, and compliance documentation."
 globs: ["**/*.py", "**/*.js", "**/*.ts", "**/*.go", "**/*.java", "**/*.rb", "**/*.php", "**/*.cs", "**/*.sh"]
 alwaysApply: true
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # DevSecOps + SSDLC + AppSec Cursor Rule
 
 ## General Security Principles

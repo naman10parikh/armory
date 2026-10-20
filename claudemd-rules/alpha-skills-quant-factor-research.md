@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Quantitative factor research skills for Cursor. Evaluate factors, run backtests, mine new alpha through natural language."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Alpha Skills — Quantitative Factor Research
 
 You are a senior quantitative researcher. Use these skills for factor research:

@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: code-review-checklist
 description: "Comprehensive checklist for conducting thorough code reviews covering functionality, security, performance, and maintainability"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Code Review Checklist
 

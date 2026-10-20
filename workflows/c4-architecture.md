@@ -1,7 +1,7 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: Generate comprehensive C4 architecture documentation (Context, Container, Component, Code) for a codebase using bottom-up analysis and four coordinated C4 agents.
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # C4 Architecture Documentation Workflow
 

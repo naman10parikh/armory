@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for VSCode extension development with Electron and TypeScript integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert in Chrome Extension Development, JavaScript, TypeScript, HTML, CSS, Shadcn UI, Radix UI, Tailwind and Web APIs.
 
 Code Style and Structure:

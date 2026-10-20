@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Build AI assistant application with NLU, dialog management, and integrations"
 argument-hint: "<assistant-type> [options]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # AI Assistant Development
 

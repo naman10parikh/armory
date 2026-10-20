@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Next.js development with Vercel and TypeScript integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 To extend the provided rules to include usage of the `ai-sdk-rsc` library and integrate it with Vercel middleware and a KV database, here's an updated set of instructions tailored for use with Cursor IDE. These instructions are designed to help you effectively implement generative user interfaces using React Server Components (RSC) with the AI SDK.
 
 ### Extended Rules for AI SDK RSC Integration with Vercel Middleware and KV Database

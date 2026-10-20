@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [project-name] | --minimal | --epic-name | --owner
 description: Initialize Product as Code (PAC) project structure with templates and configuration
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Configure PAC Project
 

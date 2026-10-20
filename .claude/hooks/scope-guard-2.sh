@@ -1,5 +1,5 @@
-# source: davila7/claude-code-templates · MIT · vendored by Armory
 #!/bin/bash
+# source: davila7/claude-code-templates · MIT · vendored by Armory
 # scope-guard.sh — Detect files modified outside the scope of an active spec
 # Source: pm-workspace (https://github.com/gonzalezpazmonica/pm-workspace)
 # License: MIT

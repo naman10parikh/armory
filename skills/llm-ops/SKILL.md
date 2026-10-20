@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: llm-ops
 description: "LLM Operations -- RAG, embeddings, vector databases, fine-tuning, prompt engineering avancado, custos de LLM, evals de qualidade e arquiteturas de IA para producao."
@@ -19,6 +18,7 @@ tools:
 - gemini-cli
 - codex-cli
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # LLM-OPS -- IA de Producao
 

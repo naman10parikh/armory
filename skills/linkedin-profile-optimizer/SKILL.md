@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: linkedin-profile-optimizer
 description: Optimize a LinkedIn profile for searchability, recruiter visibility, and engagement. Use when the user mentions LinkedIn profile, headline, About section, recruiter visibility, or social hiring.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # LinkedIn Profile Optimizer
 

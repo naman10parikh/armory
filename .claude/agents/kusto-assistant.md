@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: kusto-assistant
 description: Expert KQL assistant for live Azure Data Explorer analysis via Azure MCP server
 tools: Read, Edit, Write, Bash, Grep, Glob, WebFetch
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Kusto Assistant: Azure Data Explorer (Kusto) Engineering Assistant
 

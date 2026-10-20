@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Create LangGraph-based agent with modern patterns"
 argument-hint: "<agent-type> [options]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # LangChain/LangGraph Agent Development Expert
 

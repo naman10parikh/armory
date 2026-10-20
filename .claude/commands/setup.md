@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Initialize project with Conductor artifacts (product definition, tech stack, workflow, style guides)"
 argument-hint: "[--resume]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Conductor Setup
 

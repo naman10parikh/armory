@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: prd
 description: Generate a comprehensive Product Requirements Document (PRD) in Markdown, detailing user stories, acceptance criteria, technical considerations, and metrics. Optionally create GitHub issues upon user confirmation.
 tools: codebase, edit/editFiles, fetch, findTestFiles, list_issues, githubRepo, search, add_issue_comment, create_issue, update_issue, get_issue, search_issues
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Create PRD Chat Mode
 

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [analytics-type] | --player-behavior | --performance | --monetization | --retention | --comprehensive
 description: Use PROACTIVELY to implement game analytics systems with player behavior tracking, performance monitoring, and business intelligence integration
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Game Analytics & Player Intelligence System
 

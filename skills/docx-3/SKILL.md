@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: docx
 description: "Document toolkit (.docx). Create/edit documents, tracked changes, comments, formatting preservation, text extraction, for professional document processing."
 license: Proprietary. LICENSE.txt has complete terms
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # DOCX creation, editing, and analysis
 

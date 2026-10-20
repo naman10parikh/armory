@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: ensembl-database
 description: "Query Ensembl genome database REST API for 250+ species. Gene lookups, sequence retrieval, variant analysis, comparative genomics, orthologs, VEP predictions, for genomic research."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Ensembl Database
 

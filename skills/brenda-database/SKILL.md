@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: brenda-database
 description: "Access BRENDA enzyme database via SOAP API. Retrieve kinetic parameters (Km, kcat), reaction equations, organism data, and substrate-specific enzyme information for biochemical research and metabolic pathway analysis."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # BRENDA Database
 

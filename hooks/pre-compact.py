@@ -1,5 +1,5 @@
-# source: disler/claude-code-hooks-mastery · MIT · vendored by Armory
 #!/usr/bin/env -S uv run --script
+# source: disler/claude-code-hooks-mastery · MIT · vendored by Armory
 # /// script
 # requires-python = ">=3.11"
 # dependencies = [

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Edit, Bash
 argument-hint: [workflow-name]
 description: Execute GitHub Actions locally using act
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Act - GitHub Actions Local Execution
 

@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: x-twitter-scraper
 description: "Use when the user wants to integrate with the X (Twitter) API via Xquik to search tweets, look up user profiles, extract followers, run giveaway draws, monitor accounts, or access trending topics. Also use when the user mentions 'Xquik,' 'Twitter API,' 'X API,' 'tweet scraper,' 'follower extraction,' or 'Twitter monitoring.' Covers REST API, webhooks, and MCP server setup."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # X (Twitter) Scraper — Xquik Integration
 

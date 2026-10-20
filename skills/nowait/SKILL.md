@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: nowait-reasoning-optimizer
 description: Implements the NOWAIT technique for efficient reasoning in R1-style LLMs. Use when optimizing inference of reasoning models (QwQ, DeepSeek-R1, Phi4-Reasoning, Qwen3, Kimi-VL, QvQ), reducing chain-of-thought token usage by 27-51% while preserving accuracy. Triggers on "optimize reasoning", "reduce thinking tokens", "efficient inference", "suppress reflection tokens", or when working with verbose CoT outputs.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # NOWAIT Reasoning Optimizer
 

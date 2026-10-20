@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Bash
 argument-hint: [--detailed] | [--health-check] | [--diagnostics]
 description: Monitor GitHub-Linear sync health status with performance metrics and diagnostics
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Sync Status Monitor
 

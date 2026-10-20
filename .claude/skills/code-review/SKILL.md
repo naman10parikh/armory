@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: code-review
 description: Perform code reviews following Sentry engineering practices. Use when reviewing pull requests, examining code changes, or providing feedback on code quality. Covers security, performance, testing, and design review.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Sentry Code Review
 

@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: android-cicd
 description: "Automated Android CI/CD pipeline to Google Play — supports TWA, React Native, Flutter, and native Android. Run npx android-cicd to set up keystore generation, GitHub Secrets, and a multi-stage workflow (internal/alpha/beta/production) with auto-bump versionCode."
@@ -11,6 +10,7 @@ metadata:
   version: "1.0.0"
   npm: android-cicd
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Skill: android-cicd
 

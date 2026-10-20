@@ -1,4 +1,3 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 name: arm-cortex-expert
 description: >
@@ -9,6 +8,7 @@ description: >
 model: inherit
 tools: []
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # @arm-cortex-expert
 

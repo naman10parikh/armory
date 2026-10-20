@@ -1,10 +1,10 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: notion-meeting-intelligence
 description: Prepare meeting materials with Notion context and Codex research; use when gathering context, drafting agendas/pre-reads, and tailoring materials to attendees.
 metadata:
   short-description: Prep meetings with Notion context and tailored agendas
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Meeting Intelligence
 

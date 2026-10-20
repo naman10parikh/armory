@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Next.js development with SEO optimization."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 Always add helpful comments to the code explaining what you are doing.
 Never delete old comments, unless they are no longer relevant because the code has been rewritten or deleted.
 

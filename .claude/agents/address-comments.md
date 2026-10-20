@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: address-comments
 description: Address PR comments
 tools: changes, codebase, editFiles, extensions, fetch, findTestFiles, githubRepo, new, openSimpleBrowser, problems, runCommands, runTasks, runTests, search, searchResults, terminalLastCommand, terminalSelection, testFailure, usages, vscodeAPI, microsoft.docs.mcp, github
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Universal PR Comment Addresser
 

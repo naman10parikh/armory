@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 description: Multi-framework structured analysis: surfaces hidden assumptions, generates competing solutions, stress-tests each with adversarial reasoning, and delivers confidence-calibrated recommendations
 argument-hint: [problem or question to analyze]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Deep Analysis and Problem Solving Mode
 

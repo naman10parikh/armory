@@ -1,5 +1,5 @@
-# source: davila7/claude-code-templates · MIT · vendored by Armory
 #!/bin/bash
+# source: davila7/claude-code-templates · MIT · vendored by Armory
 ###
 # Claude Code Stop Hook - LangSmith Tracing Integration
 # Sends Claude Code traces to LangSmith after each response.

@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Create recurring focus time blocks on Google Calendar to protect deep work hours.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Block Focus Time
 

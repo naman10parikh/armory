@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Bash, Glob, WebFetch
 argument-hint: <input> [lang]
 description: Generate content for ALL platforms at once (X, LinkedIn, Medium, Dev.to)
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # All-Platform Content Generator
 

@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: deepchem
 description: "Molecular machine learning toolkit. Property prediction (ADMET, toxicity), GNNs (GCN, MPNN), MoleculeNet benchmarks, pretrained models, featurization, for drug discovery ML."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # DeepChem
 

@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: bun-development
 description: "Modern JavaScript/TypeScript development with Bun runtime. Covers package management, bundling, testing, and migration from Node.js. Use when working with Bun, optimizing JS/TS development speed, or migrating from Node.js to Bun."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # ⚡ Bun Development
 

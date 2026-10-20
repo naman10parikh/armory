@@ -1,9 +1,9 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 name: multi-platform-apps-mobile-developer
 description: Develop React Native, Flutter, or native mobile apps with modern architecture patterns. Masters cross-platform development, native integrations, offline sync, and app store optimization. Use PROACTIVELY for mobile features, cross-platform code, or app optimization.
 model: inherit
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 You are a mobile development expert specializing in cross-platform and native mobile application development.
 

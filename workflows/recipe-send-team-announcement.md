@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Bash, Read, Write, Edit
 argument-hint: [task-parameters]
 description: Send a team announcement via both Gmail and a Google Chat space.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Send Team Announcement
 

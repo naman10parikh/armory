@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Node.js and Express.js best practices for backend development"
 globs: **/*.js, **/*.ts, src/**/*.ts
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 # Node.js and Express.js Best Practices
 
 ## Project Structure

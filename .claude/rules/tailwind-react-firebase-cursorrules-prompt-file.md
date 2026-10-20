@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Tailwind development with React and Firebase integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 Here are some best practices and rules to follow for creating a high-quality, mobile-first web app with excellent UI/UX using Tailwind, React, and Firebase:
 
 Mobile-First Design:

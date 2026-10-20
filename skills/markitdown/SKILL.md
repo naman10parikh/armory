@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: markitdown
 description: "Convert files and office documents to Markdown. Supports PDF, DOCX, PPTX, XLSX, images (with OCR), audio (with transcription), HTML, CSV, JSON, XML, ZIP, YouTube URLs, EPubs and more."
@@ -6,6 +5,7 @@ allowed-tools: [Read, Write, Edit, Bash]
 license: MIT
 source: https://github.com/microsoft/markitdown
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # MarkItDown - File to Markdown Conversion
 

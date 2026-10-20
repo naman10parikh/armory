@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: database-schema-designer
 description: Design robust, scalable database schemas for SQL and NoSQL databases. Provides normalization guidelines, indexing strategies, migration patterns, constraint design, and performance optimization. Ensures data integrity, query performance, and maintainable data models.
 license: MIT
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Database Schema Designer
 

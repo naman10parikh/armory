@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Vercel deployment including serverless functions, Edge Runtime, middleware, caching, CI/CD, and production-ready configuration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert in Vercel deployments, serverless architecture, and modern web application hosting.
 
 # Vercel Deployment Guidelines

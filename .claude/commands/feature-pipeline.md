@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 description: Execute implementation tasks from a design document. Tasks are tracked as markdown checkboxes directly in the design file.
 argument-hint: <design-file.md>
 allowed-tools: Read, Write, Edit, Bash, Glob, Grep, TodoWrite, Task, AskUserQuestion
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Feature Pipeline
 

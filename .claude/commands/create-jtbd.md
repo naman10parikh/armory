@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Grep, Glob
 argument-hint: [feature-name] | --template | --interactive
 description: Create Jobs-to-be-Done (JTBD) analysis for product features
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Create Jobs-to-be-Done Document
 

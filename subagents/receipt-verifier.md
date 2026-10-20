@@ -1,9 +1,9 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 name: receipt-verifier
 description: Expert in Ed25519 signed receipts, JCS canonicalization, hash chains, and offline verification. Use when you need to verify receipt authenticity, audit a receipt chain, detect tampering, or explain why verification failed.
 model: sonnet
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Receipt Verifier
 

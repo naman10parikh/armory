@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Edit, Bash
 argument-hint: [--lighthouse] [--bundle] [--runtime] [--all]
 description: Comprehensive Next.js performance audit with actionable optimization recommendations
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 ## Next.js Performance Audit
 

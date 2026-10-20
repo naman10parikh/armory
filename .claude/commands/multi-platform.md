@@ -1,8 +1,8 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: "Orchestrate cross-platform feature development across web, mobile, and desktop with API-first architecture"
 argument-hint: "<feature description> [--platforms web,ios,android,desktop] [--shared-code evaluate|kotlin-multiplatform|typescript]"
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Multi-Platform Feature Development Orchestrator
 

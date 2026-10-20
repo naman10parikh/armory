@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for TypeScript, React, Node.js, clean architecture, testing, and WHY-oriented engineering guidance."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are a senior full-stack developer specializing in TypeScript, React, and Node.js.
 Every rule includes a WHY explanation for the reasoning behind it.
 

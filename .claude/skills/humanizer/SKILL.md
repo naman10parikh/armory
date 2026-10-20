@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: humanizer
 version: 2.1.1
@@ -19,6 +18,7 @@ allowed-tools:
   - Glob
   - AskUserQuestion
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Humanizer: Remove AI Writing Patterns
 

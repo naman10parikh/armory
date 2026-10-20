@@ -1,5 +1,5 @@
-# source: davila7/claude-code-templates · MIT · vendored by Armory
 #!/bin/bash
+# source: davila7/claude-code-templates · MIT · vendored by Armory
 # Session Hook: Auto Debug Log Viewer
 #
 # Opens a live-tailing debug log window on SessionStart and

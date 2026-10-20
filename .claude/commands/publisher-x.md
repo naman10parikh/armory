@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Bash, Glob, WebFetch
 argument-hint: <input> [lang]
 description: Generate copy-pastable X/Twitter threads from blog posts, articles, PDFs, or URLs with 3 format options
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # X/Twitter Thread Generator
 

@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: Modern Fortran rules for scientific computing, modules, explicit interfaces, kind parameters, memory safety, and testing
 globs: ["**/*.f", "**/*.f90", "**/*.f95", "**/*.f03", "**/*.f08", "**/*.for", "**/*.ftn", "CMakeLists.txt", "*.cmake", "Makefile"]
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 
 # Fortran Programming Guidelines
 

@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: phoenix-observability
 description: Open-source AI observability platform for LLM tracing, evaluation, and monitoring. Use when debugging LLM applications with detailed traces, running evaluations on datasets, or monitoring production AI systems with real-time insights.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Observability, Phoenix, Arize, Tracing, Evaluation, Monitoring, LLM Ops, OpenTelemetry]
 dependencies: [arize-phoenix>=12.0.0]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Phoenix - AI Observability Platform
 

@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: deadline-prep
 description: Generate a structured demo outline from your session's change log and git history. Reads .claude/critical_log_changes.csv and git log to produce presentation-ready talking points for end-of-day demos, standups, or delivery deadlines.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Deadline Prep
 

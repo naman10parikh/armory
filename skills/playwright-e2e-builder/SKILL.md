@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: playwright-e2e-builder
 description: Plan and build comprehensive Playwright E2E test suites with Page Object Model, authentication state persistence, custom fixtures, visual regression, and CI integration. Uses interview-driven planning to clarify critical user flows, auth strategy, test data approach, and parallelization before writing any tests.
 tags: [playwright, e2e, testing, automation, typescript, ci, visual-regression]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Playwright E2E Test Suite Builder
 

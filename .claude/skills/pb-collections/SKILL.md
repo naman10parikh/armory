@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: "PocketBase Collections"
 description: "Collection and schema design for PocketBase. Use when creating collections, designing schemas, adding fields, setting up relations, or choosing between base/auth/view collection types. Prevents wrong field types, documents zero-default behavior, and covers relation cascading."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # PocketBase Collection & Schema Design
 

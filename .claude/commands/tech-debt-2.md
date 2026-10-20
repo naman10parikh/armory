@@ -1,7 +1,7 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: Analyze and remediate technical debt — inventory debt items, score by impact, and produce a prioritized remediation plan with estimated effort.
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Technical Debt Analysis and Remediation
 

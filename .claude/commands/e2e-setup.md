@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [framework] | --cypress | --playwright | --webdriver | --puppeteer | --mobile
 description: Configure comprehensive end-to-end testing suite with framework selection and CI integration
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # E2E Setup
 

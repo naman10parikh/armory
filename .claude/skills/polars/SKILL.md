@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: polars
 description: "Fast DataFrame library (Apache Arrow). Select, filter, group_by, joins, lazy evaluation, CSV/Parquet I/O, expression API, for high-performance data analysis workflows."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Polars
 

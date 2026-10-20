@@ -1,5 +1,5 @@
-# source: davila7/claude-code-templates · MIT · vendored by Armory
 #!/usr/bin/env bash
+# source: davila7/claude-code-templates · MIT · vendored by Armory
 # Bisection script to find which test creates unwanted files/state
 # Usage: ./find-polluter.sh <file_or_dir_to_check> <test_pattern>
 # Example: ./find-polluter.sh '.git' 'src/**/*.test.ts'

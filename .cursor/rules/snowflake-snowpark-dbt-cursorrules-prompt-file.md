@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Snowpark Python (DataFrames, UDFs, stored procedures) and dbt with the Snowflake adapter."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 // Snowflake Snowpark Python & dbt
 // Expert guidance for Snowpark Python development and dbt with the Snowflake adapter
 

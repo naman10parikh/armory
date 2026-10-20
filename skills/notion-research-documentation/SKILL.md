@@ -1,10 +1,10 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: notion-research-documentation
 description: Research across Notion and synthesize into structured documentation; use when gathering info from multiple Notion sources to produce briefs, comparisons, or reports with citations.
 metadata:
   short-description: Research Notion content and produce briefs/reports
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Research & Documentation
 

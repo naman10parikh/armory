@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: langsmith-observability
 description: LLM observability platform for tracing, evaluation, and monitoring. Use when debugging LLM applications, evaluating model outputs against datasets, monitoring production systems, or building systematic testing pipelines for AI applications.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Observability, LangSmith, Tracing, Evaluation, Monitoring, Debugging, Testing, LLM Ops, Production]
 dependencies: [langsmith>=0.2.0]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # LangSmith - LLM Observability Platform
 

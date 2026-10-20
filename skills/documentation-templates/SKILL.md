@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: documentation-templates
 description: Documentation templates and structure guidelines. README, API docs, code comments, and AI-friendly documentation.
 allowed-tools: Read, Glob, Grep
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Documentation Templates
 

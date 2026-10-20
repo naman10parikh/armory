@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: etetoolkit
 description: "Phylogenetic tree toolkit (ETE). Tree manipulation (Newick/NHX), evolutionary event detection, orthology/paralogy, NCBI taxonomy, visualization (PDF/SVG), for phylogenomics."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # ETE Toolkit Skill
 

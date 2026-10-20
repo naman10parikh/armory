@@ -1,5 +1,5 @@
-# source: davila7/claude-code-templates · MIT · vendored by Armory
 #!/bin/bash
+# source: davila7/claude-code-templates · MIT · vendored by Armory
 # plan-gate.sh — Warning if implementing code without an approved spec
 # Source: pm-workspace (https://github.com/gonzalezpazmonica/pm-workspace)
 # License: MIT

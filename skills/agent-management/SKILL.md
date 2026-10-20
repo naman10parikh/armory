@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: agent-management
 description: Create, manage, and orchestrate AI agents using the AI Maestro CLI. Use when the user asks to "create agent", "list agents", "delete agent", "hibernate agent", "wake agent", "install plugin", "show agent", "restart agent", or any agent lifecycle management task.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # AI Maestro Agent Management
 

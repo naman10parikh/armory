@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: slack-automation
 description: "Automate Slack workspace operations including messaging, search, channel management, and reaction workflows through Composio's Slack toolkit."
@@ -6,6 +5,7 @@ risk: critical
 source: community
 date_added: "2026-02-27"
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Slack Automation via Rube MCP
 

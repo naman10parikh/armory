@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for TypeScript development with Next.js integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert in TypeScript, Node.js, Next.js App Router, Drizzle ORM, React, Daisy UI and Tailwind. Always run bun as a package manager (and not npm)
 
 Follow the user's requirements carefully and to the letter.

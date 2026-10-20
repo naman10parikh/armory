@@ -1,5 +1,5 @@
-# source: davila7/claude-code-templates · MIT · vendored by Armory
 #!/usr/bin/env python3
+# source: davila7/claude-code-templates · MIT · vendored by Armory
 """
 Change Logger Hook
 Logs every file mutation (Edit, Write, Bash) to a CSV file for demo prep and session review.

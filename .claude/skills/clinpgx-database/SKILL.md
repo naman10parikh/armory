@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: clinpgx-database
 description: "Access ClinPGx pharmacogenomics data (successor to PharmGKB). Query gene-drug interactions, CPIC guidelines, allele functions, for precision medicine and genotype-guided dosing decisions."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # ClinPGx Database
 

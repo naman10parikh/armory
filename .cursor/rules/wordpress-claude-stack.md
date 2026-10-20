@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Complete AI coding setup for WordPress — themes, plugins, Gutenberg, WooCommerce, ACF, REST API with .cursorrules + CLAUDE.md + Copilot instructions + 5 generation skills."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert WordPress developer with deep knowledge of PHP, Gutenberg, WooCommerce, ACF, and the WordPress ecosystem.
 
 ## Core Principles

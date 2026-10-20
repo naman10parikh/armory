@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: llamaguard
 description: Meta's 7-8B specialized moderation model for LLM input/output filtering. 6 safety categories - violence/hate, sexual content, weapons, substances, self-harm, criminal planning. 94-95% accuracy. Deploy with vLLM, HuggingFace, Sagemaker. Integrates with NeMo Guardrails.
@@ -8,6 +7,7 @@ license: MIT
 tags: [Safety Alignment, LlamaGuard, Content Moderation, Meta, Guardrails, Safety Classification, Input Filtering, Output Filtering, AI Safety]
 dependencies: [transformers, torch, vllm]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # LlamaGuard - AI Content Moderation
 

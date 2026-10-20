@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: rust-mcp-expert
 description: Expert assistant for Rust MCP server development using the rmcp SDK with tokio async runtime
 tools: Read, Bash, Grep, Glob, Edit, Write
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Rust MCP Expert
 

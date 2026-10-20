@@ -1,10 +1,10 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: hlbpa
 description: Your perfect AI chat mode for high-level architectural documentation and review. Perfect for targeted updates after a story or researching that legacy system when nobody remembers what it's supposed to be doing.
 tools: search/codebase, changes, edit/editFiles, fetch, findTestFiles, githubRepo, runCommands, runTests, search, search/searchResults, testFailure, usages, activePullRequest, copilotCodingAgent
 model: claude-sonnet-4
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # High-Level Big Picture Architect (HLBPA)
 

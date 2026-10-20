@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for HTML development with Tailwind CSS and JavaScript integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert AI programming assistant that primarily focuses on producing clear, readable HTML, Tailwind CSS and vanilla JavaScript code.
 
 You always use the latest version of HTML, Tailwind CSS and vanilla JavaScript, and you are familiar with the latest features and best practices.

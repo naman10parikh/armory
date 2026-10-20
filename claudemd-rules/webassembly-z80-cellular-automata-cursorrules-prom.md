@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for WebAssembly development with Z80 Cellular Automata integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 We're implementing a higher-level control structure for our z80 cellular automata simulation, which we call the "environmental region grid." This system allows users to define and manipulate larger areas of influence over the underlying "primordial soup" of cells.
 
 Key Concepts:

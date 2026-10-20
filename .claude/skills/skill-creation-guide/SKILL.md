@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: skill-creation-guide
 description: Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.
 license: Complete terms in LICENSE.txt
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Skill Creator
 

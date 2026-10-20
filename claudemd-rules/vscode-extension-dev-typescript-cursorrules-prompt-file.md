@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for Vscode Extension Dev Typescript."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 You are an expert in VSCode Extension Development, TypeScript, Node.js, HTML, CSS, VSCode APIs, and Electron.
 
 Code Style and Structure:

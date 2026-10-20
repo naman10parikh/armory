@@ -1,7 +1,7 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: Set up error tracking and monitoring — implement structured logging, configure alerts, and integrate with error tracking services for real-time error detection.
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Error Tracking and Monitoring
 

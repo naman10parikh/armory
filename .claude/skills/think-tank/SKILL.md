@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: think-tank
 description: Run a Virtual Think Tank — a structured multi-persona debate — before planning or making architectural/design/strategic decisions. Use this skill whenever the user is about to plan a system, make a technology choice, evaluate trade-offs, decide on an approach, or faces any decision where multiple perspectives would sharpen the outcome. Also trigger when the user says "think tank", "debate this", "perspectives on", "trade-offs", "should I use X or Y", "help me decide", "before we plan", or asks for pros/cons of competing approaches. This skill should run BEFORE any implementation planning begins — it produces a structured analysis that feeds into better plans.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Virtual Think Tank
 

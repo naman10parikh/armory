@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Write, Edit, Bash
 argument-hint: [scope] | --github | --linear | --webhooks | --performance | --report
 description: Monitor and diagnose GitHub-Linear sync health with performance analytics and automated troubleshooting
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Sync Health Monitor
 

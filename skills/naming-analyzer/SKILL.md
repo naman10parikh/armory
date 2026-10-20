@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: naming-analyzer
 description: Suggest better variable, function, and class names based on context and conventions.
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Naming Analyzer Skill
 

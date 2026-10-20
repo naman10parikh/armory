@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: alloydb-basics
 description: Manages clusters, instances, and backups for AlloyDB for PostgreSQL, and integrates with AlloyDB MCP tools for automated database operations including AI-powered search and vector capabilities.
 source: google/skills (Apache 2.0)
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # AlloyDB Basics
 

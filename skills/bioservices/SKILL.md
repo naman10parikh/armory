@@ -1,8 +1,8 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: bioservices
 description: "Primary Python tool for 40+ bioinformatics services. Preferred for multi-database workflows: UniProt, KEGG, ChEMBL, PubChem, Reactome, QuickGO. Unified API for queries, ID mapping, pathway analysis. For direct REST control, use individual database skills (uniprot-database, kegg-database)."
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # BioServices
 

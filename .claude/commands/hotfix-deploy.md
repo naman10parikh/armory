@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 allowed-tools: Read, Edit, Bash
 argument-hint: [hotfix-type] | --security | --critical | --rollback-ready | --emergency
 description: Deploy critical hotfixes with emergency procedures, validation, and rollback capabilities
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Emergency Hotfix Deployment
 

@@ -1,10 +1,10 @@
-<!-- source: wshobson/agents · MIT · vendored by Armory -->
 ---
 description: >-
   Quick gallery search. Use when user runs /meigen-ai-design:find with keywords
   to browse inspiration.
 argument-hint: <keywords>
 ---
+<!-- source: wshobson/agents · MIT · vendored by Armory -->
 
 # Quick Find
 

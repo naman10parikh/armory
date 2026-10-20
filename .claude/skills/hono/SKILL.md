@@ -1,4 +1,3 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: hono
 description: "Build ultra-fast web APIs and full-stack apps with Hono — runs on Cloudflare Workers, Deno, Bun, Node.js, and any WinterCG-compatible runtime."
@@ -10,6 +9,7 @@ author: suhaibjanjua
 tags: [hono, edge, cloudflare-workers, bun, deno, api, typescript, web-standards]
 tools: [claude, cursor, gemini]
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Hono Web Framework
 

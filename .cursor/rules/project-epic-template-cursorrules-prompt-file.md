@@ -1,9 +1,9 @@
-<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 ---
 description: "Cursor rules for project development with epic template integration."
 globs: **/*
 alwaysApply: false
 ---
+<!-- source: PatrickJS/awesome-cursorrules · MIT · vendored by Armory -->
 // Project Epic Template - .cursorrules prompt file
 // Specialized prompt for creating comprehensive project epics and user stories
 // that align with agile methodologies and provide clear direction for development teams.

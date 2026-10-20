@@ -1,9 +1,9 @@
-<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 ---
 name: red-team-tactics
 description: Red team tactics principles based on MITRE ATT&CK. Attack phases, detection evasion, reporting.
 allowed-tools: Read, Glob, Grep
 ---
+<!-- source: davila7/claude-code-templates · MIT · vendored by Armory -->
 
 # Red Team Tactics
 
