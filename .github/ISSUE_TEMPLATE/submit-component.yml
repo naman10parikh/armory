@@ -1,0 +1,47 @@
+name: "⚔️ Submit a component"
+description: Suggest an MCP, skill, hook, sub-agent, rule, CLI, eval, or other harness component for the Armory.
+title: "[component] <name>"
+labels: [component-submission]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Component name
+      placeholder: playwright-mcp
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options: [mcps, skills, hooks, subagents, identity, memory, claudemd-rules, clis-tools, evals, observability, infrastructure, workflows]
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source URL (the real repo or page)
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: input
+    id: when
+    attributes:
+      label: When would an agent reach for this? (one sentence)
+      description: The routing hint, WHEN to use it.
+    validations:
+      required: true
+  - type: dropdown
+    id: harnesses
+    attributes:
+      label: Which coding harnesses does it work in?
+      multiple: true
+      options: [claude, codex, cursor, gemini, opencode, Other]
+  - type: textarea
+    id: else
+    attributes:
+      label: Anything else
+      description: License, install command, related components.
+  - type: markdown
+    attributes:
+      value: "Prefer to add it directly? Open a PR with the component file, see [CONTRIBUTING.md](../../CONTRIBUTING.md). Or let an agent do it: `armory submit --file <path>`."
