@@ -1,0 +1,53 @@
+# armory's gitleaks baseline: every upstream rule, plus narrow allowlists for vendored third-party text.
+#
+# Armory vendors thousands of third-party skills, commands, agents and catalogue entries. Gitleaks flags example
+# values in a few of them. Each finding was read on 20 October 2026, with its value redacted; none is a credential:
+#   - curl examples that send "Authorization: Bearer <example>" to api.example.com or localhost;
+#   - placeholders in docs (API_KEY=..., "token": "...", a reset-link token, a DeepSpeed experiment_key) and the
+#     "never do this" key in a code-review checklist;
+#   - Figma file keys (the ID in a Figma file's URL) in the Figma skill;
+#   - sample JWTs in a security-training skill, and "LinkedIn: <word>" prose in another;
+#   - the tunedforai-x402 MCP's own description, which the catalogue repeats.
+# Each entry names its rule and its files wherever they sit in the history (components/, workflows/, subagents/,
+# mcp/ and .claude/ were earlier homes of the same files). Any other rule, or these rules in any other file, still
+# fails.
+
+[extend]
+useDefault = true
+
+[[allowlists]]
+description = "curl examples against api.example.com and localhost in vendored doc commands"
+targetRules = ["curl-auth-header"]
+paths = [
+  '''(^|/)doc-generate(-[23])?\.md$''',
+  '''(^|/)nextjs-api-tester\.md$''',
+  '''(^|/)api-documentation-generator/SKILL\.md$''',
+]
+
+[[allowlists]]
+description = "placeholders and Figma file keys in vendored skills and agents"
+targetRules = ["generic-api-key"]
+paths = [
+  '''(^|/)se-gitops-ci-specialist\.md$''',
+  '''(^|/)api-documentation-generator/SKILL\.md$''',
+  '''(^|/)broken-authentication/SKILL\.md$''',
+  '''(^|/)code-review-checklist/SKILL\.md$''',
+  '''(^|/)distributed-training-deepspeed/SKILL\.md$''',
+  '''(^|/)figma-implement-design/SKILL\.md$''',
+]
+
+[[allowlists]]
+description = "sample JWTs in the vendored security-training skill"
+targetRules = ["jwt"]
+paths = ['''(^|/)broken-authentication/SKILL\.md$''']
+
+[[allowlists]]
+description = "prose, not a client ID, in the vendored ethical-hacking skill"
+targetRules = ["linkedin-client-id"]
+paths = ['''(^|/)ethical-hacking-methodology/SKILL\.md$''']
+
+[[allowlists]]
+description = "the tunedforai-x402 MCP's own description, wherever the catalogue repeats it"
+targetRules = ["generic-api-key"]
+regexTarget = "line"
+regexes = ['''tokens\. 9 tools: ''']
