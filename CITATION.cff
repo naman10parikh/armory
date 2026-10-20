@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "Armory: Where agents gear up: 60,000+ open-source agent components, ranked on public evidence."
+type: software
+authors:
+  - family-names: Parikh
+    given-names: Naman
+repository-code: "https://github.com/naman10parikh/armory"
+license: MIT
+version: "0.1.0"
+abstract: "Where agents gear up: 60,000+ open-source agent components, ranked on public evidence."
+keywords: ["agent-native", "registry", "mcp-servers", "package-manager"]
