@@ -23,3 +23,6 @@ brain/crawl-feed-plan.json
 # The engine and gzipped catalog each package carries, written at pack time (scripts/vendor-for-pack.mjs).
 /cli/vendor/
 /armory-mcp/vendor/
+
+# The CLI run log inside a clone (cli/src/runlog.ts): runtime state, never committed.
+logs/

@@ -9,6 +9,9 @@ import { engineUrl, loadCatalog, readComponentBody, type Component } from "./cat
 import { validateAndCopy, type SubmitResult } from "./submit.js";
 import { installedSomething, runInstall, type InstallReport } from "./install.js";
 import { harnessFromFlags, runInit } from "./init.js";
+import { searchMemory } from "./memory.js";
+import { readRuns, recordRun, runsLogPath } from "./runlog.js";
+import { sandboxVet } from "./sandbox.js";
 
 const program = new Command();
 
@@ -150,17 +153,23 @@ program
   .option("-f, --force", "overwrite existing files / MCP entries", false)
   .option("--dry-run", "print the install plan without writing anything", false)
   .action((name: string, opts: { cli?: string; to?: string; force: boolean; dryRun: boolean }) => {
+    const start = Date.now();
+    const log = (outcome: "ok" | "error", note: string): void => {
+      if (!opts.dryRun) recordRun({ ts: new Date().toISOString(), command: "install", args: [name, ...(opts.cli ? ["--cli", opts.cli] : [])], durationMs: Date.now() - start, outcome, ...(outcome === "error" ? { error: note } : { note }) });
+    };
     let report: InstallReport;
     try {
       report = runInstall(name, opts);
     } catch (err) {
       console.error(chalk.red(`install failed: ${(err as Error).message}`));
+      log("error", (err as Error).message);
       process.exitCode = 1;
       return;
     }
     printInstallReport(report, opts.dryRun);
     // Nothing placed means the install did not happen: say so in the exit code too, so an agent can tell.
     if (!installedSomething(report)) process.exitCode = 1;
+    log(installedSomething(report) ? "ok" : "error", `${report.component.name} → ${report.cli}`);
   });
 
 function printInstallReport(report: InstallReport, dryRun: boolean): void {
@@ -223,20 +232,26 @@ program
   .description("Validate a component file's frontmatter and copy it into incoming/.")
   .requiredOption("-f, --file <path>", "path to the component markdown file")
   .action((opts: { file: string }) => {
+    const start = Date.now();
+    const log = (outcome: "ok" | "error", detail: string): void =>
+      recordRun({ ts: new Date().toISOString(), command: "submit", args: [basename(opts.file)], durationMs: Date.now() - start, outcome, ...(outcome === "error" ? { error: detail } : { note: detail }) });
     let result: SubmitResult;
     try {
       result = validateAndCopy(opts.file);
     } catch (err) {
       console.error(chalk.red(`Submit failed: ${(err as Error).message}`));
+      log("error", (err as Error).message);
       process.exitCode = 1;
       return;
     }
     if (!result.ok) {
       console.error(chalk.red(`Validation failed for ${basename(opts.file)}:`));
       for (const e of result.errors) console.error(chalk.red(`  - ${e}`));
+      log("error", result.errors.join("; "));
       process.exitCode = 1;
       return;
     }
+    log("ok", `${result.name} → ${result.dest}`);
     console.log(chalk.green(`Submitted "${result.name}" → ${result.dest}`));
     console.log(chalk.dim("It will be promoted to components/ after a quick verify."));
   });
@@ -313,6 +328,65 @@ program
       if (i.url) console.log(`      ${chalk.blue(i.url)}`);
     }
     console.log("");
+  });
+
+program
+  .command("memory-search")
+  .description("Search Armory's own memory (MEMORY.md, SOUL.md, the operating docs, docs/) with BM25.")
+  .argument("<query>", "what to recall")
+  .option("-n, --limit <n>", "max results", "5")
+  .option("--json", "emit JSON (for agents)", false)
+  .action((query: string, opts: { limit: string; json: boolean }) => {
+    const hits = searchMemory(query, undefined, Number(opts.limit) || 5);
+    if (opts.json) { console.log(JSON.stringify(hits, null, 2)); return; }
+    if (hits.length === 0) { console.log(chalk.yellow(`No memory matches "${query}".`)); return; }
+    for (const h of hits) {
+      console.log(`${chalk.green(h.file)}${h.heading ? chalk.dim(` · ${h.heading}`) : ""} ${chalk.dim(`(${h.score.toFixed(1)})`)}`);
+      for (const line of h.context) console.log(`    ${chalk.dim(line.slice(0, 110))}`);
+    }
+  });
+
+program
+  .command("runs")
+  .description("Show the audit trail of state-changing runs (install, submit, sandbox-run).")
+  .option("-n, --limit <n>", "how many recent runs", "20")
+  .option("--json", "emit JSON (for agents)", false)
+  .action((opts: { limit: string; json: boolean }) => {
+    const runs = readRuns(Number(opts.limit) || 20);
+    if (opts.json) { console.log(JSON.stringify(runs, null, 2)); return; }
+    console.log(chalk.dim(`${runs.length} run(s) in ${runsLogPath()}`));
+    for (const r of runs) {
+      const mark = r.outcome === "ok" ? chalk.green("ok   ") : chalk.red("error");
+      console.log(`${chalk.dim(r.ts)} ${mark} ${r.command} ${r.args.join(" ")} ${chalk.dim(`${r.durationMs}ms`)} ${chalk.dim(r.note ?? r.error ?? "")}`);
+    }
+  });
+
+program
+  .command("sandbox-run")
+  .description("Vet a component inside an isolated E2B sandbox before you install it (needs E2B_API_KEY).")
+  .argument("<name>", "component name")
+  .option("--json", "emit JSON (for agents)", false)
+  .action(async (name: string, opts: { json: boolean }) => {
+    const start = Date.now();
+    const component = findByName(name);
+    if (!component) {
+      console.error(chalk.red(`No component named "${name}". Try: armory search "${name}"`));
+      process.exitCode = 1;
+      return;
+    }
+    try {
+      const report = await sandboxVet(component);
+      recordRun({ ts: new Date().toISOString(), command: "sandbox-run", args: [name], durationMs: Date.now() - start, outcome: "ok", note: `${report.verdict} (sandbox ${report.sandboxId})` });
+      if (opts.json) { console.log(JSON.stringify(report, null, 2)); return; }
+      console.log(`${chalk.bold(report.component)} ${chalk.dim(report.repo)}`);
+      console.log(`  files ${report.files} · manifests ${report.manifests.join(", ") || "none"} · tests ${report.hasTests ? "yes" : "no"}`);
+      console.log(`  install-time scripts: ${report.installScripts.join(", ") || "none"}`);
+      console.log(`  ${report.installScripts.length ? chalk.yellow(report.verdict) : chalk.green(report.verdict)}`);
+    } catch (err) {
+      recordRun({ ts: new Date().toISOString(), command: "sandbox-run", args: [name], durationMs: Date.now() - start, outcome: "error", error: (err as Error).message });
+      console.error(chalk.red(`sandbox-run failed: ${(err as Error).message}`));
+      process.exitCode = 1;
+    }
   });
 
 program.parseAsync(process.argv).catch((err: unknown) => {

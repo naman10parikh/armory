@@ -16,6 +16,9 @@ armory install github-mcp --dry-run         # show what would be written, write 
 armory init --claude                        # wire the Armory MCP server into this harness
 armory list                                 # what the catalog holds, by type
 armory submit --file ./my-component.md      # propose a component
+armory sandbox-run github-mcp               # vet its source inside an E2B sandbox (needs E2B_API_KEY)
+armory memory-search "test-gate"            # search Armory's own memory files (BM25)
+armory runs                                 # the audit trail of install, submit and sandbox-run
 ```
 
 `--cli` takes `claude`, `cursor`, `codex`, `opencode` or `gemini`. Without it, the harness is detected
