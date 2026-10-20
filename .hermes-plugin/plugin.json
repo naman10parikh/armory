@@ -4,7 +4,7 @@
   "description": "Armory — aggregator-of-aggregators registry for Hermes. Bundles the Armory MCP server (search + install across 60,000+ components) and 2,546 vendored skills, commands, hooks, and agents.",
   "author": {
     "name": "Naman Parikh",
-    "email": "naman10parikh@gmail.com",
+    "url": "https://github.com/naman10parikh",
     "url": "https://x.com/naman10parikh"
   },
   "homepage": "https://armory-murex.vercel.app",

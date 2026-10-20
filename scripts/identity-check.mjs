@@ -9,8 +9,10 @@
 //   node scripts/identity-check.mjs --ensure-inbox  # also create the armory@ inbox when missing
 //
 import { readFileSync, existsSync } from "node:fs";
+import { homedir } from "node:os";
+import { join } from "node:path";
 
-const SOURCES = ["/Users/naman/energy/.env", "/Users/naman/energy/.env.restore", "/Users/naman/sentinel/.env"];
+const SOURCES = ["energy/.env", "energy/.env.restore", "sentinel/.env"].map((p) => join(homedir(), p));
 const env = {};
 for (const f of SOURCES) {
   if (!existsSync(f)) continue;

@@ -587,7 +587,7 @@ Three amendments, in dependency order:
 
 ## 5. The implemented change (T23)
 
-**File:** `/Users/naman/armory/lib/rank.mjs` — one weight plus its comment. Nothing else touched.
+**File:** `lib/rank.mjs` — one weight plus its comment. Nothing else touched.
 
 ```diff
 -// signal → weight in the Universal blend (a measured test counts most, then community, then raw stars)
@@ -703,14 +703,14 @@ thumb.** Do that next, together with the H2 max-plus-bonus rewrite, before addin
 
 | Path | Role |
 |---|---|
-| `/Users/naman/armory/lib/rank.mjs` | the engine — **the one change in this audit** |
-| `/Users/naman/armory/web/src/app/formula/page.tsx` | the public explanation; §03's "evidence beats popularity" is contradicted by H2 |
-| `/Users/naman/armory/docs/DATA-SCHEMA.md` | claims "percentile within its own kind" — see H11 |
-| `/Users/naman/armory/ingest/catalog.mjs` | `FIELDS` map — a signal missing here is deleted nightly (rule §4.5) |
-| `/Users/naman/armory/scripts/backfill-stars.mjs` | extend its GraphQL field list for §3.1 — no new requests |
-| `/Users/naman/armory/scripts/fix-inherited-stars.mjs` | correctly un-inherited sub-file stars; H5 is the missing follow-through |
-| `/Users/naman/armory/scripts/persist-signals-to-brain.mjs` | second required edit for any new signal (rule §4.5) |
-| `/Users/naman/armory/catalog.json` | 64,638 components, the audited snapshot |
+| `lib/rank.mjs` | the engine — **the one change in this audit** |
+| `web/src/app/formula/page.tsx` | the public explanation; §03's "evidence beats popularity" is contradicted by H2 |
+| `docs/DATA-SCHEMA.md` | claims "percentile within its own kind" — see H11 |
+| `ingest/catalog.mjs` | `FIELDS` map — a signal missing here is deleted nightly (rule §4.5) |
+| `scripts/backfill-stars.mjs` | extend its GraphQL field list for §3.1 — no new requests |
+| `scripts/fix-inherited-stars.mjs` | correctly un-inherited sub-file stars; H5 is the missing follow-through |
+| `scripts/persist-signals-to-brain.mjs` | second required edit for any new signal (rule §4.5) |
+| `catalog.json` | 64,638 components, the audited snapshot |
 
 ---
 
@@ -925,7 +925,7 @@ pushed_at, stale, desc`.
 ### The full backfill (for the main loop to schedule)
 
 ```bash
-cd /Users/naman/armory
+cd armory
 node scripts/backfill-stars.mjs --refresh --apply          # ~55,106 repos ÷ 100 = ~552 GraphQL
                                                             # points against 5,000/hr — one run
 node scripts/persist-signals-to-brain.mjs --apply           # MANDATORY, or the next rebuild deletes it

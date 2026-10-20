@@ -1,6 +1,6 @@
 # Armory UI pass, 26 September 2026 (CP143)
 
-Branch `cp143-ui` in the `/Users/naman/armory-ui` worktree.
+Branch `cp143-ui` in the `armory-ui` worktree.
 
 Every check below ran against a production build (`pnpm build` in `web/`, then `pnpm start -p 7312`) on the
 catalog vendored at build time (65,580 rows, 29,623 with a score). The server was stopped after each run.

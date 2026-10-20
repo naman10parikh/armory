@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # push-vercel-env.sh — copy the identity/chat secrets Armory needs into its Vercel project.
 #
-# The chairman runs this ONCE (from a Claude Code prompt: `! bash /Users/naman/armory/scripts/push-vercel-env.sh`).
+# The chairman runs this ONCE (from a Claude Code prompt: `! bash ~/armory/scripts/push-vercel-env.sh`).
 # Claude never types secrets by design; this script reads them from the chairman's own .env files and
 # pipes them straight into `vercel env add` — values are never echoed, only the variable NAMES.
 #
@@ -20,7 +20,7 @@
 set -u
 cd "$(dirname "$0")/../web" || exit 1
 
-SRC=(/Users/naman/sentinel/.env /Users/naman/energy/.env /Users/naman/energy/.env.restore)
+SRC=("$HOME/sentinel/.env" "$HOME/energy/.env" "$HOME/energy/.env.restore")
 NAMES=(GEMINI_API_KEY AGENTMAIL_API_KEY AGENTMAIL_WEBHOOK_SECRET ARMORY_EMAIL TWILIO_ACCOUNT_SID TWILIO_AUTH_TOKEN TWILIO_PHONE_NUMBER TWILIO_WHATSAPP_NUMBER BEZALEL_TOKEN)
 
 lookup() { # print the value of $1 from the first source file that defines it (never echoed to terminal)
