@@ -6,10 +6,17 @@
   "license": "MIT",
   "packageManager": "pnpm@9.0.0",
   "engines": { "node": ">=18" },
+  "bin": { "armory": "cli/dist/index.js", "armory-mcp": "armory-mcp/dist/index.js" },
+  "files": ["cli/dist/", "armory-mcp/dist/", "lib/", "catalog.json.gz", "README.md", "LICENSE", "AGENTS.md", "SOUL.md", "BRAND.md", "MEMORY.md", "HEARTBEAT.md", "LEARNINGS.md", "HARNESS.md"],
   "scripts": {
     "catalog": "node ingest/catalog.mjs",
     "validate": "node ingest/validate.mjs",
-    "build": "pnpm catalog && pnpm -r build"
+    "build": "pnpm catalog && pnpm -r build",
+    "prepare": "node scripts/prepare-npx.mjs",
+    "test": "node --test ingest/test-pyramid.test.mjs ingest/integration.test.mjs ingest/tested.test.mjs ingest/shelf.test.mjs ingest/credit.test.mjs scripts/lint-catalog.test.mjs",
+    "eval": "node ingest/validate.mjs && node ingest/test-gate.mjs && node scripts/lint-catalog.mjs"
   },
-  "keywords": ["ai", "agents", "claude", "mcp", "skills", "hooks", "harness", "registry", "agent-native"]
+  "keywords": ["ai", "agents", "claude", "mcp", "skills", "hooks", "harness", "registry", "agent-native"],
+  "dependencies": { "@modelcontextprotocol/sdk": "^1.29.0", "chalk": "^5.3.0", "commander": "^12.1.0", "zod": "^3.25.0" },
+  "devDependencies": { "@types/node": "^22.0.0", "typescript": "^5.5.0" }
 }

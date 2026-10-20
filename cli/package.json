@@ -44,6 +44,9 @@
     "chalk": "^5.3.0",
     "commander": "^12.1.0"
   },
+  "optionalDependencies": {
+    "e2b": "^2.28.0"
+  },
   "devDependencies": {
     "@types/node": "^22.0.0",
     "typescript": "^5.5.0",
