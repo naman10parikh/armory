@@ -171,4 +171,6 @@ jobs:
           echo "- $(date -u +%Y-%m-%dT%H:%MZ) — autolab refresh: catalog now ${TOTAL} components (gate: PASS)" >> AUTOLAB-LOG.md
           git add -A
           git commit -m "chore(autolab): nightly self-improve refresh → ${TOTAL} components [skip ci]"
+          # A push to main during the run (it takes about 12 minutes) would reject this one; replay on top of it.
+          git pull --rebase origin main
           git push
