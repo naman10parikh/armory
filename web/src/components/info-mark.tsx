@@ -1,5 +1,5 @@
 /*
-  The info mark (CP147, after the text rules of the chairman's Synoptic prompts). An explanation a
+  The info mark. An explanation a
   reader asks for once (how a number is made, where it comes from, a caveat) sits one hover, focus or
   tap away from the thing it explains, never in the reading path. The fact stays on the screen; only
   the why moves in here, so nothing is lost.

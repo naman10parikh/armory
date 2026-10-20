@@ -5,7 +5,7 @@ import type { Config } from "tailwindcss";
   an OKLCH custom property in src/app/globals.css. One source of truth for the
   palette, so light mode is a token swap and nothing in src/ names a literal.
 
-  Type (CP143, after Synoptic's S09 §4): Instrument Sans for everything, figures
+  Type: Instrument Sans for everything, figures
   included; JetBrains Mono for install commands and the code they write, nothing
   else; Instrument Serif for the wordmark ONLY.
 */

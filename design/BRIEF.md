@@ -56,10 +56,10 @@ beautifully and cannot be acted on in the row has optimised the wrong step.
 | **Open** | Source, licence, formula, CSV visible on the surface | Open-source trust is shown by receipts, not claimed by adjectives |
 | **Unceremonious** | No hero, no reveal, no ta-da. It opens with data | A reference tool earns the tab by starting useful |
 
-**Not Synoptic.** Synoptic is quiet, centred, drawing-first — an owner's representative presenting
+**Not a progress report.** A progress report is quiet, centred, drawing-first — an owner's representative presenting
 evidence of progress to a supervisor who must *judge* it. Armory is a **parts counter**: the reader
-already knows what they want and is being *served*, fast. Synoptic centres; Armory tabulates.
-Synoptic is patient; Armory is transactional. Shared parent (warm black, one amber) — opposite posture.
+already knows what they want and is being *served*, fast. A report centres; Armory tabulates.
+A report is patient; Armory is transactional. Shared parent (warm black, one amber) — opposite posture.
 
 ---
 

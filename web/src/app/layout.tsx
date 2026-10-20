@@ -4,7 +4,7 @@ import { SiteNav } from "@/components/site-nav";
 import { SiteFooter } from "@/components/site-footer";
 import "./globals.css";
 
-// Type, CP143 (the chairman's recorded default, after Synoptic's S09 §4):
+// Type, the owner's recorded default:
 //   Instrument Sans: everything, figures included (tabular numerals, set on <body>)
 //   Instrument Serif: the wordmark only
 //   JetBrains Mono: install commands (and the code they write) only
