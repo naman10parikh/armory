@@ -1,12 +1,12 @@
 {
   "dsip": "0.1",
   "product": "armory",
-  "description": "Armory's Darwin Self-Improvement Protocol contract. Declares how the registry gets better over time so any harness/auditor (incl. Darwin) can verify it. Application-side self-improvement only.",
+  "description": "Armory's Darwin Self-Improvement Protocol contract. Declares how the registry gets better over time so any harness/auditor (incl. Darwin) can verify it. Application-side self-improvement only. ship = the gated commit to main; snapback granularity skill = one component, employee = the whole catalog.",
   "levels": ["agent", "fleet"],
   "loop": {
     "cadence": "nightly",
     "runner": "claude -p (.github/workflows/autolab.yml) + deterministic crawlers",
-    "steps": ["discover", "score", "crawl", "test-gate", "promote", "catalog", "validate", "commit", "archive"]
+    "steps": ["discover", "score", "crawl", "test-gate", "promote", "catalog", "validate", "ship", "archive"]
   },
   "selection": "performance-novelty",
   "eval": {
@@ -14,7 +14,7 @@
     "gate": "functional-pass && behavioral-drift<=2% && no-regression",
     "noSelfGrading": true
   },
-  "snapback": { "granularity": ["component", "catalog"], "vcs": "git" },
+  "snapback": { "granularity": ["skill", "employee"], "vcs": "git" },
   "externalIntelligence": { "enabled": true, "source": "claude -p nightly research (discovers new sources)" },
   "relatedHarnesses": { "openEndedness": "github.com/naman10parikh/darwin (DSIP origin)", "earning": "helios", "improvementSubstrate": "AutoLab" }
 }

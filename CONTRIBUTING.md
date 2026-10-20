@@ -1,6 +1,6 @@
-# Contributing to Component
+# Contributing to Armory
 
-Component is a **registry**: a knowledge graph of agent-harness components. Adding one is adding a single markdown file — an *component* — under `brain/components/<type>/<slug>.md`. Humans open a PR; agents call `component submit`. Both land in `incoming/` for a quick verify, then promote to `components/`.
+Armory is a **registry**: a knowledge graph of agent-harness components. Adding one is adding a single markdown file — a *component* — under `brain/components/<type>/<slug>.md`. Humans open a PR; agents call `armory submit`. Both land in `incoming/` for a quick verify, then promote to `components/`.
 
 ## The component file (the contract everything parses)
 
@@ -52,4 +52,4 @@ Gotchas, auth requirements, alternatives. Keep it tight (Simplicity First).
 ## Submit
 
 - **PR:** add the file, open a PR. CI validates frontmatter + recomputes `catalog.json`.
-- **Agent:** `component submit --file path/to/component.md` (drops into `incoming/`).
+- **Agent:** `armory submit --file path/to/component.md` (drops into `incoming/`).

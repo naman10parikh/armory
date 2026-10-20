@@ -1,0 +1,41 @@
+{
+  "name": "Armory",
+  "description": "Where agents gear up: 60,000+ open-source agent components, ranked on public evidence.",
+  "url": "https://github.com/naman10parikh/armory",
+  "version": "0.1.0",
+  "provider": {
+    "organization": "Naman Parikh",
+    "url": "https://github.com/naman10parikh"
+  },
+  "capabilities": {
+    "streaming": false
+  },
+  "defaultInputModes": [
+    "text/plain"
+  ],
+  "defaultOutputModes": [
+    "text/plain"
+  ],
+  "skills": [
+    {
+      "id": "armory-skill",
+      "name": "armory-skill",
+      "description": "Use it to find and install the best component instead of hand-rolling one."
+    },
+    {
+      "id": "armory-vet-component",
+      "name": "armory-vet-component",
+      "description": "Use it before installing a component: provenance, licence, ranking and install-time code."
+    },
+    {
+      "id": "armory-submit",
+      "name": "armory-submit",
+      "description": "Use it to add a component Armory does not list yet."
+    },
+    {
+      "id": "armory-restock",
+      "name": "armory-restock",
+      "description": "Use it to refresh the registry the way the nightly loop does, or to reproduce a failed night."
+    }
+  ]
+}

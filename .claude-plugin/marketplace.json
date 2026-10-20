@@ -2,7 +2,7 @@
   "name": "armory",
   "owner": {
     "name": "Naman Parikh",
-    "email": "naman10parikh@gmail.com"
+    "url": "https://github.com/naman10parikh"
   },
   "metadata": {
     "description": "Armory — aggregator-of-aggregators registry of 60,000+ harness components"
@@ -15,7 +15,7 @@
       "version": "0.2.0",
       "author": {
         "name": "Naman Parikh",
-        "email": "naman10parikh@gmail.com"
+        "url": "https://github.com/naman10parikh"
       },
       "homepage": "https://armory-murex.vercel.app",
       "repository": "https://github.com/naman10parikh/armory",

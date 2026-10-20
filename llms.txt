@@ -1,17 +1,40 @@
-# ⚔️ Armory
+# Armory
 
-> Armory is the open-source, ever-evolving registry of every agent-harness component on earth — MCPs, skills, hooks, sub-agents, identity files, memory patterns, rules, CLIs, eval frameworks, observabil
+> Where agents gear up: 60,000+ open-source agent components (MCP servers, skills, hooks, sub-agents, rules, CLIs, evals and more), ranked on public evidence. Search, rank and install them from a CLI (`armory`), an MCP server (`armory-mcp`), skills, a Claude Code plugin or the site. Its keeper is Armiger, and it restocks itself every night.
 
-## Documentation
+Two things live in this repository: Armory's own harness (everything named `armory-*`, plus `cli/` and `armory-mcp/`) and the catalog it aggregates (the 12 category folders, `brain/` and the generated `catalog.json`). Never hand-edit `catalog.json`.
 
-- [README.md](README.md): Armory is the open-source, ever-evolving registry of every agent-harness component on earth — MCPs, skills, hooks, sub-agents, identity file
-- [CONTRIBUTING.md](CONTRIBUTING.md): Component is a registry: a knowledge graph of agent-harness components. Adding one is adding a single markdown file — an component — under b
-- [STRUCTURE.md](STRUCTURE.md): The whole repo in one map. Every root folder is listed here with a one-line purpose, grouped into five zones. Counts grow nightly (AutoLab) 
-- [HARNESS.md](HARNESS.md): Two different things live in this repo. Don't confuse them.
-- [docs/architecture.md](docs/architecture.md)
-- [docs/parallel-dev.md](docs/parallel-dev.md)
+## Start here
 
-## Notes
+- [AGENTS.md](AGENTS.md): what Armory is, every tool and how to call it, the hard rules
+- [README.md](README.md): install from any coding agent, the five zones of the repository, the sources it mirrors
+- [SOUL.md](SOUL.md): Armiger, the agent that keeps the registry: persona, boundaries
+- [HARNESS.md](HARNESS.md): Armory's own harness against the catalog it aggregates
+- [STRUCTURE.md](STRUCTURE.md): every root folder with a one-line purpose
 
-- This file follows the llms.txt convention (https://llmstxt.org) so AI agents can
-  discover this repo's docs without scraping. Generated from the README + key docs.
+## Skills
+
+- [armory](armory-skill/SKILL.md): find and install the best component instead of hand-rolling one
+- [armory-vet-component](skills/armory-vet-component/SKILL.md): check provenance, licence, ranking and install-time code before installing
+- [armory-submit](skills/armory-submit/SKILL.md): add a component Armory does not list yet
+- [armory-restock](skills/armory-restock/SKILL.md): refresh the registry the way the nightly loop does
+
+## MCP tools
+
+- [Armory MCP server](armory-mcp/src/index.ts): search_components, get_component, rank_components, search_catalog, submit_component (run with `npx -y armory-mcp`)
+- [Claude Code plugin](.claude-plugin/plugin.json): the MCP server, the skills, two sub-agents and a session reminder in one install
+- [Plugin guide for every harness](PLUGIN.md): Claude Code, Codex, OpenCode, Gemini CLI and Hermes
+
+## Docs
+
+- [CLI](cli/README.md): `armory search`, `rank`, `get`, `install`, `init`, `submit`, `sandbox-run`, `memory-search`, `runs`
+- [Architecture](docs/architecture.md): how the brain, the catalog, the site, the CLI and the MCP server fit
+- [Contributing](CONTRIBUTING.md): the one-file component contract
+- [Self-improvement contract](dsip.json): the nightly loop, its gate and how a change is rolled back
+- [Nightly receipts](AUTOLAB-LOG.md): one line per restock with the catalog total
+
+## Optional
+
+- [HEARTBEAT.md](HEARTBEAT.md): what runs on a schedule and what happens when it fails
+- [MEMORY.md](MEMORY.md): Armiger's bootstrap memory; [LEARNINGS.md](LEARNINGS.md) holds corrections that became rules
+- [Source watchlist](repos/README.md): the upstream catalogs Armory keeps tabs on

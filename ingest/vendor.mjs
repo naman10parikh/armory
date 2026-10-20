@@ -56,6 +56,15 @@ function resetDir(p) {
   mkdirSync(p, { recursive: true });
 }
 
+// Like resetDir, but keeps Armory's own gear: entries named armory-* (its skills and sub-agents) are not
+// vendored data, so a re-vendor must never delete them (CP158).
+function resetVendoredDir(p) {
+  if (!existsSync(p)) return mkdirSync(p, { recursive: true });
+  for (const name of readdirSync(p)) {
+    if (!name.startsWith("armory-")) rmSync(join(p, name), { recursive: true, force: true });
+  }
+}
+
 function walkFiles(dir, pred, acc = []) {
   if (!existsSync(dir)) return acc;
   for (const e of readdirSync(dir, { withFileTypes: true })) {
@@ -329,7 +338,7 @@ function buildHarnessFolders(destSkills, destAgents, destCommands, destHooks, de
   const clauRules    = join(clauDir, "rules");
 
   if (!DRY_RUN) {
-    for (const d of [clauSkills, clauAgents, clauCommands, clauHooks, clauRules]) resetDir(d);
+    for (const d of [clauSkills, clauAgents, clauCommands, clauHooks, clauRules]) resetVendoredDir(d);
   }
   let copied = 0;
 
@@ -416,7 +425,7 @@ async function main() {
   const destRules    = join(COMP, "claudemd-rules");
 
   if (!DRY_RUN) {
-    for (const d of [destSkills, destAgents, destCommands, destHooks, destRules]) resetDir(d);
+    for (const d of [destSkills, destAgents, destCommands, destHooks, destRules]) resetVendoredDir(d);
   } else {
     // Dry-run: just ensure the dirs exist for counting
     for (const d of [destSkills, destAgents, destCommands, destHooks, destRules]) ensureDir(d);

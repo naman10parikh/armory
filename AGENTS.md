@@ -9,8 +9,42 @@
 
 Armory is the open-source, agent-native **registry of every harness component** — MCPs, skills, hooks,
 sub-agents, identity files, memory patterns, rules, CLIs, eval frameworks, observability, infrastructure, and
-the workflows that compose them (12 categories, ~25,000 components). One armory an agent reaches into to grab
-exactly the gear it needs. _For agents, by agents, of agents._ Live: `armory-murex.vercel.app`.
+the workflows that compose them (12 categories, 60,000+ components). One armory an agent reaches into to grab
+exactly the gear it needs. _For agents, by agents, of agents._ Live: `armory-murex.vercel.app`. Its keeper persona
+is **Armiger** ([`SOUL.md`](./SOUL.md)).
+
+## Its tools, and how to call them
+
+**Command line** (`armory`): `npm i -g @namanparikh/armory`, or `npx -y @namanparikh/armory <command>`, or straight
+from GitHub with `npx -y -p github:naman10parikh/armory armory <command>`. Every command takes `--help`.
+
+| Command | What it does |
+| --- | --- |
+| `search <query>` | Rank components by name, tags and description, with the Universal score (`--json` for agents) |
+| `rank` | Leaderboard by Universal score or another axis, by shelf and domain (`--json`) |
+| `get <name>` | Print a component's full page: source, licence, stars, how to install |
+| `install <name>` | Fetch the real component and wire it into this harness (`--cli claude\|cursor\|codex\|opencode\|gemini`, `--dry-run`) |
+| `init` | Add the Armory MCP server to this harness's MCP config |
+| `submit --file <path>` | Validate a component file and stage it in `incoming/` |
+| `list` | Counts and names, by type |
+| `sandbox-run <name>` | Vet a component's source inside an isolated E2B sandbox (needs `E2B_API_KEY`) |
+| `memory-search <query>` | BM25 over Armory's own memory: `MEMORY.md`, `SOUL.md`, the operating docs |
+| `runs` | The audit trail of install, submit and sandbox-run (`logs/runs.jsonl` in a clone) |
+
+**MCP server** (`armory-mcp`, stdio): `npx -y armory-mcp`. Tools: `search_components`, `get_component`,
+`rank_components`, `search_catalog`, `submit_component`.
+
+**Skills:** [`armory-skill/`](./armory-skill/SKILL.md) (find and install the right component),
+[`armory-vet-component`](./skills/armory-vet-component/SKILL.md) (check one before installing),
+[`armory-submit`](./skills/armory-submit/SKILL.md) (add a missing one),
+[`armory-restock`](./skills/armory-restock/SKILL.md) (refresh the registry the way the nightly loop does).
+
+**Sub-agents:** `.claude/agents/armory-curator.md` (reviews candidates before promotion) and
+`.claude/agents/armory-catalog-auditor.md` (audits the whole catalog). The other `.claude/agents/` files are
+cataloged personas, not Armory's own.
+
+**Hooks:** `.claude/settings.json` blocks hand-edits to `catalog.json` (`scripts/hooks/protect-catalog.mjs`). The
+plugin adds one SessionStart reminder to search before hand-rolling (`scripts/hooks/gear-hint.mjs`).
 
 ## The ONE rule that prevents 90% of mistakes
 
@@ -18,8 +52,8 @@ exactly the gear it needs. _For agents, by agents, of agents._ Live: `armory-mur
 
 | | Armory's OWN harness (install it to use Armory) | The catalog (what Armory aggregates) |
 |---|---|---|
-| Paths | `armory-mcp/` · `armory-skill/` · `cli/` · `.claude-plugin/` etc. | `mcps/ skills/ subagents/ workflows/ hooks/ claudemd-rules/ clis-tools/ evals/ observability/ infrastructure/ memory/ identity/` + `brain/` + `catalog.json` |
-| Count | exactly **one** of each (prefixed `armory-*`) | **~25,000** components from many sources |
+| Paths | `armory-mcp/` · `armory-skill/` · `cli/` · `skills/armory-*` · `.claude/agents/armory-*` · `.claude-plugin/` etc. | `mcps/ skills/ subagents/ workflows/ hooks/ claudemd-rules/ clis-tools/ evals/ observability/ infrastructure/ memory/ identity/` + `brain/` + `catalog.json` |
+| Count | exactly **one** of each (prefixed `armory-*`) | **60,000+** components from many sources |
 | Edit by hand? | yes (it's our code) | **no** — it's generated/aggregated data |
 
 `armory-mcp/` (our one server) ≠ `brain/components/mcps/` (the ~21,000 we catalog). `armory-skill/` (our one
@@ -43,6 +77,8 @@ pnpm install              # Node >=18, pnpm@9 (see package.json)
 pnpm catalog              # regenerate catalog.json from brain/ (ingest/catalog.mjs)
 pnpm validate             # schema + integrity checks (ingest/validate.mjs)
 pnpm build                # pnpm catalog && pnpm -r build (workspaces, incl. web/)
+pnpm test                 # the zero-dependency unit, contract and integration tests (node:test)
+pnpm eval                 # schema validate + the Hamel test-gate + the catalog lint
 node ingest/test-gate.mjs # Hamel functional+behavioral gate a component must pass to enter
 node scripts/lint-catalog.mjs          # one row per repository, labels on their lists, one timestamp
 git config core.hooksPath .githooks    # once per clone: the lint runs before a commit that can change it

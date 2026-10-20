@@ -3,8 +3,8 @@
 > Armory's OWN long-term memory (bootstrap ≤ 2k tokens — critical facts only). Persona →
 > [SOUL.md](./SOUL.md) · brand → [BRAND.md](./BRAND.md) · operations → [AGENTS.md](./AGENTS.md).
 > Not a cataloged `memory/` component — this is the file the agent that keeps the registry
-> actually boots from. Recall anything deeper with `armory search "<query>"` over the catalogue; a memory-search
-> command over THIS file set is written but not yet wired (branch `staged/cli-memory-runlog`).
+> actually boots from. Recall anything deeper with `armory search "<query>"` over the catalogue, and
+> `armory memory-search "<query>"` (BM25 over this file set, `cli/src/memory.ts`) over what we know.
 
 ## What this repo is
 
@@ -29,7 +29,7 @@ Two different things live here — never confuse them:
   agents walk in, gear up, walk out armed. Keeper = Armiger (the arms-bearer).
 - **`catalog.json` is generated, never hand-edited** — `brain/` (Obsidian graph) is the source of
   truth; `pnpm catalog` produces the index. Hard rule #1, now enforced by a PreToolUse hook
-  (`scripts/hooks/protect-catalog.sh`).
+  (`scripts/hooks/protect-catalog.mjs`, wired in `.claude/settings.json`).
 - **Hamel test-gate before entry** (`ingest/test-gate.mjs`) — functional + behavioral; a failing
   candidate is skipped and logged, never landed.
 - **Self-restocking** — `.github/workflows/autolab.yml` nightly: discover (Darwin DSIP
@@ -56,8 +56,10 @@ armory sandbox-run <name>          # vet untrusted component inside E2B (needs E
 
 ## Current state (update when it changes)
 
-- Catalog ≈ 30,400 components (see `AUTOLAB-LOG.md` tail for the live count; gate: PASS).
-- Own skills: `armory-skill/` (use the registry) + `.claude/skills/armory-restock|armory-vet-component|armory-memory-recall`.
+- Catalog ≈ 62,000 components on 2026-10-19 (see `AUTOLAB-LOG.md` tail for the live count; gate: PASS).
+- Own skills: `armory-skill/` (use the registry) + `skills/armory-vet-component`, `skills/armory-submit`,
+  `skills/armory-restock`. Own sub-agents: `.claude/agents/armory-curator.md`, `armory-catalog-auditor.md`.
+- Corrections that became rules: `LEARNINGS.md`. Schedule and recovery: `HEARTBEAT.md`.
 - Hooks live: SessionStart inventory brief + PreToolUse catalog guard (`.claude/settings.json`).
 - Workspaces: `cli/` (tests: `pnpm --filter @namanparikh/armory test`), `armory-mcp/`, `web/`.
 

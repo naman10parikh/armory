@@ -36,5 +36,10 @@
   ],
   "commands": [
     "./workflows/"
-  ]
+  ],
+  "agents": [
+    "./.claude/agents/armory-curator.md",
+    "./.claude/agents/armory-catalog-auditor.md"
+  ],
+  "hooks": "./scripts/hooks/plugin-hooks.json"
 }
