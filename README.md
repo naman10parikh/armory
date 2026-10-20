@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://github.com/naman10parikh/armory/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/naman10parikh/armory/actions/workflows/ci.yml/badge.svg"></a>
-<a href="https://github.com/naman10parikh/armory/releases"><img alt="Version" src="https://img.shields.io/badge/version-0.1.0-2f5d8a?style=flat-square"></a>
+<a href="https://github.com/naman10parikh/armory/releases"><img alt="Latest release" src="https://img.shields.io/github/v/release/naman10parikh/armory?style=flat-square&amp;color=2f5d8a"></a>
 <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-2f5d8a?style=flat-square"></a>
 <a href="#use-it-from-any-coding-agent"><img alt="MCP server" src="https://img.shields.io/badge/MCP-server-1e3f60?style=flat-square"></a>
 <a href="https://x.com/naman10parikh"><img alt="Follow @naman10parikh on X" src="https://img.shields.io/badge/follow-%40naman10parikh-000000?style=flat-square&amp;logo=x&amp;logoColor=white"></a>
@@ -103,7 +103,8 @@ Codex, Cursor, OpenCode, GitHub Copilot and other agents read [AGENTS.md](AGENTS
 ## Quick start
 
 These commands were run for this README. The npm packages start fastest; the GitHub form above builds this
-repository's latest code on first use.
+repository's latest code on first use, which took 90 seconds when this was written. npm 11.6.1 and 11.6.2 can stop
+that first build with "Lock compromised", an npm bug fixed in 11.6.3: run `npm i -g npm@latest` first.
 
 ```bash
 npx -y @namanparikh/armory search "browser automation"      # rank across 60,000+ components
