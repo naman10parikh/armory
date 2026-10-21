@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T16:25:31Z"
+pushed_at: "2026-10-20T13:35:03Z"
 ---
 ## What it is
 Enables reading and scoring Fleaflicker fantasy football leagues, including rosters, standings, matchups, boxscores, draft boards, and stat line scoring using league-specific rules, with no authentication required.

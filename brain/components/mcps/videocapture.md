@@ -8,11 +8,11 @@ source_url: https://github.com/13rac1/videocapture-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp]
-forks: 8
+forks: 9
 pushed_at: "2025-03-28T01:38:43Z"
 ---
 

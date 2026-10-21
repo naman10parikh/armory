@@ -15,7 +15,7 @@ verified_at: 2026-05-26
 related: [agentbench, agentmoney-cost, stripe-agent-toolkit]
 tags: [cost, budget, observability, metering, financial-rails]
 forks: 0
-pushed_at: "2026-06-10T03:44:00Z"
+pushed_at: "2026-10-21T04:07:14Z"
 ---
 
 ## What it is

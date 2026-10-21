@@ -8,14 +8,14 @@ source_url: https://github.com/agntcy/dir
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 196
+stars: 199
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
-forks: 60
-pushed_at: "2026-10-14T12:34:20Z"
+forks: 61
+pushed_at: "2026-10-21T12:50:09Z"
 ---
 ## What it is
 Use when agents and multi-agent systems need to announce themselves and be found across organisations rather than hardcoded.

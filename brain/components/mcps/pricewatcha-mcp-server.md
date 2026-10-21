@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T09:44:18Z"
+pushed_at: "2026-10-16T19:13:16Z"
 ---
 ## What it is
 Enables AI agents to search, track, and monitor product prices, retrieve price history, and set up price alerts via the Pricewatcha API.

@@ -8,12 +8,12 @@ source_url: https://github.com/president-xd/revula
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 83
+stars: 85
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 18
+forks: 16
 pushed_at: "2026-08-16T10:25:09Z"
 ---
 ## What it is

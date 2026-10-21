@@ -8,12 +8,12 @@ source_url: https://github.com/lyellr88/marm-systems
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 420
+stars: 422
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 92
-pushed_at: "2026-10-12T07:36:13Z"
+forks: 94
+pushed_at: "2026-10-21T02:55:14Z"
 ---
 ## What it is
 MCP server `MARM Systems`, catalogued on PulseMCP. Persistent memory system with semantic search for AI agents

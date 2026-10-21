@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T12:47:08Z"
+pushed_at: "2026-10-16T05:41:19Z"
 ---
 ## What it is
 A local MCP server that lets AI agents publish markdown/HTML to a browser viewer with session management, revision diffs, and live updates via a single tool call.

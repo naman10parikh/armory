@@ -8,13 +8,13 @@ source_url: https://github.com/cl0nazepamm/3dsmax-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 313
+stars: 326
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 47
-pushed_at: "2026-10-12T12:49:32Z"
+forks: 49
+pushed_at: "2026-10-15T22:17:42Z"
 ---
 ## What it is
 Connect AI agents to Autodesk 3ds Max through the Model Context Protocol, enabling natural language control of scene creation, materials, modifiers, rendering, and plugin workflows.

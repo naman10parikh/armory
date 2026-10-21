@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-08T11:01:41Z"
+pushed_at: "2026-10-20T08:20:11Z"
 ---
 ## What it is
 MCP server `ratamaha-git n8n`, catalogued on PulseMCP. Community MCP server for n8n that provides workflow generation, linting, execution diagnosis, and live n8n instance management.

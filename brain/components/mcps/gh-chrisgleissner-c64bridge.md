@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-10-07T10:54:27Z"
+pushed_at: "2026-10-15T07:11:02Z"
 ---
 ## What it is
 MCP server `C64 Bridge`, catalogued on PulseMCP. Control and program Commodore 64 Ultimate hardware and VICE emulator via MCP.

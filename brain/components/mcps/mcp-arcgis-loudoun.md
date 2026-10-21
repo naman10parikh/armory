@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:51:07Z"
+pushed_at: "2026-10-19T22:56:57Z"
 ---
 ## What it is
 Provides access to Loudoun County, Virginia open geospatial data through ArcGIS, enabling search, query, and schema inspection of datasets such as parcels, addresses, and zoning.

@@ -8,13 +8,13 @@ source_url: https://github.com/SWE-bench/SWE-bench
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 6024
+stars: 6066
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, code, benchmark, agents]
 mentions: 9
-forks: 1011
+forks: 1025
 pushed_at: "2026-09-18T05:08:56Z"
 ---
 ## What it is

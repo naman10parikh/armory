@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-06T05:27:19Z"
+pushed_at: "2026-10-20T07:00:03Z"
 ---
 ## What it is
 Local-first MCP server for Indian income tax computation, enabling users to compute taxes, compare regimes, plan advance tax, and parse Form 26AS without sending data to the cloud.

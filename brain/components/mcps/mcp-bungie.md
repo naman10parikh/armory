@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T22:17:21Z"
+pushed_at: "2026-10-20T04:09:47Z"
 ---
 ## What it is
 Enables querying Destiny 2 player data, profiles, clans, and stats through the Bungie.net API.

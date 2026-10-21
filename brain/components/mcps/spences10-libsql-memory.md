@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 18
-pushed_at: "2026-10-13T14:10:21Z"
+pushed_at: "2026-10-20T21:37:52Z"
 ---
 ## What it is
 MCP server `LibSQL Memory`, catalogued on PulseMCP. Provides a LibSQL-based persistent memory database for storing and retrieving knowledge graph entities and relations across conversations.

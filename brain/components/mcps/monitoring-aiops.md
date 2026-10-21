@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-13T14:14:34Z"
+pushed_at: "2026-10-15T09:17:39Z"
 ---
 ## What it is
 Governs and automates network monitoring across SolarWinds Orion and Paessler PRTG platforms with a unified MCP server, enabling querying, alert management, and governed writes with audit logging.

@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
 stars: 116
-forks: 7
+forks: 8
 pushed_at: "2025-05-31T21:07:31Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-11T01:14:45Z"
+pushed_at: "2026-10-18T01:14:43Z"
 ---
 ## What it is
 MCP server `Kali Linux Security Tools`, catalogued on PulseMCP. Wraps 8 Kali Linux security tools (nmap, nikto, gobuster, sslscan, whois, dig, searchsploit, openssl) with token-based authorization and target allowlists for authorized security testing.

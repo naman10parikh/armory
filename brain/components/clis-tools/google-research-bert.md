@@ -8,13 +8,13 @@ source_url: https://github.com/google-research/bert
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 40038
+stars: 40039
 eval_score: 0
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 9658
+forks: 9656
 pushed_at: "2024-07-23T23:39:41Z"
 ---
 ## What it is

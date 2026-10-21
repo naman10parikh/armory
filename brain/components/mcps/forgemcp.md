@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T19:49:33Z"
+pushed_at: "2026-10-21T05:22:08Z"
 ---
 ## What it is
 An MCP server for C++ development that currently provides a server_status diagnostic tool. It validates a workspace directory and is designed to expand into build, test, and debugging capabilities.

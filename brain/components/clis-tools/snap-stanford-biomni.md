@@ -8,14 +8,14 @@ source_url: https://github.com/snap-stanford/Biomni
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3972
+stars: 4001
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 728
-pushed_at: "2026-10-12T19:20:53Z"
+pushed_at: "2026-10-19T19:21:56Z"
 ---
 ## What it is
 Biomni: a general-purpose biomedical AI agent

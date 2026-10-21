@@ -8,13 +8,13 @@ source_url: https://github.com/IcaroBichir/lorcana-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T00:18:12Z"
+pushed_at: "2026-10-19T00:20:42Z"
 ---
 ## What it is
 Connects Claude to Disney Lorcana card data to enrich collections, search cards, find song synergies, and analyze decks.

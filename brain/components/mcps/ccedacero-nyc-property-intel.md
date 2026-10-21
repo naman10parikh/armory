@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-12T17:29:20Z"
+pushed_at: "2026-10-15T16:03:02Z"
 ---
 ## What it is
 MCP server `NYC Property Intel`, catalogued on PulseMCP. Access 20+ NYC public record databases for real estate due diligence, including violations, ownership, sales history, permits, and liens.

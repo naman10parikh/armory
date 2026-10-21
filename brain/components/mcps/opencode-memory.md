@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-24T00:53:55Z"
+pushed_at: "2026-10-20T00:43:25Z"
 ---
 ## What it is
 An MCP server providing semantic vector search, dual memory engines, and Git version control for AI clients, enabling persistent memory with recall, forget, and rollback capabilities.

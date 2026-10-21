@@ -8,12 +8,12 @@ source_url: https://github.com/infisical/infisical-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 69
+stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 21
-pushed_at: "2026-09-10T01:11:36Z"
+pushed_at: "2026-10-20T20:17:33Z"
 ---
 ## What it is
 MCP server `Infisical (Secrets Management)`, catalogued on PulseMCP. Provides a secure bridge to the Infisical secrets management platform, enabling operations like creating, updating, and retrieving secrets without exposing credentials directly

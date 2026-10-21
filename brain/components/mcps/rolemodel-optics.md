@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-03-28T21:33:07Z"
+pushed_at: "2026-10-15T21:34:45Z"
 ---
 ## What it is
 MCP server `Optics`, catalogued on PulseMCP. Access RoleModel's Optics Design System tokens, components, and documentation

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-13T21:41:23Z"
+pushed_at: "2026-10-21T11:32:13Z"
 ---
 ## What it is
 An MCP server that lets AI agents access and manage a WhatsApp account, offering 22 tools for chats, messages, media, contacts, groups, and more, with pairing-code login and optional read-only or HTTP modes.

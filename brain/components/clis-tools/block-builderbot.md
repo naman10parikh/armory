@@ -8,14 +8,14 @@ source_url: https://github.com/block/builderbot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 89
+stars: 91
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 25
-pushed_at: "2026-10-14T09:13:14Z"
+pushed_at: "2026-10-20T22:15:38Z"
 ---
 ## What it is
 Incubating experimental AI projects to operate millions of lines of code

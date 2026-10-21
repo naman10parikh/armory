@@ -8,13 +8,13 @@ source_url: https://github.com/Nutlope/roomGPT
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 10683
+stars: 10688
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1493
+forks: 1494
 pushed_at: "2024-04-20T12:17:17Z"
 ---
 ## What it is

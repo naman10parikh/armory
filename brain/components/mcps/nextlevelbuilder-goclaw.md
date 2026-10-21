@@ -8,11 +8,11 @@ source_url: https://github.com/nextlevelbuilder/goclaw-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 12
 pushed_at: "2026-03-15T05:08:10Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/slack-samples/bolt-js-slack-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-10-08T00:15:20Z"
+pushed_at: "2026-10-20T20:10:18Z"
 ---
 ## What it is
 Enables building AI-powered Slack apps using the Slack MCP server and OpenAI models for automated messaging and canvas creation.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T00:32:48Z"
+pushed_at: "2026-10-19T17:52:44Z"
 ---
 ## What it is
 Enables AI coding agents to identify exactly what broke between two dependency versions, with citations for every claim, and to verify package existence to catch typosquatting, all without requiring an API key.

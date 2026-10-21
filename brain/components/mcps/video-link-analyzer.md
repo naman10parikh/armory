@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-11T23:54:10Z"
+pushed_at: "2026-10-18T23:52:48Z"
 ---
 ## What it is
 Enables link type detection, video downloading, metadata extraction, and transcript generation across 16+ platforms including YouTube, Bilibili, and WeChat Channels. Supports automatic subtitle extraction and optional Whisper speech-to-text for videos without captions.

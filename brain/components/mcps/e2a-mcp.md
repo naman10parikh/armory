@@ -8,13 +8,13 @@ source_url: https://github.com/tokencanopy/e2a
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 193
+stars: 194
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 27
-pushed_at: "2026-10-10T10:47:56Z"
+pushed_at: "2026-10-20T13:39:20Z"
 ---
 ## What it is
 Authenticated email service MCP for AI agents.

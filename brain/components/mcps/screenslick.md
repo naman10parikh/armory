@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-21T12:38:22Z"
+pushed_at: "2026-10-20T20:26:19Z"
 ---
 ## What it is
 Enables AI agents to control the ScreenSlick browser video editor, supporting tasks like voiceover generation, transcript creation, and video export via a local WebSocket bridge.

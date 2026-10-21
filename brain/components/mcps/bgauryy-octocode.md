@@ -8,12 +8,12 @@ source_url: https://github.com/bgauryy/octocode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 950
+stars: 952
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 78
-pushed_at: "2026-10-09T07:07:41Z"
+forks: 79
+pushed_at: "2026-10-19T15:41:35Z"
 ---
 ## What it is
 MCP server `Octocode`, catalogued on PulseMCP. Integrates with GitHub CLI and npm to provide repository analysis, code discovery, file exploration, commit history tracking, and package metadata retrieval with intelligent caching and cross-tool workflow support.

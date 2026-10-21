@@ -8,13 +8,13 @@ source_url: https://github.com/nirholas/cryptocurrency.cv
 license: Sleepycat License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 319
+stars: 322
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 48
-pushed_at: "2026-10-12T18:29:23Z"
+pushed_at: "2026-10-21T09:52:33Z"
 ---
 ## What it is
 Free, no-auth crypto news API with 200+ sources for fetching real-time and historical crypto news.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-12T17:16:45Z"
+forks: 1
+pushed_at: "2026-10-18T12:03:58Z"
 ---
 ## What it is
 MCP server for searching, reading, listing, writing, and appending Markdown wiki content using RAG with ChromaDB.

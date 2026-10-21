@@ -8,12 +8,12 @@ source_url: https://github.com/nirholas/github-to-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-11T01:32:15Z"
+pushed_at: "2026-10-18T21:00:57Z"
 ---
 ## What it is
 MCP server `GitHub to MCP Converter`, catalogued on PulseMCP. Convert any GitHub repository into an MCP server with automatic tool generation.

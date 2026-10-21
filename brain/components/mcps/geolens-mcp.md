@@ -8,13 +8,13 @@ source_url: https://github.com/geolens-io/geolens
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 275
+stars: 277
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 38
-pushed_at: "2026-10-14T12:33:38Z"
+forks: 39
+pushed_at: "2026-10-21T12:09:44Z"
 ---
 ## What it is
 Read-only access to a self-hosted GeoLens geospatial catalog: dataset search, schemas, GeoJSON features, saved maps, and sandboxed read-only SQL over PostGIS.

@@ -8,14 +8,14 @@ source_url: https://github.com/browserless/browserless
 license: SSPL-1.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 13811
+stars: 13834
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, browserless]
 mentions: null
-forks: 1048
-pushed_at: "2026-10-13T14:49:41Z"
+forks: 1050
+pushed_at: "2026-10-21T11:55:01Z"
 ---
 ## What it is
 Browserless.io headless browser service. It provides a Docker-deployable or cloud-hosted Chrome endpoint with REST and WebSocket APIs for screenshot, PDF, scraping, and Puppeteer/Playwright remote sessions.

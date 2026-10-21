@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-12T09:08:24Z"
+pushed_at: "2026-10-19T05:34:19Z"
 ---
 ## What it is
 A Docker-based MCP server that exposes humorous and explicit FOAAS operations for responding to development scenarios like bug reports, code reviews, and pull requests.

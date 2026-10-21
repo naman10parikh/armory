@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-10-14T06:23:05Z"
+forks: 6
+pushed_at: "2026-10-21T06:22:32Z"
 ---
 ## What it is
 Unified context intelligence layer for AI agents, enabling orchestration of memory, reasoning, and self-healing indexes with cognition primitives and churn-aware retrieval routing.

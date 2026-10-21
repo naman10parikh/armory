@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T08:57:41Z"
+pushed_at: "2026-10-18T03:53:32Z"
 ---
 ## What it is
 MCP server for AI-powered operations on VMware/Omnissa Horizon VDI, enabling management of desktop pools, user sessions, machines, entitlements, and image pushes through the Horizon 8 REST API.

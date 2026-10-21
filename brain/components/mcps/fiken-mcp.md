@@ -8,13 +8,13 @@ source_url: https://github.com/gronnmann/fiken-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-06-22T11:15:26Z"
+forks: 5
+pushed_at: "2026-10-14T19:33:58Z"
 ---
 ## What it is
 Enables AI assistants to manage invoices, contacts, purchases, journal entries, and other accounting operations via the Fiken API.

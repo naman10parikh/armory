@@ -8,12 +8,12 @@ source_url: https://github.com/skunkobi/mcp-leclerc-drive
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 25
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 7
 pushed_at: "2026-07-11T10:04:24Z"
 ---
 ## What it is

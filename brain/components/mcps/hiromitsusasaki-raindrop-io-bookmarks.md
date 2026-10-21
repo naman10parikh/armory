@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2025-06-04T14:44:30Z"
+pushed_at: "2026-10-17T05:30:04Z"
 ---
 ## What it is
 MCP server `Raindrop.io`, catalogued on PulseMCP. Integrates with Raindrop.io API to enable creating, searching, and managing bookmarks with features like tag filtering.

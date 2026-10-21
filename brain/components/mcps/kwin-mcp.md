@@ -8,13 +8,13 @@ source_url: https://github.com/isac322/kwin-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 67
+stars: 71
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 19
-pushed_at: "2026-10-14T12:12:49Z"
+pushed_at: "2026-10-20T14:27:12Z"
 ---
 ## What it is
 Enables AI agents to automate Linux desktop GUI by launching and interacting with Wayland applications in isolated virtual KWin sessions, or connecting to live desktops for collaborative automation.

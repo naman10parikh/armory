@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-25T17:15:13Z"
+pushed_at: "2026-10-16T08:06:42Z"
 ---
 ## What it is
 MCP server `PromptSpeak`, catalogued on PulseMCP. Pre-execution governance for AI agents with 9-stage validation, drift detection, human approval queues, and circuit breakers.

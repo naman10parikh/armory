@@ -8,11 +8,11 @@ source_url: https://github.com/crowdstrike/falcon-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 269
+stars: 272
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 92
+forks: 93
 pushed_at: "2026-10-08T14:46:47Z"
 ---
 ## What it is

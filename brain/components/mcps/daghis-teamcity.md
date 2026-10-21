@@ -8,12 +8,12 @@ source_url: https://github.com/daghis/teamcity-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 21
-pushed_at: "2026-10-03T20:13:55Z"
+pushed_at: "2026-10-21T12:09:45Z"
 ---
 ## What it is
 MCP server `TeamCity`, catalogued on PulseMCP. Integrates with JetBrains TeamCity CI/CD platform

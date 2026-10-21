@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T17:21:37Z"
+pushed_at: "2026-10-18T15:06:06Z"
 ---
 ## What it is
 Enables AI agents to query, filter, and audit Chilean government procurement processes by integrating with the Compra Ágil v2 and Purchase Orders APIs. Provides tools for searching tender opportunities, tracking high-value bids with zero bidders, and enriching purchase order details.

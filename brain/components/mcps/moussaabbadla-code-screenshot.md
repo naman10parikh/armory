@@ -8,11 +8,11 @@ source_url: https://github.com/moussaabbadla/code-screenshot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 45
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
+forks: 9
 pushed_at: "2025-11-06T00:02:09Z"
 ---
 ## What it is

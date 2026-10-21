@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 11
-pushed_at: "2026-10-13T18:20:17Z"
+pushed_at: "2026-10-16T19:30:05Z"
 ---
 ## What it is
 Enables AI assistants to interact with Mapbox developer APIs for style management, token management, and local processing tasks like GeoJSON preview and coordinate conversion.

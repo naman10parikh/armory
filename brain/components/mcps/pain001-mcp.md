@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T06:16:19Z"
+pushed_at: "2026-10-20T13:48:44Z"
 ---
 ## What it is
 A Model Context Protocol server that exposes the pain001 ISO 20022 Customer Credit Transfer Initiation library as agent tools, enabling AI assistants to generate and validate standardized payment XML messages.

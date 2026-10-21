@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T21:03:01Z"
+pushed_at: "2026-10-18T22:56:58Z"
 ---
 ## What it is
 Enables searching NOAA climate stations and datasets, and fetching historical weather observations via the Model Context Protocol (MCP).

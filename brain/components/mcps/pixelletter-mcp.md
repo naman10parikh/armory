@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-27T15:15:22Z"
+pushed_at: "2026-10-19T18:17:12Z"
 ---
 ## What it is
 MCP server to send physical letters and faxes via PixelLetter, including registered mail, order cancellation, and account balance checks.

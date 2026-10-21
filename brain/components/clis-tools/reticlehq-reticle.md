@@ -8,14 +8,14 @@ source_url: https://github.com/reticlehq/reticle
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1221
+stars: 1275
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 200
-pushed_at: "2026-10-13T20:59:09Z"
+forks: 218
+pushed_at: "2026-10-21T12:43:10Z"
 ---
 ## What it is
 AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native runtime perception to web & desktop applications.

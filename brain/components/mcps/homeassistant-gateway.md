@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T18:17:52Z"
+pushed_at: "2026-10-21T09:55:49Z"
 ---
 ## What it is
 Enables secure, auditable access to Home Assistant through MCP, with a read-only observer profile and an operator profile for controlled mutations.

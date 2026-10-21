@@ -8,13 +8,13 @@ source_url: https://github.com/XAGI-Lab/atlas-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-10-14T12:40:02Z"
+forks: 5
+pushed_at: "2026-10-21T12:47:37Z"
 ---
 ## What it is
 Safe, reliable, and verifiable execution for the Model Context Protocol, enabling governed tasks with planning, capability approval, side-effect verification, and evidence receipts.

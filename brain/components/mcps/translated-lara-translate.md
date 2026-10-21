@@ -8,12 +8,12 @@ source_url: https://github.com/translated/lara-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 99
+stars: 100
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 21
-pushed_at: "2026-10-14T10:44:59Z"
+forks: 23
+pushed_at: "2026-10-15T07:48:47Z"
 ---
 ## What it is
 MCP server `Lara Translate`, catalogued on PulseMCP. Bridges to the Lara Translation API for accurate, context-aware text translations between languages with automatic language detection capabilities.

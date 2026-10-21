@@ -8,12 +8,12 @@ source_url: https://github.com/i-dot-ai/parliament-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 18
-pushed_at: "2026-10-10T01:28:59Z"
+pushed_at: "2026-10-21T01:24:01Z"
 ---
 ## What it is
 MCP server `UK Parliament`, catalogued on PulseMCP. Integrates with UK Parliament's API and Hansard debates to provide constituency searches, member information, election results, government post listings, and semantic search through parliamentary debates and written questions using Azure OpenAI embeddings for political research and policy analysis.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T14:14:28Z"
+pushed_at: "2026-10-15T09:17:35Z"
 ---
 ## What it is
 Enables governance-grade AIops for GPU inference clusters with root-cause analysis, metrics, and policy-governed operations for vLLM and Ray.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T18:28:17Z"
+pushed_at: "2026-10-16T08:44:46Z"
 ---
 ## What it is
 A global marketplace MCP server enabling OpenCode instances to publish, search, and exchange MCP server capabilities, knowledge, and ideas over a distributed network via SMTP relay.

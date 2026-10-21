@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T21:45:20Z"
+pushed_at: "2026-10-14T18:58:20Z"
 ---
 ## What it is
 AI App Store Screenshot Generator

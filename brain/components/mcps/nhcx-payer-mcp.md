@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T13:01:32Z"
+pushed_at: "2026-10-14T14:04:25Z"
 ---
 ## What it is
 MCP server to simulate NHCX payer-side actions for testing provider integrations, enabling approval, rejection, querying, and forwarding of cases. It automates the payer workflow through tools like process case and get user role.

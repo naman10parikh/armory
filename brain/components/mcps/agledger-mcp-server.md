@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T06:38:48Z"
+pushed_at: "2026-10-14T17:07:46Z"
 ---
 ## What it is
 Connects MCP-compatible AI agents to the AGLedger API for change control, recording every change with signed, hash-chained records. Provides API pass-through tools and an offline audit verifier.

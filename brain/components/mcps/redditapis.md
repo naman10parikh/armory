@@ -8,13 +8,13 @@ source_url: https://github.com/redditapis/redditapis-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T04:53:18Z"
+pushed_at: "2026-10-20T21:32:42Z"
 ---
 ## What it is
 Reddit API as native MCP tools for Claude, Cursor, and any MCP client. 22 reads-only tools over redditapis.com: search with advanced filters (score, comments, media, sort), subreddit listings and about, posts, comments, user profiles and history, community discovery, moderators, wiki, and deep comme

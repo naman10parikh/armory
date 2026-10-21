@@ -8,12 +8,12 @@ source_url: https://github.com/KyaniteLabs/kinocut
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 204
+stars: 215
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 46
-pushed_at: "2026-10-13T11:57:50Z"
+forks: 47
+pushed_at: "2026-10-21T12:45:02Z"
 ---
 ## What it is
 MCP server `KyaniteLabs Video`, catalogued on PulseMCP. Video editing MCP server with FFmpeg, planning, and Hyperframes tools for AI agents.

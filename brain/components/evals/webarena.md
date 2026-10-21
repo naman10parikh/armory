@@ -8,12 +8,12 @@ source_url: https://github.com/web-arena-x/webarena
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 1626
+stars: 1636
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, agents, browser, benchmark]
-forks: 247
+forks: 246
 pushed_at: "2025-11-26T21:16:00Z"
 mentions: 2
 ---

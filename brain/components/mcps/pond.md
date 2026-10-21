@@ -8,13 +8,13 @@ source_url: https://github.com/tenequm/pond
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 81
+stars: 85
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
-pushed_at: "2026-10-14T02:08:57Z"
+forks: 13
+pushed_at: "2026-10-14T17:05:29Z"
 ---
 ## What it is
 Lossless archive and search for AI agent sessions (Claude Code, Codex, opencode, pi and others), exposed to agents over MCP. Local-first, written in Rust.

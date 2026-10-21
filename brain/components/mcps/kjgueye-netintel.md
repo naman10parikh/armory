@@ -12,8 +12,8 @@ stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-10-12T23:55:15Z"
+forks: 0
+pushed_at: "2026-10-18T18:11:55Z"
 ---
 ## What it is
 MCP server `NetIntel`, catalogued on PulseMCP. DNS, SSL, WHOIS, email security, and OSINT tools via x402 micropayments.

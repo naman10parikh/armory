@@ -14,7 +14,7 @@ verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, documentation]
 forks: 0
-pushed_at: "2025-04-15T13:06:42Z"
+pushed_at: "2026-10-15T19:17:30Z"
 ---
 ## What it is
 Chinese documentation for Google's Agent2Agent protocol

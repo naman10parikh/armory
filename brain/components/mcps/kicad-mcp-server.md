@@ -8,12 +8,12 @@ source_url: https://github.com/Seeed-Studio/kicad-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 149
+stars: 164
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 22
+forks: 24
 pushed_at: "2026-09-28T06:37:16Z"
 ---
 ## What it is

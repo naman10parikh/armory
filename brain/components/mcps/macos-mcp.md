@@ -8,12 +8,12 @@ source_url: https://github.com/CursorTouch/MacOS-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 204
+stars: 218
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 32
+forks: 33
 pushed_at: "2026-10-12T01:09:01Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-14T07:42:49Z"
+pushed_at: "2026-10-17T17:09:16Z"
 ---
 ## What it is
 An MCP server that acts as a virtual Odoo employee, enabling LLMs to query, create, update, and execute workflows on Odoo records with configurable safety levels.

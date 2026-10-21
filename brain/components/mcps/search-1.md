@@ -8,7 +8,7 @@ source_url: https://github.com/airweave-ai/airweave
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6558
+stars: 6556
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

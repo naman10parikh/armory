@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-12T06:40:30Z"
+pushed_at: "2026-10-19T02:35:57Z"
 ---
 ## What it is
 An MCP bridge that lets Codex supervise Reasonix as an implementation worker in an isolated Git worktree, ensuring safe delegation with scoped writes and sandboxed execution.

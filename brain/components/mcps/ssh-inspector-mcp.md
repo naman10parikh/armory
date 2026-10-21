@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T20:36:07Z"
+pushed_at: "2026-10-21T01:21:40Z"
 ---
 ## What it is
 Provides structured read-only SSH/SFTP and AWS operations on a single RHEL host, with path allowlisting, output limits, and IAM-based authorization.

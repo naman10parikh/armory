@@ -8,12 +8,12 @@ source_url: https://github.com/googleapis/gcloud-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 922
+stars: 930
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 85
-pushed_at: "2026-10-13T23:05:15Z"
+forks: 83
+pushed_at: "2026-10-17T19:03:01Z"
 ---
 ## What it is
 MCP server `Google Cloud CLI`, catalogued on PulseMCP. Interact with Google Cloud environments using the gcloud CLI through natural language

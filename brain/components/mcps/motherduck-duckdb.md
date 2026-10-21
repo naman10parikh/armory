@@ -8,11 +8,11 @@ source_url: https://github.com/motherduckdb/mcp-server-motherduck
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 528
+stars: 533
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 87
+forks: 89
 pushed_at: "2026-10-07T14:42:51Z"
 ---
 ## What it is

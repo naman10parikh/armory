@@ -8,13 +8,13 @@ source_url: https://github.com/xiaowu0162/LongMemEval
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1150
+stars: 1163
 eval_score: null
 mentions: 10
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 86
+forks: 87
 pushed_at: "2026-05-11T22:49:24Z"
 ---
 ## What it is

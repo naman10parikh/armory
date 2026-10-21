@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T05:11:25Z"
+pushed_at: "2026-10-15T20:12:59Z"
 ---
 ## What it is
 MCP server covering French law via the PISTE platform: 62 tools wrapping the full Légifrance API (legislation, codes, Journal Officiel, jurisprudence…)

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T00:28:20Z"
+pushed_at: "2026-10-21T11:53:50Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for producing better Terraform through CLI analysis (tflint, checkov, trivy, kics, infracost), best-practice guidance from terraform-best-practices.com, cloud provider recommendations (Azure, AWS, GCP), and Terraform Registry resource and module guidance.

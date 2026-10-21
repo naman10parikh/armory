@@ -8,12 +8,12 @@ source_url: https://github.com/aaronjmars/opendia
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1926
+stars: 1931
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 160
-pushed_at: "2026-10-13T17:38:34Z"
+pushed_at: "2026-10-19T19:06:30Z"
 ---
 ## What it is
 MCP server `OpenDia`, catalogued on PulseMCP. Provides OpenDia diagram creation capabilities through a lightweight web server with WebSocket support and HTTP API endpoints for real-time collaborative diagram generation and editing.

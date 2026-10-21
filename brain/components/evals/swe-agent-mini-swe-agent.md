@@ -8,14 +8,14 @@ source_url: https://github.com/SWE-agent/mini-swe-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 8513
+stars: 8703
 eval_score: null
 mentions: 4
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, evals]
-forks: 1163
-pushed_at: "2026-10-12T22:59:37Z"
+forks: 1207
+pushed_at: "2026-10-19T22:57:58Z"
 ---
 ## What it is
 The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!

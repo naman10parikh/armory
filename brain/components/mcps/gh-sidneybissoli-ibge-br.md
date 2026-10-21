@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-13T13:01:04Z"
+pushed_at: "2026-10-19T11:35:56Z"
 ---
 ## What it is
 MCP server `IBGE Brazil`, catalogued on PulseMCP. Brazilian IBGE statistical data — locations, census, demographics, and geographic boundaries.

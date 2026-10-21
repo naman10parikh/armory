@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-29T18:48:54Z"
+pushed_at: "2026-10-18T14:35:10Z"
 ---
 ## What it is
 Provides forward and reverse geocoding using the OpenCage API, enabling conversion between addresses and geographic coordinates.

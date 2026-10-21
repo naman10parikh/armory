@@ -8,13 +8,13 @@ source_url: https://github.com/devemberx/mcp-server-polarion
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-07T03:58:52Z"
+pushed_at: "2026-10-21T03:45:15Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for Polarion ALM. Lets AI assistants read documents, work items, and traceability links — and create, update, and reorganize work items — directly from your Polarion instance.

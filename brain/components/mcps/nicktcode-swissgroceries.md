@@ -12,8 +12,8 @@ stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-06-07T05:45:38Z"
+forks: 4
+pushed_at: "2026-10-20T12:26:18Z"
 ---
 ## What it is
 MCP server `Swiss Groceries`, catalogued on PulseMCP. Real-time Swiss grocery shopping across Migros, Coop, Aldi, Denner, Lidl, and more with price comparison and store location.

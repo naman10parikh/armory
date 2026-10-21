@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T10:43:00Z"
+pushed_at: "2026-10-20T21:37:25Z"
 ---
 ## What it is
 Enables LLMs to inspect schemas and execute SQL queries on Peaka projects using Peaka's text2SQL capabilities.

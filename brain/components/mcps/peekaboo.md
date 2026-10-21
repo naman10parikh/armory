@@ -8,13 +8,13 @@ source_url: https://github.com/openclaw/Peekaboo
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5311
+stars: 5359
 eval_score: 1
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 411
-pushed_at: "2026-10-14T10:50:07Z"
+forks: 412
+pushed_at: "2026-10-21T07:18:56Z"
 ---
 ## What it is
 A macOS automation tool that provides high-fidelity screen capture, AI analysis, and complete GUI automation through a CLI and MCP server, enabling natural-language-driven interactions like clicking, typing, and scrolling.

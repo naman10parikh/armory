@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T20:36:31Z"
+pushed_at: "2026-10-18T19:16:44Z"
 ---
 ## What it is
 Enables creating, managing, and analyzing live audience surveys on rifts.to directly from an AI client. Supports creating surveys, listing them, retrieving results, and closing surveys via natural language.

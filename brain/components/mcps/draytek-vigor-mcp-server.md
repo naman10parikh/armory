@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-01T08:29:37Z"
+pushed_at: "2026-10-15T14:04:48Z"
 ---
 ## What it is
 Provides DSL diagnosis and CLI access to DrayTek Vigor 167 modems via interactive SSH shell, enabling command discovery and execution through MCP tools.

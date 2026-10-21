@@ -13,7 +13,7 @@ related: []
 tags: [mcp, knowledge-memory]
 stars: 120
 forks: 14
-pushed_at: "2026-10-14T12:05:26Z"
+pushed_at: "2026-10-21T11:45:28Z"
 ---
 ## What it is
 Desktop app that captures screen activity via event-driven screenshots, stores AI-generated summaries and OCR text locally in SQLite, and exposes your activity history to AI assistants via MCP with semantic search, timeline browsing, and event detail retrieval.

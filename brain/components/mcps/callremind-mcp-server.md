@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-03T05:41:27Z"
+pushed_at: "2026-10-16T15:13:51Z"
 ---
 ## What it is
 Enables AI agents to make instant calls, manage CEMAS emergency notifications, pick Edge TTS voices, manage agents, leads, scheduled calls, and query call history via the CallRemind REST API.

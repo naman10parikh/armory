@@ -8,13 +8,13 @@ source_url: https://github.com/ihuzaifashoukat/x-use
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 176
+stars: 178
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 32
-pushed_at: "2026-10-13T11:38:52Z"
+pushed_at: "2026-10-19T13:34:39Z"
 ---
 ## What it is
 Multi-account X (Twitter) automation that drives a real Chrome session with your own cookies, so no X API key is needed. 32 tools for posting, replies, search, engagement, and media, with draft approval on by default.

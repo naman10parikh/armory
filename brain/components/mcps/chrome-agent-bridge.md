@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-04T04:23:39Z"
+pushed_at: "2026-10-14T13:34:48Z"
 ---
 ## What it is
 MCP server for agent interaction with user-approved Google Chrome tabs, enabling tab listing/control, navigation, clicking, filling, snapshots, and screenshots via a local authenticated bridge.

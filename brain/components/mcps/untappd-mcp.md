@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T23:25:33Z"
+pushed_at: "2026-10-21T09:16:06Z"
 ---
 ## What it is
 An MCP server that interfaces with Untappd's mobile API to search beers, breweries, venues, and user data, and to post check-ins, toasts, and comments using your own account.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T00:55:13Z"
+pushed_at: "2026-10-19T00:01:01Z"
 ---
 ## What it is
 An MCP server that enables remote observation and control of a Chromium browser via a WebSocket relay, supporting DOM, CDP, and native OS automation for local or LAN-based AI agents.

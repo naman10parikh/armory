@@ -8,14 +8,14 @@ source_url: https://github.com/DietrichGebert/ponytail
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 163198
+stars: 170748
 eval_score: null
 mentions: 3
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 8820
-pushed_at: "2026-10-13T01:46:28Z"
+forks: 9285
+pushed_at: "2026-10-18T01:55:14Z"
 ---
 ## What it is
 Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.

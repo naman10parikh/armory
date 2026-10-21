@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-13T16:24:19Z"
+pushed_at: "2026-10-17T23:13:45Z"
 ---
 ## What it is
 Enables searching and fetching Wikidata entities, executing SPARQL queries, and resolving external identifiers via the Model Context Protocol.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 28
-pushed_at: "2026-09-26T00:55:45Z"
+pushed_at: "2026-10-20T23:00:13Z"
 ---
 ## What it is
 MCP server `Kubernetes`, catalogued on PulseMCP. Enables natural language interaction with Kubernetes clusters for resource querying and CRUD operations with configurable write permissions.

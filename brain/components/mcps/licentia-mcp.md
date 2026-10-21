@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T06:49:16Z"
+pushed_at: "2026-10-15T06:44:28Z"
 ---
 ## What it is
 Enables searching, comparing, and validating SPDX licenses and exceptions, plus SPDX expression validation and SBOM analysis through a Streamable HTTP endpoint.

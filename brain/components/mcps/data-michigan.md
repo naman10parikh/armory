@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:17:12Z"
+pushed_at: "2026-10-21T03:58:17Z"
 ---
 ## What it is
 Enables AI agents to search and query the Michigan Open Data catalog, running Socrata SoQL queries against datasets by resource ID, and retrieving dataset metadata.

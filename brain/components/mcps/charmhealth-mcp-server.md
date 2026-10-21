@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
-pushed_at: "2026-10-07T23:27:03Z"
+forks: 11
+pushed_at: "2026-10-20T06:02:43Z"
 ---
 ## What it is
 An MCP server for CharmHealth EHR that allows LLMs and MCP clients to interact with patient records, encounters, and practice information.

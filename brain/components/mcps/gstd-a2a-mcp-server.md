@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T10:34:50Z"
+pushed_at: "2026-10-21T11:12:41Z"
 ---
 ## What it is
 Enables AI agents to participate in a decentralized network, earn GSTD tokens by performing computational tasks, and communicate via the A2A protocol.

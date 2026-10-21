@@ -8,11 +8,11 @@ source_url: https://github.com/biegehydra/bifrostmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 223
+stars: 225
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 35
+forks: 34
 pushed_at: "2026-03-27T04:49:41Z"
 ---
 ## What it is

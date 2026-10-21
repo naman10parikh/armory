@@ -8,14 +8,14 @@ source_url: https://github.com/InternScience/ResearchClawBench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 268
+stars: 272
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 25
-pushed_at: "2026-10-13T02:57:14Z"
+pushed_at: "2026-10-21T10:47:54Z"
 ---
 ## What it is
 🦞 ResearchClawBench: Evaluating AI Agents for Automated Research from Re-Discovery to New-Discovery

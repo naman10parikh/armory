@@ -8,13 +8,13 @@ source_url: https://github.com/thirdlayerinc/autoagent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 4574
+stars: 4570
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 498
+forks: 495
 pushed_at: "2026-04-03T21:11:51Z"
 ---
 ## What it is

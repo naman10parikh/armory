@@ -8,7 +8,7 @@ source_url: https://github.com/daedalus/mcp-pymetasploit3
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []

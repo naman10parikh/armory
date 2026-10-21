@@ -8,12 +8,12 @@ source_url: https://github.com/felixgeelhaar/scout
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-12T15:31:00Z"
+pushed_at: "2026-10-19T13:22:04Z"
 ---
 ## What it is
 MCP server `Scout`, catalogued on PulseMCP. AI-powered browser automation for Go with a 66-tool MCP server, CLI, and library using pure CDP over WebSocket.

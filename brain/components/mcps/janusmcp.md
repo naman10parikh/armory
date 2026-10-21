@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T07:38:25Z"
+pushed_at: "2026-10-21T10:39:00Z"
 ---
 ## What it is
 Local, open-source multi-account MCP broker — one endpoint, every account. Add credentials once and switch identity without reconnecting, from any LLM client.

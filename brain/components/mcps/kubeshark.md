@@ -8,12 +8,12 @@ source_url: https://github.com/kubeshark/kubeshark
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12098
+stars: 12103
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 553
-pushed_at: "2026-10-09T21:11:08Z"
+forks: 552
+pushed_at: "2026-10-21T08:12:06Z"
 ---
 ## What it is
 MCP server `Kubeshark`, catalogued on PulseMCP. Real-time Kubernetes network traffic visibility and API analysis for HTTP, gRPC, Redis, Kafka, and DNS.

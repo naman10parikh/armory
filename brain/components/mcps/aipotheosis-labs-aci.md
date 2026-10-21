@@ -8,11 +8,11 @@ source_url: https://github.com/aipotheosis-labs/aci
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4910
+stars: 4921
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 487
+forks: 486
 pushed_at: "2026-05-28T11:32:35Z"
 ---
 ## What it is

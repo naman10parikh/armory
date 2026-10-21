@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-14T02:58:29Z"
+pushed_at: "2026-10-21T07:15:36Z"
 ---
 ## What it is
 An open-source Model Context Protocol gateway that connects Google Workspace, Jira, and Confluence to AI assistants, providing 70 tools across one endpoint with multi-account support and token-optimized responses.

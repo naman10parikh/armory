@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T19:01:35Z"
+pushed_at: "2026-10-15T03:53:19Z"
 ---
 ## What it is
 Provides core filesystem, shell, search, and listing tools with a path sandbox, supporting HTTP and stdio transports.

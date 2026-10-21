@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T06:58:26Z"
+pushed_at: "2026-10-15T06:57:34Z"
 ---
 ## What it is
 Enables AI agents to view Partiful events, RSVPs, hosted events, mutual connections, and user profiles via a community-built MCP server.

@@ -8,12 +8,12 @@ source_url: https://github.com/partymola/withings-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-13T23:06:30Z"
+pushed_at: "2026-10-19T13:30:49Z"
 ---
 ## What it is
 MCP server `Withings Health`, catalogued on PulseMCP. Integrates with Withings health devices for body metrics, sleep, activity, workouts, and ECG data with local SQLite caching.

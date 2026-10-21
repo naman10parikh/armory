@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T08:59:27Z"
+pushed_at: "2026-10-21T02:26:05Z"
 ---
 ## What it is
 Provides access to Danish food and nutrition data from Open Food Facts and DTU Frida, enabling keyword search, barcode lookup, and detailed food information with per-100g macros and source attribution.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T13:21:11Z"
+pushed_at: "2026-10-19T13:17:25Z"
 ---
 ## What it is
 CLI and MCP server for EdgeFinder sports analysis. Get AI-powered NFL, NBA, and MLB betting recommendations, player stats, odds, schedules, and Polymarket portfolio tracking from your terminal or AI agent.

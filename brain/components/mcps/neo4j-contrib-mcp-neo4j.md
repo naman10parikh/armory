@@ -8,11 +8,11 @@ source_url: https://github.com/neo4j-contrib/mcp-neo4j
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 988
+stars: 989
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 262
+forks: 264
 pushed_at: "2026-09-09T16:31:34Z"
 ---
 ## What it is

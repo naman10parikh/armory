@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-29T23:58:27Z"
+pushed_at: "2026-10-20T09:42:00Z"
 ---
 ## What it is
 Enables Claude to interact with JAMA Cloud (Jama Connect) for project management, including creating, updating, and searching items, managing test plans, and adding comments.

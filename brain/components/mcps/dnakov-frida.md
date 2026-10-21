@@ -8,11 +8,11 @@ source_url: https://github.com/dnakov/frida-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 455
+stars: 459
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 62
+forks: 64
 pushed_at: "2025-05-12T12:25:32Z"
 ---
 ## What it is

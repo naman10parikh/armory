@@ -8,11 +8,11 @@ source_url: https://github.com/anarkh-lee/universal-db-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 940
+stars: 941
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 92
+forks: 91
 pushed_at: "2026-03-17T08:35:16Z"
 ---
 ## What it is

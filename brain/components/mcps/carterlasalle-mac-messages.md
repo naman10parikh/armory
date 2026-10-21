@@ -8,12 +8,12 @@ source_url: https://github.com/carterlasalle/mac_messages_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 332
+stars: 333
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 54
-pushed_at: "2026-10-07T19:29:17Z"
+forks: 53
+pushed_at: "2026-10-19T20:33:27Z"
 ---
 ## What it is
 MCP server `Mac Messages`, catalogued on PulseMCP. Bridges Claude Desktop with macOS Messages app, enabling reading and sending iMessages through direct database access with contact lookup and group chat support.

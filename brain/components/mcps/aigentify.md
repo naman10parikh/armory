@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T19:13:26Z"
+pushed_at: "2026-10-21T03:49:06Z"
 ---
 ## What it is
 MCP server for auditing agent-native readiness of a product directory or URL and generating artifacts like AGENTS.md and server.json.

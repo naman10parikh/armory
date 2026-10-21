@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T22:57:48Z"
+pushed_at: "2026-10-20T22:24:46Z"
 ---
 ## What it is
 Enables searching and retrieving documents that congressional committees publish on their own websites, including press releases, oversight letters, staff reports, and interview transcripts, with no authentication required.

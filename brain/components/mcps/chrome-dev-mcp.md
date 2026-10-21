@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T10:44:43Z"
+pushed_at: "2026-10-18T15:13:55Z"
 ---
 ## What it is
 An MCP server that connects AI agents to a running Chrome tab via the Chrome DevTools Protocol (CDP), enabling runtime debugging and page inspection.

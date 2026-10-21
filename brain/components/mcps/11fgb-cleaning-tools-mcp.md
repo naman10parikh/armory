@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T02:55:17Z"
+pushed_at: "2026-10-21T04:54:59Z"
 ---
 ## What it is
 Provides deterministic cleaning cost, time, crew, and chemical usage estimates for homes and offices via MCP and HTTP endpoints.

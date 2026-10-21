@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-29T09:15:54Z"
+pushed_at: "2026-10-21T03:25:43Z"
 ---
 ## What it is
 MCP server `Morgen`, catalogued on PulseMCP. Manage Morgen Calendar events and tasks through natural language.

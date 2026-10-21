@@ -8,7 +8,7 @@ source_url: https://github.com/dsphper/lanhu-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2470
+stars: 2503
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

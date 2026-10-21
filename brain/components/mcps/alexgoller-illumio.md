@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-10-14T09:17:46Z"
+pushed_at: "2026-10-19T07:15:44Z"
 ---
 ## What it is
 MCP server `Illumio`, catalogued on PulseMCP. Integrates with Illumio's Policy Compute Engine API to enable workload management, label operations, and traffic analysis for zero trust security environments.

@@ -8,12 +8,12 @@ source_url: https://github.com/wise-vision/ros2_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 90
+stars: 95
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
-pushed_at: "2026-10-14T11:01:02Z"
+forks: 17
+pushed_at: "2026-10-21T12:35:04Z"
 ---
 ## What it is
 MCP server `ROS 2`, catalogued on PulseMCP. Bridges ROS 2 robotics systems with conversational interfaces, enabling topic publishing, service calling, message subscription, and historical data retrieval through natural language interactions for debugging and monitoring robotic applications.

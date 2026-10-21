@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-10-08T21:14:19Z"
+forks: 4
+pushed_at: "2026-10-21T10:28:45Z"
 ---
 ## What it is
 Enables AI-assisted development of CodeQL queries for security analysis through the Model Context Protocol. Provides tools for compiling, testing, and executing CodeQL queries across multiple programming languages.

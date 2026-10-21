@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-25T22:55:14Z"
+pushed_at: "2026-10-20T22:21:42Z"
 ---
 ## What it is
 MCP server `Cocktails`, catalogued on PulseMCP. Searches cocktail recipes and ingredients via TheCocktailDB API, with no authentication required.

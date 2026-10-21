@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-13T13:45:24Z"
+pushed_at: "2026-10-19T13:32:33Z"
 ---
 ## What it is
 MCP server for SpamTitan email security — manage quarantine, allowlists, blocklists, and view email stats

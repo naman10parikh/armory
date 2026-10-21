@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T12:08:31Z"
+pushed_at: "2026-10-21T12:04:20Z"
 ---
 ## What it is
 Scans MCP servers and AI tools for security risks, providing 4-dimensional scoring and badges, with optional guardrail MCP for auto-protection.

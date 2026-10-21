@@ -8,13 +8,13 @@ source_url: https://github.com/DeusData/codebase-memory-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 46558
+stars: 47085
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3834
-pushed_at: "2026-10-14T03:56:49Z"
+forks: 3862
+pushed_at: "2026-10-21T01:44:39Z"
 mentions: 2
 ---
 ## What it is

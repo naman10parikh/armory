@@ -8,14 +8,14 @@ source_url: https://github.com/pinchtab/pinchtab
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 10378
+stars: 10417
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 778
-pushed_at: "2026-10-06T22:45:38Z"
+forks: 779
+pushed_at: "2026-10-16T17:32:31Z"
 ---
 ## What it is
 High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.

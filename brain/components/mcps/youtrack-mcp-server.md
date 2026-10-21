@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-13T14:10:26Z"
+pushed_at: "2026-10-19T03:07:47Z"
 ---
 ## What it is
 MCP server for comprehensive YouTrack integration, enabling issue management, work tracking, search, and knowledge base operations.

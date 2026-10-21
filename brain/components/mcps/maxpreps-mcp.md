@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T17:34:51Z"
+pushed_at: "2026-10-19T20:43:28Z"
 ---
 ## What it is
 MCP server for MaxPreps that reads US high school team schedules, scores, records, rosters, stat leaders, and athlete careers without needing an account or API key.

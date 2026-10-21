@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-14T05:16:35Z"
+pushed_at: "2026-10-19T03:05:27Z"
 ---
 ## What it is
 MCP server `AIStatusDashboard`, catalogued on PulseMCP. Read-only access to AI provider status, incidents, metrics, and fallback recommendations.

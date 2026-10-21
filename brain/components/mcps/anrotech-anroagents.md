@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-02T13:38:23Z"
+pushed_at: "2026-10-16T11:44:28Z"
 ---
 ## What it is
 MCP server `AnroAgents`, catalogued on PulseMCP. Manages and orchestrates AI agents built on the AnroAgents platform.

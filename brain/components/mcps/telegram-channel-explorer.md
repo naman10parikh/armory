@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 24
-pushed_at: "2026-09-20T19:52:20Z"
+pushed_at: "2026-10-19T05:15:49Z"
 ---
 ## What it is
 MCP server `Telegram Channel Explorer`, catalogued on PulseMCP. Enables access to Telegram channels and messages for searching content by keywords, listing available channels, retrieving specific messages, and filtering with regex patterns using the MTProto protocol.

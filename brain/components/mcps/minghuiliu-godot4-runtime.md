@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-07-07T04:11:33Z"
+pushed_at: "2026-10-21T07:15:59Z"
 ---
 ## What it is
 MCP server `Godot 4 Runtime`, catalogued on PulseMCP. Bridges Godot 4 C# projects with development tools through HTTP API communication, enabling real-time scene manipulation, script management, property inspection, signal handling, and resource operations during active game development sessions.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-14T12:19:46Z"
+pushed_at: "2026-10-21T12:48:39Z"
 ---
 ## What it is
 MCP server that exposes a local Obsidian vault as persistent, searchable memory for AI agents, with hybrid retrieval, reranker, and PDF support.

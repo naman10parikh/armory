@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-11T08:22:27Z"
+pushed_at: "2026-10-15T13:58:32Z"
 ---
 ## What it is
 MCP server for querying ICP filing information and illegal blacklist data for websites, apps, mini-programs, and quick apps.

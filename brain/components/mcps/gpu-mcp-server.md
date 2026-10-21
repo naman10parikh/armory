@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 12
-pushed_at: "2026-10-10T20:35:40Z"
+pushed_at: "2026-10-17T20:36:18Z"
 ---
 ## What it is
 An MCP server that enables AI agents to query real-time NVIDIA GPU metrics like utilization, memory, temperature, and power without external monitoring tools.

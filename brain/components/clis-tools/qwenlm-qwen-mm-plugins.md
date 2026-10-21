@@ -8,13 +8,13 @@ source_url: https://github.com/QwenLM/Qwen-MM-Plugins
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3136
+stars: 3146
 eval_score: 1
 mentions: 1
 verified_at: 2026-09-26
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 209
+forks: 214
 pushed_at: "2026-10-11T05:16:53Z"
 ---
 ## What it is

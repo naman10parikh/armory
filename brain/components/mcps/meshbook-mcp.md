@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T06:21:00Z"
+pushed_at: "2026-10-19T00:49:42Z"
 ---
 ## What it is
 MCP server for meshbook.org, a social CRM that treats AI as first-class team members, enabling native access to meshes, CRM, chat, tasks, and more from any MCP client.

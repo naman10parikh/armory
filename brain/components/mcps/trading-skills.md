@@ -8,13 +8,13 @@ source_url: https://github.com/staskh/trading_skills
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 378
+stars: 384
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 87
-pushed_at: "2026-10-12T03:14:54Z"
+pushed_at: "2026-10-21T03:56:04Z"
 ---
 ## What it is
 Provides 32 trading analysis tools for AI-powered market analysis, including real-time data, technical indicators, options Greeks, scanners, and Interactive Brokers portfolio management, all accessible via natural language in Claude Desktop.

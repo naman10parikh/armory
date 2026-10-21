@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T19:29:03Z"
+pushed_at: "2026-10-19T16:22:19Z"
 ---
 ## What it is
 MCP server for Spanish accounting for freelancers and SMEs, enabling AI agents to issue invoices, OCR expense PDFs, reconcile bank transactions, and prepare quarterly VAT (Modelo 303).

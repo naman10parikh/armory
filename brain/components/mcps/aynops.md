@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 38
-pushed_at: "2026-10-13T14:07:34Z"
+forks: 40
+pushed_at: "2026-10-21T05:56:14Z"
 ---
 ## What it is
 An Open Sourced Model Context Protocol (MCP) Local server that gives Claude real-time cybersecurity reconnaissance capabilities

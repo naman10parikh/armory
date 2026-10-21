@@ -8,13 +8,13 @@ source_url: https://github.com/aibtcdev/aibtc-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 48
-pushed_at: "2026-10-08T14:38:06Z"
+pushed_at: "2026-10-21T00:31:29Z"
 ---
 ## What it is
 A Bitcoin-native MCP server for AI agents that provides 150+ tools for BTC and Stacks operations. Supports wallets, DeFi yield, sBTC peg, NFTs, and x402 payments.

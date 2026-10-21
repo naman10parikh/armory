@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T03:22:25Z"
+pushed_at: "2026-10-19T20:44:19Z"
 ---
 ## What it is
 Enables parents to view and manage their child's school arrival and dismissal details, including calendar, pickup changes, drivers, and school information, using the SchoolPass REST API.

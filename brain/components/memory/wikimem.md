@@ -15,7 +15,7 @@ verified_at: 2026-05-26
 related: [obsidian-mcpvault, four-layer-memory, mem0-mcp]
 tags: [memory, knowledge-base, wiki, ingest, search, vault]
 forks: 4
-pushed_at: "2026-06-10T03:35:06Z"
+pushed_at: "2026-10-21T04:07:36Z"
 ---
 
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/argoproj-labs/mcp-for-argocd
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 587
+stars: 591
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 109
-pushed_at: "2026-10-14T08:07:16Z"
+forks: 112
+pushed_at: "2026-10-16T05:15:58Z"
 ---
 ## What it is
 MCP server `Argo CD`, catalogued on PulseMCP. Integrates with Argo CD to enable natural language management of Kubernetes GitOps applications, resources, and deployments without switching context from your assistant.

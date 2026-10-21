@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-27T13:22:00Z"
+pushed_at: "2026-10-21T12:51:22Z"
 ---
 ## What it is
 Enables AI agents to search and retrieve API documentation from an internal Swagger platform via MCP.

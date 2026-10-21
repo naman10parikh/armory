@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-10-13T11:26:17Z"
+pushed_at: "2026-10-21T11:48:02Z"
 ---
 ## What it is
 Official MCP server for Qase Test Management Platform. Enables AI assistants to manage test cases, test runs, defects, and other Qase entities through natural language.

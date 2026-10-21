@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-26T19:06:46Z"
+pushed_at: "2026-10-14T22:09:44Z"
 ---
 ## What it is
 Provides access to Hong Kong Monetary Authority public open data via MCP, enabling natural language queries without an API key.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 12
-pushed_at: "2026-10-14T11:52:52Z"
+pushed_at: "2026-10-21T07:23:09Z"
 ---
 ## What it is
 Enables AI coding agents to search and access open-source code, documentation, and package information via a local MCP server.

@@ -8,7 +8,7 @@ source_url: https://github.com/tathagat22/plumb-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 79
+stars: 83
 eval_score: null
 verified_at: 2026-05-27
 related: []

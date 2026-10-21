@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-27T08:05:06Z"
+pushed_at: "2026-10-19T05:06:41Z"
 ---
 ## What it is
 Hosted MCP server for Imejis. Your AI agent designs a template once, then renders on-brand images in bulk with the same layout every time, only the data changing.

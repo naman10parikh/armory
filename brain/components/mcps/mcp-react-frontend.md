@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-18T23:02:42Z"
+pushed_at: "2026-10-20T09:59:07Z"
 ---
 ## What it is
 Enables AI agents to analyze and scaffold React/Next.js applications enforcing Feature-Sliced Design (FSD) conventions, providing tools for project analysis, rule retrieval, and entity generation.

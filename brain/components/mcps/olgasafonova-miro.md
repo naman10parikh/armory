@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-10-12T20:54:57Z"
+pushed_at: "2026-10-20T07:03:50Z"
 ---
 ## What it is
 MCP server `Miro (Go)`, catalogued on PulseMCP. Integrates with Miro collaborative whiteboards for creating and managing boards, shapes, diagrams, and visual content.

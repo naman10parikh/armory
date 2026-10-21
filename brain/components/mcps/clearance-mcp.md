@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-20T00:45:18Z"
+pushed_at: "2026-10-19T03:39:43Z"
 ---
 ## What it is
 MCP server that enables AI agents to request human approval before spending money, check approval status, verify signed tokens, and manage API keys.

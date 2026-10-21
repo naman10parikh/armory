@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-14T09:23:50Z"
+pushed_at: "2026-10-21T09:13:41Z"
 ---
 ## What it is
 MCP server `Ruchy`, catalogued on PulseMCP. Code analysis, scoring, linting, formatting, and transpilation tools for the Ruchy programming language

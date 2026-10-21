@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-29T16:12:28Z"
+pushed_at: "2026-10-19T03:40:16Z"
 ---
 ## What it is
 MCP server `Vaulted`, catalogued on PulseMCP. MCP server for creating encrypted, self-destructing secret links to share sensitive values without exposing them to AI context.

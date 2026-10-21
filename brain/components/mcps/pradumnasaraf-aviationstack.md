@@ -8,12 +8,12 @@ source_url: https://github.com/pradumnasaraf/aviationstack-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-10-07T13:05:51Z"
+pushed_at: "2026-10-19T18:39:04Z"
 ---
 ## What it is
 MCP server `AviationStack`, catalogued on PulseMCP. Integrates with the AviationStack API to provide real-time flight data, airport schedules, aircraft information, and aviation details for travel planning and flight tracking applications.

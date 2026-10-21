@@ -8,13 +8,13 @@ source_url: https://github.com/video-db/Director
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1554
+stars: 1557
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 254
+forks: 253
 pushed_at: "2026-01-23T15:34:16Z"
 ---
 ## What it is

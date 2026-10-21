@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-03T18:03:48Z"
+pushed_at: "2026-10-17T18:04:57Z"
 ---
 ## What it is
 A security-first MCP server that provides AI agents with a scoped, read-and-draft-only view into Proton Mail via Proton Bridge, ensuring no emails can be sent and access is restricted to configured workspaces.

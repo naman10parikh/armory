@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-03T19:20:41Z"
+pushed_at: "2026-10-21T12:31:07Z"
 ---
 ## What it is
 LLM-native code tools: 44 MCP tools for AI agents to read, understand and modify code. Rust tree-sitter parse daemon (crash-isolated), SQLite symbol index (repo map 98ms), transactional journal-backed writes, deterministic quality gates (zero LLM calls). 512MB cgroup: 128 concurrent, zero OOM. MIT.

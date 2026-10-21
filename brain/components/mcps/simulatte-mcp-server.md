@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-28T14:17:20Z"
+pushed_at: "2026-10-17T02:18:51Z"
 ---
 ## What it is
 Enables running Simulatte's 26 research SKUs (concept testing, pricing, etc.) from any MCP-compatible AI client, returning structured JSON results.

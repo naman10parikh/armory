@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T15:51:10Z"
+pushed_at: "2026-10-19T05:19:06Z"
 ---
 ## What it is
 MCP server for Nextcloud Collectives that exposes collectives, pages, tags, attachments, page history, and trash to Claude and MCP-compatible clients via OCS API and WebDAV.

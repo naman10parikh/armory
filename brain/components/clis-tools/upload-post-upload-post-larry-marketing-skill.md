@@ -8,7 +8,7 @@ source_url: https://github.com/Upload-Post/upload-post-larry-marketing-skill
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 39
+stars: 40
 eval_score: null
 mentions: 2
 verified_at: 2026-10-11

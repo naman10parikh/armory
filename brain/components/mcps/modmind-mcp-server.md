@@ -8,12 +8,12 @@ source_url: https://github.com/waterpail114514/ModMind-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 2
 pushed_at: "2026-08-31T14:08:34Z"
 ---
 ## What it is

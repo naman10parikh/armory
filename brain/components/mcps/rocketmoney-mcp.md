@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-14T06:41:45Z"
+pushed_at: "2026-10-20T21:55:04Z"
 ---
 ## What it is
 Read-only MCP server for Rocket Money that lets you browse your accounts, transactions, spending, budgets, net worth, and subscriptions through natural language.

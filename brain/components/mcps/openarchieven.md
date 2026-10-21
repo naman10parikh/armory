@@ -12,8 +12,8 @@ stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-10-14T11:57:51Z"
+forks: 2
+pushed_at: "2026-10-14T12:54:41Z"
 ---
 ## What it is
 MCP server `Open Archieven`, catalogued on PulseMCP. Searches Dutch and Belgian genealogical archives for historical person records.

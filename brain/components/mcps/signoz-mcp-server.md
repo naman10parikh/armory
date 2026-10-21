@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 46
-pushed_at: "2026-10-14T11:06:41Z"
+forks: 47
+pushed_at: "2026-10-21T05:12:22Z"
 ---
 ## What it is
 Enables AI assistants and LLMs to query SigNoz observability data (metrics, traces, logs, alerts, dashboards) using natural language.

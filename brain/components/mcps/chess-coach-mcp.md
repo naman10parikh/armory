@@ -8,13 +8,13 @@ source_url: https://github.com/parkseokjune/chess-coach-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-18T06:46:43Z"
+pushed_at: "2026-10-15T06:29:56Z"
 ---
 ## What it is
 A hybrid AI chess coach MCP server that uses Stockfish for grounded evaluation and LLM for natural-language coaching, enabling game analysis, weakness diagnosis, and personalized drills from your own games.

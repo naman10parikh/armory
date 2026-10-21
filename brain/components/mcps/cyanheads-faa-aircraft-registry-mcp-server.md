@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T20:50:47Z"
+pushed_at: "2026-10-17T23:01:51Z"
 ---
 ## What it is
 Enables offline lookup and search of the US civil aircraft registry by N-number, owner, type, or state, returning detailed aircraft and ownership information.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T18:31:44Z"
+pushed_at: "2026-10-19T14:55:00Z"
 ---
 ## What it is
 Self-hosted video intelligence pipeline that turns video into structured, citable, queryable JSON scene graphs, enabling AI assistants to analyze and search across video libraries without re-processing.

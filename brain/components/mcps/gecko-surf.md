@@ -8,13 +8,13 @@ source_url: https://github.com/GeckoVision/gecko-surf
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T04:32:17Z"
+pushed_at: "2026-10-19T19:42:12Z"
 ---
 ## What it is
 Projects an Agent Surface (deterministic call graph) for any OpenAPI, enabling LLM agents to make correct, chain-of-calls interactions without guessing.

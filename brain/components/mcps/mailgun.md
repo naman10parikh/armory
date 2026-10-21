@@ -14,7 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 mentions: null
 forks: 21
-pushed_at: "2026-09-16T15:51:43Z"
+pushed_at: "2026-10-19T21:13:04Z"
 ---
 ## What it is
 MCP server `Mailgun`, catalogued on PulseMCP. Integrates with Mailgun's email service API to enable sending emails and retrieving delivery statistics through over 30 endpoints including message sending, domain information, and analytics

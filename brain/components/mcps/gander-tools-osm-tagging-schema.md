@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-12T22:13:03Z"
+pushed_at: "2026-10-18T18:13:49Z"
 ---
 ## What it is
 MCP server `OpenStreetMap Tagging Schema`, catalogued on PulseMCP. Query and validate OpenStreetMap tags with preset discovery and validation tools

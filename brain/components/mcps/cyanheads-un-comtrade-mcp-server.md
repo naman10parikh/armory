@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/un-comtrade-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T16:08:08Z"
+pushed_at: "2026-10-17T23:13:48Z"
 ---
 ## What it is
 Access UN Comtrade international merchandise and services trade statistics via MCP tools for country lookups, HS commodity search, bilateral trade flows, balances, rankings, and data availability.

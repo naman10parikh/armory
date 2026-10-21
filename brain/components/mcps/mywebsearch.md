@@ -8,13 +8,13 @@ source_url: https://github.com/wtznicy/my-websearch
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-14T01:30:47Z"
+forks: 1
+pushed_at: "2026-10-21T05:44:53Z"
 ---
 ## What it is
 Name: MyWebSearch Type: MCP Server (stdio + streamable-http/SSE) Repository: https://github.com/wtznicy/my-websearch npm: my-websearch (npx -y my-websearch@latest) Description: Multi-engine web search MCP server, CLI and local daemon — no API keys or registration required. Searches bing/baidu/csdn/j

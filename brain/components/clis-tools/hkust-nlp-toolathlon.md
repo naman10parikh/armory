@@ -8,13 +8,13 @@ source_url: https://github.com/hkust-nlp/Toolathlon
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 496
+stars: 503
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 69
+forks: 68
 pushed_at: "2026-08-18T18:27:01Z"
 ---
 ## What it is

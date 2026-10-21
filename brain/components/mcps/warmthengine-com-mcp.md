@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T10:24:04Z"
+pushed_at: "2026-10-18T01:07:26Z"
 ---
 ## What it is
 MCP server exposing 16 programmatic tools for AI systems to query verified Coordination Intelligence on AI infrastructure events, connections, and actors across geopolitical blocs.

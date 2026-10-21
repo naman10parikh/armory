@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T21:53:43Z"
+pushed_at: "2026-10-21T08:16:07Z"
 ---
 ## What it is
 Provides fail-closed, read-only PostgreSQL and MongoDB access for AI agents via MCP, enabling structured data inspection and bounded queries without mutation capabilities.

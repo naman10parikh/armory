@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-13T23:29:23Z"
+pushed_at: "2026-10-21T07:55:31Z"
 ---
 ## What it is
 MCP server for Flare Network enabling natural language queries of FTSO price feeds, FAssets, balances, and FDC attestations.

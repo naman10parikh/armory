@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T06:00:28Z"
+pushed_at: "2026-10-15T16:32:52Z"
 ---
 ## What it is
 An MCP server that checks whether the world changed after a tool call by declaring observable outcomes, verifying them with read-only verifiers, and keeping hash-chained receipts.

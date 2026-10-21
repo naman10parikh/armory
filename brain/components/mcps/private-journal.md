@@ -8,12 +8,12 @@ source_url: https://github.com/obra/private-journal-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 455
+stars: 457
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 91
+forks: 92
 pushed_at: "2026-08-11T18:24:13Z"
 ---
 ## What it is

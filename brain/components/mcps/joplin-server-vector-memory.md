@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-13T19:27:03Z"
+pushed_at: "2026-10-15T21:24:43Z"
 ---
 ## What it is
 Enables AI assistants to securely search and retrieve information from a user's encrypted Joplin notebook via vector memory and MCP.

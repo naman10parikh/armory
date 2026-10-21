@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-24T23:12:24Z"
+pushed_at: "2026-10-20T18:12:07Z"
 ---
 ## What it is
 Enables searching and browsing anime/manga, characters, staff, and more on AniList without credentials, and with a one-time login allows managing personal lists, favorites, follows, and activity.

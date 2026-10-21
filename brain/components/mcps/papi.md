@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T11:07:37Z"
+pushed_at: "2026-10-15T19:24:50Z"
 ---
 ## What it is
 A structured project memory MCP server that persists plans, builds, reviews, and decisions across AI coding sessions and tools, enabling continuous project management with a dashboard.

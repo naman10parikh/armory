@@ -12,8 +12,8 @@ stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-09-06T16:43:14Z"
+forks: 1
+pushed_at: "2026-10-20T01:30:58Z"
 ---
 ## What it is
 MCP server `Fleet`, catalogued on PulseMCP. Docker production management CLI with 23 tools for container orchestration, systemd services, nginx configuration, encrypted secrets, Git workflows, health monitoring, and Telegram alerts.

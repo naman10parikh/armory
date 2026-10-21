@@ -8,13 +8,13 @@ source_url: https://github.com/DmitriyGolub/threejs-devtools-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 119
+stars: 123
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
-pushed_at: "2026-04-07T20:12:15Z"
+forks: 12
+pushed_at: "2026-10-14T20:05:39Z"
 ---
 ## What it is
 MCP server for inspecting and modifying Three.js scenes in real time — 59 tools for objects, materials, shaders, textures, animations, performance monitoring, memory diagnostics, and code generation.

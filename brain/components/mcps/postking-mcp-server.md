@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T20:46:06Z"
+pushed_at: "2026-10-19T15:17:12Z"
 ---
 ## What it is
 An MCP server for PostKing that enables AI-powered content management, social media scheduling, blog publishing, and brand management through natural language conversations.

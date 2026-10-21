@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T22:55:19Z"
+pushed_at: "2026-10-21T01:23:00Z"
 ---
 ## What it is
 Enables secure interaction with Nagios Core for querying host and service status, acknowledging problems, adding comments, scheduling forced checks, and reading notification history.

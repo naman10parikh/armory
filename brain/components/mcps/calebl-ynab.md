@@ -8,12 +8,12 @@ source_url: https://github.com/calebl/ynab-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 154
+stars: 158
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 67
-pushed_at: "2026-10-14T11:34:32Z"
+forks: 70
+pushed_at: "2026-10-21T10:11:55Z"
 ---
 ## What it is
 MCP server `YNAB`, catalogued on PulseMCP. Provides a bridge to the YNAB personal finance API for listing budgets, retrieving detailed budget information, and creating transactions without switching contexts

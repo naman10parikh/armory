@@ -12,8 +12,8 @@ stars: 58
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 66
-pushed_at: "2026-10-13T12:43:10Z"
+forks: 67
+pushed_at: "2026-10-21T09:18:28Z"
 ---
 ## What it is
 MCP server `Autotask PSA`, catalogued on PulseMCP. Gives AI assistants direct access to Kaseya Autotask PSA with 39 tools for tickets, time entries, companies, projects, and billing.

@@ -8,14 +8,14 @@ source_url: https://github.com/NangoHQ/nango
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 12653
+stars: 12914
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1435
-pushed_at: "2026-10-14T12:07:53Z"
+forks: 1465
+pushed_at: "2026-10-21T12:31:41Z"
 ---
 ## What it is
 Connect your agents & product to 1,000 APIs.

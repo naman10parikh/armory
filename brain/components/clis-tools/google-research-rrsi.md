@@ -8,13 +8,13 @@ source_url: https://github.com/google-research/rrsi
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1500
+stars: 1584
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 144
+forks: 153
 pushed_at: "2026-09-23T22:16:25Z"
 ---
 ## What it is

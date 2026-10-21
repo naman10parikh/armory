@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T18:29:08Z"
+pushed_at: "2026-10-20T20:07:41Z"
 ---
 ## What it is
 An MCP server that returns random JSON things — people, words, values, coordinates, and an always-empty list.

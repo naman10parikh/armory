@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-29T10:42:20Z"
+pushed_at: "2026-10-17T18:33:02Z"
 ---
 ## What it is
 Provider-neutral short-form AI video toolkit for agents: Sora, Gemini Veo, xAI/Grok and Seedance.

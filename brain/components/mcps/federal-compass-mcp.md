@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T05:14:23Z"
+pushed_at: "2026-10-21T05:14:09Z"
 ---
 ## What it is
 An MCP server that connects Claude to the USAJobs API, enabling natural language search for federal jobs, translation of government jargon, CV qualification analysis, and explanation of federal concepts like GS grades and clearances.

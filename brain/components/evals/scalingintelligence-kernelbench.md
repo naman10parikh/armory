@@ -8,13 +8,13 @@ source_url: https://github.com/ScalingIntelligence/KernelBench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1291
+stars: 1295
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, evals]
-forks: 197
+forks: 198
 pushed_at: "2026-03-24T04:29:13Z"
 ---
 ## What it is

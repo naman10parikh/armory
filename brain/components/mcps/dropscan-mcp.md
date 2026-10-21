@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-27T15:43:33Z"
+pushed_at: "2026-10-19T18:15:30Z"
 ---
 ## What it is
 MCP server for the Dropscan postal-mail-to-email API. It enables reading and managing physical mail items, including listing, downloading scans, and (when explicitly enabled) executing actions like forwarding or destroying letters.

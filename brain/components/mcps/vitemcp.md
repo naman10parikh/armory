@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-30T06:31:49Z"
+pushed_at: "2026-10-20T16:59:34Z"
 ---
 ## What it is
 A TypeScript framework for building stateless MCP servers, simplifying tool, resource, and prompt definitions with built-in auth, streaming, and edge deployment support.

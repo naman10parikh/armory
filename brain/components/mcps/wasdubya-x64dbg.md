@@ -8,11 +8,11 @@ source_url: https://github.com/wasdubya/x64dbgmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 597
+stars: 603
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 72
+forks: 74
 pushed_at: "2026-06-05T00:34:07Z"
 ---
 ## What it is

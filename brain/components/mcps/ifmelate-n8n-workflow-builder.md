@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-04-14T07:13:38Z"
+pushed_at: "2026-10-17T13:40:24Z"
 ---
 ## What it is
 MCP server `n8n Workflow Builder`, catalogued on PulseMCP. Integrates with n8n workflow automation platform to enable natural language workflow creation, management, and deployment with encrypted credential handling, role-based access control, and automated testing capabilities.

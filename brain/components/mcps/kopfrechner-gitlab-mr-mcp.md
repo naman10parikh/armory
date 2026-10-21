@@ -13,7 +13,7 @@ related: []
 tags: [mcp, version-control]
 stars: 94
 forks: 31
-pushed_at: "2026-10-14T09:49:44Z"
+pushed_at: "2026-10-19T23:44:11Z"
 ---
 ## What it is
 Interact seamlessly with issues and merge requests of your GitLab projects.

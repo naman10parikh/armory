@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T08:28:53Z"
+pushed_at: "2026-10-17T07:22:42Z"
 ---
 ## What it is
 Enumerates everything in a code checkout addressed to an AI agent, including instruction files, hook commands, declared MCP servers, and skills/subagents, so you can review what your agent will actually follow.

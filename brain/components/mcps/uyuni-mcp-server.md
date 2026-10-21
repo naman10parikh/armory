@@ -8,13 +8,13 @@ source_url: https://github.com/uyuni-project/mcp-server-uyuni
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-10-13T09:29:42Z"
+pushed_at: "2026-10-20T11:16:05Z"
 ---
 ## What it is
 Bridges LLMs with Uyuni infrastructure management, enabling natural language system administration such as inspecting systems, managing updates, and scheduling actions.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-13T04:33:44Z"
+pushed_at: "2026-10-17T05:48:31Z"
 ---
 ## What it is
 A hosted Model Context Protocol server for the Ainu-language toolchain, enabling LLMs to edit the Itak-uoeroskip glossary, search corpora, dictionaries, and grammar resources, and perform script conversion.

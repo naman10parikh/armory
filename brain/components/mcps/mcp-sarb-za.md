@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T21:23:20Z"
+pushed_at: "2026-10-17T03:31:27Z"
 ---
 ## What it is
 Enables access to South African Reserve Bank data via natural language queries, part of the Pipeworx MCP gateway.

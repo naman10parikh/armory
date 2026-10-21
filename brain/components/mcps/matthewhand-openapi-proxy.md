@@ -8,13 +8,13 @@ source_url: https://github.com/matthewhand/mcp-openapi-proxy
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 157
+stars: 158
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 eval_score: 1
 forks: 39
-pushed_at: "2026-10-11T20:42:07Z"
+pushed_at: "2026-10-14T22:38:12Z"
 ---
 ## What it is
 MCP server `OpenAPI`, catalogued on PulseMCP. Dynamically exposes REST APIs defined by OpenAPI specifications as MCP tools, enabling seamless integration of external services into workflows.

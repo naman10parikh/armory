@@ -8,13 +8,13 @@ source_url: https://github.com/svnscha/mcp-windbg
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1617
+stars: 1628
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 164
-pushed_at: "2026-10-10T16:33:03Z"
+forks: 165
+pushed_at: "2026-10-20T16:15:16Z"
 ---
 ## What it is
 Bridges AI models with WinDbg for crash dump analysis and remote debugging.

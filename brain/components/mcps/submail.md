@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-14T11:58:45Z"
+pushed_at: "2026-10-21T12:00:44Z"
 ---
 ## What it is
 A self-hosted unified inbox that connects multiple mailboxes and exposes email capabilities (read, send, AI, translation) through MCP and HTTP APIs.

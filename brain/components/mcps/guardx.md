@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T11:50:29Z"
+pushed_at: "2026-10-20T11:52:19Z"
 ---
 ## What it is
 A keyless, defensive code-security auditor that scans codebases for hardcoded secrets, audits dependencies for known CVEs, and checks passwords against breach data using k-anonymity.

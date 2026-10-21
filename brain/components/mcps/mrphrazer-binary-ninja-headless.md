@@ -8,11 +8,11 @@ source_url: https://github.com/mrphrazer/binary-ninja-headless-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 258
+stars: 259
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 23
+forks: 24
 pushed_at: "2026-09-19T15:35:42Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-29T10:11:34Z"
+pushed_at: "2026-10-21T01:36:43Z"
 ---
 ## What it is
 Live football/soccer data from top European leagues, enabling queries for standings, fixtures, scorers, and team comparisons via natural language.

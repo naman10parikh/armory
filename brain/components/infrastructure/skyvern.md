@@ -8,13 +8,13 @@ source_url: https://github.com/Skyvern-AI/skyvern
 license: AGPL-3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 23195
+stars: 23240
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, skyvern]
-forks: 2196
-pushed_at: "2026-10-14T07:17:13Z"
+forks: 2203
+pushed_at: "2026-10-21T10:10:30Z"
 ---
 ## What it is
 Open-source agent platform that automates browser-based workflows using LLMs and computer vision. It identifies interactive elements via screenshots, handles CAPTCHAs, and supports complex multi-step form flows.

@@ -8,14 +8,14 @@ source_url: https://github.com/firecrawl/firecrawl
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 191404
+stars: 193691
 eval_score: null
 mentions: 9
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 10146
-pushed_at: "2026-10-13T22:58:04Z"
+forks: 10222
+pushed_at: "2026-10-21T07:10:52Z"
 ---
 ## What it is
 The context API to search, scrape, and interact with the web at scale. 🔥

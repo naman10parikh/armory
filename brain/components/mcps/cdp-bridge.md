@@ -8,12 +8,12 @@ source_url: https://github.com/Unagi-cq/cdp-bridge-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 306
+stars: 305
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 39
+forks: 38
 pushed_at: "2026-10-07T06:38:08Z"
 ---
 ## What it is

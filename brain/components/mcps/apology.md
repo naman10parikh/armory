@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:22:53Z"
+pushed_at: "2026-10-19T03:55:09Z"
 ---
 ## What it is
 Generate personalized apologies for any situation with adjustable sincerity level, recipient, and reason.

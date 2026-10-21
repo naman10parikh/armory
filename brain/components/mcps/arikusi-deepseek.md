@@ -8,12 +8,12 @@ source_url: https://github.com/arikusi/deepseek-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-10-14T09:01:19Z"
+pushed_at: "2026-10-21T07:10:06Z"
 ---
 ## What it is
 MCP server `DeepSeek`, catalogued on PulseMCP. Bridge to DeepSeek AI models with chat, reasoning, multi-turn sessions, function calling, and cost tracking.

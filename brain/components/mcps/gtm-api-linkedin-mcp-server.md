@@ -8,13 +8,13 @@ source_url: https://github.com/gtm-api/linkedin-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 90
+stars: 92
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T11:22:00Z"
+pushed_at: "2026-10-21T11:28:14Z"
 ---
 ## What it is
 A managed MCP server that gives AI agents 160+ typed LinkedIn tools for searching, connecting, messaging, and enriching profiles, with built-in account safety enforcement.

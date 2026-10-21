@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-10-05T04:22:51Z"
+pushed_at: "2026-10-19T01:46:42Z"
 ---
 ## What it is
 MCP server `DebuggAI`, catalogued on PulseMCP. Provides zero-configuration end-to-end testing for web applications by creating secure tunnels to local development servers and spawning testing agents that interact with web interfaces through natural language descriptions, returning detailed test results with execution recordings and screenshots.

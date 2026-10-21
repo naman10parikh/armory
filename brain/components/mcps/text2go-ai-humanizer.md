@@ -8,11 +8,11 @@ source_url: https://github.com/text2go/ai-humanizer-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 61
+stars: 62
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 20
+forks: 19
 pushed_at: "2024-12-27T09:12:44Z"
 ---
 ## What it is

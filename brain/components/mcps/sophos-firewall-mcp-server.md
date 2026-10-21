@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T17:17:22Z"
+pushed_at: "2026-10-19T05:45:05Z"
 ---
 ## What it is
 An asynchronous MCP server for Sophos Firewall, enabling AI assistants to manage, audit, and troubleshoot network security infrastructure.

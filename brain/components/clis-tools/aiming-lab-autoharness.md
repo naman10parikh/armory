@@ -8,13 +8,13 @@ source_url: https://github.com/aiming-lab/AutoHarness
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 450
+stars: 452
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 37
+forks: 36
 pushed_at: "2026-04-02T20:47:19Z"
 ---
 ## What it is

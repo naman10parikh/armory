@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T17:55:56Z"
+pushed_at: "2026-10-17T04:03:01Z"
 ---
 ## What it is
 MCP server for reading, querying, and filtering local JSON files with extended JSONPath syntax, supporting sorting, aggregations, and complex conditions.

@@ -8,11 +8,11 @@ source_url: https://github.com/migratorywhale/stackchan-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 88
+stars: 94
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 21
+forks: 22
 pushed_at: "2026-10-07T08:56:42Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-27T05:59:54Z"
+pushed_at: "2026-10-15T12:16:27Z"
 ---
 ## What it is
 Enables AI assistants to access Swiss public transport data including journey planning, real-time departures, disruptions, occupancy forecasts, ticket prices, and train formations via a standardized MCP interface.

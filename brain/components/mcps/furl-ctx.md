@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T05:14:20Z"
+pushed_at: "2026-10-21T05:14:28Z"
 ---
 ## What it is
 Furl folds repeated tool output into a hash-addressed marker, keeps the line that matters, and returns any original byte-exact the moment the agent asks for it. No summary. No guessing. Nothing thrown away.

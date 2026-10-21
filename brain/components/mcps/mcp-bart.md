@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T22:04:06Z"
+pushed_at: "2026-10-20T03:57:56Z"
 ---
 ## What it is
 Provides real-time San Francisco Bay Area Rapid Transit data, enabling queries about BART schedules, routes, and station information through natural language.

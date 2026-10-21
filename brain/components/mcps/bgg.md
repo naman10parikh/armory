@@ -8,12 +8,12 @@ source_url: https://github.com/kkjdaniel/bgg-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 14
-pushed_at: "2026-10-05T11:53:14Z"
+pushed_at: "2026-10-15T11:51:45Z"
 ---
 ## What it is
 MCP server `BoardGameGeek`, catalogued on PulseMCP. Access BoardGameGeek game data, user collections, and profiles

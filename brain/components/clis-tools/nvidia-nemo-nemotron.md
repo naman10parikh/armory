@@ -8,14 +8,14 @@ source_url: https://github.com/NVIDIA-NeMo/Nemotron
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2156
+stars: 2190
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 439
-pushed_at: "2026-10-06T14:47:31Z"
+forks: 447
+pushed_at: "2026-10-21T12:19:30Z"
 ---
 ## What it is
 Developer Asset Hub for NVIDIA Nemotron — A one-stop resource for training recipes, usage cookbooks, datasets, and full end-to-end reference examples to build with Nemotron models

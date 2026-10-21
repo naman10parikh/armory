@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-07T16:06:45Z"
+pushed_at: "2026-10-21T06:04:47Z"
 ---
 ## What it is
 MCP server `The Blue Alliance`, catalogued on PulseMCP. Access FIRST Robotics Competition team, event, and match data

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-07T04:25:21Z"
+pushed_at: "2026-10-21T04:24:25Z"
 ---
 ## What it is
 MCP server `AI Context Kit`, catalogued on PulseMCP. Lint, measure, and sync AI context files across Cursor, Claude Code, and Copilot.

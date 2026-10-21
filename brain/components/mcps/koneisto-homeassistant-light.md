@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-01-27T19:57:41Z"
+pushed_at: "2026-10-20T19:40:41Z"
 ---
 ## What it is
 MCP server `Home Assistant Light`, catalogued on PulseMCP. Control Home Assistant lights and scenes with safety-focused design

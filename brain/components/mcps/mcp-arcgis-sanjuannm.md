@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:56:48Z"
+pushed_at: "2026-10-19T23:03:27Z"
 ---
 ## What it is
 Enables querying and searching San Juan County, New Mexico open geospatial data (parcels, addresses, zoning, public works) via ArcGIS feature services.

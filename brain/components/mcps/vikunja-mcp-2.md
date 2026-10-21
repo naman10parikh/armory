@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T21:47:44Z"
+pushed_at: "2026-10-14T17:07:13Z"
 ---
 ## What it is
 A stateless FastMCP server that exposes the Vikunja REST API as MCP tools for managing projects, tasks, labels, comments, filters, and webhooks, designed for multi-agent use with token passthrough for per-agent authentication.

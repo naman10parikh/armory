@@ -8,12 +8,12 @@ source_url: https://github.com/IvanSkainet/arena-agent
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 3
 pushed_at: "2026-10-09T20:22:02Z"
 ---
 ## What it is

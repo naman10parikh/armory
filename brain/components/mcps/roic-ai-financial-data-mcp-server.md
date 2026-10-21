@@ -8,13 +8,13 @@ source_url: https://github.com/roicai/mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-07T10:58:29Z"
+pushed_at: "2026-10-15T14:33:53Z"
 ---
 ## What it is
 Enables AI assistants to access stock prices, financial statements, earnings call transcripts, and fundamental data for 60,000+ public companies via 25 read-only tools.

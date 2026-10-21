@@ -8,12 +8,12 @@ source_url: https://github.com/ahujasid/blender-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30770
+stars: 31856
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2785
-pushed_at: "2026-10-06T15:08:04Z"
+forks: 2888
+pushed_at: "2026-10-20T14:06:32Z"
 ---
 ## What it is
 MCP server `Blender`, catalogued on PulseMCP. Enables natural language control of Blender for 3D scene creation, manipulation, and rendering without requiring knowledge of Blender's interface or Python API.

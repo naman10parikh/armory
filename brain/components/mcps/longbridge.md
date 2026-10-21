@@ -14,7 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 mentions: null
 forks: 4
-pushed_at: "2026-10-12T07:37:44Z"
+pushed_at: "2026-10-16T11:39:56Z"
 ---
 ## What it is
 MCP server `Longbridge`, catalogued on PulseMCP. Official Longbridge brokerage MCP for US and HK market data, trading, and portfolio analytics.

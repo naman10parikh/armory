@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T09:49:28Z"
+pushed_at: "2026-10-20T09:46:29Z"
 ---
 ## What it is
 Enables querying logs across Loki/SLS, querying databases via Archery, accessing Choerodon project collaboration tools, and searching local code repositories through a unified MCP interface with self-contained configuration.

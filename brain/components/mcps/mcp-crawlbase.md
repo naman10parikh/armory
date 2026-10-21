@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:02:15Z"
+pushed_at: "2026-10-20T22:29:38Z"
 ---
 ## What it is
 Enables AI agents to crawl web pages using the Crawlbase Crawling API via MCP, supporting plain English queries through Pipeworx gateway.

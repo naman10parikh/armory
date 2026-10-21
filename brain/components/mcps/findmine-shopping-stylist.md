@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-14T08:08:31Z"
+pushed_at: "2026-10-16T05:09:17Z"
 ---
 ## What it is
 MCP server `FindMine Shopping Stylist`, catalogued on PulseMCP. Integrates with FindMine's product styling API to enable fashion recommendations, outfit creation, product browsing, and style guide access for e-commerce platforms.

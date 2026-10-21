@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 34
-pushed_at: "2026-10-14T11:27:00Z"
+pushed_at: "2026-10-21T12:47:09Z"
 ---
 ## What it is
 MCP server `Code Assistant`, catalogued on PulseMCP. Rust-based code exploration server that enables reading, writing, and understanding codebases through autonomous navigation, file summarization, and multi-provider LLM support.

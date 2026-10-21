@@ -8,13 +8,13 @@ source_url: https://github.com/nagameTW/mcp-server-malcolm
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T03:53:54Z"
+pushed_at: "2026-10-21T09:20:31Z"
 ---
 ## What it is
 MCP server for Malcolm (Zeek/Suricata/Arkime/OpenSearch/NetBox): full read surface plus opt-in, audited write tools.

@@ -8,13 +8,13 @@ source_url: https://github.com/n1byn1kt/apitap
 license: Business Source License 1.1
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 129
+stars: 130
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-10-13T21:14:07Z"
+pushed_at: "2026-10-21T00:46:59Z"
 ---
 ## What it is
 MCP server that turns any website into an API by capturing or importing API endpoints, enabling AI agents to interact with web services without a browser, with 20-100x token cost reduction versus browser automation.

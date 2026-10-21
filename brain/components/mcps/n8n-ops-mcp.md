@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T02:38:09Z"
+pushed_at: "2026-10-20T03:34:46Z"
 ---
 ## What it is
 Provides ops-focused n8n tools for MCP-compatible agents, enabling listing, inspecting, triggering, validating, managing tags, running security audits, and safely editing n8n workflows with auto-backup and confirm gates.

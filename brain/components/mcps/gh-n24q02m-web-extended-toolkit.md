@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-13T18:03:10Z"
+pushed_at: "2026-10-20T22:13:44Z"
 ---
 ## What it is
 MCP server `Web Extended Toolkit`, catalogued on PulseMCP. Web search, content extraction, academic research, and library documentation indexing.

@@ -8,12 +8,12 @@ source_url: https://github.com/tch1001/jarbobo
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-08-07T15:57:45Z"
 ---
 ## What it is

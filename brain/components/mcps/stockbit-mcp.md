@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 19
-pushed_at: "2026-10-13T11:21:28Z"
+forks: 20
+pushed_at: "2026-10-19T12:45:12Z"
 ---
 ## What it is
 Read-only MCP server for Stockbit (IDX market data) providing broker summary/bandarmology, quotes, top movers, orderbook, fundamentals, and sentiment using your own session. Unofficial and does not place orders.

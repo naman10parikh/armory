@@ -8,11 +8,11 @@ source_url: https://github.com/minimax-ai/minimax-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1585
+stars: 1593
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 287
+forks: 285
 pushed_at: "2026-08-20T12:06:49Z"
 mentions: 1
 ---

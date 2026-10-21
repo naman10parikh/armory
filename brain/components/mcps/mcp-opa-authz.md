@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T15:12:58Z"
+pushed_at: "2026-10-19T13:01:06Z"
 ---
 ## What it is
 An MCP server that enforces authorization by evaluating Rego policies or querying an OpenID AuthZEN-compliant PDP, providing accurate access decisions for AI agents. It includes tools for policy evaluation, AuthZEN evaluation, batch evaluation, and PDP discovery.

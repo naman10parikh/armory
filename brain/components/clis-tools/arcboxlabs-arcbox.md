@@ -8,14 +8,14 @@ source_url: https://github.com/arcboxlabs/arcbox
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 4238
+stars: 4237
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 187
-pushed_at: "2026-10-14T11:50:51Z"
+forks: 185
+pushed_at: "2026-10-20T21:15:46Z"
 ---
 ## What it is
 Run AI agents on real and isolated machines — own kernel, filesystem, and network — with <100ms boot. Local first, OCI compatible, pure Rust.

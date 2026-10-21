@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 32
-pushed_at: "2026-10-14T11:53:39Z"
+forks: 31
+pushed_at: "2026-10-21T12:34:27Z"
 ---
 ## What it is
 Markdown-first long-term memory for AI coding agents, enabling hybrid search over local files via MCP tools.

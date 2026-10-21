@@ -8,14 +8,14 @@ source_url: https://github.com/FreeCAD/FreeCAD
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 34282
+stars: 34610
 eval_score: 1
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 6199
-pushed_at: "2026-10-14T09:02:21Z"
+forks: 6245
+pushed_at: "2026-10-21T12:33:59Z"
 ---
 ## What it is
 Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.

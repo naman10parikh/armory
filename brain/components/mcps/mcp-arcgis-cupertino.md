@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:27:44Z"
+pushed_at: "2026-10-19T04:00:16Z"
 ---
 ## What it is
 Provides tools to search and query City of Cupertino's open geospatial data (ArcGIS), including parcels, zoning, and public works layers.

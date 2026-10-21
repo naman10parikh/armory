@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-07T14:54:26Z"
+pushed_at: "2026-10-18T05:07:44Z"
 ---
 ## What it is
 MCP server `GitHub (adelaidasofia)`, catalogued on PulseMCP. Self-hosted GitHub MCP server for repository operations, issues, and pull requests.

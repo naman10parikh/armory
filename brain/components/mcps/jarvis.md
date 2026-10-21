@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T09:57:43Z"
+pushed_at: "2026-10-18T17:10:47Z"
 ---
 ## What it is
 MCP server for designing drones and related physical systems through natural language in Spanish, with deterministic calculation and simulation.

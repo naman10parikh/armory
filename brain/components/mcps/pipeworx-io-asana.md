@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-25T22:01:11Z"
+pushed_at: "2026-10-19T23:09:02Z"
 ---
 ## What it is
 MCP server `Asana`, catalogued on PulseMCP. Asana project management integration for workspaces and tasks via the Asana REST API with OAuth credentials.

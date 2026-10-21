@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-05T01:47:12Z"
+pushed_at: "2026-10-17T17:48:29Z"
 ---
 ## What it is
 An MCP server that simplifies Figma design data, generates code in multiple frameworks, and provides accessibility audits and drift detection, all using a free Figma Personal Access Token without a paid Dev Mode seat.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-09-28T05:42:19Z"
+pushed_at: "2026-10-20T17:36:31Z"
 ---
 ## What it is
 A local receipt and approval gate for AI agent sessions. The agent can act, but it cannot sign.

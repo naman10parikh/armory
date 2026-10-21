@@ -8,11 +8,11 @@ source_url: https://github.com/cupofowls/kroger-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 74
+stars: 76
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 30
+forks: 29
 pushed_at: "2026-09-06T22:09:49Z"
 ---
 ## What it is

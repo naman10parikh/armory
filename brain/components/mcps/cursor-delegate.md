@@ -8,13 +8,13 @@ source_url: https://github.com/andreilungeanu/cursor-delegate-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-05T11:57:21Z"
+pushed_at: "2026-10-21T11:03:06Z"
 ---
 ## What it is
 Enables MCP clients like Claude Code and Codex to delegate coding tasks to Cursor's CLI agent, which implements changes in the workspace and returns clean, structured results for review.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 60
-pushed_at: "2026-10-13T18:01:10Z"
+forks: 59
+pushed_at: "2026-10-21T08:13:23Z"
 ---
 ## What it is
 The local MCP server that gives any AI agent safe desktop control. Provides 6 compact tools (computer, accessibility, window, system, browser, task) for cross-platform GUI automation with ground-truth verification.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-09T23:07:49Z"
+pushed_at: "2026-10-17T03:40:52Z"
 ---
 ## What it is
 Enables Claude to perform actions on X, LinkedIn, and Reddit via a Chrome extension, such as connecting with recruiters, finding threads, and replying to posts.

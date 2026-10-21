@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T18:27:08Z"
+pushed_at: "2026-10-19T11:37:03Z"
 ---
 ## What it is
 MCP server for daisyUI React components that enables AI coding assistants to search documentation, look up props, and retrieve code examples.

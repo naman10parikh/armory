@@ -7,14 +7,14 @@ source_url: https://github.com/ArcadeAI/arcade-mcp
 license: unknown
 cli_compat: []
 maturity: stable
-stars: 1050
+stars: 1056
 eval_score: 1
 mentions: null
 verified_at: 
 related: []
 tags: [connectors]
-forks: 120
-pushed_at: "2026-10-14T00:25:58Z"
+forks: 121
+pushed_at: "2026-10-16T03:09:09Z"
 ---
 
 # arcade

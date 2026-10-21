@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-14T12:30:28Z"
+pushed_at: "2026-10-21T10:52:20Z"
 ---
 ## What it is
 MCP server for attaching weapons and props to rigged characters via the GripForge API, supporting multiple styles and output formats for game engines.

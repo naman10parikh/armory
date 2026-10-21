@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T10:46:07Z"
+pushed_at: "2026-10-15T08:55:17Z"
 ---
 ## What it is
 Connect to SparrowDesk using MCP and manage your tickets, knowledge base and more.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T22:03:32Z"
+pushed_at: "2026-10-19T23:11:55Z"
 ---
 ## What it is
 Retrieves metadata for Bank of Canada financial data series using the Valet API. Supports keyless access with date parameters in YYYY-MM-DD format.

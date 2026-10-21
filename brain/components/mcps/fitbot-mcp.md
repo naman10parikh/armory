@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T12:06:40Z"
+pushed_at: "2026-10-20T22:32:16Z"
 ---
 ## What it is
 Enables reserving, canceling, and listing fitness classes on AimHarder through natural language, with support for multiple boxes and waitlists.

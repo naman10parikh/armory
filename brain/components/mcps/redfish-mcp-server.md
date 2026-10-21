@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 11
-pushed_at: "2026-10-14T08:15:06Z"
+pushed_at: "2026-10-19T16:08:57Z"
 ---
 ## What it is
 Enables AI agents to manage infrastructure through natural language queries to Redfish API endpoints, supporting listing endpoints and retrieving resource data.

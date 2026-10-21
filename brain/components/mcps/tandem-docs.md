@@ -8,11 +8,11 @@ source_url: https://github.com/frumu-ai/tandem
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 121
+stars: 123
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
+forks: 13
 pushed_at: "2026-10-06T06:26:14Z"
 ---
 ## What it is

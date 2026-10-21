@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-18T16:15:20Z"
+pushed_at: "2026-10-16T16:16:17Z"
 ---
 ## What it is
 MCP server `.NET Template Engine`, catalogued on PulseMCP. Search, inspect, preview, and create .NET projects from dotnet new templates.

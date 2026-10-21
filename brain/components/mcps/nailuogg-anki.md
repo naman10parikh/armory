@@ -8,12 +8,12 @@ source_url: https://github.com/nailuogg/anki-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 254
+stars: 253
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 38
-pushed_at: "2026-10-13T06:14:40Z"
+pushed_at: "2026-10-21T12:27:43Z"
 ---
 ## What it is
 MCP server `Anki`, catalogued on PulseMCP. Integrates with Anki flashcard software through AnkiConnect to enable deck management, note creation/modification, and search functionality for spaced repetition learning workflows.

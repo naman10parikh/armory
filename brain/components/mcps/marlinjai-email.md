@@ -8,12 +8,12 @@ source_url: https://github.com/marlinjai/email-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 18
-pushed_at: "2026-10-10T09:51:13Z"
+pushed_at: "2026-10-20T11:47:37Z"
 ---
 ## What it is
 MCP server `Email Sender`, catalogued on PulseMCP. Send emails via SMTP with attachment support and HTML formatting.

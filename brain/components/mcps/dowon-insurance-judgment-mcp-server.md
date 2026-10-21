@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-29T05:06:01Z"
+pushed_at: "2026-10-19T01:53:18Z"
 ---
 ## What it is
 Evaluates employment status exemption for corporate directors, family workers, and non-registered executives using registry and employment data, and calculates refund periods considering statute of limitations.

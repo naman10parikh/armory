@@ -8,13 +8,13 @@ source_url: https://github.com/20000419/fauxnix
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 957
+stars: 995
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-13T07:57:33Z"
+pushed_at: "2026-10-15T07:53:02Z"
 ---
 ## What it is
 Deterministic bash→PowerShell translation layer for AI agents on Windows. Exposes a bash tool over MCP; agents write bash, fauxnix runs it natively on PowerShell 5.1 — no WSL, no VM, no Git Bash required.

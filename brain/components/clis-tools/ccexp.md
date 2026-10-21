@@ -13,7 +13,7 @@ related: [agnix, auto-claude]
 tags: [claude-code, tooling]
 stars: 270
 forks: 9
-pushed_at: "2026-10-03T17:43:56Z"
+pushed_at: "2026-10-15T11:26:16Z"
 ---
 ## What it is
 An interactive terminal tool for finding and managing Claude Code configuration files and slash commands.

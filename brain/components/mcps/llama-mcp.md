@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T07:10:35Z"
+pushed_at: "2026-10-20T20:59:46Z"
 ---
 ## What it is
 Enables MCP-native agents to manage deals, briefs, timeline, and posts on the Llama Ventures platform through a set of 19 typed tools.

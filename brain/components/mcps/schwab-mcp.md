@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T01:22:40Z"
+pushed_at: "2026-10-21T12:47:26Z"
 ---
 ## What it is
 Exposes Charles Schwab brokerage data to AI assistants via MCP, enabling natural language queries about positions, option chains, account balances, and trade audits with Lightning micropayment monetization.

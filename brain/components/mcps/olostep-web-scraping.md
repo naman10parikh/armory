@@ -12,8 +12,8 @@ stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
-pushed_at: "2026-07-07T16:57:38Z"
+forks: 10
+pushed_at: "2026-10-19T14:27:35Z"
 ---
 ## What it is
 MCP server `Olostep`, catalogued on PulseMCP. Integrates with Olostep's web scraping API to extract webpage content in markdown format, discover website URLs through search queries, and retrieve structured Google search results with country-specific routing and JavaScript rendering support.

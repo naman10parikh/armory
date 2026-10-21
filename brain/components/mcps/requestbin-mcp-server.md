@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-23T09:20:24Z"
+pushed_at: "2026-10-14T16:14:22Z"
 ---
 ## What it is
 Enables AI coding agents to create webhook bins, inspect and replay HTTP requests, and stand up mock API endpoints directly from the editor.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T03:08:05Z"
+pushed_at: "2026-10-20T03:01:57Z"
 ---
 ## What it is
 Self-hosted MCP gateway that exposes a single MCP URL to AI agents and routes tools/resources to many upstream MCP servers behind it.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-10T19:35:45Z"
+pushed_at: "2026-10-18T01:05:15Z"
 ---
 ## What it is
 MCP server `Kubernetes Tools`, catalogued on PulseMCP. Provides strongly-typed tools for monitoring and diagnosing Kubernetes clusters through read-only operations like listing pods, nodes, services, and deployments, retrieving container logs and statuses, and viewing pod events without requiring kubectl knowledge.

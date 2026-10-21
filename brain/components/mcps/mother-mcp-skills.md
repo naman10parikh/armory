@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-01-29T16:52:57Z"
+pushed_at: "2026-10-17T22:42:07Z"
 ---
 ## What it is
 Automatically discovers and installs AI skills for your project's tech stack, supporting Claude, Copilot, Codex, and other MCP-compatible agents.

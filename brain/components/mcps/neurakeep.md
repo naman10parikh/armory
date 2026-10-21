@@ -8,13 +8,13 @@ source_url: https://github.com/dominiclachance/neurakeep
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-23T16:03:19Z"
+pushed_at: "2026-10-20T15:26:16Z"
 ---
 ## What it is
 Provides a local-first, source-cited memory layer for AI agents, with MCP tools to search, read, explain sources, and propose/apply memory updates.

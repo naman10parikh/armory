@@ -8,12 +8,12 @@ source_url: https://github.com/sourcebot-dev/sourcebot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3990
+stars: 4003
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 373
-pushed_at: "2026-10-10T21:00:49Z"
+forks: 371
+pushed_at: "2026-10-20T19:04:28Z"
 ---
 ## What it is
 MCP server `Sourcebot`, catalogued on PulseMCP. Enables code search across multiple repository hosts including GitHub, GitLab, Gitea, Gerrit, and Bitbucket with advanced filtering options for exploring large codebases through natural language queries.

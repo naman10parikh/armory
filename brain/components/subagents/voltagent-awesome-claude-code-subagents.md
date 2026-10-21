@@ -8,13 +8,13 @@ source_url: https://github.com/VoltAgent/awesome-claude-code-subagents
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 25715
+stars: 25923
 eval_score: null
 mentions: 0
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, subagent]
-forks: 2965
+forks: 2988
 pushed_at: "2026-10-11T08:20:37Z"
 ---
 ## What it is

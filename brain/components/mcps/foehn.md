@@ -8,13 +8,13 @@ source_url: https://github.com/kayhendriksen/foehn
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 44
+stars: 45
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-12T22:13:18Z"
+pushed_at: "2026-10-19T16:59:36Z"
 ---
 ## What it is
 MCP server for querying MeteoSwiss open weather data, providing access to station data, forecasts, radar composites, and more via natural language.

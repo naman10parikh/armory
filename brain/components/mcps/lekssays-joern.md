@@ -8,11 +8,11 @@ source_url: https://github.com/lekssays/codebadger
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 173
+stars: 176
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 21
+forks: 24
 pushed_at: "2026-08-31T11:38:23Z"
 ---
 ## What it is

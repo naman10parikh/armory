@@ -8,13 +8,13 @@ source_url: https://github.com/AishwaryShrivastav/vibe-testing
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T18:01:35Z"
+pushed_at: "2026-10-15T17:17:13Z"
 ---
 ## What it is
 Code-aware browser testing agent — reads your codebase, understands functionality, tests every element, reports with screenshots. Works as MCP server for Cursor/Claude Code or standalone CLI.

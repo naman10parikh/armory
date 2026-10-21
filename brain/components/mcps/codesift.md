@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T09:55:40Z"
+pushed_at: "2026-10-21T08:23:33Z"
 ---
 ## What it is
 Token-efficient code intelligence MCP server that indexes codebases with tree-sitter AST parsing and provides 150 tools for AI agents, using 61-95% fewer tokens than traditional grep/Read workflows.

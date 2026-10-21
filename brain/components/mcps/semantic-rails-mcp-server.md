@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T07:53:25Z"
+pushed_at: "2026-10-19T11:14:39Z"
 ---
 ## What it is
 Enables agents to interact with a governed semantic layer for querying and authoring metrics, providing tools for discovery, planning, validation, and execution of analytics queries.

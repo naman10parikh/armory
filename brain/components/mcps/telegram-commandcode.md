@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T21:53:29Z"
+pushed_at: "2026-10-18T20:18:29Z"
 ---
 ## What it is
 MCP server for Telegram integration with Command Code, enabling AI agents to send messages, photos, files, and read updates via Telegram.

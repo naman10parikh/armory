@@ -8,13 +8,13 @@ source_url: https://github.com/cute-aaa/ds-web-local
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-08-17T03:51:24Z"
+pushed_at: "2026-10-16T02:56:00Z"
 ---
 ## What it is
 Pluggable local agent capability hub that gives web-based DeepSeek local Agent capabilities (MCP/file operations/skills/desktop automation) and lets local agents reuse the same tools.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T23:08:53Z"
+pushed_at: "2026-10-17T23:14:15Z"
 ---
 ## What it is
 Search UniProtKB by protein function, fetch curated records, map IDs across databases, and pull reference proteomes, taxonomy, and sequences via MCP. Supports both STDIO and Streamable HTTP transports.

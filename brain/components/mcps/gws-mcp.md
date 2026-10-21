@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T06:03:56Z"
+pushed_at: "2026-10-19T16:40:05Z"
 ---
 ## What it is
 A small MCP server for read-write access to Google Tasks, Calendar, and Drive, enforcing human approval for all mutating operations.

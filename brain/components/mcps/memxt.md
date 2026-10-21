@@ -8,12 +8,12 @@ source_url: https://github.com/Yupcha/memxt
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 49
+stars: 51
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
+forks: 9
 pushed_at: "2026-07-22T21:10:31Z"
 ---
 ## What it is

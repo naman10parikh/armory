@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-27T18:36:32Z"
+pushed_at: "2026-10-17T13:10:14Z"
 ---
 ## What it is
 MCP server `SAP Cloud ALM`, catalogued on PulseMCP. Provides AI agents access to SAP Cloud ALM through 54 tools spanning features, tasks, test cases, documents, projects, hierarchy, analytics, logs, and process monitoring.

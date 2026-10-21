@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T18:20:42Z"
+pushed_at: "2026-10-16T08:57:44Z"
 ---
 ## What it is
 MCP server for the eXpress corporate messenger, enabling AI agents to list chats, search contacts, send messages, and wait for incoming messages with end-to-end encryption.

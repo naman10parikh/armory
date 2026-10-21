@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-19T03:46:27Z"
+pushed_at: "2026-10-21T02:53:48Z"
 ---
 ## What it is
 Create and manage LinkedIn ad campaigns as drafts via natural language, supporting campaign groups, targeting, creatives, and audience uploads through MCP tools.

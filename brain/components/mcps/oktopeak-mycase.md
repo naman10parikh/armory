@@ -8,12 +8,12 @@ source_url: https://github.com/oktopeak/mycase-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-02T06:40:37Z"
+pushed_at: "2026-10-15T12:57:43Z"
 ---
 ## What it is
 MCP server `MyCase`, catalogued on PulseMCP. Connect to MyCase for case management, document storage, billing, contacts, calendar, and time entry data.

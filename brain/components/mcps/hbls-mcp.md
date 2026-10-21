@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T12:43:45Z"
+pushed_at: "2026-10-17T10:54:30Z"
 ---
 ## What it is
 MCP server providing full-text search and structured access to the Historisches Biographisches Lexikon der Schweiz, including biographies, articles, and volume listings.

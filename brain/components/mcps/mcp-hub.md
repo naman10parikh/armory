@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T19:48:32Z"
+pushed_at: "2026-10-20T11:17:25Z"
 ---
 ## What it is
 A meta-MCP server that acts as a single connection point to lazily spawn and proxy multiple MCP servers, reducing context bloat and process overhead.

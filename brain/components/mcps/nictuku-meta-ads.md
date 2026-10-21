@@ -8,12 +8,12 @@ source_url: https://github.com/pipeboard-co/meta-ads-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1305
+stars: 1321
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 279
-pushed_at: "2026-09-23T17:28:34Z"
+forks: 281
+pushed_at: "2026-10-20T13:58:42Z"
 ---
 ## What it is
 MCP server `Meta Ads API`, catalogued on PulseMCP. Provides a bridge to Facebook's Marketing API for analyzing ad campaigns, reviewing creatives, and monitoring metrics through secure OAuth authentication

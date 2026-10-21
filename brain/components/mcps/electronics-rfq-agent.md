@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T13:46:50Z"
+pushed_at: "2026-10-20T13:40:56Z"
 ---
 ## What it is
 AI quoting agent for electronics distributors. RFQ in, quote out via MCP tools.

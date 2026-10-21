@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T20:26:07Z"
+pushed_at: "2026-10-17T19:14:09Z"
 ---
 ## What it is
 Enables scientific due diligence by grading claims against public literature, clinical trials, and filings, with explicit citations and optional attestation.

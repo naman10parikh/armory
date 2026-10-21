@@ -8,11 +8,11 @@ source_url: https://github.com/rblank9/cross-claude-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
+forks: 18
 pushed_at: "2026-10-08T23:29:35Z"
 ---
 ## What it is

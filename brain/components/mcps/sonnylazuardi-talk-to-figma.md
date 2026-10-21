@@ -8,11 +8,11 @@ source_url: https://github.com/grab/cursor-talk-to-figma-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7053
+stars: 7066
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 779
+forks: 780
 pushed_at: "2026-07-26T07:14:26Z"
 ---
 ## What it is

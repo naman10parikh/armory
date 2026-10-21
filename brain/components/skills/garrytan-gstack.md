@@ -8,14 +8,14 @@ source_url: https://github.com/garrytan/gstack
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 136366
+stars: 137149
 eval_score: null
 mentions: 11
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 20250
-pushed_at: "2026-10-14T01:27:23Z"
+forks: 20340
+pushed_at: "2026-10-21T00:11:11Z"
 ---
 ## What it is
 Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA

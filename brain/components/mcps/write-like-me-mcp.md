@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-03T13:59:23Z"
+pushed_at: "2026-10-19T12:49:59Z"
 ---
 ## What it is
 Enables Claude to write in your personal style by learning from your local documents. It provides statistical style context for natural language rewriting, all without any data leaving your machine.

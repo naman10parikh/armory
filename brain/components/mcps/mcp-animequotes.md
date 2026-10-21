@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:21:50Z"
+pushed_at: "2026-10-19T03:53:43Z"
 ---
 ## What it is
 An MCP server that fetches anime quotes from animechan.io, providing random quotes and search by anime title or character name.

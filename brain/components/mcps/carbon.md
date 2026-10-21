@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-25T22:19:28Z"
+pushed_at: "2026-10-20T04:12:28Z"
 ---
 ## What it is
 MCP server `UK Carbon Intensity`, catalogued on PulseMCP. UK electricity grid carbon intensity and generation mix data via National Grid ESO.

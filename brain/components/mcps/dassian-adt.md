@@ -8,13 +8,13 @@ source_url: https://github.com/DassianInc/dassian-adt
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-04T21:26:48Z"
+pushed_at: "2026-10-19T18:05:34Z"
 ---
 ## What it is
 MCP server for SAP ABAP development via the ADT API. Connect AI assistants to your SAP system — read, write, test, and deploy ABAP code without SAP GUI.

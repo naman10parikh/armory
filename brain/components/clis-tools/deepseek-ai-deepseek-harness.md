@@ -8,14 +8,14 @@ source_url: https://github.com/deepseek-ai/deepseek-harness
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 249455
+stars: 256617
 eval_score: null
 mentions: 5
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 30008
-pushed_at: "2026-10-09T10:04:06Z"
+forks: 30934
+pushed_at: "2026-10-17T08:16:09Z"
 ---
 ## What it is
 DeepSeek Harness: Everything is a Plugin.

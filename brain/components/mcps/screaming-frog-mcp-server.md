@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-03-27T09:54:07Z"
+pushed_at: "2026-10-18T12:29:14Z"
 ---
 ## What it is
 Enables AI assistants to analyze Screaming Frog SEO Spider crawl data through tool calls, supporting audits for broken links, redirects, indexability, and more.

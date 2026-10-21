@@ -8,11 +8,11 @@ source_url: https://github.com/raine/consult-llm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 141
+stars: 142
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 23
+forks: 22
 pushed_at: "2026-10-10T19:55:07Z"
 ---
 ## What it is

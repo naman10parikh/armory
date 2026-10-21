@@ -8,13 +8,13 @@ source_url: https://github.com/rakyll/hey
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 20698
+stars: 20717
 eval_score: 1
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1323
+forks: 1321
 pushed_at: "2026-01-10T20:54:51Z"
 ---
 ## What it is

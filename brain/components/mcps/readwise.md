@@ -8,12 +8,12 @@ source_url: https://github.com/readwiseio/readwise-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 151
+stars: 152
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 10
+forks: 11
 pushed_at: "2026-03-14T23:25:44Z"
 ---
 ## What it is

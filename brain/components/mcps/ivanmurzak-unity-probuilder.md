@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-10-12T06:36:17Z"
+pushed_at: "2026-10-16T03:19:15Z"
 ---
 ## What it is
 MCP server `Unity ProBuilder`, catalogued on PulseMCP. Integrates with Unity's ProBuilder package to enable 3D mesh creation, editing, and manipulation including shape generation, face extrusion, edge beveling, geometry bridging, and material assignment for level design and procedural content generation workflows.

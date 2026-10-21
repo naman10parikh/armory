@@ -8,11 +8,11 @@ source_url: https://github.com/billy-enrizky/openbrowser-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 276
+stars: 277
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 30
+forks: 31
 pushed_at: "2026-09-28T05:43:28Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/analisaperlengkapan/mcp-jules
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T09:53:39Z"
+pushed_at: "2026-10-21T06:16:45Z"
 ---
 ## What it is
 Enables LLMs to create and manage Google Jules coding sessions programmatically.

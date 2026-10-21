@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T10:15:22Z"
+pushed_at: "2026-10-18T20:56:33Z"
 ---
 ## What it is
 Enables transcription, search, and lesson generation from podcast and YouTube URLs directly inside Claude Code.

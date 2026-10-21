@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-13T13:18:18Z"
+pushed_at: "2026-10-19T00:09:52Z"
 ---
 ## What it is
 An MCP server for Datto SaaS Protection, providing tools to manage cloud backup and recovery for Microsoft 365 and Google Workspace data through Datto's API.

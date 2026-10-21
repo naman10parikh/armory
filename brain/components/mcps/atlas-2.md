@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T16:17:19Z"
+pushed_at: "2026-10-17T23:22:50Z"
 ---
 ## What it is
 Provides persistent memory for coding agents, enabling context retention across sessions, semantic search, and agent handoff through structured and vector memory stored in CockroachDB.

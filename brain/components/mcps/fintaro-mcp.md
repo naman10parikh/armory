@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-17T20:37:02Z"
+pushed_at: "2026-10-17T00:59:59Z"
 ---
 ## What it is
 Enables MCP-capable agents to read Fintaro invoices and transactions, and upload receipts, via a scoped API key with PII-safe projections.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T00:11:53Z"
+pushed_at: "2026-10-21T04:08:05Z"
 ---
 ## What it is
 Enables access to World Bank Data360 data through natural language queries.

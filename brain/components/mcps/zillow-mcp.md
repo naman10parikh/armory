@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-10T15:25:45Z"
+pushed_at: "2026-10-19T20:42:39Z"
 ---
 ## What it is
 Enables natural-language access to Zillow real-estate data, including property search, details, Zestimate history, saved searches/homes, and market reports, by routing requests through the user's authenticated browser session.

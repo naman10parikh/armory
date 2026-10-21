@@ -8,13 +8,13 @@ source_url: https://github.com/GerritCodeReview/gerrit-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 26
-pushed_at: "2026-10-13T23:58:04Z"
+pushed_at: "2026-10-19T13:56:53Z"
 ---
 ## What it is
 Enables interaction with Gerrit code review system via REST API, allowing language models to query changes, retrieve details, and manage reviews.

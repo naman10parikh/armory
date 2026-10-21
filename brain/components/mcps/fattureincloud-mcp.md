@@ -8,13 +8,13 @@ source_url: https://github.com/badbat75/FattureInCloudMCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-18T10:48:32Z"
+pushed_at: "2026-10-21T10:32:31Z"
 ---
 ## What it is
 MCP server for the Fatture in Cloud API v2 that lets Claude read and manage issued and received documents (invoices, credit notes, quotes, expenses, etc.) via CRUD operations.

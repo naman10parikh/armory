@@ -8,14 +8,14 @@ source_url: https://github.com/langchain-ai/openwiki
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 17155
+stars: 17313
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 1255
-pushed_at: "2026-10-14T08:09:34Z"
+forks: 1275
+pushed_at: "2026-10-21T08:29:22Z"
 ---
 ## What it is
 OpenWiki is a CLI that writes and maintains agent documentation for your codebase.

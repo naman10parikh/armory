@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-08-06T03:53:49Z"
+pushed_at: "2026-10-21T08:04:26Z"
 ---
 ## What it is
 MCP server `Himalayas Remote Jobs`, catalogued on PulseMCP. Access tens of thousands of remote job listings and company information.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-13T08:04:24Z"
+pushed_at: "2026-10-20T20:38:00Z"
 ---
 ## What it is
 MCP server `Browser Gateway`, catalogued on PulseMCP. Browser infrastructure gateway with multi-provider failover, load balancing, and built-in Chrome CDP tools.

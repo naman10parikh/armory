@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 44
-pushed_at: "2026-10-13T17:44:57Z"
+pushed_at: "2026-10-19T18:26:45Z"
 ---
 ## What it is
 Typed, validated FHIR tools for healthcare AI agents — build, read, validate, and code FHIR resources from a patient bundle, with terminology lookup and machine-readable validation reports built for fix-and-retry.

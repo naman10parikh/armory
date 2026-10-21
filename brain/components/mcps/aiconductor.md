@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T08:52:43Z"
+pushed_at: "2026-10-16T07:24:58Z"
 ---
 ## What it is
 Orchestrates multi-stakeholder feature refinement and development execution workflows for AI-assisted software teams.

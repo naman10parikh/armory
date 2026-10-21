@@ -8,14 +8,14 @@ source_url: https://github.com/kvcache-ai/Mooncake
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 6792
+stars: 6855
 eval_score: 1
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1331
-pushed_at: "2026-10-14T08:51:32Z"
+forks: 1365
+pushed_at: "2026-10-21T12:00:52Z"
 ---
 ## What it is
 Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.

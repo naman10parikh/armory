@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T14:55:27Z"
+pushed_at: "2026-10-15T13:33:55Z"
 ---
 ## What it is
 Enables searching and retrieval of UK legislation (Acts, Statutory Instruments) from legislation.gov.uk with persistent identifiers and verifiable citations.

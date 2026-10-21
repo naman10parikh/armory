@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-25T22:22:02Z"
+pushed_at: "2026-10-20T04:15:13Z"
 ---
 ## What it is
 MCP server `US Census`, catalogued on PulseMCP. US Census Bureau housing-relevant APIs for demographic and housing data.

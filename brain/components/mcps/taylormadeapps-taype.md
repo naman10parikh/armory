@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-13T20:58:36Z"
+pushed_at: "2026-10-20T16:07:45Z"
 ---
 ## What it is
 MCP server `Taype`, catalogued on PulseMCP. MCP-native digital audio workstation for macOS built for musicians, with modelled console tone, VST3 plugin hosting, and accessibility compliance.

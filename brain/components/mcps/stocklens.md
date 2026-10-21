@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T16:09:21Z"
+pushed_at: "2026-10-19T06:30:20Z"
 ---
 ## What it is
 Provides AI with real-time stock data from Naver Securities and Yahoo Finance via 47 tools, enabling accurate analysis without API keys for Korean and US markets.

@@ -8,11 +8,11 @@ source_url: https://github.com/matipojo/shufersal-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 16
+forks: 17
 pushed_at: "2025-06-17T22:13:32Z"
 ---
 ## What it is

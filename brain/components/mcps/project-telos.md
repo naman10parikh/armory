@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T04:08:16Z"
+pushed_at: "2026-10-15T04:56:52Z"
 ---
 ## What it is
 Local-first MCP tools for AI-assisted work receipts, workspace maps, routing ledgers, measured verdicts, and shared state verification across the five Project Telos flagships.

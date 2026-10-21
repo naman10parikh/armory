@@ -8,11 +8,11 @@ source_url: https://github.com/joshuayoes/ios-simulator-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2192
+stars: 2193
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 98
+forks: 99
 pushed_at: "2026-08-13T16:39:55Z"
 ---
 ## What it is

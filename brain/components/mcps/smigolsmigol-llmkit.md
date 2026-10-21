@@ -12,8 +12,8 @@ stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
-pushed_at: "2026-10-01T20:33:38Z"
+forks: 4
+pushed_at: "2026-10-21T11:07:38Z"
 ---
 ## What it is
 MCP server `LLMKit`, catalogued on PulseMCP. Track AI API costs across 11 LLM providers with budget enforcement, per-session breakdowns, and multi-provider routing.

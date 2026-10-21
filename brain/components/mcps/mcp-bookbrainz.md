@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T22:14:15Z"
+pushed_at: "2026-10-20T04:05:40Z"
 ---
 ## What it is
 Provides access to BookBrainz open book metadata, enabling search, lookup, and browsing of works, editions, authors, publishers, and series via natural language or direct tool calls.

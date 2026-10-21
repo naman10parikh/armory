@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-14T10:06:45Z"
+pushed_at: "2026-10-21T12:41:03Z"
 ---
 ## What it is
 Provides read-only access to TacticalRMM remote monitoring and management instances via the MCP protocol. It enables querying agents, clients, alerts, checks, and other RMM data through natural language.

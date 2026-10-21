@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T00:33:16Z"
+pushed_at: "2026-10-19T17:48:48Z"
 ---
 ## What it is
 Exposes the Cookie Munch Developer API as MCP tools, enabling AI assistants to manage sites, read consent analytics, and drive privacy operations.

@@ -8,13 +8,13 @@ source_url: https://github.com/YawLabs/tailscale-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 33
+stars: 34
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-09T12:21:03Z"
+pushed_at: "2026-10-15T16:01:28Z"
 ---
 ## What it is
 Manage your Tailscale tailnet - devices, ACLs, DNS, keys, and more - through natural language queries.

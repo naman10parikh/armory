@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-09T19:56:53Z"
+pushed_at: "2026-10-14T21:48:37Z"
 ---
 ## What it is
 MCP server for Google Ads API with built-in safeguards, MCC support, and 36 tools for campaign management, reporting, and optimization.

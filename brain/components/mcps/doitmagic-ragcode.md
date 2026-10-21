@@ -12,8 +12,8 @@ stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-10-01T16:18:41Z"
+forks: 7
+pushed_at: "2026-10-16T19:45:30Z"
 ---
 ## What it is
 MCP server `RagCode`, catalogued on PulseMCP. Privacy-first semantic code search using local Ollama and Qdrant vector storage for multi-language repository understanding

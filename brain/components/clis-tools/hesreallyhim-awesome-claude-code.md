@@ -8,14 +8,14 @@ source_url: https://github.com/hesreallyhim/awesome-claude-code
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 55657
+stars: 56155
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 4819
-pushed_at: "2026-10-14T12:15:04Z"
+forks: 4849
+pushed_at: "2026-10-21T12:14:32Z"
 ---
 ## What it is
 A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins

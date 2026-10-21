@@ -8,13 +8,13 @@ source_url: https://github.com/MongLong0214/commitlore
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-03T20:59:39Z"
+pushed_at: "2026-10-18T22:19:22Z"
 ---
 ## What it is
 Git-native decision memory for coding agents: stores constraints, ruled-out alternatives, and warnings as git trailers and refs/notes, returning only records still in force for the file path being edited.

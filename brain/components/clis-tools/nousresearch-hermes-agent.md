@@ -8,14 +8,14 @@ source_url: https://github.com/NousResearch/hermes-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 253659
+stars: 255752
 eval_score: null
 mentions: 21
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 55036
-pushed_at: "2026-10-14T12:30:55Z"
+forks: 55737
+pushed_at: "2026-10-21T12:49:35Z"
 ---
 ## What it is
 The agent that grows with you

@@ -8,12 +8,12 @@ source_url: https://github.com/GuangminJu/mellos-mapping
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 105
+stars: 113
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
+forks: 9
 pushed_at: "2026-10-13T08:40:42Z"
 ---
 ## What it is

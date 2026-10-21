@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
-stars: 12
+stars: 14
 forks: 5
-pushed_at: "2026-10-13T03:14:33Z"
+pushed_at: "2026-10-19T16:29:51Z"
 ---
 ## What it is
 Modern, cross-platform MCP server enabling AI assistants to browse and interact with both Gopher protocol and Gemini protocol resources safely and efficiently. Features dual protocol support, TLS security, and structured content extraction.

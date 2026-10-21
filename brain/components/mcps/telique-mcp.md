@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T20:17:02Z"
+pushed_at: "2026-10-21T01:35:13Z"
 ---
 ## What it is
 Enables querying telecom routing data (LRN, CNAM, DNO, LERG, toll-free routing) directly from AI assistants like Claude, ChatGPT.

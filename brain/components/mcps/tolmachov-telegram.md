@@ -8,12 +8,12 @@ source_url: https://github.com/tolmachov/mcp-telegram
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-10T15:04:44Z"
+pushed_at: "2026-10-20T22:04:29Z"
 ---
 ## What it is
 MCP server `Telegram`, catalogued on PulseMCP. Integrates with Telegram through the MTProto API to send messages, retrieve chat histories, search conversations, manage notifications, and perform chat summarization using configurable LLM providers.

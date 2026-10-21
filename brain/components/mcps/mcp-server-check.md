@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-13T16:14:24Z"
+pushed_at: "2026-10-20T21:02:11Z"
 ---
 ## What it is
 An MCP server that wraps the Check Payroll API, providing 263 tools for managing companies, employees, contractors, payrolls, tax configuration, and more.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T23:18:23Z"
+pushed_at: "2026-10-19T07:55:35Z"
 ---
 ## What it is
 A secure, read-only MCP server for Microsoft SQL Server with built-in performance monitoring and lock detection.

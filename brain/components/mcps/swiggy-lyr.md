@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T07:04:22Z"
+pushed_at: "2026-10-21T04:03:29Z"
 ---
 ## What it is
 Aggregates Swiggy's food delivery, Instamart groceries, and Dineout table booking services into one MCP server, letting AI agents search, order, and book via a single OAuth token.

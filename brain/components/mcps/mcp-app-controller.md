@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T09:58:48Z"
+pushed_at: "2026-10-14T16:58:39Z"
 ---
 ## What it is
 Central daemon for managing local app processes, enabling multiple Claude Code sessions to coordinate starts, stops, and restarts with conflict resolution and a web dashboard.

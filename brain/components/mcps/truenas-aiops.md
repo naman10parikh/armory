@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T14:12:58Z"
+pushed_at: "2026-10-15T09:17:21Z"
 ---
 ## What it is
 AI-powered MCP server for TrueNAS SCALE storage operations with governance and safety features, enabling management of pools, datasets, snapshots, disks, alerts, and services.

@@ -8,13 +8,13 @@ source_url: https://github.com/AzeevAN/mcp-1c
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-11T06:43:12Z"
+pushed_at: "2026-10-19T20:55:43Z"
 ---
 ## What it is
 Provides 1C configuration metadata, platform syntax, and query language reference for BSL coding agents. Resolves natural language terms to exact object names, returning structures, relationships, and version-aware method details.

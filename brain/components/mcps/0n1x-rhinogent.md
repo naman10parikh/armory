@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-30T18:33:23Z"
+pushed_at: "2026-10-15T06:50:09Z"
 ---
 ## What it is
 Provides AI agents with a self-custody identity and MCP server for verifying counterparties, signing facts, and carrying portable reputation within the 0n1x trust ecosystem.

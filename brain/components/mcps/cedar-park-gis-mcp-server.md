@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:25:50Z"
+pushed_at: "2026-10-19T03:58:15Z"
 ---
 ## What it is
 Enables access to City of Cedar Park, Texas open geospatial data via ArcGIS. Includes tools for searching datasets, querying feature layers, and retrieving layer schemas.

@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-10-20T16:30:32Z"
 ---
 ## What it is
 Enables AI agents to query a verified directory of software developers in Solapur, India, including developer profiles, skills, scores, and rankings through structured resources and tools.

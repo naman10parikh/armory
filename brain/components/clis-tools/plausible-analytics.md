@@ -8,14 +8,14 @@ source_url: https://github.com/plausible/analytics
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 29396
+stars: 29584
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1898
-pushed_at: "2026-10-14T12:33:25Z"
+forks: 1913
+pushed_at: "2026-10-21T10:19:04Z"
 ---
 ## What it is
 Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.

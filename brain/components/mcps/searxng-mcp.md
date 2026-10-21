@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-13T10:49:55Z"
+pushed_at: "2026-10-19T13:17:06Z"
 ---
 ## What it is
 MCP server for private web search via self-hosted SearXNG with local reranking, full-page content fetching via Firecrawl, and optional Ollama-powered query expansion and summaries.

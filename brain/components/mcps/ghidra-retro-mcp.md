@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T00:00:05Z"
+pushed_at: "2026-10-16T04:42:46Z"
 ---
 ## What it is
 Enables AI assistants to perform headless reverse engineering of retro game ROMs using Ghidra, with automated platform detection and triage.

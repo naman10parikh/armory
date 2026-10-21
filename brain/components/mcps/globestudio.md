@@ -8,13 +8,13 @@ source_url: https://github.com/alevizio/globestudio
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T10:53:42Z"
+pushed_at: "2026-10-18T15:20:31Z"
 ---
 ## What it is
 MCP server for GlobeStudio.
