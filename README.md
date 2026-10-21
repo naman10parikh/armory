@@ -283,10 +283,14 @@ One of the projects by [Naman Parikh](https://github.com/naman10parikh). Each ow
 | [WikiMem](https://github.com/naman10parikh/wikimem) | Memory |
 | [Skillsmith](https://github.com/naman10parikh/skillsmith) | Skills |
 | [Agent Booster](https://github.com/naman10parikh/agent-booster) | Tools / CLIs |
+| [Hooksmith](https://github.com/naman10parikh/hooksmith) | Hooks |
+| [AgentCast](https://github.com/naman10parikh/agentcast) | Sub-agents |
+| [Plugsmith](https://github.com/naman10parikh/plugsmith) | Plugins |
 | [AgentGrid](https://github.com/naman10parikh/agentgrid) | Dispatch |
 | [AgentSwarm](https://github.com/naman10parikh/agentswarm) | Dispatch |
 | [AgentBench](https://github.com/naman10parikh/agentbench) | Evals |
 | [AgentMoney](https://github.com/naman10parikh/agentmoney) | Observability |
+| [Sandforge](https://github.com/naman10parikh/sandforge) | Sandbox / Infra |
 | [Claude Harness](https://github.com/naman10parikh/claude-harness) | The whole harness, as a template |
 
 ## Community
