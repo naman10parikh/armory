@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T18:07:52Z"
+pushed_at: "2026-10-19T18:27:17Z"
 ---
 ## What it is
 One MCP server for golangci-lint, govulncheck, and nilaway — a unified Diagnostic\[] array with consistent file:line:column navigation, parallel execution, and zero-config auto-install - for golang development.

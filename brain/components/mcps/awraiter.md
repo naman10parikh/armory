@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T07:31:06Z"
+pushed_at: "2026-10-17T13:15:03Z"
 ---
 ## What it is
 Enables managing Telegram channels from MCP-capable AI assistants, including drafting and scheduling posts, publishing content, and retrieving channel analytics.

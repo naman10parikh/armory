@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T05:20:59Z"
+pushed_at: "2026-10-20T03:11:59Z"
 ---
 ## What it is
 Connects MCP clients like Claude and Cursor to MemberPass workspace, exposing 42 tools for managing projects, plans, subscriptions, members, access codes, payments, webhooks, and analytics.

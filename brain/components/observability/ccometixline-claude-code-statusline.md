@@ -12,8 +12,8 @@ verified_at: 2026-05-26
 related: [claude-powerline, claudia-statusline]
 tags: [claude-code, status-lines]
 stars: 3474
-forks: 221
-pushed_at: "2026-03-14T18:03:04Z"
+forks: 219
+pushed_at: "2026-10-21T07:18:57Z"
 ---
 ## What it is
 A high-performance Claude Code statusline tool written in Rust with Git integration, usage tracking, interactive TUI configuration, and Claude Code enhancement utilities.

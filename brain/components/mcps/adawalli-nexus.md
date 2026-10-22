@@ -13,7 +13,7 @@ related: []
 tags: [mcp, search-data-extraction]
 stars: 22
 forks: 9
-pushed_at: "2026-08-12T19:43:35Z"
+pushed_at: "2026-10-21T23:52:42Z"
 ---
 ## What it is
 AI-powered web search server using Perplexity Sonar models with source citations. Zero-install setup via NPX.

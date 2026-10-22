@@ -8,11 +8,11 @@ source_url: https://github.com/24mlight/a-share-mcp-is-just-i-need
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 646
+stars: 647
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 110
+forks: 112
 pushed_at: "2025-12-25T08:54:00Z"
 ---
 ## What it is

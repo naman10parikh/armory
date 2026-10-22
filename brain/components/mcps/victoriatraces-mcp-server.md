@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-10-14T18:58:44Z"
+forks: 6
+pushed_at: "2026-10-16T09:22:31Z"
 ---
 ## What it is
 Provides access to your VictoriaTraces instance and seamless integration with VictoriaTraces APIs and documentation for querying traces, services, and operations.

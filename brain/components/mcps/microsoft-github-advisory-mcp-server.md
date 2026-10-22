@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-14T09:14:39Z"
+pushed_at: "2026-10-21T18:31:56Z"
 ---
 ## What it is
 Enables querying GitHub Security Advisories from a local cloned advisory database using tools like list_advisories and get_advisory.

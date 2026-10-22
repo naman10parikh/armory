@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-12T15:07:01Z"
+pushed_at: "2026-10-18T17:32:52Z"
 ---
 ## What it is
 Control the Unity Editor from any MCP host. One package install, one click, and your AI assistant can see your scene, create objects, and talk to the console. Patina is a Rust MCP server paired with a C# Unity bridge. It connects your favorite AI coding tool directly to the Unity Editor over a local

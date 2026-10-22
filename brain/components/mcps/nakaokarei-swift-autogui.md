@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-10-11T22:10:09Z"
+pushed_at: "2026-10-18T03:02:38Z"
 ---
 ## What it is
 MCP server `SwiftAutoGUI`, catalogued on PulseMCP. Enables precise control of macOS through mouse movements, clicks, and scrolling via SwiftAutoGUI, allowing direct manipulation of the macOS interface for automation workflows and GUI testing.

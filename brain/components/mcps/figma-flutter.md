@@ -8,7 +8,7 @@ source_url: https://github.com/mhmzdev/figma-flutter-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 244
+stars: 241
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

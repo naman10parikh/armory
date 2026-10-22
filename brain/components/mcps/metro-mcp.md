@@ -8,13 +8,13 @@ source_url: https://github.com/Aarekaz/metro-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-30T22:51:35Z"
+pushed_at: "2026-10-22T03:45:22Z"
 ---
 ## What it is
 A unified MCP server for US transit systems, supporting Washington DC Metro and NYC Subway with real-time predictions, station info, and service alerts.

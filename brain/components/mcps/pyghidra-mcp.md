@@ -8,12 +8,12 @@ source_url: https://github.com/clearbluejar/pyghidra-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 445
+stars: 453
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 65
+forks: 66
 pushed_at: "2026-10-10T21:43:51Z"
 ---
 ## What it is

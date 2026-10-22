@@ -8,14 +8,14 @@ source_url: https://github.com/google/mantis
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2448
+stars: 2509
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 209
-pushed_at: "2026-10-14T14:31:24Z"
+forks: 216
+pushed_at: "2026-10-20T20:19:33Z"
 ---
 ## What it is
 A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities.

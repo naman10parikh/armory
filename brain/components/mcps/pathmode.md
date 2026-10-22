@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-25T18:22:31Z"
+pushed_at: "2026-10-20T06:06:15Z"
 ---
 ## What it is
 MCP server `Pathmode`, catalogued on PulseMCP. Build structured intent specs through Socratic AI conversation and connect to the Pathmode intent layer.

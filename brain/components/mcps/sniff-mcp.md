@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-02T05:01:12Z"
+pushed_at: "2026-10-17T03:26:58Z"
 ---
 ## What it is
 Agent-callable canine genomics API providing breed-stratified allele frequencies, pathogenicity predictions, and variant-gene-breed-disease knowledge graph for dog DNA.

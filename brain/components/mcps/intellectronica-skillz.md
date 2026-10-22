@@ -8,11 +8,11 @@ source_url: https://github.com/intellectronica/skillz
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 404
+stars: 406
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 36
+forks: 35
 pushed_at: "2026-01-30T15:16:46Z"
 ---
 ## What it is

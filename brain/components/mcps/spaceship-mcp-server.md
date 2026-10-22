@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-03-03T15:37:09Z"
+pushed_at: "2026-10-17T20:50:15Z"
 ---
 ## What it is
 Enables AI agents to manage DNS records through the Spaceship API, with specialized tools for common record types like A, AAAA, CNAME, MX, SRV, and TXT.

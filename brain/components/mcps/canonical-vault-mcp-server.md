@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T12:59:45Z"
+pushed_at: "2026-10-21T20:19:26Z"
 ---
 ## What it is
 Enables read-only access to the canonical-vault GitHub repository through MCP, letting clients list files, retrieve file contents and history, inspect commits, and search code.

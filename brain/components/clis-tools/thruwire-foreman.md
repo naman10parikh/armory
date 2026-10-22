@@ -8,14 +8,14 @@ source_url: https://github.com/thruwire/foreman
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 757
+stars: 781
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 62
-pushed_at: "2026-10-15T12:22:23Z"
+forks: 67
+pushed_at: "2026-10-15T12:59:56Z"
 ---
 ## What it is
 An agent supervisor and software factory foreman powered by TypeSafe’s Jev model

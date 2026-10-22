@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T14:21:07Z"
+pushed_at: "2026-10-19T13:33:00Z"
 ---
 ## What it is
 MCP server for the Entyrix European business-registry (KYB) API, exposing 10 stdio tools for searching, looking up, and analyzing companies across multiple jurisdictions. Enables LLM clients to perform company registry searches, financial lookups, compliance checks, and more.

@@ -8,13 +8,13 @@ source_url: https://github.com/EmilLindfors/a2a-rs
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 87
+stars: 92
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, libraries]
-forks: 17
-pushed_at: "2026-10-15T10:40:29Z"
+forks: 18
+pushed_at: "2026-10-20T08:48:38Z"
 ---
 ## What it is
 A2A Protocol implementation for Rust

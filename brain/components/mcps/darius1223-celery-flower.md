@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-19T09:16:33Z"
+pushed_at: "2026-10-15T12:40:18Z"
 ---
 ## What it is
 MCP server `Celery Flower`, catalogued on PulseMCP. MCP server exposing all 21 Celery Flower REST API endpoints for monitoring workers, tasks, and queues.

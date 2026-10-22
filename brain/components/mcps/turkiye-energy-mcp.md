@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T12:54:09Z"
+pushed_at: "2026-10-22T09:02:15Z"
 ---
 ## What it is
 An MCP server that provides verified official Turkish electricity system data (from TEİAŞ and EÜAŞ) via tools for querying generation, installed capacity, demand, and import/export, enabling natural language access to energy statistics.

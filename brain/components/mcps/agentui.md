@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T22:23:33Z"
+pushed_at: "2026-10-19T22:03:05Z"
 ---
 ## What it is
 An MCP server that lets coding agents ask their human via interactive UIs like sliders, forms, diffs, and live previews.

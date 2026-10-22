@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-10-13T08:09:23Z"
+pushed_at: "2026-10-20T07:59:52Z"
 ---
 ## What it is
 Enables AI assistants to manage Google Cloud NetApp Volumes resources including storage pools, volumes, snapshots, backups, and more through natural language.

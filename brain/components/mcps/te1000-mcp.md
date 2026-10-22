@@ -8,12 +8,12 @@ source_url: https://github.com/Edge-JB/tc1000-MCP-TC-4026
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 3
 pushed_at: "2026-10-10T18:35:48Z"
 ---
 ## What it is

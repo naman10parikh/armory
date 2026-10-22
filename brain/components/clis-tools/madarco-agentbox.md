@@ -8,13 +8,13 @@ source_url: https://github.com/madarco/agentbox
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 539
+stars: 543
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 51
+forks: 54
 pushed_at: "2026-10-07T10:46:44Z"
 ---
 ## What it is

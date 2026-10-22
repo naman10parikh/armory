@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-10-11T14:34:43Z"
+pushed_at: "2026-10-21T16:18:22Z"
 ---
 ## What it is
 MCP server `Firewalla`, catalogued on PulseMCP. Integrates with Firewalla's MSP API v2 to provide real-time network monitoring, security analysis, and firewall management through 28 specialized tools for security alert monitoring, bandwidth tracking, device management, rule operations, and geographic threat analysis.

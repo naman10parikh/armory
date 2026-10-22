@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T11:13:49Z"
+pushed_at: "2026-10-18T00:05:37Z"
 ---
 ## What it is
 An MCP server for making flashcards with your agents and being quizzed on them using SM-2 spaced repetition.

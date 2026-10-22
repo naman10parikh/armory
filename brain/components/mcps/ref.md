@@ -8,7 +8,7 @@ source_url: https://github.com/ref-tools/ref-tools-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1182
+stars: 1183
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

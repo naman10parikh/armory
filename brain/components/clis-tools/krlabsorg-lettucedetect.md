@@ -8,13 +8,13 @@ source_url: https://github.com/KRLabsOrg/LettuceDetect
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 615
+stars: 618
 eval_score: 1
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 60
+forks: 63
 pushed_at: "2026-10-09T13:07:18Z"
 ---
 ## What it is

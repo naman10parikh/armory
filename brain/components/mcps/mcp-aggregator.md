@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T19:51:49Z"
+pushed_at: "2026-10-21T18:46:12Z"
 ---
 ## What it is
 Aggregates multiple MCP servers into a single Streamable HTTP endpoint, compressing tools to manage registration limits.

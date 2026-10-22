@@ -8,13 +8,13 @@ source_url: https://github.com/heyderekj/revisemy
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T19:42:43Z"
+pushed_at: "2026-10-16T00:33:15Z"
 ---
 ## What it is
 Open-source human-in-the-loop design review tool that enables AI agents to upload UI screenshots for human feedback, with MCP tools for creating reviews, pinning notes, and getting structured feedback.

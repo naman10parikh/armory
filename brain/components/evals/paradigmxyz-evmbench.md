@@ -15,7 +15,7 @@ verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, evals]
 forks: 74
-pushed_at: "2026-09-18T22:27:36Z"
+pushed_at: "2026-10-20T19:07:03Z"
 ---
 ## What it is
 Collab with OpenAI. A benchmark and harness for finding and exploiting smart contract bugs

@@ -8,13 +8,13 @@ source_url: https://github.com/0xpili/simplified-technical-english
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 989
+stars: 1009
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, skills]
-forks: 49
+forks: 50
 pushed_at: "2026-08-16T02:16:57Z"
 ---
 ## What it is

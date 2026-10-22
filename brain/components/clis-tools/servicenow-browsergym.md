@@ -8,14 +8,14 @@ source_url: https://github.com/ServiceNow/BrowserGym
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1402
+stars: 1413
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 205
-pushed_at: "2026-10-05T23:54:35Z"
+forks: 207
+pushed_at: "2026-10-21T07:38:47Z"
 ---
 ## What it is
 🌎💪 BrowserGym, a Gym environment for web task automation

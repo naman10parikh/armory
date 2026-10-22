@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, support-service-management]
 stars: 24
-forks: 11
+forks: 12
 pushed_at: "2026-03-24T09:05:07Z"
 ---
 ## What it is

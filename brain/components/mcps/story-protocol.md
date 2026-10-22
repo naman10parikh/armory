@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2025-10-17T01:24:15Z"
+pushed_at: "2026-10-21T22:06:38Z"
 ---
 ## What it is
 MCP server `Story Protocol`, catalogued on PulseMCP. Integrates with Story Protocol's Python SDK to enable blockchain-based intellectual property management, including minting, registering, and licensing IP assets.

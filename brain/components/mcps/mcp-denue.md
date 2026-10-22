@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:32:15Z"
+pushed_at: "2026-10-21T22:19:34Z"
 ---
 ## What it is
 INEGI DENUE MCP — Mexico's directory of economic units (~6M businesses).

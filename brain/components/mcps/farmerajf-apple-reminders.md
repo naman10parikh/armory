@@ -8,12 +8,12 @@ source_url: https://github.com/farmerajf/apple-events-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-03-23T11:15:01Z"
+pushed_at: "2026-10-17T05:21:14Z"
 ---
 ## What it is
 MCP server `Apple Reminders`, catalogued on PulseMCP. Native Swift integration with Apple Reminders for comprehensive task management via EventKit on macOS

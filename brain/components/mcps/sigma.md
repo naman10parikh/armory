@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-04-23T22:19:36Z"
+pushed_at: "2026-10-20T10:00:45Z"
 ---
 ## What it is
 MCP server `Sigma`, catalogued on PulseMCP. pySigma-powered Sigma security detection rule validation.

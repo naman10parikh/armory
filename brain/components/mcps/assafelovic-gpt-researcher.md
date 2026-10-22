@@ -8,11 +8,11 @@ source_url: https://github.com/assafelovic/gptr-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 372
+stars: 376
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 66
+forks: 68
 pushed_at: "2025-11-07T07:46:52Z"
 ---
 ## What it is

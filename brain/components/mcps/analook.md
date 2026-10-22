@@ -8,13 +8,13 @@ source_url: https://github.com/Gingiris-1031/Competitor-analysis-tool
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 110
+stars: 111
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-14T03:23:42Z"
+pushed_at: "2026-10-22T02:53:48Z"
 ---
 ## What it is
 Remote MCP server for AI-powered competitor intelligence, enabling real-time analysis of any product URL through tools like analyze_competitor and report retrieval.

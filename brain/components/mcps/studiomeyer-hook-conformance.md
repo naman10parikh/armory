@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-12T11:28:45Z"
+pushed_at: "2026-10-21T06:22:28Z"
 ---
 ## What it is
 MCP server `Hook Conformance`, catalogued on PulseMCP. Audits MCP servers for Claude Code mcp_tool hook readiness: idempotency, latency, and side-effects.

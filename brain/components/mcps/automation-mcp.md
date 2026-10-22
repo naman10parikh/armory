@@ -8,12 +8,12 @@ source_url: https://github.com/ashwwwin/automation-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 414
+stars: 415
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 41
+forks: 40
 pushed_at: "2025-06-11T02:24:00Z"
 ---
 ## What it is

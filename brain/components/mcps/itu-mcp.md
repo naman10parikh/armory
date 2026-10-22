@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-10-11T15:17:32Z"
+forks: 0
+pushed_at: "2026-10-15T17:24:22Z"
 ---
 ## What it is
 İTÜ MCP connects your ITU Ninova and OBS accounts to Claude, Cursor, Codex and other MCP clients, enabling natural language queries for courses, assignments, grades, and more.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T06:10:43Z"
+pushed_at: "2026-10-19T06:12:51Z"
 ---
 ## What it is
 Security scanner for vibe coders that checks npm packages for known vulnerabilities before installation, integrating with AI coding tools like Claude Code and Cursor.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-12T14:29:55Z"
+pushed_at: "2026-10-19T12:12:44Z"
 ---
 ## What it is
 MCP server for writing World of Warcraft addons, providing in-game Lua API references, Blizzard's UI source code, and game asset data to AI assistants.

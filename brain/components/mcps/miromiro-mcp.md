@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T18:45:36Z"
+pushed_at: "2026-10-19T21:02:18Z"
 ---
 ## What it is
 MCP server for the MiroMiro design-extraction API. It extracts real design data from live websites—including brand colors, fonts, tokens, SVGs, images, and component code—so AI agents can build from actual values.

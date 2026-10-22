@@ -8,13 +8,13 @@ source_url: https://github.com/nirholas/robinhood-chain-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-11T01:24:57Z"
+pushed_at: "2026-10-21T23:24:18Z"
 ---
 ## What it is
 A zero-config data server for read-only queries on Robinhood Chain (stock tokens, memecoins, launches, chain stats) and an opt-in trading server with spend caps and confirm gates for executing swaps and transfers.

@@ -8,12 +8,12 @@ source_url: https://github.com/cloin/semaphore-mcp
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 89
+stars: 90
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
+forks: 11
 pushed_at: "2026-09-23T16:11:07Z"
 ---
 ## What it is

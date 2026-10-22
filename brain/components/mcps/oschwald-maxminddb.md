@@ -8,12 +8,12 @@ source_url: https://github.com/oschwald/maxminddb-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-05-11T12:24:08Z"
+pushed_at: "2026-10-18T19:57:56Z"
 ---
 ## What it is
 MCP server `MaxMindDB`, catalogued on PulseMCP. Provides geolocation and network intelligence through MaxMind databases with IP lookup, network range iteration with advanced filtering operators, and automatic database updates for security research and location-aware applications.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T19:50:50Z"
+pushed_at: "2026-10-17T08:55:40Z"
 ---
 ## What it is
 A person's falsifiable, consent-based model of how they work best with AI (CMP) — read it, refine it, add hunches, and find complementary collaborators. 7 tools.

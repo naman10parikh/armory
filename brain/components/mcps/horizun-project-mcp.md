@@ -8,13 +8,13 @@ source_url: https://github.com/HorizunGroup/horizun-msproject-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-10-14T17:47:04Z"
+forks: 1
+pushed_at: "2026-10-20T16:38:31Z"
 ---
 ## What it is
 An MCP server for Microsoft Project that reads, analyzes, and writes .mpp, .xer, and .xml schedule files, offering critical path analysis, DCMA 14-point assessment, and verified writes without requiring Java or Microsoft Project.

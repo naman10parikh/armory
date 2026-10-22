@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 142
+stars: 136
 forks: 15
-pushed_at: "2026-10-14T17:10:07Z"
+pushed_at: "2026-10-21T19:36:37Z"
 ---
 ## What it is
 Regression testing for MCP servers. Auto-discovers servers from Claude configs, checks capabilities, invokes tools, detects schema drift between versions, and recommends new servers based on your environment. Works as both a CLI and an MCP server.

@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
-stars: 2901
-forks: 271
-pushed_at: "2026-09-23T07:51:12Z"
+stars: 2931
+forks: 276
+pushed_at: "2026-10-19T00:39:37Z"
 ---
 ## What it is
 JADX-AI-MCP is a plugin and MCP Server for the JADX decompiler that integrates directly with Model Context Protocol (MCP) to provide live reverse engineering support with LLMs like Claude.

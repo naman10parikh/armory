@@ -8,7 +8,7 @@ source_url: https://github.com/dguido/google-workspace-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 38
+stars: 37
 eval_score: null
 verified_at: 2026-05-27
 related: []

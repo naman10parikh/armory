@@ -8,13 +8,13 @@ source_url: https://github.com/ShekharBhardwaj/AgenticLedger
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-07T23:43:22Z"
+pushed_at: "2026-10-16T14:09:08Z"
 ---
 ## What it is
 Lets agents query their own usage ledger captured by the Agentic Ledger proxy: sessions with full call traces, costs, loop runs, and stuck-loop flags. Tools include list_sessions, get_session, search, list_runs, get_run_status, and explain.

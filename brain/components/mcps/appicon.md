@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T11:23:53Z"
+pushed_at: "2026-10-22T11:23:55Z"
 ---
 ## What it is
 Resolves desktop and brand icons to local file paths for use in Waybar, Rofi, scripts, and AI agents via an MCP stdio server with tools for resolve, prefetch, cache, sources, packs, and overrides.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T17:57:26Z"
+pushed_at: "2026-10-19T15:38:27Z"
 ---
 ## What it is
 Search Kleinanzeigen.de, Germany's largest classifieds site, via MCP tools without API keys.

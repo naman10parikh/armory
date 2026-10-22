@@ -8,12 +8,12 @@ source_url: https://github.com/LuxAlgo/luxalgo-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 96
+stars: 99
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 36
+forks: 38
 pushed_at: "2026-10-13T18:50:29Z"
 ---
 ## What it is

@@ -8,14 +8,14 @@ source_url: https://github.com/tree-sitter/tree-sitter
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 27193
+stars: 27256
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2972
-pushed_at: "2026-10-15T06:28:18Z"
+forks: 2988
+pushed_at: "2026-10-22T07:17:56Z"
 ---
 ## What it is
 An incremental parsing system for programming tools

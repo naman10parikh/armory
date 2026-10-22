@@ -8,11 +8,11 @@ source_url: https://github.com/miscusi-peek/cheatengine-mcp-bridge
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1644
+stars: 1683
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 236
+forks: 246
 pushed_at: "2026-08-14T08:14:14Z"
 ---
 ## What it is

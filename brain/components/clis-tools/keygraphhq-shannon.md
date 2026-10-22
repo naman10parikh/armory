@@ -8,14 +8,14 @@ source_url: https://github.com/KeygraphHQ/shannon
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 48908
+stars: 49199
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 5611
-pushed_at: "2026-10-13T22:43:38Z"
+forks: 5632
+pushed_at: "2026-10-15T21:05:19Z"
 ---
 ## What it is
 Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.

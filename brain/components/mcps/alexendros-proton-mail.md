@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-29T21:18:58Z"
+pushed_at: "2026-10-17T19:57:04Z"
 ---
 ## What it is
 MCP server `Proton Mail Bridge`, catalogued on PulseMCP. Connect to Proton Mail via Bridge for IMAP and SMTP access with 13 email management tools.

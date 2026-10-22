@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
-stars: 23
+stars: 24
 forks: 5
-pushed_at: "2026-10-06T20:29:02Z"
+pushed_at: "2026-10-17T13:53:08Z"
 ---
 ## What it is
 Transcriptor MCP is your choice when you need transcripts and metadata for AI, summarization, or content analysis

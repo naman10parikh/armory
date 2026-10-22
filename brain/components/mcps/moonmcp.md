@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T10:00:42Z"
+pushed_at: "2026-10-21T12:07:53Z"
 ---
 ## What it is
 A scope-aware bug-bounty & reconnaissance MCP server that works out of the box on the Python standard library and augments itself with your favourite CLI tools when they're present.

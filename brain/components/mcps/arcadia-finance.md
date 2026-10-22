@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-01T14:57:35Z"
+pushed_at: "2026-10-21T23:54:49Z"
 ---
 ## What it is
 MCP server `Arcadia Finance`, catalogued on PulseMCP. Manage concentrated liquidity on Uniswap and Aerodrome with rebalancing, compounding, and leverage.

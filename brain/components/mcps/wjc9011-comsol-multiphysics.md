@@ -8,11 +8,11 @@ source_url: https://github.com/wjc9011/comsol_multiphysics_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 848
+stars: 875
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 83
+forks: 84
 pushed_at: "2026-09-17T22:15:10Z"
 ---
 ## What it is

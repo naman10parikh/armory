@@ -12,8 +12,8 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [hook]
-stars: 2361
-forks: 189
+stars: 2364
+forks: 188
 pushed_at: "2026-10-12T07:53:21Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/ducnguyen221/powerbi-agent
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-10-14T17:42:29Z"
+forks: 2
+pushed_at: "2026-10-18T16:32:42Z"
 ---
 ## What it is
 MCP server enabling AI agents to directly query and manage Power BI datasets, reports, and workspaces via DAX, with built-in data security policies and support for both Power BI Desktop and Service.

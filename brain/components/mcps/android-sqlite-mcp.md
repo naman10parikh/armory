@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T00:43:54Z"
+pushed_at: "2026-10-22T00:13:42Z"
 ---
 ## What it is
 Enables AI agents to directly access and query Android app databases (SQLite/Room) via ADB, supporting schema inspection and live SQL CRUD operations.

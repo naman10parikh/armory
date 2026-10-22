@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T20:13:26Z"
+pushed_at: "2026-10-17T16:26:28Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides AI assistants with secure, authenticated access to SpeechWire tournament data for speech-and-debate competitions.

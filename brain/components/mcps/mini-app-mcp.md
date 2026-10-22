@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T16:42:55Z"
+pushed_at: "2026-10-21T12:54:31Z"
 ---
 ## What it is
 Agent-First CRUD store MCP server — schema.yaml driven, SQLite backend, multi-table in a single daemon.

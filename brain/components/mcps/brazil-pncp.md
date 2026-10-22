@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T22:15:47Z"
+pushed_at: "2026-10-20T04:07:49Z"
 ---
 ## What it is
 Provides access to Brazilian government procurement (PNCP) data without API keys, enabling natural language queries through Pipeworx's AI gateway.

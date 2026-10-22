@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-27T10:18:05Z"
+pushed_at: "2026-10-18T06:00:58Z"
 ---
 ## What it is
 Gives your AI a live, speaker-labeled transcript of the meeting or call happening right now, plus the ability to push advice into the meeting window and speak out loud on the Mac. Requires the VoxAI macOS app — the server reads and writes that app's local files, so tools only return real data on mac

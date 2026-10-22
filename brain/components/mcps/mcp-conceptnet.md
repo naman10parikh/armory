@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T22:58:48Z"
+pushed_at: "2026-10-20T22:25:54Z"
 ---
 ## What it is
 Enables querying ConceptNet, a multilingual semantic network, for word relations and semantic relatedness scores.

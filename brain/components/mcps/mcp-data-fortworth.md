@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:14:19Z"
+pushed_at: "2026-10-21T03:54:38Z"
 ---
 ## What it is
 Enables querying Fort Worth Open Data via Socrata SoQL, searching datasets, and retrieving metadata through the Pipeworx gateway.

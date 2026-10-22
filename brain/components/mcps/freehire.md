@@ -8,12 +8,12 @@ source_url: https://github.com/strelov1/freehire-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 5
 pushed_at: "2026-10-14T23:49:18Z"
 ---
 ## What it is

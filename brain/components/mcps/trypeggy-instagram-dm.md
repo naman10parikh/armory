@@ -8,7 +8,7 @@ source_url: https://github.com/trypeggy/instagram_dm_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 186
+stars: 187
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -8,12 +8,12 @@ source_url: https://github.com/quarkusio/quarkus-agent-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 18
-pushed_at: "2026-10-12T07:31:07Z"
+forks: 21
+pushed_at: "2026-10-22T07:03:38Z"
 ---
 ## What it is
 MCP server `Quarkus Agent`, catalogued on PulseMCP. Creates, manages, and debugs Quarkus applications with lifecycle control, extension skills, and semantic documentation search.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T11:37:46Z"
+pushed_at: "2026-10-19T12:55:02Z"
 ---
 ## What it is
 A reference MCP server demonstrating authentication, authorization, approval workflows, and audit logging for a notes domain with secure defaults.

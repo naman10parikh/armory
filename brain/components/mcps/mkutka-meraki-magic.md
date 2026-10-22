@@ -12,8 +12,8 @@ stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 35
-pushed_at: "2026-09-27T19:20:10Z"
+forks: 34
+pushed_at: "2026-10-16T22:16:12Z"
 ---
 ## What it is
 MCP server `Meraki Magic`, catalogued on PulseMCP. Integrates with Cisco's Meraki Dashboard API to enable network discovery, device management, policy retrieval, and network creation/deletion operations without leaving your conversation context.

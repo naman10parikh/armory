@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T13:57:25Z"
+pushed_at: "2026-10-18T12:12:55Z"
 ---
 ## What it is
 Governed, read-only OT data tap for substation and utility telecontrol — IEC 60870-5-104, DNP3/IEEE 1815, and IEC 61850 MMS connectors with cross-protocol asset discovery, alarm and downtime RCA, unbypassable audit logging (MCP + CLI), budget/runaway guards, and an airgap no-egress mode. Energy edit

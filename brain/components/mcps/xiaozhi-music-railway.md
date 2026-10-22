@@ -8,12 +8,12 @@ source_url: https://github.com/teeceetan2-cyber/xiaozhi-music-railway
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 18
+forks: 21
 pushed_at: "2026-06-24T13:17:24Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T12:02:36Z"
+pushed_at: "2026-10-17T23:13:04Z"
 ---
 ## What it is
 Searches the Metropolitan Museum of Art collection and fetches full artwork records with open-access images via MCP, supporting STDIO and Streamable HTTP transports.

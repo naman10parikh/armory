@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-15T08:55:39Z"
+pushed_at: "2026-10-16T08:41:58Z"
 ---
 ## What it is
 Provides a ready-to-run MCP server and Python SDK for securely interacting with Openapi.com APIs, enabling businesses to retrieve official documents and data through natural language.

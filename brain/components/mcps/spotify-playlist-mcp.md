@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T10:20:48Z"
+pushed_at: "2026-10-21T19:35:55Z"
 ---
 ## What it is
 Local STDIO MCP server for safely curating Spotify playlists with a plan/apply workflow, allowlist-based write protection, and authentication status checks.

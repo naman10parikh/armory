@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-27T02:02:03Z"
+pushed_at: "2026-10-18T10:46:47Z"
 ---
 ## What it is
 Converts PDF, Word, Excel, and PowerPoint documents to Markdown using a pay-per-conversion model with USDC on Base via the x402 protocol.

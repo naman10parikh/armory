@@ -8,7 +8,7 @@ source_url: https://github.com/ozgurcd/gograph
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 229
+stars: 230
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T17:25:56Z"
+pushed_at: "2026-10-21T15:28:05Z"
 ---
 ## What it is
 Retrieves historical pull request context from GitHub repositories and provides it to IDE agents for reasoning, review, and code generation without modifying files.

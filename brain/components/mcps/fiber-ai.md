@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-28T19:40:36Z"
+pushed_at: "2026-10-19T09:02:46Z"
 ---
 ## What it is
 MCP server `Fiber AI`, catalogued on PulseMCP. Search companies, enrich contacts, and reveal emails and phone numbers for sales prospecting.

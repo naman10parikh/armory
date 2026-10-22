@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 28
-pushed_at: "2026-10-15T03:31:28Z"
+forks: 29
+pushed_at: "2026-10-16T03:27:20Z"
 ---
 ## What it is
 Provides structured access to Nepal Stock Exchange market data through the Model Context Protocol, enabling AI integration for querying real-time stock data and market analysis.

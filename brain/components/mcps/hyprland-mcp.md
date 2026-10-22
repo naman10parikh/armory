@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T03:03:41Z"
+pushed_at: "2026-10-19T23:07:55Z"
 ---
 ## What it is
 An MCP server that lets Claude control Hyprland through hyprctl, providing tools for windows, workspaces, monitors, config, keybinds, notifications, screenshots, app launcher, tags, groups, cursor, blue light filter, wallpaper, and raw hyprctl access.

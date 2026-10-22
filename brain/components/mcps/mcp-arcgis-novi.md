@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:52:47Z"
+pushed_at: "2026-10-19T22:58:51Z"
 ---
 ## What it is
 MCP server for querying City of Novi, Michigan open geospatial data (ArcGIS), enabling dataset search, layer querying, and schema inspection.

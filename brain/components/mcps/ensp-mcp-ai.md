@@ -8,13 +8,13 @@ source_url: https://github.com/dawnight0x/ENSP-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-10-08T17:01:07Z"
+forks: 3
+pushed_at: "2026-10-16T12:34:27Z"
 ---
 ## What it is
 Enables AI clients to manage Huawei eNSP simulated network devices, execute CLI commands, apply configurations, and perform network diagnostics through natural language, with topology upload and visualization via a web UI.

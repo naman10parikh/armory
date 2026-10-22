@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T09:08:53Z"
+pushed_at: "2026-10-16T08:46:45Z"
 ---
 ## What it is
 Enables users to read and analyze their own LinkedIn posts and shares using OAuth login and LinkedIn's Member Data Portability API. Supports post listing, analysis, draft matching, and engagement enrichment.

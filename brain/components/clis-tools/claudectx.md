@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
-stars: 142
-forks: 11
-pushed_at: "2026-10-14T00:40:03Z"
+stars: 143
+forks: 12
+pushed_at: "2026-10-19T18:53:57Z"
 ---
 ## What it is
 claudectx lets you switch your entire Claude Code configuration with a single command.

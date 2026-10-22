@@ -8,13 +8,13 @@ source_url: https://github.com/alex-odoo/myfinance-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T13:48:43Z"
+pushed_at: "2026-10-18T16:18:00Z"
 ---
 ## What it is
 Enables personal finance management through natural language: log expenses, snap receipt photos, and import bank statements. Computes budgets, trends, and net worth in any currency, with data persisted and accessible via MCP.

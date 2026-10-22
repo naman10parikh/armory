@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T12:22:28Z"
+pushed_at: "2026-10-22T03:55:29Z"
 ---
 ## What it is
 Provides live US airport operational status and delay data from the FAA, free and without authentication.

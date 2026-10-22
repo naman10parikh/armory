@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-12T22:46:26Z"
+pushed_at: "2026-10-22T10:45:31Z"
 ---
 ## What it is
 A read-only, cross-platform visualization layer for Cortex that renders memory, sessions, and code into six live reading angles (graph galaxy, 3D anatomical brain, execution trace, consolidation board, knowledge browser, and wiki) without ever writing a memory.

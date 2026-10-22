@@ -8,11 +8,11 @@ source_url: https://github.com/james-chahwan/repo-graph
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 58
+stars: 88
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
+forks: 1
 pushed_at: "2026-10-02T08:27:46Z"
 ---
 ## What it is

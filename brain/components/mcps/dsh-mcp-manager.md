@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-09-10T06:59:01Z"
+forks: 4
+pushed_at: "2026-10-20T08:24:13Z"
 ---
 ## What it is
 A durable MCP server manager for DeepSeek Harness that provides a settings page and model tools to add, list, enable/disable, restart, import/export MCP servers while surviving DSH restarts and upgrades.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T11:52:03Z"
+pushed_at: "2026-10-19T14:15:50Z"
 ---
 ## What it is
 Enables searching through 1C:Enterprise configuration source code (XML+BSL) with full-text indexing, providing tools to find code, metadata objects, procedures, and modules.

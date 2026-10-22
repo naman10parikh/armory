@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T18:41:23Z"
+pushed_at: "2026-10-21T15:12:22Z"
 ---
 ## What it is
 MCP server for managing video pipelines, integrating media processing (TTS, STT, image generation) and video editing, with a structured plugin system and tunnel to Claude AI Web.

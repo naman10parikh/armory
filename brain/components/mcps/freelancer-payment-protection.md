@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-25T02:32:20Z"
+pushed_at: "2026-10-16T18:16:57Z"
 ---
 ## What it is
 MCP server wrapping the fpp CLI as a single generic run tool for freelancer client payment-risk checks.

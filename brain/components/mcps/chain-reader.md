@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T10:20:30Z"
+pushed_at: "2026-10-21T19:35:04Z"
 ---
 ## What it is
 A read-only MCP server that lets you interact with the Ethereum blockchain via natural language, providing tools for reading blocks, transactions, token metadata, events, and more, with provenance tracking and no private key access.

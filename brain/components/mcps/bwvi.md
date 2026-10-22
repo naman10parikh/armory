@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-05-19T12:17:56Z"
+pushed_at: "2026-10-17T14:06:52Z"
 ---
 ## What it is
 MCP server for AI agents to make structured design decisions with direction, palette, typography, layout, and detail signatures, supporting multiple rendering backends and 56 visual styles.

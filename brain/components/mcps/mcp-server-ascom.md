@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2025-08-02T10:42:42Z"
+pushed_at: "2026-10-21T03:14:34Z"
 ---
 ## What it is
 Control telescopes, cameras, and focusers with AI through natural language, using any ASCOM Alpaca device.

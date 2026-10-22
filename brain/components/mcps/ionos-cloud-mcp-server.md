@@ -8,13 +8,13 @@ source_url: https://github.com/ionos-cloud/ionoscloud-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-14T06:42:38Z"
+pushed_at: "2026-10-22T06:58:08Z"
 ---
 ## What it is
 Inspect and manage IONOS CLOUD infrastructure via MCP

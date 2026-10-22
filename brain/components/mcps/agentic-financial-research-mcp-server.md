@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-15T05:14:26Z"
+pushed_at: "2026-10-21T12:55:07Z"
 ---
 ## What it is
 Provides tools for RAG-based financial document retrieval, financial calculations, Yahoo Finance stock data, and portfolio analysis via JSON-RPC 2.0 protocol.

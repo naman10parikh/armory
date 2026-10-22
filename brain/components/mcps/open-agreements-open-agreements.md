@@ -12,8 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, legal]
 stars: 61
-forks: 11
-pushed_at: "2026-10-15T08:53:48Z"
+forks: 12
+pushed_at: "2026-10-21T08:57:39Z"
 ---
 ## What it is
 Fill standard legal agreement templates (NDAs, SAFEs, NVCA docs, employment, cloud terms) and produce signable DOCX files.

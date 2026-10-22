@@ -8,13 +8,13 @@ source_url: https://github.com/benni-os/benni-operator-gateway
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T03:39:58Z"
+pushed_at: "2026-10-18T08:11:33Z"
 ---
 ## What it is
 An open-source MCP gateway for AI operators, connecting any LLM to a hot-reloadable connector registry with production-grade approval gates and a built-in control plane for session management.

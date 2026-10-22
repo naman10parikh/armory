@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T17:09:27Z"
+pushed_at: "2026-10-18T13:10:36Z"
 ---
 ## What it is
 MCP server for SDC governance validation, exposing tools that agents call to validate governance content in XML instances against SDC data models and return XACML decisions (PERMIT, DENY, INDETERMINATE).

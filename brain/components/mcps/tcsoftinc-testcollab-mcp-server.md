@@ -13,7 +13,7 @@ related: []
 tags: [mcp, developer-tools]
 stars: 4
 forks: 2
-pushed_at: "2026-10-14T09:17:32Z"
+pushed_at: "2026-10-19T09:19:04Z"
 ---
 ## What it is
 Manage test cases in TestCollab directly from your AI coding assistant. List, create, and update test cases with filtering, sorting, and pagination support.

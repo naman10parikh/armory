@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:23:20Z"
+pushed_at: "2026-10-21T04:06:23Z"
 ---
 ## What it is
 Enables searching and querying US Department of Transportation open datasets via Socrata API, allowing AI agents to find datasets, run SoQL queries, and retrieve metadata.

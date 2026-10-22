@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-28T15:20:10Z"
+pushed_at: "2026-10-20T00:53:11Z"
 ---
 ## What it is
 A FastMCP server that provides full programmatic access to Suno Premier features, including music generation, clip extension, stem separation, and audio retrieval using your Suno account.

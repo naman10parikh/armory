@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-11T00:21:22Z"
+pushed_at: "2026-10-18T06:00:43Z"
 ---
 ## What it is
 MCP server `AutoResearch`, catalogued on PulseMCP. Structured experiment management implementing the autoresearch pattern with a composable technique catalog, experiment tracking, and SQLite-backed result persistence.

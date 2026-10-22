@@ -8,12 +8,12 @@ source_url: https://github.com/rehan1020/MCP-India-Stack
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 65
+stars: 66
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
+forks: 12
 pushed_at: "2026-10-08T16:03:10Z"
 ---
 ## What it is

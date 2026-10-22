@@ -12,8 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2025-12-09T10:27:16Z"
+forks: 2
+pushed_at: "2026-10-21T14:50:32Z"
 ---
 ## What it is
 MCP server `Academic Paper Analyzer`, catalogued on PulseMCP. Analyzes academic papers with PDF text extraction, mathematical notation explanation, document structure analysis, content summarization, code generation from algorithms, and data visualization for efficient research and experimental reproduction.

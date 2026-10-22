@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T07:54:29Z"
+pushed_at: "2026-10-21T02:51:08Z"
 ---
 ## What it is
 Quantitative research, backtesting, creator-marketplace subscriptions, editable strategy forks, continuous copy trading, and controlled brokerage execution through 125 MCP tools.

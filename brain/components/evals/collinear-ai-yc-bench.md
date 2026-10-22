@@ -8,14 +8,14 @@ source_url: https://github.com/collinear-ai/yc-bench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 135
+stars: 136
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, evals]
 forks: 17
-pushed_at: "2026-10-08T09:17:15Z"
+pushed_at: "2026-10-22T10:21:19Z"
 ---
 ## What it is
 Your Company Bench: Long-horizon coherence benchmark in simulated time to test AI agent abilities to manage resources and maximize returns as a tech startup founder

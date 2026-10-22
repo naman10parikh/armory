@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-24T07:46:01Z"
+pushed_at: "2026-10-21T12:18:39Z"
 ---
 ## What it is
 A Model Context Protocol server for the CBS Open Data OData API, enabling AI assistants to query, filter, and explore CBS statistics.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T16:09:16Z"
+pushed_at: "2026-10-19T08:58:00Z"
 ---
 ## What it is
 Enables querying Japan's national academic database, CiNii Research, for articles, books, dissertations, KAKEN projects, and researcher profiles via seven MCP tools.

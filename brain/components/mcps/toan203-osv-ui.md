@@ -13,7 +13,7 @@ related: []
 tags: [mcp, security]
 stars: 4
 forks: 0
-pushed_at: "2026-10-11T19:37:46Z"
+pushed_at: "2026-10-18T19:35:01Z"
 ---
 ## What it is
 Visual CVE audit dashboard for npm, Python, Go, and Rust. Scan from Claude/Cursor, opens a browser UI for human review (human-in-the-loop), applies fixes with explicit confirmation. Powered by OSV.dev.

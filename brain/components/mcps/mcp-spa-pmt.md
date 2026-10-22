@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T14:25:10Z"
+pushed_at: "2026-10-22T00:28:08Z"
 ---
 ## What it is
 Enables natural language, read-only access to the SPA system of the Prefeitura Municipal de Teresina, allowing users to query process boxes, urgent deadlines, recent entries, triage briefings, and judicial documents via pure HTTP without a browser.

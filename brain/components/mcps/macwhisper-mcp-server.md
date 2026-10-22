@@ -8,13 +8,13 @@ source_url: https://github.com/docdyhr/macwhisper-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-14T17:05:51Z"
+pushed_at: "2026-10-20T09:09:23Z"
 ---
 ## What it is
 Enables transcription, summarization, and action item extraction from audio files on your Mac using MacWhisper and Claude Desktop, all locally without any cloud APIs.

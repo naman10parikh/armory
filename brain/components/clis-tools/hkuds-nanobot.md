@@ -8,14 +8,14 @@ source_url: https://github.com/HKUDS/nanobot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 49050
+stars: 49262
 eval_score: null
 mentions: 3
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, cli]
-forks: 8631
-pushed_at: "2026-10-15T11:34:31Z"
+forks: 8665
+pushed_at: "2026-10-22T12:50:34Z"
 ---
 ## What it is
 Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps

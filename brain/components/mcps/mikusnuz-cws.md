@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-08T10:08:35Z"
+pushed_at: "2026-10-19T20:41:41Z"
 ---
 ## What it is
 MCP server `Chrome Web Store`, catalogued on PulseMCP. Manage Chrome extensions through Chrome Web Store operations including upload, publish, and staged rollouts.

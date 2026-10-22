@@ -12,8 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-10-10T04:13:25Z"
+forks: 1
+pushed_at: "2026-10-17T04:13:28Z"
 ---
 ## What it is
 MCP server `Firecrawl (Effect-TS)`, catalogued on PulseMCP. Self-hostable Firecrawl MCP server built with Effect-TS and Bun, supporting Vercel deployment, Prometheus metrics, multi-tenant authentication, and safe mode restrictions.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-10-12T06:21:52Z"
+pushed_at: "2026-10-15T22:49:44Z"
 ---
 ## What it is
 MCP server `Prediction Markets (Polymarket, PredictIt, Kalshi)`, catalogued on PulseMCP. Integrates with Polymarket, PredictIt, and Kalshi to provide real-time prediction market data with calculated odds, contract pricing, and event filtering for market analysis and trading research applications.

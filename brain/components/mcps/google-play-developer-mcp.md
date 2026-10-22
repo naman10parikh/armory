@@ -8,13 +8,13 @@ source_url: https://github.com/devinwang/google-play-developer-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-08-03T00:20:27Z"
+pushed_at: "2026-10-21T00:36:05Z"
 ---
 ## What it is
 The complete MCP server for Google Play, offering 150 tools to fully control Android Publisher API v3 and Play Developer Reporting API v1beta1.

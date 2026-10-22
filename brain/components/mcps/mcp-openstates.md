@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T20:42:27Z"
+pushed_at: "2026-10-16T22:06:20Z"
 ---
 ## What it is
 Access U.S. state legislative data including bills, legislators, and votes across all 50 states via the OpenStates API.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-11T03:30:17Z"
+pushed_at: "2026-10-18T03:18:27Z"
 ---
 ## What it is
 MCP server `FIRST Agentic CSA`, catalogued on PulseMCP. Search through FRC documentation for WPILib, REV, CTRE, Redux, and PhotonVision using natural language questions.

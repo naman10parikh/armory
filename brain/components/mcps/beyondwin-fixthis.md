@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-12T10:37:53Z"
+pushed_at: "2026-10-20T08:51:13Z"
 ---
 ## What it is
 MCP server `FixThis`, catalogued on PulseMCP. Point at Jetpack Compose UI elements and hand off annotated source candidates to AI coding agents.

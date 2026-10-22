@@ -8,12 +8,12 @@ source_url: https://github.com/williamzujkowski/live-coding-music-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 244
+stars: 246
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 34
-pushed_at: "2026-10-12T15:17:24Z"
+pushed_at: "2026-10-19T05:13:31Z"
 ---
 ## What it is
 MCP server `Strudel Live Coding`, catalogued on PulseMCP. Provides direct control over Strudel.cc for live coding music generation through browser automation, offering 40+ tools for pattern creation, music theory operations, genre-specific generators, and real-time audio analysis with session management.

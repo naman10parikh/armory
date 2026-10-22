@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:59:29Z"
+pushed_at: "2026-10-19T23:06:37Z"
 ---
 ## What it is
 Enables querying and searching Vilas County, Wisconsin open geospatial datasets (parcels, addresses, zoning) via ArcGIS services using natural language or direct tool calls.

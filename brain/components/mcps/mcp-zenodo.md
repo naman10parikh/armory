@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-01T23:23:40Z"
+pushed_at: "2026-10-17T15:13:16Z"
 ---
 ## What it is
 A comprehensive MCP server for interacting with Zenodo records, enabling search, retrieval, citation generation, and file downloads.

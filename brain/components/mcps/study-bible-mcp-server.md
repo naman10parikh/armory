@@ -8,12 +8,12 @@ source_url: https://github.com/djayatillake/studybible-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 88
+stars: 89
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
+forks: 14
 pushed_at: "2026-10-15T08:28:54Z"
 ---
 ## What it is

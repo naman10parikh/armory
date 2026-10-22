@@ -8,13 +8,13 @@ source_url: https://github.com/tokportal/tokportal-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T14:59:14Z"
+pushed_at: "2026-10-16T18:42:51Z"
 ---
 ## What it is
 Official MCP server for the TokPortal API, exposing 91 tools to create bundles, upload and publish videos, configure accounts, read analytics, and manage webhooks for real TikTok, Instagram, and YouTube accounts in any MCP client.

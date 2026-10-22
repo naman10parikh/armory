@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-26T12:29:42Z"
+pushed_at: "2026-10-22T04:04:09Z"
 ---
 ## What it is
 An MCP server connecting AI agents to the Financial Modeling Prep API for daily EOD historical stock price data.

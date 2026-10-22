@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-02-10T10:25:00Z"
+pushed_at: "2026-10-17T11:54:49Z"
 ---
 ## What it is
 A local-first, team-ready MCP server providing durable memory for LLM-based coding workflows with multiple storage backends and fast search.

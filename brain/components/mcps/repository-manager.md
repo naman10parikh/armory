@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-15T12:22:33Z"
+forks: 1
+pushed_at: "2026-10-19T15:57:52Z"
 ---
 ## What it is
 A production-grade MCP server for managing git projects, offering dynamic tool selection and enterprise-grade security.

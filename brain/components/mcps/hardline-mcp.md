@@ -8,13 +8,13 @@ source_url: https://github.com/sushiHex/hardline-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T10:43:26Z"
+pushed_at: "2026-10-21T22:38:00Z"
 ---
 ## What it is
 Enables local AI coding agents to message each other on one machine using a durable SQLite mailbox and live-ask tools.

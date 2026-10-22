@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-15T09:34:48Z"
+pushed_at: "2026-10-15T13:27:16Z"
 ---
 ## What it is
 A lightweight 30KB MCP browser automation server that uses raw Chrome DevTools Protocol to enable AI agents to browse the web, take screenshots, interact with elements, and capture live page events like console logs and network requests.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T08:19:10Z"
+pushed_at: "2026-10-18T15:17:06Z"
 ---
 ## What it is
 MCP server exposing tweetfeed.live's IOC feed (URLs, domains, IPs, hashes) as tools for querying threat intelligence, with checks, enrichment, trends, and campaign clustering.

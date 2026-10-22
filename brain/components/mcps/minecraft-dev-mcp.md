@@ -8,13 +8,13 @@ source_url: https://github.com/MCDxAI/minecraft-dev-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 45
+stars: 47
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-08-07T00:09:52Z"
+pushed_at: "2026-10-21T01:45:13Z"
 ---
 ## What it is
 A Model Context Protocol server that gives AI assistants native access to Minecraft mod development tools — decompile, remap, search, and analyze Minecraft source code directly from your AI workflow.

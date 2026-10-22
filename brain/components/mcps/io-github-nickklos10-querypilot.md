@@ -8,13 +8,13 @@ source_url: https://github.com/nickklos10/QueryPilot
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-11T21:54:02Z"
+pushed_at: "2026-10-22T01:35:53Z"
 ---
 ## What it is
 QueryPilot enables AI agents to safely generate, validate, repair, and execute SQL against fixture databases, with eval-driven regression testing to ensure reliability.

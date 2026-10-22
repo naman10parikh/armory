@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-15T12:18:02Z"
+pushed_at: "2026-10-22T12:32:02Z"
 ---
 ## What it is
 Enables AI agents to pay creators for each citation via the x402 micropayment protocol, with automatic research, grounded answers, and on-chain settlement.

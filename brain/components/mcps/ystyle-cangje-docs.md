@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-15T09:42:57Z"
+pushed_at: "2026-10-20T03:27:07Z"
 ---
 ## What it is
 MCP server `Cangje Docs`, catalogued on PulseMCP. Document scanning and search capabilities for indexing and querying large documentation repositories

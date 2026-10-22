@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T14:25:35Z"
+pushed_at: "2026-10-16T07:31:26Z"
 ---
 ## What it is
 Official parseAPI MCP server providing IP/place data, email/phone/domain validation, weather, currency, timezone, and holiday lookups as tools for AI agents.

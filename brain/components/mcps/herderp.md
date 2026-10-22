@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-31T04:15:09Z"
+pushed_at: "2026-10-20T02:50:04Z"
 ---
 ## What it is
 Wraps the herdr CLI to provide curated tools and session necromancy, allowing revival of previous Claude Code agent sessions from herdr spaces.

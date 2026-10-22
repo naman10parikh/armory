@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-07-17T15:37:46Z"
+pushed_at: "2026-10-21T21:54:33Z"
 ---
 ## What it is
 Enables AI assistants to interact with TypeDB databases, allowing LLMs to execute TypeQL queries, manage databases, and manage users through natural language.

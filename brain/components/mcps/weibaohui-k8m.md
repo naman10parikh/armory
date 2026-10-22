@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
-stars: 888
-forks: 160
-pushed_at: "2026-10-03T05:56:03Z"
+stars: 889
+forks: 161
+pushed_at: "2026-10-17T05:15:09Z"
 ---
 ## What it is
 /🏠 - Provides MCP multi-cluster Kubernetes management and operations, featuring a management interface, logging, and nearly 50 built-in tools covering common DevOps and development scenarios. Supports both standard and CRD resources.

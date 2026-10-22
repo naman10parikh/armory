@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T00:13:21Z"
+pushed_at: "2026-10-18T13:42:10Z"
 ---
 ## What it is
 MCP server that helps developers build and review Zapier integrations by inspecting, linting, validating, and generating test fixtures for their zapier-platform-cli projects.

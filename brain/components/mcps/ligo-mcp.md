@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T22:43:42Z"
+pushed_at: "2026-10-21T08:02:46Z"
 ---
 ## What it is
 A gravitational-wave detection pipeline combining lightweight signal-processing with an LLM triage layer, featuring a pre-registered evaluation harness that measures performance against synthetic injections in real detector noise.

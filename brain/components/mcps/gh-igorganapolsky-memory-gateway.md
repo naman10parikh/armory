@@ -12,8 +12,8 @@ stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
-pushed_at: "2026-10-14T17:44:44Z"
+forks: 7
+pushed_at: "2026-10-22T12:44:44Z"
 ---
 ## What it is
 MCP server `Memory Gateway`, catalogued on PulseMCP. Local-first context engineering layer for AI agents with feedback capture and failure pattern blocking.

@@ -8,13 +8,13 @@ source_url: https://github.com/jmagar/swag-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T09:34:49Z"
+pushed_at: "2026-10-19T09:25:57Z"
 ---
 ## What it is
 MCP server for managing SWAG reverse-proxy configurations, including config generation, backups, logs, and health checks. Enables managing nginx subdomain configs for SWAG through a unified action router.

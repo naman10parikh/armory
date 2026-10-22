@@ -8,14 +8,14 @@ source_url: https://github.com/cli/cli
 license: unknown
 cli_compat: []
 maturity: stable
-stars: 46656
+stars: 46710
 eval_score: 1
 mentions: null
 verified_at: 
 related: []
 tags: [vcs-github]
-forks: 9178
-pushed_at: "2026-10-15T07:41:04Z"
+forks: 9202
+pushed_at: "2026-10-22T09:36:56Z"
 ---
 
 # gh

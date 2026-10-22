@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T17:34:47Z"
+pushed_at: "2026-10-18T17:33:28Z"
 ---
 ## What it is
 Enables software delivery as a sequence of named, gated workflow steps, from discovery and planning through build, review, and handoff, with verifiable gates and resumable state outside the chat.

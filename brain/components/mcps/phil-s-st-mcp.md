@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T06:48:32Z"
+pushed_at: "2026-10-21T02:32:35Z"
 ---
 ## What it is
 Hooks AI to Sublime-Text

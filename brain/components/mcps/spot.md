@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-14T07:52:28Z"
+pushed_at: "2026-10-18T12:22:27Z"
 ---
 ## What it is
 MCP server `Spot`, catalogued on PulseMCP. Gasless non-custodial DeFi orders including limit, TWAP, stop-loss, and take-profit on EVM chains.

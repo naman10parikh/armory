@@ -8,13 +8,13 @@ source_url: https://github.com/Johnaverse/chains-api
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-15T11:52:29Z"
+pushed_at: "2026-10-22T02:31:06Z"
 ---
 ## What it is
 Enables AI assistants to query blockchain chain data, including chain details, RPC endpoints, and chain relationships, through a Model Context Protocol server.

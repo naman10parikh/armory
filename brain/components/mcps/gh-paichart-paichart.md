@@ -8,12 +8,12 @@ source_url: https://github.com/paichart/paichart
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-14T05:19:34Z"
+pushed_at: "2026-10-21T22:06:25Z"
 ---
 ## What it is
 MCP server `pAIchart`, catalogued on PulseMCP. Service orchestration hub that enables discovery, composition, and authentication of multiple services through a single endpoint.

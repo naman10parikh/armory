@@ -8,12 +8,12 @@ source_url: https://github.com/ranklancer/pihole-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-10-09T07:31:07Z"
+forks: 3
+pushed_at: "2026-10-22T07:31:23Z"
 ---
 ## What it is
 MCP server `Pi-hole`, catalogued on PulseMCP. Manage Pi-hole v6 instances — queries, blocklists, groups, and statistics.

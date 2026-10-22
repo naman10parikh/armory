@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T23:17:44Z"
+pushed_at: "2026-10-18T13:42:02Z"
 ---
 ## What it is
 Reads and searches local email archives (.mbox or .eml) with full MIME parsing, enabling queries about senders, subjects, dates, and bodies while keeping all data on your machine.

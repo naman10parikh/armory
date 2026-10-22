@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-27T03:00:15Z"
+pushed_at: "2026-10-21T06:52:36Z"
 ---
 ## What it is
 Official PicSee MCP server for creating short links. OAuth unlocks link management and click analytics; anonymous shortening is supported.

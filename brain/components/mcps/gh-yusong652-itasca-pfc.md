@@ -8,12 +8,12 @@ source_url: https://github.com/yusong652/pfc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 217
+stars: 220
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 19
-pushed_at: "2026-10-05T14:28:11Z"
+pushed_at: "2026-10-20T14:40:21Z"
 ---
 ## What it is
 MCP server `ITASCA PFC`, catalogued on PulseMCP. Browse documentation, run simulations, and capture plots in ITASCA PFC discrete element software.

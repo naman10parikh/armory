@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-10-15T04:08:31Z"
+forks: 2
+pushed_at: "2026-10-22T05:25:07Z"
 ---
 ## What it is
 Enables managing Splits transactions, accounts, signers, and authentication through natural language or AI assistants.

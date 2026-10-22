@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T21:54:57Z"
+pushed_at: "2026-10-20T01:01:31Z"
 ---
 ## What it is
 Enables restaurant discovery and availability checking on Tock via Claude, allowing users to list cities, search restaurants, and get venue details and bookable experiences.

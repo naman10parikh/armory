@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-25T10:10:09Z"
+pushed_at: "2026-10-18T10:05:52Z"
 ---
 ## What it is
 MCP server `EDGAR`, catalogued on PulseMCP. SEC EDGAR filing system MCP server with company resolution, XBRL financials, and insider transaction tracking.

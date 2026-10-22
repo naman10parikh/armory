@@ -13,7 +13,7 @@ related: []
 tags: [mcp, communication]
 stars: 5
 forks: 6
-pushed_at: "2026-09-13T00:15:20Z"
+pushed_at: "2026-10-20T23:21:02Z"
 ---
 ## What it is
 WhatsApp MCP server over Streamable HTTP with web admin UI (QR/status/settings), bidirectional media upload/download, and SQLite persistence.

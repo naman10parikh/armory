@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T11:25:55Z"
+pushed_at: "2026-10-20T07:53:28Z"
 ---
 ## What it is
 Exposes a local development project as a secure MCP server over a stable HTTPS URL via Cloudflare tunnel, with configurable access permissions and 33 development tools for file, command, Git, and process operations.

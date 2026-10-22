@@ -8,13 +8,13 @@ source_url: https://github.com/Peter-N91/hve-squad-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-11T21:44:19Z"
+pushed_at: "2026-10-18T17:54:38Z"
 ---
 ## What it is
 An outbound MCP server that exposes a squad of 98 advisory agents as five model-invocable tools for research, planning, review, architecture, and async pipeline runs.

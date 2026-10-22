@@ -8,7 +8,7 @@ source_url: https://github.com/REAL-Lab-NU/MedicalHarness
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10

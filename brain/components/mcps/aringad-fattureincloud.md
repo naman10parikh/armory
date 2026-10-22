@@ -8,11 +8,11 @@ source_url: https://github.com/aringad/fattureincloud-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
+forks: 14
 pushed_at: "2026-09-01T13:31:13Z"
 ---
 ## What it is

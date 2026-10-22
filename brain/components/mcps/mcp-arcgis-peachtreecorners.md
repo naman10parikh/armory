@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:53:28Z"
+pushed_at: "2026-10-19T22:59:36Z"
 ---
 ## What it is
 Enables searching and querying open geospatial datasets from the City of Peachtree Corners GIS (ArcGIS), including parcels, zoning, transport, and city services.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-10-02T06:11:47Z"
+pushed_at: "2026-10-19T16:13:08Z"
 ---
 ## What it is
 상업용 부동산 실거래가와 건축물대장을 역매칭하여 정확한 건물 정보를 조회하고, 시세·이력·데이터카드를 제공하는 MCP 서버입니다.

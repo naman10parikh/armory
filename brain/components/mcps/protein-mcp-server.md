@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-07T11:37:51Z"
+pushed_at: "2026-10-17T23:12:39Z"
 ---
 ## What it is
 A Model Context Protocol server providing programmatic access to 3D protein structural data from RCSB PDB, PDBe, and UniProt, enabling search, retrieval, comparison, and analysis of protein structures.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-14T08:05:22Z"
+pushed_at: "2026-10-19T11:12:25Z"
 ---
 ## What it is
 MCP server `Ludo Game Assets`, catalogued on PulseMCP. Generate game assets with AI including sprites, 3D models, animations, sound effects, music, and voices.

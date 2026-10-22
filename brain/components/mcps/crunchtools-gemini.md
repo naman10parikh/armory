@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-11T05:06:21Z"
+pushed_at: "2026-10-21T01:25:06Z"
 ---
 ## What it is
 MCP server `Google Gemini by crunchtools`, catalogued on PulseMCP. Integrates Google Gemini AI for text generation, image creation, video generation, web research, and document analysis.

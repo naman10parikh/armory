@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-30T18:06:21Z"
+pushed_at: "2026-10-21T05:43:50Z"
 ---
 ## What it is
 Enables AI assistants to query a user's recorded work sessions, notes, and browsing history, allowing them to resume tasks or answer questions about past work without re-explanation.

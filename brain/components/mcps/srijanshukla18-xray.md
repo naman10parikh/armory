@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2025-12-11T12:41:14Z"
+pushed_at: "2026-10-16T13:58:11Z"
 ---
 ## What it is
 MCP server `XRAY Code Intelligence`, catalogued on PulseMCP. Progressive code intelligence and navigation capabilities for AI assistants through structural code analysis using ast-grep

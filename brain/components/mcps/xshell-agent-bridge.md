@@ -8,12 +8,12 @@ source_url: https://github.com/zhenyuanfan/xshell-agent-bridge
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-09-29T01:52:16Z"
 ---
 ## What it is

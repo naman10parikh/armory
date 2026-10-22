@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T05:48:53Z"
+pushed_at: "2026-10-19T15:14:54Z"
 ---
 ## What it is
 Enables AI assistants to interact with bridge structural analysis software for modeling, construction stages, and code checking.

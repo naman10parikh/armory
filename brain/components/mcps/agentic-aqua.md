@@ -8,13 +8,13 @@ source_url: https://github.com/jan3dev/agentic-aqua
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-14T13:28:50Z"
+pushed_at: "2026-10-19T14:27:53Z"
 ---
 ## What it is
 MCP server for managing Bitcoin, Liquid Network, and Lightning wallets through AI assistants, with unified seed support, secure encrypted storage, and both CLI and tool interfaces.

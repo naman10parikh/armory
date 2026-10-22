@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-11T11:34:05Z"
+pushed_at: "2026-10-22T09:21:55Z"
 ---
 ## What it is
 An autonomous, extensible LLM build orchestrator. Give it a repo and a goal; it decomposes the goal into tasks, edits code, and gates every change on build/tests/lint, reverting regressions. Polygot, cost-aware model selection, pluggable via entry points. Ships as an MCP server so any client can dri

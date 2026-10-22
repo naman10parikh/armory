@@ -8,7 +8,7 @@ source_url: https://github.com/shuakami/mcp-ssh
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 80
+stars: 81
 eval_score: null
 verified_at: 2026-05-27
 related: []

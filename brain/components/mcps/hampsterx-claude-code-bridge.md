@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-03T02:51:27Z"
+pushed_at: "2026-10-18T21:32:14Z"
 ---
 ## What it is
 MCP server `Claude Code Bridge`, catalogued on PulseMCP. Wraps the Claude Code CLI as an MCP server for query, review, search, and structured output tools.

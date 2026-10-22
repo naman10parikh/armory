@@ -8,11 +8,11 @@ source_url: https://github.com/jumodada/drissionpage-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 488
+stars: 484
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 42
+forks: 43
 pushed_at: "2026-09-14T07:35:58Z"
 ---
 ## What it is

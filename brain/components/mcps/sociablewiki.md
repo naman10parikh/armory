@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-28T15:55:46Z"
+pushed_at: "2026-10-21T02:47:30Z"
 ---
 ## What it is
 Public, agent-searchable knowledge base about AI-native software development, served as an MCP server with tools to search, read, and list topics.

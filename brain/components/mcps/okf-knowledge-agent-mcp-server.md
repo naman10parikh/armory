@@ -8,13 +8,13 @@ source_url: https://github.com/thecodacus/okf-agent
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 339
+stars: 342
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 78
-pushed_at: "2026-10-13T22:16:32Z"
+forks: 77
+pushed_at: "2026-10-15T22:51:48Z"
 ---
 ## What it is
 An LLM-managed knowledge base following the Open Knowledge Format (OKF) v0.1 spec. Provides MCP tools: kb_query, kb_add, kb_update, kb_status over stdio or streamable HTTP.

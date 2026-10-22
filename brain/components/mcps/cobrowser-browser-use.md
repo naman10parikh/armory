@@ -8,11 +8,11 @@ source_url: https://github.com/kontext-security/browser-use-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 848
+stars: 847
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 118
+forks: 117
 pushed_at: "2026-05-20T20:43:30Z"
 ---
 ## What it is

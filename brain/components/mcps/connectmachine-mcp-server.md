@@ -8,13 +8,13 @@ source_url: https://github.com/connectmachine/mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-09T10:50:21Z"
+pushed_at: "2026-10-17T13:43:40Z"
 ---
 ## What it is
 Connect your AI assistant to ConnectMachine, the digital business-card and contact platform. Manage contacts, events, networks, and your digital cards in natural language.

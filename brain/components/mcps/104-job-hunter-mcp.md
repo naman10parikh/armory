@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T08:54:23Z"
+pushed_at: "2026-10-20T15:33:03Z"
 ---
 ## What it is
 This MCP server lets AI assistants search job listings on Taiwan's 104 Job Bank, read full job details, and prepare applications with human-in-the-loop confirmation before final submission.

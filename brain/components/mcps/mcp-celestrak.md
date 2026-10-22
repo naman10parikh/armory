@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T22:21:41Z"
+pushed_at: "2026-10-20T04:14:51Z"
 ---
 ## What it is
 Provides satellite orbital elements (TLE / GP data) for any tracked object via MCP.

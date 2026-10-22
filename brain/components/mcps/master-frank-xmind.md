@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2025-12-11T02:22:01Z"
+pushed_at: "2026-10-17T16:05:28Z"
 ---
 ## What it is
 MCP server `XMind`, catalogued on PulseMCP. Converts multiple file formats into XMind mind maps with AI-powered analysis

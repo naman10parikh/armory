@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T07:36:17Z"
+pushed_at: "2026-10-19T08:52:01Z"
 ---
 ## What it is
 MCP server that connects Codex and other MCP clients to a running Glyph Hold instance via its HTTP API, enabling memory and secret management.

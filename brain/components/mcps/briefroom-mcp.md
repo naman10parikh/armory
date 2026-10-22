@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-17T05:15:30Z"
+pushed_at: "2026-10-17T03:38:50Z"
 ---
 ## What it is
 Enables AI agents to deploy HTML and pull reviewer comments via the briefroom CLI without spawning shells.

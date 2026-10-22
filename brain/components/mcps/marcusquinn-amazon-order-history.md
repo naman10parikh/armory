@@ -8,12 +8,12 @@ source_url: https://github.com/marcusquinn/amazon-order-history-csv-download-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-10-15T05:47:54Z"
+pushed_at: "2026-10-21T10:45:02Z"
 ---
 ## What it is
 MCP server `Amazon Order History`, catalogued on PulseMCP. Extracts Amazon order history data across 16 regional sites using browser automation to export orders, item details, shipment tracking, and payment transactions to CSV format for expense tracking, tax preparation, and financial reconciliation.

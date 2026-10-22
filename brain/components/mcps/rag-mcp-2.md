@@ -8,13 +8,13 @@ source_url: https://github.com/MasihMoafi/rag-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T14:49:58Z"
+pushed_at: "2026-10-15T17:42:32Z"
 ---
 ## What it is
 A local hybrid-search MCP server that enables coding agents to query files and folders using natural language, returning relevant code chunks with exact source paths. Everything runs on-device with no API keys or network calls.

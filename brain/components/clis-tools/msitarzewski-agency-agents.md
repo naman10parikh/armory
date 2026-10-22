@@ -8,14 +8,14 @@ source_url: https://github.com/msitarzewski/agency-agents
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 160229
+stars: 163102
 eval_score: null
 mentions: 3
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 25903
-pushed_at: "2026-10-15T05:33:33Z"
+forks: 26322
+pushed_at: "2026-10-19T16:48:24Z"
 ---
 ## What it is
 A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.

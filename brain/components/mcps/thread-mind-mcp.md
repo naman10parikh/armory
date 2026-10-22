@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T20:25:52Z"
+pushed_at: "2026-10-18T20:28:10Z"
 ---
 ## What it is
 Structures AI conversations into hierarchical thread trees, replacing full history with concise summaries to reduce token consumption and preserve context.

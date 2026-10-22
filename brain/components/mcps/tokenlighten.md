@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T01:55:17Z"
+pushed_at: "2026-10-21T20:25:54Z"
 ---
 ## What it is
 Local-first MCP toolkit that provides coding agents focused repository context via read_file, search_files, and edit_file tools, reducing token usage and task cost.

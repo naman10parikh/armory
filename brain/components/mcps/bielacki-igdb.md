@@ -8,12 +8,12 @@ source_url: https://github.com/bielacki/igdb-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2025-09-30T19:19:43Z"
+pushed_at: "2026-10-21T11:20:40Z"
 ---
 ## What it is
 MCP server `IGDB`, catalogued on PulseMCP. Integrates with IGDB's video game database API to provide access to game details, release dates, platforms, genres, ratings, and gaming metadata for building gaming applications, research projects, and content creation workflows.

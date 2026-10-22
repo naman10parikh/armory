@@ -8,13 +8,13 @@ source_url: https://github.com/zoltan0803/redacted-context-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T11:55:02Z"
+pushed_at: "2026-10-21T23:04:23Z"
 ---
 ## What it is
 Provides redacted access to a private local knowledgebase for coding agents, allowing them to inspect files while hiding sensitive names and identifiers.
