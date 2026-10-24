@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T12:22:49Z"
+pushed_at: "2026-10-22T03:55:52Z"
 ---
 ## What it is
 Enables AI agents to browse and query Facebook Ads data including ad accounts, campaigns, ad sets, and performance insights via natural language.

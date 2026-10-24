@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-26T06:34:33Z"
+pushed_at: "2026-10-19T07:22:34Z"
 ---
 ## What it is
 Enables agents to fetch live Base mainnet gas prices by paying $0.001 USDC per call via the x402 payment standard.

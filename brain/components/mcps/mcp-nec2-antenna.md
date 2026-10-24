@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T04:41:20Z"
+pushed_at: "2026-10-21T21:23:28Z"
 ---
 ## What it is
 Design and simulate wire antennas using the NEC2 method-of-moments solver via MCP. Supports dipole, Yagi-Uda, vertical, loop, and inverted-V geometries with pattern, impedance, and VSWR analysis.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-16T18:24:31Z"
+pushed_at: "2026-10-22T22:42:44Z"
 ---
 ## What it is
 An MCP server that provides tools to audit AI-agent marketplace integrity by scanning listings for deceptive patterns like fabricated engagement, automated seeding, self-advertisement, unpaid work risk, and high-budget bait.

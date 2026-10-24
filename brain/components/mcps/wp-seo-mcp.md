@@ -8,11 +8,13 @@ source_url: https://github.com/RouxFurkan/wp-seo-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-10-23T13:52:08Z"
 ---
 ## What it is
 This MCP server automates WordPress SEO blog creation from content generation to publishing using GPT-4o, DALL-E 3, and WordPress REST API, with email approval workflow.

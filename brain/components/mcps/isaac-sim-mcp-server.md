@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 15
-pushed_at: "2026-10-16T16:15:45Z"
+pushed_at: "2026-10-20T18:50:54Z"
 ---
 ## What it is
 Enables natural language control of NVIDIA Isaac Sim through the Model Context Protocol, allowing you to create robots, build scenes, run simulations, and debug physics from any MCP-compatible IDE.

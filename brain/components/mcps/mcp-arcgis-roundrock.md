@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:55:34Z"
+pushed_at: "2026-10-23T04:01:13Z"
 ---
 ## What it is
 Enables searching and querying open geospatial datasets from the City of Round Rock, Texas (ArcGIS), including parcels, zoning, and public works data.

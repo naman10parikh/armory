@@ -8,13 +8,13 @@ source_url: https://github.com/FootprintAI/Containarium
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 304
+stars: 310
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 52
-pushed_at: "2026-10-16T23:45:50Z"
+forks: 54
+pushed_at: "2026-10-24T09:52:40Z"
 ---
 ## What it is
 Persistent, secure LXC sandbox environments for AI agents with native MCP support.

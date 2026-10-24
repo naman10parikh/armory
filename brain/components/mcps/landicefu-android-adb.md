@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2025-03-06T08:22:26Z"
+pushed_at: "2026-10-22T05:38:56Z"
 ---
 ## What it is
 MCP server `Android ADB`, catalogued on PulseMCP. Provides a bridge to Android devices through ADB, enabling device management, shell command execution, app installation, screenshot capture, and file transfer across connected Android devices.

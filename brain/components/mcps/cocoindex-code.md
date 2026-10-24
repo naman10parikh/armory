@@ -8,13 +8,13 @@ source_url: https://github.com/cocoindex-io/cocoindex-code
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2915
+stars: 2942
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 239
-pushed_at: "2026-10-06T23:03:34Z"
+forks: 243
+pushed_at: "2026-10-22T21:21:06Z"
 ---
 ## What it is
 embedded code search engine CLI -AST based that just works - improves speed and efficiency for coding agent

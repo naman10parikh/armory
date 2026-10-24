@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-07-27T14:11:10Z"
+pushed_at: "2026-10-19T23:18:47Z"
 ---
 ## What it is
 Provides the current UTC date and time in RFC 3339 format.

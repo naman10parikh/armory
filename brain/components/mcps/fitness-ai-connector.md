@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-13T13:37:30Z"
+pushed_at: "2026-10-24T05:43:25Z"
 ---
 ## What it is
 Garmin health and fitness data in Claude and ChatGPT via the official Garmin Health API. Hosted remote server with OAuth sign-in — no password sharing.

@@ -8,13 +8,13 @@ source_url: https://github.com/danmartinez78/VectorClaw
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-06-04T17:13:19Z"
+forks: 4
+pushed_at: "2026-10-21T12:09:47Z"
 ---
 ## What it is
 Enables AI assistants to control Anki Vector robots locally via natural language, providing tools for speech, motion, perception, and interaction without cloud dependency.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
-forks: 6
-pushed_at: "2026-06-24T00:54:49Z"
+forks: 8
+pushed_at: "2026-10-21T23:35:17Z"
 ---
 ## What it is
 Magic: The Gathering card search, combo lookup, draft analytics, and Commander tools.

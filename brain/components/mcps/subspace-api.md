@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-14T04:09:16Z"
+pushed_at: "2026-10-21T07:12:44Z"
 ---
 ## What it is
 Stateless MCP server providing tools for weather forecasts and alerts, real-time stock quotes, DC Metro rail incidents and arrivals, and live flight tracking, secured with OAuth 2.0.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T22:17:32Z"
+pushed_at: "2026-10-23T22:09:26Z"
 ---
 ## What it is
 Lists, reads, and fetches curated business and industry RSS feeds, with filtering by category and keyword.

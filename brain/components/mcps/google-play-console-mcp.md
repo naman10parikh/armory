@@ -8,13 +8,13 @@ source_url: https://github.com/abd3lraouf-studios/google-play-console-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-11T08:54:39Z"
+pushed_at: "2026-10-18T08:53:03Z"
 ---
 ## What it is
 Enables managing releases, monitoring Android vitals, analyzing earnings and search terms, optimizing ASO, and preflighting store assets through natural language, with a confirmation gate before destructive writes.

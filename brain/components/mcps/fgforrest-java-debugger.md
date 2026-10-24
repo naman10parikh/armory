@@ -8,11 +8,11 @@ source_url: https://github.com/fgforrest/mcp-jdwp-java
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 6
 pushed_at: "2026-07-12T07:14:48Z"
 ---
 ## What it is

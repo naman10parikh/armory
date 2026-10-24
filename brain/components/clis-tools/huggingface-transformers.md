@@ -8,14 +8,14 @@ source_url: https://github.com/huggingface/transformers
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 167785
+stars: 168060
 eval_score: 1
 mentions: 3
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 34884
-pushed_at: "2026-10-17T11:25:38Z"
+forks: 34958
+pushed_at: "2026-10-24T09:24:46Z"
 ---
 ## What it is
 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.

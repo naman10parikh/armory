@@ -8,12 +8,12 @@ source_url: https://github.com/prakhar1605/opencollab-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 42
-pushed_at: "2026-10-16T17:03:32Z"
+forks: 51
+pushed_at: "2026-10-24T08:43:54Z"
 ---
 ## What it is
 MCP server `OpenCollab`, catalogued on PulseMCP. Matches developers with open source GitHub issues using 12 tools for issue search, filtering, and contribution discovery.

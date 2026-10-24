@@ -8,7 +8,7 @@ source_url: https://github.com/X0X0X00/CaptchaArena
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10

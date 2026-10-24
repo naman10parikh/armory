@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-26T12:22:18Z"
+pushed_at: "2026-10-22T03:55:06Z"
 ---
 ## What it is
 MCP server `F1`, catalogued on PulseMCP. Formula 1 racing data including race results, standings, drivers, and schedules via the Ergast API.

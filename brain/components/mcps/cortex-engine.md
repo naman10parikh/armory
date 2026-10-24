@@ -8,13 +8,13 @@ source_url: https://github.com/Fozikio/cortex-engine
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 50
+stars: 51
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-10-15T16:17:34Z"
+pushed_at: "2026-10-22T16:12:35Z"
 ---
 ## What it is
 Persistent memory for AI agents with semantic memory, belief tracking, and dream consolidation, enabling cross-session knowledge retention.

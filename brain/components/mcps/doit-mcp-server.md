@@ -8,13 +8,13 @@ source_url: https://github.com/doitintl/doit-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-16T11:14:27Z"
+pushed_at: "2026-10-24T06:05:56Z"
 ---
 ## What it is
 Provides LLMs with access to the DoiT API for managing cloud resources, analyzing costs, and handling support tickets via natural language.

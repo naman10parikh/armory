@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T18:28:05Z"
+pushed_at: "2026-10-23T14:05:22Z"
 ---
 ## What it is
 Enables natural language interaction with Tenable Nessus for vulnerability scans, policy management, and report generation.

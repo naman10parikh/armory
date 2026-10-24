@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-06T02:40:13Z"
+pushed_at: "2026-10-20T06:13:48Z"
 ---
 ## What it is
 Embeds a self-hosted VS Code workbench in an MCP App, enabling collaborative editing, terminals, diagnostics, and commands in a shared workspace.

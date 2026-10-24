@@ -8,11 +8,11 @@ source_url: https://github.com/alexai-mcp/opencrab
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 112
+stars: 114
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 34
+forks: 35
 pushed_at: "2026-10-06T15:10:33Z"
 ---
 ## What it is

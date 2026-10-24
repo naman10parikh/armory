@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2025-10-22T19:55:32Z"
+pushed_at: "2026-10-22T18:32:56Z"
 ---
 ## What it is
 Exposes Pyramid web application endpoints as Model Context Protocol (MCP) tools, enabling AI assistants to interact with Pyramid apps via natural language.

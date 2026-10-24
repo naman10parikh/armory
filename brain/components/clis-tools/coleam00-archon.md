@@ -8,14 +8,14 @@ source_url: https://github.com/coleam00/Archon
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 23701
+stars: 23752
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3534
-pushed_at: "2026-10-17T11:24:12Z"
+forks: 3511
+pushed_at: "2026-10-24T11:51:06Z"
 ---
 ## What it is
 The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.

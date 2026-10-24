@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-17T03:05:14Z"
+pushed_at: "2026-10-24T11:57:51Z"
 ---
 ## What it is
 MCP server `HefestoAI`, catalogued on PulseMCP. Pre-commit code quality guardian that detects semantic drift in AI-generated code.

@@ -8,13 +8,13 @@ source_url: https://github.com/totec448-spec/chat-on-steroids
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4994
+stars: 5071
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 651
-pushed_at: "2026-10-17T11:09:55Z"
+forks: 662
+pushed_at: "2026-10-24T10:06:19Z"
 ---
 ## What it is
 Enables ChatGPT to access approved local Windows folders, run commands, control the desktop, and manage session history through a permission-bounded MCP server.

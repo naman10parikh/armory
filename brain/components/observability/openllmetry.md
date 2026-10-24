@@ -8,13 +8,13 @@ source_url: https://github.com/traceloop/openllmetry
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 7502
+stars: 7503
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, opentelemetry, tracing]
-forks: 1159
-pushed_at: "2026-10-13T05:51:56Z"
+forks: 1167
+pushed_at: "2026-10-19T10:49:59Z"
 ---
 ## What it is
 OpenTelemetry-based observability for LLM applications. It auto-instruments OpenAI, Anthropic, LangChain, and 20+ providers with zero code changes.

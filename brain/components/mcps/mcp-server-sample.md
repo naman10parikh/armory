@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T09:46:47Z"
+pushed_at: "2026-10-21T01:27:30Z"
 ---
 ## What it is
 Enables saving and searching notes stored in a local JSON file via a minimal MCP server, supporting three primitives: tools (add_note, search_notes), resources (notes://all), and prompts (weekly_review).

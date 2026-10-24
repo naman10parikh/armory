@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2025-09-30T07:32:10Z"
+pushed_at: "2026-10-23T12:38:17Z"
 ---
 ## What it is
 Enables natural language control of Loxone smart home systems, including lighting, audio, climate, and environmental monitoring, through MCP-compatible clients.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T22:13:47Z"
+pushed_at: "2026-10-18T22:04:46Z"
 ---
 ## What it is
 Provides retrieval-grounded, citation-verified access to Philippine law and compliance, including statutes, jurisprudence, and government issuances across 15 compliance domains.

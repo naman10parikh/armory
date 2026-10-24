@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T11:24:46Z"
+pushed_at: "2026-10-17T15:15:44Z"
 ---
 ## What it is
 Local-first memory for AI agents with evidence-backed recall, deterministic trust verdicts, self-inspection, and a tamper-evident audit history.

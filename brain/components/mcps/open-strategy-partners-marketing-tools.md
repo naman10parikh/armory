@@ -8,7 +8,7 @@ source_url: https://github.com/open-strategy-partners/osp_marketing_tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 273
+stars: 274
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

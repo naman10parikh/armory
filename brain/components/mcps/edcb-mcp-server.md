@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-15T15:32:36Z"
+pushed_at: "2026-10-23T01:47:38Z"
 ---
 ## What it is
 Enables LLMs to control EDCB, a broadcast recording software, allowing program information retrieval and reservation management.

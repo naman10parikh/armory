@@ -8,12 +8,12 @@ source_url: https://github.com/aixolotl/microsoft-planner-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 5
 pushed_at: "2026-10-06T09:37:22Z"
 ---
 ## What it is

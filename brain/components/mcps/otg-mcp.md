@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-11T16:46:43Z"
+pushed_at: "2026-10-23T01:16:32Z"
 ---
 ## What it is
 Enables interaction with Open Traffic Generators (OTG) through a standardized API, allowing configuration, traffic control, and metrics collection via MCP.

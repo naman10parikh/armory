@@ -8,14 +8,14 @@ source_url: https://github.com/cube-js/cube
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 21024
+stars: 21068
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2162
-pushed_at: "2026-10-17T09:59:47Z"
+forks: 2169
+pushed_at: "2026-10-24T10:01:50Z"
 ---
 ## What it is
 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics

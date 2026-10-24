@@ -8,7 +8,7 @@ source_url: https://github.com/DeepExperience/Harness-R1
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 116
+stars: 122
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10

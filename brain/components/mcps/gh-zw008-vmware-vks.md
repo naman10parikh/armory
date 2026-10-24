@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-16T15:31:08Z"
+pushed_at: "2026-10-24T02:03:12Z"
 ---
 ## What it is
 MCP server `VMware VKS`, catalogued on PulseMCP. Manage VMware vSphere with Tanzu supervisor clusters, namespaces, and TanzuKubernetesCluster lifecycle with 20 tools.

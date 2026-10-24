@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T04:57:22Z"
+pushed_at: "2026-10-21T03:12:48Z"
 ---
 ## What it is
 A local MCP server to communicate local Pharo & Squeak Smalltalk image (successor of pharo-smalltalk-interop-mcp-server)

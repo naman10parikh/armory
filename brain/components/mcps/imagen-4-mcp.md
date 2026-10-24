@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T11:34:31Z"
+pushed_at: "2026-10-22T08:01:03Z"
 ---
 ## What it is
 RunAPI MCP server for the Imagen 4 model line. Create tasks, poll their status, and check pricing through a single RunAPI API key.

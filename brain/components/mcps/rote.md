@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-11T00:53:57Z"
+pushed_at: "2026-10-24T01:50:55Z"
 ---
 ## What it is
 MCP server that exposes compiled rote pipelines as callable tools. The rote CLI compiles a proven agent skill into a deterministic workflow, and rote serve lets any MCP client trigger the deployed pipelines and poll their status.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-23T17:40:53Z"
+pushed_at: "2026-10-24T01:23:09Z"
 ---
 ## What it is
 MCP server `Bawbel`, catalogued on PulseMCP. MCP server scanner for AVE vulnerabilities in skill files with conformance scoring and threat intelligence.

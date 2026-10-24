@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:18:06Z"
+pushed_at: "2026-10-22T22:16:34Z"
 ---
 ## What it is
 Predicts age from a first name using agify.io, no authentication required.

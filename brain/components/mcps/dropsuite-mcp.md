@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T03:02:26Z"
+pushed_at: "2026-10-23T10:31:58Z"
 ---
 ## What it is
 MCP server for Dropsuite (NinjaOne SaaS Backup) that exposes read-only GET endpoints to list backup accounts, users, contacts, calendars, tasks, OneDrives, SharePoint domains, and Teams/Groups domains via reseller API tokens.

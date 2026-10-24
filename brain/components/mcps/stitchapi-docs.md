@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T16:30:05Z"
+pushed_at: "2026-10-22T10:42:02Z"
 ---
 ## What it is
 MCP server for the StitchAPI docs: search_docs (hybrid BM25+vector) + get_doc. Local/offline npm package (@stitchapi/docs-mcp, docs bundled, no per-query network) and a hosted Streamable-HTTP server (stitchapi.dev/api/mcp).

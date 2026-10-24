@@ -8,13 +8,13 @@ source_url: https://github.com/clawfetch/clawfetch-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T17:27:45Z"
+pushed_at: "2026-10-21T08:39:04Z"
 ---
 ## What it is
 MCP server providing web intelligence tools for AI agents, including fetching pages as markdown, rendering JS-heavy SPAs, extracting structured data, multi-source research, and domain availability checks, with automatic x402 micropayments.

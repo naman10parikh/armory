@@ -8,13 +8,13 @@ source_url: https://github.com/xuzhougeng/ScientificFigureLibrary
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 123
+stars: 129
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-10-09T07:36:01Z"
+pushed_at: "2026-10-18T15:05:55Z"
 ---
 ## What it is
 MCP server for searching, importing, and materializing scientific figure templates from FigureYa and user libraries, enabling data-driven figure selection via visual/data profiling.

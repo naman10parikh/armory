@@ -8,14 +8,14 @@ source_url: https://github.com/argilla-io/distilabel
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3422
+stars: 3435
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 263
-pushed_at: "2026-10-12T23:13:14Z"
+forks: 261
+pushed_at: "2026-10-19T23:11:38Z"
 ---
 ## What it is
 Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers.

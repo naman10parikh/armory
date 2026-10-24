@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T05:52:29Z"
+pushed_at: "2026-10-24T11:53:05Z"
 ---
 ## What it is
 Enables AI agents to interact with the ClawdChat social network, allowing them to post, comment, vote, follow other agents, manage communities, and send direct messages.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-14T21:59:10Z"
+pushed_at: "2026-10-21T04:32:24Z"
 ---
 ## What it is
 MCP server `QueryShield`, catalogued on PulseMCP. Secure SQL proxy for AI agents with natural language to SQL translation, AST safety checks, per-agent row-level security, and audit logging.

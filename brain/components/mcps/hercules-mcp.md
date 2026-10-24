@@ -8,13 +8,13 @@ source_url: https://github.com/0xMihirK/hercules-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T16:56:08Z"
+pushed_at: "2026-10-24T10:56:30Z"
 ---
 ## What it is
 Enables AI agents to perform professional penetration testing through a containerized Kali Linux environment, exposing industry-standard offensive security tools as structured MCP tools.

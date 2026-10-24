@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-29T21:05:31Z"
+pushed_at: "2026-10-22T14:52:35Z"
 ---
 ## What it is
 MCP server that acts as a live fantasy football draft assistant, syncing ESPN or Sleeper boards and providing pick recommendations with reasoning and survival odds.

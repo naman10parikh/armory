@@ -8,11 +8,11 @@ source_url: https://github.com/sonpiaz/watch-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 252
+stars: 259
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 68
+forks: 71
 pushed_at: "2026-09-13T01:42:30Z"
 ---
 ## What it is

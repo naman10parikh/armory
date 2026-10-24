@@ -9,13 +9,13 @@ source_url: https://github.com/mem0ai/mem0
 license: Apache-2.0
 cli_compat: [claude, codex, cursor]
 maturity: stable
-stars: 67337
+stars: 67729
 eval_score: null
 verified_at: 2026-05-26
 related: [server-memory, four-layer-memory, wikimem]
 tags: [memory, long-term, semantic, cross-session, personalization]
-forks: 7936
-pushed_at: "2026-10-16T20:26:26Z"
+forks: 8006
+pushed_at: "2026-10-23T18:38:28Z"
 mentions: 21
 ---
 

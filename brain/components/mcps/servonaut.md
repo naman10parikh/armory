@@ -8,13 +8,13 @@ source_url: https://github.com/zb-ss/servonaut
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 29
+stars: 30
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-15T23:23:17Z"
+pushed_at: "2026-10-24T00:07:32Z"
 ---
 ## What it is
 Manage AWS, Hetzner, OVH, and custom SSH servers from AI agents — commands, logs, CloudWatch/CloudTrail, IP banning, and S3, with guard tiers and a full audit trail.

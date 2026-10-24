@@ -8,13 +8,13 @@ source_url: https://github.com/sonilo-ai/sonilo-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 53
+stars: 52
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-13T07:44:11Z"
+pushed_at: "2026-10-20T22:00:43Z"
 ---
 ## What it is
 An MCP (Model Context Protocol) server that exposes Sonilo's licensed music and sound-effects API to MCP-compatible clients (Claude Code, Claude Desktop, Codex).

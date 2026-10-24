@@ -8,13 +8,13 @@ source_url: https://github.com/unibaseio/membase-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 43
+stars: 80
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
-pushed_at: "2026-10-14T02:11:59Z"
+forks: 16
+pushed_at: "2026-10-20T06:47:12Z"
 ---
 ## What it is
 Enables AI agents to store and retrieve memory persistently on the Unibase DA network, ensuring continuity and personalization across sessions.

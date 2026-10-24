@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 46
-pushed_at: "2026-09-26T19:30:36Z"
+forks: 45
+pushed_at: "2026-10-23T23:05:52Z"
 ---
 ## What it is
 Enables Claude Code with 127 professional skills for deployment, security, databases, content, marketing, and more, activating automatically when needed.

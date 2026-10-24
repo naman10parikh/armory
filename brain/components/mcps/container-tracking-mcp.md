@@ -8,13 +8,13 @@ source_url: https://github.com/lxxmng/container-tracking-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T21:41:49Z"
+pushed_at: "2026-10-24T00:21:40Z"
 ---
 ## What it is
 Track ocean containers across 200+ shipping lines by container, bill of lading, or booking number — live milestones, vessel positions, ETAs, and demurrage & detention free time.

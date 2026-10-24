@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T08:08:33Z"
+pushed_at: "2026-10-22T23:51:46Z"
 ---
 ## What it is
 Invoice-focused MCP bridge that relays MCP JSON-RPC to a local loopback transport, with strict origin allowlisting.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-08-11T12:26:41Z"
+pushed_at: "2026-10-21T07:34:55Z"
 ---
 ## What it is
 Provides network operations tools such as ping, traceroute, DNS queries, and nmap scans via MCP, enabling network diagnostics and monitoring through natural language.

@@ -8,12 +8,12 @@ source_url: https://github.com/cotdp/scraper-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-07T17:08:50Z"
+pushed_at: "2026-10-20T14:37:47Z"
 ---
 ## What it is
 MCP server `Scraper`, catalogued on PulseMCP. Extracts content from websites through four core tools for HTML scraping, markdown conversion, text extraction, and link discovery with batch processing, caching, proxy support, and CSS selector filtering for reliable web content extraction and research automation.

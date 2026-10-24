@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T05:43:12Z"
+pushed_at: "2026-10-18T04:03:35Z"
 ---
 ## What it is
 An MCP server that validates generated code against project structure and installed dependencies, catching undefined symbols, wrong API calls, dead code, and type mismatches in real time. It provides tools for project indexing, symbol/API checking, sandboxed execution, file scanning, and code analys

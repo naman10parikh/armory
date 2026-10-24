@@ -8,11 +8,11 @@ source_url: https://github.com/datawhisker/x-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 80
+stars: 79
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 19
+forks: 18
 pushed_at: "2026-06-21T10:12:28Z"
 ---
 ## What it is

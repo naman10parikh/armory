@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, customer-data-platforms]
-stars: 318
-forks: 106
-pushed_at: "2026-10-17T11:25:22Z"
+stars: 329
+forks: 109
+pushed_at: "2026-10-22T06:49:12Z"
 ---
 ## What it is
 Open-source customer feedback platform with built-in MCP server. Agents can search feedback, triage posts, update statuses, create and comment on posts, vote, manage roadmaps, merge duplicates, and publish changelogs.

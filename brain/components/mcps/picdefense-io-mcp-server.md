@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T18:17:43Z"
+pushed_at: "2026-10-22T20:59:49Z"
 ---
 ## What it is
 A Model Context Protocol server for the PicDefense.io API — let AI agents run reverse-image risk analysis, EXIF extraction, image backlink discovery, and image content detection (face / landmark / logo / label / SafeSearch) on any image URL.

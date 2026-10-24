@@ -8,13 +8,13 @@ source_url: https://github.com/poloclub/transformer-explainer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 8997
+stars: 9043
 eval_score: null
 mentions: 1
 verified_at: 2026-10-13
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1029
+forks: 1043
 pushed_at: "2026-06-06T12:08:04Z"
 ---
 ## What it is

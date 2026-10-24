@@ -8,13 +8,13 @@ source_url: https://github.com/rundiwu/DeepCAD
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 834
+stars: 833
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 172
+forks: 171
 pushed_at: "2024-04-12T13:45:36Z"
 ---
 ## What it is

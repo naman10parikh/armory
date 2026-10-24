@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-16T20:03:57Z"
+forks: 1
+pushed_at: "2026-10-19T22:16:56Z"
 ---
 ## What it is
 Checks whether ChatGPT, Perplexity, and Gemini cite your brand for a given keyword, and who's winning the citation battle for it instead.

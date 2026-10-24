@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T04:21:09Z"
+pushed_at: "2026-10-23T10:32:33Z"
 ---
 ## What it is
 MCP server for the Simple In/Out APIv4, providing tools for check-in/out statuses, user and group management, and access to beacons, geofences, networks, announcements, and roles.

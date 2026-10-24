@@ -8,14 +8,14 @@ source_url: https://github.com/huggingface/cadgenbench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 141
+stars: 146
 eval_score: 0
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, evals]
 forks: 13
-pushed_at: "2026-08-07T09:57:06Z"
+pushed_at: "2026-10-22T13:59:49Z"
 ---
 ## What it is
 A benchmark for AI-driven CAD generation and editing

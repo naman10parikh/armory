@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T12:47:14Z"
+pushed_at: "2026-10-19T19:48:21Z"
 ---
 ## What it is
 MCP server `Bug Bounty`, catalogued on PulseMCP. Privacy-first bug bounty hunting toolkit providing recon, web testing, and vulnerability scanning tools with a sanitization layer.

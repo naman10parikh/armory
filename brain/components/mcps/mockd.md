@@ -8,11 +8,11 @@ source_url: https://github.com/getmockd/mockd
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 150
+stars: 151
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
+forks: 8
 pushed_at: "2026-09-17T23:27:22Z"
 ---
 ## What it is

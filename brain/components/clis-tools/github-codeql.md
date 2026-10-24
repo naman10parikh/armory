@@ -8,14 +8,14 @@ source_url: https://github.com/github/codeql
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 10204
+stars: 10243
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2123
-pushed_at: "2026-10-17T10:38:50Z"
+forks: 2135
+pushed_at: "2026-10-23T15:39:15Z"
 ---
 ## What it is
 CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security

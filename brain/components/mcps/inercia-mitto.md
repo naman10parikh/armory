@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-16T19:11:51Z"
+pushed_at: "2026-10-23T13:05:19Z"
 ---
 ## What it is
 MCP server `Mitto`, catalogued on PulseMCP. Control AI coding agents on the go from Mac, Web, or Mobile.

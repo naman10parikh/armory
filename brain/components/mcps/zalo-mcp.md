@@ -8,13 +8,13 @@ source_url: https://github.com/ardennguyen/zalo-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-16T08:17:40Z"
+pushed_at: "2026-10-21T10:48:55Z"
 ---
 ## What it is
 Self-contained MCP server for Zalo that enables AI agents like Claude Code and Cursor to automate Zalo Personal and Official Accounts via a 1-click sandboxed deployment.

@@ -8,12 +8,12 @@ source_url: https://github.com/saidutt46/domain-check
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 307
+stars: 306
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 21
-pushed_at: "2026-10-13T13:04:32Z"
+pushed_at: "2026-10-19T13:24:13Z"
 ---
 ## What it is
 MCP server `Domain Check`, catalogued on PulseMCP. Universal domain availability checker with RDAP/WHOIS, batch checks, TLD presets, and name generation.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 17
-pushed_at: "2026-10-11T19:14:26Z"
+pushed_at: "2026-10-22T17:58:00Z"
 ---
 ## What it is
 MCP server `App Store Scraper`, catalogued on PulseMCP. Integrates with App Store and Google Play Store APIs to extract app metadata, reviews, rankings, and developer details for competitive analysis, market research, and ASO strategy development.

@@ -8,13 +8,13 @@ source_url: https://github.com/psyb0t/docker-mailbox
 license: Do What The F*ck You Want To Public License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-10-13T11:46:14Z"
+forks: 4
+pushed_at: "2026-10-23T20:46:00Z"
 ---
 ## What it is
 Unified email access via IMAP/SMTP, enabling reading, searching, sending, and deleting messages across multiple accounts through a single MCP server.

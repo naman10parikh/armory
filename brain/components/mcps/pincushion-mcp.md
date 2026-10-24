@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-15T19:06:28Z"
+pushed_at: "2026-10-22T06:30:11Z"
 ---
 ## What it is
 Visual feedback as agent work packets: stakeholders pin on your live app and your AI coding agent reads each pin (selector, screenshot, DOM, thread, acceptance criteria) via MCP and ships the fix.

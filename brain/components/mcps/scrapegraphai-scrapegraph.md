@@ -8,11 +8,11 @@ source_url: https://github.com/scrapegraphai/scrapegraph-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 115
+stars: 117
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 38
+forks: 40
 pushed_at: "2026-07-17T08:36:14Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/g0t4/mcp-server-commands
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 235
+stars: 236
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 33
-pushed_at: "2026-10-16T16:02:07Z"
+pushed_at: "2026-10-22T11:51:52Z"
 ---
 ## What it is
 MCP server `CLI`, catalogued on PulseMCP. Execute system commands and scripts on the host machine.

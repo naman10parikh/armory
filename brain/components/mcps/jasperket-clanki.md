@@ -8,12 +8,12 @@ source_url: https://github.com/jasperket/clanki
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 21
-pushed_at: "2026-09-17T01:38:04Z"
+pushed_at: "2026-10-22T03:24:01Z"
 ---
 ## What it is
 MCP server `Anki Cards (Clanki)`, catalogued on PulseMCP. Integrates with Anki flashcards to provide card creation and deck management capabilities.

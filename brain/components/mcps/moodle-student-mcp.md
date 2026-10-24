@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-08T02:44:57Z"
+pushed_at: "2026-10-18T21:47:44Z"
 ---
 ## What it is
 Enables read-only querying of Moodle as a student, including courses, assignments, grades, forums, and files, using a personal web services token.

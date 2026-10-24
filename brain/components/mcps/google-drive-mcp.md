@@ -8,14 +8,14 @@ source_url: https://github.com/domdomegg/google-drive-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: null
 forks: 3
-pushed_at: "2026-10-14T22:27:38Z"
+pushed_at: "2026-10-21T08:15:02Z"
 ---
 ## What it is
 MCP server for Google Drive that enables listing, searching, uploading, downloading, and managing files and folders, as well as handling comments and permissions.

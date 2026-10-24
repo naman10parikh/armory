@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-09-22T13:18:37Z"
+pushed_at: "2026-10-21T15:37:12Z"
 ---
 ## What it is
 One install. 8 IDEs. Your agent works from a structural map of your repo instead of re-reading whole files — so sessions run longer before the context wall — and bi-temporal mistakes are auto-captured from your git revert history, so it stops repeating fixes that already failed. Context packets run 

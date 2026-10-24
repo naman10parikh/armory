@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T14:18:14Z"
+pushed_at: "2026-10-17T23:13:34Z"
 ---
 ## What it is
 Search, compare, and analyze U.S. college data — costs, earnings, programs, and outcomes — via MCP.

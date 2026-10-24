@@ -12,8 +12,8 @@ stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
-pushed_at: "2026-10-14T13:41:30Z"
+forks: 12
+pushed_at: "2026-10-22T01:57:52Z"
 ---
 ## What it is
 MCP server `Web Researcher`, catalogued on PulseMCP. Web search, content extraction, and multi-source research MCP server with eight specialized tools and multiple search backend support.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T10:09:39Z"
+pushed_at: "2026-10-20T22:22:40Z"
 ---
 ## What it is
 Enables reading the school lunch calendar, managing students, placing and changing orders, and tracking deliveries and payments on a My Hot Lunchbox parent account. It signs in server-side with account credentials and exposes 38 MCP tools with confirm-gated write operations.

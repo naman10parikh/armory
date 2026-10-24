@@ -8,12 +8,12 @@ source_url: https://github.com/DebugBase/glance
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 155
+stars: 156
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 22
+forks: 20
 pushed_at: "2026-04-16T13:41:39Z"
 mentions: null
 ---

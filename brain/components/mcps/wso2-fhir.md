@@ -8,11 +8,11 @@ source_url: https://github.com/wso2/fhir-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 137
+stars: 136
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 58
+forks: 59
 pushed_at: "2026-10-12T09:41:28Z"
 ---
 ## What it is

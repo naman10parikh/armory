@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-12T10:59:18Z"
+pushed_at: "2026-10-20T17:26:17Z"
 ---
 ## What it is
 Aspose.Words MCP is a FastMCP-based MCP server built on top of Aspose.Words for Python via .NET. It automates Microsoft Word document creation and editing and exposes operations as MCP tools that any MCP-compatible client can call.

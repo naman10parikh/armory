@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T15:28:03Z"
+pushed_at: "2026-10-19T20:01:05Z"
 ---
 ## What it is
 Indexes GitHub repositories and provides living documentation context to coding agents, enabling them to ground work in actual repository conventions and propose doc updates.

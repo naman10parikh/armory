@@ -8,11 +8,11 @@ source_url: https://github.com/izzzzzi/codewiki-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
+forks: 2
 pushed_at: "2026-06-22T14:45:31Z"
 ---
 ## What it is

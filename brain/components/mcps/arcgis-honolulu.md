@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:31:49Z"
+pushed_at: "2026-10-23T03:52:02Z"
 ---
 ## What it is
 Enables searching, querying, and inspecting Honolulu GIS open geospatial datasets (parcels, addresses, zoning, etc.) through ArcGIS Feature Services.

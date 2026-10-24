@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T13:23:42Z"
+pushed_at: "2026-10-17T23:58:49Z"
 ---
 ## What it is
 A project tracker for teams of humans and AI agents that coordinates work through plain files (markdown and JSONL), providing an MCP server for agents and a CLI for humans.

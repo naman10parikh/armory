@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-16T19:12:55Z"
+pushed_at: "2026-10-21T14:34:51Z"
 ---
 ## What it is
 An MCP server that exposes the Nexus Exchange API as tools an AI agent can call to read market data and place trades.

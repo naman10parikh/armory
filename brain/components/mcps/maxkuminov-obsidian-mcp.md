@@ -12,8 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 18
-forks: 6
-pushed_at: "2026-10-10T12:40:47Z"
+forks: 8
+pushed_at: "2026-10-24T01:45:50Z"
 ---
 ## What it is
 Self-hosted MCP server for Obsidian with semantic + full-text search over PostgreSQL/pgvector, wikilink graph traversal, atomic note CRUD, OAuth 2.0, and a self-describing vault guide.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T10:46:47Z"
+pushed_at: "2026-10-21T18:53:51Z"
 ---
 ## What it is
 A remote MCP server that gives MCP clients authenticated access to GitHub: repos, issues, pull requests, file contents, and search, over a proper OAuth 2.1 handshake. Runs on Cloudflare Workers.

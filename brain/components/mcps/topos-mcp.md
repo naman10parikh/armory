@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-15T10:43:09Z"
+pushed_at: "2026-10-23T16:37:11Z"
 ---
 ## What it is
 Topos scores code quality by analyzing the geometric and topological structure of program graphs, surfacing structural debt that conventional linters can't compute. Gives coding agents a medal-scored (SLOP → GOLD) feedback loop for writing cleaner, more composable code.

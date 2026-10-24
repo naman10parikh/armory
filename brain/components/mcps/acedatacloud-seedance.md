@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-12T02:53:15Z"
+pushed_at: "2026-10-19T04:56:03Z"
 ---
 ## What it is
 MCP server `AceDataCloud Seedance`, catalogued on PulseMCP. ByteDance Seedance AI video generation through the AceDataCloud API platform.

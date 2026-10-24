@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-14T05:05:59Z"
+pushed_at: "2026-10-19T21:19:19Z"
 ---
 ## What it is
 Enables AI assistants to search and browse mountaineers.org for activities, courses, trip reports, and routes, and optionally access authenticated user data such as upcoming activities, badges, and member profiles.

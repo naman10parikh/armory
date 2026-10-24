@@ -12,8 +12,8 @@ stars: 59
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
-pushed_at: "2026-07-10T21:42:38Z"
+forks: 9
+pushed_at: "2026-10-21T20:09:20Z"
 ---
 ## What it is
 MCP server `Talon`, catalogued on PulseMCP. Connects Claude Code to a Kali Linux VM via SSH for AI-assisted penetration testing with automated recon and OSCP-style reporting.

@@ -8,13 +8,13 @@ source_url: https://github.com/trionnemesis/healthcare-opendata-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T04:51:51Z"
+pushed_at: "2026-10-20T01:27:39Z"
 ---
 ## What it is
 Provides SQL-queryable access to Taiwan's healthcare open data (NHI and Ministry of Health and Welfare procurement) via MCP tools, enabling natural language queries and data analysis.

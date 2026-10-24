@@ -8,13 +8,13 @@ source_url: https://github.com/v4t0r/nextcloud-chatgpt-bridge
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T14:04:59Z"
+pushed_at: "2026-10-22T14:05:06Z"
 ---
 ## What it is
 Enables ChatGPT and Codex to securely manage files in Nextcloud via OAuth-protected MCP tools, with tenant isolation and root-bound access.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-05T10:28:09Z"
+pushed_at: "2026-10-24T03:46:09Z"
 ---
 ## What it is
 The open-source, self-organizing memory for all your AI tools. Persistent memory over MCP (remember, recall, observe): background agents extract entities, resolve conflicts, and keep cited syntheses current in an append-only, encrypted, single-tenant vault.

@@ -8,13 +8,13 @@ source_url: https://github.com/rollecode/obsidian-remote-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-03T09:06:57Z"
+pushed_at: "2026-10-24T09:47:32Z"
 ---
 ## What it is
 Enables remote access to Obsidian vaults from Claude.ai and Claude Code without needing Obsidian running, supporting multiple vaults with OAuth 2.1 and static token authentication. Provides note management tools like read, create, edit, delete, and search.

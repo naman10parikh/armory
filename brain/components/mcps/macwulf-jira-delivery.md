@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-07-31T15:26:30Z"
+pushed_at: "2026-10-19T07:19:29Z"
 ---
 ## What it is
 MCP server `Jira Delivery Toolkit`, catalogued on PulseMCP. Jira operations toolkit with reusable policy modules and workflow automation.

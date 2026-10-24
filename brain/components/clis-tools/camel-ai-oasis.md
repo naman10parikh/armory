@@ -8,14 +8,14 @@ source_url: https://github.com/camel-ai/oasis
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 5293
+stars: 5338
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 649
-pushed_at: "2026-10-12T09:06:19Z"
+forks: 653
+pushed_at: "2026-10-19T09:33:53Z"
 ---
 ## What it is
 🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.

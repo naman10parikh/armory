@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T04:53:38Z"
+pushed_at: "2026-10-23T01:22:01Z"
 ---
 ## What it is
 MCP server for Kenya housing — rental market guide, tenant rights, building permits, affordable housing programs, housing finance.

@@ -8,11 +8,11 @@ source_url: https://github.com/szeider/mcp-dblp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 45
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
+forks: 12
 pushed_at: "2026-10-13T16:25:14Z"
 ---
 ## What it is

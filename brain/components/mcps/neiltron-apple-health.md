@@ -8,7 +8,7 @@ source_url: https://github.com/neiltron/apple-health-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 574
+stars: 576
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

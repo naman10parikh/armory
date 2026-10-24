@@ -15,7 +15,7 @@ related: []
 tags: [glama, mcp]
 mentions: null
 forks: 0
-pushed_at: "2026-10-14T18:47:43Z"
+pushed_at: "2026-10-22T01:57:46Z"
 ---
 ## What it is
 Phosphor is a local stablecoin portfolio manager that exposes an MCP server, enabling AI agents to read balances, composition, and costs, and propose actions like consolidation or policy changes, with all execution gated by explicit human approval in the app window.

@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
-stars: 83
-forks: 19
-pushed_at: "2026-10-17T10:28:25Z"
+stars: 85
+forks: 18
+pushed_at: "2026-10-24T10:56:14Z"
 ---
 ## What it is
 Universal MCP gateway with single-port multiplexing and Meta-MCP. 4 meta-tools replace 100+ registrations, saving 95% context window. Hot-reloadable capabilities, OpenAPI auto-import, 42 starter capabilities (25 zero-config).

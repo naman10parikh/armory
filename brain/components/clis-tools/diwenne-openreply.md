@@ -8,13 +8,13 @@ source_url: https://github.com/diwenne/openreply
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2703
+stars: 2837
 eval_score: null
 mentions: 3
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1123
+forks: 1230
 pushed_at: "2026-10-05T15:27:02Z"
 ---
 ## What it is

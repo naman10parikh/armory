@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-12T23:35:27Z"
+pushed_at: "2026-10-18T11:37:12Z"
 ---
 ## What it is
 A security-first MCP server that gives AI assistants controlled, safe access to manage remote servers via SSH with whitelisted operations and no generic command execution.

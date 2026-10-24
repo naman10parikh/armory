@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:18:38Z"
+pushed_at: "2026-10-22T22:17:12Z"
 ---
 ## What it is
 Provides tools to retrieve incidents from the AI Incident Database, including full incident details by ID, recent incidents, and classification taxonomies.

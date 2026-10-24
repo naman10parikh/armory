@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T07:35:45Z"
+pushed_at: "2026-10-21T14:19:50Z"
 ---
 ## What it is
 A lightweight personal wiki MCP server that allows AI assistants to save, search, and link markdown notes with backlinks and full-text search, functioning as a file-based second brain.

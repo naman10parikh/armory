@@ -8,13 +8,13 @@ source_url: https://github.com/anasahmed07/Outlook-Classic-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 33
+stars: 36
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 17
-pushed_at: "2026-10-13T12:30:55Z"
+forks: 18
+pushed_at: "2026-10-20T14:06:38Z"
 ---
 ## What it is
 Enables MCP-aware agents to interact with the classic Outlook desktop client for mail, calendar, contacts, tasks, and Out-of-Office settings via the COM API, without Azure or OAuth.

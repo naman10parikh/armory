@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T18:58:21Z"
+pushed_at: "2026-10-19T13:44:18Z"
 ---
 ## What it is
 Two MCP servers that expose Intel VTune and AMD uProf profiling tools to coding agents, with realistic mock backends for development and testing on any platform.

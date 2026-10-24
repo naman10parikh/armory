@@ -8,12 +8,12 @@ source_url: https://github.com/brightdata/brightdata-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2679
+stars: 2686
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 332
-pushed_at: "2026-10-15T07:44:26Z"
+forks: 335
+pushed_at: "2026-10-20T09:53:42Z"
 ---
 ## What it is
 MCP server `Bright Data`, catalogued on PulseMCP. Integrates with Bright Data's web scraping infrastructure to provide real-time access to public web data through specialized tools for search engine scraping, webpage extraction, and structured data retrieval from popular websites.

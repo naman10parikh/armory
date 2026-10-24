@@ -8,13 +8,13 @@ source_url: https://github.com/desktop-commander/remote-desktop-commander
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 175
+stars: 191
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 27
-pushed_at: "2026-10-14T14:44:05Z"
+forks: 29
+pushed_at: "2026-10-22T09:19:18Z"
 ---
 ## What it is
 Enables secure remote access to your computer's filesystem and terminal through MCP, allowing AI assistants to manage files, run commands, and automate tasks from anywhere via a hosted relay.

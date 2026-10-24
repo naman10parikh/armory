@@ -8,11 +8,11 @@ source_url: https://github.com/unmodeled-tyler/vessel-browser
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 136
+stars: 137
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
+forks: 13
 pushed_at: "2026-09-15T00:53:58Z"
 ---
 ## What it is

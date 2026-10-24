@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:28:58Z"
+pushed_at: "2026-10-22T22:30:53Z"
 ---
 ## What it is
 Access Dukes County, Massachusetts open geospatial data (parcels, addresses, zoning, public works) via ArcGIS Feature Services, enabling search, query, and schema inspection.

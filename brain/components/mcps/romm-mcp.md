@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T19:41:57Z"
+pushed_at: "2026-10-21T04:45:12Z"
 ---
 ## What it is
 A community-maintained MCP server for bounded management of RomM through its authenticated API, providing typed read/write tools for library tasks like ROM discovery, metadata updates, and collection management.

@@ -8,13 +8,13 @@ source_url: https://github.com/theonlysinjin/eve-fit-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T13:46:48Z"
+pushed_at: "2026-10-19T11:27:48Z"
 ---
 ## What it is
 MCP server that wraps the Eos EVE Online fitting engine. Agents propose fit changes; this server applies them, recalculates, and returns a FitReport.

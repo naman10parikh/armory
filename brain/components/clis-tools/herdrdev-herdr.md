@@ -8,14 +8,14 @@ source_url: https://github.com/herdrdev/herdr
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 44450
+stars: 45616
 eval_score: null
 mentions: 6
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, cli]
-forks: 3526
-pushed_at: "2026-10-15T23:05:24Z"
+forks: 3628
+pushed_at: "2026-10-23T21:54:15Z"
 ---
 ## What it is
 the runtime your coding agents live on

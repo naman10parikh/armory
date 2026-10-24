@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-25T23:14:09Z"
+pushed_at: "2026-10-21T03:54:27Z"
 ---
 ## What it is
 Enables querying and exploring FCC Open Data datasets via Socrata SoQL, including dataset search, metadata retrieval, and data querying.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T23:52:53Z"
+pushed_at: "2026-10-24T02:46:36Z"
 ---
 ## What it is
 MCP server for rTorrent BitTorrent automation, enabling torrent management (add/list/pause/delete), multi-source searching (Nyaa, Pirate Bay, etc.), and post-processing workflows via natural language.

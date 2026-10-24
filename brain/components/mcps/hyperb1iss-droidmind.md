@@ -8,11 +8,11 @@ source_url: https://github.com/hyperb1iss/droidmind
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 439
+stars: 444
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 58
+forks: 59
 pushed_at: "2026-01-07T06:37:48Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/hyl64/jlcmcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 254
+stars: 261
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 32
+forks: 33
 pushed_at: "2026-08-15T10:25:36Z"
 ---
 ## What it is

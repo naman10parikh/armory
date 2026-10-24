@@ -8,7 +8,7 @@ source_url: https://github.com/n24q02m/better-notion-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 36
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

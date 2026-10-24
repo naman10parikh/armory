@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-14T16:49:49Z"
+pushed_at: "2026-10-20T08:35:08Z"
 ---
 ## What it is
 A read-only MCP server that bridges AI assistants to SAP Cloud ALM, exposing read APIs through four intent-based tools. It runs locally over stdio or remotely over Streamable HTTP, and can be deployed to SAP BTP Cloud Foundry.

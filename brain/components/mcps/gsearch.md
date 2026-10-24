@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-30T09:35:37Z"
+pushed_at: "2026-10-23T23:15:50Z"
 ---
 ## What it is
 Enables AI tools to perform real-time Google Search with grounded answers and inline citations, free with a Google account.

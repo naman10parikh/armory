@@ -12,8 +12,8 @@ stars: 964
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 186
-pushed_at: "2026-04-08T22:37:48Z"
+forks: 185
+pushed_at: "2026-10-22T16:13:23Z"
 ---
 ## What it is
 MCP server `kubectl`, catalogued on PulseMCP. Enables natural language interaction with Kubernetes resources, allowing developers to manage clusters through conversational interfaces instead of complex kubectl commands.

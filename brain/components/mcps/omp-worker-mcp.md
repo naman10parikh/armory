@@ -8,13 +8,13 @@ source_url: https://github.com/divenire990/omp-worker-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-08-29T06:55:19Z"
+forks: 1
+pushed_at: "2026-10-24T06:52:23Z"
 ---
 ## What it is
 Enables delegating asynchronous coding tasks and DAG workflows to local Oh My Pi (OMP) CLI sub-agents, with topological orchestration, path isolation, and supervised resumption.

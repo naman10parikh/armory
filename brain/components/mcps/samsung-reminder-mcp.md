@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T08:04:15Z"
+pushed_at: "2026-10-20T21:33:34Z"
 ---
 ## What it is
 Enables reading and writing Samsung Reminder data locally, providing tools to list, create, update, delete, and manage reminders and categories via Samsung Cloud.

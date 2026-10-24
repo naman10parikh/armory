@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T15:05:34Z"
+pushed_at: "2026-10-19T23:16:05Z"
 ---
 ## What it is
 Encrypted-at-rest credential vault with MCP server for agent credential lookup and management.

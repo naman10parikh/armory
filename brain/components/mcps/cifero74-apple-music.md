@@ -12,8 +12,8 @@ stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
-pushed_at: "2026-10-09T15:35:12Z"
+forks: 11
+pushed_at: "2026-10-22T06:55:02Z"
 ---
 ## What it is
 MCP server `Apple Music`, catalogued on PulseMCP. Integrates with Apple Music via MusicKit to search catalog, manage playlists, and access listening history.

@@ -8,13 +8,13 @@ source_url: https://github.com/buzzkit-dev/buzzkit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 389
+stars: 391
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 21
+forks: 22
 pushed_at: "2026-09-28T23:45:33Z"
 ---
 ## What it is

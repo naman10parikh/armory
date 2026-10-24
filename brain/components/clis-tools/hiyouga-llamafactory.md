@@ -8,14 +8,14 @@ source_url: https://github.com/hiyouga/LlamaFactory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 75533
+stars: 75706
 eval_score: 1
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 9257
-pushed_at: "2026-10-10T07:29:23Z"
+forks: 9286
+pushed_at: "2026-10-21T07:23:24Z"
 ---
 ## What it is
 Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)

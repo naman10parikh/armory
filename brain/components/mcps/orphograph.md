@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T05:45:41Z"
+pushed_at: "2026-10-23T17:19:35Z"
 ---
 ## What it is
 Enables AI agents and MCP hosts to anchor file hashes to Bitcoin via OpenTimestamps and verify proofs, ensuring files existed before a given time with privacy-preserving local hashing.

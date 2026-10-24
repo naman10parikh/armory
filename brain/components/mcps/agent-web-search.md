@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-10-02T15:05:07Z"
+forks: 6
+pushed_at: "2026-10-23T02:55:20Z"
 ---
 ## What it is
 Provides a unified web search tool for AI agents by running multiple search providers concurrently and returning normalized results. It integrates with Claude Code, Codex CLI, OpenCode, and Hermes.

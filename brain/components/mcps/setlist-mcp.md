@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T10:10:20Z"
+pushed_at: "2026-10-19T20:42:44Z"
 ---
 ## What it is
 Search concert setlists, artists, venues, tours, and cities from setlist.fm via natural language. Provides 16 read-only tools for exploring live music data.

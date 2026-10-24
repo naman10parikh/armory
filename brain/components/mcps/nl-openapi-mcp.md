@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T07:53:26Z"
+pushed_at: "2026-10-24T08:13:54Z"
 ---
 ## What it is
 Search and harvest Korean academic literature and book bibliography metadata from the National Library of Korea Seoji OpenAPI via MCP or CLI.

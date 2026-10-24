@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-25T22:56:05Z"
+pushed_at: "2026-10-24T03:54:27Z"
 ---
 ## What it is
 MCP server `Coinbase Exchange by Pipeworx`, catalogued on PulseMCP. Access Coinbase Exchange market data and trading information via MCP.

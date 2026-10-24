@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T19:00:01Z"
+pushed_at: "2026-10-24T05:07:48Z"
 ---
 ## What it is
 MCP server for QuelLLM: recommends the best open-source LLM to run locally for your hardware (GPU/RAM), with model comparison and a cost calculator.

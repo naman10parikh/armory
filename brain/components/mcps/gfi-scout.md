@@ -8,13 +8,13 @@ source_url: https://github.com/Rajveerx11/gfi-scout
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-04T00:29:37Z"
+pushed_at: "2026-10-18T07:29:49Z"
 ---
 ## What it is
 MCP server that finds beginner-friendly GitHub issues ranked by likelihood of successful contribution, with repo health scoring and issue status checks via the GitHub API.

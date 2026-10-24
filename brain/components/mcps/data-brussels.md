@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:12:24Z"
+pushed_at: "2026-10-21T03:50:32Z"
 ---
 ## What it is
 Enables querying Brussels Open Data datasets through natural language or direct tool calls, including search, metadata retrieval, and SQL-like queries.

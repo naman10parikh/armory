@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T09:55:05Z"
+pushed_at: "2026-10-24T10:04:25Z"
 ---
 ## What it is
 This MCP server enables AI models to directly and securely query databases using persistent or temporary connections, supporting multiple data sources with automatic connection management.

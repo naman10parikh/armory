@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T07:36:56Z"
+pushed_at: "2026-10-23T09:11:59Z"
 ---
 ## What it is
 A native Gmail MCP server providing full mailbox control via the live Gmail API, including unique snooze functionality.

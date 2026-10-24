@@ -8,12 +8,12 @@ source_url: https://github.com/imprvhub/mcp-claude-spotify
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 19
-pushed_at: "2026-10-14T11:55:30Z"
+forks: 18
+pushed_at: "2026-10-21T13:47:32Z"
 ---
 ## What it is
 MCP server `Spotify`, catalogued on PulseMCP. Provides a bridge to the Spotify API for controlling music playback, managing playlists, and getting personalized recommendations without leaving your conversation interface.

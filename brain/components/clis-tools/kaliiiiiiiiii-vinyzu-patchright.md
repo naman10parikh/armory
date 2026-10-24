@@ -8,14 +8,14 @@ source_url: https://github.com/Kaliiiiiiiiii-Vinyzu/patchright
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 4891
+stars: 4965
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 239
-pushed_at: "2026-10-15T13:33:37Z"
+forks: 240
+pushed_at: "2026-10-20T13:38:05Z"
 ---
 ## What it is
 Undetected version of the Playwright testing and automation library.

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, knowledge-memory]
 stars: 9
 forks: 2
-pushed_at: "2025-12-27T18:14:19Z"
+pushed_at: "2026-10-21T21:42:20Z"
 ---
 ## What it is
 Chat with 36 legendary founders & investors (Elon Musk, Warren Buffett, Steve Jobs, CZ). AI personas with authentic voices, frameworks, and principles. No API key required.

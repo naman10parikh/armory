@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T17:13:24Z"
+pushed_at: "2026-10-19T17:01:28Z"
 ---
 ## What it is
 Provides a reusable MCP server foundation with explicit tool registration, operation-mode separation, scope-based permissions, structured results, and built-in health/status tools.

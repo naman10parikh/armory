@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T03:35:50Z"
+pushed_at: "2026-10-23T19:31:11Z"
 ---
 ## What it is
 Enables Claude Code to interact with miibo AI agents (AI employees) via MCP tools, supporting chat, employee management, admin operations, and knowledge addition through the miibo chat API.

@@ -8,14 +8,14 @@ source_url: https://github.com/jenkinsci/jenkins
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 26670
+stars: 26681
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 9841
-pushed_at: "2026-10-16T11:28:36Z"
+forks: 9803
+pushed_at: "2026-10-24T03:38:59Z"
 ---
 ## What it is
 Jenkins automation server

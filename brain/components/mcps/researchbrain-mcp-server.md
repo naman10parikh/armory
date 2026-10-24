@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T13:27:21Z"
+pushed_at: "2026-10-19T13:24:43Z"
 ---
 ## What it is
 Enables MCP clients to interact with a local-first research knowledge workbench, supporting literature search, evidence-grounded Q&A, and reference export.

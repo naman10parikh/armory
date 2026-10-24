@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-25T04:34:37Z"
+pushed_at: "2026-10-24T02:58:54Z"
 ---
 ## What it is
 Provides persistent memory management for AI agents with 14 tools, including semantic search, context synthesis, auto-context middleware, and write-back actions to external services like Slack.

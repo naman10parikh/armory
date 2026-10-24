@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-10T14:43:07Z"
+pushed_at: "2026-10-23T18:51:53Z"
 ---
 ## What it is
 MCP server `Agent Memory`, catalogued on PulseMCP. Provides persistent agent memory via a filesystem bridge with four tools for reading, appending, searching, and monitoring memory state.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-06T07:31:09Z"
+pushed_at: "2026-10-22T17:35:17Z"
 ---
 ## What it is
 Connects Claude Code to a local GraphRAG knowledge base (LightRAG + Ollama) for private, offline document retrieval. Provides tools to search, add documents, and check the RAG status, enabling Claude to reason over user's own notes, code, and papers without cloud dependencies.

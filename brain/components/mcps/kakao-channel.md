@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T05:03:39Z"
+pushed_at: "2026-10-18T03:25:34Z"
 ---
 ## What it is
 Enables interaction with Kakao Channel business chats via MCP tools for checking login status, unread counts, listing chats, reading messages, marking as read, and optionally sending messages when enabled.

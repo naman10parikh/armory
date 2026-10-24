@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-10-16T23:47:02Z"
+forks: 4
+pushed_at: "2026-10-24T11:57:18Z"
 ---
 ## What it is
 MCP server for Sean-Claude Van Damme's General Store, enabling AI agents to browse and purchase digital goods and services using USDC payments over the x402 protocol.

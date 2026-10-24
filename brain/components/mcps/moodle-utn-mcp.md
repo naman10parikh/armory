@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T14:27:31Z"
+pushed_at: "2026-10-19T20:37:09Z"
 ---
 ## What it is
 Enables browser-based login to approved UTN Moodle sites and read-only access to the user's profile, course list, and course activities via local Chromium automation.

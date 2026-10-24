@@ -8,12 +8,12 @@ source_url: https://github.com/hiveforge-sh/hivemind
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-17T11:08:30Z"
+pushed_at: "2026-10-21T02:29:18Z"
 ---
 ## What it is
 MCP server `Hivemind`, catalogued on PulseMCP. Transforms Obsidian worldbuilding vaults into queryable knowledge graphs with automatic entity detection and relationship mapping.

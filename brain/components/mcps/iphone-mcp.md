@@ -8,12 +8,12 @@ source_url: https://github.com/blitzdotdev/iPhone-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 91
+stars: 92
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 15
+forks: 16
 pushed_at: "2026-04-01T06:07:58Z"
 ---
 ## What it is

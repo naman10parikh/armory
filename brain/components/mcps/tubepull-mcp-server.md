@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-15T23:37:58Z"
+pushed_at: "2026-10-21T12:18:49Z"
 ---
 ## What it is
 Enables AI assistants to download video or audio from YouTube, TikTok, Twitter/X, SoundCloud, Vimeo, Twitch, Streamable, Bandcamp, Mixcloud, and Dailymotion via a hosted MCP server.

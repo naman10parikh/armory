@@ -8,13 +8,13 @@ source_url: https://github.com/xDarkzx/Reaper-MCP
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 100
+stars: 107
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 13
-pushed_at: "2026-10-14T03:48:03Z"
+pushed_at: "2026-10-23T21:58:19Z"
 ---
 ## What it is
 Connects AI assistants to REAPER for music production, enabling full control over tracks, MIDI, mixing, mastering, and audio analysis through 153 tools across 24 modules.

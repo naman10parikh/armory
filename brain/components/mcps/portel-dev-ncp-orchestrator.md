@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-09-20T13:33:22Z"
+pushed_at: "2026-10-19T12:50:00Z"
 ---
 ## What it is
 MCP server `NCP (MCP Orchestrator)`, catalogued on PulseMCP. Intelligent orchestration layer that unifies multiple MCP servers into a single gateway with RAG-powered discovery engine for semantic tool routing across diverse services like GitHub, Slack, PostgreSQL, and AWS.

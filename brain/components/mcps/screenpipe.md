@@ -8,14 +8,14 @@ source_url: https://github.com/screenpipe/screenpipe
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21966
+stars: 22050
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: 2
-forks: 2249
-pushed_at: "2026-10-17T00:38:16Z"
+forks: 2250
+pushed_at: "2026-10-24T01:38:15Z"
 ---
 ## What it is
 give context of what you do 24/7 to AI

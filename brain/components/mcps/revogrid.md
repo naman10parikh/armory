@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 211
-pushed_at: "2026-10-15T11:38:57Z"
+pushed_at: "2026-10-23T15:09:47Z"
 ---
 ## What it is
 MCP server `RevoGrid`, catalogued on PulseMCP. High-performance virtual grid component library with AI assistant integration.

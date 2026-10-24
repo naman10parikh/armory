@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:18:27Z"
+pushed_at: "2026-10-22T22:17:00Z"
 ---
 ## What it is
 Provides access to curated AI news feeds and the ability to fetch and normalize any RSS/Atom/RDF feed, enabling AI agents to consume up-to-date content.

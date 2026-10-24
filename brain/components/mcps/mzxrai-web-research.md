@@ -8,11 +8,11 @@ source_url: https://github.com/mzxrai/mcp-webresearch
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 297
+stars: 298
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 72
+forks: 73
 pushed_at: "2024-12-18T03:38:30Z"
 ---
 ## What it is

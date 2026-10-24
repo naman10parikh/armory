@@ -8,13 +8,13 @@ source_url: https://github.com/holistis/bug-bounty-intelligence-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-09-19T20:09:08Z"
+forks: 2
+pushed_at: "2026-10-24T09:54:29Z"
 ---
 ## What it is
 AI-powered smart contract security analysis for AI agents and developers, enabling scanning of Solidity repos for vulnerabilities.

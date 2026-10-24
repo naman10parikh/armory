@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-05T22:42:50Z"
+pushed_at: "2026-10-21T18:52:27Z"
 ---
 ## What it is
 MCP server `Lex`, catalogued on PulseMCP. Provides episodic memory and architectural policy enforcement for AI agents.

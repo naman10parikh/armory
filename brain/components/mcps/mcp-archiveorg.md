@@ -8,13 +8,13 @@ source_url: https://github.com/smeet666/mcp-archiveorg
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T05:28:30Z"
+pushed_at: "2026-10-23T05:50:58Z"
 ---
 ## What it is
 An MCP server for the Internet Archive that enables searching the full text of digitized books, browsing the catalogue, and reading Wayback Machine captures. No API key or configuration required.

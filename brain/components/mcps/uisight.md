@@ -8,12 +8,12 @@ source_url: https://github.com/sololabstr/uisight
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 129
+stars: 130
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
+forks: 10
 pushed_at: "2026-09-15T22:41:50Z"
 ---
 ## What it is

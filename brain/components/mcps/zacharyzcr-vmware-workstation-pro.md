@@ -8,11 +8,11 @@ source_url: https://github.com/zacharyzcr/vmware-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 68
+stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
+forks: 13
 pushed_at: "2026-01-15T16:22:09Z"
 ---
 ## What it is

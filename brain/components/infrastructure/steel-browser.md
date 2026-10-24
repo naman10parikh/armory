@@ -8,13 +8,13 @@ source_url: https://github.com/steel-dev/steel-browser
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 7824
+stars: 7861
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, steel]
-forks: 996
-pushed_at: "2026-10-13T15:37:05Z"
+forks: 997
+pushed_at: "2026-10-23T19:26:32Z"
 ---
 ## What it is
 Open-source browser API optimised for AI agents. It provides session management, stealth settings, proxy rotation, and a REST/WebSocket interface on top of Chromium for cloud-scale agent browser access.

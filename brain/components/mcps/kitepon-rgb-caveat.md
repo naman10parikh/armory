@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-15T18:18:01Z"
+pushed_at: "2026-10-24T11:46:09Z"
 ---
 ## What it is
 MCP server `Caveat`, catalogued on PulseMCP. Long-term memory knowledge base for AI coding agents using SQLite FTS5 full-text search and git-backed markdown files.

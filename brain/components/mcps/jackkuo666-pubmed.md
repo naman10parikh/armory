@@ -8,11 +8,11 @@ source_url: https://github.com/jackkuo666/pubmed-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 131
+stars: 132
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 46
+forks: 47
 pushed_at: "2025-05-08T12:45:30Z"
 ---
 ## What it is

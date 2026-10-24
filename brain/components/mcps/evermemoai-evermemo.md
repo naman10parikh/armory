@@ -15,7 +15,7 @@ verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, mcps]
 forks: 0
-pushed_at: "2026-10-04T15:32:52Z"
+pushed_at: "2026-10-18T15:32:39Z"
 ---
 ## What it is
 A tiny, universal memory engine for humans and AI agents — CLI, HTTP API, MCP server, and shared memory hub in one small Go binary

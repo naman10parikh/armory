@@ -8,14 +8,14 @@ source_url: https://github.com/vercel-labs/just-bash
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 4407
+stars: 4432
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 280
-pushed_at: "2026-10-15T07:18:22Z"
+forks: 288
+pushed_at: "2026-10-22T07:49:03Z"
 ---
 ## What it is
 Bash for Agents

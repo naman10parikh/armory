@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
-stars: 742
-forks: 80
-pushed_at: "2026-10-17T07:54:00Z"
+stars: 744
+forks: 83
+pushed_at: "2026-10-24T08:46:03Z"
 ---
 ## What it is
 Persistent memory with knowledge graph visualization, semantic/hybrid search, cloud sync (S3/R2), and cross-session context management.

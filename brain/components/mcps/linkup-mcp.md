@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-12T16:04:34Z"
+pushed_at: "2026-10-19T11:07:22Z"
 ---
 ## What it is
 Provides web search and local document RAG using Ollama, enabling privacy-preserving AI assistance in Cursor IDE.

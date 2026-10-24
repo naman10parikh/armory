@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-09T11:49:45Z"
+pushed_at: "2026-10-21T19:40:58Z"
 ---
 ## What it is
 Provides AI agents with tools to access Nigerian trade statistics, live FX rates, bank account resolution, and electricity meter validation data.

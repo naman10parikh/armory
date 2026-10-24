@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T08:24:56Z"
+pushed_at: "2026-10-23T21:59:47Z"
 ---
 ## What it is
 Enables accessing Контур.Толк (KTalk) recordings, transcripts, and summaries from Claude Code.

@@ -8,12 +8,12 @@ source_url: https://github.com/justinbeckwith/gongio-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-10-16T14:14:42Z"
+pushed_at: "2026-10-23T18:57:14Z"
 ---
 ## What it is
 MCP server `Gong.io`, catalogued on PulseMCP. Integrates with Gong conversation intelligence platform to query call recordings, retrieve transcripts with speaker attribution, access call summaries and action items, and list workspace users for sales analysis and revenue operations insights.

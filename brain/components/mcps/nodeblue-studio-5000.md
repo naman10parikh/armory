@@ -8,11 +8,11 @@ source_url: https://github.com/nodeblue-ai/studio5000-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
+forks: 8
 pushed_at: "2026-09-24T18:34:59Z"
 ---
 ## What it is

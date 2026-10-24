@@ -8,11 +8,11 @@ source_url: https://github.com/openbnb-org/mcp-server-airbnb
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 548
+stars: 550
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 129
+forks: 130
 pushed_at: "2026-08-06T05:21:57Z"
 ---
 ## What it is

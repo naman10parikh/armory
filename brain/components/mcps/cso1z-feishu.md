@@ -8,12 +8,12 @@ source_url: https://github.com/cso1z/feishu-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 739
+stars: 743
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 88
-pushed_at: "2026-10-17T09:31:12Z"
+forks: 89
+pushed_at: "2026-10-17T12:19:46Z"
 ---
 ## What it is
 MCP server `Feishu (Lark)`, catalogued on PulseMCP. Integrates with Feishu (Lark) to enable document retrieval, messaging, and collaborative features directly within workplace conversations through a TypeScript implementation that runs as either a CLI or HTTP server.

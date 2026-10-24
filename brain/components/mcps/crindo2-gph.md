@@ -8,12 +8,12 @@ source_url: https://github.com/crindo2/gph-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-13T01:06:18Z"
+pushed_at: "2026-10-23T04:36:44Z"
 ---
 ## What it is
 MCP server `GPH Healthcare Vendors`, catalogued on PulseMCP. Finds and matches healthcare service vendors for medical practices from a database of 100,000+ verified providers.

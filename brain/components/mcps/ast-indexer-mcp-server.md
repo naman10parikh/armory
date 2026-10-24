@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T05:08:25Z"
+pushed_at: "2026-10-20T05:07:44Z"
 ---
 ## What it is
 AST-Indexer is a Model Context Protocol (MCP) server for indexing Git repositories with AST parsing. It extracts functions, classes, imports, variables, and SQL schema objects from JavaScript, TypeScript, C#, and SQL codebases so they can be queried through MCP tools.

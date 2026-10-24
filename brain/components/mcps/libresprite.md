@@ -8,12 +8,12 @@ source_url: https://github.com/snehil-shah/libresprite-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 36
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
-pushed_at: "2025-08-01T19:37:06Z"
+forks: 8
+pushed_at: "2026-10-22T13:08:53Z"
 ---
 ## What it is
 MCP server `LibreSprite`, catalogued on PulseMCP. Enables control of the LibreSprite pixel art editor through JavaScript scripting via a Flask proxy server that bridges communication between external commands and LibreSprite's internal scripting environment for automated sprite creation, batch image processing, and animation workflows.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 33
-pushed_at: "2026-10-17T00:08:07Z"
+forks: 34
+pushed_at: "2026-10-23T23:03:06Z"
 ---
 ## What it is
 MCP server for a local-first messaging workspace that integrates Google Messages, WhatsApp, and Signal. It enables reading, sending, searching messages, and managing conversations through MCP tools.

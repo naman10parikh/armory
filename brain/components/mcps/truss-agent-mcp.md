@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T20:04:49Z"
+pushed_at: "2026-10-18T22:48:42Z"
 ---
 ## What it is
 An MCP server that provides Truss threat intelligence capabilities, enabling natural language search, FilterQL filtering, and querying of threat data, along with STIX export and detection rule generation.

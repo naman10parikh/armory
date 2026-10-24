@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T06:52:08Z"
+pushed_at: "2026-10-20T05:58:35Z"
 ---
 ## What it is
 Read-only access to a local Hiberden backup catalog: list projects, archives, tapes, and jobs, check 3-2-1 coverage, and verify a stored copy by reading it back and re-hashing it. Runs against the catalog on your own machine, so nothing leaves it.

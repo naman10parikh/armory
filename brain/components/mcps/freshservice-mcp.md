@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-28T15:03:14Z"
+pushed_at: "2026-10-22T13:07:31Z"
 ---
 ## What it is
 Enables AI models to perform IT service management operations on Freshservice, including managing tickets, changes, problems, releases, assets, projects, and more through a set of MCP tools.

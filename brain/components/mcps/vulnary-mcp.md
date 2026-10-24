@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T07:12:47Z"
+pushed_at: "2026-10-18T02:50:12Z"
 ---
 ## What it is
 MCP server for querying CVE and package vulnerability data from NVD and OSV.dev, allowing CVE lookups and dependency scanning.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T07:41:53Z"
+pushed_at: "2026-10-20T00:50:22Z"
 ---
 ## What it is
 MCP server that wraps Codex CLI as a subprocess, exposing code execution, web search, and structured output as Model Context Protocol tools.

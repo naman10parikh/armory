@@ -8,11 +8,11 @@ source_url: https://github.com/klavis-ai/klavis
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5812
+stars: 5823
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 564
+forks: 567
 pushed_at: "2026-06-01T21:21:04Z"
 ---
 ## What it is

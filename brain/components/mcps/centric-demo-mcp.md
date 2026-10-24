@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T22:39:15Z"
+pushed_at: "2026-10-19T03:00:57Z"
 ---
 ## What it is
 A public demo MCP server that exposes Centric RM tools (list contacts, brief, draft, radar, temperature check) with a frozen fictional cast, safe for registry listing.

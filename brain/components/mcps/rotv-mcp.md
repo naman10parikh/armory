@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T18:34:46Z"
+pushed_at: "2026-10-18T17:03:56Z"
 ---
 ## What it is
 Read-only MCP server for Romanian TV guide, streaming catalog, and entertainment concierge, exposing 13 tools for program search, recommendations, and event detection.

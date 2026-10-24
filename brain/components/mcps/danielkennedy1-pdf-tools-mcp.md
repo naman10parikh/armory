@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 32
-forks: 12
+forks: 13
 pushed_at: "2025-05-17T13:05:26Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/repowise-dev/repowise
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7825
+stars: 7891
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 900
-pushed_at: "2026-10-17T10:37:22Z"
+forks: 946
+pushed_at: "2026-10-24T11:47:21Z"
 ---
 ## What it is
 Provides AI coding agents with five intelligence layers (dependency graph, git history, documentation, architectural decisions, code health) via nine MCP tools, enabling deep codebase understanding and reducing exploration cost.

@@ -8,13 +8,13 @@ source_url: https://github.com/gitayg/appCrane
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-16T16:02:29Z"
+pushed_at: "2026-10-23T18:24:00Z"
 ---
 ## What it is
 AppCrane is the self-hosted home for the apps your AI builds and your AI deploys. It exposes 35 appcrane_* MCP tools so any MCP client (Claude Code, Cursor, Codex) can run the full deploy lifecycle — create app, deploy to sandbox/production, manage secrets, stream logs, list releases, roll back — ev

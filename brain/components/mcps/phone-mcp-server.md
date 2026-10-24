@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T02:38:13Z"
+pushed_at: "2026-10-24T11:33:38Z"
 ---
 ## What it is
 Enables AI agents to control Android phones via MCP and HTTP. Supports screen capture, taps, swipes, text input, and app management.

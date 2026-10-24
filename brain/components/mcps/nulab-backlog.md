@@ -8,12 +8,12 @@ source_url: https://github.com/nulab/backlog-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 237
+stars: 238
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 68
-pushed_at: "2026-10-15T02:57:29Z"
+forks: 67
+pushed_at: "2026-10-23T03:35:24Z"
 ---
 ## What it is
 MCP server `Backlog`, catalogued on PulseMCP. Integrates with Backlog project management platform to enable direct management of projects, issues, wikis, git repositories, pull requests, and notifications without switching contexts.

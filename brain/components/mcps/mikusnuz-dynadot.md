@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T10:01:53Z"
+pushed_at: "2026-10-19T20:43:40Z"
 ---
 ## What it is
 MCP server `Dynadot`, catalogued on PulseMCP. Manage domains, DNS records, contacts, and transfers through the Dynadot domain registrar API.

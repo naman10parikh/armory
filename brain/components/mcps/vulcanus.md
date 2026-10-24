@@ -8,13 +8,13 @@ source_url: https://github.com/sunsatosolutions/Vulcanus
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T07:32:03Z"
+pushed_at: "2026-10-19T08:26:43Z"
 ---
 ## What it is
 Vulcanus turns a Git-versioned Markdown vault into structured project memory for coding agents. recall returns a project's capsule plus the read-next list, and warns when the capsule is older than the decisions beneath it. search ranks by layer, so the cheapest sufficient note surfaces first. Writes

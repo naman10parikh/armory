@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-15T04:06:07Z"
+pushed_at: "2026-10-20T06:46:56Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for seamless WordPress.com integration, enabling AI assistants to connect to WordPress.com sites with OAuth authentication.

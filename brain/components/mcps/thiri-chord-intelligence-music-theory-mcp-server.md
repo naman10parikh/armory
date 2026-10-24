@@ -8,13 +8,13 @@ source_url: https://github.com/BluesPrince/thiri-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T20:18:02Z"
+pushed_at: "2026-10-19T18:51:35Z"
 ---
 ## What it is
 Deterministic music-theory MCP server and API for AI agents — analyze chords, run Roman-numeral analysis, generate voicings, and reharmonize progressions. Computed from music theory, not hallucinated.

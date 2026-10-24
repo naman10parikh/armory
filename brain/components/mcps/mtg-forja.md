@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T17:54:15Z"
+pushed_at: "2026-10-24T11:57:11Z"
 ---
 ## What it is
 Enables Magic: The Gathering players to analyze deck lists using real Scryfall oracle text, detecting synergies and conflicts. Generates three viewable documents: an interactive synergy map, a detailed guide, and a printable cheat sheet.

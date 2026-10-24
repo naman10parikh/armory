@@ -8,12 +8,12 @@ source_url: https://github.com/domdomegg/gmail-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-10-14T22:27:32Z"
+pushed_at: "2026-10-21T07:31:48Z"
 ---
 ## What it is
 MCP server `Gmail`, catalogued on PulseMCP. Integrates with Gmail API to enable comprehensive email management including reading, sending, archiving messages, managing drafts and labels, creating filters, handling attachments, and configuring vacation auto-replies

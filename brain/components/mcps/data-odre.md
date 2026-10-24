@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:19:43Z"
+pushed_at: "2026-10-21T04:01:20Z"
 ---
 ## What it is
 Provides tools to search, inspect, and query energy open data from ODRE (electricity & gas production, consumption, grid load, renewables) using natural language or direct tool calls.

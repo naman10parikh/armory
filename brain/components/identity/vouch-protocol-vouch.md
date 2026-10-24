@@ -15,7 +15,7 @@ verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
 forks: 12
-pushed_at: "2026-10-13T03:38:02Z"
+pushed_at: "2026-10-19T15:30:45Z"
 ---
 ## What it is
 Use when agents acting in the world need identities that can be vouched for and held accountable afterwards.

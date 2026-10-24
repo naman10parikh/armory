@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 362
-forks: 68
-pushed_at: "2026-10-09T08:08:27Z"
+stars: 366
+forks: 69
+pushed_at: "2026-10-24T11:45:20Z"
 ---
 ## What it is
 A JetBrains IDE plugin that exposes an MCP server, enabling AI coding assistants to leverage the IDE's indexing and refactoring capabilities (rename, safe delete, find references, call hierarchy, type hierarchy, diagnostics and more).
