@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 166
-pushed_at: "2026-10-24T19:03:26Z"
+pushed_at: "2026-10-25T15:35:06Z"
 ---
 ## What it is
 AI-native open-source backend-as-a-service. Manage Postgres with RLS, auth, file storage, serverless TypeScript functions, durable objects, realtime, KV, AI gateway, and RAG via MCP, either HTTP at /mcp on a self-hosted instance or stdio with npx @butterbase/mcp.

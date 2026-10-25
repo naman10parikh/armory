@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T19:20:20Z"
+pushed_at: "2026-10-25T14:15:55Z"
 ---
 ## What it is
 Enables agents to manage personal task lists through the MCP protocol, supporting task creation, editing, completion, deletion, grouping, reordering, and JSON import/export.

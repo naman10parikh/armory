@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T21:43:54Z"
+pushed_at: "2026-10-25T13:11:20Z"
 ---
 ## What it is
 MCP server for LeafMem, a layered memory engine that gives AI agents persistent, scoped memory with local retrieval and optional embedding rerank. It exposes tools for capturing turns, storing memories, and building recall context.

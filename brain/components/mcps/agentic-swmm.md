@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 15
-pushed_at: "2026-10-22T07:11:40Z"
+pushed_at: "2026-10-25T13:15:33Z"
 ---
 ## What it is
 Eleven local stdio MCP servers exposing a reproducible EPA SWMM stormwater-modelling workflow: model building, simulation with run manifests and continuity checks, calibration, GIS/QGIS, design storms and climate scenarios, uncertainty analysis, plotting, and modelling memory.

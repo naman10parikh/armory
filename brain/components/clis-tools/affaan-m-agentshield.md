@@ -8,7 +8,7 @@ source_url: https://github.com/affaan-m/agentshield
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1324
+stars: 1326
 eval_score: 1
 mentions: 2
 verified_at: 2026-09-26

@@ -12,8 +12,8 @@ stars: 309
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 58
-pushed_at: "2026-10-24T17:54:43Z"
+forks: 59
+pushed_at: "2026-10-25T18:33:52Z"
 ---
 ## What it is
 MCP server `UniFi by enuno`, catalogued on PulseMCP. Manage UniFi network devices, clients, and settings through the official UniFi API.

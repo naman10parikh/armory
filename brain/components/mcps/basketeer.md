@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-07-30T16:12:06Z"
+pushed_at: "2026-10-25T18:25:00Z"
 ---
 ## What it is
 Personal UK Tesco grocery account over MCP: search, basket, slots, orders, and on-pack nutrition (search and rank by macros + micros). Catalogue + nutrition tools need no auth; destructive actions require a two-step confirm

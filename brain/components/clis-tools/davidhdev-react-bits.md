@@ -8,13 +8,13 @@ source_url: https://github.com/DavidHDev/react-bits
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 50183
+stars: 50197
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2478
+forks: 2479
 pushed_at: "2026-10-19T07:37:02Z"
 ---
 ## What it is

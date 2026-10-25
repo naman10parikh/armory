@@ -8,7 +8,7 @@ source_url: https://github.com/letsfg/letsfg
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2187
+stars: 2190
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

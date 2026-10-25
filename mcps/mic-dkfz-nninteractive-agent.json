@@ -1,0 +1,7 @@
+{
+  "name": "mic-dkfz-nninteractive-agent",
+  "description": "nnInteractive as a tool for AI agents: say what to segment, the agent does the rest (Claude Code, Codex, any MCP client)",
+  "source_repo": "MIC-DKFZ/nninteractive-agent",
+  "source_url": "https://github.com/MIC-DKFZ/nninteractive-agent",
+  "install": "# git clone --depth 1 https://github.com/MIC-DKFZ/nninteractive-agent\n# See source for mcpServers config block"
+}

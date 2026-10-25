@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T12:02:04Z"
+pushed_at: "2026-10-25T13:52:47Z"
 ---
 ## What it is
 Agent-safe code retrieval MCP server that indexes repositories and provides semantic search, file navigation, call graph analysis, and bounded file reading tools for coding agents.

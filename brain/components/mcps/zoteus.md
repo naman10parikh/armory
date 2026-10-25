@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-19T12:37:35Z"
+pushed_at: "2026-10-25T19:21:23Z"
 ---
 ## What it is
 An MCP server that gives AI assistants complete, safe access to your Zotero library for searching, citing, adding papers, and formatting bibliographies, with local-first privacy.

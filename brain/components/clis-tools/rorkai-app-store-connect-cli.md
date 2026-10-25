@@ -14,8 +14,8 @@ mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 690
-pushed_at: "2026-10-25T03:09:47Z"
+forks: 691
+pushed_at: "2026-10-25T19:29:59Z"
 ---
 ## What it is
 Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more

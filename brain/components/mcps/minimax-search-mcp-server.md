@@ -8,7 +8,7 @@ source_url: https://github.com/MiniMax-AI/minimax_search
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 58
+stars: 59
 eval_score: null
 verified_at: 2026-05-27
 related: []

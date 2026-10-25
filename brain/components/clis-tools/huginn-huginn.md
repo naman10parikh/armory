@@ -8,13 +8,13 @@ source_url: https://github.com/huginn/huginn
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 50131
+stars: 50135
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 4315
+forks: 4316
 pushed_at: "2026-10-24T19:12:51Z"
 ---
 ## What it is

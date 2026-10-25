@@ -8,12 +8,12 @@ source_url: https://github.com/OurThinkTank/founders-os
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-09-02T12:04:38Z"
 ---
 ## What it is

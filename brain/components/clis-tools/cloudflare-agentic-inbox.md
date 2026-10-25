@@ -8,7 +8,7 @@ source_url: https://github.com/cloudflare/agentic-inbox
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 8501
+stars: 8505
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
