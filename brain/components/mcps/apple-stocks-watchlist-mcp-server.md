@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T20:24:10Z"
+pushed_at: "2026-10-22T22:42:57Z"
 ---
 ## What it is
 An MCP server that lets an AI assistant read your pre-installed macOS Apple Stocks app — its watchlist and its cached quotes — and open symbols in the app to add them.

@@ -8,14 +8,14 @@ source_url: https://github.com/resend/resend-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 404
+stars: 406
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 40
-pushed_at: "2026-10-16T20:27:08Z"
+forks: 42
+pushed_at: "2026-10-24T18:32:35Z"
 ---
 ## What it is
 The official CLI for Resend

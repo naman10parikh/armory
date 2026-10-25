@@ -13,7 +13,7 @@ related: []
 tags: [mcp, gaming]
 stars: 6
 forks: 1
-pushed_at: "2026-07-18T18:29:18Z"
+pushed_at: "2026-10-25T01:19:15Z"
 ---
 ## What it is
 MCP server for [RomM](https://github.com/rommapp/romm) retro game library manager. 19 read-only tools for browsing platforms, searching ROMs, viewing metadata, managing collections, tracking saves, firmware, devices, and task monitoring. OAuth2 auth with automatic token refresh.

@@ -8,12 +8,12 @@ source_url: https://github.com/cortexapps/cortex-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-08T14:56:28Z"
+pushed_at: "2026-10-23T19:38:33Z"
 ---
 ## What it is
 MCP server `Cortex`, catalogued on PulseMCP. Integrates with Cortex's engineering intelligence platform to query service catalogs, team structures, scorecards, and organizational metadata for streamlined access to service ownership and incident response information.

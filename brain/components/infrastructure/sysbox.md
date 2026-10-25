@@ -8,13 +8,13 @@ source_url: https://github.com/nestybox/sysbox
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 3916
+stars: 3927
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [infrastructure, containers]
 forks: 237
-pushed_at: "2026-09-15T16:58:10Z"
+pushed_at: "2026-10-21T03:36:00Z"
 ---
 ## What it is
 Next-generation container runtime enabling Docker-in-Docker and VM-like isolation without privileged containers.

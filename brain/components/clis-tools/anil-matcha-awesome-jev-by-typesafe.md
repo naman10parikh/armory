@@ -8,13 +8,13 @@ source_url: https://github.com/Anil-matcha/awesome-jev-by-typesafe
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 0
+forks: 1
 pushed_at: "2026-10-13T21:46:23Z"
 ---
 ## What it is

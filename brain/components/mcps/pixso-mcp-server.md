@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-06T06:59:22Z"
+pushed_at: "2026-10-19T08:16:05Z"
 ---
 ## What it is
 Enables LLMs to interact with Pixso design files through a custom plugin, providing tools to get selection data and export assets as PNG or SVG.

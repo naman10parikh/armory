@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-10-18T13:08:54Z"
+forks: 3
+pushed_at: "2026-10-24T23:34:51Z"
 ---
 ## What it is
 Telugu Panchangam for AI assistants: daily panchangam, muhurta windows, tarabalam, festivals, eclipses, gochara and planetary positions for any city, computed in three classical systems (Drik Ganita, Surya Siddhanta, Vakya). 17 tools; runs via uvx mcp-server-panchangam.

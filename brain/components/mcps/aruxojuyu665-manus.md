@@ -8,11 +8,11 @@ source_url: https://github.com/aruxojuyu665/manus-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 4
 pushed_at: "2026-05-05T04:04:16Z"
 ---
 ## What it is

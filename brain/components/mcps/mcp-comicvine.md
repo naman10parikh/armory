@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T22:57:38Z"
+pushed_at: "2026-10-24T03:56:07Z"
 ---
 ## What it is
 Enables searching Comic Vine resources via a single search tool, integrated into the Pipeworx MCP gateway.

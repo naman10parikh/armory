@@ -12,8 +12,8 @@ stars: 178
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 28
-pushed_at: "2026-10-12T17:13:53Z"
+forks: 29
+pushed_at: "2026-10-19T05:45:39Z"
 ---
 ## What it is
 MCP server `Shodan`, catalogued on PulseMCP. Access Shodan API and CVEDB to query IoT device data and vulnerability information.

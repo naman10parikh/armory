@@ -8,13 +8,13 @@ source_url: https://github.com/compnew2006/browser-controller
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-17T01:44:15Z"
+pushed_at: "2026-10-24T01:44:01Z"
 ---
 ## What it is
 Gives MCP-compatible AI agents direct control of your real browser with existing sessions, logins, and cookies. Supports multiple agents concurrently with tab targeting.

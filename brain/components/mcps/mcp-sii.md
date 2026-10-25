@@ -8,13 +8,13 @@ source_url: https://github.com/crilam/mcp-sii
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-11T03:55:45Z"
+pushed_at: "2026-10-20T18:46:11Z"
 ---
 ## What it is
 Open-source MCP server for Chile's SII free invoicing system, enabling AI agents to query issued and received tax documents.

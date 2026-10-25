@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T08:37:04Z"
+pushed_at: "2026-10-24T00:03:29Z"
 ---
 ## What it is
 Governs and manages Qwen Code builder sessions with tools for previewing, starting, inspecting, queuing tasks, and stopping sessions, all within a scoped, redacted environment.

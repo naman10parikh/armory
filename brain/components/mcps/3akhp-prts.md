@@ -8,12 +8,12 @@ source_url: https://github.com/3akhp/prts-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-18T13:19:08Z"
+pushed_at: "2026-10-23T00:42:21Z"
 ---
 ## What it is
 MCP server `PRTS`, catalogued on PulseMCP. Access Arknights game data via the PRTS Wiki API, including operator profiles, voice lines, story events, and wiki articles.

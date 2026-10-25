@@ -8,14 +8,14 @@ source_url: https://github.com/tldraw/tldraw
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 50966
+stars: 51078
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3571
-pushed_at: "2026-10-18T09:46:46Z"
+forks: 3570
+pushed_at: "2026-10-24T10:58:39Z"
 ---
 ## What it is
 Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.

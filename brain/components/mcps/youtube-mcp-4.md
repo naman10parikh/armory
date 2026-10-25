@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T11:12:12Z"
+pushed_at: "2026-10-23T21:53:58Z"
 ---
 ## What it is
 Local YouTube MCP server for turning public video, channel, and playlist URLs into structured context, with bounded comment retrieval, timestamped captions, and owned-playlist management using your own Google Cloud credentials.

@@ -8,13 +8,13 @@ source_url: https://github.com/oscardvs/zoteus
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 59
+stars: 62
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-07T08:59:34Z"
+pushed_at: "2026-10-19T12:37:35Z"
 ---
 ## What it is
 An MCP server that gives AI assistants complete, safe access to your Zotero library for searching, citing, adding papers, and formatting bibliographies, with local-first privacy.

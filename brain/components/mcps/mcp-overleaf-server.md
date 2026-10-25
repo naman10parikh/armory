@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-09T06:13:33Z"
+pushed_at: "2026-10-22T23:25:21Z"
 ---
 ## What it is
 Tailors LaTeX résumés, CVs, and cover letters to job descriptions by injecting truthfully-selected content from a master CV, compiling PDFs, and logging applications.

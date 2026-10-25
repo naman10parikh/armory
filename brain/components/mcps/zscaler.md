@@ -8,11 +8,11 @@ source_url: https://github.com/zscaler/zscaler-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 33
+forks: 35
 pushed_at: "2026-10-12T06:21:42Z"
 ---
 ## What it is

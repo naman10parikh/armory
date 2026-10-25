@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-12T14:07:47Z"
+pushed_at: "2026-10-21T12:01:20Z"
 ---
 ## What it is
 prevents llm from overload, freeze and oscillation

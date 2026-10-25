@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-06T06:57:58Z"
+pushed_at: "2026-10-19T21:43:17Z"
 ---
 ## What it is
 Enables Claude to manage Apple Reminders on macOS, providing full CRUD operations such as listing, searching, creating, updating, and deleting reminders.

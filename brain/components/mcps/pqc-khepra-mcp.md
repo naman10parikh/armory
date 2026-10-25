@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T00:51:58Z"
+pushed_at: "2026-10-20T01:25:21Z"
 ---
 ## What it is
 A sovereign compliance engine with 36,195 STIG/CCI/NIST/CMMC mappings and 76 tools, enabling AI assistants to scan systems, generate risk reports, and ensure post-quantum cryptographic attestation—all air-gappable with zero token costs.

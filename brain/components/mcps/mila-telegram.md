@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-06T07:09:07Z"
+pushed_at: "2026-10-23T12:19:48Z"
 ---
 ## What it is
 Enables running Claude Code sessions from Telegram with group auto-join, voice transcription, reply-quote context, and a restart-proof polling daemon.

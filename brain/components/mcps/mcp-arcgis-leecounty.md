@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:50:06Z"
+pushed_at: "2026-10-23T03:54:53Z"
 ---
 ## What it is
 Enables AI agents to search and query Lee County GIS open geospatial datasets (parcels, addresses, zoning, public works) via ArcGIS Feature Services.

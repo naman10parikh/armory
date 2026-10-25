@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-15T14:11:06Z"
+pushed_at: "2026-10-22T06:45:40Z"
 ---
 ## What it is
 An MCP server that converts files to Markdown using multiple parsing backends (markitdown, docling, LlamaParse) with automatic fallback, and includes tools for interpretation and chunking.

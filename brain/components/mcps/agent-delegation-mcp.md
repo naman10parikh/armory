@@ -8,13 +8,13 @@ source_url: https://github.com/artcar12/agent-delegation-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T17:37:09Z"
+pushed_at: "2026-10-20T18:44:15Z"
 ---
 ## What it is
 Enables Claude Code to delegate implementation tasks to Antigravity CLI and OpenCode, run them fully autonomously, and then review and gate the results.

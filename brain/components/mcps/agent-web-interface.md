@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-18T12:35:12Z"
+pushed_at: "2026-10-20T22:36:49Z"
 ---
 ## What it is
 Gives AI agents a compact, semantic interface to the browser, returning structured page snapshots with stable element IDs instead of raw DOM. Enables agents to navigate, interact, and extract information from web pages efficiently.

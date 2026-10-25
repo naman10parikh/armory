@@ -8,12 +8,12 @@ source_url: https://github.com/sailorpepe/undesirables-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-02T21:35:41Z"
+pushed_at: "2026-10-19T10:41:10Z"
 ---
 ## What it is
 MCP server `Undesirables`, catalogued on PulseMCP. TCG card grading, Monte Carlo pricing, and 370K+ product search tools for trading card games.

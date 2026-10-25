@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T06:20:23Z"
+pushed_at: "2026-10-23T20:20:20Z"
 ---
 ## What it is
 Exposes RFQ, travel, and hospitality operations as MCP tools backed by a GraphQL API.

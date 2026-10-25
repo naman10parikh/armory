@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-17T05:50:09Z"
+pushed_at: "2026-10-21T23:15:18Z"
 ---
 ## What it is
 ocal-first, read-only MCP server that audits repository test architecture across ten language ecosystems. It returns deterministic evidence-backed findings, blockers, rankings, and repository-native test plans without modifying source files.

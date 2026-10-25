@@ -8,14 +8,14 @@ source_url: https://github.com/p-e-w/heretic
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 35717
+stars: 36447
 eval_score: null
 mentions: 1
 verified_at: 2026-10-13
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 4050
-pushed_at: "2026-10-17T12:59:38Z"
+forks: 4139
+pushed_at: "2026-10-24T12:31:01Z"
 ---
 ## What it is
 Fully automatic censorship removal for language models

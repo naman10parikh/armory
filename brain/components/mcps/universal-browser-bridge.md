@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T18:25:50Z"
+pushed_at: "2026-10-20T15:08:24Z"
 ---
 ## What it is
 Enables MCP-compatible AI agents to securely control Chrome tabs via a local bridge, with explicit per-tab sharing and human approval for consequential actions.

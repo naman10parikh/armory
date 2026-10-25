@@ -8,11 +8,11 @@ source_url: https://github.com/neilberkman/clippy
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 251
+stars: 250
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2026-09-04T20:38:13Z"
 ---
 ## What it is

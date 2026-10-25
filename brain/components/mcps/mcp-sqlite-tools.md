@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-18T08:29:34Z"
+pushed_at: "2026-10-25T05:26:35Z"
 ---
 ## What it is
 Provides comprehensive SQLite database operations for LLMs with security features, transaction support, and separation of read-only and destructive operations.

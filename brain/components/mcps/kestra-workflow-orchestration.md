@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-10-16T11:02:32Z"
+pushed_at: "2026-10-18T19:01:48Z"
 ---
 ## What it is
 MCP server `Kestra`, catalogued on PulseMCP. Integrates with Kestra workflow orchestration platform to enable natural language control of data pipelines, execution management, namespace operations, and enterprise features like user management through conversational interfaces.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T15:34:56Z"
+pushed_at: "2026-10-19T12:53:56Z"
 ---
 ## What it is
 Enables document processing with Suparse API, extracting structured data from documents into JSON, CSV, XLSX, or Google Sheets, and supports processing single files or folders.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T01:34:09Z"
+pushed_at: "2026-10-24T06:11:57Z"
 ---
 ## What it is
 Open-source, Windows-first control plane for operating local and homelab services through typed MCP servers, featuring 13 servers and 290 tools with infrastructure adapters for Windows, Ubuntu, Docker, and more.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-17T07:09:13Z"
+pushed_at: "2026-10-23T08:24:46Z"
 ---
 ## What it is
 MCP server `Sanity Images by pijusz`, catalogued on PulseMCP. Upload local images to Sanity CMS as assets with support for single uploads, batch operations, document field patching, and GROQ queries.

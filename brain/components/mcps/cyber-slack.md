@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T07:42:54Z"
+pushed_at: "2026-10-24T13:50:03Z"
 ---
 ## What it is
 MCP server for Slack that enables AI agents to interact with Slack workspaces, including listing channels, reading and posting messages, searching, managing users, reactions, and user groups.

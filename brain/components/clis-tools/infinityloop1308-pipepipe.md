@@ -8,14 +8,14 @@ source_url: https://github.com/InfinityLoop1308/PipePipe
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 7040
+stars: 7109
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 249
-pushed_at: "2026-10-16T02:34:36Z"
+forks: 254
+pushed_at: "2026-10-21T01:21:39Z"
 ---
 ## What it is
 An open-source Android app to let you browse YouTube and other services freely.

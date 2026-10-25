@@ -8,14 +8,14 @@ source_url: https://github.com/ccxt/ccxt
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 44445
+stars: 44566
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 8905
-pushed_at: "2026-10-18T09:36:35Z"
+forks: 8923
+pushed_at: "2026-10-25T08:50:14Z"
 ---
 ## What it is
 A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust

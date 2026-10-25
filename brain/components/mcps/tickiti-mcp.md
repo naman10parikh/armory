@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T19:11:48Z"
+pushed_at: "2026-10-25T11:19:19Z"
 ---
 ## What it is
 An MCP server that exposes the Tickiti helpdesk API to AI assistants, enabling ticket management and helpdesk operations via natural language.

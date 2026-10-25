@@ -8,13 +8,13 @@ source_url: https://github.com/DeepAgentLabs/mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 65
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-18T08:50:40Z"
+pushed_at: "2026-10-21T21:26:45Z"
 ---
 ## What it is
 Unified MCP server for DeepAgentLabs that exposes workflow profiling, analysis, and chaos experiment tools through a single interface.

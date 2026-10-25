@@ -8,13 +8,13 @@ source_url: https://github.com/HUANGCHIHHUNGLeo/claude-real-video
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2237
+stars: 2263
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 201
-pushed_at: "2026-10-08T16:50:07Z"
+forks: 202
+pushed_at: "2026-10-23T09:34:39Z"
 ---
 ## What it is
 Lets any LLM agent actually watch videos: a watch_video tool takes a URL or local file and returns scene-aware keyframes fused with a timestamped transcript, processed 100% locally with per-source caching.

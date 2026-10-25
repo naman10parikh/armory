@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-10-14T21:44:40Z"
+forks: 7
+pushed_at: "2026-10-19T09:13:48Z"
 ---
 ## What it is
 A Model Context Protocol server for Node-RED integration, enabling AI agents to manage flows, install modules, and monitor Node-RED instances via natural language.

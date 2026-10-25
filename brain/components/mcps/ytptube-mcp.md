@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T15:17:38Z"
+pushed_at: "2026-10-24T22:03:19Z"
 ---
 ## What it is
 A local stdio MCP server that lets MCP clients inspect and operate a self-hosted ytptube HTTP API, with tools for health checks, queue/history management, archives, tasks, and presets while protecting credentials.

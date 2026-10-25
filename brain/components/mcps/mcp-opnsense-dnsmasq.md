@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-10T02:57:56Z"
+pushed_at: "2026-10-23T00:59:56Z"
 ---
 ## What it is
 A LAN-hosted MCP server for safely querying and managing OPNsense Dnsmasq DHCP state through the official OPNsense API, with tools to view and modify DHCP leases, static reservations, settings, and more.

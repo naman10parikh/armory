@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T17:12:53Z"
+pushed_at: "2026-10-21T02:07:18Z"
 ---
 ## What it is
 Provides deterministic decision and constraint evaluation for AI agents. Supports ruleset validation, fact evaluation, and constraint checking via MCP tools.

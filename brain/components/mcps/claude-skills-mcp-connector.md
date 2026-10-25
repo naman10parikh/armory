@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-12T17:30:41Z"
 ---
 ## What it is
 Remote MCP server for Claude that exposes a library of SKILL.md packages, enabling listing, searching, and retrieving skill instructions and supporting files for use in conversations.

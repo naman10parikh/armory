@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-10-03T10:14:20Z"
+pushed_at: "2026-10-21T06:05:11Z"
 ---
 ## What it is
 MCP server `Flipt (Feature Flag Management)`, catalogued on PulseMCP. Integrates with Flipt feature flag management to enable listing, creating, updating, and deleting namespaces, flags, segments, and rules for controlling feature rollouts with constraints, variants, and distributions.

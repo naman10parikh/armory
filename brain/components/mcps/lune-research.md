@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-12T03:24:01Z"
+pushed_at: "2026-10-24T21:29:30Z"
 ---
 ## What it is
 MCP server `Lune Research`, catalogued on PulseMCP. Search and retrieve academic papers from top-tier research venues including NeurIPS, ICLR, and ICML from any MCP-compatible AI client.

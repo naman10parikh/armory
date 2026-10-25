@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:15:29Z"
+pushed_at: "2026-10-24T21:37:15Z"
 ---
 ## What it is
 Provides tools to search, query, and retrieve metadata from Howard County Open Data (Socrata) datasets.

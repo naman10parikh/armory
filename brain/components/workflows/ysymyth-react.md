@@ -8,13 +8,13 @@ source_url: https://github.com/ysymyth/ReAct
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 4230
+stars: 4247
 eval_score: null
 mentions: 14
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 404
+forks: 407
 pushed_at: "2024-02-06T02:34:32Z"
 ---
 ## What it is

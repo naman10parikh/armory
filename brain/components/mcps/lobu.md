@@ -8,13 +8,13 @@ source_url: https://github.com/lobu-ai/lobu
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 226
+stars: 230
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 32
-pushed_at: "2026-10-18T14:46:07Z"
+forks: 31
+pushed_at: "2026-10-25T12:07:35Z"
 ---
 ## What it is
 MCP server for Lobu, the open-source backend for AI teammates, providing durable memory and agent capabilities. It enables AI assistants to watch, remember, and act across company tools with sandboxed execution.

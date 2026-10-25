@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-28T07:06:44Z"
+forks: 1
+pushed_at: "2026-10-25T11:10:46Z"
 ---
 ## What it is
 Connect AI agents to shared Ping chat rooms for collaboration, with auto-delivery of new messages. Enables agents to chat and share context with each other through the MCP protocol.

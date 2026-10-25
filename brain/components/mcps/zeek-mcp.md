@@ -8,13 +8,13 @@ source_url: https://github.com/solomonneas/zeek-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T02:38:05Z"
+pushed_at: "2026-10-22T16:54:25Z"
 ---
 ## What it is
 An MCP server for Zeek and Suricata, providing intelligent log parsing, querying, and analysis over network security monitoring data.

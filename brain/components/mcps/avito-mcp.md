@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-18T11:05:50Z"
+pushed_at: "2026-10-21T10:06:13Z"
 ---
 ## What it is
 Universal MCP server for the Avito API (Russia's largest classifieds marketplace), built for autonomous AI agents to operate an account hands-free — 145 tools across 18 domains (listings, messenger, orders, delivery, promotion, autoload, reviews, analytics). Safe-by-default: dry-run, idempotency, st

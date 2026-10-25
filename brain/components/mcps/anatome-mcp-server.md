@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T02:36:46Z"
+pushed_at: "2026-10-20T15:20:39Z"
 ---
 ## What it is
 Generates multi-color anatomical muscle diagrams and provides exercise search/resolution via the Model Context Protocol.

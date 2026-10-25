@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T09:23:35Z"
+pushed_at: "2026-10-22T02:43:09Z"
 ---
 ## What it is
 Inspects Apple TV.app playback and lets you load, translate, style, and sync subtitle overlays on macOS, with optional LLM translation via Anthropic, Claude Code, or Codex.

@@ -8,13 +8,13 @@ source_url: https://github.com/davidmosiah/fitbitmcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-08T10:27:33Z"
+pushed_at: "2026-10-23T18:11:28Z"
 ---
 ## What it is
 Local-first MCP server that connects AI agents to your Fitbit activity, sleep, heart-rate, HRV, SpO2 and weight data.

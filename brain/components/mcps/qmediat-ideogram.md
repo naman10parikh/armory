@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-12T19:13:12Z"
+pushed_at: "2026-10-21T13:18:30Z"
 ---
 ## What it is
 MCP server `Ideogram`, catalogued on PulseMCP. Wraps the Ideogram V3 API to generate, edit, remix, reframe, replace backgrounds, and upscale images.

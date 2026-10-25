@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:32:10Z"
+pushed_at: "2026-10-23T03:52:26Z"
 ---
 ## What it is
 Enables searching and querying open government geospatial datasets from ArcGIS Hub, including feature service queries.

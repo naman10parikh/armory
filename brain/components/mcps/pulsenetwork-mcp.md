@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-08T03:42:29Z"
+pushed_at: "2026-10-20T17:46:05Z"
 ---
 ## What it is
 One MCP install that lets your AI agents discover and pay (x402 micropayments, USDC on Base + Solana) for 66 specialized real-time intelligence APIs - finance, crypto, insurance, immigration, legal, markets and more. 68 tools, pey-per-query, no subscription.

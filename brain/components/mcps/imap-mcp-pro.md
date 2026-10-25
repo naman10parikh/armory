@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-13T04:04:31Z"
+pushed_at: "2026-10-22T04:37:10Z"
 ---
 ## What it is
 An enterprise-grade MCP server that provides production-ready IMAP email integration with advanced reliability features, comprehensive monitoring, and secure account management.

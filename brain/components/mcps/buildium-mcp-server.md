@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-16T19:54:14Z"
+pushed_at: "2026-10-23T19:56:44Z"
 ---
 ## What it is
 Enables interaction with Buildium property management software through natural language, supporting operations on associations, leases, rentals, tenants, and more.

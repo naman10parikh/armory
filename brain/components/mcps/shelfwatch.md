@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-04-16T11:59:51Z"
+pushed_at: "2026-10-19T20:08:18Z"
 ---
 ## What it is
 Enables automated weekly meal planning and grocery price comparison across Swedish supermarkets through a Claude/GPT interface.

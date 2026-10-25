@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T13:33:29Z"
+pushed_at: "2026-10-23T18:28:57Z"
 ---
 ## What it is
 Etix event discovery as an MCP server for Claude — search events, venues, and performers and pull full event/venue details via natural language. Routes requests through your own signed-in etix.com tab via the fetchproxy extension to bypass DataDome.

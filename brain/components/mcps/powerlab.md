@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T03:25:27Z"
+pushed_at: "2026-10-19T09:18:04Z"
 ---
 ## What it is
 Turn a PowerLab homelab/enterprise host into a structured, agent-driven surface for catalog browsing, app management, system observability, and compose-yaml authoring.

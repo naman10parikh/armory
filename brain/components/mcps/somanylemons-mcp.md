@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T01:51:45Z"
+pushed_at: "2026-10-23T15:12:53Z"
 ---
 ## What it is
 AI-powered content marketing MCP server for creating branded video reels, LinkedIn posts, image quotes, and more via the /lemons command.

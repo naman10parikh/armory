@@ -8,14 +8,14 @@ source_url: https://github.com/browser-use/browser-use
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 118385
+stars: 119091
 eval_score: 1
 verified_at: 2026-05-28
 related: []
 tags: [browser, browser-use]
 mentions: 11
-forks: 13131
-pushed_at: "2026-10-17T20:02:49Z"
+forks: 13232
+pushed_at: "2026-10-24T07:23:03Z"
 ---
 ## What it is
 Python library that makes web browsers accessible to AI agents; built on Playwright and LangChain. Supports multi-tab, vision + accessibility-tree hybrid mode, custom actions, and a self-correcting agent loop.

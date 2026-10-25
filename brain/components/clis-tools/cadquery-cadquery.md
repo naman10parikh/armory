@@ -8,14 +8,14 @@ source_url: https://github.com/CadQuery/cadquery
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 5954
+stars: 5992
 eval_score: 1
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 557
-pushed_at: "2026-10-10T00:00:48Z"
+pushed_at: "2026-10-24T15:18:33Z"
 ---
 ## What it is
 A python parametric CAD scripting framework based on OCCT

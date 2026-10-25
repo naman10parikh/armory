@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T12:12:48Z"
+pushed_at: "2026-10-19T23:24:37Z"
 ---
 ## What it is
 Provides AI agents with safe, governed read access to industrial control systems (OPC-UA, Modbus, S7, Mitsubishi, MTConnect, MQTT/Sparkplug) plus cross-protocol diagnostics for troubleshooting data breaks, alarm floods, and unhealthy tags.

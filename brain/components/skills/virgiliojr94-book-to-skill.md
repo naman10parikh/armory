@@ -8,14 +8,14 @@ source_url: https://github.com/virgiliojr94/book-to-skill
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 35232
+stars: 36027
 eval_score: null
 mentions: 3
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 3705
-pushed_at: "2026-10-12T00:30:58Z"
+forks: 3810
+pushed_at: "2026-10-18T21:24:32Z"
 ---
 ## What it is
 Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.

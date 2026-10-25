@@ -8,12 +8,12 @@ source_url: https://github.com/allooloo/acm-68000
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-14T22:52:32Z"
+pushed_at: "2026-10-23T22:14:55Z"
 ---
 ## What it is
 MCP server `ACM-68000`, catalogued on PulseMCP. CPG product eligibility checker for AI agents — resolve product eligibility via the ACM-68000 DPU.

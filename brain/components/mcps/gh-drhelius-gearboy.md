@@ -12,8 +12,8 @@ stars: 1219
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 168
-pushed_at: "2026-10-16T18:23:55Z"
+forks: 169
+pushed_at: "2026-10-24T17:53:36Z"
 ---
 ## What it is
 MCP server `Gearboy`, catalogued on PulseMCP. Game Boy and Game Boy Color emulator with embedded MCP server for AI-assisted debugging and development.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-17T07:07:51Z"
+pushed_at: "2026-10-22T17:41:57Z"
 ---
 ## What it is
 MCP server `Mailtrap by pijusz`, catalogued on PulseMCP. Comprehensive Mailtrap integration with 48 tools covering analytics, email logs, contacts, templates, sandbox testing, domains, and account management.

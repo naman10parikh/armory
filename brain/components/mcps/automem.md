@@ -8,12 +8,12 @@ source_url: https://github.com/verygoodplugins/mcp-automem
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 66
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-10-17T21:23:52Z"
+pushed_at: "2026-10-22T19:37:41Z"
 ---
 ## What it is
 MCP server `AutoMem`, catalogued on PulseMCP. Graph-vector memory service for AI assistants using FalkorDB and Qdrant.

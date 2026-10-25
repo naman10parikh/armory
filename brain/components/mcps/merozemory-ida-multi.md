@@ -8,11 +8,11 @@ source_url: https://github.com/merozemory/ida-multi-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 458
+stars: 463
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 67
+forks: 69
 pushed_at: "2026-09-19T04:51:15Z"
 ---
 ## What it is

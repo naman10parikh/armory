@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-24T01:33:58Z"
+pushed_at: "2026-10-20T14:05:46Z"
 ---
 ## What it is
 MCP server `UIAutomation for Windows`, catalogued on PulseMCP. Provides Windows UI automation capabilities through the Python UIAutomation library, enabling control finding, interaction, screenshots, and window management across Win32, WPF, UWP, and Electron applications.

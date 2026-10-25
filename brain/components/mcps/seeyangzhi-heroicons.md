@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-14T19:32:09Z"
+pushed_at: "2026-10-21T12:00:24Z"
 ---
 ## What it is
 MCP server `Heroicons`, catalogued on PulseMCP. Exposes the Heroicons library for searching, listing, and generating usage examples of icons in React applications

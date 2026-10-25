@@ -14,7 +14,7 @@ mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, subagents]
-forks: 1
+forks: 0
 pushed_at: "2026-05-27T12:21:58Z"
 ---
 ## What it is

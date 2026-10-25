@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:40:33Z"
+pushed_at: "2026-10-25T03:55:56Z"
 ---
 ## What it is
 Enables querying and browsing ontologies from the EBI Ontology Lookup Service, including searching for terms, retrieving term details, and navigating ontology hierarchies via natural language.

@@ -8,12 +8,12 @@ source_url: https://github.com/ryanmazzolini/minimal-godot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 48
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-09-27T16:44:04Z"
+pushed_at: "2026-10-20T16:44:15Z"
 ---
 ## What it is
 MCP server `Godot GDScript Diagnostics`, catalogued on PulseMCP. Connects directly to Godot's Language Server Protocol to provide real-time GDScript syntax validation and error detection without requiring a full Godot installation.

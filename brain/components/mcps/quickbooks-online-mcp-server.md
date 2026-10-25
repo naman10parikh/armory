@@ -8,12 +8,12 @@ source_url: https://github.com/LibreChat-AI/quickbooks-online-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
+forks: 11
 pushed_at: "2026-08-15T17:02:36Z"
 ---
 ## What it is

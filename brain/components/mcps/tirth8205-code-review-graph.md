@@ -8,13 +8,13 @@ source_url: https://github.com/tirth8205/code-review-graph
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 32237
+stars: 32380
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, mcps]
-forks: 3029
+forks: 2957
 pushed_at: "2026-10-16T11:20:26Z"
 ---
 ## What it is

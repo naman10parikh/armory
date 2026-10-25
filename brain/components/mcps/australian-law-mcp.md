@@ -8,13 +8,13 @@ source_url: https://github.com/ChangkeunJ/australian-law-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-05T02:39:20Z"
+pushed_at: "2026-10-20T23:24:55Z"
 ---
 ## What it is
 MCP server for the Federal Register of Legislation, enabling point-in-time searches, retrieval, and verification of Australian Commonwealth law, including citation checking.

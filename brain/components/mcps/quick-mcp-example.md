@@ -8,12 +8,12 @@ source_url: https://github.com/ALucek/quick-mcp-example
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 63
+stars: 62
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 23
+forks: 22
 pushed_at: "2025-03-07T23:54:13Z"
 ---
 ## What it is

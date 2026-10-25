@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 63
-pushed_at: "2026-09-22T22:22:58Z"
+pushed_at: "2026-10-21T18:31:33Z"
 ---
 ## What it is
 MCP server `CircleCI`, catalogued on PulseMCP. Enables agents to talk to CircleCI. Fetch build failure logs to fix issues.

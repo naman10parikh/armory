@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 53
-pushed_at: "2026-10-18T12:41:26Z"
+forks: 52
+pushed_at: "2026-10-25T01:35:56Z"
 ---
 ## What it is
 Governance runtime for AI agents: a guard tool evaluates risky actions against policy before they execute (block / warn / require human approval), approvals route to a human queue, and every action becomes a replayable decision record with per-action spend tracking. Runs over stdio via npx @dashclaw

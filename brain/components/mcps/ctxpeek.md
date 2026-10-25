@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T10:15:46Z"
+pushed_at: "2026-10-22T10:15:30Z"
 ---
 ## What it is
 MCP server that fetches documentation from public git repositories at specific versions, enabling AI coding assistants to access up-to-date, ref-pinned docs from source repos.

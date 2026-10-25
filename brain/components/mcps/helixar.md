@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T14:30:12Z"
+pushed_at: "2026-10-22T00:42:00Z"
 ---
 ## What it is
 MCP server `Helixar`, catalogued on PulseMCP. AI-powered security tools for scanning MCP servers, validating agentic delegation chains, and auditing release artifacts for secrets and license issues.

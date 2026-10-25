@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-10-13T15:39:00Z"
+pushed_at: "2026-10-20T12:14:34Z"
 ---
 ## What it is
 MCP server `Cargo`, catalogued on PulseMCP. Provides safe access to Rust development workflows through whitelisted Cargo commands including check, clippy, test, build, bench, fmt, dependency management, and toolchain switching with path validation and session-based state management.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-16T18:05:00Z"
+pushed_at: "2026-10-21T14:41:27Z"
 ---
 ## What it is
 MCP server for SAP SuccessFactors that provides 52 tools across 15 categories for querying live data, generating business rules, validating imports, running analytics, comparing instances, auditing data, and building cutover checklists.

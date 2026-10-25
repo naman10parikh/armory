@@ -12,8 +12,8 @@ stars: 313
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 66
-pushed_at: "2026-10-13T15:49:40Z"
+forks: 67
+pushed_at: "2026-10-19T15:14:17Z"
 ---
 ## What it is
 MCP server `Elasticsearch`, catalogued on PulseMCP. Enables natural language interaction with Elasticsearch clusters for querying, indexing, and management operations via Docker-deployed infrastructure.

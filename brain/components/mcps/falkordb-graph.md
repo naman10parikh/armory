@@ -8,12 +8,12 @@ source_url: https://github.com/falkordb/falkordb-mcpserver
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 19
-pushed_at: "2026-10-18T04:52:33Z"
+forks: 20
+pushed_at: "2026-10-25T06:14:47Z"
 ---
 ## What it is
 MCP server `FalkorDB`, catalogued on PulseMCP. Enables natural language querying of graph databases by translating requests into FalkorDB queries for analyzing relationships in knowledge graphs, recommendation systems, and network data.

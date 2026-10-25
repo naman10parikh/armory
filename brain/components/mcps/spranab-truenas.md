@@ -8,12 +8,12 @@ source_url: https://github.com/spranab/truenas-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-17T15:29:29Z"
+pushed_at: "2026-10-21T14:30:35Z"
 ---
 ## What it is
 MCP server `TrueNAS`, catalogued on PulseMCP. MCP server for managing TrueNAS storage systems, enabling AI assistants to monitor and control NAS devices and datasets.

@@ -14,7 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 mentions: null
 forks: 0
-pushed_at: "2026-09-25T22:00:29Z"
+pushed_at: "2026-10-23T04:07:38Z"
 ---
 ## What it is
 MCP server `Metropolitan Museum of Art`, catalogued on PulseMCP. Artwork search and metadata from the Metropolitan Museum of Art's open collection API.

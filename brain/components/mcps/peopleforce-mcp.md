@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-26T19:46:36Z"
+pushed_at: "2026-10-21T03:19:40Z"
 ---
 ## What it is
 Enables Claude, Cursor, and other MCP clients to query PeopleForce HRIS data (employees, time-off, recruitment) via 27 read-only tools.

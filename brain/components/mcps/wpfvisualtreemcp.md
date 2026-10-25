@@ -8,13 +8,13 @@ source_url: https://github.com/faze79/WPFVisualTreeMcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-10-17T22:43:14Z"
+forks: 8
+pushed_at: "2026-10-25T09:57:26Z"
 ---
 ## What it is
 Let AI agents inspect and drive running WPF (.NET desktop) apps: visual tree, dependency properties, data bindings and binding errors, DataContext, screenshots (popups included), plus click, select-item, text input, keyboard shortcuts, live property editing and wait-for — via runtime injection, with

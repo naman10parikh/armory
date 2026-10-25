@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T13:31:48Z"
+pushed_at: "2026-10-25T06:23:16Z"
 ---
 ## What it is
 Read-only MCP server for KeePass databases that enables listing, searching, and retrieving entries while keeping passwords secure.

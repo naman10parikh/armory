@@ -8,12 +8,12 @@ source_url: https://github.com/memovai/memov
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 194
+stars: 193
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 23
+forks: 22
 pushed_at: "2026-02-05T11:11:27Z"
 ---
 ## What it is

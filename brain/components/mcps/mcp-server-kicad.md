@@ -8,13 +8,13 @@ source_url: https://github.com/ProductOfAmerica/mcp-server-kicad
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-10-18T14:21:11Z"
+forks: 7
+pushed_at: "2026-10-23T08:57:10Z"
 ---
 ## What it is
 MCP servers for KiCad schematic, PCB, symbol, footprint, and project automation, enabling AI-assisted electronic design via tools for read/write, analysis, and exports.

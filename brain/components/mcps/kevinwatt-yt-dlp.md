@@ -8,11 +8,11 @@ source_url: https://github.com/kevinwatt/yt-dlp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 291
+stars: 293
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 62
+forks: 61
 pushed_at: "2026-08-11T10:39:40Z"
 ---
 ## What it is

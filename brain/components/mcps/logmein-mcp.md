@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T02:52:55Z"
+pushed_at: "2026-10-23T10:32:09Z"
 ---
 ## What it is
 MCP server for LogMeIn Rescue that exposes session, chat log, note, and reporting tools via the vendor's API, requiring per-request credentials.

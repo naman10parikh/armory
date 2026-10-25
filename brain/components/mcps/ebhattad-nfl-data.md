@@ -8,11 +8,11 @@ source_url: https://github.com/ebhattad/nfl-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2026-09-24T22:32:23Z"
 ---
 ## What it is

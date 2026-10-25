@@ -13,7 +13,7 @@ related: []
 tags: [mcp, workplace-productivity]
 stars: 2
 forks: 0
-pushed_at: "2026-07-05T16:41:00Z"
+pushed_at: "2026-10-24T15:33:32Z"
 ---
 ## What it is
 Strategic task prioritization and agent orchestration for multi-project operators. 22 MCP tools with 5-factor scoring engine, advisory document analysis, agent dispatch with autonomy levels, HMAC webhooks, time-aware planning, and CI/CD integration. Standalone CLI + MCP server.

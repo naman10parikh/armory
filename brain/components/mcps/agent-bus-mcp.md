@@ -8,13 +8,13 @@ source_url: https://github.com/MustaphaSteph/agent-bus
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 24
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-10-13T21:14:04Z"
+forks: 0
+pushed_at: "2026-10-25T10:32:17Z"
 ---
 ## What it is
 A local MCP server that connects AI coding agents (Claude Code, Codex, Cursor, etc.) on the same machine via a shared message bus, enabling them to chat, delegate tasks, and collaborate privately without cloud or internet.

@@ -8,7 +8,7 @@ source_url: https://github.com/stuzero/pg-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 540
+stars: 541
 eval_score: null
 verified_at: 2026-05-27
 related: []

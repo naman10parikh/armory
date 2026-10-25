@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:14:28Z"
+pushed_at: "2026-10-24T21:36:10Z"
 ---
 ## What it is
 Enables searching and querying Fulton County Open Data (Socrata) for datasets, metadata, and rows via tools like datasets, query, and metadata.

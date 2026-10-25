@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T20:59:07Z"
+pushed_at: "2026-10-24T19:05:37Z"
 ---
 ## What it is
 Aggregates personal data from multiple sources (Claude Code sessions, GitHub, Dropbox, etc.) into a searchable SQLite store and exposes query capabilities via FastMCP for models.

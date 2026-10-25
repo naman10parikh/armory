@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 17
-pushed_at: "2026-08-15T07:54:44Z"
+pushed_at: "2026-10-22T11:02:39Z"
 ---
 ## What it is
 MCP server `Starwind UI`, catalogued on PulseMCP. Bridges AI assistants with the Starwind UI component library, enabling package detection, project initialization, component installation, and documentation retrieval for web development projects.

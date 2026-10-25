@@ -8,11 +8,11 @@ source_url: https://github.com/serpapi/serpapi-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 180
+stars: 182
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 43
+forks: 44
 pushed_at: "2026-10-15T12:23:48Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T04:40:24Z"
+pushed_at: "2026-10-25T10:46:56Z"
 ---
 ## What it is
 This MCP server bridges AI agents with Apple Mail on macOS, enabling email operations like reading, sending, drafting, searching, and scheduling through natural language, with added features like stable draft IDs and confirmation-gated sending.

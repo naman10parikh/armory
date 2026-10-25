@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-08T10:52:20Z"
+pushed_at: "2026-10-20T18:46:42Z"
 ---
 ## What it is
 MCP bridge for Inkra — drive a native macOS Markdown editor (SwiftUI + AppKit, not Electron) with live KaTeX/Mermaid preview from Claude, Cursor, or any MCP client. 18 tools across document editing, outline navigation, folder browsing, bookmarks, themes, and focus/wide view modes. Bridge open-source

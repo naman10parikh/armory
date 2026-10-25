@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 78
-pushed_at: "2026-10-16T18:35:25Z"
+forks: 79
+pushed_at: "2026-10-20T19:01:07Z"
 ---
 ## What it is
 Exposes Spark History Server data as tools for AI agents, enabling natural language querying of Spark applications, jobs, stages, and performance metrics.

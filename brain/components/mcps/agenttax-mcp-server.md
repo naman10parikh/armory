@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T20:44:04Z"
+pushed_at: "2026-10-22T01:31:24Z"
 ---
 ## What it is
 Enables MCP tool developers and AI agents to track payments, calculate sales tax liability, and ensure tax compliance across US jurisdictions.

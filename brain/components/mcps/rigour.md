@@ -8,12 +8,12 @@ source_url: https://github.com/rigour-labs/rigour
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-16T11:44:32Z"
+pushed_at: "2026-10-19T12:33:52Z"
 ---
 ## What it is
 MCP server `Rigour`, catalogued on PulseMCP. Quality gates for AI agents with lint, test, and build checks with memory persistence.

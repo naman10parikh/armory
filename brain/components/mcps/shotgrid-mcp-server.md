@@ -8,13 +8,13 @@ source_url: https://github.com/loonghao/shotgrid-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 65
+stars: 67
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-10-18T01:39:10Z"
+pushed_at: "2026-10-22T13:44:21Z"
 ---
 ## What it is
 Enables AI assistants to interact with Autodesk ShotGrid (Flow Production Tracking) for production tracking workflows. Provides 40+ tools for CRUD operations, batch processing, media, notes, and playlists.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T06:28:11Z"
+pushed_at: "2026-10-20T22:00:55Z"
 ---
 ## What it is
 Exposes the full Campaign Monitor v3.3 API as 117 tools for managing campaigns, lists, subscribers, and more, with OAuth authentication.

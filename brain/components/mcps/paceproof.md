@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T08:08:09Z"
+pushed_at: "2026-10-22T00:33:32Z"
 ---
 ## What it is
 Verifies Ed25519-signed attestation records and builds audit reports. Native TS MCP server exposing verify, ingest, and report tools, thin wrappers over the same aggregator logic the CLI uses.

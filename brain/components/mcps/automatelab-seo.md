@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-13T10:34:51Z"
+pushed_at: "2026-10-22T08:22:32Z"
 ---
 ## What it is
 MCP server `AI SEO`, catalogued on PulseMCP. Audit, score, and rewrite web pages for AI citation eligibility: schema, robots.txt, llms.txt, and AEO/GEO rewrites.

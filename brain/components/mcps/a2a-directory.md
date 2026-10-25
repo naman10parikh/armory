@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, knowledge-research]
-forks: 70
-pushed_at: "2026-10-15T12:33:10Z"
+forks: 73
+pushed_at: "2026-10-20T15:37:20Z"
 ---
 ## What it is
 AgentCards, Servers, Clients, Docs

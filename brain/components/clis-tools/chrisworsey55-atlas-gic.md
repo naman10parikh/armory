@@ -8,13 +8,13 @@ source_url: https://github.com/chrisworsey55/atlas-gic
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2323
+stars: 2331
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 418
+forks: 419
 pushed_at: "2026-09-22T11:51:44Z"
 ---
 ## What it is

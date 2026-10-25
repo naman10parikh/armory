@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T00:29:39Z"
+pushed_at: "2026-10-25T03:29:21Z"
 ---
 ## What it is
 MCP server and agent skills for Tough Tongue AI, enabling handling tough conversations through voice agents, scenario creation, and session analysis.

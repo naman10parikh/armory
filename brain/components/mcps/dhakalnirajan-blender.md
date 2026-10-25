@@ -8,12 +8,12 @@ source_url: https://github.com/dhakalnirajan/blender-open-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 120
+stars: 121
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 37
-pushed_at: "2026-09-04T12:23:15Z"
+pushed_at: "2026-10-18T19:16:29Z"
 ---
 ## What it is
 MCP server `Blender Open MCP`, catalogued on PulseMCP. Integrates Blender with local AI models via Ollama, enabling natural language control of 3D modeling tasks including object creation, modification, material application, and rendering with optional PolyHaven asset integration.

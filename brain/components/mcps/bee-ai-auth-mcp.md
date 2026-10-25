@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T18:32:59Z"
+pushed_at: "2026-10-21T20:40:37Z"
 ---
 ## What it is
 Self-host-first, OAuth-secured MCP server that brings Bee AI pendant conversations to any MCP client (Claude, Cursor, etc.) with encrypted per-user token custody and read-only access by default.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:05:20Z"
+pushed_at: "2026-10-24T21:30:45Z"
 ---
 ## What it is
 Enables AI agents to access Korea's DART financial data system for retrieving and analyzing corporate disclosures and financial information through natural language queries.

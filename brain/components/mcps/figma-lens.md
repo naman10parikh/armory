@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T09:02:51Z"
+pushed_at: "2026-10-18T16:09:02Z"
 ---
 ## What it is
 Provides token-efficient, read-only Figma inspection for coding agents via MCP, enabling extraction of design specs, screenshots, and assets from bounded node subtrees with local caching.

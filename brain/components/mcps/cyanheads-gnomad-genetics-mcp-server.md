@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T23:13:32Z"
+pushed_at: "2026-10-24T19:35:28Z"
 ---
 ## What it is
 Look up variant allele frequencies by ancestry, gene loss-of-function constraint, gene variant lists, and sequencing coverage over gnomAD — with ClinVar significance joined in — via MCP.

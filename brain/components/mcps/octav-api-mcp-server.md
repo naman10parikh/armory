@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-09T17:18:00Z"
+pushed_at: "2026-10-23T16:44:55Z"
 ---
 ## What it is
 MCP server for querying cryptocurrency portfolio data, transaction history, net worth, and historical snapshots across 20+ blockchains via the Octav API.

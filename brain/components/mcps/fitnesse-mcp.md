@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-03T11:08:23Z"
+pushed_at: "2026-10-19T17:33:33Z"
 ---
 ## What it is
 An MCP server that exposes FitNesse's REST responders as tools, enabling reading wiki pages, running tests and suites, managing the files section, and inspecting test history on a FitNesse instance.

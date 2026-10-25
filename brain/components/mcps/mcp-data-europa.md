@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:13:58Z"
+pushed_at: "2026-10-24T21:35:37Z"
 ---
 ## What it is
 Enables searching and accessing EU open datasets from data.europa.eu, including metadata discovery and dataset retrieval.

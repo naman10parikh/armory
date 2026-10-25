@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T02:53:09Z"
+pushed_at: "2026-10-23T10:31:09Z"
 ---
 ## What it is
 Enables interaction with N-able RMM (N-sight) API to manage clients, sites, devices, and retrieve monitoring data such as checks, patches, and performance history.

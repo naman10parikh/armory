@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T09:16:26Z"
+pushed_at: "2026-10-20T19:40:57Z"
 ---
 ## What it is
 Open-source MCP server for Bisibility, providing tools for keyword rank tracking, SERP history, keyword research, backlinks, alerts, reports, and project management. Runs locally through npm or Docker and connects to Bisibility Cloud or a self-hosted instance.

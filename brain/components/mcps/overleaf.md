@@ -8,11 +8,11 @@ source_url: https://github.com/mjyoo2/overleafmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 321
+stars: 329
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 41
+forks: 43
 pushed_at: "2026-05-03T17:22:01Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/mgcrea/mcp-cupertino
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T21:20:22Z"
+pushed_at: "2026-10-25T10:06:14Z"
 ---
 ## What it is
 Provides MCP servers to interact with Apple's Mail, Notes, Reminders, and Calendar apps on macOS, enabling search, read, and write operations with configurable permissions and a single Full Disk Access grant.

@@ -8,13 +8,13 @@ source_url: https://github.com/skyvanguard/mcp-vanguard
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-02-22T23:42:46Z"
+pushed_at: "2026-10-20T11:27:28Z"
 ---
 ## What it is
 A security pentesting MCP server with 89 tools across 10 categories, enabling comprehensive reconnaissance, web security, OSINT, and exploitation tasks. It features a native Windows/WSL bridge for Kali Linux tools and scope-aware permission tiers for safe and efficient scanning.

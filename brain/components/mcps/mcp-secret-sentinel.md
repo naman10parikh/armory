@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T18:32:44Z"
+pushed_at: "2026-10-19T16:41:46Z"
 ---
 ## What it is
 An MCP server that scans code for exposed secrets (API keys, tokens, private keys, high-entropy strings) with placeholder-aware allowlisting and fully redacted reports, enabling agents to detect leaks before committing.

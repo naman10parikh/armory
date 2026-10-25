@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-05T02:42:05Z"
+pushed_at: "2026-10-25T11:02:29Z"
 ---
 ## What it is
 Enables AI agents to manage Trac projects with full CRUD operations on tickets, wiki pages, and milestones via the Model Context Protocol.

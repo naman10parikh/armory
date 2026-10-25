@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:52:17Z"
+pushed_at: "2026-10-23T03:57:32Z"
 ---
 ## What it is
 Enables searching and querying Montana State GIS open geospatial datasets (parcels, zoning, transport) via ArcGIS feature services.

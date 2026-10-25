@@ -15,7 +15,7 @@ verified_at: 2026-05-26
 related: [harness-rubric, golden-tasks, autolab-nightly, harness-review]
 tags: [eval, benchmark, scoring, harness, metrics]
 forks: 0
-pushed_at: "2026-06-10T03:29:08Z"
+pushed_at: "2026-10-21T04:07:08Z"
 ---
 
 ## What it is

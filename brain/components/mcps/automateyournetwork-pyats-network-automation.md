@@ -8,11 +8,11 @@ source_url: https://github.com/automateyournetwork/pyats_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 89
+stars: 90
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 35
+forks: 34
 pushed_at: "2026-10-05T14:41:15Z"
 ---
 ## What it is

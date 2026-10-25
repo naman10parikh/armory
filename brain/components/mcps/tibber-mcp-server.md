@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T08:12:01Z"
+pushed_at: "2026-10-25T08:26:33Z"
 ---
 ## What it is
 Enables querying Tibber electricity prices, forecasts, consumption data, cheapest hours, and live Pulse measurements through natural language.

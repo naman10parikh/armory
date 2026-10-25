@@ -8,7 +8,7 @@ source_url: https://github.com/Agent4Science-UTokyo/Task-CoEvolve
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 18
+stars: 24
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10

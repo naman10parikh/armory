@@ -8,13 +8,13 @@ source_url: https://github.com/poliakarmai/bybit-ws
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-18T14:41:38Z"
+forks: 2
+pushed_at: "2026-10-25T12:01:51Z"
 ---
 ## What it is
 An MCP server that enables AI agents to scan the market, manage positions, and retrieve trading metrics for Bybit through natural language commands.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-04T07:35:31Z"
+pushed_at: "2026-10-24T18:35:07Z"
 ---
 ## What it is
 Comprehensive Singapore government data MCP server - typed tools for SG datasets (data.gov.sg and more) for any AI agent. NPM: https://www.npmjs.com/package/@altronis/sgdata-mcp HOMEPAGE: https://altronis.sg

@@ -8,12 +8,12 @@ source_url: https://github.com/cyanheads/crossref-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T11:39:41Z"
+pushed_at: "2026-10-24T11:50:46Z"
 ---
 ## What it is
 MCP server `Crossref`, catalogued on PulseMCP. Searches and retrieves scholarly publication metadata, DOI records, citation counts, and funding information via the Crossref API.

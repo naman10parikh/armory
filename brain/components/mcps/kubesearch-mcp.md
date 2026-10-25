@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-09T00:24:12Z"
+pushed_at: "2026-10-24T00:18:26Z"
 ---
 ## What it is
 Enables LLMs to search Flux HelmReleases and Argo Applications from kubesearch.dev, and temporarily clone repos to review actual manifests.

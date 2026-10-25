@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 59
-pushed_at: "2026-10-15T00:25:33Z"
+pushed_at: "2026-10-24T18:22:30Z"
 ---
 ## What it is
 MCP server `Teradata Database`, catalogued on PulseMCP. Provides direct access to Teradata database systems with specialized tools for executing queries, exploring database structures, monitoring performance, and analyzing data quality without leaving your conversation context.

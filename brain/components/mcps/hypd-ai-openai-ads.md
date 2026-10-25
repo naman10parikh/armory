@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-03T14:38:32Z"
+pushed_at: "2026-10-24T13:40:04Z"
 ---
 ## What it is
 Enable AI agents such as Claude, Co-Pilot, Codex and other compatible tools to create, manage, and optimize advertising campaigns on ChatGPT.

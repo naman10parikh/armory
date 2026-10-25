@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-02-01T21:33:37Z"
+pushed_at: "2026-10-21T05:15:10Z"
 ---
 ## What it is
 MCP server for managing a media server stack (Plex, Radarr, Overseerr, Bazarr, Prowlarr, Trakt.tv) using natural language to browse, request, and discover content.

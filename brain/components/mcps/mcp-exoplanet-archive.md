@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T22:01:24Z"
+pushed_at: "2026-10-22T03:54:44Z"
 ---
 ## What it is
 Enables querying NASA Exoplanet Archive data using ADQL TAP, planet search, composite parameters, Kepler candidates, and microlensing events.

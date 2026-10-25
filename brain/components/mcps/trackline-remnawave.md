@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 24
-pushed_at: "2026-07-30T19:31:55Z"
+pushed_at: "2026-10-20T19:07:35Z"
 ---
 ## What it is
 MCP server `Remnawave`, catalogued on PulseMCP. Integrates with Remnawave VPN proxy management panel for user accounts, node configuration, traffic analytics, and subscription handling.

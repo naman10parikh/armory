@@ -8,11 +8,11 @@ source_url: https://github.com/jonradoff/lastsaas
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 176
+stars: 177
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 63
+forks: 62
 pushed_at: "2026-10-17T00:33:01Z"
 ---
 ## What it is

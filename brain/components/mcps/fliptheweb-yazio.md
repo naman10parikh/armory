@@ -8,12 +8,12 @@ source_url: https://github.com/fliptheweb/yazio-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 68
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 22
-pushed_at: "2026-08-13T06:23:48Z"
+forks: 23
+pushed_at: "2026-10-23T14:09:28Z"
 ---
 ## What it is
 MCP server `Yazio`, catalogued on PulseMCP. Access user nutrition data and food diary from Yazio tracking app

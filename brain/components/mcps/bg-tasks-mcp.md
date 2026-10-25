@@ -8,13 +8,13 @@ source_url: https://github.com/rookie136/bg-tasks-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T09:12:43Z"
+pushed_at: "2026-10-21T07:18:58Z"
 ---
 ## What it is
 MCP server that enables AI agents to start, monitor, and stop background processes like dev servers, builds, and tests, with a web dashboard.

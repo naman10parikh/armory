@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T10:30:52Z"
+pushed_at: "2026-10-25T10:25:17Z"
 ---
 ## What it is
 Read-only, unauthenticated remote MCP server for public Wavedash docs, providing SDK guidance, engine setup help, and publishing checklists for agents.

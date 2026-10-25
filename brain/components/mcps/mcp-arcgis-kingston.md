@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:49:05Z"
+pushed_at: "2026-10-23T03:53:42Z"
 ---
 ## What it is
 Enables querying and searching City of Kingston GIS open geospatial datasets (parcels, zoning, transit, city services) via ArcGIS Feature Services.

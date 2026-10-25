@@ -8,13 +8,13 @@ source_url: https://github.com/Zhonghao1995/agentic-swmm-workflow
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 30
+stars: 31
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 15
-pushed_at: "2026-09-26T11:54:00Z"
+pushed_at: "2026-10-22T07:11:40Z"
 ---
 ## What it is
 Eleven local stdio MCP servers exposing a reproducible EPA SWMM stormwater-modelling workflow: model building, simulation with run manifests and continuity checks, calibration, GIS/QGIS, design storms and climate scenarios, uncertainty analysis, plotting, and modelling memory.

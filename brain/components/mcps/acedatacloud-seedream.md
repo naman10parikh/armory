@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-18T15:02:15Z"
+pushed_at: "2026-10-19T02:40:36Z"
 ---
 ## What it is
 MCP server `AceDataCloud Seedream`, catalogued on PulseMCP. ByteDance Seedream AI image generation through the AceDataCloud API platform.

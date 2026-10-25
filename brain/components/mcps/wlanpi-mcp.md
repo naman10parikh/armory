@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-14T15:45:16Z"
+pushed_at: "2026-10-25T01:40:44Z"
 ---
 ## What it is
 An MCP server that exposes WLAN Pi capabilities like device info, Wi-Fi scanning, service management, and VLANs to AI assistants via the wlanpi-core REST API.

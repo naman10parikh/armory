@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-17T16:11:11Z"
+pushed_at: "2026-10-24T01:24:03Z"
 ---
 ## What it is
 Enables search and retrieval of travel data from TripAdvisor, including hotels, restaurants, and attractions, with details, photos, and reviews.

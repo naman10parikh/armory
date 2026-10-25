@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-14T08:04:07Z"
+pushed_at: "2026-10-25T09:53:53Z"
 ---
 ## What it is
 Full-text and structural code search for a large monorepo, exposing results as MCP tools so Claude can query the codebase directly without copy-pasting.

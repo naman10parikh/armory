@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-09-25T15:39:06Z"
+pushed_at: "2026-10-22T16:16:38Z"
 ---
 ## What it is
 MCP server `libSQL Database`, catalogued on PulseMCP. Provides secure database operations for libSQL/SQLite databases

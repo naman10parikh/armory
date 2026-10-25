@@ -8,13 +8,13 @@ source_url: https://github.com/hedging8563/tokenlab-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-15T06:21:30Z"
+pushed_at: "2026-10-24T10:24:16Z"
 ---
 ## What it is
 Read-only MCP server that exposes public TokenLab model catalog tools for agents to discover models, inspect request contracts, and compare pricing.

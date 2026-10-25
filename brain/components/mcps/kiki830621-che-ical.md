@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-10-14T23:45:25Z"
+pushed_at: "2026-10-25T09:38:21Z"
 ---
 ## What it is
 MCP server `macOS Calendar & Reminders`, catalogued on PulseMCP. Manages macOS Calendar events and Reminders using native Swift EventKit, supporting iCloud, Google, Exchange, and CalDAV accounts.

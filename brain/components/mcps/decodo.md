@@ -8,12 +8,12 @@ source_url: https://github.com/decodo/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
-pushed_at: "2026-10-16T12:03:00Z"
+forks: 14
+pushed_at: "2026-10-23T08:14:38Z"
 ---
 ## What it is
 MCP server `Decodo Web Scraper`, catalogued on PulseMCP. Professional web scraping with geo-targeting, anti-detection, and specialized tools for Google, Amazon, and Reddit

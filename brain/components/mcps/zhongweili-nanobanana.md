@@ -8,12 +8,12 @@ source_url: https://github.com/zhongweili/nanobanana-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 400
+stars: 402
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 115
-pushed_at: "2026-10-07T00:47:33Z"
+forks: 114
+pushed_at: "2026-10-20T03:07:09Z"
 ---
 ## What it is
 MCP server `NanoBanana Image Gen`, catalogued on PulseMCP. AI-powered image generation and editing using Google's Gemini models

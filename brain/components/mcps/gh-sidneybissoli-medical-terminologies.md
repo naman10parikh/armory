@@ -12,8 +12,8 @@ stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
-pushed_at: "2026-10-15T22:55:13Z"
+forks: 6
+pushed_at: "2026-10-23T00:43:40Z"
 ---
 ## What it is
 MCP server `Medical Terminologies`, catalogued on PulseMCP. Unified access to global medical terminologies: ICD-11, SNOMED CT, LOINC, RxNorm, MeSH, ATC, CID-10.

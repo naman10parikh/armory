@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-06-17T08:20:03Z"
+pushed_at: "2026-10-20T03:58:22Z"
 ---
 ## What it is
 Enables users to create, manage, and monitor Meta (Facebook/Instagram) ad campaigns directly from Claude using natural language.

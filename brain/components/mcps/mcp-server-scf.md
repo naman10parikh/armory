@@ -8,13 +8,13 @@ source_url: https://github.com/MarkAC007/mcp-server-scf
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-15T11:12:15Z"
+pushed_at: "2026-10-19T19:48:39Z"
 ---
 ## What it is
 Enables AI agents to interact with the SCF Controls Platform for security compliance, including browsing controls, tracking implementation, managing evidence, assessing risks, and monitoring vendors via natural language.

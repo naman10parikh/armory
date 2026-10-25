@@ -8,13 +8,13 @@ source_url: https://github.com/VoltAgent/awesome-claude-design
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 4119
+stars: 4211
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 456
+forks: 464
 pushed_at: "2026-06-20T17:54:18Z"
 ---
 ## What it is

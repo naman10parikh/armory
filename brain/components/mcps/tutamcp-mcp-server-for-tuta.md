@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-14T22:21:35Z"
+pushed_at: "2026-10-22T23:01:06Z"
 ---
 ## What it is
 MCP server giving Claude access to Tuta mail, calendar, contacts and drive. Supports mail modes (dedicated/shared/folder), trusted sender filtering with E2E verification, and Docker-based setup.

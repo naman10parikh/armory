@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 23
-pushed_at: "2026-10-17T21:36:42Z"
+pushed_at: "2026-10-21T08:59:39Z"
 ---
 ## What it is
 MCP server `Scaffold Generator`, catalogued on PulseMCP. Generates code scaffolding for modern web applications using template-based boilerplate creation and feature addition with variable substitution, conditional file inclusion, and schema validation for rapid prototyping and consistent development patterns.

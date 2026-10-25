@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:23:30Z"
+pushed_at: "2026-10-24T21:45:58Z"
 ---
 ## What it is
 Enables searching and querying Virginia Open Data (datahub.va.gov) via the Socrata API, providing tools to search datasets, run SoQL queries, and retrieve metadata.

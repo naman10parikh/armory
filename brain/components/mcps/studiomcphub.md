@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-16T19:59:48Z"
+pushed_at: "2026-10-24T10:06:53Z"
 ---
 ## What it is
 MCP server `StudioMCPHub`, catalogued on PulseMCP. Creative AI tools for image generation, upscaling, background removal, vectorization, and art datasets.

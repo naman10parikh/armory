@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-28T12:43:19Z"
+pushed_at: "2026-10-24T08:45:27Z"
 ---
 ## What it is
 Connects Off Grid mobile app to Cubiczan's multi-agent intelligence, exposing agent orchestration as an OpenAI-compatible API endpoint.

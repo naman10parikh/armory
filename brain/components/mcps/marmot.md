@@ -8,12 +8,12 @@ source_url: https://github.com/marmotdata/marmot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 622
+stars: 625
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 32
-pushed_at: "2026-10-13T21:47:16Z"
+forks: 31
+pushed_at: "2026-10-24T15:35:48Z"
 ---
 ## What it is
 MCP server `Marmot Data Catalog`, catalogued on PulseMCP. Open-source data catalog with asset search, lineage exploration, and ownership tracking.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T10:08:11Z"
+pushed_at: "2026-10-20T08:50:29Z"
 ---
 ## What it is
 Persistent semantic memory for AI agents using PostgreSQL and vector embeddings, enabling cross-session continuity and semantic search.

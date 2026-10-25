@@ -8,13 +8,13 @@ source_url: https://github.com/Kaelio/ktx
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1618
+stars: 1624
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 126
-pushed_at: "2026-10-17T14:29:39Z"
+forks: 107
+pushed_at: "2026-10-22T13:07:14Z"
 ---
 ## What it is
 ktx is an MCP server that provides agents with accurate warehouse querying by serving a self-improving context layer of approved metrics, joinable columns, and business knowledge through CLI and MCP tools.

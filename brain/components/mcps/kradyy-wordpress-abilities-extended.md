@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-12T14:16:16Z"
+pushed_at: "2026-10-20T09:47:07Z"
 ---
 ## What it is
 MCP server `WordPress Abilities Extended`, catalogued on PulseMCP. WordPress plugin providing comprehensive MCP abilities for content management, Gutenberg patterns, user administration, plugin control, media handling, and taxonomy operations through WordPress 6.9+ Abilities API.

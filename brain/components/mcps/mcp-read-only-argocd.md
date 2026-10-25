@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T18:33:33Z"
+pushed_at: "2026-10-22T15:15:18Z"
 ---
 ## What it is
 A secure MCP server providing read-only access to Argo CD instances using browser session cookies, enabling querying of applications, projects, clusters, and repositories.

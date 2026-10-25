@@ -8,14 +8,14 @@ source_url: https://github.com/rorkai/App-Store-Connect-CLI
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 7960
+stars: 8035
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 681
-pushed_at: "2026-10-17T18:58:10Z"
+forks: 690
+pushed_at: "2026-10-25T03:09:47Z"
 ---
 ## What it is
 Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more

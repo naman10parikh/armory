@@ -8,12 +8,12 @@ source_url: https://github.com/getmarrow/marrow-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-17T03:25:52Z"
+pushed_at: "2026-10-25T06:34:36Z"
 ---
 ## What it is
 MCP server `Marrow`, catalogued on PulseMCP. AI memory and decision intelligence system with auto-logging, performance tracking, and workflow templates.

@@ -8,14 +8,14 @@ source_url: https://github.com/huginn/huginn
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 50074
+stars: 50131
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 4310
-pushed_at: "2026-10-18T12:51:25Z"
+forks: 4315
+pushed_at: "2026-10-24T19:12:51Z"
 ---
 ## What it is
 Create agents that monitor and act on your behalf.  Your agents are standing by!

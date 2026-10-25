@@ -8,13 +8,13 @@ source_url: https://github.com/plur-ai/plur
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 306
+stars: 308
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 37
-pushed_at: "2026-10-18T14:34:57Z"
+pushed_at: "2026-10-23T09:35:46Z"
 ---
 ## What it is
 Open, local-first engram memory for AI agents: read, correct, and delete what your agent remembers. Works across Claude Code, Hermes, OpenClaw, and Cursor over MCP.

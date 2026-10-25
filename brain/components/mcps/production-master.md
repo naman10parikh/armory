@@ -8,13 +8,13 @@ source_url: https://github.com/ProductionMasterAI/production-master
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T23:58:30Z"
+pushed_at: "2026-10-25T01:01:14Z"
 ---
 ## What it is
 Enables triggering, streaming, and reviewing autonomous production-incident investigations directly from your editor, with human-gated approval for any mutating actions.

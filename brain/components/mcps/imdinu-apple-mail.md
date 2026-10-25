@@ -8,11 +8,11 @@ source_url: https://github.com/imdinu/apple-mail-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 72
+stars: 74
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 28
+forks: 29
 pushed_at: "2026-10-08T15:41:41Z"
 ---
 ## What it is

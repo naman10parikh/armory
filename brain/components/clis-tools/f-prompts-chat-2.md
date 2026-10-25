@@ -9,14 +9,14 @@ source_url: https://github.com/f/prompts.chat
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 173320
+stars: 174470
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 22168
-pushed_at: "2026-10-18T03:17:54Z"
+forks: 22289
+pushed_at: "2026-10-25T10:24:08Z"
 ---
 ## What it is
 f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.

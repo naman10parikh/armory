@@ -8,12 +8,12 @@ source_url: https://github.com/khromov/svelte-llm-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 158
+stars: 159
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-02-14T01:03:57Z"
+pushed_at: "2026-10-25T01:28:58Z"
 ---
 ## What it is
 MCP server `Svelte Documentation`, catalogued on PulseMCP. Provides Svelte 5 and SvelteKit documentation access with automated content syncing from the official repository, offering both raw and AI-optimized distilled versions with scheduled updates to keep framework documentation current.

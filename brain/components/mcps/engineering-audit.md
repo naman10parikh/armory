@@ -8,13 +8,13 @@ source_url: https://github.com/rodlunt/engineering-audit
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-11T03:53:58Z"
+forks: 1
+pushed_at: "2026-10-25T03:53:04Z"
 ---
 ## What it is
 MCP server that enables AI coding assistants to audit repositories against engineering rules, generating self-contained HTML reports with citations and optional GitHub issue filing.

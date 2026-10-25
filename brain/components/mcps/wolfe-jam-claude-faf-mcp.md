@@ -13,7 +13,7 @@ related: []
 tags: [mcp, developer-tools]
 stars: 23
 forks: 8
-pushed_at: "2026-10-15T03:13:27Z"
+pushed_at: "2026-10-23T17:50:20Z"
 ---
 ## What it is
 First & only persistent project context MCP. Provides .faf (Foundational AI-context Format) Project DNA with 33+ tools, Podium scoring (0-100%), and format-driven architecture. Official Anthropic Registry. 10k+ npm downloads.

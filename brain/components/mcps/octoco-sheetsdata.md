@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-16T17:47:18Z"
+pushed_at: "2026-10-21T23:14:59Z"
 ---
 ## What it is
 MCP server `SheetsData`, catalogued on PulseMCP. Provides structured electronic component datasheet data including specs, pinouts, and package information.

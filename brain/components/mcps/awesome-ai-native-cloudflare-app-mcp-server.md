@@ -8,13 +8,13 @@ source_url: https://github.com/vibegui/awesome-ai-native-cloudflare-app
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-25T11:00:53Z"
+pushed_at: "2026-10-19T01:03:03Z"
 ---
 ## What it is
 Enables AI agents to interact with the app via MCP tools and resources, supporting self-improvement through goal-setting and metrics tracking on Cloudflare Workers.

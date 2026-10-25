@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-23T17:34:38Z"
+pushed_at: "2026-10-21T16:03:19Z"
 ---
 ## What it is
 Connects AI agents to the ODGS Sovereign Validation Engine for deterministic governance enforcement, producing cryptographically signed S-Certs for auditable compliance with regulations like EU AI Act.

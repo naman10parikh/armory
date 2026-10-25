@@ -8,12 +8,12 @@ source_url: https://github.com/enuno/unifi-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 294
+stars: 309
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 56
-pushed_at: "2026-10-15T20:00:18Z"
+forks: 58
+pushed_at: "2026-10-24T17:54:43Z"
 ---
 ## What it is
 MCP server `UniFi by enuno`, catalogued on PulseMCP. Manage UniFi network devices, clients, and settings through the official UniFi API.

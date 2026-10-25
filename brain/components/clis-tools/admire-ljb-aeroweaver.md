@@ -8,13 +8,13 @@ source_url: https://github.com/Admire-ljb/AeroWeaver
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 6
+stars: 14
 eval_score: 1
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 0
+forks: 2
 pushed_at: "2026-10-05T08:00:01Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T07:01:53Z"
+pushed_at: "2026-10-22T21:52:51Z"
 ---
 ## What it is
 Plug-and-play monetization SDK for MCP tools and TypeScript APIs. Monetize AI agent workflows instantly with x402 V2 micropayments and Base revenue splits.

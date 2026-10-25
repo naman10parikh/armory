@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-10-13T10:33:34Z"
+pushed_at: "2026-10-21T07:01:07Z"
 ---
 ## What it is
 MCP server `CoinStats`, catalogued on PulseMCP. Provides real-time cryptocurrency market data, portfolio tracking, and news through direct access to the CoinStats API for retrieving coin information, market trends, wallet balances, and exchange integrations.

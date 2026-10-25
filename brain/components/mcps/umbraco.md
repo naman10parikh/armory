@@ -12,8 +12,8 @@ stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
-pushed_at: "2026-10-15T12:04:22Z"
+forks: 6
+pushed_at: "2026-10-22T02:04:24Z"
 ---
 ## What it is
 MCP server `Umbraco CMS Developer`, catalogued on PulseMCP. Integrates AI agents with Umbraco CMS through the Management API

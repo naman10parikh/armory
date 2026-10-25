@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-12T10:05:57Z"
+pushed_at: "2026-10-20T08:51:24Z"
 ---
 ## What it is
 An MCP server that integrates DeepSeek's web-native multimodal vision model into Zed, featuring automatic browser login and image analysis tools. It enables vision-powered tasks like image understanding and multi-turn conversations directly within the editor.

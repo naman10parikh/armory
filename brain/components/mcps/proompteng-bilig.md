@@ -13,7 +13,7 @@ related: []
 tags: [mcp, workplace-productivity]
 stars: 35
 forks: 18
-pushed_at: "2026-10-13T12:28:18Z"
+pushed_at: "2026-10-19T12:41:21Z"
 ---
 ## What it is
 Headless WorkPaper MCP server for spreadsheet formulas, workbook edits, JSON persistence, and verified readback from TypeScript services.

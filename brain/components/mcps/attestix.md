@@ -8,13 +8,13 @@ source_url: https://github.com/VibeTensor/attestix
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 874
+stars: 837
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 87
-pushed_at: "2026-10-15T00:47:37Z"
+forks: 75
+pushed_at: "2026-10-23T02:21:47Z"
 ---
 ## What it is
 MCP server for compliance automation of AI agents, enabling EU AI Act compliance, verifiable credentials, and decentralized identity management with 47 tools across 9 modules.

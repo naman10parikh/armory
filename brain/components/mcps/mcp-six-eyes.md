@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:12:02Z"
+pushed_at: "2026-10-21T01:39:42Z"
 ---
 ## What it is
 MCP server that gives text-only AI agents the ability to understand images via vision tools, including multi-image analysis, OCR, comparison, and structured extraction. It uses providers like OpenAI, Anthropic, Gemini, and OpenRouter to return plain text descriptions.

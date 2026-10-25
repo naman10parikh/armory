@@ -8,12 +8,12 @@ source_url: https://github.com/gmacev/simple-memory-extension-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-30T20:27:28Z"
+pushed_at: "2026-10-19T18:11:13Z"
 ---
 ## What it is
 MCP server `Simple Memory Extension`, catalogued on PulseMCP. Persistent key-value memory store with semantic search using SQLite and E5 embeddings, enabling contextual information retrieval and long-term memory extension for complex multi-step tasks.

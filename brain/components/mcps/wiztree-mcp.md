@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T13:30:27Z"
+pushed_at: "2026-10-21T13:26:41Z"
 ---
 ## What it is
 Read-only MCP server that wraps WizTree's CSV export and adds disk-usage analysis tools, enabling file system scanning and analysis via natural language.

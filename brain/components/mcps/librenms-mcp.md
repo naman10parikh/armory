@@ -8,13 +8,13 @@ source_url: https://github.com/mhajder/librenms-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 41
+stars: 42
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-10-13T08:20:48Z"
+pushed_at: "2026-10-23T20:36:20Z"
 ---
 ## What it is
 LibreNMS MCP Server is a Python-based Model Context Protocol (MCP) server designed to provide advanced, programmable access to LibreNMS network monitoring data and management features, enabling querying devices, ports, alerts, inventory, and more.

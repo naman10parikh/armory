@@ -8,13 +8,13 @@ source_url: https://github.com/ru551n/vhdl-rag-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T09:51:28Z"
+pushed_at: "2026-10-23T07:59:33Z"
 ---
 ## What it is
 Provides coding agents with hybrid semantic and exact-identifier search across VHDL source, documentation, and general code, with cross-referencing and exact source attribution.

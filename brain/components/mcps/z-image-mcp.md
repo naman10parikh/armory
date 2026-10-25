@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T11:40:45Z"
+pushed_at: "2026-10-22T08:09:10Z"
 ---
 ## What it is
 Enables text-to-image generation using Z Image models via RunAPI, with task management and pricing lookup.

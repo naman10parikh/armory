@@ -8,12 +8,12 @@ source_url: https://github.com/iFurySt/open-browser-use
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 377
+stars: 397
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 39
+forks: 40
 pushed_at: "2026-10-15T10:05:09Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/houtini-ai/seo-audit
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 60
+stars: 86
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-10-17T21:43:53Z"
+forks: 5
+pushed_at: "2026-10-25T08:18:15Z"
 ---
 ## What it is
 Merges your Google Search Console data with a live crawl of your site to run a comprehensive technical SEO audit inside Claude, providing prioritized findings and paste-ready fixes.

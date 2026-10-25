@@ -8,11 +8,11 @@ source_url: https://github.com/coleam00/remote-mcp-server-with-auth
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 300
+stars: 302
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 144
+forks: 143
 pushed_at: "2025-07-11T19:07:26Z"
 ---
 ## What it is

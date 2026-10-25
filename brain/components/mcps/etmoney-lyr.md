@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T09:35:47Z"
+pushed_at: "2026-10-21T04:02:45Z"
 ---
 ## What it is
 Enables AI agents to query ET Money research surfaces without an official API, exposing mutual fund categories, detailed fund report cards, comparisons, stock screens, and NIFTY sector constituents as typed MCP tools.

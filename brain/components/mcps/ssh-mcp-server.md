@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-16T20:04:58Z"
+pushed_at: "2026-10-23T00:17:03Z"
 ---
 ## What it is
 Enables remote Linux server management via SSH, allowing command execution and system administration through natural language.

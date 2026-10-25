@@ -8,11 +8,11 @@ source_url: https://github.com/zboralski/ida-headless-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
+forks: 1
 pushed_at: "2026-07-14T10:05:40Z"
 ---
 ## What it is

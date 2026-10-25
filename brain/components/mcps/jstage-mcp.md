@@ -8,13 +8,13 @@ source_url: https://github.com/ckgerteis/jstage-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T16:09:19Z"
+pushed_at: "2026-10-19T08:58:03Z"
 ---
 ## What it is
 Exposes J-STAGE WebAPI as four tools for searching articles, issues, journals, and resolving DOIs, returning bilingual JSON with attribution.

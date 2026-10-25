@@ -8,13 +8,13 @@ source_url: https://github.com/TranscriptFetch/mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-02T14:50:11Z"
+pushed_at: "2026-10-23T20:45:26Z"
 ---
 ## What it is
 Enables fetching YouTube transcripts, searching videos, and listing channel/playlist videos via the TranscriptFetch API.

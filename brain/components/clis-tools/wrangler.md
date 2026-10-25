@@ -7,14 +7,14 @@ source_url: https://github.com/cloudflare/workers-sdk
 license: unknown
 cli_compat: []
 maturity: stable
-stars: 4634
+stars: 4659
 eval_score: 1
 mentions: null
 verified_at: 
 related: []
 tags: [deploy-infra]
-forks: 1600
-pushed_at: "2026-10-18T14:25:52Z"
+forks: 1614
+pushed_at: "2026-10-25T08:51:43Z"
 ---
 
 # wrangler

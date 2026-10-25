@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T03:07:17Z"
+pushed_at: "2026-10-23T10:52:10Z"
 ---
 ## What it is
 An MCP server that judges hardware behavior against timing or serial contracts, returning pass/marginal/fail verdicts for coding agents to iterate on real signal measurements.

@@ -8,12 +8,12 @@ source_url: https://github.com/Goldentrii/AgentRecall-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 371
+stars: 372
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 58
+forks: 59
 pushed_at: "2026-10-16T12:40:57Z"
 ---
 ## What it is

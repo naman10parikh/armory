@@ -12,8 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-09-14T14:09:14Z"
+forks: 1
+pushed_at: "2026-10-22T11:16:56Z"
 ---
 ## What it is
 MCP server `Infomaniak`, catalogued on PulseMCP. Unofficial MCP server for Infomaniak cloud services covering web hosting, DNS, mail, kDrive, domains, SSL, and more via 59 tools.

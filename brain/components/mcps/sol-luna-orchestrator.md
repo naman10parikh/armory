@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T05:14:18Z"
+pushed_at: "2026-10-19T21:17:08Z"
 ---
 ## What it is
 An MCP server that enables a supervising OpenAI Codex agent to delegate bounded implementation tasks to isolated worker threads with enforced file scopes and verification, optionally running in parallel git worktrees.

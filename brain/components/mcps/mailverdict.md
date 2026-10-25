@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T09:41:36Z"
+pushed_at: "2026-10-25T09:53:25Z"
 ---
 ## What it is
 Keyless email validation: disposable/burner, role-account, and free-provider detection, MX checks, and typo suggestions. Tools: check_email, check_domain.

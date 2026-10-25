@@ -8,11 +8,11 @@ source_url: https://github.com/mrexodia/ida-pro-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12994
+stars: 13142
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1683
+forks: 1583
 pushed_at: "2026-09-26T15:42:10Z"
 ---
 ## What it is

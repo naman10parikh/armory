@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-14T16:06:41Z"
+pushed_at: "2026-10-19T16:45:43Z"
 ---
 ## What it is
 MCP server for Proofpoint Email Protection - email security, threat intelligence, TAP (Targeted Attack Protection), and email filtering API integration

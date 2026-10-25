@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T16:02:59Z"
+pushed_at: "2026-10-19T13:53:45Z"
 ---
 ## What it is
 A code-mode MCP server for the Unraid 7.2+ GraphQL API that exposes search and execute tools, allowing LLM agents to introspect and call any GraphQL field via sandboxed JavaScript.

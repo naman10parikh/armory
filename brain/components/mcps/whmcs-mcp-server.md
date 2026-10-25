@@ -8,13 +8,13 @@ source_url: https://github.com/yashodhank/whmcs-mcp-server
 license: ISC License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-14T19:41:49Z"
+pushed_at: "2026-10-25T00:54:56Z"
 ---
 ## What it is
 Enables AI agents to administrate WHMCS installations through the External API, providing ~50 tools for clients, billing, orders, services, domains, support, and aggregators with safety features and governance.

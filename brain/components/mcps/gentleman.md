@@ -8,13 +8,13 @@ source_url: https://github.com/madebyman/gentleman
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T21:53:14Z"
+pushed_at: "2026-10-24T10:58:53Z"
 ---
 ## What it is
 A declarative AI agent server that provides MCP for tools, A2A for agents, and AG-UI for humans, enabling interactive chat and agent orchestration.

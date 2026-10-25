@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-13T22:06:17Z"
+pushed_at: "2026-10-23T17:41:56Z"
 ---
 ## What it is
 MCP server for controlling the Unity Editor from AI clients. 140+ tools for scenes, GameObjects, components, assets, Shader Graph, PlayTest DSL, screenshots with visual diff, batch operations with Undo rollback, and in-editor chat. Token-efficient plain-text protocol.

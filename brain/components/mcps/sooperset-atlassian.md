@@ -8,11 +8,11 @@ source_url: https://github.com/sooperset/mcp-atlassian
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6014
+stars: 6043
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1403
+forks: 1419
 pushed_at: "2026-09-19T10:20:14Z"
 ---
 ## What it is

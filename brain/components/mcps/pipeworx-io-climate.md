@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-25T22:53:01Z"
+pushed_at: "2026-10-24T03:51:10Z"
 ---
 ## What it is
 MCP server `Climate Data`, catalogued on PulseMCP. Historical and projected climate data via the Open-Meteo Climate API, free with no authentication required.

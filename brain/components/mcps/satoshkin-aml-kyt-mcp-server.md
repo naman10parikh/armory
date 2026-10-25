@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-12T16:11:39Z"
+pushed_at: "2026-10-23T19:34:22Z"
 ---
 ## What it is
 MCP server for AML/KYT crypto wallet screening, enabling AI clients to check wallet risk scores, source-of-funds tags, activity dates, and volume totals via Satoshkin backend.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 20
-pushed_at: "2026-10-15T09:13:30Z"
+pushed_at: "2026-10-22T19:14:30Z"
 ---
 ## What it is
 MCP server `Azure Containerization Assist`, catalogued on PulseMCP. AI-powered containerization workflows with Docker builds, security scanning, Kubernetes deployment, and OPA policy enforcement.

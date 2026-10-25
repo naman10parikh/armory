@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T06:54:23Z"
+pushed_at: "2026-10-20T08:02:35Z"
 ---
 ## What it is
 MCP server enabling AI coding agents to seal work into cryptographically signed ProofPackets and verify them, catching forged completion claims and enforcing spec-bound acceptance criteria.

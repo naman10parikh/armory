@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T07:41:27Z"
+pushed_at: "2026-10-20T06:52:02Z"
 ---
 ## What it is
 Cross-platform MCP server for policy-controlled command execution on Linux and Windows, with no SSH dependency.

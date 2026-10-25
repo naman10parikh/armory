@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T22:53:24Z"
+pushed_at: "2026-10-24T07:31:25Z"
 ---
 ## What it is
 Provides persistent memory for coding agents and grounds their claims by verifying against the actual codebase, preventing hallucinated responses.

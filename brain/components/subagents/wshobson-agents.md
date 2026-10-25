@@ -8,14 +8,14 @@ source_url: https://github.com/wshobson/agents
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 40997
+stars: 41676
 eval_score: null
 mentions: 0
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, subagent]
-forks: 4355
-pushed_at: "2026-10-17T21:39:17Z"
+forks: 4419
+pushed_at: "2026-10-24T01:02:05Z"
 ---
 ## What it is
 Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity

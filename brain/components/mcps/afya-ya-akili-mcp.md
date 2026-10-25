@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T12:29:28Z"
+pushed_at: "2026-10-23T01:08:36Z"
 ---
 ## What it is
 Provides mental health resources for Kenya including therapist finder, crisis lines, rights under Kenya Mental Health Act, workplace wellness, and self-help resources.

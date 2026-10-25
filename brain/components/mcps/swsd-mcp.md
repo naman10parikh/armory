@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-13T17:41:27Z"
+pushed_at: "2026-10-24T01:27:04Z"
 ---
 ## What it is
 MCP server for SolarWinds Service Desk (SWSD/Samanage) enabling reading and modifying tickets, comments, knowledge-base articles, and more via each user's own API token.

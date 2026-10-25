@@ -8,13 +8,13 @@ source_url: https://github.com/Ethersflow/EthersFlow
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T01:41:18Z"
+pushed_at: "2026-10-24T18:41:41Z"
 ---
 ## What it is
 Enables AI agents to verify proposed actions through federated adversarial consensus among multiple LLMs, providing Ed25519-signed attestations to prevent hallucinations, unverified counterparties, and compliance risks before execution.

@@ -8,14 +8,14 @@ source_url: https://github.com/xai-org/x-algorithm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 33676
+stars: 33772
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 5450
-pushed_at: "2026-10-17T00:44:31Z"
+forks: 5457
+pushed_at: "2026-10-24T03:22:46Z"
 ---
 ## What it is
 Algorithm powering the For You feed on X

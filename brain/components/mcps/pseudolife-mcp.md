@@ -8,13 +8,13 @@ source_url: https://github.com/Pseudogiant-xr/Pseudolife-MCP
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-18T14:24:51Z"
+pushed_at: "2026-10-25T09:46:50Z"
 ---
 ## What it is
 Enables persistent long-term memory for Claude Code across sessions, with tools for storing, searching, and managing facts, knowledge graphs, and procedural lessons.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-10T10:03:38Z"
+pushed_at: "2026-10-20T12:06:21Z"
 ---
 ## What it is
 Enables AI assistants to read and manage your Bring! shopping lists through natural language commands like adding items, marking purchases, and retrieving list contents.

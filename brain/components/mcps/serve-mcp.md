@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T19:27:16Z"
+pushed_at: "2026-10-21T12:11:26Z"
 ---
 ## What it is
 A local MCP-controlled artifact shelf for agents to publish generated content with stable preview URLs. Provides a shared SQLite registry and HTTP gallery for human browsing.

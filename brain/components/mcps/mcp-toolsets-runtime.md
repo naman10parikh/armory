@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T16:17:50Z"
+pushed_at: "2026-10-21T10:08:01Z"
 ---
 ## What it is
 A shared runtime that discovers LangChain tools from a toolset package and serves them as an MCP server, with optional UI views and a CLI for managing tools.

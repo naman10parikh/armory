@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-16T14:29:26Z"
+pushed_at: "2026-10-20T06:33:52Z"
 ---
 ## What it is
 Enables AI agents to manage LinkedIn content through Taplio, including drafting, scheduling, publishing posts, and analytics.

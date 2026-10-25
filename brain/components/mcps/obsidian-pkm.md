@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-14T13:35:45Z"
+pushed_at: "2026-10-22T11:52:25Z"
 ---
 ## What it is
 This MCP server enables Claude to interact with an Obsidian vault for persistent, structured memory, providing tools for note creation, semantic search, graph traversal, and session memory.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-04T07:50:44Z"
+pushed_at: "2026-10-23T20:16:02Z"
 ---
 ## What it is
 MCP server for NTUT iSchool+ that enables AI to query course schedules, syllabi, files, bulletins, and more through natural language.

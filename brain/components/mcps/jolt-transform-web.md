@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-17T14:31:59Z"
+pushed_at: "2026-10-25T01:43:18Z"
 ---
 ## What it is
 MCP server `JOLT Transform Web`, catalogued on PulseMCP. Bazaarvoice JOLT transformation capabilities via MCP.

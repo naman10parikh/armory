@@ -8,13 +8,13 @@ source_url: https://github.com/trueoriginlabs/vibatchium
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-17T11:00:40Z"
+pushed_at: "2026-10-22T13:52:45Z"
 ---
 ## What it is
 MCP server for agent-piloted browser automation that clears Cloudflare, providing multi-session parallel Chromes, persistent profiles, stealth features, credential vault, and vision-first clicking.

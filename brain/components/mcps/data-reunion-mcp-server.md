@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:21:15Z"
+pushed_at: "2026-10-24T21:43:35Z"
 ---
 ## What it is
 Enables searching, querying, and metadata retrieval for Réunion Open Data datasets via ODSQL, allowing AI agents to access regional services, transport, environment, and economy data.

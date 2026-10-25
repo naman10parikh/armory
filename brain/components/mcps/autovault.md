@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-25T14:53:49Z"
+pushed_at: "2026-10-22T18:39:32Z"
 ---
 ## What it is
 AutoVault is an MCP server that provides a local-first vault for AI agent skills, enabling validation, signing, and serving of SKILL.md files to agents through stdio or HTTP.

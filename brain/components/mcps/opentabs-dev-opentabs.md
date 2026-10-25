@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
-stars: 988
-forks: 99
-pushed_at: "2026-10-17T04:46:37Z"
+stars: 994
+forks: 102
+pushed_at: "2026-10-24T04:46:24Z"
 ---
 ## What it is
 Plugin-based MCP server + Chrome extension that gives AI agents access to web applications through the user's authenticated browser session. 100+ plugins with a plugin SDK for building new ones.

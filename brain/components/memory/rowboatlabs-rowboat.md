@@ -8,14 +8,14 @@ source_url: https://github.com/rowboatlabs/rowboat
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 18032
+stars: 18084
 eval_score: null
 mentions: 2
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, memory]
-forks: 1805
-pushed_at: "2026-10-16T05:47:57Z"
+forks: 1809
+pushed_at: "2026-10-25T10:36:22Z"
 ---
 ## What it is
 AI coworker with memory and collaboration

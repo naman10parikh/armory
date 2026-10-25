@@ -8,11 +8,11 @@ source_url: https://github.com/bschoepke/ableton-live-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 230
+stars: 234
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
+forks: 14
 pushed_at: "2026-10-06T00:10:39Z"
 ---
 ## What it is

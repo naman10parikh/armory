@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-14T14:40:16Z"
+pushed_at: "2026-10-20T03:14:03Z"
 ---
 ## What it is
 Mac window manager AI agents can drive: see every monitor and window, apply multi-monitor layouts in one call, save and relaunch whole workspaces, snap zones, keep-awake, and annotated screenshots. Backed by a native macOS menu bar app over a local-only loopback API — no cloud, no telemetry.

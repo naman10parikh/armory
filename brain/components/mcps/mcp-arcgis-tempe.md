@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:58:29Z"
+pushed_at: "2026-10-23T04:04:35Z"
 ---
 ## What it is
 Enables querying and searching City of Tempe open geospatial datasets (parcels, zoning, etc.) through ArcGIS Feature Services. Supports dataset search, layer querying with SQL-like filters, and schema retrieval.

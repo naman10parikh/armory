@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-28T16:31:38Z"
+pushed_at: "2026-10-21T18:27:04Z"
 ---
 ## What it is
 An MCP server that integrates Kagi Translate as tools for translation, URL translation, and proofreading, requiring a Kagi API key.

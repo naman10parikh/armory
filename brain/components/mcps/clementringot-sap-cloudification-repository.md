@@ -8,11 +8,11 @@ source_url: https://github.com/clementringot/sap-released-objects-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
+forks: 3
 pushed_at: "2026-10-13T20:40:32Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/affaan-m/agentshield
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1297
+stars: 1324
 eval_score: 1
 mentions: 2
 verified_at: 2026-09-26
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 287
+forks: 294
 pushed_at: "2026-10-18T02:39:18Z"
 ---
 ## What it is

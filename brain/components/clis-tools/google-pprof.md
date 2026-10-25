@@ -8,13 +8,13 @@ source_url: https://github.com/google/pprof
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 9308
+stars: 9311
 eval_score: 1
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 682
+forks: 683
 pushed_at: "2026-10-16T15:06:09Z"
 ---
 ## What it is

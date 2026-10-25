@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-04T06:06:06Z"
+pushed_at: "2026-10-24T12:47:39Z"
 ---
 ## What it is
 MCP server `Makuri`, catalogued on PulseMCP. AI tutoring platform for immigrant children with EU-compliant privacy protections.

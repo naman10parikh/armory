@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:17:01Z"
+pushed_at: "2026-10-24T21:38:53Z"
 ---
 ## What it is
 Enables AI agents to search, query, and retrieve metadata from Mesa, Arizona's open data portal (Socrata) using natural language or direct SoQL queries.

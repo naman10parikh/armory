@@ -8,13 +8,13 @@ source_url: https://github.com/potatohoney-p/weasley-deepmind
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T20:17:58Z"
+pushed_at: "2026-10-25T07:18:32Z"
 ---
 ## What it is
 MCP server that gives AI agents persistent long-term memory, storing and recalling facts, decisions, errors, procedures, and episodes across sessions.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T17:20:59Z"
+pushed_at: "2026-10-19T15:40:21Z"
 ---
 ## What it is
 Serves multiple MCP servers from a single PyPI package using subcommands for server selection and optional extras for on-demand dependencies. Demonstrates alpha and beta server variants with different tool sets.

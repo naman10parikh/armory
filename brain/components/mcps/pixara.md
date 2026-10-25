@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-25T18:38:36Z"
+pushed_at: "2026-10-21T13:49:59Z"
 ---
 ## What it is
 An MCP server that gives LLMs direct access to OpenRouter's Image API to generate images, edit/transform existing ones, and browse the model catalog.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-06T08:00:09Z"
+pushed_at: "2026-10-23T06:42:54Z"
 ---
 ## What it is
 MCP server `Octopus LLM Gateway`, catalogued on PulseMCP. Manages a self-hosted Octopus LLM API gateway with tools for channels, API keys, model groups, pricing, and usage statistics.

@@ -8,12 +8,12 @@ source_url: https://github.com/ebin198351-akl/agent-room
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 99
+stars: 104
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 27
+forks: 28
 pushed_at: "2026-10-12T07:20:42Z"
 ---
 ## What it is
