@@ -8,13 +8,13 @@ source_url: https://github.com/Louis-CFM/coucou
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 6407
+stars: 6432
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1031
+forks: 1043
 pushed_at: "2026-10-23T17:25:38Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/worldwidelaw/legal-sources
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 411
+stars: 409
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 83
-pushed_at: "2026-10-25T11:37:08Z"
+pushed_at: "2026-10-25T16:27:01Z"
 ---
 ## What it is
 MCP server `Legal Data Hunter`, catalogued on PulseMCP. Searches 18M+ legal documents worldwide including case law, legislation, and doctrine across 110+ countries.

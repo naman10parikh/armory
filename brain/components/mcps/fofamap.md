@@ -8,12 +8,12 @@ source_url: https://github.com/asaotomo/FofaMap
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 752
+stars: 750
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 102
+forks: 101
 pushed_at: "2026-08-16T17:44:59Z"
 ---
 ## What it is

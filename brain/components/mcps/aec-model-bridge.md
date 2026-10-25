@@ -8,12 +8,12 @@ source_url: https://github.com/Sam-AEC/aec-model-bridge
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 75
+stars: 77
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 22
+forks: 23
 pushed_at: "2026-10-21T07:20:33Z"
 ---
 ## What it is

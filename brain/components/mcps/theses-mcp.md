@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T11:48:58Z"
+pushed_at: "2026-10-25T14:45:16Z"
 ---
 ## What it is
 MCP server that enables searching and retrieving Czech university theses from theses.cz, including full-text search, metadata, and direct PDF downloads with optional cookie-based authentication.

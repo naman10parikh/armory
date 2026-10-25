@@ -8,7 +8,7 @@ source_url: https://github.com/bytebase/dbhub
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3717
+stars: 3718
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

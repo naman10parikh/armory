@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-25T12:23:40Z"
+pushed_at: "2026-10-25T19:27:15Z"
 ---
 ## What it is
 Provides tools to retrieve the GodPrompt universal system prompt and its components (core skill, protocols, gates, anti-patterns) for AI software development, plus task classification. Designed for progressive context usage.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-22T00:34:14Z"
+pushed_at: "2026-10-25T14:33:57Z"
 ---
 ## What it is
 MCP server `Tablestakes`, catalogued on PulseMCP. Read and edit HTML and Markdown tables in GitBook-synced documents with token-efficient pipe format conversion.

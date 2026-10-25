@@ -8,14 +8,14 @@ source_url: https://github.com/nicobailon/pi-web-access
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1685
+stars: 1686
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 307
-pushed_at: "2026-10-25T07:23:34Z"
+pushed_at: "2026-10-25T15:05:37Z"
 ---
 ## What it is
 Web search and content extraction extension for Pi coding agent

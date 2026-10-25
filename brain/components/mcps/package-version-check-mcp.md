@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-25T09:51:11Z"
+pushed_at: "2026-10-25T14:00:45Z"
 ---
 ## What it is
 MCP server `Package Version Check`, catalogued on PulseMCP. Returns the latest stable versions of packages and tools across Python, NPM, Go, Docker, Helm, and other ecosystems.

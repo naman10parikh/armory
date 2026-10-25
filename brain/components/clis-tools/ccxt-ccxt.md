@@ -8,13 +8,13 @@ source_url: https://github.com/ccxt/ccxt
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 44566
+stars: 44575
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 8923
+forks: 8922
 pushed_at: "2026-10-25T08:50:14Z"
 ---
 ## What it is

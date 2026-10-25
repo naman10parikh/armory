@@ -14,7 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 eval_score: 1
 mentions: null
-forks: 404
+forks: 403
 pushed_at: "2026-10-19T19:23:37Z"
 ---
 ## What it is

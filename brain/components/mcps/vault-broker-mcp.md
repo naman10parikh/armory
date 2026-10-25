@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T19:17:07Z"
+pushed_at: "2026-10-25T19:08:17Z"
 ---
 ## What it is
 MCP server that gives Claude scoped, indirect access to Vaultwarden credentials by listing non-secret metadata and performing logins without exposing plaintext passwords. It brokers actions rather than values, keeping secrets out of the LLM context.

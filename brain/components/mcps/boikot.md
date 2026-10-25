@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-24T19:02:45Z"
+pushed_at: "2026-10-25T16:38:53Z"
 ---
 ## What it is
 MCP server `Company Ethics Information (Boikot)`, catalogued on PulseMCP. Learn about the ethical and unethical actions of major companies.

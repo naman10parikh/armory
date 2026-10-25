@@ -8,7 +8,7 @@ source_url: https://github.com/marmotdata/marmot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 625
+stars: 626
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

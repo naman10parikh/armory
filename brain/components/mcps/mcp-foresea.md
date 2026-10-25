@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T12:23:04Z"
+pushed_at: "2026-10-25T19:23:18Z"
 ---
 ## What it is
 Calibrated probability forecasts for any resolvable question — with evidence, prediction-market edge (Polymarket/Kalshi), and a live resolved track record.

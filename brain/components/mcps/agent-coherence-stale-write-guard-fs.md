@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-10-25T12:26:47Z"
+forks: 4
+pushed_at: "2026-10-25T18:57:31Z"
 ---
 ## What it is
 Coherence guard for shared files: when two agents write the same file, the stale writer is denied instead of silently overwriting, then reacquires and retries. Single-host, TLA+-verified.

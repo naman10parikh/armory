@@ -15,7 +15,7 @@ related: []
 tags: [observability, proxy, logging]
 forks: 685
 pushed_at: "2026-10-19T06:06:38Z"
-mentions: 1
+mentions: 2
 ---
 ## What it is
 Open-source LLM observability platform: proxy-based logging, cost tracking, caching, and rate limiting for OpenAI-compatible APIs.

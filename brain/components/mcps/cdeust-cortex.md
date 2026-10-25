@@ -13,7 +13,7 @@ related: []
 tags: [mcp, knowledge-memory]
 stars: 75
 forks: 15
-pushed_at: "2026-10-25T11:32:29Z"
+pushed_at: "2026-10-25T14:09:48Z"
 ---
 ## What it is
 Persistent memory for Claude Code grounded in computational neuroscience (41 cited papers). Thermodynamic decay, hippocampal-cortical consolidation, predictive-coding write gate, WRRF retrieval. PostgreSQL + pgvector, 33 MCP tools, 7 lifecycle hooks. Benchmarked 97.8% R@10 on LongMemEval. `claude plugin marketplace add cdeust/Cortex`

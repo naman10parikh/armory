@@ -8,13 +8,13 @@ source_url: https://github.com/CopilotKit/OpenBot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 7094
+stars: 7113
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 964
+forks: 966
 pushed_at: "2026-10-24T00:07:42Z"
 ---
 ## What it is
