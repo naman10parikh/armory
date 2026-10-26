@@ -8,12 +8,12 @@ source_url: https://github.com/birdwell/runescape-wiki-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-18T14:02:50Z"
+pushed_at: "2026-10-26T12:19:42Z"
 ---
 ## What it is
 MCP server `RuneScape Wiki`, catalogued on PulseMCP. Integrates with RuneScape 3 APIs to provide real-time Grand Exchange prices, item data, player statistics across game modes, and wiki content retrieval for game economy analysis and player progression tracking.

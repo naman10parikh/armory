@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-10T04:40:58Z"
+pushed_at: "2026-10-21T21:23:36Z"
 ---
 ## What it is
 Enables AI agents to generate, view, and analyze engineering diagrams (RF, PCB, EMC) in draw.io using natural language prompts, with auto-layout and 269 engineering stencils.

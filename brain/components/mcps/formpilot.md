@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T16:13:18Z"
+pushed_at: "2026-10-21T13:37:53Z"
 ---
 ## What it is
 Enables secure web form inspection and autofill using Excel data, Knowledge Packs, and AI, with sensitive field protection and explicit submit confirmation.

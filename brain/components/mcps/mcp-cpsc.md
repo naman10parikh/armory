@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:01:55Z"
+pushed_at: "2026-10-24T04:00:22Z"
 ---
 ## What it is
 Access US consumer-product safety recalls from the CPSC, free and without authentication.

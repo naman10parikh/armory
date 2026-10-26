@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-23T14:28:00Z"
+pushed_at: "2026-10-26T08:44:05Z"
 ---
 ## What it is
 Enables LLM clients to interact with Adobe Learning Manager, including user management, learning object browsing, enrollment management, badge checking, and async job execution via the ALM Prime API.

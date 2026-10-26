@@ -13,7 +13,7 @@ related: []
 tags: [mcp, knowledge-memory]
 stars: 204
 forks: 36
-pushed_at: "2026-09-16T14:24:46Z"
+pushed_at: "2026-10-26T09:02:49Z"
 ---
 ## What it is
 Human-like memory layer for AI agents with semantic, episodic, and procedural memory. Claude Code hooks (auto-save, auto-recall, cognitive profile). 29 MCP tools, knowledge graph, smart triggers, multi-user isolation. Python & JS SDKs.

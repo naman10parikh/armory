@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T16:35:09Z"
+pushed_at: "2026-10-25T22:33:41Z"
 ---
 ## What it is
 An MCP server enabling AI coding agents to interact with a task tracker that enforces rules server-side, replacing markdown files and hooks with a database, CLI, and web UI.

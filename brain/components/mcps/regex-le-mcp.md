@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T21:02:15Z"
+pushed_at: "2026-10-24T13:54:51Z"
 ---
 ## What it is
 Provides a tool to extract and validate regex patterns from text content, including flags, positions, and ReDoS risk assessment. Enables AI agents to identify potentially dangerous regular expressions in code or files without needing filesystem access.

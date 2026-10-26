@@ -8,14 +8,14 @@ source_url: https://github.com/humanlayer/humanlayer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 11704
+stars: 12576
 eval_score: null
 mentions: 5
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 1084
-pushed_at: "2026-10-15T19:57:34Z"
+forks: 1025
+pushed_at: "2026-10-26T13:34:31Z"
 ---
 ## What it is
 The best way to get AI coding agents to solve hard problems in complex codebases.

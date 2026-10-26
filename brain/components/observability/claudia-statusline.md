@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [ccometixline-claude-code-statusline, claude-powerline]
 tags: [claude-code, status-lines]
-stars: 36
+stars: 37
 forks: 6
-pushed_at: "2026-10-05T17:11:02Z"
+pushed_at: "2026-10-21T20:10:12Z"
 ---
 ## What it is
 High-performance Rust-based statusline for Claude Code with persistent stats tracking, progress bars, and optional cloud sync. Features SQLite-first persistence, git integration, context progress bars, burn rate calculation, XDG-compliant with theme support (dark/light, NO_COLOR).

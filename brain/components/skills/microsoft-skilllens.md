@@ -8,13 +8,13 @@ source_url: https://github.com/microsoft/SkillLens
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 180
+stars: 183
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, skills]
-forks: 20
+forks: 21
 pushed_at: "2026-05-25T19:49:05Z"
 ---
 ## What it is

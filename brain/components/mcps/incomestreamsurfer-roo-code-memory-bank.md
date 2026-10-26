@@ -8,11 +8,11 @@ source_url: https://github.com/incomestreamsurfer/roo-code-memory-bank-mcp-serve
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 56
+stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 22
+forks: 23
 pushed_at: "2025-04-29T01:24:24Z"
 ---
 ## What it is

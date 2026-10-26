@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-15T09:29:41Z"
+pushed_at: "2026-10-23T15:25:50Z"
 ---
 ## What it is
 MCP server for simulating firmware on virtual microcontroller instances, allowing AI agents to upload, run, and read UART output from supported boards such as STM32 and Nordic.

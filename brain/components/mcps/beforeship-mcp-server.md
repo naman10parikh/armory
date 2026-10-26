@@ -8,12 +8,12 @@ source_url: https://github.com/buzz39/beforeship
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 0
 pushed_at: "2026-07-19T13:11:27Z"
 ---
 ## What it is

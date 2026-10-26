@@ -8,14 +8,14 @@ source_url: https://github.com/Flesymeb/HarnessOfHarness
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 178
+stars: 183
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 17
-pushed_at: "2026-09-28T08:03:38Z"
+forks: 20
+pushed_at: "2026-10-20T06:34:54Z"
 ---
 ## What it is
 Harness of Harness: Multi-Day Autonomous Software Development with Continual Improvement

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-17T07:48:04Z"
+pushed_at: "2026-10-21T18:22:40Z"
 ---
 ## What it is
 Observation-first MCP server for Cockroach Browser, enabling AI agents to snapshot, audit, and propose browser actions through a secure, policy-controlled daemon.

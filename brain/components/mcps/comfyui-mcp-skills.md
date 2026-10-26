@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-18T22:37:20Z"
+pushed_at: "2026-10-24T17:50:05Z"
 ---
 ## What it is
 MCP server that dynamically exposes each enabled ComfyUI workflow as a tool with JSON Schema, supports job submission with wait and idempotency, file uploads, and resource metadata, with both stdio and authenticated Streamable HTTP transports.

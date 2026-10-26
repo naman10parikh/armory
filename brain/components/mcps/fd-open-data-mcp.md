@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T19:48:56Z"
+pushed_at: "2026-10-22T15:06:39Z"
 ---
 ## What it is
 Provides a semantic concept layer over financial/economic data from multiple sources, enabling users to query data by concept and entity with automatic source selection and failover.

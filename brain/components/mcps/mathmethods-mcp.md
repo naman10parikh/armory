@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T22:06:53Z"
+pushed_at: "2026-10-21T15:11:55Z"
 ---
 ## What it is
 An MCP server that exposes numerical and mathematical methods (root finding, integration, differentiation, ODEs, Monte Carlo, dynamic systems) as tools for LLM agents to call directly from chat clients.

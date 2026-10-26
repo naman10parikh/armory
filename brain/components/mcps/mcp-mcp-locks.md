@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T06:12:44Z"
+pushed_at: "2026-10-20T21:58:33Z"
 ---
 ## What it is
 Wraps the mcp-locks CLI to expose coordination primitives as MCP tools, enabling multiple AI agents to claim, release, and list exclusive OS resources like browser profiles.

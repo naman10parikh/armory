@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2025-08-12T01:56:59Z"
+pushed_at: "2026-10-23T14:17:36Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that connects Claude to local Ollama models, enabling offloading of simpler tasks to save Claude tokens.

@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, command-line]
-stars: 19
+stars: 20
 forks: 2
-pushed_at: "2026-10-02T06:54:08Z"
+pushed_at: "2026-10-22T03:34:24Z"
 ---
 ## What it is
 Interactive PTY sessions for AI agents — local shells, SSH with persistent sessions (ai-tmux daemon for attach/detach), and serial ports. Single Go binary, no tmux dependency.

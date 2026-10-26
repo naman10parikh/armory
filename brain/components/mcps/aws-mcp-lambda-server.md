@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T04:13:41Z"
+pushed_at: "2026-10-22T04:12:30Z"
 ---
 ## What it is
 An MCP server that runs on AWS Lambda, enabling MCP clients like Claude Desktop to invoke tools such as weather forecasts via serverless infrastructure with OAuth authentication.

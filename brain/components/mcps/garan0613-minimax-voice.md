@@ -8,11 +8,11 @@ source_url: https://github.com/garan0613/voice-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 47
+stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 57
+forks: 59
 pushed_at: "2026-09-04T16:54:36Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/sinryo/buddha-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-05T10:08:08Z"
+pushed_at: "2026-10-20T10:54:17Z"
 ---
 ## What it is
 MCP server `Daizo (Buddhist Text Corpora)`, catalogued on PulseMCP. Provides access to Buddhist text corpora including CBETA Chinese texts, SAT Daizōkyō database, and Pali Tipitaka with fuzzy search across titles, content-based regex search with context extraction, and intelligent text parsing that handles TEI markup and encoding for scholarly research and comparative textual analysis.

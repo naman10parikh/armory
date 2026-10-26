@@ -13,7 +13,7 @@ related: []
 tags: [mcp, marketing]
 stars: 1
 forks: 0
-pushed_at: "2026-06-03T07:19:03Z"
+pushed_at: "2026-10-26T04:15:42Z"
 ---
 ## What it is
 Validates email addresses to reduce email bounces during marketing campaigns.

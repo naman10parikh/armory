@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T10:44:26Z"
+pushed_at: "2026-10-19T23:28:15Z"
 ---
 ## What it is
 Provides AI agents with real-time and historical crypto market data from nine exchanges, including order book metrics, volumes, spreads, and market microstructure via the BlackForge API.

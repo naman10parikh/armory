@@ -8,13 +8,13 @@ source_url: https://github.com/facebookresearch/ProgramBench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 963
+stars: 974
 eval_score: null
 mentions: 3
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 67
+forks: 66
 pushed_at: "2026-10-12T23:46:04Z"
 ---
 ## What it is

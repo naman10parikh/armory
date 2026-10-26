@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-17T18:33:08Z"
+pushed_at: "2026-10-22T02:15:25Z"
 ---
 ## What it is
 Local-first cycle coach MCP for phase-aware nutrition and training context.

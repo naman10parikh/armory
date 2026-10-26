@@ -8,13 +8,13 @@ source_url: https://github.com/profanter-dev/truenas-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T22:13:26Z"
+pushed_at: "2026-10-25T12:16:16Z"
 ---
 ## What it is
 Read-only MCP server for TrueNAS SCALE 25.10+ that connects via JSON-RPC 2.0 WebSocket API, providing tools to inspect storage, shares, services, system info, jobs, and alerts.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T09:53:47Z"
+pushed_at: "2026-10-24T02:49:08Z"
 ---
 ## What it is
 FastMCP wrapper for Sysinternals CLI tools, enabling system diagnostics like process listing, handle inspection, and memory analysis through natural language.

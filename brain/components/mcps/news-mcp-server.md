@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2025-08-12T08:41:01Z"
+pushed_at: "2026-10-23T10:17:10Z"
 ---
 ## What it is
 Enables real-time monitoring and analysis of enterprise public opinion with sentiment statistics and news list retrieval for reputation management and decision support.

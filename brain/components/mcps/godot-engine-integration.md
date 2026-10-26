@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [browser, design, mcp]
 forks: 5
-pushed_at: "2026-03-18T12:54:09Z"
+pushed_at: "2026-10-20T23:24:11Z"
 ---
 
 ## What it is

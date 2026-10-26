@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:32:38Z"
+pushed_at: "2026-10-25T03:48:34Z"
 ---
 ## What it is
 Enables querying Germany's official statistics from Destatis GENESIS-Online through natural language or direct tool calls.

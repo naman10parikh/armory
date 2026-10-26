@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-13T16:41:48Z"
+pushed_at: "2026-10-19T14:57:42Z"
 ---
 ## What it is
 A local MCP server that gives an LLM agent read access to the WG21 (ISO C++) committee wiki as a verifiable source of truth, requiring authentication and providing exact wikitext with provenance.

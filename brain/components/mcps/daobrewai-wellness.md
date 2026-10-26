@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-22T02:12:43Z"
+pushed_at: "2026-10-22T08:22:12Z"
 ---
 ## What it is
 MCP server `DaoBrew Wellness`, catalogued on PulseMCP. Monitor biometric stress from Apple Watch and Oura Ring and trigger therapeutic breathing music sessions during coding.

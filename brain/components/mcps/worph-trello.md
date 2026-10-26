@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-04T19:03:28Z"
+pushed_at: "2026-10-22T18:51:24Z"
 ---
 ## What it is
 MCP server `Trello`, catalogued on PulseMCP. Manages Trello boards, lists, cards, comments, checklists, and attachments via Dockerized HTTP transport with Beacon discovery.

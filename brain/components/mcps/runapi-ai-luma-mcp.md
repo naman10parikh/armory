@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T09:16:02Z"
+pushed_at: "2026-10-22T08:02:00Z"
 ---
 ## What it is
 Enables creating and polling Luma video modification tasks, fetching task status, and checking pricing via the RunAPI API.

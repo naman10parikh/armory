@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-19T12:44:05Z"
+pushed_at: "2026-10-25T18:49:51Z"
 ---
 ## What it is
 MCP server `AgentGuard47`, catalogued on PulseMCP. Read-only MCP server for inspecting AgentGuard47 runtime safety framework traces, alerts, costs, and usage metrics.

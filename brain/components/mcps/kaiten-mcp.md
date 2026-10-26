@@ -8,13 +8,13 @@ source_url: https://github.com/aimuzov/kaiten-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T13:36:19Z"
+pushed_at: "2026-10-26T11:33:22Z"
 ---
 ## What it is
 MCP-сервер для полного управления Kaiten из любого MCP-клиента. Предоставляет 36 инструментов для работы с пространствами, досками, карточками, комментариями, чек-листами, учётом времени, тегами, участниками, гибкими выборками и планированием дня.

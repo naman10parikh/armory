@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T12:37:26Z"
+pushed_at: "2026-10-26T03:59:27Z"
 ---
 ## What it is
 Provides access to New Zealand Government Electronic Tenders Service (GETS) without API keys, enabling querying and searching for government tenders and contracts.

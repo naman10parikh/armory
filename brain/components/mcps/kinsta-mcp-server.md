@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-18T15:45:06Z"
+pushed_at: "2026-10-20T23:03:14Z"
 ---
 ## What it is
 MCP server for the Kinsta WordPress hosting platform, enabling AI assistants to interact with Kinsta sites and infrastructure via the Kinsta API.

@@ -8,12 +8,12 @@ source_url: https://github.com/olgasafonova/nordic-registry-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-14T07:26:42Z"
+pushed_at: "2026-10-20T16:24:41Z"
 ---
 ## What it is
 MCP server `Nordic Business Registries`, catalogued on PulseMCP. Access Nordic business registries for Norway, Denmark, Finland, and Sweden. 23 tools.

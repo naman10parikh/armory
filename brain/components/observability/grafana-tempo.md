@@ -8,13 +8,13 @@ source_url: https://github.com/grafana/tempo
 license: AGPL-3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 5538
+stars: 5545
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, tracing, distributed]
-forks: 774
-pushed_at: "2026-10-19T14:14:48Z"
+forks: 776
+pushed_at: "2026-10-26T08:55:37Z"
 ---
 ## What it is
 Grafana Tempo is a cost-efficient distributed tracing backend (OpenTelemetry-native) that pairs with Loki for logs and Prometheus for metrics in LLM stacks.

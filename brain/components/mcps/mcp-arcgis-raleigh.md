@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:55:04Z"
+pushed_at: "2026-10-23T04:00:38Z"
 ---
 ## What it is
 Enables AI agents to search and query City of Raleigh GIS open geospatial datasets (parcels, zoning, parks, transport, city services) via ArcGIS Feature Services.

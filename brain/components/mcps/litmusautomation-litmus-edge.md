@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-17T05:36:04Z"
+pushed_at: "2026-10-23T02:21:02Z"
 ---
 ## What it is
 MCP server `Litmus Edge`, catalogued on PulseMCP. Integrates with Litmus Edge for industrial IoT device configuration, monitoring, and management, enabling real-time tag value retrieval, Docker container management, DeviceHub device creation across various protocols, NATS topic subscription for data streaming, and system property configuration for industrial automation workflows.

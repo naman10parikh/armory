@@ -8,11 +8,11 @@ source_url: https://github.com/tim-mcdonnell/tana-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
+forks: 10
 pushed_at: "2026-08-20T00:28:03Z"
 ---
 ## What it is

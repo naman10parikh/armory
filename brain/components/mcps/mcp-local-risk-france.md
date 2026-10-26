@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T19:25:13Z"
+pushed_at: "2026-10-22T12:51:17Z"
 ---
 ## What it is
 MCP server for discovering French local natural, technological, and industrial risks at commune level using Géorisques, administrative references, and open risk datasets. It provides tools to query risk sources, datasets, and commune briefs.

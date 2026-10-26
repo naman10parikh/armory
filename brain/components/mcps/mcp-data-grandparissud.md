@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:15:18Z"
+pushed_at: "2026-10-24T21:37:04Z"
 ---
 ## What it is
 Enables searching and querying Grand Paris Sud open data (urban services, mobility, environment) via ODSQL.

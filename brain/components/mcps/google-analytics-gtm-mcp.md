@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T05:18:48Z"
+pushed_at: "2026-10-19T18:59:49Z"
 ---
 ## What it is
 MCP server for Google Analytics 4 and Google Tag Manager with read and write access, providing 40 tools to manage GA4 reports, audiences, and GTM tags, triggers, and variables via natural language.

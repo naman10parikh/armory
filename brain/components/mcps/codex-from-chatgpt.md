@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-08-10T19:29:21Z"
+pushed_at: "2026-10-23T16:04:46Z"
 ---
 ## What it is
 A personal MCP bridge that lets ChatGPT drive a local Codex CLI, translating instructions into Codex app-server threads and returning compact summaries of what Codex did.

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, security]
 stars: 1
 forks: 1
-pushed_at: "2026-07-20T20:34:23Z"
+pushed_at: "2026-10-21T18:51:37Z"
 ---
 ## What it is
 Security scanner for AI agents that detects prompt injections using 42+ regex patterns

@@ -8,7 +8,7 @@ source_url: https://github.com/dryeab/mcp-telegram
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 251
+stars: 254
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

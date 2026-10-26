@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-10T11:26:27Z"
+pushed_at: "2026-10-25T15:38:05Z"
 ---
 ## What it is
 Enables cataloging and managing personal inventory (items, attachments) through natural language, allowing users to add, search, update, and retrieve item details and attachments via MCP tools.

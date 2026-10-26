@@ -8,14 +8,14 @@ source_url: https://github.com/Anil-matcha/open-dots
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 5883
+stars: 6192
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 715
-pushed_at: "2026-10-19T13:53:13Z"
+forks: 776
+pushed_at: "2026-10-26T12:35:14Z"
 ---
 ## What it is
 Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype.

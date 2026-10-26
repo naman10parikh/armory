@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-06T17:44:01Z"
+pushed_at: "2026-10-25T00:22:51Z"
 ---
 ## What it is
 An MCP server that gives text-only LLMs like DeepSeek vision capabilities by OCRing images, PDFs, Office documents, and text files into pure text. It provides tools like read_document and ocr_image to enable file analysis.

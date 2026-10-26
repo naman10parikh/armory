@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T13:59:56Z"
+pushed_at: "2026-10-25T17:06:56Z"
 ---
 ## What it is
 OBTO gives your AI assistant a hosted app platform: it scaffolds, deploys, and operates real full-stack apps — pages, APIs, database, scheduled jobs — in a workspace created automatically at your first Google sign-in.

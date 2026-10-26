@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T20:44:29Z"
+pushed_at: "2026-10-23T20:45:21Z"
 ---
 ## What it is
 Local MCP server that converts PDF, Word, PowerPoint, Excel and more to Markdown on your machine, enabling coding agents like Claude Code and Cursor to read office files in the repo.

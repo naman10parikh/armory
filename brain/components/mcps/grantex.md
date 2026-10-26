@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-10-17T10:10:27Z"
+pushed_at: "2026-10-25T07:14:06Z"
 ---
 ## What it is
 MCP server `Grantex`, catalogued on PulseMCP. OAuth 2.0 authorization infrastructure for AI agents — scoped delegation tokens, audit trails, and revocation.

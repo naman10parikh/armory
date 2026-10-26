@@ -8,12 +8,12 @@ source_url: https://github.com/taxuspt/garmin_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1381
+stars: 1414
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 430
-pushed_at: "2026-10-15T06:50:05Z"
+forks: 441
+pushed_at: "2026-10-24T12:16:10Z"
 ---
 ## What it is
 MCP server `Garmin Connect`, catalogued on PulseMCP. Integrates with Garmin Connect to expose fitness and health data, enabling access to activities, detailed workout information, and health metrics like heart rate through natural language interactions.

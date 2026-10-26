@@ -8,12 +8,12 @@ source_url: https://github.com/sbl-sdsc/mcp-genelab
 license: BSD 3-Clause
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-10-16T20:21:00Z"
 ---
 ## What it is

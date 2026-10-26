@@ -13,7 +13,7 @@ related: []
 tags: [mcp, social-media]
 stars: 44
 forks: 9
-pushed_at: "2026-10-18T21:02:20Z"
+pushed_at: "2026-10-24T20:44:19Z"
 ---
 ## What it is
 MCP server for Substack — read posts, manage drafts, publish Notes, get comments, and upload images. Safe by design: cannot publish or delete posts.

@@ -8,12 +8,12 @@ source_url: https://github.com/raphysicst-create/korean-secondary-learning-map-m
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 10
 pushed_at: "2026-08-25T02:16:45Z"
 ---
 ## What it is

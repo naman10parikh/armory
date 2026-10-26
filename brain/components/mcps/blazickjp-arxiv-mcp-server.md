@@ -8,11 +8,11 @@ source_url: https://github.com/blazickjp/arxiv-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3224
+stars: 3235
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 271
+forks: 259
 pushed_at: "2026-10-08T13:08:10Z"
 ---
 ## What it is

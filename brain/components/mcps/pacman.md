@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2025-04-29T18:59:19Z"
+pushed_at: "2026-10-25T14:33:14Z"
 ---
 ## What it is
 MCP server `Package Manager`, catalogued on PulseMCP. Integrates with package repositories including PyPI, npm, crates.io, Docker Hub, and Terraform Registry to search and retrieve detailed information about packages, versions, dependencies, and Docker images.

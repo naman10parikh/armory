@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-15T11:53:58Z"
+pushed_at: "2026-10-26T11:01:51Z"
 ---
 ## What it is
 Enables AI agents to build and debug pipelines on the Haystack Enterprise AI platform through 30+ specialized tools, and provides a Python SDK for programmatic access.

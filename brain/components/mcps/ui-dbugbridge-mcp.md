@@ -8,13 +8,13 @@ source_url: https://github.com/Immmmmmortal1/UI-dbugbridge-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T09:28:16Z"
+pushed_at: "2026-10-20T09:13:17Z"
 ---
 ## What it is
 Enables UI debugging on physical iOS devices by bridging to an in-app DebugBridge HTTP service, supporting UI inspection, element interaction, log retrieval, and runtime validation.

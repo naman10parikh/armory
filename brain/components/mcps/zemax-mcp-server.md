@@ -8,13 +8,13 @@ source_url: https://github.com/webworn/zemax-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-29T10:53:38Z"
+pushed_at: "2026-10-26T06:22:12Z"
 ---
 ## What it is
 Enables AI agents to control Ansys Zemax OpticStudio via ZOS-API, allowing optical design tasks like aperture settings, optimization, and analysis through natural language.

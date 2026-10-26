@@ -8,13 +8,13 @@ source_url: https://github.com/nirholas/agenti
 license: ISC License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 80
+stars: 81
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 21
-pushed_at: "2026-10-11T01:40:38Z"
+pushed_at: "2026-10-26T09:31:53Z"
 ---
 ## What it is
 Enables any MCP-compatible LLM client to autonomously hold, spend, earn, and receive cryptocurrency using native MCP tools, no code required.

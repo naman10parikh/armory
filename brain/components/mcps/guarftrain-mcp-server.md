@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T15:09:22Z"
+pushed_at: "2026-10-22T11:31:07Z"
 ---
 ## What it is
 Enables external agents to monitor and control ML training runs via 35 MCP tools. Covers training status, checkpoints, experiments, recovery, and dashboard configuration.

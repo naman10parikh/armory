@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-29T10:07:46Z"
+pushed_at: "2026-10-23T08:37:32Z"
 ---
 ## What it is
 Enables Claude Code to see and control a Meta Quest headset via ADB, providing tools for screenshots, logs, performance monitoring, app management, and more.

@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claude-tmux, omnara]
 tags: [claude-code, alternative-clients]
-stars: 156
+stars: 157
 forks: 6
-pushed_at: "2026-09-22T23:27:53Z"
+pushed_at: "2026-10-23T01:23:39Z"
 ---
 ## What it is
 Go-based TUI that streams Claude Code's hidden output (thinking, tool calls, subagents) to a separate terminal. Watch multiple sessions simultaneously, filter by content type, and track background tasks. Ideal for debugging or understanding what Claude is doing under the hood without interrupting your main session.

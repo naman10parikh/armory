@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-12T10:17:39Z"
+pushed_at: "2026-10-24T22:40:29Z"
 ---
 ## What it is
 MCP server `Google Ads Transparency Center`, catalogued on PulseMCP. Integrates with Google's Ads Transparency Center to retrieve and analyze companies' currently running advertisements, enabling competitive intelligence and marketing research through ad search by domain or advertiser ID with detailed content analysis.

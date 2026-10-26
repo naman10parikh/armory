@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T12:41:08Z"
+pushed_at: "2026-10-26T12:35:03Z"
 ---
 ## What it is
 Enables searching, tagging, uploading, and reading documents in Paperless-NGX, with management of tags, correspondents, document types, and custom fields via MCP tools and resources.

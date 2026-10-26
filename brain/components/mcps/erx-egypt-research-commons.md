@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-14T04:50:38Z"
+pushed_at: "2026-10-24T04:42:58Z"
 ---
 ## What it is
 Enables searching, retrieving, and analyzing documents from over 30 Egyptian official, legal, academic, and news sources with MCP tools for timeline building, source comparison, and claim tracing.

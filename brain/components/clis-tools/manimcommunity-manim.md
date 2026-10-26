@@ -8,14 +8,14 @@ source_url: https://github.com/ManimCommunity/manim
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 41679
+stars: 41884
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3209
-pushed_at: "2026-10-16T17:10:55Z"
+forks: 3237
+pushed_at: "2026-10-25T17:02:17Z"
 ---
 ## What it is
 A community-maintained Python framework for creating mathematical animations.

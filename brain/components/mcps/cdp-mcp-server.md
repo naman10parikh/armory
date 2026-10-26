@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-28T01:54:37Z"
+pushed_at: "2026-10-23T17:57:45Z"
 ---
 ## What it is
 Wraps Chrome DevTools Protocol to provide AI agents with low-level browser debugging tools including breakpoints, stack traces, stepping, network interception, and source maps.

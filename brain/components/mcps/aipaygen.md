@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-04-03T18:32:27Z"
+pushed_at: "2026-10-23T12:59:49Z"
 ---
 ## What it is
 MCP server `AiPayGen`, catalogued on PulseMCP. Pay-per-use AI API platform with 155 tools, agent builder, and USDC micropayments.

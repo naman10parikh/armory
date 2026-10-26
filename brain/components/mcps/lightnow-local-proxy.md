@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T12:32:43Z"
+pushed_at: "2026-10-26T00:27:34Z"
 ---
 ## What it is
 Lets local MCP clients use one LightNow-managed MCP entry instead of storing every MCP server configuration and secret in every client.

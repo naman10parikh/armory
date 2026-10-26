@@ -8,12 +8,12 @@ source_url: https://github.com/mario-andreschak/mcp-abap-adt
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 200
+stars: 201
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 73
-pushed_at: "2026-09-16T22:21:23Z"
+forks: 74
+pushed_at: "2026-10-25T20:34:31Z"
 ---
 ## What it is
 MCP server `SAP ABAP ADT`, catalogued on PulseMCP. Integrates with SAP ABAP systems via ADT, enabling AI models to perform ABAP development tasks like code generation and system analysis.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T14:30:46Z"
+pushed_at: "2026-10-21T02:37:54Z"
 ---
 ## What it is
 MCP server wrapping the toolgovern CLI as a single generic run tool for agent-tool policy validation.

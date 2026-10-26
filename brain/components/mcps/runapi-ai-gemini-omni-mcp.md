@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T11:30:38Z"
+pushed_at: "2026-10-22T07:52:49Z"
 ---
 ## What it is
 MCP server for the Gemini Omni model line, enabling task creation (audio, character, text-to-video) and pricing checks through RunAPI.

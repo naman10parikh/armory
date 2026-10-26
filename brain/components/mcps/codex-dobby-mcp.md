@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-10T18:06:31Z"
+pushed_at: "2026-10-25T19:34:23Z"
 ---
 ## What it is
 A local MCP server that lets Claude delegate scoped work to Codex with structured results and guardrails, supporting planning, code review, build, reverse engineering, and long-running background tasks.

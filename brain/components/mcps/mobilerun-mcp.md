@@ -8,13 +8,13 @@ source_url: https://github.com/droidrun/mobilerun-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T11:09:35Z"
+pushed_at: "2026-10-26T13:41:44Z"
 ---
 ## What it is
 MCP server for the Mobilerun platform, exposing tools for device control, workflow automation, task management, and platform operations via a stateless HTTP or stdio interface with bearer-token authentication and policy-based access control.

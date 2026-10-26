@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-10-17T22:12:16Z"
+pushed_at: "2026-10-26T03:51:39Z"
 ---
 ## What it is
 MCP server `Local MCP`, catalogued on PulseMCP. Native macOS app exposing 82 system-level tools via MCP for AI assistant integration.

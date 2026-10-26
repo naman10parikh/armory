@@ -8,11 +8,11 @@ source_url: https://github.com/johnhuang316/code-index-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1003
+stars: 1007
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 118
+forks: 117
 pushed_at: "2026-07-27T08:14:15Z"
 ---
 ## What it is

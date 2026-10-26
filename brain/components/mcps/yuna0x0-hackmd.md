@@ -8,11 +8,11 @@ source_url: https://github.com/yuna0x0/hackmd-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 68
+stars: 67
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
+forks: 16
 pushed_at: "2026-07-13T10:44:07Z"
 ---
 ## What it is

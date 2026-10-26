@@ -8,13 +8,13 @@ source_url: https://github.com/alexfrmn/mur-mur-v2
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-10-19T07:24:23Z"
+forks: 8
+pushed_at: "2026-10-21T07:03:12Z"
 ---
 ## What it is
 Encrypted agent-to-agent messaging for AI agents via NATS JetStream, enabling autonomous, secure communication and collaborative workflows.

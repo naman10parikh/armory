@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T01:43:48Z"
+pushed_at: "2026-10-23T00:55:40Z"
 ---
 ## What it is
 Exposes Mireye Earth's geospatial data API as MCP tools (mireye_ask and mireye_fetch) for querying location-based information like elevation, flood zones, and wildfire risk for US places.

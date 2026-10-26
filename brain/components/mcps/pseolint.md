@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-22T20:24:32Z"
+pushed_at: "2026-10-25T07:12:53Z"
 ---
 ## What it is
 Audit programmatic SEO sites for Google SpamBrain risk the way the algorithm sees them, across pages, not one page at a time. pseolint clusters your URLs into templates (e.g. /listing/:slug), samples pages from each, and returns a per-template verdict with a 0-100 risk score and the top failing rule

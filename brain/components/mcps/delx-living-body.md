@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T10:17:46Z"
+pushed_at: "2026-10-21T11:15:42Z"
 ---
 ## What it is
 Meta-MCP that auto-detects installed wellness connectors and composes them into one body data layer.

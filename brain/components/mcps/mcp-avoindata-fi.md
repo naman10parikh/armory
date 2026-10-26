@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T22:02:53Z"
+pushed_at: "2026-10-23T04:11:26Z"
 ---
 ## What it is
 Enables searching and querying Finland's open data portal (avoindata.fi) via CKAN. Supports dataset search, metadata retrieval, and tabular data queries.

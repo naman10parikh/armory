@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 18
-pushed_at: "2026-10-19T10:07:17Z"
+pushed_at: "2026-10-26T10:09:01Z"
 ---
 ## What it is
 MCP server `Skillsmith`, catalogued on PulseMCP. Discover, install, and manage reusable skills for Claude Code.

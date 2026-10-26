@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T21:14:46Z"
+pushed_at: "2026-10-23T18:55:12Z"
 ---
 ## What it is
 MCP server combining DEX Screener market data with Jupiter swap quotes and gated execution on Solana, offering read-only tools and an optional trading mode with safety caps.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-17T22:44:28Z"
+pushed_at: "2026-10-19T23:18:23Z"
 ---
 ## What it is
 Exposes a Telegram user account via MCP, enabling AI agents to send, read, and manage messages, chats, and media using full MTProto access through Telethon. It wraps Telethon behind a JSON HTTP API and MCP endpoint, allowing agents to interact with Telegram as the authenticated user.

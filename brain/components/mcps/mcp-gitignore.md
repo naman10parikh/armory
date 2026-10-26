@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T12:38:18Z"
+pushed_at: "2026-10-26T04:00:31Z"
 ---
 ## What it is
 Enables listing and fetching .gitignore templates from GitHub's gitignore repository, and composing combined templates.

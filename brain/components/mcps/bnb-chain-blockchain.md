@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 28
-pushed_at: "2026-04-17T01:56:00Z"
+pushed_at: "2026-10-23T02:43:40Z"
 ---
 ## What it is
 MCP server `BNBChain`, catalogued on PulseMCP. Enables direct interaction with BNB Chain and other EVM-compatible networks for blockchain operations including block exploration, smart contract interaction, token management, wallet operations, and Greenfield storage functionality.

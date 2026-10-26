@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-19T07:26:01Z"
+forks: 1
+pushed_at: "2026-10-26T07:26:52Z"
 ---
 ## What it is
 MCP server for UNESCO UIS statistics enabling search of indicators, listing of geographical units, and data retrieval with provenance and license compliance.

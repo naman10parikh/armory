@@ -8,7 +8,7 @@ source_url: https://github.com/hidai25/eval-view
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 139
+stars: 140
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

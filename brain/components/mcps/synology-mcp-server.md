@@ -8,12 +8,12 @@ source_url: https://github.com/rafalr100/synology-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 5
 pushed_at: "2026-06-13T13:37:38Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/morluto/flameox
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 211
+stars: 220
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 15
-pushed_at: "2026-10-12T09:21:36Z"
+forks: 21
+pushed_at: "2026-10-26T09:16:14Z"
 ---
 ## What it is
 Enables coding agents to query, compare, and audit local profiler traces, benchmarks, memory captures, and execution evidence without uploading code or data, using CLI and MCP interfaces.

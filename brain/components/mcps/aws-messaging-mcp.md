@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T07:18:09Z"
+pushed_at: "2026-10-26T02:56:15Z"
 ---
 ## What it is
 Enables sending emails via Amazon SES, SMS/MMS/RCS messages through AWS End User Messaging, and sharing files via CloudFront-signed download links, all from AI assistants like Claude Code or Claude Desktop.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T09:56:09Z"
+pushed_at: "2026-10-24T02:52:08Z"
 ---
 ## What it is
 Enables AI agents to generate narrated videos from topics or scripts, with stock footage, home videos, or local AI clips.

@@ -8,12 +8,12 @@ source_url: https://github.com/yosefhayim/ebay-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 184
+stars: 189
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 70
-pushed_at: "2026-10-19T10:48:18Z"
+forks: 72
+pushed_at: "2026-10-26T00:37:00Z"
 ---
 ## What it is
 MCP server `eBay Sell`, catalogued on PulseMCP. Comprehensive eBay Sell API access for inventory, orders, marketing campaigns, analytics, and account management

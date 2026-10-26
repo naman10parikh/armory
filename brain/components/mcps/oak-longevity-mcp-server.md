@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-05T02:35:35Z"
+pushed_at: "2026-10-23T04:32:02Z"
 ---
 ## What it is
 An MCP server for longevity and metabolic medicine that provides a medication catalog, dosing protocols, contraindication screening, drug interaction checks, lab recommendations, and patient intake pathways across 35 compounds.

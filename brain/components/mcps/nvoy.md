@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T21:54:01Z"
+pushed_at: "2026-10-26T13:39:52Z"
 ---
 ## What it is
 Scoped, revocable data delegation to agentic workflows over nostr, mounted as an MCP server.

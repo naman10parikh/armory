@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T01:58:53Z"
+pushed_at: "2026-10-25T23:49:28Z"
 ---
 ## What it is
 Provides AI-visibility scoring and site auditing capabilities for websites, enabling agents to check how sites appear in AI engines like ChatGPT and Perplexity, run full SEO/security audits, and monitor changes over time.

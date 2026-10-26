@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-25T23:44:03Z"
+pushed_at: "2026-10-25T03:59:06Z"
 ---
 ## What it is
 Enables AI agents to retrieve and search open-access life-sciences and biomedical journal articles from eLife via MCP.

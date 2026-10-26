@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:08:02Z"
+pushed_at: "2026-10-24T21:33:37Z"
 ---
 ## What it is
 Access Colorado government open data via Socrata SoQL API. Enables searching datasets, running queries, and retrieving metadata without an API key.

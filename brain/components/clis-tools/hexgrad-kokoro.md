@@ -8,13 +8,13 @@ source_url: https://github.com/hexgrad/kokoro
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 9488
+stars: 9680
 eval_score: 1
 mentions: 2
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1055
+forks: 1078
 pushed_at: "2025-08-06T22:28:53Z"
 ---
 ## What it is

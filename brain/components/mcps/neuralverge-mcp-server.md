@@ -8,13 +8,13 @@ source_url: https://github.com/neuralverge/mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T13:11:43Z"
+pushed_at: "2026-10-22T11:44:33Z"
 ---
 ## What it is
 Exposes NeuralVerge's full API as MCP tools for AI research, extraction, agents, and data enrichment (LinkedIn, email, phone), enabling any MCP-compatible client to call them directly.

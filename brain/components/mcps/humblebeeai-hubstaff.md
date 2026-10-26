@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-11T06:11:05Z"
+pushed_at: "2026-10-21T12:44:47Z"
 ---
 ## What it is
 MCP server `Hubstaff`, catalogued on PulseMCP. Access to Hubstaff time tracking, activity logs, and task management for teams.

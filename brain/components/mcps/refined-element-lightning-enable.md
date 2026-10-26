@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-12T01:15:37Z"
+pushed_at: "2026-10-22T19:24:57Z"
 ---
 ## What it is
 MCP server `Lightning Enable`, catalogued on PulseMCP. Enable AI agents to make Lightning Network payments, access L402 APIs, and manage Bitcoin wallets.

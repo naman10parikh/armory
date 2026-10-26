@@ -15,7 +15,7 @@ related: []
 tags: [glama, mcp]
 mentions: null
 forks: 0
-pushed_at: "2026-07-02T08:49:43Z"
+pushed_at: "2026-10-24T19:37:19Z"
 ---
 ## What it is
 Provides up-to-date documentation for AI agents by locally querying a community-driven registry of pre-built docs packages.

@@ -8,13 +8,13 @@ source_url: https://github.com/strausmann/fileee-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T07:35:54Z"
+pushed_at: "2026-10-24T15:17:19Z"
 ---
 ## What it is
 An unofficial MCP server that brings your Fileee documents to AI clients, with secure authentication via OAuth or static tokens and capabilities for reading, writing, sharing, and more.

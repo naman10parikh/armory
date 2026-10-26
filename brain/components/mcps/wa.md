@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-28T19:25:49Z"
+pushed_at: "2026-10-25T21:08:23Z"
 ---
 ## What it is
 Enables AI agents to interact with WhatsApp through a safety-first MCP server, with tools for sending messages, media, searching chats, and managing drafts, all governed by default-deny allowlists and non-overridable rate limits.

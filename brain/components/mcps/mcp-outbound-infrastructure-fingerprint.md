@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T07:19:30Z"
+pushed_at: "2026-10-20T08:36:45Z"
 ---
 ## What it is
 Detects whether a company runs cold email outbound and identifies the email sending infrastructure, including sending domains, platforms, and authentication status.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T17:44:21Z"
+pushed_at: "2026-10-19T15:58:54Z"
 ---
 ## What it is
 GB & Irish horse racing signals for AI agents: per-runner AI scores, de-overrounded fair prices, draw-bias aggregates, trainer-jockey strike rates, and Racing Alpha's database-frozen public tips ledger (losses included).

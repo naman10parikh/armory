@@ -8,12 +8,12 @@ source_url: https://github.com/neka-nat/freecad-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2950
+stars: 3066
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 354
-pushed_at: "2026-10-13T13:14:58Z"
+forks: 363
+pushed_at: "2026-10-25T01:12:47Z"
 ---
 ## What it is
 MCP server `FreeCAD`, catalogued on PulseMCP. Enables AI-driven CAD modeling by providing a remote procedure call (RPC) server that allows programmatic control of FreeCAD, supporting operations like creating documents, inserting parts, editing objects, and executing Python code for generative design workflows.

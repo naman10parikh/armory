@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T02:10:57Z"
+pushed_at: "2026-10-25T06:29:46Z"
 ---
 ## What it is
 Local, multi-session MCP server driving real Chrome, Chromium, WebKit, and Safari engines, with attach-to-running-Chrome support, no API keys or cloud required.

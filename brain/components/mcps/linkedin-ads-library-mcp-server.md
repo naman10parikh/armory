@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-12T10:17:47Z"
+pushed_at: "2026-10-24T22:40:33Z"
 ---
 ## What it is
 Enables searching and analyzing LinkedIn's public ad library for any company, including ad creatives, targeting, and competitive insights. Supports image and video analysis, company comparisons, and detailed ad lookups via natural language.

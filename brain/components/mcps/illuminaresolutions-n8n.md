@@ -8,11 +8,11 @@ source_url: https://github.com/illuminaresolutions/n8n-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 118
+stars: 119
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
+forks: 28
 pushed_at: "2025-02-19T14:57:23Z"
 ---
 ## What it is

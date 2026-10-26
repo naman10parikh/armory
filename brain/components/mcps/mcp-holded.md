@@ -8,13 +8,13 @@ source_url: https://github.com/iamsamuelfraga/mcp-holded
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 12
-pushed_at: "2026-07-23T23:41:37Z"
+pushed_at: "2026-10-22T08:44:56Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for the Holded Invoice API. This server allows AI assistants like Claude to interact with Holded's invoicing, contacts, products, and more.

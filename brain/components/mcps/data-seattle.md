@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:21:35Z"
+pushed_at: "2026-10-24T21:43:58Z"
 ---
 ## What it is
 Enables querying Seattle open data from data.seattle.gov via the Socrata SODA API.

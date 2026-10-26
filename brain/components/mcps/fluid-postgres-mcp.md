@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T20:38:53Z"
+pushed_at: "2026-10-19T18:02:44Z"
 ---
 ## What it is
 A PostgreSQL MCP server for AI agents that streams large result sets to CSV, enforces per-query timeouts, auto-reconnects with backoff, and supports long-running tunnel scripts with credential rotation.

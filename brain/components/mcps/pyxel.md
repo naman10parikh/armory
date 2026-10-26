@@ -8,12 +8,12 @@ source_url: https://github.com/kitao/pyxel-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-09-22T03:52:25Z"
+pushed_at: "2026-10-23T21:53:21Z"
 ---
 ## What it is
 MCP server `Pyxel`, catalogued on PulseMCP. Enables AI-assisted retro game development with Pyxel engine through script execution, screenshot capture, sprite inspection, and audio analysis.

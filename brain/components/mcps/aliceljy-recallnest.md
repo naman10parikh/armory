@@ -13,7 +13,7 @@ related: []
 tags: [mcp, knowledge-memory]
 stars: 15
 forks: 4
-pushed_at: "2026-10-17T19:42:35Z"
+pushed_at: "2026-10-23T09:18:58Z"
 ---
 ## What it is
 Persistent memory MCP server for AI coding agents (Claude Code, Codex, Gemini CLI). Hybrid retrieval (vector + BM25), cross-encoder reranking, knowledge graph with PPR traversal, session checkpoint/resume, and multi-scope isolation. Local-first with LanceDB + SQLite, zero external dependencies.

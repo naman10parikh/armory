@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-14T18:37:43Z"
+pushed_at: "2026-10-26T04:57:34Z"
 ---
 ## What it is
 MCP server `CanLII`, catalogued on PulseMCP. Search Canadian case law and legislation metadata across federal, provincial, and territorial jurisdictions via CanLII.

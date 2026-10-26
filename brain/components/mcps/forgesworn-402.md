@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-19T09:32:11Z"
+pushed_at: "2026-10-26T00:14:49Z"
 ---
 ## What it is
 MCP server `402`, catalogued on PulseMCP. Enable AI agents to autonomously discover, pay for, and consume Lightning-gated APIs using L402 and x402 protocols.

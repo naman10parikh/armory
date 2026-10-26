@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T07:37:07Z"
+pushed_at: "2026-10-24T12:12:34Z"
 ---
 ## What it is
 MCP server for FreshRSS RSS reader enabling feed reading, subscription management, and item actions via the Google Reader compatible API.

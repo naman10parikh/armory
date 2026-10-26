@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T06:50:41Z"
+pushed_at: "2026-10-26T07:11:20Z"
 ---
 ## What it is
 Find EV charging stations by location and connector, get full station detail, resolve reference IDs, and read community reliability check-ins via MCP.

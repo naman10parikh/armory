@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T18:11:40Z"
+pushed_at: "2026-10-21T11:33:45Z"
 ---
 ## What it is
 Provides read-only access to the current government status of Romania via the get_government_status tool.

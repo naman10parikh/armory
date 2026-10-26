@@ -8,12 +8,12 @@ source_url: https://github.com/peturgeorgievv-factory/postfast-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-10-12T15:11:54Z"
+forks: 2
+pushed_at: "2026-10-25T12:25:40Z"
 ---
 ## What it is
 MCP server `PostFast`, catalogued on PulseMCP. Schedule and manage social media posts across 10 platforms via the PostFast API.

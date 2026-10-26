@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T14:15:28Z"
+pushed_at: "2026-10-19T14:34:12Z"
 ---
 ## What it is
 Local-first memory for MCP clients. It provides shared durable memory without requiring hosted accounts, vector databases, or API keys, and works with Codex, Claude Code, Cursor, and other MCP clients.

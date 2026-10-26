@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-27T20:15:14Z"
+pushed_at: "2026-10-24T04:20:56Z"
 ---
 ## What it is
 MCP server `Good Meta Intelligence`, catalogued on PulseMCP. Agent payments ecosystem intelligence. Scans GitHub/HN/npm across AP2, ACP, x402, MPP, UCP.

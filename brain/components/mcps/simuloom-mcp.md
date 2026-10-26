@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T12:56:13Z"
+pushed_at: "2026-10-22T12:55:52Z"
 ---
 ## What it is
 Contract-driven service virtualization and synthetic test-data management server that enables simulating APIs from OpenAPI contracts through MCP tools.

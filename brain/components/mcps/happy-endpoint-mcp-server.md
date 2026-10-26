@@ -8,13 +8,13 @@ source_url: https://github.com/happyendpointhq/happyendpoint-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T17:12:37Z"
+pushed_at: "2026-10-20T20:23:17Z"
 ---
 ## What it is
 MCP server that provides direct access to real-time UAE property data, retail products, and travel pricing through task-shaped tools, normalizing inconsistent API responses and resolving location IDs.

@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, frameworks]
-forks: 30
+forks: 29
 pushed_at: "2025-06-28T12:36:45Z"
 ---
 ## What it is

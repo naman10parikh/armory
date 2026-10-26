@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T14:52:33Z"
+pushed_at: "2026-10-26T10:10:13Z"
 ---
 ## What it is
 A living X-Matrix your AI agent can read, challenge and update — 3-to-5-year objectives, annual objectives, initiatives, KPIs, correlations, review cadences, and a completeness score. Exposes 11 tools and 9 guided prompts over MCP with local or hosted transports.

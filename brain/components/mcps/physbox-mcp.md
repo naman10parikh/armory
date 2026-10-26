@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T04:27:59Z"
+pushed_at: "2026-10-26T04:45:53Z"
 ---
 ## What it is
 Enables LLMs and MCP clients to interact programmatically with Flux, Volt, and Mesh simulation web applications via WebSocket relay.

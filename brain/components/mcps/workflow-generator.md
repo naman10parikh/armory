@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-27T09:36:39Z"
+pushed_at: "2026-10-26T08:04:42Z"
 ---
 ## What it is
 Architecture diagram with concurrency capacity and bottleneck estimates from any codebase.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-13T22:31:03Z"
+pushed_at: "2026-10-25T05:09:44Z"
 ---
 ## What it is
 Enables AI programs to search and retrieve approved public regulations with citations, supporting PDF, HWP, HWPX, and DOCX formats.

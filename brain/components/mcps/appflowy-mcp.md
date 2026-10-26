@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-19T14:25:55Z"
+pushed_at: "2026-10-22T06:30:49Z"
 ---
 ## What it is
 An MCP server for AppFlowy Cloud that enables workspace, space, page, trash, favorite, and page-content management.

@@ -8,12 +8,12 @@ source_url: https://github.com/beckettlab/beckett-godot-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 47
+stars: 48
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 3
 pushed_at: "2026-10-07T08:23:55Z"
 ---
 ## What it is

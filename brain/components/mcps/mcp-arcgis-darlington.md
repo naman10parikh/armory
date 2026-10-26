@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T04:00:27Z"
+pushed_at: "2026-10-22T22:29:54Z"
 ---
 ## What it is
 Provides access to Darlington County, South Carolina open geospatial data via ArcGIS, enabling search, query, and schema inspection of datasets.

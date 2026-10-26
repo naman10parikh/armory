@@ -8,14 +8,14 @@ source_url: https://github.com/cordiverse/cordis
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 9261
+stars: 9406
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 595
-pushed_at: "2026-10-16T07:37:19Z"
+forks: 603
+pushed_at: "2026-10-26T12:59:53Z"
 ---
 ## What it is
 Meta-Framework of Spatiotemporal Composability

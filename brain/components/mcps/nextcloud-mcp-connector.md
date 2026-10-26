@@ -8,13 +8,13 @@ source_url: https://github.com/street1983nk/nextcloud-mcp-connector
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 28
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 15
-pushed_at: "2026-10-19T03:37:11Z"
+forks: 16
+pushed_at: "2026-10-26T04:22:55Z"
 ---
 ## What it is
 A curated MCP server that connects your Nextcloud (files, calendar, notes, deck, contacts) to AI assistants.

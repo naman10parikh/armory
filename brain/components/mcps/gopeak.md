@@ -8,12 +8,12 @@ source_url: https://github.com/HaD0Yun/Doyunha-Gopeak
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 267
+stars: 270
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 30
+forks: 28
 pushed_at: "2026-09-12T13:23:34Z"
 ---
 ## What it is

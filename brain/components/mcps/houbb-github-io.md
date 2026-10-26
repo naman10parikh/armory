@@ -14,7 +14,7 @@ verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, blogging-content]
 forks: 15
-pushed_at: "2026-07-16T08:36:54Z"
+pushed_at: "2026-10-26T10:29:18Z"
 ---
 ## What it is
 🧀 The blog for GitHub pages

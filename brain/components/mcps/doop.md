@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T06:22:48Z"
+pushed_at: "2026-10-24T06:14:40Z"
 ---
 ## What it is
 Provides read-only MCP tools for independently decoded WHOOP 4.0 health data, with confidence gates and minimum-disclosure safety for coaching agents.

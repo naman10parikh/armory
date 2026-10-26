@@ -8,12 +8,12 @@ source_url: https://github.com/mims-harvard/tooluniverse
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1747
+stars: 1759
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 267
-pushed_at: "2026-10-19T08:36:28Z"
+forks: 269
+pushed_at: "2026-10-26T07:05:44Z"
 ---
 ## What it is
 MCP server `ToolUniverse`, catalogued on PulseMCP. Provides scientific tools for AI scientists spanning life science, research, literature search, drug discovery, and more.

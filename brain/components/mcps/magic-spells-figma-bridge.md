@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-10-14T09:28:59Z"
+pushed_at: "2026-10-21T21:56:38Z"
 ---
 ## What it is
 MCP server `Figma Bridge`, catalogued on PulseMCP. Bridges Figma documents with external tools through a WebSocket-based dual-architecture system providing node creation, styling, layout management, component handling, and design system automation with token-efficient search capabilities.

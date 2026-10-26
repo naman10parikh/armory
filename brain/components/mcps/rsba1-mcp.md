@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T10:45:52Z"
+pushed_at: "2026-10-25T12:53:41Z"
 ---
 ## What it is
 Enables AI agents to read frequency, mode, and signal meter, as well as set frequency and control PTT on Icom IC-705/9700 and CI-V transceivers over the network using the RS-BA1 protocol.

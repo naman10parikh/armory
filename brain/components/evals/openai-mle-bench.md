@@ -8,13 +8,13 @@ source_url: https://github.com/openai/mle-bench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1780
+stars: 1786
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, evals]
-forks: 262
+forks: 263
 pushed_at: "2026-04-24T17:33:44Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T19:06:50Z"
+pushed_at: "2026-10-21T17:17:53Z"
 ---
 ## What it is
 MCP server for one-time secret sharing, enabling AI agents to securely claim and store secrets (e.g., API keys) via claim codes without exposing them in chat transcripts.

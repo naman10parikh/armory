@@ -12,8 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
 stars: 36
-forks: 11
-pushed_at: "2026-10-17T00:59:29Z"
+forks: 10
+pushed_at: "2026-10-23T00:56:25Z"
 ---
 ## What it is
 Fetch content from login-protected web pages (Notion, Google Docs, Jira, Confluence, etc.) by opening a real browser for authentication with persistent session caching.

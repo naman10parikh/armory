@@ -8,13 +8,13 @@ source_url: https://github.com/benjaminr/mcp-koii
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 31
+stars: 32
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-02-21T20:38:50Z"
+forks: 8
+pushed_at: "2026-10-25T22:00:04Z"
 ---
 ## What it is
 Enables controlling a Teenage Engineering EP-133 K.O. II sampler via MIDI through natural language, allowing note playback, pattern creation, and drum pattern sequencing.

@@ -8,11 +8,11 @@ source_url: https://github.com/egoist/shell-command-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 63
+stars: 66
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 6
 pushed_at: "2025-04-07T13:56:10Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T12:25:52Z"
+pushed_at: "2026-10-25T12:56:26Z"
 ---
 ## What it is
 MCP server that initializes, manages, and operates traceable agentic infrastructure across your digital ecosystem, serving as a control plane to know project states, health, and initialize missing setups.

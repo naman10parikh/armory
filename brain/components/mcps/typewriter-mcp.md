@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-05T14:29:24Z"
+pushed_at: "2026-10-23T09:03:59Z"
 ---
 ## What it is
 Enables AI assistants to read and edit storylines for the Typewriter Minecraft plugin, including pages, dialogues, facts, and triggers, over websocket or offline file mode.

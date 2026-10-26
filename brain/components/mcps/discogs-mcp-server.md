@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-07T13:25:55Z"
+pushed_at: "2026-10-23T17:11:43Z"
 ---
 ## What it is
 A powerful Model Context Protocol (MCP) server that enables AI assistants to interact with your personal Discogs music collection.

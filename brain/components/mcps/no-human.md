@@ -8,12 +8,12 @@ source_url: https://github.com/no-human-ai/no_human
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 332
+stars: 329
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 32
+forks: 31
 pushed_at: "2026-10-09T20:14:28Z"
 ---
 ## What it is

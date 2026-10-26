@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:13:48Z"
+pushed_at: "2026-10-24T21:35:26Z"
 ---
 ## What it is
 Enables querying ENERGY STAR Open Data via Socrata MCP tools for searching datasets, running SoQL queries, and retrieving metadata.

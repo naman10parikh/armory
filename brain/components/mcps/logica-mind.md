@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-13T10:25:43Z"
+pushed_at: "2026-10-25T14:09:56Z"
 ---
 ## What it is
 Long-term memory for AI agents over MCP — episodic + semantic memory, a temporal knowledge graph, and a dialectic user model, exposed as 32 tools (recall, remember, context, graph, dreaming, peers). Zero dependencies, runs fully offline; leads the LoCoMo benchmark at ~35x fewer LLM calls.

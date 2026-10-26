@@ -8,13 +8,13 @@ source_url: https://github.com/Bbeierle12/Skill-MCP-Claude
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-19T07:03:14Z"
+pushed_at: "2026-10-26T07:04:36Z"
 ---
 ## What it is
 A visual web interface and MCP server for managing Claude MCP Skills, enabling users to create, edit, browse, and load skill sets through a browser UI or directly from Claude Desktop.

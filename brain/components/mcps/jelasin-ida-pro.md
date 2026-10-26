@@ -8,12 +8,12 @@ source_url: https://github.com/captain-ai-hub/ida-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 247
+stars: 251
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 47
-pushed_at: "2026-10-16T07:58:26Z"
+forks: 48
+pushed_at: "2026-10-20T10:10:28Z"
 ---
 ## What it is
 MCP server `IDA Pro`, catalogued on PulseMCP. Bridges IDA Pro disassembler with external tools through a proxy architecture that enables remote access to binary analysis capabilities, disassembly data, and reverse engineering workflows via Server-Sent Events communication.

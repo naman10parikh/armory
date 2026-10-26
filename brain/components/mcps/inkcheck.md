@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-06T11:40:03Z"
+pushed_at: "2026-10-26T00:21:30Z"
 ---
 ## What it is
 MCP server for AI agents to compile, playtest, and exhaustively explore ink interactive fiction stories, catching compile errors, runtime errors, unreachable content, and verifying story structure.

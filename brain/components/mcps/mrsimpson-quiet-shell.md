@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-18T21:01:18Z"
+pushed_at: "2026-10-24T06:38:47Z"
 ---
 ## What it is
 MCP server `Quiet Shell`, catalogued on PulseMCP. Executes shell commands with intelligent output filtering that reduces context consumption by extracting only errors and important information using configurable regex templates for common development tools.

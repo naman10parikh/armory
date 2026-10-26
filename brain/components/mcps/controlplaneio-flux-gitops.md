@@ -8,12 +8,12 @@ source_url: https://github.com/controlplaneio-fluxcd/flux-operator
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 774
+stars: 779
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 81
-pushed_at: "2026-10-14T21:37:44Z"
+forks: 79
+pushed_at: "2026-10-26T13:50:05Z"
 ---
 ## What it is
 MCP server `Flux GitOps`, catalogued on PulseMCP. Provides a bridge between Kubernetes GitOps operations and Flux CD ecosystem, enabling debugging, resource management, and workflow troubleshooting through specialized tools for log retrieval, reconciliation, and cluster context switching.

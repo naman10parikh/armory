@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-09-22T02:44:30Z"
+forks: 2
+pushed_at: "2026-10-26T11:33:46Z"
 ---
 ## What it is
 Official DSers MCP Server enabling AI-powered dropshipping automation, including product search, import, optimization, and supplier replacement.

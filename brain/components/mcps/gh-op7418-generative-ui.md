@@ -8,11 +8,11 @@ source_url: https://github.com/op7418/generative-ui-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 61
+stars: 62
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
+forks: 8
 pushed_at: "2026-03-16T04:50:31Z"
 ---
 ## What it is

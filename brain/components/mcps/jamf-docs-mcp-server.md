@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T19:15:43Z"
+pushed_at: "2026-10-21T01:08:31Z"
 ---
 ## What it is
 Provides AI assistants with direct access to Jamf official documentation, enabling them to answer Jamf-related questions by searching, retrieving articles, and browsing product documentation.

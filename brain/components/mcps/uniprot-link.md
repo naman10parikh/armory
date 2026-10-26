@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T02:10:27Z"
+pushed_at: "2026-10-26T03:22:39Z"
 ---
 ## What it is
 An MCP server that grounds protein research in the UniProt SPARQL endpoint, providing tools for querying proteins, sequences, variants, diseases, and more via intent-named tools and raw SPARQL.

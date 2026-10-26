@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T08:46:31Z"
+pushed_at: "2026-10-21T08:18:33Z"
 ---
 ## What it is
 A personal calorie and protein counter MCP server for use inside claude.ai, enabling users to log meals from photos or text, track weight, and view an interactive dashboard.

@@ -8,13 +8,13 @@ source_url: https://github.com/bitterdev/enpass-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T11:07:02Z"
+pushed_at: "2026-10-19T18:15:39Z"
 ---
 ## What it is
 Provides local, secure access to Enpass password vaults via MCP. Enables unlocking vaults, listing entries, retrieving passwords, TOTP codes, and attachments, with optional write support.

@@ -8,11 +8,11 @@ source_url: https://github.com/andreisirbu91-lab/mcpspend
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 71
+stars: 66
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
+forks: 3
 pushed_at: "2026-08-31T20:37:07Z"
 ---
 ## What it is

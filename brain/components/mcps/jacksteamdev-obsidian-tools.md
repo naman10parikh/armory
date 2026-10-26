@@ -8,11 +8,11 @@ source_url: https://github.com/jacksteamdev/obsidian-mcp-tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 829
+stars: 828
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 121
+forks: 120
 pushed_at: "2026-05-13T16:13:25Z"
 ---
 ## What it is

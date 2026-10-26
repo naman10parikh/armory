@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-22T00:37:02Z"
+pushed_at: "2026-10-24T18:36:44Z"
 ---
 ## What it is
 Provides persistent memory, reasoning engine, agent-to-agent sharing, and immutable audit trail for AI agents via the Model Context Protocol.

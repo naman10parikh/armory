@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, home-automation]
 stars: 24
-forks: 8
+forks: 9
 pushed_at: "2026-10-12T06:50:53Z"
 ---
 ## What it is

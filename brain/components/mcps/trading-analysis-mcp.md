@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T09:33:57Z"
+pushed_at: "2026-10-21T01:51:10Z"
 ---
 ## What it is
 An MCP server that gives Claude the ability to analyze trading setups across IDX, Forex, and Crypto markets without executing trades.

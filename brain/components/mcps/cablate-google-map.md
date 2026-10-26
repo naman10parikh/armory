@@ -8,12 +8,12 @@ source_url: https://github.com/cablate/mcp-google-map
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 473
+stars: 484
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 94
-pushed_at: "2026-09-26T20:35:07Z"
+pushed_at: "2026-10-22T07:11:22Z"
 ---
 ## What it is
 MCP server `Google Maps`, catalogued on PulseMCP. Integrates with Google Maps API to enable location-based operations like place searching, geocoding, and geographical information retrieval within conversations.

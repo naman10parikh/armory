@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-27T21:02:39Z"
+pushed_at: "2026-10-23T01:01:58Z"
 ---
 ## What it is
 Enables web search, URL content extraction, arithmetic calculation, and report export via Exa AI and Python libraries.

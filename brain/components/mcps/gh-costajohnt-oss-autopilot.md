@@ -8,12 +8,12 @@ source_url: https://github.com/costajohnt/oss-autopilot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-10-17T17:58:04Z"
+forks: 5
+pushed_at: "2026-10-25T03:38:19Z"
 ---
 ## What it is
 MCP server `OSS Autopilot`, catalogued on PulseMCP. Tracks open source pull requests across GitHub, alerts on items needing attention, and helps respond to maintainer feedback.

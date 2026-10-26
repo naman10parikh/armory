@@ -8,13 +8,13 @@ source_url: https://github.com/Battam1111/omniseek
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 94
+stars: 95
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 15
-pushed_at: "2026-10-19T09:04:27Z"
+pushed_at: "2026-10-26T09:07:33Z"
 ---
 ## What it is
 Your agent seeks what search can't find. A self-hosted perception MCP server that transcribes speech, reads behind logins, sees images and video frames, crosses languages, and remembers.

@@ -8,13 +8,13 @@ source_url: https://github.com/nweii/obsidian-remote-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-15T03:33:55Z"
+pushed_at: "2026-10-25T20:38:51Z"
 ---
 ## What it is
 Self-hosted MCP server that provides remote AI clients with read and write access to Obsidian vaults over HTTPS without needing the Obsidian desktop app running.

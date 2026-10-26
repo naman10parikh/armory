@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T10:51:52Z"
+pushed_at: "2026-10-26T08:57:45Z"
 ---
 ## What it is
 MCP server for weather forecasts via Open-Meteo (no API key needed), providing current weather, hourly, and daily forecasts with geocoding support.

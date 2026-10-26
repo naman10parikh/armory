@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T22:54:54Z"
+pushed_at: "2026-10-24T03:53:11Z"
 ---
 ## What it is
 Brazilian company-registry lookup via Receita Federal, allowing AI agents to query CNPJ data.

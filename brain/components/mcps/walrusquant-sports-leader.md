@@ -12,8 +12,8 @@ stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-10-06T14:51:14Z"
+forks: 2
+pushed_at: "2026-10-21T13:15:33Z"
 ---
 ## What it is
 MCP server `Sports Leader`, catalogued on PulseMCP. Access live ESPN sports data across 17 sports and 139 leagues — scores, stats, rosters, betting odds, and standings without authentication.

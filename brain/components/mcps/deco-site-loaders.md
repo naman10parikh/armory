@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-09-25T18:35:50Z"
+pushed_at: "2026-10-21T17:49:47Z"
 ---
 ## What it is
 MCP server `Deco Site Loaders`, catalogued on PulseMCP. Transforms Deco site loaders into dynamic tools by extracting schemas from metadata, enabling seamless discovery and invocation of website capabilities through Server-Sent Events

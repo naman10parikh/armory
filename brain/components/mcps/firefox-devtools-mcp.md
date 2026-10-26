@@ -8,13 +8,13 @@ source_url: https://github.com/mozilla/firefox-devtools-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 502
+stars: 523
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 69
-pushed_at: "2026-10-16T09:19:44Z"
+forks: 74
+pushed_at: "2026-10-26T13:50:22Z"
 ---
 ## What it is
 Automates Firefox via WebDriver BiDi for browser control, including navigation, screenshot, network capture, and script execution, using natural language through MCP clients.

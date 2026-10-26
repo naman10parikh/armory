@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T08:15:29Z"
+pushed_at: "2026-10-23T04:29:57Z"
 ---
 ## What it is
 Enables natural language management of GitHub Projects V2, including issue creation, status changes, sprint reports, and project setup via MCP tools and shell scripts.

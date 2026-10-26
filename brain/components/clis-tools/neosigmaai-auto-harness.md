@@ -8,13 +8,13 @@ source_url: https://github.com/neosigmaai/auto-harness
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 552
+stars: 554
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 65
+forks: 66
 pushed_at: "2026-09-16T11:45:26Z"
 ---
 ## What it is

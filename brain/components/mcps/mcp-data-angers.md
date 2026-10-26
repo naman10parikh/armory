@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:05:40Z"
+pushed_at: "2026-10-24T21:31:06Z"
 ---
 ## What it is
 Enables searching, exploring, and querying Angers Loire Métropole open data datasets (mobility, urban services, environment) using natural language or direct tool calls.

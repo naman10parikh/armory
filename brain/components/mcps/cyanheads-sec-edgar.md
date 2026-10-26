@@ -8,12 +8,12 @@ source_url: https://github.com/cyanheads/secedgar-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-18T23:33:52Z"
+pushed_at: "2026-10-26T07:31:42Z"
 ---
 ## What it is
 MCP server `SEC EDGAR by cyanheads`, catalogued on PulseMCP. Query SEC EDGAR filings, XBRL financials, and company data with tools for company search, full-text filing search, financial data retrieval, and cross-company metric comparison.

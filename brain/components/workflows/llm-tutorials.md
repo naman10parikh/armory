@@ -14,7 +14,7 @@ verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, tutorials-learning-resources]
 forks: 0
-pushed_at: "2026-09-15T06:58:41Z"
+pushed_at: "2026-10-22T06:56:15Z"
 ---
 ## What it is
 AI drawing learning guide

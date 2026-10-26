@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T14:22:14Z"
+pushed_at: "2026-10-24T05:08:09Z"
 ---
 ## What it is
 MCP server that exposes Ansible modules to AI agents with a search-schema-check-execute workflow, enabling safe ad-hoc runs via check mode by default. It provides tools to search modules, fetch schemas, run modules, and list collections.

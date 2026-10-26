@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-09-25T21:23:38Z"
+pushed_at: "2026-10-25T14:44:07Z"
 ---
 ## What it is
 MCP server `YNAB`, catalogued on PulseMCP. Integrates with YNAB's official API to provide read-only access to budget data including accounts, categories, and monthly budget information with automatic currency formatting and pagination support.

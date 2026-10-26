@@ -8,12 +8,12 @@ source_url: https://github.com/AgriciDaniel/wp-mcp-ultimate
 license: GPL 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 167
+stars: 169
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 34
+forks: 35
 pushed_at: "2026-08-04T21:37:55Z"
 ---
 ## What it is

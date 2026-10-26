@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-19T12:45:37Z"
+pushed_at: "2026-10-22T09:58:04Z"
 ---
 ## What it is
 MCP server for controlling a live SOLIDWORKS session through the Windows COM API, enabling native CAD operations like sketches, features, bodies, views, and exports, plus transactional plans and vectorization.

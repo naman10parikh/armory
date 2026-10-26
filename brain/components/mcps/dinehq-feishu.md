@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-16T22:54:42Z"
+pushed_at: "2026-10-21T07:10:41Z"
 ---
 ## What it is
 MCP server `Feishu`, catalogued on PulseMCP. Reads Feishu (Lark) documents, spreadsheets, and bitables with OAuth2 user token authentication and automatic refresh.

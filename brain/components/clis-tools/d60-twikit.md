@@ -8,13 +8,13 @@ source_url: https://github.com/d60/twikit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 4740
+stars: 4755
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 573
+forks: 574
 pushed_at: "2026-03-10T10:19:44Z"
 ---
 ## What it is

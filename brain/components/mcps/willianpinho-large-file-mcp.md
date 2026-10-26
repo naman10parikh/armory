@@ -13,7 +13,7 @@ related: []
 tags: [mcp, file-systems]
 stars: 18
 forks: 4
-pushed_at: "2026-10-17T23:00:09Z"
+pushed_at: "2026-10-21T09:52:56Z"
 ---
 ## What it is
 Production-ready MCP server for intelligent handling of large files with smart chunking, navigation, streaming capabilities, regex search, and built-in LRU caching.

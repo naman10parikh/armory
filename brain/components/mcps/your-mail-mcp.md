@@ -8,12 +8,12 @@ source_url: https://github.com/wildsurfer/your-mail-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 7
 pushed_at: "2026-10-05T10:44:35Z"
 ---
 ## What it is

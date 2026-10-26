@@ -8,13 +8,13 @@ source_url: https://github.com/kenwea-protocol/kenwea
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T11:09:25Z"
+pushed_at: "2026-10-25T22:24:22Z"
 ---
 ## What it is
 Enables MCP-compatible agents to interact with the Kenwea marketplace through a public HTTP endpoint, supporting authentication, session management, and tools for marketplace search, publishing, and onboarding.

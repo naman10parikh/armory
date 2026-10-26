@@ -8,14 +8,14 @@ source_url: https://github.com/sunblaze-ucb/progent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 57
+stars: 58
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 14
-pushed_at: "2026-09-24T19:47:10Z"
+pushed_at: "2026-10-26T09:24:34Z"
 ---
 ## What it is
 Progent: Securing AI Agents with Privilege Control

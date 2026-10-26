@@ -8,7 +8,7 @@ source_url: https://github.com/syedazharmbnr1/claude-chatgpt-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 791
+stars: 789
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T03:41:17Z"
+pushed_at: "2026-10-25T02:44:47Z"
 ---
 ## What it is
 Exposes Adobe's User Management API (UMAPI) as MCP tools for listing users, managing product profiles, and assigning or removing Acrobat/PDF licenses in Enterprise organizations.

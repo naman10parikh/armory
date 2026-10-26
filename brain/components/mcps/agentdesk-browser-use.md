@@ -8,12 +8,12 @@ source_url: https://github.com/AgentDeskAI/browser-tools-mcp
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 7327
+stars: 7334
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, agentdesk]
-forks: 548
+forks: 536
 pushed_at: "2026-10-16T18:21:25Z"
 ---
 ## What it is

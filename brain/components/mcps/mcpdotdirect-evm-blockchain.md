@@ -8,11 +8,11 @@ source_url: https://github.com/mcpdotdirect/evm-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 378
+stars: 379
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 106
+forks: 105
 pushed_at: "2026-10-03T16:56:41Z"
 ---
 ## What it is

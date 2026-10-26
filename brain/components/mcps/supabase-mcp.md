@@ -8,7 +8,7 @@ source_url: https://github.com/coleam00/supabase-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 193
+stars: 194
 eval_score: null
 verified_at: 2026-05-27
 related: []

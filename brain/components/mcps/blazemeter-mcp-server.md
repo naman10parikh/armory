@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-05T12:12:06Z"
+pushed_at: "2026-10-26T12:31:23Z"
 ---
 ## What it is
 Enables AI agents to manage performance testing workflows on BlazeMeter's cloud platform through natural language interactions.

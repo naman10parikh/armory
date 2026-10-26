@@ -8,13 +8,13 @@ source_url: https://github.com/1shin-7/ya-frida-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 36
+stars: 37
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-19T12:02:35Z"
+pushed_at: "2026-10-26T12:12:35Z"
 ---
 ## What it is
 A comprehensive MCP server for Frida dynamic instrumentation, enabling AI agents to manage devices, processes, scripts, memory, and ADB operations.

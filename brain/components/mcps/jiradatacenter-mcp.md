@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-19T04:20:58Z"
+pushed_at: "2026-10-23T10:32:53Z"
 ---
 ## What it is
 MCP server for Jira Data Center / Server (self-hosted Jira, REST API v2) that exposes core work-item project-management operations (platform + Agile) as MCP tools.

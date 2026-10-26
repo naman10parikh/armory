@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T13:51:45Z"
+pushed_at: "2026-10-19T21:45:53Z"
 ---
 ## What it is
 Enables capturing HTTP/HTTPS webpages as images or PDFs using Screenshot Scout, with support for full-page, element, and device-specific captures, page interactions, and caching.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-09-29T20:20:39Z"
+pushed_at: "2026-10-25T01:53:38Z"
 ---
 ## What it is
 MCP server `Status Invest`, catalogued on PulseMCP. Provides a bridge to the Status Invest platform for accessing Brazilian stock market data, including payment dates, stock information, and financial indicators through an API that scrapes the website.

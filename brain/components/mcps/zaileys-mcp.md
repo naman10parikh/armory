@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-18T14:46:30Z"
+pushed_at: "2026-10-21T16:29:14Z"
 ---
 ## What it is
 Enables AI agents to control WhatsApp, including sending messages and media, reading chats, managing groups and communities, with QR/pairing auth and session persistence.

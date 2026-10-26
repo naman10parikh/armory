@@ -8,12 +8,12 @@ source_url: https://github.com/mongodb-js/mongodb-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1146
+stars: 1151
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 312
-pushed_at: "2026-10-19T11:43:08Z"
+forks: 299
+pushed_at: "2026-10-23T23:10:29Z"
 ---
 ## What it is
 MCP server `MongoDB`, catalogued on PulseMCP. Provides a bridge between MongoDB databases and conversational interfaces, enabling comprehensive database operations, collection management, schema inspection, and Atlas cloud service interactions with authentication and telemetry support.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-19T03:37:28Z"
+pushed_at: "2026-10-22T01:55:19Z"
 ---
 ## What it is
 Enables AI assistants to semantically search WSO2 documentation across multiple products using retrieval-augmented generation, with support for local or cloud embeddings.

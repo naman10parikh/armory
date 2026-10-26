@@ -8,13 +8,13 @@ source_url: https://github.com/FunplayAI/funplay-unity-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 265
+stars: 268
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 23
-pushed_at: "2026-10-08T10:23:01Z"
+forks: 22
+pushed_at: "2026-10-26T13:47:51Z"
 ---
 ## What it is
 This MCP server integrates AI assistants with Unity Editor, allowing them to create scenes, generate scripts, simulate input, and automate workflows using 91 built-in tools.

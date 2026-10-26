@@ -8,12 +8,12 @@ source_url: https://github.com/ChrystianSchutz/ThreadShelf
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 5
 pushed_at: "2026-10-03T21:29:18Z"
 ---
 ## What it is

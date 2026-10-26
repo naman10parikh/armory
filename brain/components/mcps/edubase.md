@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-10-18T19:05:16Z"
+pushed_at: "2026-10-25T15:44:36Z"
 ---
 ## What it is
 MCP server `EduBase`, catalogued on PulseMCP. Integrates AI assistants with the EduBase e-learning platform for quiz and exam management.

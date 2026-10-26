@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T15:34:13Z"
+pushed_at: "2026-10-23T15:34:16Z"
 ---
 ## What it is
 MCP server for managing mobile app releases on App Store Connect and Google Play. It exposes 101 tools for iOS and Android release lifecycle and reacts to EAS/GitHub webhooks automatically.

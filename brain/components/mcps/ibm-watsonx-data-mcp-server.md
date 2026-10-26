@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-10-02T18:08:28Z"
+pushed_at: "2026-10-26T10:27:41Z"
 ---
 ## What it is
 Enables AI assistants to interact seamlessly with IBM watsonx.data lakehouses using natural language for operations like querying, catalog browsing, engine management, and data ingestion.
