@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:31:04Z"
+pushed_at: "2026-10-22T22:33:06Z"
 ---
 ## What it is
 Enables AI agents to search and query Town of Grand Chute, Wisconsin open geospatial datasets (parcels, zoning, public works) via ArcGIS Feature Services.

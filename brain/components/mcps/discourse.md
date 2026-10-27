@@ -8,12 +8,12 @@ source_url: https://github.com/discourse/discourse-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 77
+stars: 78
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 43
-pushed_at: "2026-08-25T07:43:39Z"
+forks: 46
+pushed_at: "2026-10-21T20:40:03Z"
 ---
 ## What it is
 MCP server `Discourse`, catalogued on PulseMCP. Integrates with Discourse forums through API tools and remote tool discovery, enabling search, content management, user lookup, and automated community operations with configurable security controls and authentication support.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-29T22:39:32Z"
+pushed_at: "2026-10-18T09:13:11Z"
 ---
 ## What it is
 Audits web pages for WCAG 2.2 AA accessibility aligned with the GOV.UK standard using axe-core and headless Chromium, returning structured JSON, markdown reports, and GDS compliance summaries.

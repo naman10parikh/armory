@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T12:20:30Z"
+pushed_at: "2026-10-25T21:41:19Z"
 ---
 ## What it is
 Enables searching and quoting EU legislation with verifiable EUR-Lex citations, including GDPR, NIS2, DORA, and the EU AI Act.

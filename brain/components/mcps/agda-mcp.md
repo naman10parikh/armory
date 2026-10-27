@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-07T14:28:49Z"
+pushed_at: "2026-10-18T21:23:02Z"
 ---
 ## What it is
 Provides an MCP interface for Agda's JSON interaction protocol, enabling type checking and interactive editing of Agda modules with support for workspace management and non-blocking operations.

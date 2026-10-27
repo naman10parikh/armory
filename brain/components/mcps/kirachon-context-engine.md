@@ -12,8 +12,8 @@ stars: 48
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
-pushed_at: "2026-09-23T03:16:50Z"
+forks: 8
+pushed_at: "2026-10-23T03:39:10Z"
 ---
 ## What it is
 MCP server `Context Engine`, catalogued on PulseMCP. Provides semantic code search and context enhancement for local codebases using real-time file watching and background indexing to enable natural language queries for bug investigation, feature development, and code understanding.

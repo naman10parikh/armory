@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-19T07:45:13Z"
+pushed_at: "2026-10-16T08:52:10Z"
 ---
 ## What it is
 Enables one-click OAuth authorization to access Qichacha legal data (regulations and judicial cases) via MCP within DeepSeek Harness, with automatic token refresh and dynamic server mounting.

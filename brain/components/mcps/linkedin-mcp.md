@@ -8,14 +8,14 @@ source_url: https://github.com/devag7/linkedin-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: null
 forks: 3
-pushed_at: "2026-10-13T06:28:27Z"
+pushed_at: "2026-10-27T12:33:28Z"
 ---
 ## What it is
 Enables AI assistants to access and interact with LinkedIn data—profiles, messaging, jobs, companies, and more—via MCP, with remote or local deployment.

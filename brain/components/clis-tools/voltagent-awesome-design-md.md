@@ -8,14 +8,14 @@ source_url: https://github.com/VoltAgent/awesome-design-md
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 120860
+stars: 123918
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 13453
-pushed_at: "2026-10-12T13:17:12Z"
+forks: 13748
+pushed_at: "2026-10-14T05:46:48Z"
 ---
 ## What it is
 A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.

@@ -8,13 +8,13 @@ source_url: https://github.com/HappyLifeOk/cocos-mcp-gateway
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-09T10:31:41Z"
+forks: 2
+pushed_at: "2026-10-19T04:02:59Z"
 ---
 ## What it is
 Global MCP router and gateway for Cocos Creator, connecting Codex, Claude Code, and other stdio MCP clients to project extensions for offline Prefab querying and project snapshots.

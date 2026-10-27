@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T07:12:24Z"
+pushed_at: "2026-10-26T14:06:12Z"
 ---
 ## What it is
 Read-only MCP server for Kiwoom Securities, enabling natural language queries of Korean stock market data and account information, including ISA tax status.

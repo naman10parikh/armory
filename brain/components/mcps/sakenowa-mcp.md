@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-19T13:53:44Z"
+pushed_at: "2026-10-19T07:47:40Z"
 ---
 ## What it is
 Enables LLMs to search, profile, and compare Japanese sake using a flavor-space engine, including similarity recommendations and side-by-side comparisons.

@@ -8,13 +8,13 @@ source_url: https://github.com/OSU-NLP-Group/Online-Mind2Web
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 205
+stars: 209
 eval_score: null
 mentions: 4
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 15
+forks: 14
 pushed_at: "2026-06-25T03:13:56Z"
 ---
 ## What it is

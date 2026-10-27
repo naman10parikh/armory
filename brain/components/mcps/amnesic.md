@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-13T11:50:14Z"
+pushed_at: "2026-10-27T09:50:03Z"
 ---
 ## What it is
 Persistent semantic memory for your SQL databases. The name is ironic — it remembers everything.

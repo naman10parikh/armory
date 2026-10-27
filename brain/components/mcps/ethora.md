@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-09T12:07:02Z"
+pushed_at: "2026-10-22T19:54:31Z"
 ---
 ## What it is
 MCP server `Ethora`, catalogued on PulseMCP. Integrates AI assistants with the Ethora chat platform for messaging, AI bots, and ERC-20 wallets.

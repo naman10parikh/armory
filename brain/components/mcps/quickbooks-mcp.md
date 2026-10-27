@@ -8,13 +8,13 @@ source_url: https://github.com/laf-rge/quickbooks-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-08-24T21:53:38Z"
+pushed_at: "2026-10-19T16:40:28Z"
 ---
 ## What it is
 Enables financial professionals to interact with QuickBooks Online using natural language for reports, journal entries, bills, expenses, and more.

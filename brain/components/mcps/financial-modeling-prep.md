@@ -12,8 +12,8 @@ stars: 150
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 53
-pushed_at: "2026-10-13T06:21:07Z"
+forks: 55
+pushed_at: "2026-10-14T14:16:31Z"
 ---
 ## What it is
 MCP server `Financial Modeling Prep`, catalogued on PulseMCP. Integrates with Financial Modeling Prep API to provide access to real-time and historical financial data across stocks, company profiles, financial statements, technical indicators, and economic information for investment research and market analysis.

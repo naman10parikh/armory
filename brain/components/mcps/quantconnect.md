@@ -12,8 +12,8 @@ stars: 79
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 33
-pushed_at: "2026-05-07T16:17:32Z"
+forks: 32
+pushed_at: "2026-10-26T19:34:55Z"
 ---
 ## What it is
 MCP server `QuantConnect`, catalogued on PulseMCP. Integrates with QuantConnect's algorithmic trading platform to enable complete trading algorithm development lifecycle including project management, backtesting, optimization, live deployment, and code assistance across 40+ specialized tools.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T00:21:06Z"
+pushed_at: "2026-10-18T13:41:59Z"
 ---
 ## What it is
 Audits Make.com scenario blueprints before import, checking for hardcoded secrets, dangling references, plain-HTTP URLs, and other issues. Provides tools to inspect blueprint structure, trace module mappings, and generate a safety findings report.

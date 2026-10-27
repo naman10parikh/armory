@@ -8,13 +8,13 @@ source_url: https://github.com/antohins/seo-tools-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T17:26:56Z"
+pushed_at: "2026-10-23T17:28:30Z"
 ---
 ## What it is
 Five general-purpose stdio MCP servers for SEO: access to SERP, Wordstat, Google Search Console, Yandex.Webmaster and Yandex.Metrica straight from Claude Code (or any MCP client). All tools are read-only, output is strict JSON. Not tied to a specific site: defaults (GSC property, Webmaster host, Met

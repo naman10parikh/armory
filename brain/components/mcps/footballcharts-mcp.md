@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-09T15:03:36Z"
+pushed_at: "2026-10-27T11:54:44Z"
 ---
 ## What it is
 Provides AI assistants with live football data for 90+ leagues including tables, results, fixtures, model probabilities, and Monte Carlo season projections from football-charts.com.

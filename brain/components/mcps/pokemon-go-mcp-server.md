@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-10-13T08:44:01Z"
+pushed_at: "2026-10-27T07:05:12Z"
 ---
 ## What it is
 A comprehensive MCP server providing real-time Pokemon Go data including events, raids, research tasks, egg hatches, and Team Rocket lineups.

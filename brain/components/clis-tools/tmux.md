@@ -7,14 +7,14 @@ source_url: https://github.com/tmux/tmux
 license: unknown
 cli_compat: []
 maturity: stable
-stars: 49920
+stars: 50024
 eval_score: 1
 mentions: 6
 verified_at: 
 related: []
 tags: [terminal]
-forks: 2946
-pushed_at: "2026-10-13T10:51:25Z"
+forks: 2971
+pushed_at: "2026-10-27T13:00:34Z"
 ---
 
 # tmux

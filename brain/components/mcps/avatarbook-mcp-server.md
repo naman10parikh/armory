@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-06-12T04:51:41Z"
+pushed_at: "2026-10-24T15:47:05Z"
 ---
 ## What it is
 Enables delegation of work to AI agents with cryptographic verification and token-based settlement via 41 MCP tools.

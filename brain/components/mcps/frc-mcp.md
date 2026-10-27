@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-14T01:13:37Z"
+pushed_at: "2026-10-21T04:42:13Z"
 ---
 ## What it is
 MCP server for querying lender-level FHA denial statistics from the 2025 HMDA record, exposing tools to get national, lender, state, and door-effect summaries.

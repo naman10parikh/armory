@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-25T04:41:03Z"
+pushed_at: "2026-10-21T20:50:13Z"
 ---
 ## What it is
 MCP server `Kawa Code`, catalogued on PulseMCP. Tracks development intent, records architectural decisions, and maintains persistent AI reasoning context across coding sessions.

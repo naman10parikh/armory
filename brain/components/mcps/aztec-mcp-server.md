@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-06-23T21:23:26Z"
+pushed_at: "2026-10-23T10:08:18Z"
 ---
 ## What it is
 Provides local access to Aztec documentation, examples, and source code via cloned repositories, with optional semantic search for enhanced querying.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-05T12:32:00Z"
+pushed_at: "2026-10-20T19:42:31Z"
 ---
 ## What it is
 Enables AI agents to automate Android release workflows via the Google Play Android Publisher API, including deploying builds, managing listings, and replying to reviews.

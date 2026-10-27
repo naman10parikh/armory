@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-10-12T00:13:56Z"
+pushed_at: "2026-10-26T22:44:42Z"
 ---
 ## What it is
 MCP server providing accurate Unity API documentation to prevent AI agents from hallucinating signatures, namespaces, and deprecated usage.

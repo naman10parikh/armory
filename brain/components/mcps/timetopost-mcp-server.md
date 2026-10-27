@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T12:48:23Z"
+pushed_at: "2026-10-18T00:10:03Z"
 ---
 ## What it is
 MCP server for TimeToPost that lets AI agents list accounts, schedule/publish/cancel posts, manage drafts and approvals, run AutoSEO, and read analytics via 32 tools.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T14:24:16Z"
+pushed_at: "2026-10-17T23:13:56Z"
 ---
 ## What it is
 Render HTML/markdown to PDF, export rows to xlsx, and fill AcroForm PDFs via MCP. STDIO or Streamable HTTP.

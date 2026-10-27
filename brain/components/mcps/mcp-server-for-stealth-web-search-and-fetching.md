@@ -8,13 +8,13 @@ source_url: https://github.com/maxylev/searchfetch
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-15T21:25:44Z"
+pushed_at: "2026-10-16T14:45:50Z"
 ---
 ## What it is
 A fault-tolerant, stealth-enabled Model Context Protocol (MCP) server for web searching and content fetching. Built for AI Agents (Cursor, Claude Code, OpenCode), it uses a stealth browser engine to fetch pages, dynamically handles SPAs/React, and converts bloat into token-optimized Markdown.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-07T22:21:10Z"
+pushed_at: "2026-10-23T06:48:56Z"
 ---
 ## What it is
 Enables Claude to discover and semantically search enterprise datasets through the Kortex data plane, exposing list_collections and retrieve tools for natural-language queries.

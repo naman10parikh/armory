@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T06:42:29Z"
+pushed_at: "2026-10-26T12:28:02Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that gives AI assistants the ability to search, analyze, and extract knowledge from YouTube videos.

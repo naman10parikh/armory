@@ -8,12 +8,12 @@ source_url: https://github.com/geheharidas/primo-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
+forks: 9
 pushed_at: "2026-04-08T09:05:15Z"
 ---
 ## What it is

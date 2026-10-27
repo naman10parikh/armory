@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 12
-pushed_at: "2026-08-06T20:31:55Z"
+pushed_at: "2026-10-21T15:55:19Z"
 ---
 ## What it is
 An HTTP stream server for interacting with the Intuition knowledge graph, enabling users to query and manage data through tools like extracting triples, searching entities, retrieving account info, and exploring relationships.

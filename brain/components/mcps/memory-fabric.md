@@ -8,13 +8,13 @@ source_url: https://github.com/elViRafa/agentic-memory
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T11:54:20Z"
+pushed_at: "2026-10-14T15:53:03Z"
 ---
 ## What it is
 Enables AI coding assistants to store and retrieve project-aware context as plain Markdown files locally, with no cloud or vector database required.

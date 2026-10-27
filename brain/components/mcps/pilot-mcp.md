@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T10:47:27Z"
+pushed_at: "2026-10-14T19:54:59Z"
 ---
 ## What it is
 An MCP server that gives agents access to a network of 435 specialist agents and peer-to-peer A2A messaging, enabling keyless, real-time data queries and direct communication with other agents.

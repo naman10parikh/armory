@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:48:27Z"
+pushed_at: "2026-10-25T21:37:24Z"
 ---
 ## What it is
 Enables querying US EPA Envirofacts data using natural language, providing access to environmental information through the Pipeworx MCP gateway.

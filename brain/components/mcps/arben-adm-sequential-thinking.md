@@ -8,12 +8,12 @@ source_url: https://github.com/arben-adm/mcp-sequential-thinking
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 955
+stars: 959
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 120
-pushed_at: "2026-09-25T05:13:29Z"
+forks: 119
+pushed_at: "2026-10-23T22:41:55Z"
 ---
 ## What it is
 MCP server `Sequential Thinking`, catalogued on PulseMCP. Implements structured step-by-step reasoning to break down and methodically analyze complex problems.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-09T10:22:07Z"
+pushed_at: "2026-10-22T12:15:12Z"
 ---
 ## What it is
 MCP server `TimelinesAI WhatsApp`, catalogued on PulseMCP. Connects WhatsApp Business communications to AI workflows via TimelinesAI.

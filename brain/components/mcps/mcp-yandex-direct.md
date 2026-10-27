@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-04T11:31:16Z"
+pushed_at: "2026-10-26T10:21:05Z"
 ---
 ## What it is
 Enables managing Yandex Direct PPC campaigns, ad groups, ads, and keywords, plus pulling performance statistics via the Yandex Direct API v5.

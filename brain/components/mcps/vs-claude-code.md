@@ -8,7 +8,7 @@ source_url: https://github.com/firish/claude_code_vs
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 100
+stars: 102
 eval_score: null
 verified_at: 2026-05-27
 related: []

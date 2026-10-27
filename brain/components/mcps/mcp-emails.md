@@ -8,13 +8,13 @@ source_url: https://github.com/Albretsen/MCPEmails
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-13T14:38:13Z"
+pushed_at: "2026-10-27T13:04:51Z"
 ---
 ## What it is
 Managed email for AI agents. Connect Gmail, iCloud, Fastmail, or any IMAP/SMTP inbox to Claude and other MCP clients.

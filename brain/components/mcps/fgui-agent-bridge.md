@@ -8,13 +8,13 @@ source_url: https://github.com/Wilson520403/fgui-agent-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 58
+stars: 71
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
-pushed_at: "2026-09-21T12:18:29Z"
+forks: 17
+pushed_at: "2026-10-21T03:02:51Z"
 ---
 ## What it is
 MCP server that enables AI agents to operate FairyGUI Editor through structured tools, using a local JSON file queue and the editor plugin to invoke FairyGUI APIs.

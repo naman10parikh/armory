@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T10:33:33Z"
+pushed_at: "2026-10-15T08:04:39Z"
 ---
 ## What it is
 Enables AI agents to call paid APIs and settle HTTP 402 payment challenges with USDC on Base, without private keys ever being involved.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-06T15:24:35Z"
+pushed_at: "2026-10-27T05:18:46Z"
 ---
 ## What it is
 Code intelligence MCP server for Claude Code providing multi-project code graph, semantic search, session history, knowledge base, and web search.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 26
-pushed_at: "2026-09-21T13:51:22Z"
+pushed_at: "2026-10-21T07:44:34Z"
 ---
 ## What it is
 Converts Apple Developer documentation, HIG, WWDC transcripts, and external Swift-DocC pages into Markdown for AI consumption via MCP tools and HTTP API.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T15:30:16Z"
+pushed_at: "2026-10-20T19:13:43Z"
 ---
 ## What it is
 MCP server providing engineering leadership benchmarks, partnership business case generation, and community launch readiness checks using real data from the Engineering Leaders Community.

@@ -8,13 +8,13 @@ source_url: https://github.com/dmayan-ss/mcp-ispkeeper
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-09-23T17:30:17Z"
+forks: 1
+pushed_at: "2026-10-19T19:45:49Z"
 ---
 ## What it is
 Read-only MCP server for ISPKeeper ISP management software, enabling querying of clients, invoices, collections, internet connections, support tickets, network status, and FTTx infrastructure through MCP-compatible clients.

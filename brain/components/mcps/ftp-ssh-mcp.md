@@ -8,13 +8,13 @@ source_url: https://github.com/Chris221/ftp-ssh-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T03:46:49Z"
+pushed_at: "2026-10-21T18:54:06Z"
 ---
 ## What it is
 MCP server for managing a remote host via FTP/FTPS/SFTP/SSH, offering file transfer, optional shell execution, and MySQL query tools.

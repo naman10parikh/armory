@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:28:37Z"
+pushed_at: "2026-10-22T22:30:28Z"
 ---
 ## What it is
 Enables searching and querying City of Detroit GIS open geospatial datasets (parcels, zoning, public works, etc.) via ArcGIS Feature/Map Service layers.

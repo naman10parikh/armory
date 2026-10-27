@@ -8,13 +8,13 @@ source_url: https://github.com/SimoneRecchia/minecraft-schematic-lab
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-09T21:35:36Z"
+pushed_at: "2026-10-19T15:02:41Z"
 ---
 ## What it is
 Enables building and previewing Minecraft schematics from natural language descriptions, with live 3D preview and export.

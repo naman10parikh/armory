@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-27T05:52:16Z"
+pushed_at: "2026-10-17T22:03:49Z"
 ---
 ## What it is
 An HTTP Model Context Protocol (MCP) server exposing iCloud Calendar (CalDAV) tools so MCP-aware clients can list calendars, read events, and create/update/delete events using an iCloud app-specific password.

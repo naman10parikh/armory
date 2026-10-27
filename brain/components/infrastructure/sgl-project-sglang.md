@@ -8,14 +8,14 @@ source_url: https://github.com/sgl-project/sglang
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 37083
+stars: 38258
 eval_score: null
 mentions: 5
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 9521
-pushed_at: "2026-10-13T14:43:34Z"
+forks: 9932
+pushed_at: "2026-10-27T13:01:23Z"
 ---
 ## What it is
 SGLang is a high-performance serving framework for large language models and multimodal models.

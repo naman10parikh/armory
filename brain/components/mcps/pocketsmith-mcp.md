@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-09-28T19:36:41Z"
+pushed_at: "2026-10-26T12:46:14Z"
 ---
 ## What it is
 Enables interaction with the PocketSmith personal finance API through 43 MCP tools for managing accounts, transactions, budgets, categories, and more.

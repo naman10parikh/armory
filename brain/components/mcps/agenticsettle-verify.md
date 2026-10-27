@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T23:22:23Z"
+pushed_at: "2026-10-19T08:49:38Z"
 ---
 ## What it is
 Free VOP (Verified Output Protocol) verification for AI agent outputs — score any output 0-100 and get a PASS/PARTIAL/FAIL verdict. No account, no escrow, no financial transaction of any kind.

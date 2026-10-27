@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 19
-pushed_at: "2026-01-14T16:24:11Z"
+pushed_at: "2026-10-27T02:44:16Z"
 ---
 ## What it is
 MCP server `InfluxDB`, catalogued on PulseMCP. Connects to InfluxDB time-series databases for querying measurements, writing data, and managing buckets through a bridge that exposes database functionality via tools and resources.

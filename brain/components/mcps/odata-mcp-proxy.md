@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 16
-pushed_at: "2026-10-01T07:02:00Z"
+forks: 17
+pushed_at: "2026-10-19T11:47:48Z"
 ---
 ## What it is
 A config-driven MCP server that exposes OData and REST APIs as MCP tools, enabling AI assistants to query, manage, and monitor SAP backends through natural language.

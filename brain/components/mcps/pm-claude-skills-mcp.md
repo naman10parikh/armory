@@ -8,13 +8,13 @@ source_url: https://github.com/mohitagw15856/pm-claude-skills
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1442
+stars: 1485
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 257
-pushed_at: "2026-10-13T12:44:05Z"
+forks: 261
+pushed_at: "2026-10-23T14:08:47Z"
 ---
 ## What it is
 In Anthropic's official Claude plugin directory · 400 professional Agent Skills (PRDs, launches, compliance, CVs & more) for Claude, ChatGPT, Gemini, Cursor & Codex. Try free in-browser, or 'npx pm-claude-skills add'

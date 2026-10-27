@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 26
-pushed_at: "2026-09-07T06:57:02Z"
+pushed_at: "2026-10-15T07:48:32Z"
 ---
 ## What it is
 MCP server `Oxylabs Web Scraping`, catalogued on PulseMCP. Integrates with Oxylabs web scraping services to extract, clean, and structure web content for real-time data analysis and monitoring workflows.

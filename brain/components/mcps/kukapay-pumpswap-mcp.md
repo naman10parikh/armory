@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 7
-forks: 7
+forks: 6
 pushed_at: "2025-05-06T08:25:03Z"
 ---
 ## What it is

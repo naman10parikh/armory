@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T07:07:52Z"
+pushed_at: "2026-10-23T10:17:28Z"
 ---
 ## What it is
 Enables discovery and analysis of automotive brand regional sales data, including brand details, regional store layouts, model sales rankings, and dealer information.

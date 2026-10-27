@@ -8,11 +8,13 @@ source_url: https://github.com/ahmedvnabil/uaemcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-10-26T01:08:50Z"
 ---
 ## What it is
 Provides source-cited access to official UAE open data through any MCP client, with PII redaction and SSRF protection built in.

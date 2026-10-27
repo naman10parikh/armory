@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T11:14:53Z"
+pushed_at: "2026-10-22T10:54:50Z"
 ---
 ## What it is
 Enables generating images from text prompts using various AI models (FLUX, Recraft, GPT Image, etc.) and automatically delivering them through Cloudinary's platform.

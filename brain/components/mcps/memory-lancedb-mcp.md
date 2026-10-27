@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-04-26T11:09:50Z"
+pushed_at: "2026-10-22T07:39:31Z"
 ---
 ## What it is
 Enables AI agents to store and recall persistent long-term memories across sessions using LanceDB, with semantic search, automatic linking, conflict detection, and maintenance tools.

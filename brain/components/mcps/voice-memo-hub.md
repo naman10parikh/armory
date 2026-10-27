@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-22T07:44:15Z"
+pushed_at: "2026-10-20T07:09:07Z"
 ---
 ## What it is
 Enables read-first interaction with Apple Voice Memos: search transcripts, review action candidates, mark reviewed, prepare tasks for Codex, and render digests.

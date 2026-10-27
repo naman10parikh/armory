@@ -8,12 +8,12 @@ source_url: https://github.com/cakerepository/1password-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
-pushed_at: "2026-10-04T10:24:42Z"
+forks: 6
+pushed_at: "2026-10-20T22:37:22Z"
 ---
 ## What it is
 MCP server `1Password`, catalogued on PulseMCP. MCP server for 1Password service accounts — tools and resources for vaults and credentials

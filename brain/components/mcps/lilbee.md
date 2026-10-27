@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-10-13T13:52:25Z"
+pushed_at: "2026-10-27T12:20:39Z"
 ---
 ## What it is
 Find, run, and manage your local AI models, then talk to your files, your code, and the sites you crawl. Every answer cites the source, it all runs on your own machine, and it's one program with nothing else to set up.

@@ -8,13 +8,13 @@ source_url: https://github.com/vulncheck-oss/mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-13T13:50:40Z"
+pushed_at: "2026-10-14T22:00:07Z"
 ---
 ## What it is
 Connects AI assistants to VulnCheck vulnerability intelligence for querying CVEs, exploits, advisories, and vulnerable packages via natural language.

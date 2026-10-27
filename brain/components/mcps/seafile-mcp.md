@@ -8,13 +8,13 @@ source_url: https://github.com/yesidc/seafile-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T08:41:35Z"
+pushed_at: "2026-10-26T11:18:12Z"
 ---
 ## What it is
 An MCP server that connects to Seafile, enabling file management, search, and library operations with per-user token authentication and configurable safety modes (read-only, safe-write, full).

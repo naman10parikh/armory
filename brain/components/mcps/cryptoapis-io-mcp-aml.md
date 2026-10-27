@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T11:47:32Z"
+pushed_at: "2026-10-20T19:35:00Z"
 ---
 ## What it is
 MCP server for Crypto APIs AML, enabling verification of blockchain addresses and screening of transactions for fraud, sanctions, and other AML risk categories.

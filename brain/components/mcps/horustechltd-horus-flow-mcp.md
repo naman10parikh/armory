@@ -13,7 +13,7 @@ related: []
 tags: [mcp, finance-fintech]
 stars: 4
 forks: 1
-pushed_at: "2026-09-26T07:28:59Z"
+pushed_at: "2026-10-27T10:08:53Z"
 ---
 ## What it is
 Institutional-grade crypto and US equity orderflow engine for real-time liquidity analysis and institutional alpha.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-13T14:40:20Z"
+pushed_at: "2026-10-27T08:41:58Z"
 ---
 ## What it is
 Agent tools for the Ophis intent-based DEX: parse, quote, build, relay orders, look up fee tiers.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T00:48:52Z"
+pushed_at: "2026-10-26T00:26:21Z"
 ---
 ## What it is
 Enables Claude Code to read, create, update, and delete Claude Cowork/claude.ai projects and their knowledge documents, including syncing local folders to projects, with safety features like backups and overwrite protection.

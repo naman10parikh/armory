@@ -12,8 +12,8 @@ stars: 235
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 20
-pushed_at: "2025-06-21T06:03:22Z"
+forks: 22
+pushed_at: "2026-10-25T02:57:49Z"
 ---
 ## What it is
 MCP server `Mermaid Diagram Generator`, catalogued on PulseMCP. Converts Mermaid diagrams to PNG images using Puppeteer for high-quality headless browser rendering, supporting multiple themes and customizable backgrounds.

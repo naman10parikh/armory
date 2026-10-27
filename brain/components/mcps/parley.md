@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T08:12:03Z"
+pushed_at: "2026-10-26T05:47:27Z"
 ---
 ## What it is
 A transport-agnostic MCP seam for messages, context sharing, and task hand-off between humans, chat bots, and coding agents. Supports multiple backends like SQLite, Redis, Matrix, NATS, and XMPP to bridge Claude chat with Claude Code.

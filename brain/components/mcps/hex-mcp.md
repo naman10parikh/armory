@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T06:10:30Z"
+pushed_at: "2026-10-19T20:25:48Z"
 ---
 ## What it is
 An MCP server that exposes Hex's public API as deterministic, snake_case MCP tools, supporting read-only and full operation modes.

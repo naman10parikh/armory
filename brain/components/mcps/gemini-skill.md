@@ -8,12 +8,12 @@ source_url: https://github.com/WJZ-P/gemini-skill
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 833
+stars: 832
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 121
+forks: 122
 pushed_at: "2026-09-18T13:41:01Z"
 ---
 ## What it is

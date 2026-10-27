@@ -8,13 +8,13 @@ source_url: https://github.com/LimEulYoung/legal-search-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-13T00:55:51Z"
+pushed_at: "2026-10-27T10:46:29Z"
 ---
 ## What it is
 This MCP server provides Korean legal search tools for finding judgments, statutes, and sentencing statistics, and computing sentencing ranges.

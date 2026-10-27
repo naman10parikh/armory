@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-03-26T20:52:42Z"
+pushed_at: "2026-10-22T11:14:40Z"
 ---
 ## What it is
 A Scrum-aware MCP server that provides semantic analysis of Jira issues, sprint health, and Agile workflow intelligence, returning structured summaries and recommendations instead of raw Jira payloads.

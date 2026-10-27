@@ -8,12 +8,12 @@ source_url: https://github.com/oleksiijko/pmb
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 282
+stars: 287
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 28
+forks: 30
 pushed_at: "2026-09-23T18:04:47Z"
 ---
 ## What it is

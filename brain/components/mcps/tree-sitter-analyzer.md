@@ -8,13 +8,13 @@ source_url: https://github.com/aimasteracc/tree-sitter-analyzer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 52
+stars: 61
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
-pushed_at: "2026-10-13T14:49:17Z"
+forks: 17
+pushed_at: "2026-10-26T05:23:54Z"
 ---
 ## What it is
 An MCP code-intelligence server for AI agents with pre-indexed AST cache, 62 MCP tools, and TOON-compressed output, enabling token-efficient code analysis and project health grading entirely locally.

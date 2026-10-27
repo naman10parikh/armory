@@ -8,13 +8,13 @@ source_url: https://github.com/cabinetai/cabinet
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2881
+stars: 2888
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 299
+forks: 297
 pushed_at: "2026-08-25T17:52:55Z"
 ---
 ## What it is

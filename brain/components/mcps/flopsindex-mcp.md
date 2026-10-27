@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T01:29:17Z"
+pushed_at: "2026-10-14T16:06:23Z"
 ---
 ## What it is
 Provides public price indices for GPU rentals (spot, on-demand, DePIN) with verify URLs, enabling agents and users to query and verify compute economics rates.

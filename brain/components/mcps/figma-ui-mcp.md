@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 48
-pushed_at: "2026-10-11T09:04:39Z"
+forks: 50
+pushed_at: "2026-10-26T07:27:18Z"
 ---
 ## What it is
 Bidirectional MCP bridge enabling AI assistants to draw UI on Figma canvas and read designs back as structured data or code tokens via localhost, requiring Figma Desktop.

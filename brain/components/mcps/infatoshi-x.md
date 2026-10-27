@@ -8,11 +8,11 @@ source_url: https://github.com/infatoshi/x-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 55
+stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 16
+forks: 17
 pushed_at: "2026-03-24T09:16:39Z"
 ---
 ## What it is

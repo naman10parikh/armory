@@ -8,11 +8,11 @@ source_url: https://github.com/geo2004/mcp-arcgispro
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
+forks: 7
 pushed_at: "2026-09-13T13:23:46Z"
 ---
 ## What it is

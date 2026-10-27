@@ -8,13 +8,13 @@ source_url: https://github.com/solana-foundation/solana-mcp-official
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 81
+stars: 82
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 24
-pushed_at: "2026-10-01T13:14:04Z"
+pushed_at: "2026-10-26T20:55:00Z"
 ---
 ## What it is
 Enables AI agents to access and search up-to-date Solana documentation, get canonical spec references, and fix Anchor/Pinocchio Solana programs via MCP tools.

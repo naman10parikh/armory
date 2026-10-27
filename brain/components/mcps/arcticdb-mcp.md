@@ -8,13 +8,13 @@ source_url: https://github.com/YMuskrat/arcticdb_mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 775
+stars: 728
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 66
-pushed_at: "2026-10-11T16:49:56Z"
+forks: 57
+pushed_at: "2026-10-20T15:49:30Z"
 ---
 ## What it is
 An MCP server for structured read/write access to ArcticDB, enabling AI assistants to automate symbol updates, batch jobs, and time-series queries with built-in versioning.

@@ -8,11 +8,13 @@ source_url: https://github.com/mguttmann/action1-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-10-27T11:41:56Z"
 ---
 ## What it is
 A production-grade MCP server that wraps the entire Action1 REST API, enabling Claude or any MCP host to manage endpoints, run scripts, deploy updates, and more via natural language with safety guards.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:33:02Z"
+pushed_at: "2026-10-25T03:48:55Z"
 ---
 ## What it is
 Enables substring-search of documentation entries from DevDocs.io via a single tool.

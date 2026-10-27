@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T09:21:59Z"
+pushed_at: "2026-10-26T19:19:19Z"
 ---
 ## What it is
 Free email for AI agents with hardware attestation, real SMTP/IMAP/JMAP, and real-time notifications.

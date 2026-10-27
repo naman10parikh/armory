@@ -8,12 +8,12 @@ source_url: https://github.com/crisnahine/rails-ai-context
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 163
+stars: 167
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-10-13T14:17:22Z"
+pushed_at: "2026-10-26T23:24:42Z"
 ---
 ## What it is
 MCP server `Rails AI Context`, catalogued on PulseMCP. Auto-expose Rails app structure to AI assistants via MCP with zero-config introspection.

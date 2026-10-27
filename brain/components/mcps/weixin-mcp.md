@@ -8,12 +8,12 @@ source_url: https://github.com/bkmashiro/weixin-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 4
 pushed_at: "2026-10-08T13:13:25Z"
 ---
 ## What it is

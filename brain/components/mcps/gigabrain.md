@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-29T20:53:16Z"
+pushed_at: "2026-10-26T21:12:38Z"
 ---
 ## What it is
 A local-first memory control plane for AI agents, providing auditable recall via MCP with provenance and contradiction handling.

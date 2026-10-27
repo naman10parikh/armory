@@ -8,14 +8,14 @@ source_url: https://github.com/traycerai/traycer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1608
+stars: 1636
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 212
-pushed_at: "2026-10-13T14:30:52Z"
+forks: 211
+pushed_at: "2026-10-27T12:57:42Z"
 ---
 ## What it is
 Traycer: Nerve Center for Agentic Coding

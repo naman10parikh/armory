@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T14:32:12Z"
+pushed_at: "2026-10-17T10:50:49Z"
 ---
 ## What it is
 MCP server for the Shopline Open API. Exposes 140+ tools for querying and managing orders, products, customers, promotions, analytics, and store settings from your Shopline store via Claude.

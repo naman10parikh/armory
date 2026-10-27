@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T07:27:58Z"
+pushed_at: "2026-10-14T07:29:07Z"
 ---
 ## What it is
 Enables Codex to clarify requirements via native MCP elicitation controls, supporting single/multiple-choice and free-text questions with recommended answers and a discuss-first option.

@@ -8,12 +8,12 @@ source_url: https://github.com/bonfire-audio/reaper-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 154
+stars: 166
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 33
-pushed_at: "2026-10-07T22:56:28Z"
+forks: 35
+pushed_at: "2026-10-25T18:45:45Z"
 ---
 ## What it is
 MCP server `REAPER`, catalogued on PulseMCP. Bridges REAPER digital audio workstation with external tools, enabling comprehensive control for music production tasks including project management, track operations, MIDI composition, and mixing without direct interface navigation.

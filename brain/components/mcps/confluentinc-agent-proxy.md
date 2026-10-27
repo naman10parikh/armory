@@ -14,7 +14,7 @@ verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, integration-services]
 forks: 2
-pushed_at: "2026-10-07T13:31:01Z"
+pushed_at: "2026-10-25T18:45:43Z"
 ---
 ## What it is
 Agent proxy for Confluent

@@ -8,12 +8,12 @@ source_url: https://github.com/jack1590/rokumcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-10-12T00:14:08Z"
+forks: 3
+pushed_at: "2026-10-15T18:09:33Z"
 ---
 ## What it is
 MCP server `Roku`, catalogued on PulseMCP. Automates Roku devices through app deployment, remote control commands, screenshot capture, SceneGraph inspection, and debug console access.

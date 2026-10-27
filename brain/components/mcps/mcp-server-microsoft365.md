@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T08:49:09Z"
+pushed_at: "2026-10-25T15:15:34Z"
 ---
 ## What it is
 Enables identity provisioning and management for Microsoft 365/Entra ID via Microsoft Graph, including user creation, license assignment, group membership management, and more, with a focus on least-privilege and idempotency.

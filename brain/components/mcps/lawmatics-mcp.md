@@ -8,13 +8,13 @@ source_url: https://github.com/oktopeak/lawmatics-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-09T15:01:44Z"
+pushed_at: "2026-10-15T12:57:47Z"
 ---
 ## What it is
 Connects Claude to Lawmatics legal CRM, enabling natural-language queries and management of matters, contacts, pipeline data, tasks, intake forms, and more without leaving the conversation.

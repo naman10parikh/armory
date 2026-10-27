@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-10-12T09:35:34Z"
+pushed_at: "2026-10-26T09:29:13Z"
 ---
 ## What it is
 A multi-model AI orchestration MCP server for automated code review and LLM-powered analysis, integrating with Claude Code and OpenCode to orchestrate multiple AI models for code quality checks, security analysis, and multi-agent consensus.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T12:17:41Z"
+pushed_at: "2026-10-23T12:13:58Z"
 ---
 ## What it is
 Read-only MCP server for Canvas LMS that exposes tools to list courses, assignments, grades, submissions, syllabi, announcements, modules, pages, and files, without any write operations.

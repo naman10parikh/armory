@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T07:45:59Z"
+pushed_at: "2026-10-26T11:13:14Z"
 ---
 ## What it is
 Enables local file search, packing into LLM-ready context, and inspection via an MCP server on stdio.

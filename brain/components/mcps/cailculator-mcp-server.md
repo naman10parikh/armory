@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T04:37:55Z"
+pushed_at: "2026-10-23T00:49:58Z"
 ---
 ## What it is
 MCP server for high-dimensional algebraic structure analysis, enabling AI agents to compute within sedenion and higher Cayley-Dickson algebras using formally verified transforms.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T12:21:43Z"
+pushed_at: "2026-10-25T21:42:49Z"
 ---
 ## What it is
 Generates humorous or plausible excuses for being late, missing deadlines, or ghosting someone via the StupidAPIs service.

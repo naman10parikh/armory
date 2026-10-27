@@ -8,13 +8,13 @@ source_url: https://github.com/wkoverfield/quilt
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T14:11:12Z"
+pushed_at: "2026-10-22T16:33:59Z"
 ---
 ## What it is
 Quilt gives every AI agent line-level authorship in a shared Git checkout, so multiple agents work in one repo, and each commits only its own lines, with symbol-level claims that block collisions before any bytes change.

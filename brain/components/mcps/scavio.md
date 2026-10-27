@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-12T14:42:43Z"
+pushed_at: "2026-10-25T20:30:11Z"
 ---
 ## What it is
 An MCP server connecting AI agents to Google, YouTube, Amazon, Walmart, TikTok, and Reddit. 21 tools for web search, product lookup, video discovery, and social media analysis.

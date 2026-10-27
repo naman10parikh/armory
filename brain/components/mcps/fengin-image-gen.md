@@ -8,11 +8,11 @@ source_url: https://github.com/fengin/image-gen-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 229
+stars: 228
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 30
+forks: 29
 pushed_at: "2025-07-17T09:30:11Z"
 ---
 ## What it is

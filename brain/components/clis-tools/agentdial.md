@@ -15,7 +15,7 @@ verified_at: 2026-05-26
 related: [agentdial-identity, soul-md-spec, agent-file-format]
 tags: [identity, channels, agent-protocol, addressing]
 forks: 0
-pushed_at: "2026-06-10T03:28:27Z"
+pushed_at: "2026-10-21T04:07:10Z"
 ---
 
 ## What it is

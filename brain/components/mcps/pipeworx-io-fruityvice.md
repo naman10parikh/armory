@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-26T12:32:07Z"
+pushed_at: "2026-10-26T03:53:47Z"
 ---
 ## What it is
 MCP server `Fruityvice`, catalogued on PulseMCP. Retrieve nutritional information and taxonomy data for fruits from the Fruityvice API.

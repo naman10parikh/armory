@@ -8,13 +8,13 @@ source_url: https://github.com/WordPress/mcp-adapter
 license: GPL 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1834
+stars: 1883
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 211
-pushed_at: "2026-10-08T13:21:42Z"
+forks: 224
+pushed_at: "2026-10-26T20:11:05Z"
 ---
 ## What it is
 The official WordPress package for MCP integration that exposes WordPress abilities as Model Context Protocol (MCP) tools, resources, and prompts for AI agents.

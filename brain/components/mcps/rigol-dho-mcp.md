@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T19:51:00Z"
+pushed_at: "2026-10-17T01:36:31Z"
 ---
 ## What it is
 MCP server for controlling and reading Rigol DHO800/DHO900 oscilloscopes over LAN via SCPI commands.

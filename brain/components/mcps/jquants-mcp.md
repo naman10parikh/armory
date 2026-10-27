@@ -8,13 +8,13 @@ source_url: https://github.com/shigechika/jquants-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-10-12T23:48:33Z"
+forks: 2
+pushed_at: "2026-10-26T13:06:08Z"
 ---
 ## What it is
 An MCP server that retrieves Japanese stock market data via J-Quants API v2.

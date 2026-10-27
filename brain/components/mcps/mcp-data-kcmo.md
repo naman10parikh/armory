@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:15:59Z"
+pushed_at: "2026-10-24T21:37:48Z"
 ---
 ## What it is
 MCP server for accessing Kansas City, MO open data through the Socrata SODA API. Enables querying and retrieving public datasets from data.kcmo.org.

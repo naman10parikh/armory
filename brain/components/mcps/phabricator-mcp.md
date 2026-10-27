@@ -8,13 +8,13 @@ source_url: https://github.com/freelancer/phabricator-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-03-25T15:09:49Z"
+pushed_at: "2026-10-26T11:21:34Z"
 ---
 ## What it is
 Enables AI assistants to interact with Phabricator tasks, code reviews, repositories, and more via the Conduit API.

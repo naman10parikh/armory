@@ -8,12 +8,12 @@ source_url: https://github.com/numikel/law-scrapper-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-07T20:34:26Z"
+pushed_at: "2026-10-25T10:52:43Z"
 ---
 ## What it is
 MCP server `Polish Sejm Legal Acts`, catalogued on PulseMCP. Integrates with Poland's official Sejm API to provide search, retrieval, and analysis of legal documents from Dziennik Ustaw and Monitor Polski with keyword filtering, metadata access, and structural examination capabilities for legal research and compliance workflows.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T01:43:38Z"
+pushed_at: "2026-10-17T01:42:39Z"
 ---
 ## What it is
 Enables executing a single bounded remote shell command on a configured host, returning truncated stdout/stderr tails and an authoritative exec summary.

@@ -8,12 +8,12 @@ source_url: https://github.com/MAA-AI/MaaMCP
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 388
+stars: 393
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 45
+forks: 44
 pushed_at: "2026-10-01T20:57:20Z"
 ---
 ## What it is

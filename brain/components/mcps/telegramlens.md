@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T17:21:48Z"
+pushed_at: "2026-10-25T15:32:26Z"
 ---
 ## What it is
 A local MCP server that structures stock mentions and narrative flows from Telegram channels, providing momentum detection and historical analysis for AI assistants like Claude.

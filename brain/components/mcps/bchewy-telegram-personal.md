@@ -8,12 +8,12 @@ source_url: https://github.com/bchewy/codex-telegram-plugin
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-08-22T04:45:20Z"
+forks: 4
+pushed_at: "2026-10-24T08:29:54Z"
 ---
 ## What it is
 MCP server `Telegram Personal`, catalogued on PulseMCP. Personal Telegram account integration for chat summarization, message search, and reply drafting.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T20:44:59Z"
+pushed_at: "2026-10-22T20:44:21Z"
 ---
 ## What it is
 Enables AI agents to synthesize speech via the unlimitedtts API, handling x402 micropayments, spend policy enforcement, and storage of private MP3 results.

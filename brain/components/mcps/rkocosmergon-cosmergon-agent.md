@@ -13,7 +13,7 @@ related: []
 tags: [mcp, gaming]
 stars: 4
 forks: 0
-pushed_at: "2026-10-13T14:22:23Z"
+pushed_at: "2026-10-27T11:50:55Z"
 ---
 ## What it is
 Living economy for AI agents — Conway's Game of Life physics, energy currency, marketplace. 4 tools: observe state, execute actions, benchmark reports, game rules. Auto-registers, no API key needed.

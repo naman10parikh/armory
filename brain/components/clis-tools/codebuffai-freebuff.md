@@ -8,14 +8,14 @@ source_url: https://github.com/CodebuffAI/freebuff
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 13504
+stars: 13798
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1439
-pushed_at: "2026-10-13T14:43:05Z"
+forks: 1475
+pushed_at: "2026-10-27T12:54:56Z"
 ---
 ## What it is
 The free coding agent

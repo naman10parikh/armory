@@ -8,13 +8,13 @@ source_url: https://github.com/sandlong/gemini-understanding
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-03T04:11:35Z"
+pushed_at: "2026-10-24T09:05:58Z"
 ---
 ## What it is
 A minimal MCP server that exposes Gemini's web and multimodal understanding (video, audio, document, image) through five dedicated tools.

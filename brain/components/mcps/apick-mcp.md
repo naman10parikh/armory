@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T10:35:18Z"
+pushed_at: "2026-10-25T14:43:54Z"
 ---
 ## What it is
 Enables access to 82 Korean data and AI tools through MCP, including business registry lookup, ID document verification, parcel tracking, OCR, file conversion, web/image intelligence, and LLM calls, all billed per call from a single APICK key.

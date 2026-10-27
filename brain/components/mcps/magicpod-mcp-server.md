@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-07T04:35:39Z"
+pushed_at: "2026-10-26T06:43:18Z"
 ---
 ## What it is
 An MCP server that integrates AI agents with MagicPod, enabling natural language control of MagicPod testing through tools like Cursor and Claude.

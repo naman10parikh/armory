@@ -8,12 +8,12 @@ source_url: https://github.com/ivnvxd/mcp-server-odoo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 404
+stars: 407
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 186
-pushed_at: "2026-10-11T08:23:54Z"
+forks: 189
+pushed_at: "2026-10-25T08:23:26Z"
 ---
 ## What it is
 MCP server `Odoo ERP`, catalogued on PulseMCP. Connects to Odoo ERP systems via XML-RPC to enable searching, reading, creating, updating, and deleting business records with smart field optimization and comprehensive access controls for business process automation and data analysis workflows.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T07:12:37Z"
+pushed_at: "2026-10-16T10:34:31Z"
 ---
 ## What it is
 MCP server bridging AI agents with the MantraCare LiveKit voice and telephony engine, enabling secure control and inspection of voice pipelines via OAuth 2.1 authenticated tools.

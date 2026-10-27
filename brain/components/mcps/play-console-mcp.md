@@ -8,13 +8,13 @@ source_url: https://github.com/OrellBuehler/play-console-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-10T10:54:53Z"
+pushed_at: "2026-10-21T21:20:25Z"
 ---
 ## What it is
 Enables AI agents to manage Google Play Console reviews and Android app releases, including replying to reviews, promoting releases, managing staged rollouts, and checking crash/ANR vitals.

@@ -8,14 +8,14 @@ source_url: https://github.com/context-labs/halo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1192
+stars: 1198
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 99
-pushed_at: "2026-09-08T23:33:58Z"
+forks: 101
+pushed_at: "2026-10-26T19:48:12Z"
 ---
 ## What it is
 Hierarchal Agent Loop Optimizer

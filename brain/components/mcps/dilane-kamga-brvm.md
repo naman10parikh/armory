@@ -12,8 +12,8 @@ stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-04-28T09:55:29Z"
+forks: 2
+pushed_at: "2026-10-18T10:06:04Z"
 ---
 ## What it is
 MCP server `BRVM`, catalogued on PulseMCP. Provides live market data from West Africa's BRVM regional stock exchange with 7 tools for quotes, company info, and market summaries.

@@ -8,12 +8,12 @@ source_url: https://github.com/synter-media-ai/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-10-11T17:48:51Z"
+forks: 4
+pushed_at: "2026-10-23T16:37:52Z"
 ---
 ## What it is
 MCP server `Synter Ads`, catalogued on PulseMCP. Manage ad campaigns across Google, Meta, LinkedIn, Reddit, and TikTok via AI agents.

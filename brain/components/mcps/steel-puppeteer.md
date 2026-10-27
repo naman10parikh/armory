@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 23
-pushed_at: "2026-09-09T10:04:33Z"
+pushed_at: "2026-10-26T05:40:03Z"
 ---
 ## What it is
 MCP server `Steel Puppeteer`, catalogued on PulseMCP. Integrates Puppeteer with Steel SDK for browser automation, enabling complex web interactions and data extraction.

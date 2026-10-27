@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-29T11:52:42Z"
+pushed_at: "2026-10-24T09:26:31Z"
 ---
 ## What it is
 Enables AI assistants to issue and manage virtual cards, check balances, pull transactions, file disputes, and start KYC via the CardOS API.

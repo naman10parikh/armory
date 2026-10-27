@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T06:26:11Z"
+pushed_at: "2026-10-19T17:07:29Z"
 ---
 ## What it is
 An MCP server that lets AI agents search, save, preview, download, and cart satellite scenes from ISRO's Bhoonidhi portal in natural language, with search and saved queries requiring no login and downloads/cart operations using an out-of-band session.

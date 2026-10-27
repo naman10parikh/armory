@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T19:24:44Z"
+pushed_at: "2026-10-22T19:33:56Z"
 ---
 ## What it is
 Enables AI agents to send HTML documents to a local viewer, where they are stored and displayed in a live web UI for browsing and searching.

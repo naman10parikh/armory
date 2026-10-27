@@ -8,14 +8,14 @@ source_url: https://github.com/JayPokale/Chisle
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 656
+stars: 719
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 49
-pushed_at: "2026-10-12T10:45:03Z"
+forks: 50
+pushed_at: "2026-10-24T04:48:37Z"
 ---
 ## What it is
 Cut your AI coding agent's token bill on three axes: terse prose, YAGNI-first code, and tool-output compression. Claude Code, Pi, Cursor, Codex, Gemini + 4 more. Zero deps, published benchmarks including the runs it loses.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-07T08:16:13Z"
+pushed_at: "2026-10-21T14:19:33Z"
 ---
 ## What it is
 MCP server `SIMAP Swiss Procurement`, catalogued on PulseMCP. Access Swiss public procurement data from SIMAP.ch for tender search and analysis.

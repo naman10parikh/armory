@@ -8,13 +8,13 @@ source_url: https://github.com/ThemeAnax/themeseed
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-15T05:28:32Z"
+pushed_at: "2026-10-21T08:51:25Z"
 ---
 ## What it is
 MCP server that analyzes a CMS's active theme and generates realistic demo content tailored to it, letting users judge themes with real-looking articles, images, and embeds.

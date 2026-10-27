@@ -8,11 +8,11 @@ source_url: https://github.com/harshkedia177/axon
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 814
+stars: 815
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 120
+forks: 119
 pushed_at: "2026-08-03T11:51:21Z"
 ---
 ## What it is

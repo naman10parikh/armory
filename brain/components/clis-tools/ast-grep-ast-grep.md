@@ -8,14 +8,14 @@ source_url: https://github.com/ast-grep/ast-grep
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 16226
+stars: 16372
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 473
-pushed_at: "2026-10-13T12:46:51Z"
+forks: 485
+pushed_at: "2026-10-27T10:46:06Z"
 ---
 ## What it is
 ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust

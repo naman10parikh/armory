@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-11T22:38:29Z"
+pushed_at: "2026-10-24T12:17:26Z"
 ---
 ## What it is
 MCP server `Rekindle`, catalogued on PulseMCP. Maintains AI session continuity with structured boot reports, session handoffs, and cross-session memory search using local SQLite storage.

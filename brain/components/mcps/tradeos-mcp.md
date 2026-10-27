@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-06T15:46:42Z"
+pushed_at: "2026-10-25T12:56:53Z"
 ---
 ## What it is
 Connects TradeOS trading intelligence to MCP-compatible AI tools, enabling natural language-driven market analysis, ticker search, spread comparison, macro context, and custom trading agent management.

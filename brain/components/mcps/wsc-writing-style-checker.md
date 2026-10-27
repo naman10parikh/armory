@@ -8,13 +8,13 @@ source_url: https://github.com/theserverlessdev/wsc
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-09T22:38:07Z"
+pushed_at: "2026-10-14T18:04:17Z"
 ---
 ## What it is
 Flag AI tells, weasel words, passive voice, duplicate words, long sentences, nominalizations, hedging, and filler adverbs

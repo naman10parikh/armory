@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-13T14:04:21Z"
+pushed_at: "2026-10-26T18:09:03Z"
 ---
 ## What it is
 MCP server `OpenCollective Hetzner`, catalogued on PulseMCP. Combines OpenCollective financial data with Hetzner and Cloudflare invoice management for automated open-source expense tracking.

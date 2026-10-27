@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T19:10:07Z"
+pushed_at: "2026-10-18T20:39:19Z"
 ---
 ## What it is
 Official Model Context Protocol server for Marvin CMS, enabling AI clients to read workspace info, entries, collections, assets, and resources via tools, resources, and prompts.

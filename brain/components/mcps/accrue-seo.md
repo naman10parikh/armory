@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-22T13:41:28Z"
+pushed_at: "2026-10-22T14:44:09Z"
 ---
 ## What it is
 Audits any website for SEO issues, providing scored health checks, schema validation, and performance analysis through AI assistants.

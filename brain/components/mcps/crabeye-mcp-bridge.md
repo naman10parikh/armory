@@ -8,13 +8,13 @@ source_url: https://github.com/crabeye-ai/crabeye-mcp-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-13T00:13:46Z"
+pushed_at: "2026-10-25T21:49:43Z"
 ---
 ## What it is
 Consolidates multiple upstream MCP servers behind a single STDIO interface, exposing search_tools and run_tool to avoid context bloat.

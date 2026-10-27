@@ -8,14 +8,14 @@ source_url: https://github.com/jingyaogong/minimind
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 63678
+stars: 64488
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 8266
-pushed_at: "2026-09-22T16:07:34Z"
+forks: 8409
+pushed_at: "2026-10-27T06:57:09Z"
 ---
 ## What it is
 🧠 Train a 64M-parameter LLM from scratch in just 2h!

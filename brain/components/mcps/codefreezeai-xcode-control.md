@@ -8,12 +8,12 @@ source_url: https://github.com/codefreezeai/xcf
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-07T04:14:16Z"
+pushed_at: "2026-10-16T18:11:37Z"
 ---
 ## What it is
 MCP server `xcf (Xcode)`, catalogued on PulseMCP. Interacts with Xcode to allow fixing of warnings and build errors

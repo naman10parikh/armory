@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T23:13:06Z"
+pushed_at: "2026-10-21T14:19:31Z"
 ---
 ## What it is
 Enables interacting with Planhat customer data via natural language, supporting CRUD operations on companies, contacts, opportunities, notes, conversations, users, assets, issues, tickets, tasks, licenses, and invoices.

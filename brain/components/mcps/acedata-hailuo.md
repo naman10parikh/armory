@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-12T02:52:46Z"
+pushed_at: "2026-10-18T21:43:38Z"
 ---
 ## What it is
 MCP server `AceDataCloud Hailuo`, catalogued on PulseMCP. AI video generation through the Hailuo (MiniMax) model on the AceDataCloud platform.

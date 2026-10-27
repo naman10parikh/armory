@@ -8,11 +8,11 @@ source_url: https://github.com/limit-lmt/inoproshop_limit_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
+forks: 7
 pushed_at: "2026-05-07T17:07:54Z"
 ---
 ## What it is

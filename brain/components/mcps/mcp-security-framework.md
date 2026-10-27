@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T22:54:07Z"
+pushed_at: "2026-10-25T19:50:02Z"
 ---
 ## What it is
 Enables creation of secure-by-default MCP servers with 5-layer validation to protect against injection, path traversal, and other attack vectors.

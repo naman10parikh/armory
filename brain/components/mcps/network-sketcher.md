@@ -8,12 +8,12 @@ source_url: https://github.com/cisco-open/network-sketcher
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 406
+stars: 414
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 24
-pushed_at: "2026-10-05T02:06:08Z"
+pushed_at: "2026-10-27T02:17:51Z"
 ---
 ## What it is
 MCP server `Network Sketcher`, catalogued on PulseMCP. AI-native MCP server for designing and managing Cisco network diagrams — L1/L2/L3, PPT and SVG output.

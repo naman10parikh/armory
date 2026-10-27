@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T09:35:24Z"
+pushed_at: "2026-10-24T02:05:44Z"
 ---
 ## What it is
 Wraps ComfyUI to generate images, video, and upscales from text prompts via MCP tools, providing a curated workflow interface without the node editor.

@@ -8,12 +8,12 @@ source_url: https://github.com/bakhtiersizhaev/openevidence-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 45
+stars: 49
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
+forks: 11
 pushed_at: "2026-09-25T06:51:10Z"
 ---
 ## What it is

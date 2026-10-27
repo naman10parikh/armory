@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-10T14:53:41Z"
+pushed_at: "2026-10-19T10:04:57Z"
 ---
 ## What it is
 Enables AI coding agents to search academic papers, resolve biomedical entities, mine relations, and traverse citation graphs using Semantic Scholar and PubTator3, with local caching for reproducibility.

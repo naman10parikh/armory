@@ -8,11 +8,11 @@ source_url: https://github.com/baruchiro/paperless-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 147
+stars: 148
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 36
+forks: 37
 pushed_at: "2026-09-15T14:30:00Z"
 ---
 ## What it is

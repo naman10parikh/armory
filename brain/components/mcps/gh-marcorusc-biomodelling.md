@@ -8,12 +8,12 @@ source_url: https://github.com/marcorusc/mcp-biomodelling-servers
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-10-01T15:26:38Z"
+pushed_at: "2026-10-22T11:39:15Z"
 ---
 ## What it is
 MCP server `BioModelling`, catalogued on PulseMCP. Integrates biological mechanistic modeling tools MaBoSS, NeKo, and PhysiCell with AI assistants for simulation workflows.

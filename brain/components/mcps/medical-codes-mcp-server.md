@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-08T20:54:20Z"
+pushed_at: "2026-10-25T08:45:17Z"
 ---
 ## What it is
 Decodes, searches, validates, and crosswalks US medical codes (ICD-10-CM, ICD-10-PCS, HCPCS Level II) using an offline bundled index via MCP.

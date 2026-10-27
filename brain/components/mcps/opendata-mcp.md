@@ -8,13 +8,13 @@ source_url: https://github.com/dragonheart8787/opendata-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T10:33:40Z"
+pushed_at: "2026-10-26T08:44:39Z"
 ---
 ## What it is
 Provides access to Taiwan open data including weather forecasts, earthquake reports, and air quality indices via natural language queries.

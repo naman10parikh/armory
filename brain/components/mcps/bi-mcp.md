@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-30T21:50:33Z"
+pushed_at: "2026-10-23T01:54:58Z"
 ---
 ## What it is
 Connects AI assistants like Claude to Blue Iris security camera software, enabling natural language queries about camera status, alerts, and configurations.

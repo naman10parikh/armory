@@ -8,13 +8,13 @@ source_url: https://github.com/paulf280-ui/cabal-hunter-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T20:38:12Z"
+pushed_at: "2026-10-20T06:18:58Z"
 ---
 ## What it is
 On-chain Solana cabal & rug detection as an MCP server. Scans any Solana token mint before your agent buys and returns an Exit-Liquidity Risk verdict.

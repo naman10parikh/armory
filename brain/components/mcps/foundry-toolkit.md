@@ -8,7 +8,7 @@ source_url: https://github.com/praneshasp/foundry-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 253
+stars: 255
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

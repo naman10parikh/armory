@@ -8,13 +8,13 @@ source_url: https://github.com/botzrDev/dreamd
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-10-07T15:59:45Z"
+forks: 4
+pushed_at: "2026-10-26T23:12:54Z"
 ---
 ## What it is
 A local MCP server that gives AI harnesses a shared, filesystem-backed memory using the .agent folder, with tools to search and append lessons across sessions.

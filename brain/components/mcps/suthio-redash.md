@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 47
-pushed_at: "2026-10-13T09:28:03Z"
+pushed_at: "2026-10-22T11:11:00Z"
 ---
 ## What it is
 MCP server `Redash`, catalogued on PulseMCP. Integrates with Redash data visualization platform to enable natural language querying, dashboard creation, and data source management for analyzing and visualizing data through conversational interfaces.

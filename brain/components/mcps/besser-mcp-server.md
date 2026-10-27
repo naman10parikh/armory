@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2025-10-30T16:15:35Z"
+pushed_at: "2026-10-20T12:18:06Z"
 ---
 ## What it is
 MCP server for BESSER low-code platform enabling AI assistants to create, manipulate, and generate code from domain models through natural language. Supports model creation, deletion, and multi-language code generation (SQL, Python, Java, etc.) via the Model Context Protocol.

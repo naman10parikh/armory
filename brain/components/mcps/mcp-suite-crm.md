@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-13T07:51:47Z"
+pushed_at: "2026-10-18T08:38:57Z"
 ---
 ## What it is
 Enables AI agents to interact with a CRM covering companies, people, leads, deals, and more, with role checks, scoped agent keys, approval gates, and a shared audit trail.

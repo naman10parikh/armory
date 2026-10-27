@@ -8,13 +8,13 @@ source_url: https://github.com/Fly2Kiana/Codex-DSH-Orchestrator
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T02:17:50Z"
+pushed_at: "2026-10-27T13:06:38Z"
 ---
 ## What it is
 Enables Codex and Claude Code to delegate implementation, research, debugging, and long-log work to DeepSeek Harness, then observe, continue, or cancel those sessions without leaving the primary workflow.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-12T16:12:20Z"
+pushed_at: "2026-10-23T02:48:53Z"
 ---
 ## What it is
 Static preflight safety gate for MCP servers — scan configs before you run them. Never executes.

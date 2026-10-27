@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T15:18:37Z"
+pushed_at: "2026-10-24T14:05:38Z"
 ---
 ## What it is
 MCP server for HumanPen that lets AI agents work on real documents (.docx, .pptx, .pdf) — humanizing content to lower AI-detection scores, converting citations, condensing, and translating while preserving formatting, tables, images, and citations.

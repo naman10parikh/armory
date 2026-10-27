@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T16:11:23Z"
+pushed_at: "2026-10-22T15:27:03Z"
 ---
 ## What it is
 MCP server for verifying and attesting SHA-256 fingerprints of digital works via Streamable HTTP, with zero-install and privacy-preserving design.

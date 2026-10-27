@@ -8,11 +8,11 @@ source_url: https://github.com/iosifache/annas-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1081
+stars: 1101
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 71
+forks: 72
 pushed_at: "2026-06-26T07:54:30Z"
 ---
 ## What it is

@@ -8,11 +8,11 @@ source_url: https://github.com/jamubc/gemini-mcp-tool
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2289
+stars: 2294
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 203
+forks: 206
 pushed_at: "2026-07-21T23:37:16Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/skalinin909/tradingcalc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-01T23:02:42Z"
+pushed_at: "2026-10-24T18:19:29Z"
 ---
 ## What it is
 MCP server `TradingCalc`, catalogued on PulseMCP. Crypto perpetual futures calculator with 19 deterministic tools for liquidation, PnL, and position sizing across 7 exchanges.

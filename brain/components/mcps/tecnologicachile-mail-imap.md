@@ -8,12 +8,12 @@ source_url: https://github.com/tecnologicachile/mail-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 99
+stars: 110
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 25
-pushed_at: "2026-10-13T05:39:35Z"
+forks: 31
+pushed_at: "2026-10-23T18:45:04Z"
 ---
 ## What it is
 MCP server `Mail IMAP`, catalogued on PulseMCP. Secure IMAP email access with read/write operations and cursor-based pagination.

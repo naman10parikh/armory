@@ -8,7 +8,7 @@ source_url: https://github.com/dmontgomery40/mcp-canvas-lms
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 103
+stars: 104
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

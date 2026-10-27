@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T11:30:38Z"
+pushed_at: "2026-10-27T01:07:24Z"
 ---
 ## What it is
 Google Workspace security-audit MCP server — read-only visibility into account locks, suspicious logins, and external file sharing, built on the Admin SDK Reports API (audit activities).

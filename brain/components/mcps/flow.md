@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-07T14:26:59Z"
+forks: 2
+pushed_at: "2026-10-26T10:27:28Z"
 ---
 ## What it is
 Agent-first project management MCP server that enables AI agents to manage tasks, spaces, lists, boards, subtasks, comments, and automations via natural language, with full audit trail and real-time sync.

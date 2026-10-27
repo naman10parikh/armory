@@ -8,7 +8,7 @@ source_url: https://github.com/da-okazaki/mcp-neo4j-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 59
+stars: 60
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

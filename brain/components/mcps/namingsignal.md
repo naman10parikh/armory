@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-14T13:55:13Z"
+pushed_at: "2026-10-19T17:11:57Z"
 ---
 ## What it is
 Provides evidence-first product naming tools for agents and founders, including domain registry checks, namespace searches, and finalist research with sources and timestamps.

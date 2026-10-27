@@ -8,13 +8,13 @@ source_url: https://github.com/agent-network-protocol/AgentNetworkProtocol
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1447
+stars: 1460
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, multiagent-systems]
-forks: 106
-pushed_at: "2026-10-09T05:38:00Z"
+forks: 108
+pushed_at: "2026-10-22T23:50:29Z"
 ---
 ## What it is
 Open source protocol for agent communication, defining how agents connect with each other

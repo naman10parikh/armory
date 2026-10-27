@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-11T16:04:13Z"
+pushed_at: "2026-10-25T17:45:19Z"
 ---
 ## What it is
 MCP server `Slidev`, catalogued on PulseMCP. Generate, render, and host Slidev presentations from markdown.

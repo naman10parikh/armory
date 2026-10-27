@@ -8,13 +8,13 @@ source_url: https://github.com/sandraschi/invokeai-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-13T09:41:50Z"
+pushed_at: "2026-10-26T02:02:51Z"
 ---
 ## What it is
 Enables AI coding agents to control a local InvokeAI creative engine, supporting text-to-image, image-to-image, masked inpaint, upscaling, and full queue, model, gallery, board, and workflow management.

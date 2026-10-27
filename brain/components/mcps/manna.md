@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-08T19:54:32Z"
+pushed_at: "2026-10-23T02:58:39Z"
 ---
 ## What it is
 An MCP server exposing IVOA-compliant astronomical archives (NOIRLab Astro Data Lab, NRAO/ALMA, CADC, ESO, Gaia, …) to LLM clients.

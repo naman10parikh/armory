@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T02:19:10Z"
+pushed_at: "2026-10-22T16:53:47Z"
 ---
 ## What it is
 Enables AI agents to control Rigol MSO5000 oscilloscopes through VISA, including acquisition, channels, trigger, timebase, waveform generator, display, and front-panel controls, with risk-based permission gating for direct SCPI operations.

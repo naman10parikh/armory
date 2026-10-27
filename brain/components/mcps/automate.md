@@ -8,12 +8,12 @@ source_url: https://github.com/yuruotong1/autoMate
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3965
+stars: 3969
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 490
+forks: 488
 pushed_at: "2026-09-18T00:02:05Z"
 ---
 ## What it is

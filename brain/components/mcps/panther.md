@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 24
-pushed_at: "2026-10-09T12:43:23Z"
+pushed_at: "2026-10-26T18:23:52Z"
 ---
 ## What it is
 MCP server `Panther Labs`, catalogued on PulseMCP. Integrates with Panther Labs' cybersecurity platform to enable security alert triage, data lake querying, detection rule management, and log source analysis for incident response and threat hunting workflows.

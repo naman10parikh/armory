@@ -8,7 +8,7 @@ source_url: https://github.com/jonpojonpo/comfy-h3-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []

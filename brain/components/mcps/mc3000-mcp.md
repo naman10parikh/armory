@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-27T21:37:08Z"
+pushed_at: "2026-10-24T23:36:16Z"
 ---
 ## What it is
 MCP server for monitoring and controlling SKYRC MC3000 battery chargers over Bluetooth Low Energy.

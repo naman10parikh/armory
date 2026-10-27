@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-09T19:42:25Z"
+pushed_at: "2026-10-23T19:24:24Z"
 ---
 ## What it is
 An MCP server that gives AI agents a full, safe interface to Git with automatic backups, isolated worktrees, and structured JSON outputs.

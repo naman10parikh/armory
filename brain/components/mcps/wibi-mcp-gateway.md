@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T00:02:06Z"
+pushed_at: "2026-10-17T16:07:55Z"
 ---
 ## What it is
 MCP server exposing WIBI's API v2 as tools, supporting OAuth 2.1 for production (Claude web/desktop) and stdio for local dev, enabling natural-language queries about campaigns, products, clients, reports, broadcasts, and subscriptions with per-commerce isolation and admin scope switching.

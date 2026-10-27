@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-25T22:55:44Z"
+pushed_at: "2026-10-24T03:54:06Z"
 ---
 ## What it is
 MCP server `Pipeworx Codewars`, catalogued on PulseMCP. Retrieve Codewars user profiles, completed kata, authored kata, and kata details.

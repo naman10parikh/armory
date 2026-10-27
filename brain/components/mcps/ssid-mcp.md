@@ -8,13 +8,13 @@ source_url: https://github.com/Drumworks/ssid-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T05:39:54Z"
+pushed_at: "2026-10-17T14:33:02Z"
 ---
 ## What it is
 MAC-address (OUI) vendor lookup and router default-login directory for AI agents, backed by ssid.ai. Identify a device manufacturer from its MAC address, detect randomized/private addresses instead of reporting unknown, or fetch a router's default login IP and admin credentials — every field cited t

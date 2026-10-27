@@ -12,8 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-10-05T04:38:47Z"
+forks: 2
+pushed_at: "2026-10-20T03:55:04Z"
 ---
 ## What it is
 MCP server `NOAA CO-OPS`, catalogued on PulseMCP. Provides access to NOAA CO-OPS tidal predictions, real-time water levels, currents, and coastal meteorological observations.

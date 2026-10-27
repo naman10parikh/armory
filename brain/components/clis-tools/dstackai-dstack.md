@@ -8,14 +8,14 @@ source_url: https://github.com/dstackai/dstack
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2280
+stars: 2291
 eval_score: null
 mentions: 1
 verified_at: 2026-10-13
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 269
-pushed_at: "2026-10-13T12:41:01Z"
+forks: 271
+pushed_at: "2026-10-27T12:02:03Z"
 ---
 ## What it is
 A unified orchestration layer for heterogeneous AI compute. It standardizes how to manage compute and run training and inference on GPU clouds, Kubernetes, VMs, or bare-metal clusters.

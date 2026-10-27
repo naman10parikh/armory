@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 26
-pushed_at: "2026-10-12T07:10:02Z"
+pushed_at: "2026-10-26T13:17:42Z"
 ---
 ## What it is
 MCP server `Adeu`, catalogued on PulseMCP. Legal automation MCP server for contract redlining and request triage in in-house legal teams.

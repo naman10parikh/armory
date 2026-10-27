@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-09T13:32:34Z"
+pushed_at: "2026-10-25T07:48:16Z"
 ---
 ## What it is
 MCP server `MDShare`, catalogued on PulseMCP. Free markdown sharing service for uploading content, generating shareable links, and collaborating without login.

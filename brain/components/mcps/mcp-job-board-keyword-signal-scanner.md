@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-07T10:05:30Z"
+forks: 1
+pushed_at: "2026-10-27T04:14:04Z"
 ---
 ## What it is
 Scans job boards for keyword patterns that indicate buying intent, technology adoption, or team expansion. Returns structured signal data for outbound targeting.

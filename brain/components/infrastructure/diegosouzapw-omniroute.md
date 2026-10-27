@@ -8,14 +8,14 @@ source_url: https://github.com/diegosouzapw/OmniRoute
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 75997
+stars: 81673
 eval_score: null
 mentions: 5
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 10979
-pushed_at: "2026-10-13T14:40:23Z"
+forks: 12003
+pushed_at: "2026-10-27T13:01:08Z"
 ---
 ## What it is
 Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors

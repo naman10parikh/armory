@@ -12,8 +12,8 @@ stars: 307
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 24
-pushed_at: "2026-08-26T17:05:25Z"
+forks: 26
+pushed_at: "2026-10-19T04:36:17Z"
 ---
 ## What it is
 MCP server `LLM Code Context`, catalogued on PulseMCP. Streamlines code context sharing with LLMs by implementing smart file selection, code outlining, and multi-language support for efficient code reviews and documentation generation.

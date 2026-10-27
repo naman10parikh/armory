@@ -8,13 +8,13 @@ source_url: https://github.com/Cognisant-llc/sublime-claude-code
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-13T04:32:56Z"
+pushed_at: "2026-10-20T06:09:08Z"
 ---
 ## What it is
 Enables Sublime Text to integrate with Claude Code via the IDE protocol, providing in-editor diff review, selection context sharing, and @-mentions through a local WebSocket/MCP server.

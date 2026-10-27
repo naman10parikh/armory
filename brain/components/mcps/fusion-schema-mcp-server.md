@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T08:47:51Z"
+pushed_at: "2026-10-15T20:16:52Z"
 ---
 ## What it is
 Grounds a Fusion-SQL agent against Oracle Fusion schema catalog, enabling table/column search, validation, and relationship discovery.

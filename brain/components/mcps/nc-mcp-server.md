@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-29T22:44:50Z"
+pushed_at: "2026-10-25T08:32:48Z"
 ---
 ## What it is
 An MCP server that exposes Nextcloud APIs as tools for AI assistants, enabling management of files, calendar, contacts, conversations, and more.

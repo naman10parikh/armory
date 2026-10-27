@@ -8,12 +8,12 @@ source_url: https://github.com/rastrian/discordmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-10T09:03:48Z"
+pushed_at: "2026-10-24T09:03:51Z"
 ---
 ## What it is
 MCP server `Discord`, catalogued on PulseMCP. Control Discord servers programmatically with 39 tools covering guilds, channels, messages, roles, and moderation.

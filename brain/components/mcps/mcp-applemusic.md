@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-11T05:36:21Z"
+pushed_at: "2026-10-15T08:35:03Z"
 ---
 ## What it is
 The ultimate 66-tool Apple Music MCP server for macOS: playback, Spotify playlist importer, listening journal, Replay reports, smart DJ crossfades, and AirPlay.

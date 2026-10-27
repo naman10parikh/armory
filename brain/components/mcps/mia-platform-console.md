@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-11T16:18:22Z"
+pushed_at: "2026-10-26T06:08:38Z"
 ---
 ## What it is
 MCP server `Mia-Platform Console`, catalogued on PulseMCP. Integrate with Mia-Platform Console APIs for platform engineering and cloud operations

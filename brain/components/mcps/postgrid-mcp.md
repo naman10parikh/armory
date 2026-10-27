@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T01:12:57Z"
+pushed_at: "2026-10-26T16:24:34Z"
 ---
 ## What it is
 Read-only MCP server for PostGrid Print & Mail, exposing constrained tools for ping, listing sub-organizations, and schema probing via the PostGrid API. Designed for Claude Cowork custom connectors with OAuth Individual sign-in.

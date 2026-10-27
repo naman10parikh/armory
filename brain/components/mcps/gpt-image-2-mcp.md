@@ -8,12 +8,12 @@ source_url: https://github.com/Borys520/gpt-image-2-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 5
 pushed_at: "2026-09-07T18:43:22Z"
 ---
 ## What it is

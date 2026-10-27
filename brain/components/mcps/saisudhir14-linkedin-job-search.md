@@ -8,11 +8,11 @@ source_url: https://github.com/saisudhir14/linkedin-mcp-search
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
+forks: 1
 pushed_at: "2026-10-12T12:57:59Z"
 ---
 ## What it is

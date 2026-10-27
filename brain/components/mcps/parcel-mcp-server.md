@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-08T14:13:03Z"
+pushed_at: "2026-10-26T16:03:00Z"
 ---
 ## What it is
 Enables delivery tracking through the Parcel API, including listing and fetching deliveries, searching carriers, and adding new deliveries with optional write protection and multiple credential methods.

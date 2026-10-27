@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-10T19:18:43Z"
+forks: 1
+pushed_at: "2026-10-21T21:00:47Z"
 ---
 ## What it is
 Aggregates tools from multiple upstream MCP servers and exposes them through 4 meta-tools, enabling LLMs to discover and use hundreds of tools without loading all schemas upfront.

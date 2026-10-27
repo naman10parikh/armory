@@ -8,14 +8,14 @@ source_url: https://github.com/bholmesdev/hubble.md
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1485
+stars: 1487
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 95
-pushed_at: "2026-10-11T22:46:07Z"
+forks: 96
+pushed_at: "2026-10-23T21:29:50Z"
 ---
 ## What it is
 The best notepad for you and your agents

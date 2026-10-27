@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2025-12-02T03:00:51Z"
+pushed_at: "2026-10-16T02:26:36Z"
 ---
 ## What it is
 MCP server `Gemini`, catalogued on PulseMCP. Bridges Claude Desktop with Google's Gemini for seamless, configurable image generation via a JSON-RPC protocol that enables direct conversational image creation.

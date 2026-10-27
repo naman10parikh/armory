@@ -8,14 +8,14 @@ source_url: https://github.com/eslint/eslint
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 27641
+stars: 27604
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 5210
-pushed_at: "2026-10-13T14:01:49Z"
+forks: 5197
+pushed_at: "2026-10-26T20:08:25Z"
 ---
 ## What it is
 Find and fix problems in your JavaScript code.

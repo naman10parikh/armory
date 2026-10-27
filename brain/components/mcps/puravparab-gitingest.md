@@ -8,11 +8,11 @@ source_url: https://github.com/puravparab/gitingest-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 137
+stars: 138
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 23
+forks: 24
 pushed_at: "2025-03-21T23:06:20Z"
 ---
 ## What it is

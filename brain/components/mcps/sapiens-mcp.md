@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T01:31:01Z"
+pushed_at: "2026-10-26T17:12:30Z"
 ---
 ## What it is
 Enables users to generate images, articles, voice, music, and more from their Sapiens Sintéticos account using natural language, spending credits and saving to their profile.

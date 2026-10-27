@@ -8,13 +8,13 @@ source_url: https://github.com/Boulea7/agy-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 23
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-10-07T22:41:12Z"
+forks: 8
+pushed_at: "2026-10-14T00:16:57Z"
 ---
 ## What it is
 Wraps Google Antigravity CLI into 11 typed MCP tools, enabling any MCP client to invoke agy for code review, prototyping, execution, and long-running tasks.

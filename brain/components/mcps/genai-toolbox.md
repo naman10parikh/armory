@@ -8,13 +8,13 @@ source_url: https://github.com/googleapis/mcp-toolbox
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16656
+stars: 16733
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 eval_score: 1
-forks: 1758
-pushed_at: "2026-10-12T22:48:49Z"
+forks: 1780
+pushed_at: "2026-10-26T23:31:45Z"
 ---
 ## What it is
 MCP server `Toolbox for Databases`, catalogued on PulseMCP. Provides a secure, configurable interface for executing pre-defined queries against multiple database systems including PostgreSQL, MySQL, SQL Server, Neo4j, Dgraph, and Spanner through a YAML-based configuration system.

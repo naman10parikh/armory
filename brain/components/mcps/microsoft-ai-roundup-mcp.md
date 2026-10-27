@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T09:06:31Z"
+pushed_at: "2026-10-27T09:02:38Z"
 ---
 ## What it is
 An MCP server that enables searching Merill's Weekly Microsoft AI Roundup archive with natural language queries, returning sourced excerpts, issue details, and tool mentions. It supports hybrid semantic and keyword search, issue retrieval, and archive browsing with no API keys required.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, blogging-content]
-forks: 49
-pushed_at: "2026-10-07T04:07:53Z"
+forks: 48
+pushed_at: "2026-10-27T04:43:30Z"
 ---
 ## What it is
 Personal blog using jekyll-bootstrap

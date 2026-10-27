@@ -8,12 +8,12 @@ source_url: https://github.com/zhizhuodemao/frida-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 120
+stars: 123
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 31
+forks: 33
 pushed_at: "2025-11-04T12:48:49Z"
 ---
 ## What it is

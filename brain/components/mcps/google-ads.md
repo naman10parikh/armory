@@ -8,13 +8,13 @@ source_url: https://github.com/googleads/google-ads-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1036
+stars: 1079
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 316
-pushed_at: "2026-10-09T14:00:48Z"
+forks: 335
+pushed_at: "2026-10-26T15:07:34Z"
 ---
 ## What it is
 MCP server `Google Ads`, catalogued on PulseMCP. Access Google Ads API for campaign management and performance reporting.

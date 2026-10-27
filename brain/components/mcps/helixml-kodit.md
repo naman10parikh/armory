@@ -8,12 +8,12 @@ source_url: https://github.com/helixml/kodit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 126
+stars: 125
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
-pushed_at: "2026-10-12T02:05:43Z"
+forks: 19
+pushed_at: "2026-10-25T02:04:57Z"
 ---
 ## What it is
 MCP server `Kodit`, catalogued on PulseMCP. Indexes local codebases and Git repositories using tree-sitter parsing and semantic embeddings to enable hybrid search combining vector similarity with keyword matching for contextual code retrieval.

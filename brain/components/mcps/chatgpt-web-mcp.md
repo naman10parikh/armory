@@ -8,12 +8,12 @@ source_url: https://github.com/Goudu666/chatgpt-web-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 6
 pushed_at: "2026-09-20T08:36:30Z"
 ---
 ## What it is

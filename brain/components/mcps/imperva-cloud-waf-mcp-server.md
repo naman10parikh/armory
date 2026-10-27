@@ -8,13 +8,13 @@ source_url: https://github.com/ThalesGroup/imperva-cloud-WAF-MCP-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-07T06:11:51Z"
+pushed_at: "2026-10-25T17:40:59Z"
 ---
 ## What it is
 Enables AI assistants to query and analyze Imperva Cloud WAF configurations through natural language, supporting retrieval of sites, domains, policies, and rules.

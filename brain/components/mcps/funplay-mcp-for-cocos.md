@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T10:03:53Z"
+pushed_at: "2026-10-15T06:40:51Z"
 ---
 ## What it is
 An embedded MCP server for Cocos Creator that enables AI assistants to inspect and operate running Cocos projects through tools like execute_javascript, get_project_info, and screenshot capture.

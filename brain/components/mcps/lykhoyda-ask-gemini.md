@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-13T12:22:26Z"
+pushed_at: "2026-10-26T08:38:29Z"
 ---
 ## What it is
 MCP server `Ask Gemini`, catalogued on PulseMCP. Query Google Gemini models directly from within any MCP-compatible AI assistant.

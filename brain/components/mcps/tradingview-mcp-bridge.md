@@ -8,13 +8,13 @@ source_url: https://github.com/tradesdontlie/tradingview-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6806
+stars: 6968
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2822
-pushed_at: "2026-07-28T17:28:37Z"
+forks: 2856
+pushed_at: "2026-10-21T15:03:51Z"
 ---
 ## What it is
 Enables AI assistants to interact with locally running TradingView Desktop for chart analysis, Pine Script development, and workflow automation via Chrome DevTools Protocol.

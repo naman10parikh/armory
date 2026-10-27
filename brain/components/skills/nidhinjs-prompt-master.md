@@ -8,14 +8,14 @@ source_url: https://github.com/nidhinjs/prompt-master
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 14411
+stars: 15133
 eval_score: null
 mentions: 5
 verified_at: 2026-09-07
 related: []
 tags: [sentinel-feed, skills]
-forks: 1669
-pushed_at: "2026-10-12T11:45:10Z"
+forks: 1748
+pushed_at: "2026-10-22T13:26:18Z"
 ---
 ## What it is
 A Claude skill that writes the accurate prompts for any AI tool. Zero tokens or credits wasted. Full context and memory retention

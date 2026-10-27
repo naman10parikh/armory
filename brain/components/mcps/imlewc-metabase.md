@@ -8,11 +8,11 @@ source_url: https://github.com/imlewc/metabase-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 150
+stars: 151
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 40
+forks: 39
 pushed_at: "2026-04-03T23:57:33Z"
 ---
 ## What it is

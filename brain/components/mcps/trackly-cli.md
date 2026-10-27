@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T06:00:04Z"
+pushed_at: "2026-10-27T09:38:04Z"
 ---
 ## What it is
 MCP server for job search and application tracking, enabling AI agents to search jobs, get details, manage applications, and find contacts across 128K+ jobs and 1,900+ companies.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T09:47:17Z"
+pushed_at: "2026-10-17T03:32:37Z"
 ---
 ## What it is
 Connects MCP clients like Claude and Cursor to your Replynodes account, enabling social channel management, post scheduling, and media generation directly from chat.

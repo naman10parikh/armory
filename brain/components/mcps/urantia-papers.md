@@ -8,12 +8,12 @@ source_url: https://github.com/urantia-hub/urantia-dev-api
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-10-12T06:19:43Z"
+forks: 2
+pushed_at: "2026-10-27T02:12:25Z"
 ---
 ## What it is
 MCP server `Urantia Papers`, catalogued on PulseMCP. Free, open API and MCP server for The Urantia Book with 197 papers, full-text search, and entity browsing.

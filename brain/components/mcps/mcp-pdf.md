@@ -8,11 +8,11 @@ source_url: https://github.com/mcp-z/mcp-pdf
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 2
 pushed_at: "2026-10-13T01:44:45Z"
 ---
 ## What it is

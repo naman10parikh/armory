@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T14:09:41Z"
+pushed_at: "2026-10-25T19:09:07Z"
 ---
 ## What it is
 A read-only Model Context Protocol server that lets an LLM analyst interrogate Quebec's SEAO public-procurement open data (security-services subset) in plain language.

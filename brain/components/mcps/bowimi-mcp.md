@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T07:08:53Z"
+pushed_at: "2026-10-27T07:58:36Z"
 ---
 ## What it is
 MCP server for Bowimi field sales CRM, enabling Claude to query routes, locations, contacts, orders, and products.

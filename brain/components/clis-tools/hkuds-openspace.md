@@ -8,13 +8,13 @@ source_url: https://github.com/HKUDS/OpenSpace
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 7753
+stars: 7776
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 924
+forks: 925
 pushed_at: "2026-08-12T15:21:07Z"
 ---
 ## What it is

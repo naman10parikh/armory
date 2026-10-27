@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-13T13:15:02Z"
+pushed_at: "2026-10-19T18:25:26Z"
 ---
 ## What it is
 An MCP server providing AI assistants read-only access to Inforcer Microsoft 365 governance data, including tenants, baselines, policies, and audit logs, with one write action to trigger assessments.

@@ -8,12 +8,12 @@ source_url: https://github.com/gowinston-ai/winston-ai-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-05T19:09:58Z"
+pushed_at: "2026-10-26T20:11:03Z"
 ---
 ## What it is
 MCP server `Winston AI`, catalogued on PulseMCP. Integrates with Winston AI's detection APIs to analyze text for AI-generated content with sentence-level scoring, detect AI-generated images through metadata analysis, scan text for plagiarism against billions of web pages, and compare texts for similarity with detailed matching breakdowns.

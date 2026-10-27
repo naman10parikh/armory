@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-14T23:17:40Z"
+pushed_at: "2026-10-18T13:42:05Z"
 ---
 ## What it is
 MCP server giving LLMs live access to Statistics Canada's full catalogue of 8,200+ data tables via the Web Data Service, with tools to search tables, inspect dimensions, and fetch time series data using plain-language prompts.

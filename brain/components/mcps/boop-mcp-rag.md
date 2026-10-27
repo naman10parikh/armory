@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T16:39:47Z"
+pushed_at: "2026-10-19T13:22:53Z"
 ---
 ## What it is
 Enables local RAG orchestration with MCP, providing context retrieval, in-memory text ingestion, explicit tool invocation, and transport-neutral tool discovery.

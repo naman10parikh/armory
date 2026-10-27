@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T19:29:44Z"
+pushed_at: "2026-10-27T04:23:58Z"
 ---
 ## What it is
 Enables AI agents to query public Lichess data including player profiles, games, opening explorer, and tablebase via the Pipeworx MCP gateway.

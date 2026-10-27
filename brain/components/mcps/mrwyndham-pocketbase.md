@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 37
-pushed_at: "2026-02-01T07:06:50Z"
+pushed_at: "2026-10-20T03:54:56Z"
 ---
 ## What it is
 MCP server `PocketBase`, catalogued on PulseMCP. Provides a bridge between AI systems and PocketBase databases, enabling direct interaction with collections, records, and user authentication for applications that need to manipulate database data within conversations.

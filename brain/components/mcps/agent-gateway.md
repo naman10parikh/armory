@@ -8,13 +8,13 @@ source_url: https://github.com/agentgateway/agentgateway
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5310
+stars: 5677
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, integration-services]
-forks: 940
-pushed_at: "2026-10-13T14:48:57Z"
+forks: 1001
+pushed_at: "2026-10-27T08:37:53Z"
 mentions: 2
 ---
 ## What it is

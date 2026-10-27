@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T04:22:04Z"
+pushed_at: "2026-10-16T05:44:48Z"
 ---
 ## What it is
 Enables AI agents to securely access Apple Health data (sleep, heart rate, menstrual cycle, etc.) via end-to-end encrypted local decryption from the Tether iOS app.

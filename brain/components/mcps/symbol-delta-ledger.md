@@ -8,13 +8,13 @@ source_url: https://github.com/GlitterKill/sdl-mcp
 license: Unlicense - libtelnet variant
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 490
+stars: 496
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 31
-pushed_at: "2026-10-11T22:35:22Z"
+pushed_at: "2026-10-14T02:13:25Z"
 ---
 ## What it is
 Enables AI coding agents to efficiently query code context via a symbol graph, reducing token usage by up to 20x.

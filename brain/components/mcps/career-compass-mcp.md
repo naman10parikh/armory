@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T01:07:31Z"
+pushed_at: "2026-10-24T21:00:38Z"
 ---
 ## What it is
 Turns Claude into a career co-pilot that manages resumes, cover letters, job applications, and interview prep using local YAML files.

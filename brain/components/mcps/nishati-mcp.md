@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T22:55:26Z"
+pushed_at: "2026-10-23T01:22:31Z"
 ---
 ## What it is
 MCP server for Kenya energy — KPLC connection guidance, tariff calculator, off-grid solar, rural electrification programs, consumer rights.

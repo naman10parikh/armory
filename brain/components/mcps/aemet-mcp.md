@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T12:59:23Z"
+pushed_at: "2026-10-25T04:23:20Z"
 ---
 ## What it is
 Model Context Protocol server: plug AEMET into Claude Desktop, Cursor, Windsurf or any MCP client. Runs locally over stdio.

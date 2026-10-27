@@ -8,11 +8,11 @@ source_url: https://github.com/ia-programming/youtube-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 40
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
+forks: 19
 pushed_at: "2025-03-26T04:41:40Z"
 ---
 ## What it is

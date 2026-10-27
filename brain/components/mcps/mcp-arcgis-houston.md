@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:31:59Z"
+pushed_at: "2026-10-23T03:52:14Z"
 ---
 ## What it is
 This MCP server provides access to City of Houston GIS open geospatial data, enabling search, query, and schema retrieval of datasets like parcels and zoning through ArcGIS feature services.

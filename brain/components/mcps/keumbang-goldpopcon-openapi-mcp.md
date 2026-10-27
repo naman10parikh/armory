@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T05:18:08Z"
+pushed_at: "2026-10-21T15:42:45Z"
 ---
 ## What it is
 골드팝콘(금방) 금·은 거래 Open API의 복잡한 JWT 서명 절차를 코드 생성, 로컬 서명/검증까지 해주어 코딩 어시스턴트가 정확히 API 연동 코드를 작성하도록 돕는 MCP 서버입니다.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:07:52Z"
+pushed_at: "2026-10-24T21:33:27Z"
 ---
 ## What it is
 Enables querying NYC Open Data datasets using natural language, with tools to search datasets, run SoQL queries, and retrieve metadata, all without an API key.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T14:18:04Z"
+pushed_at: "2026-10-15T17:13:52Z"
 ---
 ## What it is
 Enables AI agents to manage a personal job application tracker, allowing users to list, add, update, and delete job applications with company, role, and status details through natural language.

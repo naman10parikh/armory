@@ -8,14 +8,14 @@ source_url: https://github.com/gepa-ai/gepa
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 6968
+stars: 7160
 eval_score: null
 mentions: 5
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 576
-pushed_at: "2026-10-12T20:48:20Z"
+forks: 594
+pushed_at: "2026-10-26T19:02:37Z"
 ---
 ## What it is
 Optimize prompts, code, and more with AI-powered Reflective Optimization

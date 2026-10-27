@@ -8,7 +8,7 @@ source_url: https://github.com/chengzuopeng/stock-sdk-mcp
 license: ISC License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 103
+stars: 104
 eval_score: null
 verified_at: 2026-05-27
 related: []

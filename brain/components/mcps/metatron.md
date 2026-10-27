@@ -8,13 +8,13 @@ source_url: https://github.com/kerbelp/metatron
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-10-13T04:30:58Z"
+forks: 4
+pushed_at: "2026-10-26T07:23:12Z"
 ---
 ## What it is
 Metatron is a self-hosted system that captures a codebase's real implementation decisions — preferred patterns, rejected approaches, edge cases, internal conventions — as structured priors, and serves them to coding agents over MCP

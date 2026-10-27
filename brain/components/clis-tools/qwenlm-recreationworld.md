@@ -8,14 +8,14 @@ source_url: https://github.com/QwenLM/RecreationWorld
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 102
+stars: 113
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 9
-pushed_at: "2026-09-21T05:02:19Z"
+forks: 10
+pushed_at: "2026-10-26T08:18:41Z"
 ---
 ## What it is
 RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents

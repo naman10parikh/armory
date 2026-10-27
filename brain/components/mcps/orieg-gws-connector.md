@@ -8,12 +8,12 @@ source_url: https://github.com/orieg/gws-connector
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-10-09T19:17:23Z"
 ---
 ## What it is

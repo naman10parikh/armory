@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T11:12:37Z"
+pushed_at: "2026-10-25T18:31:16Z"
 ---
 ## What it is
 MCP server that provides unified access to text, image, and video generation models via the kwjm.com API, with model discovery, capability validation, and clear error explanations.

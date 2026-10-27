@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T17:45:03Z"
+pushed_at: "2026-10-14T04:45:56Z"
 ---
 ## What it is
 Checks text against ASD-STE100 Simple Technical English, identifying non-approved words and suggesting STE replacements, and detects structural violations such as overlong sentences, passive voice, and noun clusters. Works entirely offline from a static dictionary snapshot with no network access at 

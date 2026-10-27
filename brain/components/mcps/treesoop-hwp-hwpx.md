@@ -8,7 +8,7 @@ source_url: https://github.com/treesoop/hwp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 95
+stars: 100
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

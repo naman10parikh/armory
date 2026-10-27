@@ -8,13 +8,13 @@ source_url: https://github.com/SolarLLM/human-proofreader-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T10:34:36Z"
+pushed_at: "2026-10-27T00:44:09Z"
 ---
 ## What it is
 Enables users to have Korean manuscripts proofread for readability while preserving facts, quotes, and the author's voice. It also provides readability scoring, original-versus-edited comparison, and style-preserving rewriting suggestions.

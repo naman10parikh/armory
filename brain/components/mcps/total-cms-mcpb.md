@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T18:18:30Z"
+pushed_at: "2026-10-24T07:04:00Z"
 ---
 ## What it is
 Connects Claude to Total CMS sites, enabling search, browsing, and management of content via the site's built-in MCP server. Supports both public and authenticated access using an API key stored securely.

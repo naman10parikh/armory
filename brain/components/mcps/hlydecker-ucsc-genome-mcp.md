@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, biology-medicine-and-bioinformatics]
 stars: 6
-forks: 4
+forks: 5
 pushed_at: "2025-11-13T04:06:30Z"
 ---
 ## What it is

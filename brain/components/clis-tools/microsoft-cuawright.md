@@ -8,14 +8,14 @@ source_url: https://github.com/microsoft/CUAWright
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 6052
+stars: 6067
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 386
-pushed_at: "2026-10-06T07:30:35Z"
+pushed_at: "2026-10-27T03:03:47Z"
 ---
 ## What it is
 A simple SWE style browser+desktop agent framework that achieves SOTA results on long horizon web tasks.

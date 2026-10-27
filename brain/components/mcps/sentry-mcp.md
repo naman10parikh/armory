@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T07:46:28Z"
+pushed_at: "2026-10-19T03:08:19Z"
 ---
 ## What it is
 Enables interaction with Sentry organizations, projects, and issues directly from MCP clients like Claude Code.

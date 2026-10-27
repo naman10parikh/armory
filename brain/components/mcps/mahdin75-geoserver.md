@@ -8,11 +8,11 @@ source_url: https://github.com/mahdin75/geoserver-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 93
+stars: 96
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 26
+forks: 27
 pushed_at: "2026-08-16T12:14:22Z"
 ---
 ## What it is

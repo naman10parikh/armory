@@ -8,13 +8,13 @@ source_url: https://github.com/TMHSDigital/steam-mcp
 license: Creative Commons Attribution Non Commercial No Derivatives 4.0 International
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-18T11:16:28Z"
+forks: 2
+pushed_at: "2026-10-25T22:58:08Z"
 ---
 ## What it is
 MCP server providing 25 tools to query Steam store data, player statistics, achievements, reviews, pricing, workshop items, leaderboards, inventory, and player profiles for AI-powered IDEs like Cursor.

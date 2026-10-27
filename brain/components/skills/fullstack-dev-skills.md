@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, agent-skills]
-stars: 11852
-forks: 1138
-pushed_at: "2026-10-03T15:49:55Z"
+stars: 12080
+forks: 1160
+pushed_at: "2026-10-26T18:39:26Z"
 ---
 ## What it is
 A Claude Code plugin with 65 skills for full-stack development across many frameworks, 9 workflow commands for Jira and Confluence, and a /common-ground command that lists Claude's assumptions about your project.

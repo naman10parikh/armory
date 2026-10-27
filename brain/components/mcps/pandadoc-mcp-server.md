@@ -8,13 +8,13 @@ source_url: https://github.com/PandaDoc/mcp-server-guide
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T13:04:09Z"
+pushed_at: "2026-10-27T11:31:46Z"
 ---
 ## What it is
 What is PandaDoc MCP? PandaDoc MCP (Model Context Protocol) server connects AI agents directly to PandaDoc's document workflow — creating, sending, and tracking contracts and agreements without leaving your AI client. How to use PandaDoc MCP? To use PandaDoc MCP, connect your PandaDoc account, provi

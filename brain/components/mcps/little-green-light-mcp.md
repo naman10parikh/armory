@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T23:46:48Z"
+pushed_at: "2026-10-14T21:45:15Z"
 ---
 ## What it is
 A read-only MCP server for the Little Green Light donor CRM. It lets Claude answer questions about donor data, gifts, and fundraising metrics by querying LGL directly.

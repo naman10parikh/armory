@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T05:15:07Z"
+pushed_at: "2026-10-26T18:11:06Z"
 ---
 ## What it is
 A Model Context Protocol server for the TeslaFi API that lets MCP clients query live vehicle data, drive and charge history, commute patterns, and optionally send commands.

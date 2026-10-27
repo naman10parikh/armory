@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T21:24:24Z"
+pushed_at: "2026-10-19T22:19:46Z"
 ---
 ## What it is
 Enables deriving and auditing D&D Beyond character sheets with full provenance, including combat stats, stance, and QA checks, surfacing unhandled data instead of guessing.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T12:32:26Z"
+pushed_at: "2026-10-16T12:45:28Z"
 ---
 ## What it is
 A local-first MCP server and CLI that gives coding agents structured project memory, task contracts, context packs, backlog workflows, and verification evidence, storing data in reviewable Markdown/YAML with a fast SQLite index.

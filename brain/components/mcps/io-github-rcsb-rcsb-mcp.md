@@ -8,13 +8,13 @@ source_url: https://github.com/rcsb/rcsb-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-10-12T15:35:44Z"
+forks: 5
+pushed_at: "2026-10-23T19:45:02Z"
 ---
 ## What it is
 Enables discovery, inspection, and cross-referencing of Protein Data Bank structures through three RCSB APIs: search, data, and sequence coordinates.

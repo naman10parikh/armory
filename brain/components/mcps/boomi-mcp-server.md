@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-11T04:07:09Z"
+pushed_at: "2026-10-22T20:13:31Z"
 ---
 ## What it is
 Secure MCP server for Boomi Platform API integration with Claude Code. Enables natural language interaction with Boomi Platform APIs, including managing accounts, processes, components, deployments, schedules, and more.

@@ -8,12 +8,12 @@ source_url: https://github.com/pioneerjeff-labs/emotion-engine
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 2
 pushed_at: "2026-08-29T13:22:57Z"
 ---
 ## What it is

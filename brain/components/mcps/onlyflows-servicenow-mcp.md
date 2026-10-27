@@ -8,13 +8,13 @@ source_url: https://github.com/onlyflowstech/servicenow-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-16T19:28:28Z"
+pushed_at: "2026-10-27T01:27:38Z"
 ---
 ## What it is
 The most comprehensive ServiceNow MCP server. 17 tools for full CRUD, CMDB graph traversal, background scripts, ATF testing, and more.

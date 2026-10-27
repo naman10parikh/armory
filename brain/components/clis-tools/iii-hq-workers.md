@@ -8,14 +8,14 @@ source_url: https://github.com/iii-hq/workers
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 113
+stars: 114
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 26
-pushed_at: "2026-10-13T14:03:16Z"
+forks: 27
+pushed_at: "2026-10-27T13:00:21Z"
 ---
 ## What it is
 iii workers: cited by 1 practitioner note in the Sentinel brain.

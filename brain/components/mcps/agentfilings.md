@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-03T00:27:55Z"
+pushed_at: "2026-10-14T16:30:44Z"
 ---
 ## What it is
 Provides structured US SEC/EDGAR filing data, including filings index, XBRL-derived earnings, and Form 4 insider transactions, as clean JSON via MCP. Supports x402 payments (USDC on Base) and Stripe subscription for access.

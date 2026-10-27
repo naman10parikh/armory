@@ -8,12 +8,12 @@ source_url: https://github.com/context-hub/generator
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 344
+stars: 341
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 23
-pushed_at: "2026-03-11T19:54:49Z"
+pushed_at: "2026-10-22T11:24:51Z"
 ---
 ## What it is
 MCP server `Context Generator`, catalogued on PulseMCP. PHP-based tool for generating structured documentation from files, repositories, diffs, and URLs through a modular architecture with powerful configuration options for AI-assisted development workflows

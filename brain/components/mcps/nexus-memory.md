@@ -8,13 +8,13 @@ source_url: https://github.com/Neboy72/nexus-memory
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-12T11:11:23Z"
+forks: 1
+pushed_at: "2026-10-25T14:52:23Z"
 ---
 ## What it is
 Nexus Memory gives every MCP-compatible agent one persistent, self-hosted shared memory with hybrid retrieval, drift detection, and anti-poisoning features.

@@ -8,7 +8,7 @@ source_url: https://github.com/wenb1n-dev/mysql_mcp_server_pro
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 249
+stars: 250
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-04-01T16:21:33Z"
+pushed_at: "2026-10-19T23:29:08Z"
 ---
 ## What it is
 MCP server `AutoHotkey Computer Use`, catalogued on PulseMCP. Token-efficient Windows computer use MCP server using AutoHotkey v2 and UI Automation for AI agent control of desktop applications.

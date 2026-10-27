@@ -8,13 +8,13 @@ source_url: https://github.com/mcpland/webpage-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 24
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-09-18T08:33:57Z"
+forks: 8
+pushed_at: "2026-10-14T13:33:05Z"
 ---
 ## What it is
 Enables AI assistants to control your webpage via MCP, allowing navigation, screenshots, clicks, content reading, and more through a Chrome extension.

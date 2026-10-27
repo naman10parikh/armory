@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-10T18:09:30Z"
+pushed_at: "2026-10-23T19:13:16Z"
 ---
 ## What it is
 Measures and improves how findable, readable, and usable a website is to AI answer engines and autonomous AI agents through hosted AEO audit tools.

@@ -8,12 +8,12 @@ source_url: https://github.com/t0saki/sitedrop
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-08-07T12:32:36Z"
 ---
 ## What it is

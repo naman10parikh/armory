@@ -8,11 +8,11 @@ source_url: https://github.com/destinyfrancis/openclaw-knowledge-distiller
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 64
+stars: 65
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
+forks: 14
 pushed_at: "2026-03-10T04:32:55Z"
 ---
 ## What it is

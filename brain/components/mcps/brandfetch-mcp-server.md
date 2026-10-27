@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-17T10:07:55Z"
+forks: 0
+pushed_at: "2026-10-23T06:21:00Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve brand data, logos, design assets, and brand context via the Brandfetch API.

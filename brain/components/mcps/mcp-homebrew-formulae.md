@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T19:07:27Z"
+pushed_at: "2026-10-26T23:14:52Z"
 ---
 ## What it is
 Query Homebrew formulae, casks, and install analytics through natural language or direct tool calls.

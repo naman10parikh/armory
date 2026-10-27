@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-10-13T12:39:37Z"
+pushed_at: "2026-10-26T20:30:29Z"
 ---
 ## What it is
 MCP server `Svelte Docs`, catalogued on PulseMCP. Integrates with Svelte documentation to enable efficient querying and retrieval of framework-specific content for development assistance.

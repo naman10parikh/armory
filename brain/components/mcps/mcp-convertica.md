@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-24T20:25:08Z"
+pushed_at: "2026-10-17T21:30:23Z"
 ---
 ## What it is
 Convert PDF, Word, Excel, PowerPoint, EPUB, HEIC and images from Claude, Cursor or any MCP client. 35+ conversion tools from convertica.net.

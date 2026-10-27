@@ -8,13 +8,13 @@ source_url: https://github.com/SidneyBissoli/ilo-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-12T14:20:59Z"
+forks: 1
+pushed_at: "2026-10-27T12:42:20Z"
 ---
 ## What it is
 MCP server for accessing ILOSTAT (ILO statistical database) with tools to search indicators, retrieve metadata, list dimension values, and fetch data, with full provenance tracking.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T21:57:19Z"
+pushed_at: "2026-10-25T20:07:14Z"
 ---
 ## What it is
 Automate and manage WhatsApp groups, communities, and channels with scheduling, moderation, analytics, and more.

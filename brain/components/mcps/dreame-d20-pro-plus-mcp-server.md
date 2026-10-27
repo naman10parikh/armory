@@ -8,13 +8,13 @@ source_url: https://github.com/sandraschi/dreame-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-13T09:38:15Z"
+forks: 1
+pushed_at: "2026-10-24T02:08:08Z"
 ---
 ## What it is
 Enables control and monitoring of a Dreame robot vacuum via MCP tools, including cleaning, status, and map viewing through the cloud API.

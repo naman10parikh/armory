@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T06:15:17Z"
+pushed_at: "2026-10-22T09:39:50Z"
 ---
 ## What it is
 Enables Claude to act as a personal health coach by connecting to Garmin wearable data and Notion workspace for automated calorie tracking, photo food logging, and coaching insights.

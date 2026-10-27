@@ -8,12 +8,12 @@ source_url: https://github.com/tiberriver256/mcp-server-azure-devops
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 393
+stars: 397
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 131
-pushed_at: "2026-10-12T14:52:33Z"
+forks: 133
+pushed_at: "2026-10-26T10:08:40Z"
 ---
 ## What it is
 MCP server `Azure DevOps`, catalogued on PulseMCP. Integrates with Azure DevOps to enable AI-driven management of projects, work items, repositories, pull requests, branches, and pipelines for enhanced DevOps workflows and automation.

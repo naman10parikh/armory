@@ -8,13 +8,13 @@ source_url: https://github.com/MIC-DKFZ/nninteractive-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 20
+stars: 51
 eval_score: null
 mentions: 1
 verified_at: 2026-10-25
 related: []
 tags: [sentinel-feed, mcps]
-forks: 0
+forks: 2
 pushed_at: "2026-10-23T05:48:10Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/OrgMentem/zotio
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T14:35:33Z"
+pushed_at: "2026-10-26T18:08:07Z"
 ---
 ## What it is
 A Zotero MCP server built for agent safety: a capability-tagged tool registry (every command carries operation/requires/destructive annotations), preview-first writes behind a mutation journal, and read-only defaults. Single Go binary with an MCPB one-click manifest for Claude Desktop.

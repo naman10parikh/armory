@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-08-12T21:14:11Z"
+pushed_at: "2026-10-23T01:31:36Z"
 ---
 ## What it is
 MCP server providing comprehensive access to Finnhub financial market data API for AI assistants like Claude Desktop.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T07:59:09Z"
+pushed_at: "2026-10-19T11:54:41Z"
 ---
 ## What it is
 Synaptra is an MCP server that provides AI agents with persistent, biologically-inspired memory, featuring time-based decay, multi-strategy retrieval, automatic linking, and consolidation. It enables storing, recalling, updating, and managing memories through MCP tools, a CLI, and a Windows service.

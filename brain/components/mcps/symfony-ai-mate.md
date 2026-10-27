@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-10T18:54:27Z"
+pushed_at: "2026-10-26T14:11:00Z"
 ---
 ## What it is
 MCP server `Symfony AI Mate`, catalogued on PulseMCP. Integrates with Symfony PHP applications to provide container introspection, service discovery, dependency analysis, and Monolog log analysis with search, filtering, and tail operations for debugging and development workflows.

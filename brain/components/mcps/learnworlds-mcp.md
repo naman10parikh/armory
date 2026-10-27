@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-15T12:00:43Z"
+pushed_at: "2026-10-17T07:42:20Z"
 ---
 ## What it is
 Enables AI assistants to manage a LearnWorlds school via the full public API, covering all 94 endpoints for courses, users, enrollments, payments, and more.

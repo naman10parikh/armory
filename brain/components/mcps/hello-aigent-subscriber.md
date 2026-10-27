@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:13:25Z"
+pushed_at: "2026-10-22T19:55:23Z"
 ---
 ## What it is
 Enables agents to subscribe to Hello Aigent feeds, fetch signed updates, verify them, and act on them.

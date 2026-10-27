@@ -8,12 +8,12 @@ source_url: https://github.com/sepinetam/mcp-for-stata
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 266
+stars: 270
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 36
-pushed_at: "2026-10-13T13:39:55Z"
+forks: 35
+pushed_at: "2026-10-19T06:55:02Z"
 ---
 ## What it is
 MCP server `Stata`, catalogued on PulseMCP. Perform regression anlayses with Stata.

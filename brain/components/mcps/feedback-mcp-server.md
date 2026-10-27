@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T04:06:39Z"
+pushed_at: "2026-10-20T01:19:13Z"
 ---
 ## What it is
 A lightweight MCP server that enables AI assistants to collect interactive user feedback via a browser window with full Markdown rendering and syntax highlighting.

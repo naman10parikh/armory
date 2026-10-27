@@ -8,7 +8,7 @@ source_url: https://github.com/HUST-AI-HYZ/MemoryAgentBench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 467
+stars: 480
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11

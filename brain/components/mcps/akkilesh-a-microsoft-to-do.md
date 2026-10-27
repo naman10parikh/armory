@@ -8,11 +8,11 @@ source_url: https://github.com/akkilesh-a/microsoft-todo-mcp-server-self-hosted
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
+forks: 0
 pushed_at: "2026-08-27T18:14:36Z"
 ---
 ## What it is

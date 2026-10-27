@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-04T17:16:54Z"
+pushed_at: "2026-10-22T20:17:11Z"
 ---
 ## What it is
 MCP server `Mimiq`, catalogued on PulseMCP. Synthetic user testing for web pages, copy, flows, and UI components with simulated audience feedback.

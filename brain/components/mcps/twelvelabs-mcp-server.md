@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-09T13:07:46Z"
+pushed_at: "2026-10-20T23:53:41Z"
 ---
 ## What it is
 Enables MCP clients to manage ElevenLabs Conversational AI voice agents, knowledge bases, conversations, and voices, including advanced configuration and analysis tools not available in the official connector.

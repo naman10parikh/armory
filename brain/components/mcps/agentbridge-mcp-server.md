@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T14:06:42Z"
+pushed_at: "2026-10-18T20:12:14Z"
 ---
 ## What it is
 Enables AI agents to discover, validate, and call actions from web apps through the Model Context Protocol, using a manifest of structured, permissioned actions.

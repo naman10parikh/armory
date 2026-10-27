@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T12:32:21Z"
+pushed_at: "2026-10-26T19:53:02Z"
 ---
 ## What it is
 MCP server for Spanish public procurement intelligence, providing tools to query tenders, awards, prices, and renewal forecasts from TED and PLACSP data.

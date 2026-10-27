@@ -8,13 +8,13 @@ source_url: https://github.com/marianfoo/abap-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 94
+stars: 97
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-09-09T10:51:49Z"
+pushed_at: "2026-10-23T08:15:58Z"
 ---
 ## What it is
 Provides ABAP developers with unified search, document retrieval, feature matrix lookup, SAP Community search, and local ABAP linting capabilities via MCP.

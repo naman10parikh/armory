@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-12T10:05:27Z"
+pushed_at: "2026-10-19T03:55:19Z"
 ---
 ## What it is
 MCP server that integrates the Phylax verification API, enabling AI assistants to verify packages, repositories, and other MCP servers before use. It exposes tools for verifying artifacts, checking policies, and fetching attestations.

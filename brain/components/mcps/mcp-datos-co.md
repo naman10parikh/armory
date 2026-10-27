@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:26:47Z"
+pushed_at: "2026-10-25T03:45:28Z"
 ---
 ## What it is
 datos.gov.co — Colombia's national open-data portal (Socrata platform).

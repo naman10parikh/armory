@@ -8,14 +8,14 @@ source_url: https://github.com/Lightricks/LTX-2
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 9727
+stars: 9908
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1544
-pushed_at: "2026-10-13T11:59:22Z"
+forks: 1569
+pushed_at: "2026-10-18T17:41:34Z"
 ---
 ## What it is
 Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.

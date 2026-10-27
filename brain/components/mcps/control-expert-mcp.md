@@ -8,13 +8,13 @@ source_url: https://github.com/apexsotjo-blip/control-expert-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-07-20T08:18:41Z"
+pushed_at: "2026-10-19T08:03:09Z"
 ---
 ## What it is
 MCP server that enables AI agents to read, edit, and create PLC projects in EcoStruxure Control Expert via COM automation.

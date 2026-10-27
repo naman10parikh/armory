@@ -8,13 +8,13 @@ source_url: https://github.com/sresarehumantoo/htb-hosts
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-12T20:59:55Z"
+pushed_at: "2026-10-24T23:22:55Z"
 ---
 ## What it is
 Enables sudo-free management of /etc/hosts entries for Hack The Box and lab work, with a zero-dependency MCP server for AI coding agents.

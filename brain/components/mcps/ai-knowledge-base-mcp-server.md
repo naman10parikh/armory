@@ -8,13 +8,13 @@ source_url: https://github.com/Alpha-W0lf/ai-knowledge-base-public
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T06:05:55Z"
+pushed_at: "2026-10-26T03:21:39Z"
 ---
 ## What it is
 Provides read-only hybrid RAG search and discovery over a local-first AI knowledge corpus, enabling semantic and keyword search, browse, digest, and status tools.

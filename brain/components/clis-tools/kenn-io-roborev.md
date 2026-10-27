@@ -8,14 +8,14 @@ source_url: https://github.com/kenn-io/roborev
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1751
+stars: 1779
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 168
-pushed_at: "2026-10-12T22:47:50Z"
+forks: 170
+pushed_at: "2026-10-27T13:02:21Z"
 ---
 ## What it is
 Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code.

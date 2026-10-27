@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T16:14:10Z"
+pushed_at: "2026-10-19T16:57:28Z"
 ---
 ## What it is
 Enables AI assistants to manage Flow Relay projects, generate handoffs and insights, and interact with integrations like Discord through natural language.

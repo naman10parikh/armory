@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T15:32:25Z"
+pushed_at: "2026-10-16T11:47:34Z"
 ---
 ## What it is
 Enables AI agents to safely explore and query a SQLite database in read-only mode, allowing them to inspect schema and run analytical SQL queries without risking data modification.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-13T13:58:39Z"
+pushed_at: "2026-10-21T12:52:26Z"
 ---
 ## What it is
 Connects a podcast-sponsorship database to AI assistants, allowing users to search for brands that sponsor podcasts and reveal buyer contacts by name and email.

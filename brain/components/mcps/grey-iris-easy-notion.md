@@ -8,11 +8,11 @@ source_url: https://github.com/grey-iris/easy-notion-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 12
 pushed_at: "2026-09-11T20:03:13Z"
 ---
 ## What it is

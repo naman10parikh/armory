@@ -8,13 +8,13 @@ source_url: https://github.com/smlfg/hai-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T10:54:02Z"
+pushed_at: "2026-10-22T17:37:16Z"
 ---
 ## What it is
 Provides a human-agent interface control plane for managing agent state, focus, and next steps across any MCP-compatible client, without calling an LLM itself.

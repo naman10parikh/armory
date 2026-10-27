@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T13:05:39Z"
+pushed_at: "2026-10-26T11:19:57Z"
 ---
 ## What it is
 More than just a fully featured MCP server that lets AI agents manage Docker — containers, images, networks, volumes, swarm services, secrets, configs, nodes, plugins, etc., it helps you create workflows to easily manage your Docker environments.

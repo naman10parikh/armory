@@ -15,7 +15,7 @@ verified_at: 2026-10-13
 related: []
 tags: [sentinel-feed, evals]
 forks: 0
-pushed_at: "2026-10-12T14:29:00Z"
+pushed_at: "2026-10-16T13:59:23Z"
 ---
 ## What it is
 Code for paper "ActBench: Self-Evolving Benchmark of Behavioral Safety in Cowork Agents"

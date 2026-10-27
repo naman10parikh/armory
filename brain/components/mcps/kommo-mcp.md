@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-07T22:02:35Z"
+pushed_at: "2026-10-26T12:40:17Z"
 ---
 ## What it is
 Self-hosted MCP server that connects AI assistants to Kommo CRM (API v4), enabling real-time CRM actions such as creating/managing leads, tasks, notes, and more through 29 tools.

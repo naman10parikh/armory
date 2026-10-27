@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T17:57:32Z"
+pushed_at: "2026-10-15T17:59:06Z"
 ---
 ## What it is
 Securedact MCP is a local-first privacy layer for MCP-compatible AI workflows. It detects, reviews, redacts, and audits sensitive information before approved sanitized content is used downstream.

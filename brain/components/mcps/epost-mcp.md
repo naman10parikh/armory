@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-12T12:54:21Z"
+forks: 1
+pushed_at: "2026-10-25T21:43:03Z"
 ---
 ## What it is
 Enables listing and downloading scanned letters from the Swiss ePost digital letterbox through browser automation, requiring manual SwissID login for session establishment.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T21:07:57Z"
+pushed_at: "2026-10-16T19:17:42Z"
 ---
 ## What it is
 Transcribe audio/video URLs and detect silence for cutting, with pay-per-call billing in USDC via x402, no account or API key required.

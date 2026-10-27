@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-09-21T06:35:24Z"
+pushed_at: "2026-10-26T14:59:41Z"
 ---
 ## What it is
 MCP server `Docdex`, catalogued on PulseMCP. Lightweight per-repository documentation indexer providing fast full-text search over local markdown and text files with automatic file change detection.

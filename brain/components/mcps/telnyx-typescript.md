@@ -8,13 +8,13 @@ source_url: https://github.com/team-telnyx/telnyx-node
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 197
+stars: 198
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 eval_score: 1
 forks: 29
-pushed_at: "2026-10-09T18:41:26Z"
+pushed_at: "2026-10-22T08:38:34Z"
 ---
 ## What it is
 MCP server `Telnyx`, catalogued on PulseMCP. Integrates with Telnyx's telecommunications APIs for voice calling, SMS/MMS messaging, phone number management, and AI assistants

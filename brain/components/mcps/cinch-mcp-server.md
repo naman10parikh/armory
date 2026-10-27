@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-10T11:28:54Z"
+pushed_at: "2026-10-26T22:54:54Z"
 ---
 ## What it is
 Enables MCP-compatible agents to query security checklists, protocols, and framework mappings to safely build and operate AI agents, with tools for checklist runs, protocol lookup, mapping lookup, and threat search.

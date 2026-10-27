@@ -8,13 +8,13 @@ source_url: https://github.com/deuriib/mcp-gateway
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T08:13:37Z"
+pushed_at: "2026-10-27T11:15:38Z"
 ---
 ## What it is
 Enables aggregating multiple MCP servers behind a single HTTP/SSE endpoint, with Code Mode to reduce token usage and support for OAuth and sandboxed execution.

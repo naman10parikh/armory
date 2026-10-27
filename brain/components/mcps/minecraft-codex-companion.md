@@ -8,13 +8,13 @@ source_url: https://github.com/Hakurei-git/minecraft-codex-companion
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T16:41:16Z"
+pushed_at: "2026-10-17T17:21:52Z"
 ---
 ## What it is
 Local MCP server that lets AI agents control a Minecraft Forge 1.20.1 NPC to chat, move, gather, craft, build, fight, and manage inventory in a single-player world.

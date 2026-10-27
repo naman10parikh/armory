@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-12T06:58:16Z"
+forks: 1
+pushed_at: "2026-10-15T12:58:01Z"
 ---
 ## What it is
 Provides full read/write access to Zotero libraries through 36 MCP tools, including search, add, tag, update, delete, and move operations for items, collections, attachments, notes, and saved searches. Enables AI assistants to manage a Zotero library remotely, with support for both local stdio and m

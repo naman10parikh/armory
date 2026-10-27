@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-09T19:04:11Z"
+pushed_at: "2026-10-26T04:53:03Z"
 ---
 ## What it is
 Enables bidirectional sync between a personal Obsidian vault and a shared team vault with configurable rules, change preview, and fast change detection.

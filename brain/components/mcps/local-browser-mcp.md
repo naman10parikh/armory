@@ -8,13 +8,13 @@ source_url: https://github.com/NolanLT/local-browser-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T13:06:42Z"
+pushed_at: "2026-10-14T17:47:57Z"
 ---
 ## What it is
 A headless, agent-controllable real browser as an MCP server that enables AI agents to navigate, click, fill, eval JavaScript, and take screenshots on localhost and allowed hosts, with no GUI required.

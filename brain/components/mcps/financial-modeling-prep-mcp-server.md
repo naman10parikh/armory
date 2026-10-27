@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2025-06-23T21:29:36Z"
+pushed_at: "2026-10-18T15:43:57Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides tools, resources, and prompts for financial analysis using the Financial Modeling Prep API.

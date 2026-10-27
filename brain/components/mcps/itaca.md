@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T06:40:40Z"
+pushed_at: "2026-10-16T16:01:07Z"
 ---
 ## What it is
 Local-first MCP server that indexes all projects on your machine and provides coding agents with briefings about each project's stack, services, and run instructions, so they can start sessions with context across all repos. No cloud, no accounts, no telemetry.

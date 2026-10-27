@@ -8,13 +8,13 @@ source_url: https://github.com/srhtdmrkl/osha-recordkeeping-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T13:22:19Z"
+pushed_at: "2026-10-16T07:14:38Z"
 ---
 ## What it is
 Enables deterministic evaluation of workplace injury recordability under 29 CFR Part 1904, using 11 typed triage tools to return cited determinations for OSHA log entries.

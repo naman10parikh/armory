@@ -8,12 +8,12 @@ source_url: https://github.com/axiomatic-ai/ax-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-10-08T21:27:29Z"
+pushed_at: "2026-10-26T14:12:10Z"
 ---
 ## What it is
 MCP server `Axiomatic AI`, catalogued on PulseMCP. Provides six specialized servers for scientific and engineering workflows including photonic circuit design with gdsfactory integration, document processing with advanced OCR, plot data extraction from images, equation composition and analysis, PDF annotation with contextual analysis, and model fitting with optimization capabilities.

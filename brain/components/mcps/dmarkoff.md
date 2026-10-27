@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-09T08:21:23Z"
+pushed_at: "2026-10-20T16:22:05Z"
 ---
 ## What it is
 MCP server `Dmarkoff`, catalogued on PulseMCP. Query live DMARC monitoring data, domain health, authentication results, and security alerts through AI assistants.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T23:03:52Z"
+pushed_at: "2026-10-24T23:02:51Z"
 ---
 ## What it is
 MCP server that transforms Gurunavi into a browser-driven semantic proxy, providing restaurant search, details, and reservation management through normalized interfaces with safety controls.

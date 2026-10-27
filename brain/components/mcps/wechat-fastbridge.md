@@ -8,12 +8,12 @@ source_url: https://github.com/huj28-creator/wechat-fastbridge
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 2
 pushed_at: "2026-07-22T08:16:54Z"
 ---
 ## What it is

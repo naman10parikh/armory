@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-03-01T00:43:58Z"
+pushed_at: "2026-10-19T22:53:41Z"
 ---
 ## What it is
 MCP server `MachFive`, catalogued on PulseMCP. Hyper-personalized cold email sequence generation via the MachFive API.

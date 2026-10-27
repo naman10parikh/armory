@@ -8,13 +8,13 @@ source_url: https://github.com/2nd1st/open-mcp-apps
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 35
+stars: 36
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-12T07:55:43Z"
+forks: 2
+pushed_at: "2026-10-16T13:56:31Z"
 ---
 ## What it is
 An open engine that gives AI persistent, reusable UI components with a writable component registry, versioned data storage, and a shell runtime, enabling AI to create, save, and reuse single-purpose apps.

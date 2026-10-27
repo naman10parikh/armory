@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T17:17:14Z"
+pushed_at: "2026-10-15T07:11:17Z"
 ---
 ## What it is
 Provides read-only access to databases for MCP-compatible AI tools, allowing schema exploration and SELECT queries without exposing credentials or risking data changes.

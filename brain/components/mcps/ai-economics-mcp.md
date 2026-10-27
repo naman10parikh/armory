@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T07:17:32Z"
+pushed_at: "2026-10-21T20:04:18Z"
 ---
 ## What it is
 MCP server for AI economics, providing 12 calculators for AI budgets, token costs, query burn, and proving agent work.

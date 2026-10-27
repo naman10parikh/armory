@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T13:02:49Z"
+pushed_at: "2026-10-17T05:37:03Z"
 ---
 ## What it is
 Thin Host Protocol Adapter between an MCP host and the Drama Plugin, exposing plugin tools via MCP with automatic discovery and secure routing.

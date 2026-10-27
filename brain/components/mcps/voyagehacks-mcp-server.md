@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T17:04:46Z"
+pushed_at: "2026-10-25T09:12:36Z"
 ---
 ## What it is
 MCP server for VoyageHacks.com providing travel tools to search articles, get travel gear recommendations, and generate booking links for flights, hotels, eSIMs, VPNs, and credit cards across multiple languages.

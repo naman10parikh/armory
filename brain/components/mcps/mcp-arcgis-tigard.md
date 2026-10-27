@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T21:58:39Z"
+pushed_at: "2026-10-23T04:04:46Z"
 ---
 ## What it is
 Enables AI agents to search and query City of Tigard GIS open geospatial datasets (parcels, zoning, parks, etc.) via ArcGIS Feature Services.

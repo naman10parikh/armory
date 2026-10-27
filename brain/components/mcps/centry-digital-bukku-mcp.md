@@ -8,13 +8,13 @@ source_url: https://github.com/centry-digital/bukku
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-03-16T13:41:56Z"
+forks: 4
+pushed_at: "2026-10-26T07:20:46Z"
 ---
 ## What it is
 MCP server enabling AI assistants to manage invoices, contacts, products, and other accounting data through the Bukku API.

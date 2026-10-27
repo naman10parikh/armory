@@ -13,7 +13,7 @@ related: []
 tags: [mcp, other-tools-and-integrations]
 stars: 13
 forks: 6
-pushed_at: "2026-03-30T02:27:21Z"
+pushed_at: "2026-10-26T02:25:43Z"
 ---
 ## What it is
 An MCP server for Mathematical expression calculation

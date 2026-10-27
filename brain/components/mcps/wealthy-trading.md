@@ -8,11 +8,11 @@ source_url: https://github.com/wealthy/wealthy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 12
 pushed_at: "2025-07-03T12:41:51Z"
 ---
 ## What it is

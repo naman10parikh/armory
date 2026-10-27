@@ -8,13 +8,13 @@ source_url: https://github.com/realloon/RimSage
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 94
+stars: 97
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-08-28T03:01:58Z"
+forks: 8
+pushed_at: "2026-10-20T12:29:09Z"
 ---
 ## What it is
 Search and browse RimWorld source code, definitions, and C# symbols via MCP tools.

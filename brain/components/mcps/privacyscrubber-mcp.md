@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T08:44:57Z"
+pushed_at: "2026-10-27T12:14:17Z"
 ---
 ## What it is
 Sanitizes text and files by removing PII, secrets, and custom patterns locally before sending to LLMs, with optional reverse-scrubbing.

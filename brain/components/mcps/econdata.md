@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T23:41:18Z"
+pushed_at: "2026-10-25T03:56:46Z"
 ---
 ## What it is
 Wraps the Bureau of Labor Statistics public API v2 to provide economic data through natural language queries or direct tool calls.

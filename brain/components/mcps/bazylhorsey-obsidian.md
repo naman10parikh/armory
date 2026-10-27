@@ -8,11 +8,11 @@ source_url: https://github.com/bazylhorsey/obsidian-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
+forks: 3
 pushed_at: "2026-10-06T06:09:44Z"
 ---
 ## What it is

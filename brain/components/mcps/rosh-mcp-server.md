@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T11:35:41Z"
+pushed_at: "2026-10-21T18:27:53Z"
 ---
 ## What it is
 Enables AI to create and publish interactive web apps, games, and 3D scenes using Rosh, a plain-English programming language. It supports compilation to HTML5 canvas, Phaser, or Three.js.

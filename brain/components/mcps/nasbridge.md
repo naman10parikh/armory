@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T15:42:04Z"
+pushed_at: "2026-10-16T13:03:59Z"
 ---
 ## What it is
 An MCP server for TrueNAS that lets users manage ZFS pools, datasets, shares, snapshots, VMs, alerts, and network configuration through natural language, using a single hierarchical tool exposing 278 actions.

@@ -8,11 +8,11 @@ source_url: https://github.com/samihalawa/mcp-server-smtp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 18
+forks: 19
 pushed_at: "2026-10-05T21:27:28Z"
 ---
 ## What it is

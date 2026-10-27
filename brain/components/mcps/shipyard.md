@@ -8,12 +8,12 @@ source_url: https://github.com/shipyard/shipyard-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-10-13T00:53:57Z"
+pushed_at: "2026-10-22T20:21:07Z"
 ---
 ## What it is
 MCP server `Shipyard`, catalogued on PulseMCP. Ephemeral environment management with lifecycle control, service logs, volume operations, and port forwarding

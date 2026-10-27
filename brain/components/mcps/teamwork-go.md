@@ -12,8 +12,8 @@ stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 19
-pushed_at: "2026-10-12T17:14:16Z"
+forks: 18
+pushed_at: "2026-10-26T13:58:24Z"
 ---
 ## What it is
 MCP server `Teamwork`, catalogued on PulseMCP. Official server for Teamwork.com project management platform

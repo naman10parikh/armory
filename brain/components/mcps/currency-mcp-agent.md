@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-09T20:47:50Z"
+pushed_at: "2026-10-17T14:41:13Z"
 ---
 ## What it is
 Local service for currency rates and conversion using MCP and agent layer. Accepts user requests, selects appropriate tool, and returns structured responses.

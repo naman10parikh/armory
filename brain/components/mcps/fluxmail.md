@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T01:21:11Z"
+pushed_at: "2026-10-27T04:20:55Z"
 ---
 ## What it is
 Self-hosted MCP server to access your Gmail / Outlook / IMAP email

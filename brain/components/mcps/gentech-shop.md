@@ -8,11 +8,13 @@ source_url: https://github.com/ProtoJay4789/genTech-shop
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-08-04T20:22:56Z"
 ---
 ## What it is
 Provides gaming intelligence for AI agents including Steam wishlist deals, upcoming releases, POE2 build health, and hub status via MCP tools.

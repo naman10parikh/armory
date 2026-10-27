@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-25T10:58:32Z"
+pushed_at: "2026-10-17T23:21:41Z"
 ---
 ## What it is
 Generates images, video, music, and voice from plain-language prompts, shipping them production-ready as optimised WebP with SEO alt text, directly in your terminal or AI agent.

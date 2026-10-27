@@ -8,12 +8,12 @@ source_url: https://github.com/jau123/meigen-ai-design-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1781
+stars: 1791
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 235
-pushed_at: "2026-10-12T12:22:46Z"
+pushed_at: "2026-10-23T12:16:38Z"
 ---
 ## What it is
 MCP server `MeiGen AI Design`, catalogued on PulseMCP. Unified image generation across local ComfyUI workflows, OpenAI APIs, and MeiGen Cloud with a curated prompt library.

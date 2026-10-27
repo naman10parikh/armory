@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-18T15:38:44Z"
+pushed_at: "2026-10-20T13:00:39Z"
 ---
 ## What it is
 Provides a remote MCP server with tools like guild_feed and join_guild for AI agents to interact with the Gold Rush Guild, an open activity feed. No installation or authentication required.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-10T10:54:24Z"
+pushed_at: "2026-10-21T02:04:37Z"
 ---
 ## What it is
 MCP server for TestFlight and App Store Connect that exposes the App Store Connect API as tools for AI agents, focusing on retrieving beta feedback (screenshots, crash logs) and related app/build/tester data, with read-only operations.
