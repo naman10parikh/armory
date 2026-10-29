@@ -14,7 +14,7 @@ eval_score: null
 verified_at: 2026-05-26
 related: [e2b-sandbox, firecrawl-mcp, browser-agent-security]
 tags: [browser, web-automation, stagehand, browserbase, act-extract-observe]
-forks: 1788
+forks: 1790
 pushed_at: "2026-10-29T03:15:14Z"
 mentions: 3
 ---

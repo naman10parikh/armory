@@ -14,8 +14,8 @@ mentions: 1
 verified_at: 2026-10-25
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 112
-pushed_at: "2026-10-28T15:27:33Z"
+forks: 113
+pushed_at: "2026-10-29T09:11:38Z"
 ---
 ## What it is
 Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.

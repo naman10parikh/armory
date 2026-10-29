@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [evals, playground, ab-testing, ci]
 forks: 718
-pushed_at: "2026-10-29T08:13:39Z"
+pushed_at: "2026-10-29T08:58:31Z"
 ---
 ## What it is
 Open-source LLM developer platform with prompt playground, evaluation pipelines, and A/B testing for iterating on LLM apps.

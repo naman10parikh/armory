@@ -8,13 +8,13 @@ source_url: https://github.com/backnotprop/pstack
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3096
+stars: 3099
 eval_score: null
 mentions: 3
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 223
+forks: 224
 pushed_at: "2026-10-28T23:22:02Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/mvanhorn/last30days-skill
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 65817
+stars: 65827
 eval_score: null
 mentions: 2
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, skills]
-forks: 5726
+forks: 5727
 pushed_at: "2026-10-28T16:30:58Z"
 ---
 ## What it is

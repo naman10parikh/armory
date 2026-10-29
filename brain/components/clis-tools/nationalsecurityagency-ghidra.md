@@ -8,13 +8,13 @@ source_url: https://github.com/NationalSecurityAgency/ghidra
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 95628
+stars: 95644
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 10778
+forks: 10781
 pushed_at: "2026-10-27T09:14:00Z"
 ---
 ## What it is

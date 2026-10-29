@@ -8,13 +8,13 @@ source_url: https://github.com/KeygraphHQ/shannon
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 50245
+stars: 50259
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 5773
+forks: 5777
 pushed_at: "2026-10-27T06:17:04Z"
 ---
 ## What it is

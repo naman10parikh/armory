@@ -8,13 +8,13 @@ source_url: https://github.com/google-gemini/gemini-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 108608
+stars: 108609
 eval_score: null
 mentions: 18
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 14869
+forks: 14868
 pushed_at: "2026-10-29T05:36:36Z"
 ---
 ## What it is

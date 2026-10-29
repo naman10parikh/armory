@@ -8,13 +8,13 @@ source_url: https://github.com/crewAIInc/crewAI
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 60241
+stars: 60242
 eval_score: null
 mentions: 21
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 8939
+forks: 8940
 pushed_at: "2026-10-29T07:35:31Z"
 ---
 ## What it is
