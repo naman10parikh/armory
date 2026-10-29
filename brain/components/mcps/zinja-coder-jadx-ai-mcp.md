@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
-stars: 2950
+stars: 2951
 forks: 277
 pushed_at: "2026-10-19T00:39:37Z"
 ---

@@ -8,12 +8,12 @@ source_url: https://github.com/metabase/metabase
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49941
+stars: 49955
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6945
-pushed_at: "2026-10-29T09:24:52Z"
+forks: 6947
+pushed_at: "2026-10-29T14:03:31Z"
 ---
 ## What it is
 MCP server `Metabase`, catalogued on PulseMCP. Official Metabase MCP server enabling AI agents to search, explore, query, and visualize data in a self-hosted Metabase instance.

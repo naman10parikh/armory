@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [ccstatusline, claude-code-statusline]
 tags: [statusline, observability]
-stars: 28990
+stars: 28998
 forks: 1331
 pushed_at: "2026-10-26T07:15:19Z"
 ---

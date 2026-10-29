@@ -8,7 +8,7 @@ source_url: https://github.com/bergside/typeui
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2171
+stars: 2172
 eval_score: null
 verified_at: 2026-05-27
 related: []

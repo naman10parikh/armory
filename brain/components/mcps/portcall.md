@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-29T19:03:04Z"
+pushed_at: "2026-10-29T11:22:51Z"
 ---
 ## What it is
 A plugin gateway that serves local MCP servers over HTTP as independent endpoints, avoiding child-process leaks by calling server factories in-process.

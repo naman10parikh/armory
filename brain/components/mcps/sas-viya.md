@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 25
-pushed_at: "2026-10-29T09:25:00Z"
+pushed_at: "2026-10-29T10:08:20Z"
 ---
 ## What it is
 MCP server `SAS Viya`, catalogued on PulseMCP. Bridges SAS Viya environments with external applications by executing SAS code through the Job Execution API, handling session management and returning both log output and listing results for data analysis and statistical modeling workflows.

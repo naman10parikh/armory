@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-28T07:33:06Z"
+pushed_at: "2026-10-29T13:55:00Z"
 ---
 ## What it is
 MCP server for querying the Bibliothèque nationale de France catalogue. Enables searching authors and works, retrieving author details, listing editions, and finding digitised documents via SPARQL, without an API key.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-28T00:12:44Z"
+pushed_at: "2026-10-29T13:35:13Z"
 ---
 ## What it is
 Editmamei provides a natural-language interface for Adobe Photoshop, running as a local MCP server. Rather than focusing on generative AI, it acts as an AI orchestration layer that plans edits and executes them with native Photoshop tools.

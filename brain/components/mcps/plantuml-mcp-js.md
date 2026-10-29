@@ -8,7 +8,7 @@ source_url: https://github.com/plantuml/plantuml
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13386
+stars: 13385
 eval_score: null
 verified_at: 2026-05-27
 related: []

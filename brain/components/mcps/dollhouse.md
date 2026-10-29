@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-10-28T23:56:09Z"
+pushed_at: "2026-10-29T13:37:42Z"
 ---
 ## What it is
 MCP server `DollhouseMCP`, catalogued on PulseMCP. Enables dynamic persona management from markdown files with local creation, GitHub marketplace integration, and behavioral switching capabilities for role-playing and domain-specific customization.

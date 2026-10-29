@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T17:43:54Z"
+pushed_at: "2026-10-29T12:15:58Z"
 ---
 ## What it is
 Analyze GitHub repositories with health scores, issue triage, and action items through MCP tools.

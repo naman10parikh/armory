@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 161
-pushed_at: "2026-10-29T06:13:21Z"
+pushed_at: "2026-10-29T13:59:39Z"
 ---
 ## What it is
 MCP server `ArcadeDB`, catalogued on PulseMCP. Multi-model database with built-in MCP support for SQL, Cypher, Gremlin, and GraphQL queries.

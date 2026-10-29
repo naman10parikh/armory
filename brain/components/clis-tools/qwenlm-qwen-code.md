@@ -8,14 +8,14 @@ source_url: https://github.com/QwenLM/qwen-code
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 28785
+stars: 28798
 eval_score: null
 mentions: 3
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3279
-pushed_at: "2026-10-29T09:24:31Z"
+forks: 3281
+pushed_at: "2026-10-29T13:49:36Z"
 ---
 ## What it is
 An open-source AI coding agent that lives in your terminal.

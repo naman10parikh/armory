@@ -8,13 +8,13 @@ source_url: https://github.com/confident-ai/deepeval
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 19175
+stars: 19180
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, metrics, rag, ci]
 forks: 2148
-pushed_at: "2026-10-27T16:30:35Z"
+pushed_at: "2026-10-29T10:36:04Z"
 mentions: 1
 ---
 ## What it is

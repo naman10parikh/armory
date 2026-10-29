@@ -9,7 +9,7 @@ source_url: https://github.com/browserbase/stagehand
 license: MIT
 cli_compat: [claude, codex]
 maturity: stable
-stars: 25855
+stars: 25858
 eval_score: null
 verified_at: 2026-05-26
 related: [e2b-sandbox, firecrawl-mcp, browser-agent-security]

@@ -13,7 +13,7 @@ related: [auto-claude, cc-sessions]
 tags: [claude-code, tooling]
 stars: 462
 forks: 35
-pushed_at: "2026-10-29T06:37:19Z"
+pushed_at: "2026-10-29T14:01:27Z"
 ---
 ## What it is
 A comprehensive linter for Claude Code agent files. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP, and more. Plugin for all major IDEs included, with auto-fixes.

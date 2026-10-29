@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-29T06:18:14Z"
+pushed_at: "2026-10-29T11:20:56Z"
 ---
 ## What it is
 Gateway connector between LLM agents and world data, providing access to financial market prices, macroeconomic indicators, and news through a bundled endpoint catalog.

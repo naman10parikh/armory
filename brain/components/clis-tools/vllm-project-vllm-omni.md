@@ -8,14 +8,14 @@ source_url: https://github.com/vllm-project/vllm-omni
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 7406
+stars: 7410
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2000
-pushed_at: "2026-10-29T09:23:03Z"
+forks: 2002
+pushed_at: "2026-10-29T13:51:48Z"
 ---
 ## What it is
 A framework for efficient model inference with omni-modality models

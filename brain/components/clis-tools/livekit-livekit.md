@@ -8,13 +8,13 @@ source_url: https://github.com/livekit/livekit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 21912
+stars: 21914
 eval_score: 1
 mentions: 2
 verified_at: 2026-09-26
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2508
+forks: 2511
 pushed_at: "2026-10-29T07:01:08Z"
 ---
 ## What it is

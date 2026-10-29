@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-10-28T13:34:21Z"
+pushed_at: "2026-10-29T11:24:11Z"
 ---
 ## What it is
 MCP server `Mailtrap Email API`, catalogued on PulseMCP. Enables sending transactional emails through the Mailtrap Email API.

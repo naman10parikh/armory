@@ -8,13 +8,13 @@ source_url: https://github.com/agenta-ai/agenta
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 4869
+stars: 4871
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, playground, ab-testing, ci]
-forks: 718
-pushed_at: "2026-10-29T08:58:31Z"
+forks: 720
+pushed_at: "2026-10-29T13:15:01Z"
 ---
 ## What it is
 Open-source LLM developer platform with prompt playground, evaluation pipelines, and A/B testing for iterating on LLM apps.

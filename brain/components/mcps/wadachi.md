@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-28T14:04:59Z"
+pushed_at: "2026-10-29T14:01:22Z"
 ---
 ## What it is
 Persistent memory for AI agents built on the LLM Wiki pattern: a plain-Markdown brain (also a valid Obsidian vault) with SQLite metadata, local semantic search via fastembed (no API keys), one-call session context with project auto-detection, and a decision log with rationale. Works with Claude Code

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 12
-pushed_at: "2026-10-25T14:41:25Z"
+pushed_at: "2026-10-29T10:33:01Z"
 ---
 ## What it is
 An offline-first MCP server for Indian financial, tax, and government APIs, providing tools for identity validation (PAN, Aadhaar, GSTIN), tax calculations (Income Tax, TDS, GST), and master data lookups (IFSC, Pincode, HSN/SAC) with zero authentication required.

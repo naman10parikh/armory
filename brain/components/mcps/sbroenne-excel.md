@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 101
-pushed_at: "2026-10-29T09:01:24Z"
+pushed_at: "2026-10-29T09:30:11Z"
 ---
 ## What it is
 MCP server `Excel`, catalogued on PulseMCP. Automates Microsoft Excel through Windows COM with comprehensive operations for Power Query, DAX, PivotTables, and VBA

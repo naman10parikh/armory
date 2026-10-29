@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-28T20:32:37Z"
+pushed_at: "2026-10-29T13:08:52Z"
 ---
 ## What it is
 MCP server for Browserless.io: scrape and automate any site, bypass captchas and enable stealth mode

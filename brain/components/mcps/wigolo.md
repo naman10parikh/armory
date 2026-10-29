@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 449
-pushed_at: "2026-10-28T11:18:31Z"
+pushed_at: "2026-10-29T11:29:48Z"
 ---
 ## What it is
 Provides local-first web intelligence over MCP with tools for search, fetch, crawl, extract, cache, find-similar, research, and autonomous agent loops, requiring no API keys.

@@ -8,13 +8,13 @@ source_url: https://github.com/jamiepine/voicebox
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 58955
+stars: 58975
 eval_score: null
 mentions: 2
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 7404
+forks: 7407
 pushed_at: "2026-10-07T01:17:58Z"
 ---
 ## What it is

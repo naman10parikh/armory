@@ -8,13 +8,13 @@ source_url: https://github.com/chroma-core/chroma
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 29600
+stars: 29601
 eval_score: 1
 mentions: 2
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2602
+forks: 2601
 pushed_at: "2026-10-28T16:22:53Z"
 ---
 ## What it is

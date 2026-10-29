@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 31
-pushed_at: "2026-10-29T08:11:05Z"
+pushed_at: "2026-10-29T13:26:30Z"
 ---
 ## What it is
 MCP server for website QA auditing, covering SEO, performance, security, accessibility, and agent experience with 260+ rules and AI-optimized output for coding agents.

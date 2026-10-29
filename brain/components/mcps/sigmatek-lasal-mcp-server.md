@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T14:38:43Z"
+pushed_at: "2026-10-29T12:38:59Z"
 ---
 ## What it is
 Automates the Sigmatek LASAL software suite for PLC and HMI engineering, enabling AI assistants to inspect projects, apply structural changes, compile, download to hardware, and control PLC runtime.

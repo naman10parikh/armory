@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-17T18:07:28Z"
+pushed_at: "2026-10-29T10:53:49Z"
 ---
 ## What it is
 Lets AI clients inspect and control DaVinci Resolve projects via MCP tools.

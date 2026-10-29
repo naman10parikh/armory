@@ -8,13 +8,13 @@ source_url: https://github.com/Egonex-AI/Understand-Anything
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 88819
+stars: 88847
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 7512
+forks: 7519
 pushed_at: "2026-10-26T07:05:22Z"
 ---
 ## What it is

@@ -8,7 +8,7 @@ source_url: https://github.com/nowork-studio/notfair
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4078
+stars: 4079
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
