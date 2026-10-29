@@ -8,12 +8,12 @@ source_url: https://github.com/Demolinator/revit-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 37
+stars: 40
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 17
+forks: 18
 pushed_at: "2026-09-30T13:12:41Z"
 ---
 ## What it is

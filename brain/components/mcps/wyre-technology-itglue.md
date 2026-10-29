@@ -12,8 +12,8 @@ stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 36
-pushed_at: "2026-10-19T11:35:06Z"
+forks: 35
+pushed_at: "2026-10-26T11:36:08Z"
 ---
 ## What it is
 MCP server `IT Glue`, catalogued on PulseMCP. Provides AI access to IT Glue for managing organizations, configurations, passwords, and documentation assets.

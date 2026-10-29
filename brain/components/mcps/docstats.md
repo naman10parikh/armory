@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T17:48:40Z"
+pushed_at: "2026-10-23T01:38:58Z"
 ---
 ## What it is
 MCP server that calculates readability metrics for text, web pages, and PDFs, providing scores like Flesch Reading Ease and grade levels.

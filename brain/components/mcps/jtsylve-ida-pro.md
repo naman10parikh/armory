@@ -8,7 +8,7 @@ source_url: https://github.com/jtsylve/re-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 176
+stars: 175
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

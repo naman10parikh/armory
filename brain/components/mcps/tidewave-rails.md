@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 30
-pushed_at: "2026-09-15T07:53:18Z"
+pushed_at: "2026-10-27T16:43:16Z"
 ---
 ## What it is
 Better agentic Rails development, runtime-level tools for your agent to talk to your running app.

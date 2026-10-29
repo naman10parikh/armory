@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2025-06-03T14:01:44Z"
+pushed_at: "2026-10-23T20:53:03Z"
 ---
 ## What it is
 MCP server `Pluggy`, catalogued on PulseMCP. Integrates with Pluggy's open banking platform to access financial account data and list available connectors across multiple banking institutions for financial applications and personal finance management.

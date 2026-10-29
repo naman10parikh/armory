@@ -8,14 +8,14 @@ source_url: https://github.com/backnotprop/pstack
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2531
+stars: 3096
 eval_score: null
-mentions: 2
+mentions: 3
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 194
-pushed_at: "2026-10-20T19:17:25Z"
+forks: 223
+pushed_at: "2026-10-28T23:22:02Z"
 ---
 ## What it is
 Skills and principles for rigorous AI-assisted engineering

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T19:18:42Z"
+pushed_at: "2026-10-23T11:19:57Z"
 ---
 ## What it is
 MCP server for managing Tokei pre-launch and waitlist campaigns, wrapping the Tokei v1 REST API. Enables querying pages, stats, leaderboards, signups, and performing write operations like cloning pages and uploading media through natural language.

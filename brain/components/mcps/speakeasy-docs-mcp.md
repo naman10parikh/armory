@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-21T16:47:26Z"
+pushed_at: "2026-10-27T18:42:34Z"
 ---
 ## What it is
 A lightweight, domain-agnostic hybrid search engine for markdown corpora, exposed via the Model Context Protocol (MCP), optimized for serving SDK documentation to AI coding agents.

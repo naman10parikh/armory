@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T09:46:03Z"
+pushed_at: "2026-10-26T07:29:44Z"
 ---
 ## What it is
 Enables Claude Code to query and store memories from past conversations using FTS5 search and topic-based retrieval, with no API costs.

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, cloud-platforms]
 stars: 6
 forks: 1
-pushed_at: "2026-10-16T15:50:44Z"
+pushed_at: "2026-10-29T06:15:20Z"
 ---
 ## What it is
 MCP server for the Portkey AI Gateway Admin API — 150 tools for prompts, configs, analytics, keys, guardrails, integrations, and more.

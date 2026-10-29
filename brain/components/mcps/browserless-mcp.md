@@ -8,13 +8,13 @@ source_url: https://github.com/browserless/browserless-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-10-21T17:54:04Z"
+forks: 5
+pushed_at: "2026-10-28T20:32:37Z"
 ---
 ## What it is
 MCP server for Browserless.io: scrape and automate any site, bypass captchas and enable stealth mode

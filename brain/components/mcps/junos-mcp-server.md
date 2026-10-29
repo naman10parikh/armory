@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T17:55:16Z"
+pushed_at: "2026-10-26T04:54:24Z"
 ---
 ## What it is
 Enables read-only troubleshooting of JUNOS devices by running show commands over NETCONF, with dynamic device discovery from an orchestrator.

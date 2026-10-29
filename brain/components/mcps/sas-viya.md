@@ -8,12 +8,12 @@ source_url: https://github.com/sassoftware/sas-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 66
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 25
-pushed_at: "2026-10-19T11:00:29Z"
+pushed_at: "2026-10-23T14:50:42Z"
 ---
 ## What it is
 MCP server `SAS Viya`, catalogued on PulseMCP. Bridges SAS Viya environments with external applications by executing SAS code through the Job Execution API, handling session management and returning both log output and listing results for data analysis and statistical modeling workflows.

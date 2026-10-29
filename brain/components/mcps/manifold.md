@@ -8,13 +8,13 @@ source_url: https://github.com/nonchan7720/manifold
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-22T00:49:52Z"
+pushed_at: "2026-10-28T17:41:09Z"
 ---
 ## What it is
 An MCP gateway that unifies multiple MCP servers and OpenAPI/Swagger REST APIs behind a single MCP interface, with protocol conversion, authentication, and automatic tool generation.

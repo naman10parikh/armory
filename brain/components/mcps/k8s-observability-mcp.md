@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-13T08:08:15Z"
+pushed_at: "2026-10-27T09:50:46Z"
 ---
 ## What it is
 Enables exploration of Kubernetes metrics, logs, traces, and service graph data via simple tools.

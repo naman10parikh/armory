@@ -8,12 +8,12 @@ source_url: https://github.com/zuohang20100323/nowhere-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 5
 pushed_at: "2026-07-31T08:00:47Z"
 ---
 ## What it is

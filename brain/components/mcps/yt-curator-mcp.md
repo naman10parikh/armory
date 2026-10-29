@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-24T23:12:19Z"
+pushed_at: "2026-10-29T04:11:31Z"
 ---
 ## What it is
 Enables YouTube playlist curation including inventory, deduplication, merging, and deletion via MCP tools.

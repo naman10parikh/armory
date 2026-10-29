@@ -8,7 +8,7 @@ source_url: https://github.com/web-arena-x/webarena-infinity
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 72
+stars: 73
 eval_score: 0
 mentions: 1
 verified_at: 2026-10-11

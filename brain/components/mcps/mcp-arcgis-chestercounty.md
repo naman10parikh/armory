@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T03:59:22Z"
+pushed_at: "2026-10-29T01:08:20Z"
 ---
 ## What it is
 Enables querying Chester County, PA open geospatial data via ArcGIS, including search, layer query, and schema retrieval.

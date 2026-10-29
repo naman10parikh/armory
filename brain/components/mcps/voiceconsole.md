@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T10:48:55Z"
+pushed_at: "2026-10-28T08:10:57Z"
 ---
 ## What it is
 A local MCP server that lets users control their computer via voice commands, executing CLI tools, searching files, and receiving spoken feedback, with safety gating and confirmation.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T04:04:12Z"
+pushed_at: "2026-10-29T01:12:57Z"
 ---
 ## What it is
 Enables searching and querying City of Henderson open geospatial datasets (parcels, zoning, public works) via natural language or direct tool calls.

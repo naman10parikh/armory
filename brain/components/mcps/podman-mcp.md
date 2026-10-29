@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T17:57:00Z"
+pushed_at: "2026-10-24T02:44:09Z"
 ---
 ## What it is
 Enables management of Podman containers, pods, images, and compose stacks via natural language, with support for container stats, logs, exec, health analysis, and a web dashboard.

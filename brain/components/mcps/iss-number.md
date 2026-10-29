@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T19:19:54Z"
+pushed_at: "2026-10-27T04:12:27Z"
 ---
 ## What it is
 Generates a unique number derived from the International Space Station's current orbital location, useful for space-derived identifiers or deterministic random seeds.

@@ -8,13 +8,13 @@ source_url: https://github.com/bergside/typeui
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2111
+stars: 2171
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 146
-pushed_at: "2026-07-04T10:11:58Z"
+forks: 149
+pushed_at: "2026-10-22T22:20:37Z"
 ---
 ## What it is
 Provides design systems, UI prompts, and layout variation guidance to AI coding tools for generating better user interfaces.

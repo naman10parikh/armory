@@ -12,8 +12,8 @@ stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-09-20T18:51:06Z"
+forks: 4
+pushed_at: "2026-10-23T10:14:56Z"
 ---
 ## What it is
 MCP server `Spotify`, catalogued on PulseMCP. Integrates with Spotify to enable music playback control, search, and queue management directly within conversations

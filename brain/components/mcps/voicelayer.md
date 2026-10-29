@@ -8,13 +8,13 @@ source_url: https://github.com/EtanHey/voicelayer
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T12:50:24Z"
+pushed_at: "2026-10-29T07:28:02Z"
 ---
 ## What it is
 VoiceLayer MCP server enables AI coding assistants to speak and hear via local, on-device speech-to-text and text-to-speech, with no cloud dependencies.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T13:28:51Z"
+pushed_at: "2026-10-24T09:58:49Z"
 ---
 ## What it is
 Enables LLM agents to process local videos into timestamped, citable text documents and then query them through tools for listing videos, retrieving transcripts, and fetching specific segments, all fully offline.

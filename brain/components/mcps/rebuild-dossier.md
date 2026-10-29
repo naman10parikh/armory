@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-02T05:38:28Z"
+pushed_at: "2026-10-29T01:50:01Z"
 ---
 ## What it is
 An MCP server that reverse-engineers a rebuild spec (CLAUDE.md, config, and mutation-tested tests) from an existing app, enabling coding agents to rebuild the app cleanly against that spec.

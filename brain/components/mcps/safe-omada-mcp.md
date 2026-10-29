@@ -8,13 +8,13 @@ source_url: https://github.com/gaspareduard/Omada-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-10-20T20:40:51Z"
+pushed_at: "2026-10-24T19:19:22Z"
 ---
 ## What it is
 Security-focused MCP server for TP-Link Omada Open API workflows, enabling network management via natural language.

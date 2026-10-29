@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T19:47:17Z"
+pushed_at: "2026-10-29T04:54:02Z"
 ---
 ## What it is
 MCP server for accessing Moldova Government Procurement (MTender) data, allowing AI agents to query tender information without an API key.

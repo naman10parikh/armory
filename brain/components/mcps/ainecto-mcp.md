@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-22T06:21:18Z"
+pushed_at: "2026-10-27T01:45:19Z"
 ---
 ## What it is
 Ainecto MCP connector and CLI that proxies MCP protocol to Ainecto's remote endpoint, enabling tool listing, project management, and task operations through natural language.

@@ -8,13 +8,13 @@ source_url: https://github.com/MikkoParkkola/trvl
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 89
+stars: 92
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-10-21T17:53:05Z"
+pushed_at: "2026-10-26T08:56:43Z"
 ---
 ## What it is
 Provides real travel search for AI assistants, enabling flight, hotel, car rental, and ground transportation searches through a single MCP tool, with no API keys required.

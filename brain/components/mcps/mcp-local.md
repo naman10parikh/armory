@@ -8,13 +8,13 @@ source_url: https://github.com/lacvietanh/aki-mcp-sv
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 144
+stars: 145
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 45
-pushed_at: "2026-10-11T13:58:59Z"
+forks: 46
+pushed_at: "2026-10-29T04:40:29Z"
 ---
 ## What it is
 Runs local MCP servers (filesystem, search, read-only shell) exposed via Tailscale Funnel with OAuth, enabling claude.ai to securely access local files and run shell commands through a custom connector.

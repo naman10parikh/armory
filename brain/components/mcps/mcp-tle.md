@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T21:58:36Z"
+pushed_at: "2026-10-29T06:40:20Z"
 ---
 ## What it is
 Provides satellite tracking data using Two-Line Element sets from a free public API. Enables querying satellite orbits and positions through natural language or direct tool calls.

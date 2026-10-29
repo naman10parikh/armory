@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T19:08:39Z"
+pushed_at: "2026-10-29T04:07:25Z"
 ---
 ## What it is
 Provides access to US import tariff rates via the USITC Harmonized Tariff Schedule, enabling natural language queries for tariff data.

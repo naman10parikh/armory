@@ -8,12 +8,12 @@ source_url: https://github.com/zekker6/mcp-helm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-22T06:35:45Z"
+pushed_at: "2026-10-29T08:02:16Z"
 ---
 ## What it is
 MCP server `Helm`, catalogued on PulseMCP. Provides tools for interacting with Helm repositories and charts

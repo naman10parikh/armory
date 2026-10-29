@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T01:35:53Z"
+pushed_at: "2026-10-24T05:25:47Z"
 ---
 ## What it is
 QueryPilot enables AI agents to safely generate, validate, repair, and execute SQL against fixture databases, with eval-driven regression testing to ensure reliability.

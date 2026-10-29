@@ -8,12 +8,12 @@ source_url: https://github.com/alisaitteke/photoshop-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 707
+stars: 763
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 76
-pushed_at: "2026-10-21T13:20:02Z"
+forks: 79
+pushed_at: "2026-10-26T21:19:43Z"
 ---
 ## What it is
 MCP server `Adobe Photoshop by alisaitteke`, catalogued on PulseMCP. Automate Adobe Photoshop operations including layer management, filters, and image manipulation.

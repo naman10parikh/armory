@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T23:22:39Z"
+pushed_at: "2026-10-25T23:22:49Z"
 ---
 ## What it is
 Enables AI agents to run curated English and Chinese web searches through a single search_web MCP tool, returning each result with explicit fetched_at timestamps for grounded, provenance-aware answers.

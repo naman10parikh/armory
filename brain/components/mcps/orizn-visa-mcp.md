@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-06T15:59:40Z"
+pushed_at: "2026-10-28T13:14:01Z"
 ---
 ## What it is
 Check visa requirements for 39,585 passport-destination pairs in 15 languages. Returns visa type, required documents, application process, and travel tips from 136 official government sources. Free quick checks without API key.

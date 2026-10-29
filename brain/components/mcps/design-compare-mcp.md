@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-12T08:28:18Z"
+pushed_at: "2026-10-23T16:08:22Z"
 ---
 ## What it is
 An MCP server that measures how faithfully one UI reproduces another, returning a score and actionable findings for improvement.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
-pushed_at: "2026-10-21T10:22:27Z"
+forks: 14
+pushed_at: "2026-10-27T21:38:59Z"
 ---
 ## What it is
 MCP server providing persistent cognitive infrastructure including semantic memory, emotional processing, identity continuity, and a subconscious daemon for pattern analysis.

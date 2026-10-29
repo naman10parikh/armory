@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-19T14:27:53Z"
+pushed_at: "2026-10-28T12:38:34Z"
 ---
 ## What it is
 MCP server for managing Bitcoin, Liquid Network, and Lightning wallets through AI assistants, with unified seed support, secure encrypted storage, and both CLI and tool interfaces.

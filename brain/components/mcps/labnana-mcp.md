@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T09:09:23Z"
+pushed_at: "2026-10-22T15:17:24Z"
 ---
 ## What it is
 MCP server for generating and editing images via Labnana's API, supporting models like Gemini image models, GPT-Image-2, Wan2.7, and Seedream.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2025-03-17T04:34:40Z"
+pushed_at: "2026-10-28T14:24:45Z"
 ---
 ## What it is
 MCP server `YouTube Translate`, catalogued on PulseMCP. Enables access to YouTube video transcripts, translations, summaries, and subtitle generation through a simple API interface for research, content analysis, and multilingual video accessibility workflows.

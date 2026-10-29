@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-13T09:34:07Z"
+pushed_at: "2026-10-24T02:04:39Z"
 ---
 ## What it is
 MCP server for controlling the Noetix Bumi humanoid robot via ROS 2, with support for autonomous mission planning using LLMs and computer vision.

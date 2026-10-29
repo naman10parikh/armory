@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T16:54:01Z"
+pushed_at: "2026-10-23T23:09:02Z"
 ---
 ## What it is
 Home Services MCP by HireNimbus lets AI agents find, compare, and book verified local pros for handyman, renovation, HVAC, plumbing, electrical, and landscaping jobs in supported US metro markets.

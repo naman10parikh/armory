@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T20:43:28Z"
+pushed_at: "2026-10-26T13:48:20Z"
 ---
 ## What it is
 Provides real estate data from homes.com via a browser session, enabling property search, details, history, and affordability calculations through natural language.

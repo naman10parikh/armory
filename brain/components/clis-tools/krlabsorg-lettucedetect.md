@@ -15,7 +15,7 @@ verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 63
-pushed_at: "2026-10-09T13:07:18Z"
+pushed_at: "2026-10-26T10:56:51Z"
 ---
 ## What it is
 Span-level grounding verification for RAG, code, and tool-grounded AI outputs.

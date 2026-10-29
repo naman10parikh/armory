@@ -8,13 +8,13 @@ source_url: https://github.com/microsoft/OpenRCA
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 444
+stars: 445
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 52
+forks: 53
 pushed_at: "2026-10-22T10:33:14Z"
 ---
 ## What it is

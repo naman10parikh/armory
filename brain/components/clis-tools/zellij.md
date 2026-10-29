@@ -8,14 +8,14 @@ source_url: https://github.com/zellij-org/zellij
 license: unknown
 cli_compat: []
 maturity: stable
-stars: 35803
+stars: 35877
 eval_score: 1
 mentions: null
 verified_at: 
 related: []
 tags: [terminal]
-forks: 1501
-pushed_at: "2026-10-22T08:41:39Z"
+forks: 1512
+pushed_at: "2026-10-27T16:19:50Z"
 ---
 
 # zellij

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-08T12:52:41Z"
+pushed_at: "2026-10-26T12:04:09Z"
 ---
 ## What it is
 Enables AI assistants to check tour availability, book tours via HubSpot Scheduler, and log call sessions to Supabase.

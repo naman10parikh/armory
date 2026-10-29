@@ -8,13 +8,13 @@ source_url: https://github.com/byte-physics/igor-bridge-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-13T16:14:45Z"
+pushed_at: "2026-10-27T17:19:13Z"
 ---
 ## What it is
 Exposes a running Igor Pro instance to MCP clients, enabling command execution, wave data reading, compilation management, and launching/relaunching Igor Pro.

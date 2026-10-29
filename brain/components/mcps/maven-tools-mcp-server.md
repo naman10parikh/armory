@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-10-04T00:37:04Z"
+pushed_at: "2026-10-26T14:40:58Z"
 ---
 ## What it is
 Provides live Maven Central dependency inspection with stability filtering, version comparison, CVE checks, and POM-aware upgrade recommendations for MCP-capable clients.

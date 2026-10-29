@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T17:42:32Z"
+pushed_at: "2026-10-28T08:22:12Z"
 ---
 ## What it is
 A local hybrid-search MCP server that enables coding agents to query files and folders using natural language, returning relevant code chunks with exact source paths. Everything runs on-device with no API keys or network calls.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-10T20:05:32Z"
+pushed_at: "2026-10-28T19:51:06Z"
 ---
 ## What it is
 Unofficial MCP server for Oblio.eu accounting software enabling natural language interaction to create invoices, manage documents, collect payments, query nomenclatures, and submit e-Factura to Romania's SPV system.

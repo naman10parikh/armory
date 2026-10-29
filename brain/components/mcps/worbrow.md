@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T13:14:21Z"
+pushed_at: "2026-10-26T13:18:36Z"
 ---
 ## What it is
 Free agent web-search MCP server driving local headless Chrome/Firefox via self-built CDP/Marionette — no API key, no playwright deps, data stays on-machine, stable JSON contract.

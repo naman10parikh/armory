@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T13:34:10Z"
+pushed_at: "2026-10-25T12:18:21Z"
 ---
 ## What it is
 MCP server that reconstructs hedge-fund/superinvestor portfolios from SEC EDGAR 13F filings, offering tools to query fund holdings, consensus activity, and quarter-over-quarter changes through a read-only API.

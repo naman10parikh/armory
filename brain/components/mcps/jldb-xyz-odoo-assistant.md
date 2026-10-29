@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-16T23:48:33Z"
+pushed_at: "2026-10-28T04:10:17Z"
 ---
 ## What it is
 MCP server `Odoo Assistant`, catalogued on PulseMCP. Integrates with Odoo ERP systems via XML-RPC to provide model discovery, CRUD operations, workflow automation, and reusable procedure storage.

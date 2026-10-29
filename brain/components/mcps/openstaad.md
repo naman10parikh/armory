@@ -8,12 +8,12 @@ source_url: https://github.com/bentleysystems/openstaad-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 14
-pushed_at: "2026-10-19T13:42:46Z"
+pushed_at: "2026-10-29T01:26:08Z"
 ---
 ## What it is
 MCP server `OpenSTAAD`, catalogued on PulseMCP. MCP server for Bentley STAAD.Pro structural analysis software via the OpenSTAAD API.

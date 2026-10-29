@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T15:44:32Z"
+pushed_at: "2026-10-26T19:44:57Z"
 ---
 ## What it is
 Provides MCP tools for operations desk tasks including calendar availability, customer lookup, quote calculation, and notification sending. Includes an internal agentic orchestrator that consumes the same MCP tools via protocol.

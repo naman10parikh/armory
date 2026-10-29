@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, data-visualization]
-stars: 2716
-forks: 141
-pushed_at: "2026-10-22T07:32:48Z"
+stars: 2717
+forks: 143
+pushed_at: "2026-10-29T06:56:35Z"
 ---
 ## What it is
 React data visualization MCP server with 30+ chart types. 5 tools: suggest charts for a dataset, render validated React configs to SVG, diagnose configuration anti-patterns, get component schemas, and report issues.

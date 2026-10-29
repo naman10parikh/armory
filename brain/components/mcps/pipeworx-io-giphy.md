@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-26T12:37:36Z"
+pushed_at: "2026-10-29T03:44:38Z"
 ---
 ## What it is
 MCP server `Giphy`, catalogued on PulseMCP. GIF search and retrieval via the Giphy API with a shared public beta key through the Pipeworx gateway.

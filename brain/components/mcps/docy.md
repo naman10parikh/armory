@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2025-04-29T11:06:10Z"
+pushed_at: "2026-10-25T14:32:52Z"
 ---
 ## What it is
 MCP server `Docy (Documentation Access)`, catalogued on PulseMCP. Provides direct access to technical documentation from configured sources, enabling real-time search, retrieval, and navigation through documentation content without leaving the conversation context.

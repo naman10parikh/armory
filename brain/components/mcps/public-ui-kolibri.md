@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 287
-forks: 55
-pushed_at: "2026-10-22T12:15:20Z"
+stars: 288
+forks: 56
+pushed_at: "2026-10-29T08:17:24Z"
 ---
 ## What it is
 Streaming KoliBri MCP server (NPM: `@public-ui/mcp`) delivering 200+ guaranteed accessible web component samples, specs, docs, and scenarios via hosted HTTP endpoint or local `kolibri-mcp` CLI.

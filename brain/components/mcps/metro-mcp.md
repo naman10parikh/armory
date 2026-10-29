@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-22T03:45:22Z"
+pushed_at: "2026-10-25T05:43:40Z"
 ---
 ## What it is
 A unified MCP server for US transit systems, supporting Washington DC Metro and NYC Subway with real-time predictions, station info, and service alerts.

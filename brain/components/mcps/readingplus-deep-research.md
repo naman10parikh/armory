@@ -8,7 +8,7 @@ source_url: https://github.com/reading-plus-ai/mcp-server-deep-research
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 214
+stars: 215
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

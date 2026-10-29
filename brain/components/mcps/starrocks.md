@@ -8,11 +8,11 @@ source_url: https://github.com/starrocks/mcp-server-starrocks
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 195
+stars: 196
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 67
+forks: 68
 pushed_at: "2026-09-08T02:07:58Z"
 ---
 ## What it is

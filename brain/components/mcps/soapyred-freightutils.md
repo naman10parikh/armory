@@ -8,12 +8,12 @@ source_url: https://github.com/soapyred/freightutils-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-10-19T03:37:55Z"
+forks: 1
+pushed_at: "2026-10-29T01:41:18Z"
 ---
 ## What it is
 MCP server `FreightUtils`, catalogued on PulseMCP. Freight tools for AI agents — calculators, ADR, HS codes, airlines, ULDs, vehicles, and duty lookup.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T10:21:22Z"
+pushed_at: "2026-10-28T21:19:20Z"
 ---
 ## What it is
 Provides tools to encode files to Base64 strings and decode Base64 content back to files, supporting both text and binary formats.

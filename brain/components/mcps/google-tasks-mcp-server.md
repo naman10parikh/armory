@@ -8,12 +8,12 @@ source_url: https://github.com/akutishevsky/google-tasks-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 25
+forks: 27
 pushed_at: "2026-07-04T11:43:20Z"
 ---
 ## What it is

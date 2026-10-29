@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-02-15T16:44:31Z"
+pushed_at: "2026-10-25T13:58:09Z"
 ---
 ## What it is
 MCP server `Parseable`, catalogued on PulseMCP. Integrates with Parseable log analytics platform for querying log streams, executing SQL queries with time-based filtering, and retrieving schema information and stream statistics.

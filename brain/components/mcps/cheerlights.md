@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2025-09-12T19:25:28Z"
+pushed_at: "2026-10-28T18:47:59Z"
 ---
 ## What it is
 MCP server `CheerLights`, catalogued on PulseMCP. Connects Claude to the CheerLights IoT ecosystem, enabling retrieval of current colors and history from the global light synchronization project through the ThingSpeak API.

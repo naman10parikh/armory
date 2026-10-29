@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T07:33:05Z"
+pushed_at: "2026-10-25T07:32:53Z"
 ---
 ## What it is
 MCP servers for SQL databases. One package per engine (SQLite, libSQL, MySQL, MariaDB, Postgres), two tools, read-only by default, secrets never in logs.

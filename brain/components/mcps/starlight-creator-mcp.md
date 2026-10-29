@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T05:58:08Z"
+pushed_at: "2026-10-24T19:05:25Z"
 ---
 ## What it is
 Enables agentic creators to generate images, videos, and audio, run taste-based scoring, and publish through human-gated signed manifests using their own keys and local provenance.

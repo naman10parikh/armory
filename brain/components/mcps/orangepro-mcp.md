@@ -8,13 +8,13 @@ source_url: https://github.com/OrangeproAI/orangepro-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-21T10:30:19Z"
+pushed_at: "2026-10-27T22:52:04Z"
 ---
 ## What it is
 Analyzes code to map behaviors, identify untested gaps, and generate grounded integration tests that actually run.

@@ -8,13 +8,13 @@ source_url: https://github.com/lktiep/cortex-hub
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 91
+stars: 105
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 40
-pushed_at: "2026-10-22T10:09:44Z"
+forks: 47
+pushed_at: "2026-10-27T07:26:22Z"
 ---
 ## What it is
 Self-hosted AI Agent Memory + Code Intelligence Platform providing persistent memory, AST-aware code search, and quality enforcement via a single MCP endpoint.

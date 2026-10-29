@@ -8,13 +8,13 @@ source_url: https://github.com/call518/MCP-OpenStack-Ops
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 45
+stars: 46
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 18
-pushed_at: "2026-10-19T19:02:00Z"
+pushed_at: "2026-10-28T22:23:18Z"
 ---
 ## What it is
 A comprehensive MCP server providing OpenStack project management and monitoring capabilities with built-in safety controls and single-project scope.

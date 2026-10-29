@@ -8,13 +8,13 @@ source_url: https://github.com/iamjameslennon/ddb-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-20T12:09:14Z"
+pushed_at: "2026-10-26T09:47:04Z"
 ---
 ## What it is
 A Model Context Protocol server that gives Claude direct access to your D\&D Beyond account for characters, campaigns, sourcebooks, spells, monsters, rules, encounters, and treasure.

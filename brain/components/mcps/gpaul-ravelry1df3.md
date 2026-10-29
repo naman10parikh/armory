@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-16T02:45:26Z"
+pushed_at: "2026-10-23T02:45:10Z"
 ---
 ## What it is
 MCP server `Ravelry`, catalogued on PulseMCP. Connects to the Ravelry API for knitting and crochet pattern discovery, enabling users to search patterns and retrieve detailed information without leaving their conversation interface.

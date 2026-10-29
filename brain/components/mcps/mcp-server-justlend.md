@@ -8,13 +8,13 @@ source_url: https://github.com/justlend/mcp-server-justlend
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-08-28T02:24:53Z"
+forks: 8
+pushed_at: "2026-10-23T04:07:44Z"
 ---
 ## What it is
 An MCP server enabling AI agents to interact with JustLend DAO on TRON for lending, borrowing, and portfolio management, plus general TRON chain utilities.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T09:48:13Z"
+pushed_at: "2026-10-26T14:09:43Z"
 ---
 ## What it is
 Provides read-only access to HoYoLAB and HoYoWiki APIs, enabling search and retrieval of posts, wiki entries, and article content converted to Markdown.

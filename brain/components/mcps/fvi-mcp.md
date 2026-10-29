@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T03:40:34Z"
+pushed_at: "2026-10-28T19:14:42Z"
 ---
 ## What it is
 MCP server for FreeVectorIcons design collections, enabling agents to search and fetch approved icons and assets instead of generating SVG from scratch.

@@ -8,11 +8,11 @@ source_url: https://github.com/nkarasiak/qgis-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 382
+stars: 392
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 86
+forks: 88
 pushed_at: "2026-10-17T08:23:40Z"
 ---
 ## What it is

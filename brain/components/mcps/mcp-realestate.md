@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T21:15:45Z"
+pushed_at: "2026-10-29T05:57:20Z"
 ---
 ## What it is
 Provides access to actual residential and commercial real estate transaction prices in Japan.

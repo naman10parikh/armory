@@ -8,13 +8,13 @@ source_url: https://github.com/SouravRoy-ETL/duckle
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1522
+stars: 1534
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 120
-pushed_at: "2026-10-14T09:35:15Z"
+forks: 121
+pushed_at: "2026-10-23T14:44:36Z"
 ---
 ## What it is
 Duckle ships its own Model Context Protocol server, so Claude can browse the full component catalog and per-component property schemas, generate a pipeline straight into a working directory you choose, validate it (compile without running), run it headlessly, read existing pipelines and their run lo

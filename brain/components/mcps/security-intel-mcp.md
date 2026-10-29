@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T05:58:23Z"
+pushed_at: "2026-10-24T06:27:37Z"
 ---
 ## What it is
 Vulnerability intelligence for AI agents that enables CVE lookup, package vulnerability checks, and dependency auditing without API keys.

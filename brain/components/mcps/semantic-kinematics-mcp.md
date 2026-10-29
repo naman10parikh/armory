@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T11:13:50Z"
+pushed_at: "2026-10-29T04:13:00Z"
 ---
 ## What it is
 Embedding space analysis toolkit that measures semantic drift, traces trajectory dynamics, and projects passages onto caller-defined semantic axes, exposed as MCP tools for agentic integration.

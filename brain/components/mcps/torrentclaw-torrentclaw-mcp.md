@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, multimedia-process]
 stars: 16
-forks: 2
+forks: 4
 pushed_at: "2026-09-07T20:23:00Z"
 ---
 ## What it is

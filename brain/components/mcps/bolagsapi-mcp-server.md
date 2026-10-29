@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-01-29T13:46:58Z"
+pushed_at: "2026-10-23T20:08:36Z"
 ---
 ## What it is
 MCP server for Swedish company data. Enables AI agents to lookup companies, analyze financials, assess health, screen compliance, and get industry stats.

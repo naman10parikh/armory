@@ -8,12 +8,12 @@ source_url: https://github.com/JameZUK/Arkana
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 252
+stars: 254
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 21
+forks: 20
 pushed_at: "2026-09-12T13:31:15Z"
 ---
 ## What it is

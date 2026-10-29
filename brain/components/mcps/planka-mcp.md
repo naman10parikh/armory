@@ -8,12 +8,12 @@ source_url: https://github.com/gogogadgetbytes/planka-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
+forks: 14
 pushed_at: "2026-02-03T23:13:28Z"
 ---
 ## What it is

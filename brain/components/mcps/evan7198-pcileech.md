@@ -8,11 +8,11 @@ source_url: https://github.com/evan7198/mcp_server_pcileech
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 7
 pushed_at: "2026-04-11T01:55:04Z"
 ---
 ## What it is

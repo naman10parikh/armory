@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T17:25:25Z"
+pushed_at: "2026-10-27T12:52:38Z"
 ---
 ## What it is
 An MCP server that exposes Basque pelota competition data as tools, enabling AI assistants to query competitions, clubs, results, and more via natural language.

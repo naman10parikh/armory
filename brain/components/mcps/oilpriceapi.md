@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-19T17:49:02Z"
+pushed_at: "2026-10-26T05:52:24Z"
 ---
 ## What it is
 MCP server `OilpriceAPI`, catalogued on PulseMCP. Real-time oil, gas, and commodity prices. Brent, WTI, natural gas, diesel & more.

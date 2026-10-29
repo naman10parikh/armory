@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T06:49:15Z"
+pushed_at: "2026-10-26T10:16:51Z"
 ---
 ## What it is
 This server exposes local stdio MCP tools as HTTP/SSE endpoints, enabling remote clients like Claude Desktop to call them. It supports single-tool and aggregated modes with authentication, auto-restart, and hot reload.

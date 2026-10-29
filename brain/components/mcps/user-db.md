@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T22:20:33Z"
+pushed_at: "2026-10-27T12:38:12Z"
 ---
 ## What it is
 Central user-state database MCP server with durable profile facts and live virtual sensors (stress, room intensity) with configurable smoothing, readable by any agent or smart-home service.

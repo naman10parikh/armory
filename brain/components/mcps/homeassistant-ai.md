@@ -8,12 +8,12 @@ source_url: https://github.com/homeassistant-ai/ha-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5172
+stars: 5334
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 243
-pushed_at: "2026-10-21T20:27:35Z"
+forks: 256
+pushed_at: "2026-10-29T02:29:16Z"
 ---
 ## What it is
 MCP server `Home Assistant`, catalogued on PulseMCP. Enables natural language control of Home Assistant smart home devices, automations, and system management

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T21:42:10Z"
+pushed_at: "2026-10-29T06:27:05Z"
 ---
 ## What it is
 Enables querying SPDX license list, metadata, and full license texts through natural language or direct tool calls.

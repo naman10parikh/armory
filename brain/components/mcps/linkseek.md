@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T13:04:27Z"
+pushed_at: "2026-10-22T14:29:56Z"
 ---
 ## What it is
 自托管的远程 MCP 服务，为 AI 编程工具提供联网搜索和网页获取能力，并配有网页端管理后台进行密钥和用量管理。

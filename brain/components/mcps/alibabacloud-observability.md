@@ -8,11 +8,11 @@ source_url: https://github.com/aliyun/alibabacloud-observability-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 167
+stars: 170
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 41
+forks: 43
 pushed_at: "2026-08-12T03:12:45Z"
 ---
 ## What it is

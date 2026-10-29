@@ -8,12 +8,12 @@ source_url: https://github.com/pipeworx-io/mcp-edgar
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-21T22:32:28Z"
+pushed_at: "2026-10-29T03:07:46Z"
 ---
 ## What it is
 MCP server `SEC EDGAR`, catalogued on PulseMCP. SEC EDGAR public financial data including company filings and regulatory disclosures.

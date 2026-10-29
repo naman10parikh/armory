@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-07-30T01:46:16Z"
+pushed_at: "2026-10-27T02:41:16Z"
 ---
 ## What it is
 Enables AI agents to access and query SellerSprite's Amazon seller analytics data through structured MCP tools, handling authentication and API complexity.

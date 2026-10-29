@@ -8,13 +8,13 @@ source_url: https://github.com/QwenLM/Qwen-Agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 17205
+stars: 17229
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, mcps]
-forks: 1749
+forks: 1754
 pushed_at: "2026-03-04T08:15:07Z"
 ---
 ## What it is

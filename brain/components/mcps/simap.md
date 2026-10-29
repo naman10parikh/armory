@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T02:23:44Z"
+pushed_at: "2026-10-29T06:22:03Z"
 ---
 ## What it is
 Provides access to Swiss public procurement tenders and awards data, queryable via natural language through the Pipeworx gateway.

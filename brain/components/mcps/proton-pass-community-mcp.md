@@ -8,13 +8,13 @@ source_url: https://github.com/hesreallyhim/proton-pass-community-mcp
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-21T13:09:31Z"
+pushed_at: "2026-10-28T13:05:35Z"
 ---
 ## What it is
 Enables interaction with Proton Pass via CLI operations, including vault and item management, secret injection, and password generation.

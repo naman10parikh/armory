@@ -8,14 +8,14 @@ source_url: https://github.com/microsoft/semantic-kernel
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 28688
+stars: 28715
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 4833
-pushed_at: "2026-10-22T09:44:00Z"
+forks: 4841
+pushed_at: "2026-10-28T14:09:19Z"
 ---
 ## What it is
 Integrate cutting-edge LLM technology quickly and easily into your apps

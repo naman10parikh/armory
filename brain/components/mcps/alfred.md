@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 mentions: null
-forks: 0
+forks: 1
 pushed_at: "2026-08-20T04:51:08Z"
 ---
 ## What it is

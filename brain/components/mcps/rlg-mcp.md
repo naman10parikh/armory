@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T09:33:22Z"
+pushed_at: "2026-10-27T13:37:37Z"
 ---
 ## What it is
 MCP server exposing rlg (RustLogs) log files as tools for on-call / SRE agent workflows. Three tools over JSON-RPC stdio — tail_log (last N events, filtered by level/target), filter_log (predicate filtering), summarize_errors (grouped error taxonomy). Pure Rust. MIT OR Apache-2.0.

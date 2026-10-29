@@ -8,12 +8,12 @@ source_url: https://github.com/healkeiser/fxhoudinimcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 359
+stars: 382
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 45
+forks: 47
 pushed_at: "2026-10-20T12:07:03Z"
 ---
 ## What it is

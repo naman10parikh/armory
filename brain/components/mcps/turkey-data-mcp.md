@@ -8,13 +8,13 @@ source_url: https://github.com/bodyegypt/turkey-data-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-09T22:36:00Z"
+pushed_at: "2026-10-26T15:57:33Z"
 ---
 ## What it is
 MCP server for live Turkey data — gold & silver prices, official TCMB exchange rates, fuel pump prices, prayer times and the Kandilli earthquake feed.

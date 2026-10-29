@@ -8,11 +8,11 @@ source_url: https://github.com/mhyrr/sketchup-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 504
+stars: 518
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 90
+forks: 94
 pushed_at: "2026-04-25T13:23:11Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T19:03:45Z"
+pushed_at: "2026-10-29T04:00:05Z"
 ---
 ## What it is
 Enables querying Harry Potter data including students, staff, and spells from the Harry Potter API via direct tools or natural language through Pipeworx.

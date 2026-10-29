@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-09T22:09:50Z"
+pushed_at: "2026-10-22T15:04:46Z"
 ---
 ## What it is
 MCP server `Gmem`, catalogued on PulseMCP. Persistent Solana-aware project memory for AI coding agents with typed entities and git-aware diffs.

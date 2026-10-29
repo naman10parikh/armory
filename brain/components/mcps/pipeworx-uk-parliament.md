@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-26T22:05:31Z"
+pushed_at: "2026-10-29T06:49:36Z"
 ---
 ## What it is
 MCP server `UK Parliament`, catalogued on PulseMCP. UK Parliament data — Members, Bills, and Hansard debates via official APIs through Pipeworx's managed gateway.

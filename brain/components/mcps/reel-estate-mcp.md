@@ -8,13 +8,13 @@ source_url: https://github.com/TryReelEstate/reel-estate-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-06T17:05:59Z"
+pushed_at: "2026-10-26T00:08:20Z"
 ---
 ## What it is
 Turn real-estate listing photos into cinematic property videos from your AI assistant. reel-estate-mcp is a Model Context Protocol (MCP) server that connects Claude, Cursor, and other AI assistants to your Reel Estate account — so you can generate motion clips, AI-edit photos (virtual staging, twili

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
-pushed_at: "2026-10-17T00:16:11Z"
+forks: 9
+pushed_at: "2026-10-24T18:21:39Z"
 ---
 ## What it is
 A CLI and MCP server for Microsoft Outlook and OneDrive via the Microsoft Graph API, enabling AI agents to manage email, calendar, contacts, tasks, and files through the Model Context Protocol.

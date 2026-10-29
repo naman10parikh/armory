@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-14T04:02:20Z"
+pushed_at: "2026-10-26T12:43:37Z"
 ---
 ## What it is
 MCP server `AGENTS.md Generator`, catalogued on PulseMCP. Analyzes codebases with tree-sitter and generates AGENTS.md files for AI coding agents.

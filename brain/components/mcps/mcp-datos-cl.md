@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T22:15:39Z"
+pushed_at: "2026-10-29T02:47:59Z"
 ---
 ## What it is
 Enables querying and exploring public data from Chile's datos.gob.cl CKAN portal, including full-text search, faceted search, and listing organizations and tags.

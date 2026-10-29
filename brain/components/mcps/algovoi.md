@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-20T21:18:20Z"
+pushed_at: "2026-10-27T09:08:21Z"
 ---
 ## What it is
 MCP server `AlgoVoi`, catalogued on PulseMCP. MCP server for AlgoVoi stablecoin payment infrastructure, enabling crypto payment links, on-chain verification, and MPP/x402 protocol support.

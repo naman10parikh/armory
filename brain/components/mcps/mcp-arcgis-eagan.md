@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T04:01:48Z"
+pushed_at: "2026-10-29T01:10:39Z"
 ---
 ## What it is
 Enables querying and exploring City of Eagan open geospatial data (parcels, zoning, public works) via ArcGIS Feature Services, supporting dataset search, layer query, and schema inspection through natural language.

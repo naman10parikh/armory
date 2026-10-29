@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-21T23:21:54Z"
+pushed_at: "2026-10-28T20:39:53Z"
 ---
 ## What it is
 MCP server `Cortex Cloud Docs`, catalogued on PulseMCP. Provides conversational access to Palo Alto Networks Cortex Cloud platform documentation through web scraping and intelligent indexing with automatic caching, relevance scoring, and separate tools for general documentation versus API-specific content.

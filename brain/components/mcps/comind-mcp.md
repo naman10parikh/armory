@@ -8,13 +8,13 @@ source_url: https://github.com/comind-pro/comind-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T16:47:58Z"
+pushed_at: "2026-10-27T12:52:45Z"
 ---
 ## What it is
 A gateway that connects MCP servers and REST APIs, allowing you to curate tools into groups and expose them as virtual MCP servers for agents.

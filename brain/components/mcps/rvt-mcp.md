@@ -8,13 +8,13 @@ source_url: https://github.com/bimwright/rvt-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 96
+stars: 106
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 23
-pushed_at: "2026-10-22T12:11:41Z"
+forks: 27
+pushed_at: "2026-10-23T09:05:22Z"
 ---
 ## What it is
 An MCP server that bridges AI agents to Autodesk Revit, enabling local tool-based interaction with Revit models, including query, create, and modify operations, with an optional personal tool baking system.

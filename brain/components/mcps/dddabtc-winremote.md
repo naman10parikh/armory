@@ -8,11 +8,11 @@ source_url: https://github.com/dddabtc/winremote-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 212
+stars: 216
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 42
+forks: 43
 pushed_at: "2026-09-30T03:16:59Z"
 ---
 ## What it is

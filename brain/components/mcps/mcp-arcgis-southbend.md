@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T23:04:15Z"
+pushed_at: "2026-10-29T01:23:15Z"
 ---
 ## What it is
 Enables querying City of South Bend open geospatial data (parcels, zoning, public works) via ArcGIS, with search, layer query, and schema inspection tools.

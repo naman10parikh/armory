@@ -8,11 +8,11 @@ source_url: https://github.com/negai-ai/agentclaw
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 329
+stars: 323
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 35
+forks: 34
 pushed_at: "2026-06-08T09:10:25Z"
 ---
 ## What it is

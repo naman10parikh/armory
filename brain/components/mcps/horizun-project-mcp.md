@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-20T16:38:31Z"
+pushed_at: "2026-10-27T13:09:31Z"
 ---
 ## What it is
 An MCP server for Microsoft Project that reads, analyzes, and writes .mpp, .xer, and .xml schedule files, offering critical path analysis, DCMA 14-point assessment, and verified writes without requiring Java or Microsoft Project.

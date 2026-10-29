@@ -8,11 +8,11 @@ source_url: https://github.com/bcefghj/smart-cs-multi-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 494
+stars: 511
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 56
+forks: 57
 pushed_at: "2026-04-05T20:16:55Z"
 ---
 ## What it is

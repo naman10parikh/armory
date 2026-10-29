@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T16:26:15Z"
+pushed_at: "2026-10-28T14:44:58Z"
 ---
 ## What it is
 Local-first, source-grounded memory for AI agents, with citations, bitemporal history, review-gated corrections, and MCP tools for search and recall.

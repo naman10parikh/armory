@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T01:14:17Z"
+pushed_at: "2026-10-29T01:14:16Z"
 ---
 ## What it is
 Reliable AI access to public health, government, and research data with explicit statistical definitions, currently covering the Finnish Cancer Registry and NORDCAN.

@@ -8,13 +8,13 @@ source_url: https://github.com/Sugra-Systems/prod-sugra-ai-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-10-20T20:36:03Z"
+forks: 4
+pushed_at: "2026-10-29T06:18:14Z"
 ---
 ## What it is
 Gateway connector between LLM agents and world data, providing access to financial market prices, macroeconomic indicators, and news through a bundled endpoint catalog.

@@ -8,13 +8,13 @@ source_url: https://github.com/kumoproductions/mcp-cinema4d
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 27
+stars: 28
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-30T17:43:31Z"
+pushed_at: "2026-10-23T01:50:30Z"
 ---
 ## What it is
 Bridges MCP-compatible clients to Cinema 4D, enabling LLMs to inspect scene hierarchy, author shots, build node materials, and rig animation through a typed, undo-safe tool layer.

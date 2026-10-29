@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-18T21:47:43Z"
+pushed_at: "2026-10-25T21:23:45Z"
 ---
 ## What it is
 Enables AI assistants to search, analyze, and understand multi-language codebases by providing indexed code intelligence via MCP.

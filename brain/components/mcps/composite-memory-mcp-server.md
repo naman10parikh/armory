@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T12:14:41Z"
+pushed_at: "2026-10-28T05:49:18Z"
 ---
 ## What it is
 An independent memory service for AI agents that stores and retrieves facts with keyword and semantic search, context management, and a plugin-based architecture.

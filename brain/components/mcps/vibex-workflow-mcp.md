@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T10:25:39Z"
+pushed_at: "2026-10-23T09:23:10Z"
 ---
 ## What it is
 Enables creating, inspecting, validating, publishing, and debugging VibeX DAG Workflows as source files, with run control and safe revision management.

@@ -8,12 +8,12 @@ source_url: https://github.com/avansaber/seo-monster
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 551
+stars: 558
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 82
+forks: 83
 pushed_at: "2026-10-18T07:03:22Z"
 ---
 ## What it is

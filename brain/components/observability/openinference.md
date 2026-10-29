@@ -15,6 +15,7 @@ related: []
 tags: [observability, opentelemetry, tracing]
 forks: 348
 pushed_at: "2026-10-09T05:12:42Z"
+mentions: 1
 ---
 ## What it is
 OpenInference is an open standard and Python/JS instrumentation library for capturing LLM and agent traces in OpenTelemetry format, built by Arize AI.

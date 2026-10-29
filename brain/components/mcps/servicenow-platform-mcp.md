@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T11:07:12Z"
+pushed_at: "2026-10-26T23:08:17Z"
 ---
 ## What it is
 Enables AI agents to interact with ServiceNow through MCP, providing schema inspection, record CRUD, attachments, audit, Flow Designer, and platform investigations with policy-guarded access.
