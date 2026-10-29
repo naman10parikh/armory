@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/eur-lex-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-17T23:13:08Z"
+pushed_at: "2026-10-26T07:19:15Z"
 ---
 ## What it is
 Search EU legislation, CJEU case law, and treaties; traverse the CELLAR relationship graph; resolve EuroVoc concepts via MCP.

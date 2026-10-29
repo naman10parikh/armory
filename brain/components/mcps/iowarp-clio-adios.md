@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 25
-pushed_at: "2026-10-08T19:23:40Z"
+pushed_at: "2026-10-28T20:59:22Z"
 ---
 ## What it is
 MCP server `CLIO ADIOS`, catalogued on PulseMCP. Scientific data analysis for ADIOS2 BP5 files with metadata extraction and variable inspection.

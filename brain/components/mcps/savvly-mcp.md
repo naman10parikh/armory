@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T19:12:30Z"
+pushed_at: "2026-10-24T13:07:27Z"
 ---
 ## What it is
 MCP server for the SEC-registered Savvly Longevity Benefit Fund: product info, Savvly-vs-alternative comparisons, eligibility checks, an audience-tagged Q\&A library, and retirement / lump-sum / monthly projections that render inline MCP Apps chart widgets. Hosted remote plus npm/PyPI/NuGet/OCI/MCPB

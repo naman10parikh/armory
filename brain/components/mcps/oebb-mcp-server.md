@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T15:09:05Z"
+pushed_at: "2026-10-27T09:43:17Z"
 ---
 ## What it is
 MCP server for querying Austrian train data including stations, departures, connections, and service alerts via the OEBB API.

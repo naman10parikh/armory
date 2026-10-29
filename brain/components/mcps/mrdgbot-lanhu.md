@@ -8,11 +8,11 @@ source_url: https://github.com/mrdgbot/lanhu-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 140
+stars: 146
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
+forks: 14
 pushed_at: "2026-08-07T09:10:53Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/mihender50/nexthink-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T09:43:14Z"
+pushed_at: "2026-10-24T15:08:41Z"
 ---
 ## What it is
 An MCP server that exposes Nexthink Digital Employee Experience (DEX) telemetry and automation to LLM agents, enabling execution of saved NQL queries, bulk async data exports, remote actions, and workflow triggers against Nexthink Infinity via secure OAuth2/bearer/basic authentication.

@@ -8,12 +8,12 @@ source_url: https://github.com/haroldleo/google-flights-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-20T11:03:52Z"
+pushed_at: "2026-10-27T04:33:29Z"
 ---
 ## What it is
 MCP server `Google Flights`, catalogued on PulseMCP. Integrates with Google Flights through SerpAPI and fast-flights Python library to provide flight search capabilities for one-way, round-trip, multi-city, and date-range queries with filtering options.

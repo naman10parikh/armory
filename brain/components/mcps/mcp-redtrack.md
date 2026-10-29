@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-17T07:05:12Z"
+pushed_at: "2026-10-22T17:42:09Z"
 ---
 ## What it is
 MCP server for RedTrack affiliate tracking API, enabling querying campaigns, clicks, conversions, and reports from any MCP-compatible client.

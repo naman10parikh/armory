@@ -8,12 +8,12 @@ source_url: https://github.com/cloud-ru-tech/mcp-server-mattermost
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 48
+stars: 49
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
+forks: 12
 pushed_at: "2026-10-22T09:13:16Z"
 ---
 ## What it is

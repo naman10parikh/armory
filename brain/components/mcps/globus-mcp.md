@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2025-10-23T19:09:39Z"
+pushed_at: "2026-10-29T00:31:35Z"
 ---
 ## What it is
 MCP server enabling LLMs to manage Globus data transfers and compute tasks.

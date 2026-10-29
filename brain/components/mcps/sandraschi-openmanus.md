@@ -8,12 +8,12 @@ source_url: https://github.com/sandraschi/openmanus-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-13T09:47:47Z"
+pushed_at: "2026-10-24T02:42:51Z"
 ---
 ## What it is
 MCP server `OpenManus`, catalogued on PulseMCP. Bridges OpenManus AI agent framework with editor workflows, providing prompt execution, job polling, a web dashboard, and local LLM chat integration.

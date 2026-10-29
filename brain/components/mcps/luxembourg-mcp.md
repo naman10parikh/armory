@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-20T18:34:34Z"
+pushed_at: "2026-10-27T18:35:42Z"
 ---
 ## What it is
 Keyless MCP server providing 21 tools to access Luxembourg public data including laws, statistics, mobility, environment, and more, with no API keys or accounts required.

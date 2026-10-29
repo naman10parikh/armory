@@ -8,7 +8,7 @@ source_url: https://github.com/ergut/mcp-logseq
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 343
+stars: 347
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

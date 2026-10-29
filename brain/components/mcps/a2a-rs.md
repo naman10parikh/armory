@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, libraries]
-forks: 18
+forks: 17
 pushed_at: "2026-10-20T08:48:38Z"
 ---
 ## What it is

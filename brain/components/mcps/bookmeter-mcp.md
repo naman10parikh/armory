@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T00:53:49Z"
+pushed_at: "2026-10-23T04:55:14Z"
 ---
 ## What it is
 Provides tools to search books by keyword, retrieve books by author, and compute reading statistics from a local Bookmeter reading log.

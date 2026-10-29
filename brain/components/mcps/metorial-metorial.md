@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, other-tools-and-integrations]
-stars: 3367
+stars: 3370
 forks: 371
-pushed_at: "2026-10-22T11:30:16Z"
+pushed_at: "2026-10-29T06:36:49Z"
 mentions: 1
 ---
 ## What it is

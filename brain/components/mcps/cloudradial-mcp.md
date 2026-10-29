@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T02:54:05Z"
+pushed_at: "2026-10-23T10:31:28Z"
 ---
 ## What it is
 Exposes the CloudRadial REST API (client portal / PSA-adjacent MSP platform) as MCP tools, enabling operations on companies, articles, feedback, archives, flexible assets, and more via 34 tools with HTTP Basic Auth.

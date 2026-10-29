@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 18
-pushed_at: "2026-10-20T19:39:01Z"
+pushed_at: "2026-10-25T15:11:27Z"
 ---
 ## What it is
 MCP server `Siri Shortcuts`, catalogued on PulseMCP. Integrates with macOS Shortcuts to dynamically expose and execute user-defined automation workflows through generated tools.

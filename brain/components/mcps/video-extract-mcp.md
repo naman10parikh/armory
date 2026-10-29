@@ -8,13 +8,13 @@ source_url: https://github.com/yanlingLabs/video-extract-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-21T19:14:09Z"
+pushed_at: "2026-10-25T01:00:52Z"
 ---
 ## What it is
 MCP server that turns video URLs into transcripts and important keyframes locally, with no cloud or API keys.

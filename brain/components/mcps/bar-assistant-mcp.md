@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-13T02:08:45Z"
+pushed_at: "2026-10-22T21:29:15Z"
 ---
 ## What it is
 MCP server for Bar Assistant that enables searching cocktails, managing ingredients, shelves, shopping lists, and collections via natural language.

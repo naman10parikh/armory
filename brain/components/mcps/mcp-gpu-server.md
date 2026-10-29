@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-22T04:51:11Z"
+pushed_at: "2026-10-22T15:42:57Z"
 ---
 ## What it is
 Exposes NVIDIA GPU metrics (info, utilization, VRAM, temperature) via MCP tools for real-time querying from AI assistants.

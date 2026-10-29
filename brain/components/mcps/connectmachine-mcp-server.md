@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-17T13:43:40Z"
+forks: 1
+pushed_at: "2026-10-23T10:00:12Z"
 ---
 ## What it is
 Connect your AI assistant to ConnectMachine, the digital business-card and contact platform. Manage contacts, events, networks, and your digital cards in natural language.

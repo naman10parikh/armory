@@ -8,12 +8,12 @@ source_url: https://github.com/janghyuckyun/mcp-youtube-intelligence
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-09T22:50:05Z"
+pushed_at: "2026-10-29T05:25:51Z"
 ---
 ## What it is
 MCP server `YouTube Intelligence`, catalogued on PulseMCP. Extracts YouTube video metadata, transcripts, and comments via yt-dlp with server-side LLM summarization, entity extraction, topic segmentation, and channel monitoring for content research workflows.

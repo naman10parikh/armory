@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-21T17:39:59Z"
+pushed_at: "2026-10-23T14:09:57Z"
 ---
 ## What it is
 An MCP server for Overleaf that allows Claude or other agents to navigate projects, read and edit .tex files, compile, and interact with review-panel comments via Overleaf's real-time Socket.IO API, with seamless support for tracked changes as pending suggestions.

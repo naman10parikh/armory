@@ -8,11 +8,11 @@ source_url: https://github.com/kukapay/crypto-indicators-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 130
+stars: 131
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 44
+forks: 45
 pushed_at: "2025-12-06T01:07:31Z"
 ---
 ## What it is

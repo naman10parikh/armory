@@ -8,12 +8,12 @@ source_url: https://github.com/VictoriaMetrics/mcp-victoriatraces
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 7
 pushed_at: "2026-10-16T09:22:31Z"
 ---
 ## What it is

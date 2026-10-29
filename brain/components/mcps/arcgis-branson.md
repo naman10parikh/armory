@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T03:57:33Z"
+pushed_at: "2026-10-29T01:06:29Z"
 ---
 ## What it is
 Provides access to City of Branson GIS open geospatial data including parcels, zoning, and public works via ArcGIS service tools for searching datasets, querying layers, and retrieving layer info.

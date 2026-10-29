@@ -8,12 +8,12 @@ source_url: https://github.com/cyanheads/who-gho-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-09T07:43:52Z"
+pushed_at: "2026-10-26T07:33:14Z"
 ---
 ## What it is
 MCP server `WHO Global Health Observatory`, catalogued on PulseMCP. WHO Global Health Observatory — 3,059 indicators across 194 member states.

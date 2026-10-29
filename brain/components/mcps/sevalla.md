@@ -8,12 +8,12 @@ source_url: https://github.com/sevalla-hosting/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-21T12:34:04Z"
+pushed_at: "2026-10-28T10:44:44Z"
 ---
 ## What it is
 MCP server `Sevalla`, catalogued on PulseMCP. Full PaaS hosting API access for managing applications, databases, and deployments.

@@ -8,7 +8,7 @@ source_url: https://github.com/ryaker/appstore-connect-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

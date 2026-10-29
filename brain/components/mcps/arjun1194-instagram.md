@@ -8,11 +8,11 @@ source_url: https://github.com/arjun1194/insta-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
+forks: 9
 pushed_at: "2025-12-28T13:48:31Z"
 ---
 ## What it is

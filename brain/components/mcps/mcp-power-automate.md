@@ -8,7 +8,7 @@ source_url: https://github.com/kaael1/mcp-power-automate
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 27
+stars: 28
 eval_score: null
 verified_at: 2026-05-27
 related: []

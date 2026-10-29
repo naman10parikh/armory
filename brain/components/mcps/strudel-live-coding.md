@@ -8,11 +8,11 @@ source_url: https://github.com/williamzujkowski/live-coding-music-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 246
+stars: 248
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 34
+forks: 35
 pushed_at: "2026-10-19T05:13:31Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/x42en/sysplant
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 135
+stars: 136
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 15
-pushed_at: "2026-10-19T15:44:24Z"
+pushed_at: "2026-10-25T14:21:36Z"
 ---
 ## What it is
 Generates syscall code (C, C++, Rust, NIM) using various hooking methods, and includes an MCP server for AI assistants to produce syscall stubs.

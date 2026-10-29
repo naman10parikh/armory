@@ -8,11 +8,11 @@ source_url: https://github.com/codespar/mcp-dev-latam
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 274
+stars: 275
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 51
+forks: 52
 pushed_at: "2026-09-27T07:38:07Z"
 ---
 ## What it is

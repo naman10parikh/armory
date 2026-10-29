@@ -8,12 +8,12 @@ source_url: https://github.com/pinkpixel-dev/web-scout-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 138
+stars: 143
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
-forks: 17
+forks: 18
 pushed_at: "2026-10-22T07:18:51Z"
 ---
 ## What it is

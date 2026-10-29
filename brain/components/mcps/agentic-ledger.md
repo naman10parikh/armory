@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-16T14:09:08Z"
+pushed_at: "2026-10-28T16:02:43Z"
 ---
 ## What it is
 Lets agents query their own usage ledger captured by the Agentic Ledger proxy: sessions with full call traces, costs, loop runs, and stuck-loop flags. Tools include list_sessions, get_session, search, list_runs, get_run_status, and explain.

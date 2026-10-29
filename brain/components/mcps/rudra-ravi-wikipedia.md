@@ -8,7 +8,7 @@ source_url: https://github.com/rudra-ravi/wikipedia-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 301
+stars: 303
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

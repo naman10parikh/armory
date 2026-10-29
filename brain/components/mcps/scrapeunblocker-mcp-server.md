@@ -8,13 +8,13 @@ source_url: https://github.com/ScrapeUnblocker/scrapeunblocker-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-20T13:48:11Z"
+pushed_at: "2026-10-25T15:50:16Z"
 ---
 ## What it is
 Enables fetching any web page's HTML by bypassing anti-bot protection, and also provides AI-parsed structured data and Google search results.

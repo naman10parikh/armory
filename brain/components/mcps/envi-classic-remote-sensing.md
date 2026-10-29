@@ -8,13 +8,13 @@ source_url: https://github.com/xuedai-mayi/envi-classic-remote-sensing
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T06:52:55Z"
+pushed_at: "2026-10-26T08:57:13Z"
 ---
 ## What it is
 Automates ENVI Classic remote sensing experiments on Windows by executing steps, capturing authentic screenshots, and generating formatted Word/PDF lab reports.

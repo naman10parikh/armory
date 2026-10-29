@@ -8,7 +8,7 @@ source_url: https://github.com/ankimcp/anki-mcp-server-addon
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 93
+stars: 96
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

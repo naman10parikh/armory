@@ -8,13 +8,13 @@ source_url: https://github.com/SEKeener/airtreks-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-13T07:05:24Z"
+pushed_at: "2026-10-26T13:19:35Z"
 ---
 ## What it is
 Around the World and Complex Must-Stop Airfare and routing MCP

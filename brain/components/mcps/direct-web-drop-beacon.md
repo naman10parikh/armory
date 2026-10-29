@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-16T18:39:39Z"
+pushed_at: "2026-10-26T00:52:54Z"
 ---
 ## What it is
 MCP server `Drop Beacon`, catalogued on PulseMCP. Provides access to 100,000+ EDC products and 1,000+ brands from the Drop Beacon database.

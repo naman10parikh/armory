@@ -15,6 +15,7 @@ related: []
 tags: [observability, opentelemetry, tracing]
 forks: 1167
 pushed_at: "2026-10-19T10:49:59Z"
+mentions: 1
 ---
 ## What it is
 OpenTelemetry-based observability for LLM applications. It auto-instruments OpenAI, Anthropic, LangChain, and 20+ providers with zero code changes.

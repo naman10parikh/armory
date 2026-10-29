@@ -8,13 +8,13 @@ source_url: https://github.com/xlang-ai/Qwen-CUA
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 226
+stars: 237
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 13
+forks: 16
 pushed_at: "2026-08-26T02:20:30Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-19T13:36:37Z"
+pushed_at: "2026-10-28T11:13:30Z"
 ---
 ## What it is
 Enables structured multi-LLM critique of concepts using three specialized agents (Innovation, Ethics, Security) with multi-vendor LLM support. Provides 13 free tools for validation, template management, and coordination.

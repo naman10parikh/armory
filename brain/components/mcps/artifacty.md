@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-20T05:16:57Z"
+pushed_at: "2026-10-25T19:03:57Z"
 ---
 ## What it is
 A local, agent-to-agent artifact exchange for LLM workflows. Enables MCP-capable tools like Claude, Codex, and Gemini to publish, list, read, update, and continue from artifacts without copying content through chat.

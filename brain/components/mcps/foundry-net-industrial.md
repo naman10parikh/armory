@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T01:16:43Z"
+pushed_at: "2026-10-28T16:18:43Z"
 ---
 ## What it is
 Cross-OEM industrial machine intelligence. Normalizes telemetry across 16 manufacturer families (Fanuc, Siemens, Haas, DMG Mori, Mazak), enables plain-English operational automation, and produces tamper-evident work records. 14 MCP tools.

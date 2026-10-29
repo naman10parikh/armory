@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-17T23:28:00Z"
+pushed_at: "2026-10-24T01:11:12Z"
 ---
 ## What it is
 A local-first MCP memory server providing persistent, searchable memory for AI agents, powered by SQLite.

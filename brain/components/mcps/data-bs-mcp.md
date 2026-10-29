@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-10-21T17:10:08Z"
+forks: 3
+pushed_at: "2026-10-25T11:17:21Z"
 ---
 ## What it is
 MCP server for querying Huwise/Opendatasoft data portals. Enables dataset search, metadata retrieval, record filtering with ODSQL, and data export.

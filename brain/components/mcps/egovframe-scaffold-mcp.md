@@ -8,13 +8,13 @@ source_url: https://github.com/EricSeokgon/egovframe-scaffold-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-22T03:37:42Z"
+forks: 1
+pushed_at: "2026-10-29T08:02:40Z"
 ---
 ## What it is
 Enables AI tools to instantly scaffold eGovFrame projects using official templates, with configurable project name, groupId, database type, and template selection.

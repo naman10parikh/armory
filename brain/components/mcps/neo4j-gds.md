@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 23
-pushed_at: "2026-10-12T09:56:24Z"
+forks: 22
+pushed_at: "2026-10-26T09:59:48Z"
 ---
 ## What it is
 Enables LLMs to run complex graph algorithms on Neo4j databases, answering graph-related questions by selecting and executing appropriate parameterised graph algorithms.

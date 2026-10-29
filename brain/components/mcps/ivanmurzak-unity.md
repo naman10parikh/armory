@@ -8,12 +8,12 @@ source_url: https://github.com/ivanmurzak/unity-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4514
+stars: 4546
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 401
-pushed_at: "2026-10-22T10:32:23Z"
+forks: 406
+pushed_at: "2026-10-29T08:13:49Z"
 ---
 ## What it is
 MCP server `Unity`, catalogued on PulseMCP. Server + Plugin for Unity Editor and Unity game. The Plugin allows to connect to MCP clients like Claude Desktop or others.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T14:03:29Z"
+pushed_at: "2026-10-22T21:15:55Z"
 ---
 ## What it is
 MCP server for Kenya health system — NHIF/SHA coverage, facility finder, community health workers, maternal health guidance, essential medicines.

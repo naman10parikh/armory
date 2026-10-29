@@ -8,13 +8,13 @@ source_url: https://github.com/zhensherlock/sp500-mcp-server
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 108
+stars: 109
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-15T16:09:07Z"
+pushed_at: "2026-10-29T06:12:00Z"
 ---
 ## What it is
 MCP server for querying S\&P 500 company data from Supabase, providing tools for company info, financials, price data, news, officers, and SEC filings.

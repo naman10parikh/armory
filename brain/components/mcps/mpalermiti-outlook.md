@@ -12,8 +12,8 @@ stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
-pushed_at: "2026-10-22T07:03:52Z"
+forks: 14
+pushed_at: "2026-10-29T03:35:33Z"
 ---
 ## What it is
 MCP server `Outlook`, catalogued on PulseMCP. Microsoft Outlook personal account access — 51 tools for mail, calendar, contacts, tasks, and drafts via Microsoft Graph.

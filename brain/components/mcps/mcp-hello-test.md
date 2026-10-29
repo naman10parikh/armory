@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-10T16:33:09Z"
+pushed_at: "2026-10-27T09:54:05Z"
 ---
 ## What it is
 A minimal MCP server with greet, add, and whoami tools, designed to validate deployment pipelines and environment variable injection.

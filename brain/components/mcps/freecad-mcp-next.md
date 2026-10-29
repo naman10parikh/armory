@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T03:24:47Z"
+pushed_at: "2026-10-29T03:25:19Z"
 ---
 ## What it is
 MCP server that connects FreeCAD to AI assistants via a local workbench and XML-RPC bridge, enabling natural language control of FreeCAD.

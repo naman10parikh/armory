@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-20T22:20:56Z"
+pushed_at: "2026-10-29T02:11:16Z"
 ---
 ## What it is
 Provides access to Czech National Bank public data via MCP, allowing users to query CNB data without an API key.

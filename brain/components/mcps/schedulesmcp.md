@@ -8,13 +8,13 @@ source_url: https://github.com/lxxmng/schedulesmcp-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T22:15:39Z"
+pushed_at: "2026-10-24T00:21:48Z"
 ---
 ## What it is
 Enables comparing ocean carrier sailing schedules, transit times, and on-time reliability via AI clients like Claude, Cursor, and Windsurf.

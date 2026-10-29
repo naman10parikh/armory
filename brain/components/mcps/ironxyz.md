@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T18:50:10Z"
+pushed_at: "2026-10-26T13:25:03Z"
 ---
 ## What it is
 Official MCP (Model Context Protocol) server for Iron.xyz API, designed to work with Claude Desktop, Cursor IDE and other MCP compatible clients.

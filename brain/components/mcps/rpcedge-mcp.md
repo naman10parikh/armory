@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T13:02:42Z"
+pushed_at: "2026-10-27T14:13:06Z"
 ---
 ## What it is
 Provides Solana RPC tools for agents to check health, estimate priority fees, sample Yellowstone gRPC, and submit signed transactions via the rpc edge relay.

@@ -8,12 +8,12 @@ source_url: https://github.com/fan1959/qt-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-09-08T09:42:29Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-10-20T14:47:12Z"
+pushed_at: "2026-10-27T14:17:15Z"
 ---
 ## What it is
 Extends Veeam Intelligence to MCP-compatible clients, enabling secure, real-time operational insight across Veeam Backup & Replication, Veeam ONE, and VSPC via natural language or AI workflows.

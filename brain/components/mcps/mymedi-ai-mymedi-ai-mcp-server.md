@@ -13,7 +13,7 @@ related: []
 tags: [mcp, biology-medicine-and-bioinformatics]
 stars: 3
 forks: 0
-pushed_at: "2026-10-21T02:46:40Z"
+pushed_at: "2026-10-28T02:08:34Z"
 ---
 ## What it is
 Healthcare billing AI for agents: ICD-10/CPT/HCPCS code lookup (81,769 codes with RVU + OPPS pricing), prior auth prediction, medical NER, claims validation, denial-risk scoring, HIPAA compliance auditing, and NPI/drug enrichment. 20 tools, 10 free credits then pay-per-call via credits or anonymous USDC (x402). `npx @mymedi-ai/mcp-server`

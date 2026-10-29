@@ -8,13 +8,13 @@ source_url: https://github.com/artidoro/qlora
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 11051
+stars: 11060
 eval_score: 0
 mentions: 4
 verified_at: 2026-09-26
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 876
+forks: 875
 pushed_at: "2024-06-10T19:20:16Z"
 ---
 ## What it is

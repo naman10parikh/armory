@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-20T22:28:42Z"
+pushed_at: "2026-10-29T02:19:13Z"
 ---
 ## What it is
 Enables querying country, state, and city data through the CountryStateCity API, accessible via natural language.

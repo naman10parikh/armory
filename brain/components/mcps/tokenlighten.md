@@ -8,13 +8,13 @@ source_url: https://github.com/Takayuki-Ishimaru/tokenlighten
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T20:25:54Z"
+pushed_at: "2026-10-29T02:50:26Z"
 ---
 ## What it is
 Local-first MCP toolkit that provides coding agents focused repository context via read_file, search_files, and edit_file tools, reducing token usage and task cost.

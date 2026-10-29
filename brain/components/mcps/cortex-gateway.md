@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T17:49:07Z"
+pushed_at: "2026-10-26T14:44:39Z"
 ---
 ## What it is
 A federated MCP gateway that consolidates multiple plain-HTTP backends into a single, OAuth-protected MCP server, enabling agents to access diverse tools through one endpoint with centralized authentication and audit.

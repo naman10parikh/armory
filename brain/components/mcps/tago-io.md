@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-12T13:47:21Z"
+pushed_at: "2026-10-26T20:19:12Z"
 ---
 ## What it is
 MCP server `TagoIO`, catalogued on PulseMCP. IoT platform integration for device operations and data analysis

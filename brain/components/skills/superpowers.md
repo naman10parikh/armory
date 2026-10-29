@@ -11,10 +11,10 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, agent-skills]
-stars: 303443
+stars: 307741
 mentions: 4
-forks: 27039
-pushed_at: "2026-10-21T21:34:31Z"
+forks: 27371
+pushed_at: "2026-10-23T03:48:57Z"
 ---
 ## What it is
 A bundle of skills for software engineering that covers much of the development life cycle: planning, reviewing, testing and debugging. Many consolidate standard engineering practice.

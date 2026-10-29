@@ -8,13 +8,13 @@ source_url: https://github.com/orifisher2/sqlike
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T21:23:17Z"
+pushed_at: "2026-10-27T19:03:02Z"
 ---
 ## What it is
 Deterministic SQL static analysis and query-equivalence checking for Postgres, MySQL, SQLite, and SQL Server. Tokenizes locally before forwarding to the API.

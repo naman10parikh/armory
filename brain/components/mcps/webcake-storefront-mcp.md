@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T10:54:47Z"
+pushed_at: "2026-10-29T05:00:52Z"
 ---
 ## What it is
 Enables AI assistants to build, validate, and publish storefront pages to WebCake/StoreCake sites based on natural language descriptions.

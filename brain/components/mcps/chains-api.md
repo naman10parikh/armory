@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-22T02:31:06Z"
+pushed_at: "2026-10-28T20:48:40Z"
 ---
 ## What it is
 Enables AI assistants to query blockchain chain data, including chain details, RPC endpoints, and chain relationships, through a Model Context Protocol server.

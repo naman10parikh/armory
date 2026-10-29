@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T07:43:51Z"
+pushed_at: "2026-10-29T05:31:35Z"
 ---
 ## What it is
 Provides safe, typed access to Amateur Radio logging data with ADIF validation, parsing, spec search, and geospatial utilities for Maidenhead locators.

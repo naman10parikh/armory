@@ -8,13 +8,13 @@ source_url: https://github.com/loncadev/baron
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T10:10:30Z"
+pushed_at: "2026-10-27T10:37:48Z"
 ---
 ## What it is
 Baron gives an AI coding agent one normalized contract for work orchestration: create and transition issues, cut branches, open and merge pull requests, and read CI and deployment status across Azure DevOps, GitHub and Slack.

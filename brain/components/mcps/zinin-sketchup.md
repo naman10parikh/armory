@@ -8,12 +8,12 @@ source_url: https://github.com/zinin/sketchup-mcp2
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 50
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-10-20T21:12:02Z"
+pushed_at: "2026-10-29T02:55:19Z"
 ---
 ## What it is
 MCP server `SketchUp`, catalogued on PulseMCP. MCP server bridging AI clients to SketchUp for natural language 3D modeling and design.

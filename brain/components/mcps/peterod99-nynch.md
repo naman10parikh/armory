@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-23T08:02:15Z"
+pushed_at: "2026-10-26T15:22:27Z"
 ---
 ## What it is
 MCP server `Nynch`, catalogued on PulseMCP. Access Nynch's relationship-led growth CRM with 42 tools for pipeline management, relationship intelligence, and multi-agent orchestration via API key authentication.

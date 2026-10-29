@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T04:02:02Z"
+pushed_at: "2026-10-29T02:41:08Z"
 ---
 ## What it is
 Enables searching and querying Pennsylvania Open Data datasets via the Socrata API, including dataset search, SoQL queries, and metadata retrieval.

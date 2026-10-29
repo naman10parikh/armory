@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-12T23:24:02Z"
+pushed_at: "2026-10-23T01:01:27Z"
 ---
 ## What it is
 Safety-focused MCP server for querying and managing Technitium DNS Server through its HTTP API, with strict input validation and audit logging.

@@ -8,12 +8,12 @@ source_url: https://github.com/realiti4/youtube-context-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 3
 pushed_at: "2026-06-11T19:59:02Z"
 ---
 ## What it is

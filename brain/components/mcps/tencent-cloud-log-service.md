@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-10-12T03:34:24Z"
+pushed_at: "2026-10-23T09:34:44Z"
 ---
 ## What it is
 MCP server `Tencent Cloud Log Service`, catalogued on PulseMCP. Search logs, query metrics with PromQL, and manage alarms in Tencent Cloud Log Service.

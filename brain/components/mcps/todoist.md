@@ -13,8 +13,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 56
-pushed_at: "2026-10-20T14:40:20Z"
+forks: 55
+pushed_at: "2026-10-28T21:55:16Z"
 ---
 ## What it is
 MCP server `Todoist`, catalogued on PulseMCP. Official task management integration for organizing work and life

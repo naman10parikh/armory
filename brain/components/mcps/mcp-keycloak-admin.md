@@ -8,13 +8,13 @@ source_url: https://github.com/mrz1880/mcp-keycloak-admin
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-21T11:17:46Z"
+pushed_at: "2026-10-27T07:16:01Z"
 ---
 ## What it is
 Enables administrators to manage Keycloak realms, users, roles, clients, groups, and more through its Admin REST API, with safe-by-default configuration and destructive operation confirmation.

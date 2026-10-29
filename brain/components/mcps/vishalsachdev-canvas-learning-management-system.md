@@ -8,12 +8,12 @@ source_url: https://github.com/vishalsachdev/canvas-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 304
+stars: 308
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 99
-pushed_at: "2026-10-22T12:50:39Z"
+forks: 100
+pushed_at: "2026-10-29T02:37:34Z"
 ---
 ## What it is
 MCP server `Canvas Learning Management System`, catalogued on PulseMCP. Integrates with the Canvas Learning Management System API to enable course management, assignment tracking, and student engagement analysis in educational settings.

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, monitoring]
 stars: 7
 forks: 3
-pushed_at: "2026-09-11T00:53:52Z"
+pushed_at: "2026-10-24T12:20:35Z"
 ---
 ## What it is
 An MCP server for querying Grafana Loki directly with a discovery-first workflow — labels, values, series, and LogQL queries without requiring Grafana.

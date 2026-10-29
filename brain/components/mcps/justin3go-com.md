@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, blogging-content]
-forks: 23
+forks: 22
 pushed_at: "2026-09-21T17:21:28Z"
 ---
 ## What it is

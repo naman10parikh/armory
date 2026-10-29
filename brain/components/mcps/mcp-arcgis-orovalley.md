@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T22:59:13Z"
+pushed_at: "2026-10-29T01:18:49Z"
 ---
 ## What it is
 Enables querying and exploring ArcGIS geospatial data from Town of Oro Valley, Arizona, including parcels, zoning, and city services.

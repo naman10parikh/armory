@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-21T15:14:23Z"
+pushed_at: "2026-10-28T20:53:15Z"
 ---
 ## What it is
 MCP server that lets AI agents interact with IP cameras via ONVIF/VAPIX, with fail-closed per-agent policy gates and hash-chained signed audit receipts.

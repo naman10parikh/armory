@@ -13,7 +13,7 @@ related: []
 tags: [mcp, developer-tools]
 stars: 16
 forks: 11
-pushed_at: "2026-10-13T08:43:58Z"
+pushed_at: "2026-10-26T13:42:27Z"
 ---
 ## What it is
 Integrates, discovers, manages, and codifies cloud resources with [Firefly](https://firefly.ai).

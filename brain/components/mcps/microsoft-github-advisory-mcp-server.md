@@ -8,13 +8,13 @@ source_url: https://github.com/microsoft/github-advisory-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-21T18:31:56Z"
+pushed_at: "2026-10-26T03:26:40Z"
 ---
 ## What it is
 Enables querying GitHub Security Advisories from a local cloned advisory database using tools like list_advisories and get_advisory.

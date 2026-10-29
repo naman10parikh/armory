@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T03:02:20Z"
+pushed_at: "2026-10-23T10:33:28Z"
 ---
 ## What it is
 MCP server for Bvoip / 1Stream that exposes call-reporting, phone-status, and CRM-extension-mapping endpoints as MCP tools.

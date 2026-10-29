@@ -8,13 +8,13 @@ source_url: https://github.com/collinear-ai/yc-bench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 136
+stars: 138
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, evals]
-forks: 17
+forks: 18
 pushed_at: "2026-10-22T10:21:19Z"
 ---
 ## What it is

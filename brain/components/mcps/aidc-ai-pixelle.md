@@ -8,7 +8,7 @@ source_url: https://github.com/aidc-ai/pixelle-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1130
+stars: 1131
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

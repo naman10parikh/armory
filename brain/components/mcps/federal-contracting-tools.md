@@ -8,12 +8,12 @@ source_url: https://github.com/1102tools/federal-contracting-mcps
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp]
 forks: 9
-pushed_at: "2026-10-22T07:44:38Z"
+pushed_at: "2026-10-29T03:13:49Z"
 ---
 
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-20T00:03:54Z"
+pushed_at: "2026-10-29T01:04:32Z"
 ---
 ## What it is
 MCP server `Scrapfly`, catalogued on PulseMCP. Enterprise web scraping with built-in anti-bot handling and proxy rotation

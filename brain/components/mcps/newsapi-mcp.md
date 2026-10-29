@@ -8,13 +8,13 @@ source_url: https://github.com/EventRegistry/newsapi-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-14T10:26:41Z"
+pushed_at: "2026-10-27T11:19:29Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that provides real-time news intelligence using NewsAPI.ai. This server enables LLMs to search articles, track events, and analyze news through natural conversation.

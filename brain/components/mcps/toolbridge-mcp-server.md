@@ -8,11 +8,13 @@ source_url: https://github.com/LeelaissakAttota/toolbridge-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-10-29T06:17:28Z"
 ---
 ## What it is
 MCP server that bridges AI agents with external tools, APIs, databases, and services, enabling standardized tool execution and resource access.

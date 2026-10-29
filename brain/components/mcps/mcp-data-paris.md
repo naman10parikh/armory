@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T04:02:13Z"
+pushed_at: "2026-10-29T02:41:19Z"
 ---
 ## What it is
 Access Paris Open Data (opendata.paris.fr) to search, explore, and query datasets about city services, mobility, trees, events, and urban planning using natural language or ODSQL.

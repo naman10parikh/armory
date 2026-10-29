@@ -8,13 +8,13 @@ source_url: https://github.com/unblockingapi/mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T20:46:47Z"
+pushed_at: "2026-10-22T20:17:44Z"
 ---
 ## What it is
 Enables AI agents to fetch bot-protected web pages, run structured Google searches, and check domain authority through UnblockingAPI's anti-detection engine and residential proxies.

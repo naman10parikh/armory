@@ -13,7 +13,7 @@ related: []
 tags: [mcp, knowledge-memory]
 stars: 85
 forks: 8
-pushed_at: "2026-10-20T07:37:09Z"
+pushed_at: "2026-10-25T19:09:33Z"
 ---
 ## What it is
 Persistent cognitive memory for Claude Desktop. Sub-ms recall, offline, encrypted.

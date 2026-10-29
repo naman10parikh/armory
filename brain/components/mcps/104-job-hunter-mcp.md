@@ -8,13 +8,13 @@ source_url: https://github.com/YuJunWang/104-job-hunter-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-20T15:33:03Z"
+pushed_at: "2026-10-28T03:36:04Z"
 ---
 ## What it is
 This MCP server lets AI assistants search job listings on Taiwan's 104 Job Bank, read full job details, and prepare applications with human-in-the-loop confirmation before final submission.

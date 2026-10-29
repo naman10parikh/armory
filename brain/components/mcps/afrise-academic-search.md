@@ -8,11 +8,11 @@ source_url: https://github.com/afrise/academic-search-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 117
+stars: 118
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
+forks: 12
 pushed_at: "2025-02-12T01:24:08Z"
 ---
 ## What it is

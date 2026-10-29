@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T00:39:51Z"
+pushed_at: "2026-10-26T00:13:59Z"
 ---
 ## What it is
 An MCP-based memory layer for autonomous agents that provides observation, memory recall, and dreaming capabilities. It enables AI clients like Claude Code and Codex to store and search structured memories via a unified interface.

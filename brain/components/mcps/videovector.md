@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-20T23:36:19Z"
+pushed_at: "2026-10-26T19:35:02Z"
 ---
 ## What it is
 Enables MCP clients to search, inspect, and operate VideoVector media intelligence workflows, including semantic/multimodal search, prompt management, and data operations via the public VideoVector API.

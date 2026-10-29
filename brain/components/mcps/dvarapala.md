@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T11:13:21Z"
+pushed_at: "2026-10-25T15:35:49Z"
 ---
 ## What it is
 Provides permission gates and tamper-evident audit logging for AI agent tool executions, with declarative policies, consent ladders, and hash-chained verification.

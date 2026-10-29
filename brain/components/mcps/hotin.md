@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T09:21:08Z"
+pushed_at: "2026-10-23T02:22:02Z"
 ---
 ## What it is
 MCP server that gives AI agents a ranked, evidence-backed board of what's trending in AI — repos, models, papers, news — and a daily brief, using fused signals from GitHub, Hacker News, npm, and more.

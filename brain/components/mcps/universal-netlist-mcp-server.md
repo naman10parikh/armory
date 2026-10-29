@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
-pushed_at: "2026-10-09T14:22:59Z"
+forks: 11
+pushed_at: "2026-10-28T21:20:17Z"
 ---
 ## What it is
 This MCP server enables AI agents to understand and analyze electrical schematics from Cadence and Altium for comprehensive design reviews through natural conversations.

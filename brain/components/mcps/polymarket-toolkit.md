@@ -8,13 +8,13 @@ source_url: https://github.com/runesleo/polymarket-toolkit
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 199
+stars: 201
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 26
-pushed_at: "2026-09-09T02:42:18Z"
+pushed_at: "2026-10-26T05:01:46Z"
 ---
 ## What it is
 Read-only Polymarket data tools for AI agents: wallet profiles, fee-inclusive PnL cross-checks, Brier-score calibration, leaderboards, market scans and more (10 tools). No API keys, no order placement — data only. English + Chinese docs.

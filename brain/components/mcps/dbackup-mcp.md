@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T04:14:27Z"
+pushed_at: "2026-10-28T17:31:17Z"
 ---
 ## What it is
 A typed MCP server for curated backup administration of DBackup via its API, exposing tools for backup jobs, execution history, notifications, storage, and bounded restore workflows.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-19T16:29:59Z"
+pushed_at: "2026-10-27T12:36:42Z"
 ---
 ## What it is
 An MCP server that lets an AI assistant read, explain, and (soon) edit Line 6 Helix Stadium .hsp guitar presets from natural language.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-21T06:51:03Z"
+pushed_at: "2026-10-24T03:12:07Z"
 ---
 ## What it is
 Auto-extracts entities and relationships from natural conversations to build a personal knowledge graph. Provides MCP tools for storing and querying people, organizations, topics, and interactions.

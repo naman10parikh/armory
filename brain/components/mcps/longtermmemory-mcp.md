@@ -8,13 +8,13 @@ source_url: https://github.com/MarcelRoozekrans/LongtermMemory-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-22T11:46:05Z"
+pushed_at: "2026-10-28T22:43:47Z"
 ---
 ## What it is
 A fully local MCP server that gives AI agents persistent, semantic long-term memory without any cloud dependencies.

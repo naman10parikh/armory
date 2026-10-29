@@ -8,13 +8,13 @@ source_url: https://github.com/open-compass/LawBench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 456
+stars: 457
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 74
+forks: 75
 pushed_at: "2023-11-13T06:42:45Z"
 ---
 ## What it is

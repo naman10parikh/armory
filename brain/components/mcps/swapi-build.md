@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-20T15:28:40Z"
+pushed_at: "2026-10-28T20:04:05Z"
 ---
 ## What it is
 MCP server that provides access to Star Wars data (people, films, planets, species, starships, vehicles) through tools like list, get, random, and search.

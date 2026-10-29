@@ -8,11 +8,11 @@ source_url: https://github.com/mastanley13/gohighlevel-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 195
+stars: 196
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 207
+forks: 206
 pushed_at: "2025-07-06T23:56:52Z"
 ---
 ## What it is

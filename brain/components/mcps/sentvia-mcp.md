@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T17:28:30Z"
+pushed_at: "2026-10-24T17:38:47Z"
 ---
 ## What it is
 MCP server for SentVia that provides email infrastructure for AI agents, enabling them to create inboxes, send, reply, forward, search messages, manage drafts, domains, webhooks, and allow/block rules through 21 tools.
