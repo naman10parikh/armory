@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-29T06:12:00Z"
+pushed_at: "2026-10-29T09:16:02Z"
 ---
 ## What it is
 MCP server for querying S\&P 500 company data from Supabase, providing tools for company info, financials, price data, news, officers, and SEC filings.

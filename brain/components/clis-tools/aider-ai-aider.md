@@ -8,7 +8,7 @@ source_url: https://github.com/Aider-AI/aider
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 49805
+stars: 49804
 eval_score: null
 mentions: 7
 verified_at: 2026-09-02

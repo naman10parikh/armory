@@ -8,7 +8,7 @@ source_url: https://github.com/arcadedata/arcadedb
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1225
+stars: 1226
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

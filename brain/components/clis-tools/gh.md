@@ -8,7 +8,7 @@ source_url: https://github.com/cli/cli
 license: unknown
 cli_compat: []
 maturity: stable
-stars: 46792
+stars: 46793
 eval_score: 1
 mentions: null
 verified_at: 

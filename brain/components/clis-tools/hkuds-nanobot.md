@@ -8,13 +8,13 @@ source_url: https://github.com/HKUDS/nanobot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 49609
+stars: 49610
 eval_score: null
 mentions: 3
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, cli]
-forks: 8694
+forks: 8697
 pushed_at: "2026-10-29T07:52:05Z"
 ---
 ## What it is

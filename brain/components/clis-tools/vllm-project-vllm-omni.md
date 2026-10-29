@@ -14,8 +14,8 @@ mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1999
-pushed_at: "2026-10-29T08:08:54Z"
+forks: 2000
+pushed_at: "2026-10-29T09:23:03Z"
 ---
 ## What it is
 A framework for efficient model inference with omni-modality models

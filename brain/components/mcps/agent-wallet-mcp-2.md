@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T07:47:27Z"
+pushed_at: "2026-10-29T08:47:30Z"
 ---
 ## What it is
 A non-custodial RWA service for AI agents on Solana that provides yield comparison, tokenized US-equity quotes, and ready-to-sign transactions.

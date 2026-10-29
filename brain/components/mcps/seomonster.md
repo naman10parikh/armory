@@ -8,7 +8,7 @@ source_url: https://github.com/avansaber/seo-monster
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 558
+stars: 559
 eval_score: null
 verified_at: 2026-05-27
 related: []

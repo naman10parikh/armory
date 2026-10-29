@@ -14,8 +14,8 @@ mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 159
-pushed_at: "2026-10-29T06:14:15Z"
+forks: 160
+pushed_at: "2026-10-29T08:19:07Z"
 ---
 ## What it is
 Phil is a self-improving trader: an AI agent that trades short-term prediction markets and rewrites his own strategy after every settled bet. Paper 24/7 in the cloud; small capped real stakes via Pearl Connect.

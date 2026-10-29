@@ -8,7 +8,7 @@ source_url: https://github.com/Egonex-AI/Understand-Anything
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 88804
+stars: 88819
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10

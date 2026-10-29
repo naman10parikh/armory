@@ -8,11 +8,11 @@ source_url: https://github.com/mksglu/context-mode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32760
+stars: 32768
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2265
+forks: 2266
 pushed_at: "2026-10-28T22:03:53Z"
 ---
 ## What it is

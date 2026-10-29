@@ -14,8 +14,8 @@ mentions: 3
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3278
-pushed_at: "2026-10-29T08:11:22Z"
+forks: 3279
+pushed_at: "2026-10-29T09:24:31Z"
 ---
 ## What it is
 An open-source AI coding agent that lives in your terminal.

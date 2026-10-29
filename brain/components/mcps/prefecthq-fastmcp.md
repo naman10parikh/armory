@@ -15,7 +15,7 @@ verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, mcp]
 forks: 2539
-pushed_at: "2026-10-29T07:40:22Z"
+pushed_at: "2026-10-29T09:19:18Z"
 ---
 ## What it is
 🚀 The fast, Pythonic way to build MCP servers and clients.
