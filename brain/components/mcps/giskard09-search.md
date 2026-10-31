@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-22T12:57:48Z"
+pushed_at: "2026-10-26T14:23:31Z"
 ---
 ## What it is
 MCP server `Giskard Search`, catalogued on PulseMCP. Pay-per-use web search for AI agents with Lightning invoice payment and Ed25519 signatures.

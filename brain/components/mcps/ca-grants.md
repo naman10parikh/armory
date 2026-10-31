@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T22:10:20Z"
+pushed_at: "2026-10-31T00:56:32Z"
 ---
 ## What it is
 Enables searching and retrieving California state grant opportunities, including filters by status, category, and agency, without requiring an API key.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T04:04:57Z"
+pushed_at: "2026-10-30T19:54:17Z"
 ---
 ## What it is
 Enables searching and querying City of Toledo open geospatial data (parcels, zoning, public works) via ArcGIS Feature Services, with tools for dataset discovery, attribute queries, and schema inspection.

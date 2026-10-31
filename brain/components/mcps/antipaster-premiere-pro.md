@@ -8,12 +8,12 @@ source_url: https://github.com/antipaster/adobe-premiere-pro-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 16
-pushed_at: "2026-08-25T01:34:13Z"
+pushed_at: "2026-10-29T00:28:00Z"
 ---
 ## What it is
 MCP server `Premiere Pro`, catalogued on PulseMCP. Controls Adobe Premiere Pro through ExtendScript and CEP panel communication, providing 170+ tools for project management, timeline editing, effects, markers, audio, and export operations.

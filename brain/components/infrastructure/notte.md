@@ -8,13 +8,13 @@ source_url: https://github.com/nottelabs/notte
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 2042
+stars: 2051
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, rl]
-forks: 185
-pushed_at: "2026-10-24T10:36:19Z"
+forks: 184
+pushed_at: "2026-10-31T12:40:53Z"
 ---
 ## What it is
 Notte open-source web agent environment. It converts browser sessions into a Markov Decision Process with structured observation/action spaces, making browsers first-class RL and LLM agent environments.

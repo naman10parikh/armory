@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T19:01:43Z"
+pushed_at: "2026-10-29T03:57:50Z"
 ---
 ## What it is
 Enables querying Guild Wars 2 game data including items and achievements via natural language, part of the Pipeworx MCP gateway.

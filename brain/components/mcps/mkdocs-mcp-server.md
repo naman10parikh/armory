@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-21T09:37:10Z"
+pushed_at: "2026-10-27T21:03:25Z"
 ---
 ## What it is
 A generic, configurable MCP server that makes any MkDocs documentation site searchable and explorable from MCP clients.

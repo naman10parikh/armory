@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-07T13:06:46Z"
+pushed_at: "2026-10-29T04:20:33Z"
 ---
 ## What it is
 Search Jellyseerr/Overseerr, check availability, and create guarded media requests via MCP.

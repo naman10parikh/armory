@@ -12,8 +12,8 @@ stars: 115
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 26
-pushed_at: "2026-10-19T19:21:34Z"
+forks: 27
+pushed_at: "2026-10-26T19:45:44Z"
 ---
 ## What it is
 MCP server `Vectorize`, catalogued on PulseMCP. Bridges Claude with Vectorize.io's vector database services for advanced document retrieval, text extraction, and research capabilities through TypeScript-based tools that handle authentication via organization IDs and API tokens.

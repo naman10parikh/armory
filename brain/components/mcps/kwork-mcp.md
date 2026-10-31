@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-23T02:34:27Z"
+pushed_at: "2026-10-29T16:42:00Z"
 ---
 ## What it is
 MCP server that exposes 25 tools for the Kwork freelance marketplace — browse projects, submit offers, manage orders, send messages, and more.

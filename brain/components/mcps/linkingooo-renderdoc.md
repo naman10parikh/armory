@@ -8,11 +8,11 @@ source_url: https://github.com/linkingooo/renderdoc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 178
+stars: 181
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 20
+forks: 22
 pushed_at: "2026-03-05T18:11:24Z"
 ---
 ## What it is

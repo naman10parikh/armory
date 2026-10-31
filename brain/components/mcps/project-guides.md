@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T00:35:29Z"
+pushed_at: "2026-10-31T04:01:48Z"
 ---
 ## What it is
 Provides project-specific guides and instructions by selecting modules based on a project profile, enabling developers to get contextual instructions for their tech stack and architecture.

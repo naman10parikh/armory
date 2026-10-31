@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T15:41:05Z"
+pushed_at: "2026-10-26T21:05:34Z"
 ---
 ## What it is
 WCAG-Compliance/wcagc-mcp lets an assistant run real axe-core accessibility scans through the user's own wcagc account, rather than guessing accessibility from markup it can see. Tools cover a single URL or PDF, a full-site crawl, saved multi-step journeys, and violation trends.

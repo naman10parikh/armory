@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T01:26:58Z"
+pushed_at: "2026-10-31T12:46:56Z"
 ---
 ## What it is
 MCP server for AI assistants to interact with Atlassian Jira and Confluence Cloud APIs through typed tools and secure authentication.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T22:29:20Z"
+pushed_at: "2026-10-30T07:32:27Z"
 ---
 ## What it is
 Enables querying and searching Cranston, Rhode Island open geospatial datasets (parcels, zoning, city services) via ArcGIS Feature Services.

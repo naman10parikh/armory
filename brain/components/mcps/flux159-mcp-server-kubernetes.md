@@ -8,12 +8,12 @@ source_url: https://github.com/flux159/mcp-server-kubernetes
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1607
+stars: 1611
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 287
-pushed_at: "2026-10-21T20:57:49Z"
+forks: 286
+pushed_at: "2026-10-26T18:08:01Z"
 ---
 ## What it is
 MCP server `Kubernetes Manager`, catalogued on PulseMCP. Manage Kubernetes cluster resources and deployments.

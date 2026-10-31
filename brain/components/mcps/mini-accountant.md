@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T15:30:12Z"
+pushed_at: "2026-10-25T13:53:51Z"
 ---
 ## What it is
 Remote MCP server for Mini Accountant that lets AI assistants manage invoices, customers, expenses, services, payment settings, analytics, and account/profile data via OAuth 2.1-secured streamable HTTP.

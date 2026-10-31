@@ -8,13 +8,13 @@ source_url: https://github.com/johnib/kusto-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-10-23T12:40:59Z"
+pushed_at: "2026-10-31T08:49:27Z"
 ---
 ## What it is
 Enables AI assistants to query Azure Data Explorer using natural language, eliminating the need to write KQL.

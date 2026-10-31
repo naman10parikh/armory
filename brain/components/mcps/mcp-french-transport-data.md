@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T12:47:40Z"
+pushed_at: "2026-10-31T10:14:10Z"
 ---
 ## What it is
 Enables discovery and summarization of public French transport data, including datasets, GTFS resources, regions, networks, and data-quality information, via transport.data.gouv.fr.

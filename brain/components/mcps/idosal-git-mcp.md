@@ -8,12 +8,12 @@ source_url: https://github.com/idosal/git-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8486
+stars: 8499
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 eval_score: 1
-forks: 757
+forks: 760
 pushed_at: "2026-05-08T14:21:24Z"
 ---
 ## What it is

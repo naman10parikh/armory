@@ -8,13 +8,13 @@ source_url: https://github.com/stcmain/whats-running-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T01:55:30Z"
+pushed_at: "2026-10-31T04:24:28Z"
 ---
 ## What it is
 Provides AI agents with real-time ground truth about what's actually running on the machine, including live agent sessions, listening TCP ports, loaded daemons, and system stats. It reads directly from the OS via fixed commands, ensuring agents never rely on stale docs or transcripts.

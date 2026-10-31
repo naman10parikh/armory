@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 56
-pushed_at: "2026-10-23T13:31:29Z"
+pushed_at: "2026-10-30T12:59:15Z"
 ---
 ## What it is
 MCP server `BrowserStack`, catalogued on PulseMCP. Integrates with BrowserStack's testing infrastructure to enable automated and manual testing across browsers, devices, and platforms for debugging cross-browser issues and verifying mobile app functionality.

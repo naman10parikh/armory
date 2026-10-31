@@ -8,14 +8,14 @@ source_url: https://github.com/n8n-io/n8n
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 208474
+stars: 209190
 eval_score: 1
 mentions: 28
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed]
-forks: 61222
-pushed_at: "2026-10-24T11:41:59Z"
+forks: 61332
+pushed_at: "2026-10-31T13:26:35Z"
 ---
 ## What it is
 Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.

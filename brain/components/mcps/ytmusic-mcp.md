@@ -8,11 +8,13 @@ source_url: https://github.com/imesh-madushan/ytmusic-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-10-30T22:54:12Z"
 ---
 ## What it is
 Enables searching YouTube Music and managing playlists: create/delete playlists, add/remove/reorder tracks, and more via natural language.

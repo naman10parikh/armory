@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T15:16:31Z"
+pushed_at: "2026-10-30T14:39:06Z"
 ---
 ## What it is
 MCP server for freee HR attendance workflows, enabling clock in/out, team status, and approval operations through a shared core service with API or Playwright backends.

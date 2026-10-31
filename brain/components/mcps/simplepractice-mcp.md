@@ -8,13 +8,13 @@ source_url: https://github.com/chrischall/simplepractice-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T20:43:57Z"
+pushed_at: "2026-10-26T14:12:31Z"
 ---
 ## What it is
 Enables read-only access to SimplePractice Client Portal data — appointments, billing, documents, and announcements — via the portal's JSON:API, using passwordless portal sign-in.

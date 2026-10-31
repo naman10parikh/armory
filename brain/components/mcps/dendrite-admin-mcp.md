@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T19:21:55Z"
+pushed_at: "2026-10-31T08:39:24Z"
 ---
 ## What it is
 MCP server exposing Dendrite Matrix homeserver admin APIs as tools, enabling an LLM agent to manage users, rooms, registration tokens, send server notices, and more.

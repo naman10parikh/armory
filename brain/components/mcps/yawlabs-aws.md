@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-15T15:19:01Z"
+pushed_at: "2026-10-30T22:55:24Z"
 ---
 ## What it is
 MCP server `AWS`, catalogued on PulseMCP. Calls any AWS API from AI agents with built-in SSO re-login via device-code flow.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-13T07:07:11Z"
+pushed_at: "2026-10-28T04:58:20Z"
 ---
 ## What it is
 Enables AI agents with persistent, multi-layer memory, multi-agent collaboration rooms, and video generation, all accessible via MCP tools.

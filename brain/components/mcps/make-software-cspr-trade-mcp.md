@@ -13,7 +13,7 @@ related: []
 tags: [mcp, finance-fintech]
 stars: 2
 forks: 2
-pushed_at: "2026-06-26T23:58:49Z"
+pushed_at: "2026-10-25T01:15:50Z"
 ---
 ## What it is
 Non-custodial DEX trading on the Casper Network via [CSPR.trade](https://cspr.trade). 14 tools for market data, swaps, liquidity, and account queries. Transactions built remotely, signed locally — private keys never leave the machine. Public endpoint: `https://mcp.cspr.trade/mcp`

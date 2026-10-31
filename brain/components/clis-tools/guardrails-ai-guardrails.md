@@ -8,14 +8,14 @@ source_url: https://github.com/guardrails-ai/guardrails
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 7558
+stars: 7574
 eval_score: 0
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 729
-pushed_at: "2026-10-24T02:46:17Z"
+forks: 732
+pushed_at: "2026-10-31T02:14:36Z"
 ---
 ## What it is
 Adding guardrails to large language models.

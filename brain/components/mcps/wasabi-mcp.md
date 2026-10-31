@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T10:32:35Z"
+pushed_at: "2026-10-27T05:43:11Z"
 ---
 ## What it is
 MCP server that exposes Wasabi cloud storage's Stats API bucket utilization data as a tool, enabling users to query storage and API call metrics for all buckets.

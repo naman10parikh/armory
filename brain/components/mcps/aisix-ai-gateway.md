@@ -8,13 +8,13 @@ source_url: https://github.com/api7/aisix
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 204
+stars: 207
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 43
-pushed_at: "2026-10-22T14:34:41Z"
+forks: 46
+pushed_at: "2026-10-30T07:32:50Z"
 ---
 ## What it is
 Self-hosted MCP gateway that registers upstream MCP servers and fronts them behind one governed Streamable HTTP endpoint: per-tool access control by caller API key, guardrails over tool arguments and results, rate limits, and usage logs. The same Rust gateway also proxies LLM and A2A agent traffic.

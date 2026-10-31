@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 13
-pushed_at: "2026-10-23T09:16:20Z"
+pushed_at: "2026-10-28T07:26:53Z"
 ---
 ## What it is
 A comprehensive MCP server for managing Active Directory environments through LDAP, enabling user, group, computer, and OU management, as well as security auditing and policy compliance checks.

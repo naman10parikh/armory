@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-10-21T09:08:25Z"
+pushed_at: "2026-10-29T03:19:32Z"
 ---
 ## What it is
 MCP server `Xero Accounting`, catalogued on PulseMCP. Integrates with Xero Accounting Software to access financial data including accounts, transactions, contacts, invoices, and more through authenticated API connections for financial analysis and bookkeeping tasks.

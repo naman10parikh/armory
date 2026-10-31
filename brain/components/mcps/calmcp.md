@@ -8,13 +8,13 @@ source_url: https://github.com/consetto/calmcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-10-20T08:35:08Z"
+forks: 1
+pushed_at: "2026-10-31T13:06:18Z"
 ---
 ## What it is
 A read-only MCP server that bridges AI assistants to SAP Cloud ALM, exposing read APIs through four intent-based tools. It runs locally over stdio or remotely over Streamable HTTP, and can be deployed to SAP BTP Cloud Foundry.

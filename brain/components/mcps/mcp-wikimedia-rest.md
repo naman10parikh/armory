@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T22:23:24Z"
+pushed_at: "2026-10-29T07:13:47Z"
 ---
 ## What it is
 Access Wikimedia REST API v1 to retrieve daily featured content and on-this-day events.

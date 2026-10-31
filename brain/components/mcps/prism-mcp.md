@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T03:23:59Z"
+pushed_at: "2026-10-29T00:54:28Z"
 ---
 ## What it is
 MCP server providing full HTTP parity with the Prism API, enabling agents to chat, generate images/video/music/TTS, manage RAG documents and projects, and poll long jobs without a browser.

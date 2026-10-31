@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-24T10:37:08Z"
+forks: 1
+pushed_at: "2026-10-30T22:59:56Z"
 ---
 ## What it is
 Provides persistent, cooperative memory for LLMs via MCP, with SQLite storage and tools for capturing, recalling, consolidating, crystallizing, and forgetting memories across sessions.

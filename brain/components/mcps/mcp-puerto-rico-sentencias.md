@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T19:07:31Z"
+pushed_at: "2026-10-26T16:11:31Z"
 ---
 ## What it is
 Search, locate, and read Puerto Rico Supreme Court decisions and other public court documents directly from MCP clients, with strict source verification to prevent citation hallucinations.

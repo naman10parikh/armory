@@ -8,13 +8,13 @@ source_url: https://github.com/askalf/truecopy
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T10:59:22Z"
+pushed_at: "2026-10-31T12:28:33Z"
 ---
 ## What it is
 Supply-chain gate for AI agent skills and MCP servers: poison-scan tool definitions, hash-pin the vetted set into a lock file and verify drift in CI. truecopy-mcp is a drop-in stdio proxy that filters a live server's tools/list down to its pinned, unmodified, unpoisoned tools.

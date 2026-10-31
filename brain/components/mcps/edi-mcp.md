@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-22T06:14:46Z"
+pushed_at: "2026-10-27T02:30:30Z"
 ---
 ## What it is
 Enables AI clients to interact with EDA projects via natural language by wrapping EDI's gRPC interface, CLI tools, and ANSYS HFSS as MCP tools supporting SSE and stdio transports.

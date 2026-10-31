@@ -8,12 +8,12 @@ source_url: https://github.com/n24q02m/better-notion-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 35
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-10-11T20:11:29Z"
+pushed_at: "2026-10-31T07:39:54Z"
 ---
 ## What it is
 MCP server `Better Notion`, catalogued on PulseMCP. Integrates with Notion through composite tools that combine multiple operations into unified workflows for page management, database operations, content conversion, and workspace exploration

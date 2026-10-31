@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T04:02:47Z"
+pushed_at: "2026-10-30T19:52:18Z"
 ---
 ## What it is
 Enables searching and querying City of Sarasota open geospatial data (parcels, zoning, public works) via ArcGIS Feature Services.

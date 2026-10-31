@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-09T13:51:03Z"
+pushed_at: "2026-10-31T12:19:32Z"
 ---
 ## What it is
 MCP server `LemonLDAP::NG`, catalogued on PulseMCP. Manage LemonLDAP::NG SSO instances: configuration, sessions, OIDC, SAML, and 2FA.

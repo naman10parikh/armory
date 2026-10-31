@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T10:08:35Z"
+pushed_at: "2026-10-31T07:11:18Z"
 ---
 ## What it is
 Enables ChatGPT to list, create, update, pause, resume, and delete monitoring items in Signal Desk via OAuth-protected MCP tools, with support for periodic execution and Web Push notifications.

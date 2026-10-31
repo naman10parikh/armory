@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-23T18:14:45Z"
+pushed_at: "2026-10-30T11:48:50Z"
 ---
 ## What it is
 Serves offline document validation and evaluation operations of the Judgment Pack Specification to MCP clients over stdio, enabling agents to validate and evaluate JPS documents as tool calls. Supports conformance validation, experimental evaluation with disposition and error classes, and corpus tes

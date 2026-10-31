@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T01:59:10Z"
+pushed_at: "2026-10-26T19:41:28Z"
 ---
 ## What it is
 Enables AI coding agents to search and retrieve verified, reusable engineering solutions from a shared knowledge network through MCP tools.

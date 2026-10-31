@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-23T16:09:53Z"
+pushed_at: "2026-10-31T04:44:44Z"
 ---
 ## What it is
 Provides Chromium browser automation for MCP clients and AI agents, enabling background tab control, observation, session management, and performance diagnostics through tools like browser_run and browser_observe.

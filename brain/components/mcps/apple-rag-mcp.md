@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-10-21T07:24:43Z"
+pushed_at: "2026-10-29T05:36:02Z"
 ---
 ## What it is
 Provides access to Apple documentation and WWDC transcripts with semantic, keyword, and hybrid search capabilities, enabling developers to quickly find relevant code examples and technical information.

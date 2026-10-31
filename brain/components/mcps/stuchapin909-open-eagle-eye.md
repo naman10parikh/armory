@@ -8,12 +8,12 @@ source_url: https://github.com/stuchapin909/open-eagle-eye
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-24T08:00:24Z"
+pushed_at: "2026-10-30T09:47:14Z"
 ---
 ## What it is
 MCP server `Open Eagle Eye`, catalogued on PulseMCP. Live snapshots from approximately 29,000 public cameras across 11 countries for traffic, weather, and scenic monitoring.

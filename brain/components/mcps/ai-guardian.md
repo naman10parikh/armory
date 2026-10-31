@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T09:17:47Z"
+pushed_at: "2026-10-30T01:36:05Z"
 ---
 ## What it is
 Enables observability and governance for local LLMs via Ollama, including auditing model usage, scanning prompts for secrets/PII, and enforcing allow/deny policies.

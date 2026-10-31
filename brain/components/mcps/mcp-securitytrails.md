@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T21:29:05Z"
+pushed_at: "2026-10-29T06:16:37Z"
 ---
 ## What it is
 Wraps the SecurityTrails API to enable querying domain, IP, and DNS data through MCP tools or natural language via the Pipeworx gateway.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-19T17:53:32Z"
+pushed_at: "2026-10-26T21:03:26Z"
 ---
 ## What it is
 Provides programmatic access to causal discovery, topological data analysis, Gaussian process belief updating, thermodynamic auditing, and HCHL inference for agents and researchers.

@@ -8,13 +8,13 @@ source_url: https://github.com/timoncool/telegram-api-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 33
+stars: 34
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-10-24T08:07:35Z"
+pushed_at: "2026-10-31T09:38:54Z"
 ---
 ## What it is
 Ultimate MCP server for Telegram Bot API — 169 methods, full v9.6 coverage, meta-mode, rate limiting, and circuit breaker, enabling AI to control Telegram bots with natural language.

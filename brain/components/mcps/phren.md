@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T11:58:47Z"
+pushed_at: "2026-10-31T13:25:17Z"
 ---
 ## What it is
 A persistent memory server for AI agents that stores findings, tasks, and patterns in Markdown files within a git repository, enabling context injection across multiple AI tools.

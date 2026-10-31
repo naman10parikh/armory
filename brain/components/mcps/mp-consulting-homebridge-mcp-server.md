@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-24T07:13:44Z"
+pushed_at: "2026-10-31T07:13:44Z"
 ---
 ## What it is
 MCP server for Homebridge that enables AI assistants to control smart home accessories, manage plugins, edit configuration, and monitor the Homebridge server.

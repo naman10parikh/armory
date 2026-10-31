@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-27T18:13:58Z"
+pushed_at: "2026-10-29T17:59:31Z"
 ---
 ## What it is
 A production-ready MCP server template with typed tools, schema validation, tests, and Docker support, including example tools for text stats, weather, and notes.

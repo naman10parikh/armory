@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-30T12:44:32Z"
+pushed_at: "2026-10-31T00:38:40Z"
 ---
 ## What it is
 Provides a token-efficient exact math engine for AI agents, enabling computation of derivatives, integrals, equations, and optimized Python/NumPy code via a single MCP tool.

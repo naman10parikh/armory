@@ -8,12 +8,12 @@ source_url: https://github.com/joinly-ai/joinly
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 568
+stars: 569
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 94
+forks: 95
 pushed_at: "2026-09-01T11:27:36Z"
 ---
 ## What it is

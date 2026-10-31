@@ -8,13 +8,13 @@ source_url: https://github.com/inngest/utah
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 137
+stars: 138
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 7
+forks: 8
 pushed_at: "2026-07-22T21:52:32Z"
 ---
 ## What it is

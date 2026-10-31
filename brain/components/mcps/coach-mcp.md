@@ -8,13 +8,13 @@ source_url: https://github.com/snoozelieb/coach-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-04T18:26:38Z"
+pushed_at: "2026-10-28T06:06:58Z"
 ---
 ## What it is
 An AI training coach MCP server that integrates with Garmin Connect to provide science-based load management, code-enforced injury gates, and persistent coaching memory, keeping data local.

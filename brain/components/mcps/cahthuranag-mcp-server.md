@@ -13,7 +13,7 @@ related: []
 tags: [mcp, finance-fintech]
 stars: 4
 forks: 1
-pushed_at: "2026-10-23T18:28:33Z"
+pushed_at: "2026-10-27T23:48:14Z"
 ---
 ## What it is
 AllRatesToday currency exchange rates: real-time mid-market rates for 160+ currencies (Reuters/Refinitiv), historical data (1d/7d/30d/1y), currency list, and multi-target lookups. Free tier, no key needed for the simple-rate endpoint. Install: `npx @allratestoday/mcp-server`.

@@ -8,12 +8,12 @@ source_url: https://github.com/epistates/mcpsafari
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 61
+stars: 62
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-10-15T23:36:33Z"
+pushed_at: "2026-10-26T18:14:52Z"
 ---
 ## What it is
 MCP server `Safari (MCPSafari)`, catalogued on PulseMCP. Native Safari browser automation on macOS with 24 tools via Swift and Manifest V3 extension.

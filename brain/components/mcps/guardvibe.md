@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-23T06:21:33Z"
+pushed_at: "2026-10-31T06:39:20Z"
 ---
 ## What it is
 MCP server `GuardVibe`, catalogued on PulseMCP. Security scanner for AI-generated code with 330+ rules covering Next.js, Supabase, Stripe, Prisma, and the full vibe-coding stack.

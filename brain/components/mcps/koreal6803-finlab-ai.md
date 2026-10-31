@@ -8,12 +8,12 @@ source_url: https://github.com/koreal6803/finlab-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 417
+stars: 420
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 68
-pushed_at: "2026-10-24T06:42:31Z"
+forks: 70
+pushed_at: "2026-10-29T08:19:28Z"
 ---
 ## What it is
 MCP server `FinLab AI`, catalogued on PulseMCP. Quantitative trading toolkit with extensive data access, backtesting, and strategy development tools.

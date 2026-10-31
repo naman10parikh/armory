@@ -8,12 +8,12 @@ source_url: https://github.com/robhunter/agentdeals
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 23
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
-pushed_at: "2026-10-24T10:30:50Z"
+forks: 11
+pushed_at: "2026-10-31T13:05:25Z"
 ---
 ## What it is
 MCP server `AgentDeals`, catalogued on PulseMCP. Developer deal aggregator providing structured access to discounts and promotions from 1500+ vendors across 38 categories.

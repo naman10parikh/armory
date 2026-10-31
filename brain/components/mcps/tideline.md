@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-07T23:06:09Z"
+pushed_at: "2026-10-29T11:06:12Z"
 ---
 ## What it is
 MCP server that provides tide predictions, station lookup, and tidal event alerts for US coastal locations using live NOAA data.

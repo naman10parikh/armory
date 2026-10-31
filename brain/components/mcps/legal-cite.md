@@ -8,13 +8,13 @@ source_url: https://github.com/apiotrowski-afk/legal-cite-pl
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-10-22T08:45:28Z"
+forks: 8
+pushed_at: "2026-10-29T20:57:43Z"
 ---
 ## What it is
 Verifies legal citations by fetching the exact, in-force wording of cited articles from official PL and EU legal sources, preventing hallucination by returning verbatim text.

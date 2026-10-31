@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T11:58:18Z"
+pushed_at: "2026-10-31T12:22:27Z"
 ---
 ## What it is
 Enables natural language interaction with the full ActiveCampaign account API, covering ~325 tools from v3 REST, SMS, WhatsApp, and Segments, with safety categories and Docker deployment.

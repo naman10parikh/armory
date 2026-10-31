@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-10-24T00:04:34Z"
+pushed_at: "2026-10-29T02:38:10Z"
 ---
 ## What it is
 MCP server `Laravel Companion`, catalogued on PulseMCP. Integrates with Laravel documentation and package ecosystem to provide intelligent search across multiple framework versions, external service docs, and curated package recommendations based on use case descriptions.

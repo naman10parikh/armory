@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-20T08:36:47Z"
+forks: 1
+pushed_at: "2026-10-27T08:14:22Z"
 ---
 ## What it is
 MCP server that resolves a company domain to its registered legal entity, returning legal name, company number, jurisdiction, status, LEI, and VAT number via the Apify Legal Entity Resolver actor.

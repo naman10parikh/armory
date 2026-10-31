@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T16:54:51Z"
+pushed_at: "2026-10-30T16:54:41Z"
 ---
 ## What it is
 Production-ready MCP server for Greenhouse ATS that provides comprehensive recruitment tools—screening, pipeline analytics, search, and safe write operations—across read-only, recruiter, and full profiles.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-24T09:05:50Z"
+pushed_at: "2026-10-31T11:08:08Z"
 ---
 ## What it is
 Enables clients to interact with PipesHub data and functionality through MCP, including chat, search, record retrieval, directory browsing, sources, and agents.

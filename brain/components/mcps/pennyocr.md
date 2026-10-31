@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T18:55:41Z"
+pushed_at: "2026-10-27T21:38:47Z"
 ---
 ## What it is
 Read any PDF or image into agent context as markdown (tables preserved) or plain text. Every call returns its exact cost_usd, a free estimate_cost tool quotes documents before you commit, and max_pages / max_cost_usd caps refuse before any spend — OCR agents can budget. $0.75 per 1,000 pages, first 

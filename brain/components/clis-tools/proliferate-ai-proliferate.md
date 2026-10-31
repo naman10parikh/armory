@@ -8,14 +8,14 @@ source_url: https://github.com/proliferate-ai/proliferate
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 517
+stars: 519
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 87
-pushed_at: "2026-10-22T14:33:27Z"
+pushed_at: "2026-10-29T14:31:41Z"
 ---
 ## What it is
 The open-source AI IDE for Claude Code, Codex, OpenCode, and more. Run agents in parallel, locally or in the cloud, and build reusable workflows.

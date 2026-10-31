@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2025-11-05T15:12:55Z"
+pushed_at: "2026-10-27T08:52:53Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for interacting with the Nimiq blockchain.

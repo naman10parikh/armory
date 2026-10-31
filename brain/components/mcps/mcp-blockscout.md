@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T22:02:33Z"
+pushed_at: "2026-10-30T20:06:49Z"
 ---
 ## What it is
 Enables querying on-chain data (balances, transactions, token transfers, blocks) across 20+ EVM chains through natural language.

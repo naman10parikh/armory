@@ -8,12 +8,12 @@ source_url: https://github.com/JumenEngels/sap_analytics_cloud_mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
+forks: 14
 pushed_at: "2026-03-02T20:27:13Z"
 ---
 ## What it is

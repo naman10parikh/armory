@@ -9,13 +9,13 @@ source_url: https://github.com/bitbonsai/mcpvault
 license: MIT
 cli_compat: [claude]
 maturity: beta
-stars: 1703
+stars: 1708
 eval_score: null
 verified_at: 2026-05-26
 related: [server-memory, wikimem, four-layer-memory]
 tags: [obsidian, vault, notes, knowledge-graph, wikilinks]
 forks: 133
-pushed_at: "2026-10-23T06:44:52Z"
+pushed_at: "2026-10-31T04:27:21Z"
 ---
 
 ## What it is

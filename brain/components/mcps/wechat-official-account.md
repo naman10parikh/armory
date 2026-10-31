@@ -8,12 +8,12 @@ source_url: https://github.com/xwang152-jack/wechat-official-account-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 66
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 26
-pushed_at: "2026-10-11T14:03:23Z"
+pushed_at: "2026-10-27T14:11:46Z"
 ---
 ## What it is
 MCP server `WeChat Official Account`, catalogued on PulseMCP. Integrates with WeChat Official Account API to enable OAuth authentication, draft article creation, media upload and management, and direct publishing to WeChat official accounts for automated content management workflows.

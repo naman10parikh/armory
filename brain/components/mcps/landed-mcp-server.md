@@ -8,13 +8,13 @@ source_url: https://github.com/landedjobs/landed-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-22T22:13:57Z"
+forks: 1
+pushed_at: "2026-10-27T07:24:40Z"
 ---
 ## What it is
 Search AI-native jobs, prepare applications, and study for interviews — from any MCP client.

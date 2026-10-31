@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-05T09:36:27Z"
+pushed_at: "2026-10-24T19:17:20Z"
 ---
 ## What it is
 Unified MCP server for DevOps engineers that provides real-time read and write access to Kubernetes, ArgoCD, Prometheus, and PagerDuty from any MCP-compatible AI agent.

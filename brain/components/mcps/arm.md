@@ -8,12 +8,12 @@ source_url: https://github.com/arm/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 94
+stars: 95
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 22
-pushed_at: "2026-10-23T21:29:18Z"
+forks: 23
+pushed_at: "2026-10-30T23:07:31Z"
 ---
 ## What it is
 MCP server `Arm`, catalogued on PulseMCP. Code migration, optimization, and architecture guidance for Arm development

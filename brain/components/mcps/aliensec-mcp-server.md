@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T14:34:10Z"
+pushed_at: "2026-10-30T14:35:07Z"
 ---
 ## What it is
 Enables AI agents to perform endpoint security scanning using AlienVault OTX and VirusTotal, including multi-platform scans, threat intelligence queries, and scan data persistence.

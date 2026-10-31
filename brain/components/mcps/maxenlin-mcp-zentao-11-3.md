@@ -8,13 +8,13 @@ source_url: https://github.com/MaxenLin/mcp-zentao-11-3
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-07-18T19:18:03Z"
+pushed_at: "2026-10-30T02:10:20Z"
 ---
 ## What it is
 Enables AI-powered interaction with ZenTao 11.3 legacy systems, supporting task, bug, requirement, and test case management via MCP protocol.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-21T18:32:37Z"
+pushed_at: "2026-10-28T06:45:20Z"
 ---
 ## What it is
 Enables creating and managing BeatAPI AI Music Video and Ecommerce Video workflows. Supports inspecting workflows, credits, usage, uploading files, creating tasks, polling tasks, and managing webhooks.

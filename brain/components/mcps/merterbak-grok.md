@@ -8,11 +8,11 @@ source_url: https://github.com/merterbak/grok-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 55
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 22
+forks: 21
 pushed_at: "2026-10-13T15:52:23Z"
 ---
 ## What it is

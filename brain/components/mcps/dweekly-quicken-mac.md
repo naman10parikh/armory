@@ -8,11 +8,11 @@ source_url: https://github.com/dweekly/quicken-mac-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 47
+stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
+forks: 10
 pushed_at: "2026-09-10T08:45:14Z"
 ---
 ## What it is

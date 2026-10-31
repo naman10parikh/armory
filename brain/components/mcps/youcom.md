@@ -8,12 +8,12 @@ source_url: https://github.com/youdotcom-oss/dx-toolkit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-23T22:16:32Z"
+pushed_at: "2026-10-28T16:20:32Z"
 ---
 ## What it is
 MCP server `You.com Web Access & AI`, catalogued on PulseMCP. Web search, AI agent, and content extraction via You.com APIs

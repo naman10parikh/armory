@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-29T14:10:24Z"
+pushed_at: "2026-10-31T10:59:29Z"
 ---
 ## What it is
 Bernard is an MCP server that provides repo-committed, project-scoped AI memory for coding agents. It enables agents to search past decisions and record new ones, all stored as plain text in the repo without external APIs or services.

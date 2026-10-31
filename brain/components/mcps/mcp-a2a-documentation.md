@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T02:32:49Z"
+pushed_at: "2026-10-27T09:44:53Z"
 ---
 ## What it is
 Search and retrieve Agent2Agent (A2A) protocol documentation using full-text search and section filtering.

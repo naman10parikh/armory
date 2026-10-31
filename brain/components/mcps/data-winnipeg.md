@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T04:07:49Z"
+pushed_at: "2026-10-29T02:44:58Z"
 ---
 ## What it is
 Enables searching and querying Winnipeg Open Data datasets through natural language or SoQL, with tools for datasets, metadata, and row-level data.

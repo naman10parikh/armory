@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-03-07T11:39:54Z"
+pushed_at: "2026-10-28T18:50:00Z"
 ---
 ## What it is
 MCP server for the Mural visual collaboration platform enabling board content editing with sticky notes, shapes, text boxes, areas, images, connectors, plus navigation and mural management.

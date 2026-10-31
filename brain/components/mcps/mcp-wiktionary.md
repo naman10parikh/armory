@@ -8,13 +8,13 @@ source_url: https://github.com/pipeworx-io/mcp-wiktionary
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T01:23:16Z"
+pushed_at: "2026-10-29T07:14:43Z"
 ---
 ## What it is
 Multilingual dictionary server via Wikimedia REST and MediaWiki Action APIs, providing word definitions, summaries, search, etymology, and pronunciations.

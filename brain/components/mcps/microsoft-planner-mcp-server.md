@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-06T09:37:22Z"
+pushed_at: "2026-10-29T15:23:09Z"
 ---
 ## What it is
 An unofficial MCP server that connects AI assistants to Microsoft Planner, enabling natural language task management such as creating tasks, organizing plans, and managing buckets.

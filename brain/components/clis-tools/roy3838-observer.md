@@ -8,14 +8,14 @@ source_url: https://github.com/Roy3838/Observer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1657
+stars: 1664
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 141
-pushed_at: "2026-10-23T17:46:52Z"
+pushed_at: "2026-10-30T23:36:32Z"
 ---
 ## What it is
 Why observe computer if computer can observe for you

@@ -8,13 +8,13 @@ source_url: https://github.com/Honeyfield-Org/eurlex-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-22T20:56:20Z"
+pushed_at: "2026-10-29T20:25:31Z"
 ---
 ## What it is
 Enables searching and retrieving EU legal documents (regulations, directives, court decisions) via the EUR-Lex Cellar API, supporting full-text search, metadata, citations, and consolidated versions without requiring an API key.

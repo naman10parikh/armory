@@ -8,12 +8,12 @@ source_url: https://github.com/ab498/computer-control-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 171
+stars: 172
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 37
-pushed_at: "2026-07-25T15:56:50Z"
+forks: 38
+pushed_at: "2026-10-24T16:51:15Z"
 ---
 ## What it is
 MCP server `Computer Control`, catalogued on PulseMCP. Enables desktop automation through mouse control, keyboard input, screenshots, OCR, and window management for direct interaction with graphical user interfaces

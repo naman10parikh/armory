@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-10-21T07:31:48Z"
+pushed_at: "2026-10-25T05:14:58Z"
 ---
 ## What it is
 MCP server `Gmail`, catalogued on PulseMCP. Integrates with Gmail API to enable comprehensive email management including reading, sending, archiving messages, managing drafts and labels, creating filters, handling attachments, and configuring vacation auto-replies

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-15T09:21:42Z"
+pushed_at: "2026-10-29T08:58:25Z"
 ---
 ## What it is
 MCP server for Finnish public procurement notices (Hilma). Enables searching and retrieving procurement notices directly from Claude without a separate browser.

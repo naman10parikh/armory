@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T13:13:11Z"
+pushed_at: "2026-10-31T07:23:45Z"
 ---
 ## What it is
 Helps construct and validate Microsoft Graph REST API calls with on-demand tool loading, providing request details, required permissions, and code examples for categories like users, files, mail, calendar, groups, notes, tasks, sites, and subscriptions.

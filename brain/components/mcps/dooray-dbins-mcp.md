@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T19:05:30Z"
+pushed_at: "2026-10-31T07:06:01Z"
 ---
 ## What it is
 Provides read-only access to Dooray collaboration services through REST, CalDAV, and LDAP, enabling queries for projects, tasks, calendar events, and directory information via 18 MCP tools.

@@ -8,13 +8,13 @@ source_url: https://github.com/AutomateLab-tech/seo-performance-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-08T11:03:01Z"
+pushed_at: "2026-10-27T08:20:55Z"
 ---
 ## What it is
 A MCP server that turns your scattered SEO and analytics data into one clear verdict per URL. Plug it into Claude, Cursor, or any MCP-aware client and ask: "Which three posts should I update this week?" - and get an answer backed by hard numbers.

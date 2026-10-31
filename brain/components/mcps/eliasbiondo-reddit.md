@@ -8,12 +8,12 @@ source_url: https://github.com/eliasbiondo/reddit-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 160
+stars: 163
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 17
-pushed_at: "2026-03-11T01:54:05Z"
+pushed_at: "2026-10-24T23:36:45Z"
 ---
 ## What it is
 MCP server `Reddit`, catalogued on PulseMCP. Browse, search, and read Reddit content without API keys or authentication using the redd scraping library.

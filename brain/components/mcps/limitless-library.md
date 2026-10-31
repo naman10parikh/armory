@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T00:08:09Z"
+pushed_at: "2026-10-28T21:05:21Z"
 ---
 ## What it is
 MCP server for verified reuse infrastructure that lets agents query before work to obtain safe, permissioned results (exact component, source-free method, or abstention) with receiver-owned verification and non-disclosure guarantees.

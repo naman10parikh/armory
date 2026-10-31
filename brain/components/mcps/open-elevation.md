@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T20:09:14Z"
+pushed_at: "2026-10-29T05:21:16Z"
 ---
 ## What it is
 Enables fetching terrain elevation in metres above mean sea level for a single latitude/longitude coordinate. No authentication required, part of Pipeworx gateway.

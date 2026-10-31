@@ -8,14 +8,14 @@ source_url: https://github.com/semantica-agi/semantica
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 14211
+stars: 14355
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 1662
-pushed_at: "2026-10-24T01:00:17Z"
+forks: 1689
+pushed_at: "2026-10-31T12:03:52Z"
 ---
 ## What it is
 Use when an agent's stored context needs provenance — you must be able to say where a remembered fact came from.

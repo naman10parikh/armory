@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-03T14:29:47Z"
+pushed_at: "2026-10-30T16:45:25Z"
 ---
 ## What it is
 Enables Claude to build and preview mobile apps on multiple iOS and Android devices simultaneously, with live streaming and touch control, all via MCP.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-03-16T15:05:32Z"
+pushed_at: "2026-10-26T01:02:14Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that connects AI agents to Google Workspace (Gmail, Calendar, Drive, Docs, Sheets, and Slides).

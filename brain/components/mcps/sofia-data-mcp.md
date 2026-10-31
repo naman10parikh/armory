@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T18:18:12Z"
+pushed_at: "2026-10-26T18:23:59Z"
 ---
 ## What it is
 MCP server for querying and analyzing urban data from the Sofia municipality CKAN portal. Provides tools for dataset search, retrieval, preview, summarization, and faceted browsing.

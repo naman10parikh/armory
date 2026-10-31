@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-16T03:20:50Z"
+pushed_at: "2026-10-29T17:32:53Z"
 ---
 ## What it is
 Automates WorldQuant BRAIN alpha research workflows, including simulation, reference search, and alpha submission through MCP tools.

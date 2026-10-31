@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T09:19:07Z"
+pushed_at: "2026-10-28T15:39:40Z"
 ---
 ## What it is
 Enables AI assistants to query UK property data including EPCs, sale history, planning, flood risk, council tax, demographics, and more via the Homedata API.

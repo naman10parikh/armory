@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T15:49:20Z"
+pushed_at: "2026-10-27T09:36:56Z"
 ---
 ## What it is
 Enables AI agents to query Austria's entire company register (Firmenbuch) in plain language, providing official master data, annual accounts, and key ratios from a multi-tenant MCP server.

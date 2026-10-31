@@ -8,12 +8,12 @@ source_url: https://github.com/etnperlong/firefly-iii-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 90
+stars: 91
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 23
+forks: 24
 pushed_at: "2025-06-12T15:31:53Z"
 ---
 ## What it is

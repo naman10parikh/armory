@@ -8,14 +8,14 @@ source_url: https://github.com/Human-Agent-Society/reef
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 7697
+stars: 7779
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 714
-pushed_at: "2026-10-24T11:19:54Z"
+forks: 731
+pushed_at: "2026-10-31T11:55:49Z"
 ---
 ## What it is
 Infrastructure for continually self‑improving agents

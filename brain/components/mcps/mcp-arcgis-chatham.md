@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T22:28:32Z"
+pushed_at: "2026-10-30T07:31:43Z"
 ---
 ## What it is
 Enables querying Chatham County, Georgia open geospatial datasets (parcels, addresses, zoning, public works) through ArcGIS Feature Services, with tools to search datasets, query layers, and retrieve layer schema.

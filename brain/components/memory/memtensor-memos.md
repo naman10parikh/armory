@@ -8,14 +8,14 @@ source_url: https://github.com/MemTensor/MemOS
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 12065
+stars: 12206
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 1091
-pushed_at: "2026-10-23T12:02:17Z"
+forks: 1100
+pushed_at: "2026-10-29T11:26:35Z"
 ---
 ## What it is
 Use when memory should persist across tasks and be reused, not just retrieved once per conversation.

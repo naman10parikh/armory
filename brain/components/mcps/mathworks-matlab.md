@@ -8,12 +8,12 @@ source_url: https://github.com/matlab/matlab-mcp-core-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1715
+stars: 1744
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 139
-pushed_at: "2026-10-15T18:21:48Z"
+forks: 141
+pushed_at: "2026-10-30T11:53:13Z"
 ---
 ## What it is
 MCP server `MATLAB`, catalogued on PulseMCP. Run MATLAB using AI applications with the official MCP server from MathWorks, enabling code execution, evaluation, and static analysis

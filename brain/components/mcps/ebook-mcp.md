@@ -8,7 +8,7 @@ source_url: https://github.com/onebirdrocks/ebook-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 395
+stars: 396
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-19T09:07:43Z"
+pushed_at: "2026-10-30T16:18:42Z"
 ---
 ## What it is
 Provides 25 tools to manage tasks, projects, organizations, comments, notifications, and activity on the TaskHub platform via Claude Code.

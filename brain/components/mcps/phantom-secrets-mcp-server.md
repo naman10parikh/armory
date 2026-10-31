@@ -8,13 +8,13 @@ source_url: https://github.com/ashlrai/phantom-secrets
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-10-24T11:55:16Z"
+forks: 5
+pushed_at: "2026-10-31T13:29:36Z"
 ---
 ## What it is
 Enables AI coding tools to securely manage secrets via MCP tools for vault operations, diagnostics, and cloud sync, ensuring real keys never enter the LLM context.

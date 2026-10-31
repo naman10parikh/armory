@@ -8,13 +8,13 @@ source_url: https://github.com/gusgordon/ignav-skill
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-27T20:04:17Z"
+pushed_at: "2026-10-28T15:23:10Z"
 ---
 ## What it is
 Provides live flight prices, booking links, and airport lookup via a hosted MCP server. Enables search for flights and direct booking URL retrieval.

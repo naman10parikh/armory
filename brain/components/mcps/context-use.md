@@ -8,13 +8,13 @@ source_url: https://github.com/massimoalbarello/context-use
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T18:50:28Z"
+pushed_at: "2026-10-28T23:59:04Z"
 ---
 ## What it is
 Private knowledge base with Markdown pages and assets, exposed via MCP for agent access.

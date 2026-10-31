@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T04:33:33Z"
+pushed_at: "2026-10-31T04:25:17Z"
 ---
 ## What it is
 Enables querying and interacting with Adobe VIP Marketplace Partner API documentation through structured tools and prompts, allowing users to search endpoints, validate requests, generate code, and get operational tips.

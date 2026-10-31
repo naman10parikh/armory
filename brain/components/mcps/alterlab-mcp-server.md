@@ -8,13 +8,13 @@ source_url: https://github.com/RapierCraft/alterlab-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-22T04:32:24Z"
+pushed_at: "2026-10-30T13:34:51Z"
 ---
 ## What it is
 Enables web scraping, structured data extraction, and screenshot capture with automatic anti-bot bypass, supporting JavaScript rendering, proxy rotation, and tiered pricing.

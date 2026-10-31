@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-09T23:25:41Z"
+pushed_at: "2026-10-31T09:36:06Z"
 ---
 ## What it is
 MCP server `Universal LSP`, catalogued on PulseMCP. Universal Language Server Protocol integration for AI coding assistants.

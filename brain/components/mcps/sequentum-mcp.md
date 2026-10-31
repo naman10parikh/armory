@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T14:25:54Z"
+pushed_at: "2026-10-30T14:24:08Z"
 ---
 ## What it is
 Connects AI assistants to Sequentum for managing web scraping agents, including agent creation, run automation, scheduling, and analytics. Provides tools for agent management, run control, file access, and cost tracking.

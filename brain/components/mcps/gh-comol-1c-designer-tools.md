@@ -8,11 +8,11 @@ source_url: https://github.com/comol/mcp_designer_tools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
+forks: 8
 pushed_at: "2026-10-01T05:51:43Z"
 ---
 ## What it is

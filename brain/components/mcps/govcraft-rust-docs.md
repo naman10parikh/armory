@@ -8,11 +8,11 @@ source_url: https://github.com/govcraft/rust-docs-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 299
+stars: 300
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 38
+forks: 37
 pushed_at: "2025-11-24T19:44:06Z"
 ---
 ## What it is

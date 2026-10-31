@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-09T04:51:04Z"
+pushed_at: "2026-10-28T15:01:45Z"
 ---
 ## What it is
 MCP server `OpenStates`, catalogued on PulseMCP. Searches and retrieves U.S. state legislature bills, votes, legislators, and committee information via the OpenStates API.

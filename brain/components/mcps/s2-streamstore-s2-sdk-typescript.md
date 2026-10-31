@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
-stars: 35
+stars: 36
 forks: 11
-pushed_at: "2026-10-23T18:46:14Z"
+pushed_at: "2026-10-28T16:44:44Z"
 ---
 ## What it is
 Official MCP server for the S2.dev serverless stream platform.

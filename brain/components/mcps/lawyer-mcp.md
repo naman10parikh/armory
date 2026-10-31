@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-03T08:21:57Z"
+pushed_at: "2026-10-27T07:09:22Z"
 ---
 ## What it is
 Enables searching Korean court auction cases and personal case information via case numbers using headless browser automation of government websites.

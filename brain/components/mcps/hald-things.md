@@ -8,12 +8,12 @@ source_url: https://github.com/hald/things-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 620
+stars: 630
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 69
-pushed_at: "2026-10-23T15:48:09Z"
+forks: 71
+pushed_at: "2026-10-25T02:10:03Z"
 ---
 ## What it is
 MCP server `Things App`, catalogued on PulseMCP. Integrates with the Things task management app to enable natural language queries and updates for tasks, projects, and areas.

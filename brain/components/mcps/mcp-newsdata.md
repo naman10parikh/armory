@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-10T04:54:45Z"
+pushed_at: "2026-10-29T05:03:29Z"
 ---
 ## What it is
 Wraps the NewsData.io global news API, enabling AI agents to access and query global news data through natural language.

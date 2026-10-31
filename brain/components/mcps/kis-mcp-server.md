@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-31T12:24:12Z"
+pushed_at: "2026-10-26T15:29:05Z"
 ---
 ## What it is
 Enables Claude to trade Korean and overseas stocks, check balances, and search stock information through the Korea Investment & Securities Open API.

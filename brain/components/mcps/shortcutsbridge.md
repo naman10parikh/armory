@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T01:46:10Z"
+pushed_at: "2026-10-24T16:23:54Z"
 ---
 ## What it is
 MCP server that lets ChatGPT list, search, and run your Apple Shortcuts on your own Mac through a local agent and stateless relay.

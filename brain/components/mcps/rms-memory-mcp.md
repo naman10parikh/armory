@@ -8,13 +8,13 @@ source_url: https://github.com/max-ramas/rms-memory-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 40
+stars: 62
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-10-15T06:27:37Z"
+forks: 4
+pushed_at: "2026-10-28T20:54:48Z"
 ---
 ## What it is
 Persistent, local, cross-IDE memory for AI agents — markdown source of truth, LanceDB-powered semantic search, zero cloud dependency

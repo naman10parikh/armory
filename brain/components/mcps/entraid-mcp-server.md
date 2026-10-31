@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T10:16:21Z"
+pushed_at: "2026-10-26T02:58:27Z"
 ---
 ## What it is
 A FastMCP server for interacting with Microsoft Entra ID via the Microsoft Graph API, enabling management of users, groups, sign-in logs, MFA, applications, devices, conditional access, and more.

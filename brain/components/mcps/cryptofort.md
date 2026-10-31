@@ -8,13 +8,13 @@ source_url: https://github.com/bradley-t-t/cryptofort
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T23:16:05Z"
+pushed_at: "2026-10-28T03:40:44Z"
 ---
 ## What it is
 Encrypted-at-rest credential vault with MCP server for agent credential lookup and management.

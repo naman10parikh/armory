@@ -8,7 +8,7 @@ source_url: https://github.com/uw-syfi/TraceLab
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 155
+stars: 158
 eval_score: 1
 mentions: 1
 verified_at: 2026-10-11

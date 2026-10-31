@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-10-23T17:49:39Z"
+pushed_at: "2026-10-25T06:44:04Z"
 ---
 ## What it is
 MCP server `File Organizer`, catalogued on PulseMCP. Security-hardened file organizer with smart categorization, duplicate detection, and rollback support.

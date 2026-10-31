@@ -8,12 +8,12 @@ source_url: https://github.com/hainrixz/auto-crm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 80
+stars: 82
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 28
-pushed_at: "2026-04-07T04:20:00Z"
+forks: 30
+pushed_at: "2026-10-25T06:03:06Z"
 ---
 ## What it is
 MCP server `Auto CRM`, catalogued on PulseMCP. Self-customizing open-source CRM with AI-powered pipeline analysis running on local SQLite.

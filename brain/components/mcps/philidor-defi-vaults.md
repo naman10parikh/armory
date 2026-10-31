@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-30T18:06:17Z"
+pushed_at: "2026-10-29T11:13:37Z"
 ---
 ## What it is
 MCP server `Philidor DeFi Vault Risk Analytics`, catalogued on PulseMCP. Search 700+ DeFi vaults, compare risk scores, and analyze protocols across Morpho, Aave, Yearn, Beefy, and Spark.

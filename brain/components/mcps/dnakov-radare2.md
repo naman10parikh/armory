@@ -8,11 +8,11 @@ source_url: https://github.com/radareorg/radare2-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 331
+stars: 340
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 40
+forks: 42
 pushed_at: "2026-10-15T23:34:08Z"
 ---
 ## What it is

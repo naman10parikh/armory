@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-10-23T20:17:31Z"
+pushed_at: "2026-10-30T12:15:32Z"
 ---
 ## What it is
 MCP server `Unleash`, catalogued on PulseMCP. Manage feature flags and rollout strategies through the Unleash platform

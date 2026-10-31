@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-10-12T05:05:17Z"
+pushed_at: "2026-10-30T17:34:16Z"
 ---
 ## What it is
 MCP server `Agent Tool`, catalogued on PulseMCP. Encoding-aware, indentation-smart file tools for AI coding agents with SSH, SFTP, and 46 bundled tools.

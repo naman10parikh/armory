@@ -8,13 +8,13 @@ source_url: https://github.com/timescale/tiger-cli
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 126
+stars: 127
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 16
-pushed_at: "2026-10-24T00:40:53Z"
+forks: 17
+pushed_at: "2026-10-30T22:21:35Z"
 ---
 ## What it is
 Enables AI assistants to manage and query Tiger Cloud database services, including service lifecycle operations, database connections, and SQL execution.

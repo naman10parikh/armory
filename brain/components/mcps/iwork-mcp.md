@@ -8,12 +8,12 @@ source_url: https://github.com/reichenbach/iwork_mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 38
+stars: 41
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
+forks: 9
 pushed_at: "2026-10-20T12:25:21Z"
 ---
 ## What it is

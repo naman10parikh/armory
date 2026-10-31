@@ -8,13 +8,13 @@ source_url: https://github.com/chius-me/minecraft-admin-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T14:16:16Z"
+pushed_at: "2026-10-29T00:06:50Z"
 ---
 ## What it is
 A lightweight, self-hosted MCP server that provides a small set of administration tools for a single Minecraft Java Edition server, including whitelist management, broadcasting, kicking, backups, and monitoring, with secure RCON-based operations and audit logging.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-23T17:07:55Z"
+pushed_at: "2026-10-24T21:11:38Z"
 ---
 ## What it is
 MCP server for the Plane project management API, enabling issue retrieval, listing, commenting, state changes, and creation.

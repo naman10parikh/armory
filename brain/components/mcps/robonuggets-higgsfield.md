@@ -8,11 +8,11 @@ source_url: https://github.com/robonuggets/higgsfield-skill
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 68
+stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
+forks: 15
 pushed_at: "2026-05-01T04:31:07Z"
 ---
 ## What it is

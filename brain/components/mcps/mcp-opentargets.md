@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T20:15:18Z"
+pushed_at: "2026-10-29T05:28:03Z"
 ---
 ## What it is
 Enables querying disease/target/drug knowledge graph from Open Targets, supporting searches, profiles, and associations via natural language through the Pipeworx gateway.

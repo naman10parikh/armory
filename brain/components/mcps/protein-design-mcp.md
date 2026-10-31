@@ -8,12 +8,12 @@ source_url: https://github.com/jasonkim8652/protein-design-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 6
 pushed_at: "2026-10-01T20:49:46Z"
 ---
 ## What it is

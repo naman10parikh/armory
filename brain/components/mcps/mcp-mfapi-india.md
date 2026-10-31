@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T19:43:58Z"
+pushed_at: "2026-10-29T04:49:20Z"
 ---
 ## What it is
 Enables querying Indian mutual fund NAV data through MFAPI.in, providing net asset value information and fund details.

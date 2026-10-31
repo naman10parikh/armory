@@ -8,11 +8,11 @@ source_url: https://github.com/geezoria/flstudiomcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 9
 pushed_at: "2026-06-17T18:07:07Z"
 ---
 ## What it is

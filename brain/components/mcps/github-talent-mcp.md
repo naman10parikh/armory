@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-03T12:12:07Z"
+pushed_at: "2026-10-26T13:31:03Z"
 ---
 ## What it is
 MCP server that searches, scores, and ranks GitHub developers for technical recruiting.

@@ -8,12 +8,12 @@ source_url: https://github.com/JasonJarvan/Zhihu-Collections-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 186
+stars: 187
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 32
+forks: 31
 pushed_at: "2026-04-25T04:23:12Z"
 ---
 ## What it is

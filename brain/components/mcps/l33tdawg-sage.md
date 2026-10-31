@@ -8,12 +8,12 @@ source_url: https://github.com/l33tdawg/sage
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 257
+stars: 258
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 30
-pushed_at: "2026-10-24T07:53:07Z"
+pushed_at: "2026-10-31T12:22:13Z"
 ---
 ## What it is
 MCP server `SAGE`, catalogued on PulseMCP. Persistent, consensus-validated institutional memory infrastructure for AI agents with BFT validation and confidence scoring.

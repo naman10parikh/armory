@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T11:35:05Z"
+pushed_at: "2026-10-29T01:27:46Z"
 ---
 ## What it is
 Enables secure analysis of log files by listing, summarizing, and searching for error patterns, with defenses against path traversal, symlink attacks, and data leakage.

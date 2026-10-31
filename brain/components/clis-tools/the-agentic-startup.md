@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
-stars: 569
-forks: 69
-pushed_at: "2026-08-03T13:21:33Z"
+stars: 576
+forks: 70
+pushed_at: "2026-10-26T22:43:25Z"
 ---
 ## What it is
 A collection of agents, commands and output styles for shipping production code with Claude Code.

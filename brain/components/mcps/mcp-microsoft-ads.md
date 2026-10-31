@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-05T15:25:35Z"
+pushed_at: "2026-10-26T15:27:04Z"
 ---
 ## What it is
 Enables AI assistants to manage Microsoft Advertising accounts, including campaigns, ad groups, keywords, audiences, and reporting, with safety-first write controls such as opt-in mutations, draft-and-confirm workflows, spend ceilings, and audit logging.

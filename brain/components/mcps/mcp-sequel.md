@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-31T03:17:36Z"
+pushed_at: "2026-10-25T18:05:19Z"
 ---
 ## What it is
 MCP server for Claude that connects to MySQL, MariaDB, and SQLite databases. Query your databases using natural language.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T19:02:42Z"
+pushed_at: "2026-10-25T22:37:58Z"
 ---
 ## What it is
 Enables Claude to manage NinjaOne RMM infrastructure, including devices, patches, ticketing, and organizations through natural language commands.

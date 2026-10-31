@@ -8,7 +8,7 @@ source_url: https://github.com/markuspfundstein/mcp-obsidian
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4489
+stars: 4513
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

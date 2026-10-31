@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-10-19T02:28:09Z"
+pushed_at: "2026-10-26T08:09:13Z"
 ---
 ## What it is
 MCP server `Inkdrop`, catalogued on PulseMCP. Integrates with Inkdrop's note-taking application to enable searching, reading, creating, and updating Markdown notes directly within conversations through seven specialized tools for managing notes, notebooks, and tags.

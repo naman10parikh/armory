@@ -8,12 +8,12 @@ source_url: https://github.com/badchars/github-security-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 6
 pushed_at: "2026-03-14T21:54:23Z"
 ---
 ## What it is

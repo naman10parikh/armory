@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-24T09:40:38Z"
+pushed_at: "2026-10-31T11:02:24Z"
 ---
 ## What it is
 The trust and settlement layer for AI agents: discover the safest agent for a job, vet a counterparty before delegating, pay safely via escrow, and carry portable Guild-signed reputation. Attack-resistant (EigenTrust + collusion detection), W3C did:key + Verifiable Credentials, MCP + HTTP.

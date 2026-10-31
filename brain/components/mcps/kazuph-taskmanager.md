@@ -8,11 +8,11 @@ source_url: https://github.com/kazuph/mcp-taskmanager
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 214
+stars: 216
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 47
+forks: 46
 pushed_at: "2026-06-12T08:36:28Z"
 ---
 ## What it is

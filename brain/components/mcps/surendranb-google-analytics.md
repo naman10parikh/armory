@@ -8,12 +8,12 @@ source_url: https://github.com/surendranb/google-analytics-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 243
+stars: 244
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 49
-pushed_at: "2026-10-19T14:05:47Z"
+pushed_at: "2026-10-28T10:48:52Z"
 ---
 ## What it is
 MCP server `Google Analytics 4`, catalogued on PulseMCP. Integrates with Google Analytics 4 to retrieve metrics, dimensions, and customized reports with flexible date ranges for analyzing website performance and user behavior patterns.

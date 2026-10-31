@@ -8,12 +8,12 @@ source_url: https://github.com/brajendrak00068/openclaw-ai-video-editor
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-20T11:32:43Z"
+pushed_at: "2026-10-29T17:54:54Z"
 ---
 ## What it is
 MCP server `Levea`, catalogued on PulseMCP. AI video editor for autonomous clip generation, captioning, reframing, and export via cloud API.

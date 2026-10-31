@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T16:25:01Z"
+pushed_at: "2026-10-28T02:52:32Z"
 ---
 ## What it is
 MCP server for describing video, image, audio, and text using the Gemini 3.1 Flash Live API with persistent WebSocket sessions.

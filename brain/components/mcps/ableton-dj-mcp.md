@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-23T23:15:38Z"
+pushed_at: "2026-10-31T05:21:25Z"
 ---
 ## What it is
 Enables AI-assisted electronic music production in Ableton Live, with built-in genre theory for indie dance, tech house, melodic techno, and house music.

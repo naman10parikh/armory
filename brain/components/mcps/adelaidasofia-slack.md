@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-15T14:11:16Z"
+pushed_at: "2026-10-26T10:22:13Z"
 ---
 ## What it is
 MCP server `Slack (adelaidasofia)`, catalogued on PulseMCP. Multi-workspace Slack MCP with draft-and-confirm safety, vault auto-export, and triple-mode auth.

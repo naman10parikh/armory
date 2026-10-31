@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T21:57:15Z"
+pushed_at: "2026-10-30T20:01:26Z"
 ---
 ## What it is
 MCP server to access Barcelona events data via Pipeworx gateway.

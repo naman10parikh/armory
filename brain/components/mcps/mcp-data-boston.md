@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T03:50:17Z"
+pushed_at: "2026-10-30T01:14:35Z"
 ---
 ## What it is
 Enables querying City of Boston open data through the CKAN API, providing access to datasets from data.boston.gov via natural language.

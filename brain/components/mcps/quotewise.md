@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-02-16T04:33:11Z"
+pushed_at: "2026-10-30T21:59:10Z"
 ---
 ## What it is
 MCP server `Quotewise`, catalogued on PulseMCP. Semantic quote search across 600K+ quotes with attribution verification and source transparency.

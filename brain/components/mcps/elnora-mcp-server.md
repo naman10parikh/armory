@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T06:28:23Z"
+pushed_at: "2026-10-31T05:58:21Z"
 ---
 ## What it is
 Connects AI agents to the Elnora bioprotocol optimization platform, enabling generation, management, and optimization of wet-lab protocols through natural language.

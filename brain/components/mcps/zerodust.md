@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-19T14:45:03Z"
+pushed_at: "2026-10-25T12:59:13Z"
 ---
 ## What it is
 MCP server `ZeroDust`, catalogued on PulseMCP. Sweep native gas tokens to exactly zero across 25+ EVM chains via AI agents.

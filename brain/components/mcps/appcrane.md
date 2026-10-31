@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-23T18:24:00Z"
+pushed_at: "2026-10-31T12:08:16Z"
 ---
 ## What it is
 AppCrane is the self-hosted home for the apps your AI builds and your AI deploys. It exposes 35 appcrane_* MCP tools so any MCP client (Claude Code, Cursor, Codex) can run the full deploy lifecycle — create app, deploy to sandbox/production, manage secrets, stream logs, list releases, roll back — ev

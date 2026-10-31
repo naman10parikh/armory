@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-10-09T04:56:05Z"
+pushed_at: "2026-10-26T07:11:40Z"
 ---
 ## What it is
 An MCP server that lets AI assistants inspect and control Asterisk and FreeSWITCH PBX systems, enabling natural language queries about live switch status, channels, registrations, and call control.

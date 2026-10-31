@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-19T15:43:17Z"
+pushed_at: "2026-10-27T08:52:51Z"
 ---
 ## What it is
 Enables interaction with phpIPAM IP address management (IPAM) system, providing tools to manage IP sections, subnets, addresses, VLANs, and more through natural language.

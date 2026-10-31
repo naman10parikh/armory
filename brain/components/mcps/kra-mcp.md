@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T21:15:54Z"
+pushed_at: "2026-10-27T03:41:28Z"
 ---
 ## What it is
 Enables Kenya tax compliance through MCP tools for PAYE, VAT, PIN registration, and tax incentives.

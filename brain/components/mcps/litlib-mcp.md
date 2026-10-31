@@ -8,13 +8,13 @@ source_url: https://github.com/ganpingzhu904-dev/jlu-literature-agent-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-08-12T15:47:16Z"
+forks: 0
+pushed_at: "2026-10-29T06:19:43Z"
 ---
 ## What it is
 Read-only MCP server for managing academic literature acquisition workflows at Jilin University, providing precise access to Zotero metadata, PDF paths, paginated full text, and task status while enforcing legal OA and institutional access boundaries.

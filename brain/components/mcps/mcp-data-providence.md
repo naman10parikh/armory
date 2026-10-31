@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T04:02:44Z"
+pushed_at: "2026-10-29T02:41:39Z"
 ---
 ## What it is
 Enables querying and searching the Providence Open Data catalog via Socrata SoQL, including dataset search, data querying, and metadata retrieval.

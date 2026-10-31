@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-20T06:47:29Z"
+pushed_at: "2026-10-27T08:22:00Z"
 ---
 ## What it is
 讓AI助理直接查詢台灣公開資料，包括公司登記、詐騙查核與實價登錄，資料即時且附來源連結。

@@ -8,12 +8,12 @@ source_url: https://github.com/thijs-hakkenberg/archimate-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
+forks: 9
 pushed_at: "2026-05-05T11:51:03Z"
 ---
 ## What it is

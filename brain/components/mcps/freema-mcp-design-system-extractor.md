@@ -13,7 +13,7 @@ related: []
 tags: [mcp, developer-tools]
 stars: 72
 forks: 14
-pushed_at: "2026-09-19T11:39:34Z"
+pushed_at: "2026-10-25T07:19:13Z"
 ---
 ## What it is
 Extracts component information from Storybook design systems. Provides HTML, styles, props, dependencies, theme tokens and component metadata for AI-powered design system analysis.

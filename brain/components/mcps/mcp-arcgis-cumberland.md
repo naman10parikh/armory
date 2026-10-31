@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T22:29:32Z"
+pushed_at: "2026-10-30T07:32:37Z"
 ---
 ## What it is
 Enables searching and querying Cumberland County, NC open geospatial data (parcels, addresses, zoning, etc.) through ArcGIS Feature Services.

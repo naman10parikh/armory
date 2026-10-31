@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T00:14:27Z"
+pushed_at: "2026-10-30T00:14:40Z"
 ---
 ## What it is
 Enables AI agents to perform keyword, semantic, hybrid, and SQL retrieval over data stored on object storage or local paths, using a local embedding model without requiring an API key.

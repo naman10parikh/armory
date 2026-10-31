@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T03:57:08Z"
+pushed_at: "2026-10-30T07:41:54Z"
 ---
 ## What it is
 Enables searching and querying City of Mobile GIS open geospatial datasets, including parcels, zoning, and public works, via ArcGIS Feature Services.

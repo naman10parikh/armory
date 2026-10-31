@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T19:08:23Z"
+pushed_at: "2026-10-30T08:46:29Z"
 ---
 ## What it is
 Lets Claude Code route tasks, launch orchestrated runs, and retrieve evidence artifacts back into the chat via the AdaptOrch reliability kernel.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T21:26:49Z"
+pushed_at: "2026-10-31T13:11:49Z"
 ---
 ## What it is
 Enables operators to manage support desk operations, including case queues, customer relationships, and communications, through an agent-first MCP interface with exact lifecycle and authorization controls.

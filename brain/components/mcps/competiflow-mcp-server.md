@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T09:58:33Z"
+pushed_at: "2026-10-28T08:51:23Z"
 ---
 ## What it is
 Track competitors, run discovery, read the interpreted change feed, triage items, and pull workspace digests without leaving your AI client.

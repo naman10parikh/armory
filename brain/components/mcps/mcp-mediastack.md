@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T19:40:41Z"
+pushed_at: "2026-10-29T04:46:07Z"
 ---
 ## What it is
 Provides access to live news and media data via the Mediastack API, enabling queries for articles, sources, and categories through natural language or direct tool calls.

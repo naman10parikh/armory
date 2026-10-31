@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-13T07:25:38Z"
+pushed_at: "2026-10-28T18:52:57Z"
 ---
 ## What it is
 The official MCP Server for Cylera. Brings context about device inventory, threats, risks and utilization powered by the Cylera Partner API into an LLM.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T23:15:25Z"
+pushed_at: "2026-10-30T19:22:53Z"
 ---
 ## What it is
 Enables assistants to maintain an append-only memory for personal context that should not be stored in their built-in memory, with tools for noting, recalling, and compressing memories.

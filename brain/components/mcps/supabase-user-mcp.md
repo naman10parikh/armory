@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-20T20:08:34Z"
+pushed_at: "2026-10-27T22:38:09Z"
 ---
 ## What it is
 Enables AI agents to interact with application data as a specific user or agent while enforcing PostgreSQL Row Level Security, providing bounded tools for memory search, retrieval, and canonical mutation with an approval workflow.

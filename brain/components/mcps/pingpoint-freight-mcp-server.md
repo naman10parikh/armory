@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-20T04:16:25Z"
+pushed_at: "2026-10-25T15:36:45Z"
 ---
 ## What it is
 Provides real-time freight tracking and load visibility for logistics and AI agents: create loads, get live GPS positions, trip stats, and confirm deliveries via geofenced statuses.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-07-12T07:14:48Z"
+pushed_at: "2026-10-31T10:19:49Z"
 ---
 ## What it is
 MCP server `Java JDWP Debugger`, catalogued on PulseMCP. Gives AI agents full Java debugger control via JDWP with 40 tools for breakpoints, expression evaluation, and value mutation.

@@ -8,14 +8,14 @@ source_url: https://github.com/strukto-ai/mirage
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3717
+stars: 3756
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 274
-pushed_at: "2026-10-24T11:54:23Z"
+forks: 278
+pushed_at: "2026-10-31T13:05:41Z"
 ---
 ## What it is
 The World's First Virtual Terminal for AI Agents

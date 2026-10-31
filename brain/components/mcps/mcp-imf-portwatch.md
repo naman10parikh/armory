@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T19:15:31Z"
+pushed_at: "2026-10-30T00:48:42Z"
 ---
 ## What it is
 Provides global maritime trade and chokepoint signals from IMF PortWatch, free and without authentication.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T17:23:18Z"
+pushed_at: "2026-10-28T17:38:25Z"
 ---
 ## What it is
 Enables controlling a real Chrome browser from MCP hosts like Claude, with extension-based or CDP fallback, supporting tabs, navigation, interaction, and page reading tools.

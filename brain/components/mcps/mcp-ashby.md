@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T07:46:07Z"
+pushed_at: "2026-10-31T01:54:19Z"
 ---
 ## What it is
 Search and read public Ashby job boards for named companies, with filtering, full job details, and side-by-side compensation comparison. No API key required.

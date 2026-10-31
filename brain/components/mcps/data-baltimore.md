@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T03:49:40Z"
+pushed_at: "2026-10-29T02:30:51Z"
 ---
 ## What it is
 Access Baltimore open data (data.baltimorecity.gov) via ArcGIS REST API, enabling querying and retrieval of city datasets through natural language or direct tool calls.

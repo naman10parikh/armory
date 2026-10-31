@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-18T10:04:34Z"
+pushed_at: "2026-10-27T12:13:53Z"
 ---
 ## What it is
 Enables managing the full data quality lifecycle through Claude Desktop, including data exploration, profiling, validation, duplicate detection, reconciliation, workflows, schedules, and execution monitoring.

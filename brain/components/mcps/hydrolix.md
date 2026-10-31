@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-10-21T23:57:45Z"
+pushed_at: "2026-10-30T19:41:02Z"
 ---
 ## What it is
 MCP server `Hydrolix`, catalogued on PulseMCP. Connects to Hydrolix time-series databases through ClickHouse SQL queries with built-in safety guards and performance optimizations for analyzing large-scale log, metrics, and IoT data.

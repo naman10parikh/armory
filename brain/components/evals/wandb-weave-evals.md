@@ -8,13 +8,13 @@ source_url: https://github.com/wandb/weave
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 1142
+stars: 1145
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, wandb, experiment-tracking, scoring]
-forks: 181
-pushed_at: "2026-10-23T20:19:34Z"
+forks: 182
+pushed_at: "2026-10-31T00:17:46Z"
 mentions: 3
 ---
 ## What it is

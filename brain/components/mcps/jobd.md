@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T07:18:15Z"
+pushed_at: "2026-10-30T10:00:39Z"
 ---
 ## What it is
 jobd is a self-hostable, GPU-aware job broker that queues and routes shell commands across your own machines — picking workers by available VRAM and tool tags, streaming logs back, and surviving across sessions. It ships native MCP integration, so agents can submit, monitor, and control long-running

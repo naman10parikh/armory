@@ -8,13 +8,13 @@ source_url: https://github.com/Johnserf-Seed/SportteryAPI
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-23T16:45:13Z"
+pushed_at: "2026-10-31T13:00:44Z"
 ---
 ## What it is
 Cloudflare Worker REST API + local MCP server for China Sports Lottery football odds, providing live odds, derived probabilities, Kelly value, and parlay calculation.

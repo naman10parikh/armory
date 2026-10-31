@@ -8,13 +8,13 @@ source_url: https://github.com/sandbanks/agentic_ssh
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T07:05:33Z"
+pushed_at: "2026-10-25T17:45:21Z"
 ---
 ## What it is
 agentic_ssh is written in Rust and specifically engineered to provide agent-hardened, token-efficient, and asynchronous SSH orchestrations for AI agents. It automatically discovers hosts from your local SSH configurations, manages connection heartbeats, handles silent network dropouts, and supports 

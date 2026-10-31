@@ -8,12 +8,12 @@ source_url: https://github.com/mjknowles/matrix-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 56
+stars: 57
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 24
+forks: 25
 pushed_at: "2025-08-20T04:06:52Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T19:30:16Z"
+pushed_at: "2026-10-27T04:24:29Z"
 ---
 ## What it is
 Generates humorous LinkedIn posts from user achievements using a self-deprecating, vulnerable tone.

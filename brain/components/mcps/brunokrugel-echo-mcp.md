@@ -12,8 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
 stars: 12
-forks: 7
-pushed_at: "2026-08-25T16:44:50Z"
+forks: 8
+pushed_at: "2026-10-29T16:19:34Z"
 ---
 ## What it is
 A zero-configuration Go library to automatically expose any existing Echo web framework APIs as MCP tools.

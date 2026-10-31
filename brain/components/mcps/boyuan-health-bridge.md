@@ -8,12 +8,12 @@ source_url: https://github.com/yuanleaf-lab/boyuan-health-bridge
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 4
 pushed_at: "2026-08-12T18:33:27Z"
 ---
 ## What it is

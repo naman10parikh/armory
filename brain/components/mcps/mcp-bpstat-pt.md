@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-23T22:06:18Z"
+pushed_at: "2026-10-31T00:52:07Z"
 ---
 ## What it is
 MCP server for accessing BPstat (Banco de Portugal) statistics API without API keys. Enables querying Portuguese central bank data through natural language.

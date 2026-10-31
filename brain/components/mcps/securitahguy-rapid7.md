@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-14T17:02:32Z"
+pushed_at: "2026-10-27T09:34:05Z"
 ---
 ## What it is
 MCP server `Rapid7`, catalogued on PulseMCP. Queries vulnerability and threat data across Rapid7 InsightVM, InsightIDR, and Metasploit Pro using natural language.

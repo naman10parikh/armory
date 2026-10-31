@@ -8,11 +8,11 @@ source_url: https://github.com/zxzinn/opencti-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 40
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 18
+forks: 19
 pushed_at: "2026-08-03T01:14:56Z"
 ---
 ## What it is

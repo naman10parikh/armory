@@ -12,8 +12,8 @@ stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 16
-pushed_at: "2025-06-27T08:49:05Z"
+forks: 17
+pushed_at: "2026-10-30T07:10:11Z"
 ---
 ## What it is
 MCP server `Dappier (Real-Time Data Search)`, catalogued on PulseMCP. Connects AI assistants to real-time, rights-cleared data from trusted sources through search and recommendation tools for retrieving web results, financial information, and personalized content without leaving the conversation interface.

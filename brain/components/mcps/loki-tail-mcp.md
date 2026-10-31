@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T10:36:54Z"
+pushed_at: "2026-10-26T10:21:54Z"
 ---
 ## What it is
 An MCP server for Grafana Loki that enables LLMs to query, tail, and analyze logs, featuring fuzzy container-name matching, compact output, and tools for log patterns, volume, and label discovery. It can run as a local stdio server or a containerized HTTP service.

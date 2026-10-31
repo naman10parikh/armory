@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T05:58:04Z"
+pushed_at: "2026-10-30T16:18:00Z"
 ---
 ## What it is
 A fail-closed cryptographic gate for the MCP tool-call boundary that intercepts tools/call requests, evaluates a policy, and either forwards or denies the call with signed receipts, providing tamper-evident evidence for AI agent actions.

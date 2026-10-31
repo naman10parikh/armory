@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-24T03:46:49Z"
+pushed_at: "2026-10-31T01:02:54Z"
 ---
 ## What it is
 MCP server `Chess.com Stats`, catalogued on PulseMCP. Chess.com player profiles, game history, and tournament data via the Chess.com public API.

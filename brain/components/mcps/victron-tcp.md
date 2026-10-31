@@ -8,13 +8,13 @@ source_url: https://github.com/lubosstrejcek/victron-tcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-21T14:46:17Z"
+pushed_at: "2026-10-27T14:00:13Z"
 ---
 ## What it is
 Connect AI assistants to Victron Energy systems to read real-time solar, battery, grid, and inverter data from your local network via Modbus TCP or MQTT.

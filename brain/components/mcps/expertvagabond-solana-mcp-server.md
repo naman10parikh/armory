@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
-stars: 1
-forks: 1
-pushed_at: "2026-10-23T00:55:59Z"
+stars: 2
+forks: 2
+pushed_at: "2026-10-27T02:04:27Z"
 ---
 ## What it is
 25 tools for Solana blockchain — wallet management, SOL/SPL token transfers, SPL token creation and minting, account operations, and network switching (mainnet/devnet/testnet).

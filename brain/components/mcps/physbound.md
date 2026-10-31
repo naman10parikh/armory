@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-19T22:13:33Z"
+pushed_at: "2026-10-26T21:58:10Z"
 ---
 ## What it is
 MCP server `Physbound`, catalogued on PulseMCP. Validates RF link budgets, Shannon capacity, and noise floors against fundamental physical limits.

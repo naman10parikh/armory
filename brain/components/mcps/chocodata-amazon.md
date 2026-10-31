@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-06-02T16:56:07Z"
+pushed_at: "2026-10-27T10:20:09Z"
 ---
 ## What it is
 MCP server `Amazon Scraper API`, catalogued on PulseMCP. Scrape Amazon product listings, search results, and ASINs across 20 marketplaces via ChocoData's cloud scraping service.
