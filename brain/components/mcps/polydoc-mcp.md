@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-20T16:28:27Z"
+pushed_at: "2026-10-30T14:17:56Z"
 ---
 ## What it is
 MCP server that converts HTML or URLs to PDF, captures screenshots, and generates EU-compliant e-invoices (Factur-X/ZUGFeRD).

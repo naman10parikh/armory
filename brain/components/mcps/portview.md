@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-13T02:32:07Z"
+pushed_at: "2026-10-26T09:21:42Z"
 ---
 ## What it is
 See what's on your ports, then act on it. Diagnostic-first port viewer for Linux, MacOS and Windows.

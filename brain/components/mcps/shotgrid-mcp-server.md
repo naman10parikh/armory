@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-10-22T13:44:21Z"
+pushed_at: "2026-10-26T20:49:26Z"
 ---
 ## What it is
 Enables AI assistants to interact with Autodesk ShotGrid (Flow Production Tracking) for production tracking workflows. Provides 40+ tools for CRUD operations, batch processing, media, notes, and playlists.

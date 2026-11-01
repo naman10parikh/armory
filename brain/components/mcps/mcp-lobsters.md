@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T19:31:01Z"
+pushed_at: "2026-10-29T04:39:19Z"
 ---
 ## What it is
 Fetches trending and latest stories, individual stories with comments, and search by tags from Lobsters.

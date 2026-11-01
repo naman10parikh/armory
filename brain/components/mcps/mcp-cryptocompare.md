@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T04:02:03Z"
+pushed_at: "2026-10-31T08:34:07Z"
 ---
 ## What it is
 Enables fetching cryptocurrency prices, historical OHLC data, and news via CryptoCompare API through an MCP gateway.

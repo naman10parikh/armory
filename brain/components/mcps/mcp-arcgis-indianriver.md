@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T03:52:42Z"
+pushed_at: "2026-10-30T07:37:31Z"
 ---
 ## What it is
 Enables searching and querying Indian River County, Florida open geospatial datasets (parcels, addresses, zoning, public works) through natural language or direct tool calls.

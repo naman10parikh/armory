@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T16:42:38Z"
+pushed_at: "2026-10-29T13:34:26Z"
 ---
 ## What it is
 MCP server for managing AdGuard Home instances and AdGuardHome Sync with 33 tools across read, safe-write, and destructive operations, featuring three-tier write gating.

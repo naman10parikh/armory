@@ -8,13 +8,13 @@ source_url: https://github.com/hexo-ai/sia
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2162
+stars: 2163
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, evals]
-forks: 256
+forks: 255
 pushed_at: "2026-08-26T17:02:30Z"
 ---
 ## What it is

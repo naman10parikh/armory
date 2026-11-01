@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T19:55:56Z"
+pushed_at: "2026-10-26T01:01:01Z"
 ---
 ## What it is
 MCP server to search Rakuten Ichiba (Japan's largest e-commerce platform) for products, returning names, prices, URLs, shop info, reviews, and images via the official Rakuten API.

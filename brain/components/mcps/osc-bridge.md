@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-25T17:11:45Z"
+pushed_at: "2026-11-01T12:45:11Z"
 ---
 ## What it is
 OSC ↔ MIDI/SysEx bridge for 849 synths and DAWs — a MIDI MCP and OSC MCP.

@@ -8,12 +8,12 @@ source_url: https://github.com/stackloklabs/osv-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-10-23T19:02:00Z"
+pushed_at: "2026-10-30T18:18:02Z"
 ---
 ## What it is
 MCP server `OSV Vulnerability Database`, catalogued on PulseMCP. Integrates with the Open Source Vulnerabilities (OSV) database to enable querying vulnerabilities by package versions, commits, or IDs for security auditing and software composition analysis.

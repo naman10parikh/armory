@@ -8,13 +8,13 @@ source_url: https://github.com/kubeflow/mcp-apache-spark-history-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 205
+stars: 206
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 79
-pushed_at: "2026-10-20T19:01:07Z"
+forks: 82
+pushed_at: "2026-10-30T23:31:10Z"
 ---
 ## What it is
 Exposes Spark History Server data as tools for AI agents, enabling natural language querying of Spark applications, jobs, stages, and performance metrics.

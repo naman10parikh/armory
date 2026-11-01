@@ -8,12 +8,12 @@ source_url: https://github.com/aliyun/alibaba-cloud-ops-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 133
+stars: 137
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 40
-pushed_at: "2026-10-21T10:45:05Z"
+pushed_at: "2026-10-27T12:47:02Z"
 ---
 ## What it is
 MCP server `Alibaba Cloud`, catalogued on PulseMCP. Provides a bridge to Alibaba Cloud services for managing ECS instances, viewing resources, monitoring metrics, and configuring VPC networks through natural language commands

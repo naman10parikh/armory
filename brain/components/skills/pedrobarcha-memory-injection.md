@@ -8,13 +8,13 @@ source_url: https://github.com/PedroBarcha/Memory-injection
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 mentions: 1
 verified_at: 2026-10-25
 related: []
 tags: [sentinel-feed, skills]
-forks: 0
+forks: 1
 pushed_at: "2026-06-18T21:41:03Z"
 ---
 ## What it is

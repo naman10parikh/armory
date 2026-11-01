@@ -8,12 +8,12 @@ source_url: https://github.com/rul1an/assay
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-25T19:02:36Z"
+pushed_at: "2026-11-01T09:15:14Z"
 ---
 ## What it is
 MCP server `Assay`, catalogued on PulseMCP. Firewall for tool calls with policy enforcement, audit trails, and replayable evidence bundles.

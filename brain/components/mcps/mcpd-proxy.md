@@ -8,13 +8,13 @@ source_url: https://github.com/mozilla-ai/mcpd-proxy
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-22T13:14:05Z"
+pushed_at: "2026-11-01T03:01:55Z"
 ---
 ## What it is
 An MCP server that acts as a proxy between IDEs and the mcpd daemon, exposing all mcpd-managed MCP servers through a unified interface.

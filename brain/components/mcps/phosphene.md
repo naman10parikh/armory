@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 74
-pushed_at: "2026-10-22T10:48:47Z"
+forks: 76
+pushed_at: "2026-11-01T09:27:41Z"
 ---
 ## What it is
 An MCP server for intimate human-AI relationships that enables AI to create and manage daily tasks, challenges, and surprise tasks, with user completion tracking, points, and rewards.

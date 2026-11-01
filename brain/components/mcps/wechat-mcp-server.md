@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-03-22T07:53:32Z"
+pushed_at: "2026-10-27T04:48:37Z"
 ---
 ## What it is
 Enables Claude Code to read encrypted WeChat chat history from local database, search messages, view sessions and contacts.

@@ -8,13 +8,13 @@ source_url: https://github.com/dodopayments/context-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 84
+stars: 87
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 22
-pushed_at: "2026-10-22T09:34:57Z"
+forks: 23
+pushed_at: "2026-10-31T04:49:41Z"
 ---
 ## What it is
 Self-hosted MCP server that indexes documentation from various sources and makes it searchable by AI assistants via the Model Context Protocol and REST API.

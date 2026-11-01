@@ -8,13 +8,13 @@ source_url: https://github.com/heybearc/mcp-server-proxmox
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-15T11:06:10Z"
+pushed_at: "2026-10-26T12:16:22Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for Proxmox Virtual Environment that enables AI assistants to manage virtual machines, containers, nodes, and resources through natural language interactions.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-05T14:34:12Z"
+pushed_at: "2026-10-31T14:34:05Z"
 ---
 ## What it is
 Enables safely inspecting and configuring Hikvision cameras via a local MCP server, with permission enforcement, read-only diagnostics, and supervised mutation flows.

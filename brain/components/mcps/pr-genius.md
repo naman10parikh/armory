@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-10-24T02:15:01Z"
+forks: 3
+pushed_at: "2026-10-27T09:13:14Z"
 ---
 ## What it is
 Evidence-backed PR contribution advisor MCP server. Analyzes PR contribution strategy using 550+ real case studies across 33 repos. Provides risk assessment, anti-pattern detection, and maintainer policy guidance.

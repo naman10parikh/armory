@@ -8,14 +8,14 @@ source_url: https://github.com/elizaOS/eliza
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 19653
+stars: 19749
 eval_score: null
 mentions: 3
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 5824
-pushed_at: "2026-10-25T19:17:42Z"
+forks: 5856
+pushed_at: "2026-11-01T14:09:47Z"
 ---
 ## What it is
 Open source agentic operating system

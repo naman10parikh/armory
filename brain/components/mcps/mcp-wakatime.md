@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T22:18:58Z"
+pushed_at: "2026-10-29T19:51:04Z"
 ---
 ## What it is
 Enables querying WakaTime coding activity data including summaries, stats, durations, and commits through an MCP server integrated with Pipeworx gateway.

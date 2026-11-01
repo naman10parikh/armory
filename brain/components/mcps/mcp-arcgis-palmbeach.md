@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T03:58:43Z"
+pushed_at: "2026-10-30T07:43:21Z"
 ---
 ## What it is
 Enables AI agents to search and query Palm Beach County GIS open geospatial data (parcels, addresses, zoning, etc.) via ArcGIS Feature Services, using natural language or direct tool calls.

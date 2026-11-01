@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-15T17:06:48Z"
+pushed_at: "2026-10-28T23:16:20Z"
 ---
 ## What it is
 MCP server that integrates with VictoriaMetrics vmanomaly API to enable AI-assisted anomaly detection, model management, and configuration generation.

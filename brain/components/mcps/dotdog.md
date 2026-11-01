@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-07-28T03:29:04Z"
+pushed_at: "2026-11-01T10:43:51Z"
 ---
 ## What it is
 Enables AI agents to query and traverse spec genomes via MCP tools, providing structured access to entities, relationships, and graph data.

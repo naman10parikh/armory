@@ -8,11 +8,11 @@ source_url: https://github.com/gensecaihq/pfsense-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 112
+stars: 116
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 22
+forks: 24
 pushed_at: "2026-10-09T10:16:04Z"
 ---
 ## What it is

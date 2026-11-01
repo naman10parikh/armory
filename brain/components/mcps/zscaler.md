@@ -8,12 +8,12 @@ source_url: https://github.com/zscaler/zscaler-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 35
-pushed_at: "2026-10-12T06:21:42Z"
+pushed_at: "2026-10-27T16:02:00Z"
 ---
 ## What it is
 MCP server `Zscaler Zero Trust Exchange`, catalogued on PulseMCP. Manage Zscaler Zero Trust Exchange via 280+ tools across ZPA, ZIA, ZDX, ZCC, EASM, and more.

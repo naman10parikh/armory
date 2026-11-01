@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T20:09:23Z"
+pushed_at: "2026-10-28T19:42:26Z"
 ---
 ## What it is
 Enables real-time search across Google, News, Reddit, YouTube, and Amazon using Scavio's unified API, with secure key injection for Arcade agents.

@@ -8,12 +8,12 @@ source_url: https://github.com/Storybloq/storybloq
 license: PolyForm Noncommercial License 1.0.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 781
+stars: 787
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 37
+forks: 36
 pushed_at: "2026-10-19T07:56:30Z"
 ---
 ## What it is

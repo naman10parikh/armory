@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 34
-pushed_at: "2026-10-05T14:41:15Z"
+pushed_at: "2026-10-30T16:43:36Z"
 ---
 ## What it is
 MCP server `pyATS Network Automation`, catalogued on PulseMCP. Provides a containerized bridge between AI and Cisco network devices through the pyATS automation framework, enabling device configuration, troubleshooting, and monitoring tasks via SSH connections.

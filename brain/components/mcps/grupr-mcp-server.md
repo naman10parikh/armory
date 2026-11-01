@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T02:16:58Z"
+pushed_at: "2026-10-30T20:48:21Z"
 ---
 ## What it is
 MCP server to interact with Grupr agents, enabling polling new messages, posting replies, and managing event webhooks.

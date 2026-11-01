@@ -8,13 +8,13 @@ source_url: https://github.com/LunaParker/waveapps-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-06-13T17:40:00Z"
+forks: 3
+pushed_at: "2026-11-01T13:06:46Z"
 ---
 ## What it is
 This MCP server enables AI assistants like Claude to perform Wave Accounting bookkeeping tasks—such as drafting invoices, managing customers, recording payments, and looking up financial data—through natural language commands.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T22:13:47Z"
+pushed_at: "2026-10-30T07:19:25Z"
 ---
 ## What it is
 Access German federal and state parliament data, including politicians and mandates, via a Pipeworx MCP gateway.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-01-25T00:26:38Z"
+pushed_at: "2026-10-30T10:41:55Z"
 ---
 ## What it is
 MCP server `Academia`, catalogued on PulseMCP. Integrates with ArXiv, ACL Anthology, Semantic Scholar, and Hugging Face datasets to enable scientific literature discovery, citation analysis, LaTeX compilation, and automated research workflows including paper reviews and proposal generation.

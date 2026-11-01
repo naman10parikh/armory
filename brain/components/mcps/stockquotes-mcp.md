@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-05-04T19:49:10Z"
+pushed_at: "2026-10-31T22:50:31Z"
 ---
 ## What it is
 Provides real-time stock quotes, historical data, and stock search via Yahoo Finance, enabling AI assistants to access and analyze financial market data.

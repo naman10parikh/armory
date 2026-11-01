@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-27T20:42:16Z"
+pushed_at: "2026-10-29T05:15:08Z"
 ---
 ## What it is
 MCP server `NVD`, catalogued on PulseMCP. Query the National Vulnerability Database for CVE security vulnerability data.

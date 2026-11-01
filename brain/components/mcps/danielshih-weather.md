@@ -8,11 +8,11 @@ source_url: https://github.com/isdaniel/mcp_weather_server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 36
+forks: 35
 pushed_at: "2026-09-09T12:55:20Z"
 ---
 ## What it is

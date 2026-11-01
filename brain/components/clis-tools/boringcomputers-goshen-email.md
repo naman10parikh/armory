@@ -8,14 +8,14 @@ source_url: https://github.com/boringcomputers/goshen-email
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 177
+stars: 181
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 15
-pushed_at: "2026-10-22T21:05:46Z"
+forks: 17
+pushed_at: "2026-10-29T21:06:28Z"
 ---
 ## What it is
 Email for AI agents, hosted on Cloudflare. Inboxes with an HTTP API, MCP server, SDKs, and a dashboard.

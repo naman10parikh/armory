@@ -12,8 +12,8 @@ stars: 201
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 62
-pushed_at: "2026-10-23T00:39:18Z"
+forks: 61
+pushed_at: "2026-10-29T00:29:08Z"
 ---
 ## What it is
 MCP server `Awesome Copilot`, catalogued on PulseMCP. Stores Copilot customizations from the Awesome Copilot repository.

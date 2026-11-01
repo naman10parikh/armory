@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-24T17:38:40Z"
+pushed_at: "2026-10-28T15:39:53Z"
 ---
 ## What it is
 Description: Query India's open geo data in natural language. 8 tools: list layers, inspect schemas, filter/group any column, point-in-polygon locate, spatial proximity search, downloads in 5 formats. Covers admin boundaries (state to village), city wards, forests, rivers, dams, hospitals, highways,

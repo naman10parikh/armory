@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T22:00:23Z"
+pushed_at: "2026-10-29T06:42:31Z"
 ---
 ## What it is
 Wraps LibreTranslate API to enable translation capabilities for AI agents via MCP.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T19:52:51Z"
+pushed_at: "2026-10-29T04:59:39Z"
 ---
 ## What it is
 Enables access to National Bank of Poland (NBP) financial data, including exchange rates and other economic indicators, through the NBP Web API without requiring an API key.

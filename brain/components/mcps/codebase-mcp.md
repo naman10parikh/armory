@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2025-10-07T13:36:57Z"
+pushed_at: "2026-10-29T16:41:32Z"
 ---
 ## What it is
 An open-source AI-powered development assistant that connects Claude Desktop to your codebase via MCP, enabling semantic code search, AI-assisted editing, and persistent memory without additional subscriptions.

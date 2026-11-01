@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-25T16:37:03Z"
+pushed_at: "2026-11-01T13:52:32Z"
 ---
 ## What it is
 Enables AI agents to design parametric 3D CAD models of industrial machinery end-to-end, including modeling, assembly, validation, and manufacturing drawings, through 79 MCP tools.

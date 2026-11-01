@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T22:06:22Z"
+pushed_at: "2026-10-29T06:50:31Z"
 ---
 ## What it is
 Wraps the UK Police Data API to enable querying crime data, police forces, and other UK police information through natural language.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-10T11:14:25Z"
+pushed_at: "2026-10-29T21:07:30Z"
 ---
 ## What it is
 MCP server `Allure TestOps`, catalogued on PulseMCP. Read-only access to Allure TestOps projects, launches, test cases, and test results via the Allure REST API.

@@ -8,13 +8,13 @@ source_url: https://github.com/agntcy/oasf
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 339
+stars: 341
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
-forks: 47
+forks: 48
 pushed_at: "2026-10-22T14:00:15Z"
 ---
 ## What it is

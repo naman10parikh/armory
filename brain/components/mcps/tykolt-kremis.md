@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
-stars: 15
+stars: 16
 forks: 4
-pushed_at: "2026-10-21T08:41:06Z"
+pushed_at: "2026-10-26T08:10:29Z"
 ---
 ## What it is
 Deterministic knowledge graph MCP server. Single binary, zero LLM/embedding calls in the bridge, BLAKE3 state hashing, canonical KREX export for byte-identical audit. Local-first via redb (ACID). **Alpha**.

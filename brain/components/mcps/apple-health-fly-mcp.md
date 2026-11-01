@@ -8,13 +8,13 @@ source_url: https://github.com/fjcabello/apple-health-fly-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T15:29:17Z"
+pushed_at: "2026-11-01T10:40:34Z"
 ---
 ## What it is
 MCP server that enables LLMs to query Apple Health data such as steps, heart rate, sleep, and workouts via natural language, with secure cloud access through OAuth.

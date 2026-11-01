@@ -8,12 +8,12 @@ source_url: https://github.com/fabdendev/dagster-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
+forks: 12
 pushed_at: "2026-09-28T08:37:13Z"
 ---
 ## What it is

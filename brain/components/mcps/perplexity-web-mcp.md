@@ -8,7 +8,7 @@ source_url: https://github.com/jacob-bd/perplexity-web-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 205
+stars: 206
 eval_score: null
 verified_at: 2026-05-27
 related: []

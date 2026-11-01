@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T21:40:41Z"
+pushed_at: "2026-10-31T20:58:59Z"
 ---
 ## What it is
 Enables searching, viewing metadata, and querying tabular resources from Netherlands Open Data (data.overheid.nl) via CKAN.

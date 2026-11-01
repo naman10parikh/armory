@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T12:47:13Z"
+pushed_at: "2026-10-31T10:14:26Z"
 ---
 ## What it is
 Enables discovery and summarization of French education data, including school directories, geocoded establishments, IPS, Parcoursup, and exam datasets.

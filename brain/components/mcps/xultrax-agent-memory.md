@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-27T02:59:54Z"
+pushed_at: "2026-11-01T01:59:08Z"
 ---
 ## What it is
 MCP server `Agent Memory`, catalogued on PulseMCP. Markdown-based persistent memory for AI agents using readable, editable, grep-able files.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T23:34:31Z"
+pushed_at: "2026-10-29T06:31:23Z"
 ---
 ## What it is
 Enables querying StockTwits social data for stocks, including recent messages, sentiment, and user feeds, without needing an API key.

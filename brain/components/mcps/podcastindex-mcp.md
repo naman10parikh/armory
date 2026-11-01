@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-20T17:39:45Z"
+pushed_at: "2026-10-31T23:52:37Z"
 ---
 ## What it is
 MCP server for the Podcast Index API — search podcasts, track appearances, monitor trending shows, check feed health

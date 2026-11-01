@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-19T12:32:45Z"
+pushed_at: "2026-10-30T20:13:01Z"
 ---
 ## What it is
 MCP server for connecting LLMs to Itential Platform, enabling network automation, workflow orchestration, and platform monitoring.

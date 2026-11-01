@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T23:27:06Z"
+pushed_at: "2026-11-01T05:27:52Z"
 ---
 ## What it is
 Phylogenetic inference server driving IQ-TREE 2, always returning per-clade bootstrap support plus model selection, tree comparison, and alignment simulation, with detailed diagnostics like conflicting clades and model uncertainty.

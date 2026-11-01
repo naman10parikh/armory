@@ -8,13 +8,13 @@ source_url: https://github.com/fliptheweb/fatsecret-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-08-01T04:25:15Z"
+pushed_at: "2026-11-01T11:05:27Z"
 ---
 ## What it is
 Enables AI assistants to search foods and recipes, track diet, manage weight, and log exercise using the FatSecret Platform API.

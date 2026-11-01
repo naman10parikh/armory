@@ -8,11 +8,11 @@ source_url: https://github.com/tickernelz/mcp-web-search
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 5
 pushed_at: "2026-05-03T08:45:25Z"
 ---
 ## What it is

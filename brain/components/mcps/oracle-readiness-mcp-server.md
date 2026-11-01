@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T15:20:56Z"
+pushed_at: "2026-10-31T18:42:53Z"
 ---
 ## What it is
 Scrapes Oracle Cloud readiness pages and provides MCP tools to search, filter, compare, and report on features across HCM, ERP, SCM, and Service pillars.

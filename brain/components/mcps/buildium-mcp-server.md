@@ -8,13 +8,13 @@ source_url: https://github.com/luthersystems/mcp-server-buildium
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-23T19:56:44Z"
+pushed_at: "2026-10-30T19:56:27Z"
 ---
 ## What it is
 Enables interaction with Buildium property management software through natural language, supporting operations on associations, leases, rentals, tenants, and more.

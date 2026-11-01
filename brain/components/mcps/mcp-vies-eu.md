@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T22:17:58Z"
+pushed_at: "2026-10-29T07:06:21Z"
 ---
 ## What it is
 Validates EU VAT numbers using the European Commission's VIES system, enabling VAT number checks through natural language queries via the Pipeworx gateway.

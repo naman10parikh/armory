@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T11:57:12Z"
+pushed_at: "2026-10-27T04:36:20Z"
 ---
 ## What it is
 Enables AI to control DekTec StreamXpress for TS stream playback, including file loading, rate adjustment, and TS-over-IP/RF output configuration through remote control.

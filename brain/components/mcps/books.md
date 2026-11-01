@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-23T22:05:23Z"
+pushed_at: "2026-10-31T00:51:15Z"
 ---
 ## What it is
 MCP server `Books`, catalogued on PulseMCP. Book metadata, editions, and author data from the Open Library API.

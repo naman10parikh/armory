@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T13:08:34Z"
+pushed_at: "2026-10-28T18:21:44Z"
 ---
 ## What it is
 Enables read-only access to the AtlasRepo decision catalog, allowing users to search for evidence-backed projects, tools, and repository decision records without loading the full catalog.

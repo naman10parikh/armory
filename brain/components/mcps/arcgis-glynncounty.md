@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T22:32:55Z"
+pushed_at: "2026-10-30T07:36:04Z"
 ---
 ## What it is
 Enables searching and querying Glynn County, Georgia open geospatial datasets (parcels, zoning, addresses, public works) via ArcGIS Feature Services, with tools for dataset discovery, layer querying, and schema inspection.

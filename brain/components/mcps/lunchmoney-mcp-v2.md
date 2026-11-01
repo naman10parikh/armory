@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-02-22T14:15:06Z"
+pushed_at: "2026-10-28T09:57:46Z"
 ---
 ## What it is
 Enables managing personal finances through the Lunch Money API, including transactions, categories, budgets, and accounts via natural language commands.

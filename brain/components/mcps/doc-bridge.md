@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-25T16:43:07Z"
+pushed_at: "2026-11-01T13:31:53Z"
 ---
 ## What it is
 Turn repository documentation into deterministic, executable handoffs for coding agents through MCP, CLI, and CI—without an LLM or API key.

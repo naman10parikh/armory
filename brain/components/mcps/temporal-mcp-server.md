@@ -8,12 +8,12 @@ source_url: https://github.com/GethosTheWalrus/temporal-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 63
+stars: 65
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 20
+forks: 19
 pushed_at: "2026-10-22T23:23:04Z"
 ---
 ## What it is

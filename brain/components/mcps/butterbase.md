@@ -8,13 +8,13 @@ source_url: https://github.com/butterbase-ai/butterbase
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3031
+stars: 3034
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 166
-pushed_at: "2026-10-25T15:35:06Z"
+pushed_at: "2026-11-01T05:17:49Z"
 ---
 ## What it is
 AI-native open-source backend-as-a-service. Manage Postgres with RLS, auth, file storage, serverless TypeScript functions, durable objects, realtime, KV, AI gateway, and RAG via MCP, either HTTP at /mcp on a self-hosted instance or stdio with npx @butterbase/mcp.

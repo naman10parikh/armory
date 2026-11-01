@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-23T19:38:33Z"
+pushed_at: "2026-10-27T16:44:36Z"
 ---
 ## What it is
 MCP server `Cortex`, catalogued on PulseMCP. Integrates with Cortex's engineering intelligence platform to query service catalogs, team structures, scorecards, and organizational metadata for streamlined access to service ownership and incident response information.

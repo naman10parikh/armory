@@ -8,13 +8,13 @@ source_url: https://github.com/SikamikanikoBG/homelab-monitor
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 226
+stars: 230
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 36
-pushed_at: "2026-10-25T11:24:35Z"
+pushed_at: "2026-11-01T13:19:33Z"
 ---
 ## What it is
 Plug-and-play homelab dashboard in one container — GPU, local-AI VRAM, Docker, systemd, host health. Built-in read-only MCP server so AI agents can explore it too.

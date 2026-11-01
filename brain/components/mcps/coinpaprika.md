@@ -8,12 +8,12 @@ source_url: https://github.com/coinpaprika/coinpaprika-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 29
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-10-21T20:00:29Z"
+forks: 1
+pushed_at: "2026-10-29T10:58:40Z"
 ---
 ## What it is
 MCP server `CoinPaprika`, catalogued on PulseMCP. Provides real-time cryptocurrency market data, tickers, exchange information, OHLCV candles, and price conversions for 8,000+ coins.

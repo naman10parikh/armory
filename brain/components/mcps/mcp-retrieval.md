@@ -8,12 +8,12 @@ source_url: https://github.com/Role1776/mcp-retrieval
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 2
 pushed_at: "2026-10-24T13:54:48Z"
 ---
 ## What it is

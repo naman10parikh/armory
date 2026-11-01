@@ -8,7 +8,7 @@ source_url: https://github.com/koba789/human-in-the-loop
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 230
+stars: 231
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -8,12 +8,12 @@ source_url: https://github.com/adityaarsharma/librecrawl-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-10-22T08:19:01Z"
+pushed_at: "2026-10-26T07:51:31Z"
 ---
 ## What it is
 MCP server `LibreCrawl`, catalogued on PulseMCP. MCP server wrapping LibreCrawl for SEO auditing and web crawling.

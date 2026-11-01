@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T21:46:56Z"
+pushed_at: "2026-10-29T06:31:54Z"
 ---
 ## What it is
 MCP server for STRING-DB that enables querying protein-protein interaction networks, functional enrichment, and homology mappings.

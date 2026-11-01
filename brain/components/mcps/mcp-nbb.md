@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-19T08:12:20Z"
+pushed_at: "2026-10-26T08:13:44Z"
 ---
 ## What it is
 Enables discovery and retrieval of National Bank of Belgium statistical data across 221 SDMX dataflows, with search, descriptions, custom queries, and comparisons of economic indicators.

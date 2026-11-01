@@ -8,13 +8,13 @@ source_url: https://github.com/modelscope/FunASR
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20812
+stars: 20900
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2093
-pushed_at: "2026-10-22T17:56:34Z"
+forks: 2102
+pushed_at: "2026-11-01T13:56:43Z"
 ---
 ## What it is
 Local speech recognition MCP server powered by FunASR and SenseVoice. It provides privacy-friendly audio transcription through a transcribe_audio tool.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T22:18:09Z"
+pushed_at: "2026-10-29T07:06:35Z"
 ---
 ## What it is
 Enables searching videos, retrieving channel videos, and category videos from Vimeo via MCP.

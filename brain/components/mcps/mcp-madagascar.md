@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T12:49:30Z"
+pushed_at: "2026-10-31T10:13:58Z"
 ---
 ## What it is
 MCP server for discovering Madagascar-focused humanitarian, weather, risk, and open-data sources, with tools to search datasets, fetch alerts, and get weather information.

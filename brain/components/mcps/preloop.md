@@ -8,12 +8,12 @@ source_url: https://github.com/preloop/preloop
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 80
+stars: 82
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 22
-pushed_at: "2026-10-25T19:13:12Z"
+pushed_at: "2026-11-01T14:11:47Z"
 ---
 ## What it is
 MCP server `Preloop`, catalogued on PulseMCP. Event-driven automation platform that provides issue tracking and project management tools for GitHub, GitLab, and Jira integrations with human-in-the-loop approval workflows for sensitive operations.

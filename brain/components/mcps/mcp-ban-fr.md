@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T04:12:04Z"
+pushed_at: "2026-10-30T20:00:33Z"
 ---
 ## What it is
 Provides access to France's official keyless geocoding API (Base Adresse Nationale) for address lookup and reverse geocoding.

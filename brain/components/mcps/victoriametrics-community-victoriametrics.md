@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 35
-pushed_at: "2026-10-25T15:05:35Z"
+pushed_at: "2026-11-01T09:14:25Z"
 ---
 ## What it is
 MCP server `VictoriaMetrics`, catalogued on PulseMCP. Provides direct access to VictoriaMetrics monitoring instances for querying metrics, exploring time series data, analyzing alerting rules, and debugging configurations without requiring online access.

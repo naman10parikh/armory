@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T21:06:05Z"
+pushed_at: "2026-10-29T05:49:45Z"
 ---
 ## What it is
 Enables AI agents to query Finnish Patent and Registration Office (PRH) open data via YTJ, using natural language through the Pipeworx gateway.

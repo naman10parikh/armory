@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T21:09:06Z"
+pushed_at: "2026-10-29T05:54:11Z"
 ---
 ## What it is
 Enables decoding QR code images to extract embedded text or URLs via api.qrserver.com.

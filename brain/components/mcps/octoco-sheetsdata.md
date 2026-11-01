@@ -8,12 +8,12 @@ source_url: https://github.com/octoco-ltd/sheetsdata-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-21T23:14:59Z"
+pushed_at: "2026-10-30T14:40:18Z"
 ---
 ## What it is
 MCP server `SheetsData`, catalogued on PulseMCP. Provides structured electronic component datasheet data including specs, pinouts, and package information.

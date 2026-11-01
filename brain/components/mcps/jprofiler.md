@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-26T11:44:32Z"
+pushed_at: "2026-10-26T14:46:37Z"
 ---
 ## What it is
 MCP server `JProfiler`, catalogued on PulseMCP. Integrates JProfiler's Java profiling with AI coding agents to analyze CPU hotspots, memory allocations, JDBC queries, and HTTP calls.

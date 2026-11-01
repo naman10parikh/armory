@@ -8,13 +8,13 @@ source_url: https://github.com/chrischall/skylight-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 15
-pushed_at: "2026-10-24T00:04:35Z"
+forks: 16
+pushed_at: "2026-10-31T00:04:27Z"
 ---
 ## What it is
 MCP server for Skylight Calendar family hub, providing over 100 tools to manage events, lists, chores, meals, messages, albums, and device settings.

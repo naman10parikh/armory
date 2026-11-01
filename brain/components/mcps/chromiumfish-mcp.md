@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-05T07:32:23Z"
+pushed_at: "2026-10-29T15:08:38Z"
 ---
 ## What it is
 Enables MCP clients to control a ChromiumFish browser for web automation, including page management, navigation, interaction, and content extraction.

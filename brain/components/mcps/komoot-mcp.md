@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-06-09T17:47:18Z"
+pushed_at: "2026-10-30T09:28:06Z"
 ---
 ## What it is
 Enables users to interact with Komoot for managing tours, planning routes, exporting GPX/FIT, and accessing highlights and user profile.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T21:13:39Z"
+pushed_at: "2026-10-29T05:35:33Z"
 ---
 ## What it is
 Enables programmatic queries against the OpenStreetMap database using the Overpass API.

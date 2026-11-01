@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T07:13:46Z"
+pushed_at: "2026-10-31T07:49:56Z"
 ---
 ## What it is
 A personal remote MCP server that lets Claude read and update Trello boards, with safety guards and access control.

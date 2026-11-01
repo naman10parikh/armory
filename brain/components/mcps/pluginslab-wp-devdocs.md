@@ -8,11 +8,11 @@ source_url: https://github.com/pluginslab/wp-devdocs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 76
+stars: 75
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2026-05-18T21:29:38Z"
 ---
 ## What it is

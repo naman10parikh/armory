@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T02:32:51Z"
+pushed_at: "2026-10-26T18:59:54Z"
 ---
 ## What it is
 An MCP server that provides real-time surf intelligence, including wave quality scoring, beach discovery, session planning, and forecast analysis across 12+ global data sources. It turns AI assistants into surf-savvy copilots for finding the perfect wave.

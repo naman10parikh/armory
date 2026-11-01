@@ -8,13 +8,13 @@ source_url: https://github.com/truman-t3/keyshot-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T03:00:00Z"
+pushed_at: "2026-10-28T01:22:02Z"
 ---
 ## What it is
 A local MCP server that enables AI apps to control KeyShot Studio for scene inspection, rendering, model import, material application, camera adjustment, environment setting, and scene saving.

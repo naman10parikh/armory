@@ -8,12 +8,12 @@ source_url: https://github.com/estruyf/vscode-demo-time
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 248
+stars: 249
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 20
-pushed_at: "2026-10-25T18:58:30Z"
+pushed_at: "2026-10-27T16:15:42Z"
 ---
 ## What it is
 MCP server `Demo Time`, catalogued on PulseMCP. Interact with Demo Time documentation and automate presentation demos

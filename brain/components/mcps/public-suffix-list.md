@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T21:07:57Z"
+pushed_at: "2026-10-29T05:52:29Z"
 ---
 ## What it is
 Provides tools to split domains into subdomain, registrable domain, and public suffix using the Public Suffix List.

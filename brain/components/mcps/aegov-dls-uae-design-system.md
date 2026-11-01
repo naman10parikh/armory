@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T14:03:33Z"
+pushed_at: "2026-10-31T12:09:35Z"
 ---
 ## What it is
 UAE Design System (AEGOV DLS) for AI assistants: component catalogue, design tokens, UAE PASS & Emirates ID scaffolds, snippet validation.

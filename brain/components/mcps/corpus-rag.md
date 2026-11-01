@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T19:32:30Z"
+pushed_at: "2026-10-27T12:21:59Z"
 ---
 ## What it is
 MCP server for local RAG over personal notes, PDFs, and documents, enabling plain-English querying and hybrid search with multi-hop context expansion.

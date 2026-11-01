@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T03:51:17Z"
+pushed_at: "2026-10-29T03:15:58Z"
 ---
 ## What it is
 ESPN MCP — keyless multi-sport live scores, teams, and news via ESPN's public site API.

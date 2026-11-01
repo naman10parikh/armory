@@ -8,13 +8,13 @@ source_url: https://github.com/haidrau/sentinel-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-07-11T07:52:12Z"
+forks: 1
+pushed_at: "2026-11-01T11:44:58Z"
 ---
 ## What it is
 Real-time Shopee competitor price monitoring, powered by AI agents through the Model Context Protocol (MCP). Enables AI agents to track, analyze, and alert on price movements across Shopee Southeast Asia.

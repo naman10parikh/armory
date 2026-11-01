@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-23T20:34:17Z"
+pushed_at: "2026-10-31T23:45:33Z"
 ---
 ## What it is
 Proxies stdio MCP clients to Inbin's remote MCP endpoint, exposing tools to list inboxes, search and retrieve events, and inspect schemas.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-17T05:28:00Z"
+pushed_at: "2026-10-30T19:53:49Z"
 ---
 ## What it is
 Provides durable project context for coding agents, including project maps, session history, and explicit memories, all stored locally.

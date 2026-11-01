@@ -8,12 +8,12 @@ source_url: https://github.com/srmorete/mobile-device-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 52
+stars: 53
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-08-02T08:09:06Z"
 ---
 ## What it is

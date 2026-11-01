@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T03:59:28Z"
+pushed_at: "2026-10-30T07:44:04Z"
 ---
 ## What it is
 Access City of Pflugerville geospatial open data (parcels, zoning, utilities) via ArcGIS Feature Services with search, query, and schema introspection tools.

@@ -11,8 +11,8 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, home-automation]
-stars: 77
-forks: 11
+stars: 79
+forks: 12
 pushed_at: "2026-05-23T18:28:13Z"
 ---
 ## What it is

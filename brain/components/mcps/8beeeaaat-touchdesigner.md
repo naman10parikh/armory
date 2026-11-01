@@ -8,12 +8,12 @@ source_url: https://github.com/8beeeaaat/touchdesigner-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 602
+stars: 608
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 65
-pushed_at: "2026-10-12T06:04:02Z"
+forks: 66
+pushed_at: "2026-10-31T03:45:30Z"
 ---
 ## What it is
 MCP server `TouchDesigner`, catalogued on PulseMCP. Provides a bridge between TouchDesigner visual programming environment and natural language commands, enabling real-time control of nodes, properties, and Python script execution for interactive digital art and installations.

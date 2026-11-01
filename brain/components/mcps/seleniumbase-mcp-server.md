@@ -8,13 +8,13 @@ source_url: https://github.com/seleniumbase/seleniumbase-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T01:54:55Z"
+pushed_at: "2026-10-30T16:56:23Z"
 ---
 ## What it is
 Enables MCP clients like Claude Desktop and Claude Code to drive a real browser with SeleniumBase automation. Offers three variants: WebDriver-based general automation, Pure CDP Mode for bot-detection bypass, and a broad SB() API with MFA and downloads.

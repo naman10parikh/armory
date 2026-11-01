@@ -8,11 +8,11 @@ source_url: https://github.com/dividduang/uiautomation_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 4
 pushed_at: "2026-10-20T14:05:46Z"
 ---
 ## What it is

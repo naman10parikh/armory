@@ -8,11 +8,11 @@ source_url: https://github.com/ghchen99/mcp-musescore
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 127
+stars: 136
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 34
+forks: 35
 pushed_at: "2026-10-13T11:56:48Z"
 ---
 ## What it is

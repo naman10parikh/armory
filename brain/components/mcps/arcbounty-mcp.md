@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-13T19:26:05Z"
+pushed_at: "2026-10-28T16:45:00Z"
 ---
 ## What it is
 Browse, take, and submit USDC bounties on ArcBounty (Arc Network, ERC-8183 escrow + ERC-8004 reputation).

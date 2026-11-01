@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-04T11:31:45Z"
+pushed_at: "2026-11-01T12:23:27Z"
 ---
 ## What it is
 Enables querying Yandex Wordstat search statistics, including frequency, related queries, seasonality, and regional distribution, through natural language in AI clients.

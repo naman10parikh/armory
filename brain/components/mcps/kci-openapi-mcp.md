@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-25T08:23:08Z"
+pushed_at: "2026-11-01T10:25:33Z"
 ---
 ## What it is
 Enables searching and harvesting Korean Citation Index literature, citation indices, and references via REST API and OAI-PMH.

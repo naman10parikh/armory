@@ -8,11 +8,11 @@ source_url: https://github.com/ethanhenrickson/math-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 190
+stars: 191
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
+forks: 16
 pushed_at: "2026-05-30T16:32:13Z"
 ---
 ## What it is

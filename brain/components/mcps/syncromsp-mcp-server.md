@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T23:33:36Z"
+pushed_at: "2026-10-30T13:05:58Z"
 ---
 ## What it is
 Enables AI assistants to fully access and manage SyncroMSP resources including tickets, customers, assets, invoices, and over 30 resource types through 180+ API endpoints.

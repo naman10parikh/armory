@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T10:01:00Z"
+pushed_at: "2026-10-29T09:33:21Z"
 ---
 ## What it is
 Search and retrieve US consumer product recalls from the CPSC (Consumer Product Safety Commission) via MCP, with STDIO or Streamable HTTP.

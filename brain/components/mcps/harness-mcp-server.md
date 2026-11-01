@@ -8,13 +8,13 @@ source_url: https://github.com/harness/mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 110
+stars: 111
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 89
-pushed_at: "2026-10-25T10:02:16Z"
+forks: 94
+pushed_at: "2026-10-30T16:37:53Z"
 ---
 ## What it is
 An MCP server that gives AI agents full access to the Harness.io platform through 11 consolidated tools and 207 resource types.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-30T18:34:24Z"
+pushed_at: "2026-11-01T04:24:52Z"
 ---
 ## What it is
 Zero-dependency MCP server that provides AI models with secure read/write/exec access to local files and directories over HTTP and SSE, designed to be tunneled via ngrok for integration with Claude Web.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-19T23:45:54Z"
+pushed_at: "2026-10-29T22:02:27Z"
 ---
 ## What it is
 MCP server `QuickBooks Online`, catalogued on PulseMCP. Provides AI access to QuickBooks Online for managing customers, invoices, expenses, payments, and financial reports.

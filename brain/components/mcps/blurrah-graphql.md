@@ -8,7 +8,7 @@ source_url: https://github.com/blurrah/mcp-graphql
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 408
+stars: 407
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

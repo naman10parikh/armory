@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T07:24:05Z"
+pushed_at: "2026-10-29T07:25:03Z"
 ---
 ## What it is
 MCP server for Spazio Genesi's attestation service that enables AI agents to attest, verify, and check digital works with full privacy, as file bytes never leave the device.

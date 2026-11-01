@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T22:25:42Z"
+pushed_at: "2026-10-29T07:17:10Z"
 ---
 ## What it is
 Enables access to World Bank Climate Change Knowledge Portal data through MCP, allowing AI agents to query climate information using natural language.

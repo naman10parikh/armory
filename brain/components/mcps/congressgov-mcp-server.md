@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/congressgov-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
-forks: 0
-pushed_at: "2026-10-25T09:48:06Z"
+forks: 1
+pushed_at: "2026-11-01T14:01:38Z"
 ---
 ## What it is
 Access U.S. congressional data - bills, votes, members, committees - through MCP.

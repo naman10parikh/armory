@@ -8,13 +8,13 @@ source_url: https://github.com/uditk2/review-assist
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T04:34:44Z"
+pushed_at: "2026-10-30T04:37:09Z"
 ---
 ## What it is
 Captures a coding agent's session into an Intent Document, enabling guided and verifiable pull-request reviews on GitHub.

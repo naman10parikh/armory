@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-14T19:20:50Z"
+pushed_at: "2026-10-27T08:52:29Z"
 ---
 ## What it is
 MCP server `TradeStaq`, catalogued on PulseMCP. AI-powered crypto trading tools for strategies, backtesting, bots, and portfolio management.

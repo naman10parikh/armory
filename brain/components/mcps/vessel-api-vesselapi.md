@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-08T00:31:07Z"
+pushed_at: "2026-11-01T00:28:24Z"
 ---
 ## What it is
 MCP server `VesselAPI`, catalogued on PulseMCP. Maritime vessel tracking with port events, emissions data, and navigation information.

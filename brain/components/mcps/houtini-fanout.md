@@ -8,12 +8,12 @@ source_url: https://github.com/houtini-ai/fanout-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-10-24T18:18:25Z"
+forks: 4
+pushed_at: "2026-10-31T10:33:24Z"
 ---
 ## What it is
 MCP server `Fan Out Query Analyser`, catalogued on PulseMCP. Content gap analysis tool that identifies which user queries your content answers and which it misses

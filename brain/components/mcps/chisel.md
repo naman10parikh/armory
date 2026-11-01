@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-09T02:15:16Z"
+pushed_at: "2026-11-01T12:15:36Z"
 ---
 ## What it is
 MCP server for test impact analysis and code intelligence. Maps tests to code and git history to determine impacted tests, risk scores, and ownership for AI coding agents.

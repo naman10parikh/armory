@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T22:06:52Z"
+pushed_at: "2026-10-29T06:56:46Z"
 ---
 ## What it is
 Allows querying UN Sustainable Development Goals (SDG) indicators data from the UN Statistics Division through the Pipeworx MCP gateway, supporting natural language questions via the ask_pipeworx tool.

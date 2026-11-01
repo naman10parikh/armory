@@ -8,13 +8,13 @@ source_url: https://github.com/Cohexa-ai/agent-coherence
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-10-25T18:57:31Z"
+forks: 5
+pushed_at: "2026-10-26T17:39:40Z"
 ---
 ## What it is
 Coherence guard for shared files: when two agents write the same file, the stale writer is denied instead of silently overwriting, then reacquires and retries. Single-host, TLA+-verified.

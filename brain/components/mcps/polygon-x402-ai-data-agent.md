@@ -8,13 +8,13 @@ source_url: https://github.com/nohosa001-pixel/x402-cleanweb-agent
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T11:29:27Z"
+pushed_at: "2026-11-01T02:05:17Z"
 ---
 ## What it is
 Zero-human Web3 micropayment MCP agent for LLM-ready clean web scraping, YouTube transcripts, PDF paper extraction, and plain text on Polygon Mainnet.

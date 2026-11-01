@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-20T18:44:15Z"
+pushed_at: "2026-10-29T16:13:03Z"
 ---
 ## What it is
 Enables Claude Code to delegate implementation tasks to Antigravity CLI and OpenCode, run them fully autonomously, and then review and gate the results.

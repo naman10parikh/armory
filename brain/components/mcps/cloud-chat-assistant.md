@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T11:42:09Z"
+pushed_at: "2026-10-27T20:46:22Z"
 ---
 ## What it is
 Multi-cloud MCP server that exposes cloud AI models as tools for AI CLI agents, supporting streaming, conversation history, parallel multi-model queries, and dynamic model discovery.

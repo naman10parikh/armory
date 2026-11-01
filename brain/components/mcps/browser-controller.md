@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-25T12:51:09Z"
+pushed_at: "2026-11-01T01:56:02Z"
 ---
 ## What it is
 Gives MCP-compatible AI agents direct control of your real browser with existing sessions, logins, and cookies. Supports multiple agents concurrently with tab targeting.

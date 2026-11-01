@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
 stars: 65
-forks: 19
+forks: 20
 pushed_at: "2026-08-05T19:16:07Z"
 ---
 ## What it is

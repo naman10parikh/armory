@@ -8,13 +8,13 @@ source_url: https://github.com/obsidianmd/obsidian-api
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2340
+stars: 2349
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 276
+forks: 275
 pushed_at: "2026-10-05T19:06:25Z"
 ---
 ## What it is

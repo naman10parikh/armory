@@ -12,8 +12,8 @@ stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
-pushed_at: "2026-10-25T08:41:21Z"
+forks: 13
+pushed_at: "2026-10-28T18:33:57Z"
 ---
 ## What it is
 MCP server `Splunk`, catalogued on PulseMCP. Integrates with Splunk Enterprise through the Splunk SDK to provide search execution, health monitoring, user management, and alert analysis with automated troubleshooting workflows and OpenAI-powered analysis for DevOps teams and security analysts.

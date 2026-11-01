@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T20:11:28Z"
+pushed_at: "2026-10-29T05:23:26Z"
 ---
 ## What it is
 Enables querying citation data from OpenCitations, including references, citations, citation counts, and bibliographic metadata for DOIs.

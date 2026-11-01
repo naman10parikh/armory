@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T21:16:41Z"
+pushed_at: "2026-10-29T05:58:17Z"
 ---
 ## What it is
 Wraps the Recreation Information Database (RIDB) API to enable querying recreation.gov data such as campsites, facilities, and permits via natural language.

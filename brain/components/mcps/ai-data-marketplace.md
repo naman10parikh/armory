@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T03:23:21Z"
+pushed_at: "2026-10-30T15:48:45Z"
 ---
 ## What it is
 x402-paywalled data marketplace for AI agents with 10 endpoints: B2B leads, crypto candles, government contracts, foreclosures, GitHub developer emails, flight data, crypto signals, gig leads, and market research. Multi-chain USDC payments on Base, Arbitrum, and Solana. MCP tools for autonomous agen

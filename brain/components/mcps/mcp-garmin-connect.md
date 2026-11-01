@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T07:58:00Z"
+pushed_at: "2026-10-27T18:16:21Z"
 ---
 ## What it is
 An MCP server that gives LLMs access to Garmin Connect data, including training, recovery, sleep, stress, VO2 Max, and running summaries for personalized fitness advice.

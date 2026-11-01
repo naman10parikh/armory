@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T01:43:59Z"
+pushed_at: "2026-10-29T01:44:25Z"
 ---
 ## What it is
 MCP server for logical reasoning that turns facts into formal proofs using a deterministic inference engine with Prolog.

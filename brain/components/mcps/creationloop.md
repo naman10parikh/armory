@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-20T03:12:49Z"
+pushed_at: "2026-10-28T14:43:06Z"
 ---
 ## What it is
 Remote MCP server that exposes CreationLoop's canonical company information and allows submitting design-partner applications on behalf of a user.

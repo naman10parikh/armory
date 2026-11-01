@@ -8,13 +8,13 @@ source_url: https://github.com/microsoft/markitdown
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 192145
+stars: 193343
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: 2
-forks: 14349
-pushed_at: "2026-10-23T17:04:06Z"
+forks: 14487
+pushed_at: "2026-10-28T15:33:14Z"
 ---
 ## What it is
 MCP server `MarkItDown`, catalogued on PulseMCP. Integrates with Microsoft's MarkItDown tool to convert documents like PDFs, Word files, and PowerPoint presentations into clean, structured markdown for content extraction and analysis workflows.

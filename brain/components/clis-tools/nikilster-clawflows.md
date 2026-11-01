@@ -8,13 +8,13 @@ source_url: https://github.com/nikilster/clawflows
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1724
+stars: 1725
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 207
+forks: 206
 pushed_at: "2026-07-19T07:09:04Z"
 ---
 ## What it is

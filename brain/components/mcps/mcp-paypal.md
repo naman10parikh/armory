@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T20:57:43Z"
+pushed_at: "2026-10-29T05:39:54Z"
 ---
 ## What it is
 Enables read-only access to PayPal transactions, orders, invoices, and disputes for auditing cash flow and tracking billing.

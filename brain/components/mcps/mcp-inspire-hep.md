@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T19:17:00Z"
+pushed_at: "2026-10-29T04:16:16Z"
 ---
 ## What it is
 Enables searching and retrieving high-energy physics literature, authors, institutions, and conferences from INSPIRE-HEP.

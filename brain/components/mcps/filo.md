@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-25T08:57:15Z"
+pushed_at: "2026-11-01T11:01:53Z"
 ---
 ## What it is
 An unofficial MCP server that gives AI assistants structured access to Italy's Design System .italia, including components, design tokens, usage guidelines, and GitHub issues, updated nightly.

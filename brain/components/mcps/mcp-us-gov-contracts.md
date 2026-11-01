@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T22:09:11Z"
+pushed_at: "2026-10-29T06:59:51Z"
 ---
 ## What it is
 Provides access to US state and local government contracts and spending data, normalized across jurisdictions, without requiring an API key.

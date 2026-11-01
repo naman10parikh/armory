@@ -8,11 +8,11 @@ source_url: https://github.com/wangyihang/multipass-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
+forks: 3
 pushed_at: "2026-03-05T02:41:04Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/theastraway/mind-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-21T15:29:47Z"
+pushed_at: "2026-10-28T03:29:12Z"
 ---
 ## What it is
 Enables AI agents to persist and retrieve memories via a personal knowledge graph, with tools for emotional intelligence, CRM, life management, social features, self-training, and autonomous insights.

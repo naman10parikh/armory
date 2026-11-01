@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-27T16:40:46Z"
+pushed_at: "2026-11-01T06:26:31Z"
 ---
 ## What it is
 MCP Server for Swiss federal law — search the SR, monitor legal changes, and query BBl/treaties via Claude Desktop or Claude.ai.

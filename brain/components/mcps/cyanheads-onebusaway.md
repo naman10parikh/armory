@@ -8,12 +8,12 @@ source_url: https://github.com/cyanheads/onebusaway-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-09T06:58:38Z"
+pushed_at: "2026-10-26T07:26:46Z"
 ---
 ## What it is
 MCP server `OneBusAway`, catalogued on PulseMCP. Provides real-time transit data via OneBusAway APIs — stop and route discovery, GPS-tracked arrival predictions, vehicle positions, and full-day timetables.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T08:08:21Z"
+pushed_at: "2026-10-26T17:15:45Z"
 ---
 ## What it is
 Local-first MCP server providing deterministic Flutter/Dart static analysis, knowledge search, and project review with structured insights and confidence-based findings over an indexed SQLite store of official repositories.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-01-28T03:30:45Z"
+pushed_at: "2026-10-31T07:26:08Z"
 ---
 ## What it is
 MCP server `Steam Review`, catalogued on PulseMCP. Integrates with Steam's API to fetch and analyze game reviews and information, enabling customizable queries for player feedback, sentiment tracking, and game details.

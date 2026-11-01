@@ -8,12 +8,12 @@ source_url: https://github.com/Byron993/google_scholar_mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 85
+stars: 86
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
+forks: 13
 pushed_at: "2025-05-10T16:26:20Z"
 ---
 ## What it is

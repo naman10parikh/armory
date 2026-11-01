@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T17:06:34Z"
+pushed_at: "2026-10-31T16:14:47Z"
 ---
 ## What it is
 Sovereign, MIT-licensed MCP server wrapping the fallbond SDK for secure, offline-capable professional-service workflow management with Ed25519-signed transactions.

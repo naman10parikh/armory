@@ -12,8 +12,8 @@ verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
 stars: 274
-forks: 52
-pushed_at: "2026-10-23T19:27:45Z"
+forks: 53
+pushed_at: "2026-10-30T16:13:24Z"
 ---
 ## What it is
 A well-maintained and feature-enhanced fork of the glorious `ccflare` usage dashboard by @snipeship (which at the time of writing has not had an update in a few months). `better-ccflare` builds on this foundation with some performance enhancements, extended provider support, bug fixes, Docker deployment, and more.

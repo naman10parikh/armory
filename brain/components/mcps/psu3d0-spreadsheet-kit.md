@@ -8,11 +8,11 @@ source_url: https://github.com/PSU3D0/agent-spreadsheet
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 62
+stars: 63
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 9
 pushed_at: "2026-09-09T01:03:17Z"
 ---
 ## What it is

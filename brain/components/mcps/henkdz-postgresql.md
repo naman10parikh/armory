@@ -8,11 +8,11 @@ source_url: https://github.com/henkdz/postgresql-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 202
+stars: 203
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 36
+forks: 37
 pushed_at: "2026-06-23T13:25:45Z"
 ---
 ## What it is

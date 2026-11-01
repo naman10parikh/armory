@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-22T12:52:04Z"
+pushed_at: "2026-10-26T10:31:23Z"
 ---
 ## What it is
 MCP server `Carbone`, catalogued on PulseMCP. Generate PDF, DOCX, XLSX, and PPTX from templates and JSON data.

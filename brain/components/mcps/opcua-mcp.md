@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-05T15:57:52Z"
+pushed_at: "2026-10-28T15:56:31Z"
 ---
 ## What it is
 Enables LLMs to read, write, browse, search, and subscribe to live data on OPC-UA industrial automation servers, with caching, discovery index, and support for stdio or HTTP transports.

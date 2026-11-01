@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-03-04T06:10:03Z"
+pushed_at: "2026-10-28T13:58:45Z"
 ---
 ## What it is
 Semantic browser automation MCP server that lets AI agents control a browser using natural language, handling navigation, form filling, data extraction, and more without CSS selectors.

@@ -8,11 +8,11 @@ source_url: https://github.com/mahdin75/gis-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 198
+stars: 202
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 55
+forks: 54
 pushed_at: "2026-08-21T06:27:40Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T22:26:44Z"
+pushed_at: "2026-10-31T08:29:04Z"
 ---
 ## What it is
 Provides geographic coordinate geometry tools for computing midpoints, centroids, bounding boxes, and point-in-bbox tests, enabling spatial calculations via natural language queries.

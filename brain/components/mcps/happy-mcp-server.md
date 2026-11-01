@@ -8,13 +8,13 @@ source_url: https://github.com/Happy-Technologies-LLC/happy-platform-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 56
+stars: 55
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 35
-pushed_at: "2026-10-22T12:43:06Z"
+pushed_at: "2026-10-26T15:24:08Z"
 ---
 ## What it is
 A metadata-driven MCP server that auto-generates 480+ tools across 160+ ServiceNow tables, with multi-instance support, natural language search, and local script development.

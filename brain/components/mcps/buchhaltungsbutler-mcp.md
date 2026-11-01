@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-06T10:19:50Z"
+pushed_at: "2026-10-29T06:52:17Z"
 ---
 ## What it is
 Enables AI assistants to manage BuchhaltungsButler bookkeeping through all 48 API endpoints, with safety-categorized tools for read, write, and destructive operations.

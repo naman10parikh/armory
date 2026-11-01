@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-08-27T01:55:10Z"
+pushed_at: "2026-10-29T06:38:54Z"
 ---
 ## What it is
 Generates comprehensive API test plans (positive, negative, and boundary/edge cases) from endpoint metadata using LLMs, and exports them as Excel files.

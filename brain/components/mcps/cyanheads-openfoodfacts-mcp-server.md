@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-25T09:57:07Z"
+forks: 1
+pushed_at: "2026-10-31T03:02:18Z"
 ---
 ## What it is
 Look up food products by barcode, search by ingredient or nutrition filter, compare products side-by-side, and browse the canonical tag vocabulary via MCP.

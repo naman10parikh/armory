@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 14
-pushed_at: "2026-10-23T08:14:38Z"
+pushed_at: "2026-10-29T08:59:26Z"
 ---
 ## What it is
 MCP server `Decodo Web Scraper`, catalogued on PulseMCP. Professional web scraping with geo-targeting, anti-detection, and specialized tools for Google, Amazon, and Reddit

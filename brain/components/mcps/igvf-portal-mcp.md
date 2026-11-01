@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T13:01:43Z"
+pushed_at: "2026-10-30T14:46:09Z"
 ---
 ## What it is
 Enables AI agents to search, filter, download files, and generate reports from the IGVF Data Portal using natural language commands.

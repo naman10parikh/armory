@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-10-25T15:02:51Z"
+pushed_at: "2026-10-31T10:39:34Z"
 ---
 ## What it is
 A Python-based agent that integrates research providers (OpenAI, Gemini, DR-Tulu, Open Deep Research) with Claude Code via the Model Context Protocol for automated deep research.

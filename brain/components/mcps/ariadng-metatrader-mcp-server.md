@@ -11,8 +11,8 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
-stars: 839
-forks: 271
+stars: 844
+forks: 272
 pushed_at: "2026-03-28T18:39:29Z"
 ---
 ## What it is

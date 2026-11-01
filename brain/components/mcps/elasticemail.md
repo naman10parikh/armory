@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-29T08:02:12Z"
+pushed_at: "2026-10-28T14:46:14Z"
 ---
 ## What it is
 MCP server `Elastic Email`, catalogued on PulseMCP. Turn your favourite AI tool into a personal email agent.

@@ -8,12 +8,12 @@ source_url: https://github.com/genaiwithms/twitter-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-10-01T07:25:46Z"
+pushed_at: "2026-10-26T11:55:02Z"
 ---
 ## What it is
 MCP server `Twitter`, catalogued on PulseMCP. Integrates with Twitter through OAuth 1.0a authentication to enable posting text and image tweets, searching for content, and managing threaded conversations with rate limiting protection

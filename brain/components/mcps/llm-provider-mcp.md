@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-25T16:44:39Z"
+pushed_at: "2026-11-01T14:09:27Z"
 ---
 ## What it is
 Local MCP server for asynchronous coding-agent delegation, enabling Claude Code or Codex to delegate tasks to Cursor, Pi, Codex, or Claude Code and collect results later.

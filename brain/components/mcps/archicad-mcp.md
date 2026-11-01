@@ -8,13 +8,13 @@ source_url: https://github.com/Boti-Ormandi/archicad-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-20T22:49:54Z"
+pushed_at: "2026-10-31T21:01:14Z"
 ---
 ## What it is
 MCP server for Archicad automation, enabling AI assistants to run Python scripts against running Archicad instances via the Tapir JSON API for complex workflows.

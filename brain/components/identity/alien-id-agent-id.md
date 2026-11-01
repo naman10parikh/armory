@@ -15,7 +15,7 @@ verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
 forks: 3
-pushed_at: "2026-10-14T09:23:58Z"
+pushed_at: "2026-10-27T11:31:12Z"
 ---
 ## What it is
 Use when each agent needs its own keypair so its actions can be signed and later attributed.

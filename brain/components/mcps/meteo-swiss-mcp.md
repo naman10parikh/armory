@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T13:19:59Z"
+pushed_at: "2026-10-30T12:42:02Z"
 ---
 ## What it is
 Exposes Swiss weather forecast data as MCP tools, including rainfall, sunshine, temperature, wind, and more, with local caching.

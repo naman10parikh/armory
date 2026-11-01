@@ -8,12 +8,12 @@ source_url: https://github.com/nduc99911/repo-context-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 105
+stars: 104
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 84
+forks: 82
 pushed_at: "2026-08-12T09:21:15Z"
 ---
 ## What it is

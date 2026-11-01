@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 42
-pushed_at: "2026-09-08T09:23:07Z"
+pushed_at: "2026-10-30T10:55:34Z"
 ---
 ## What it is
 MCP server `Razorpay`, catalogued on PulseMCP. Provides a bridge between natural language commands and Razorpay's payment processing APIs, enabling seamless integration for payment operations, payment links, and order management.

@@ -8,12 +8,12 @@ source_url: https://github.com/jiegec/waveform-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 48
+stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-24T11:43:09Z"
+pushed_at: "2026-10-27T07:41:41Z"
 ---
 ## What it is
 MCP server `Waveform`, catalogued on PulseMCP. Analyzes VCD and FST waveform files from digital circuit simulations for hardware verification

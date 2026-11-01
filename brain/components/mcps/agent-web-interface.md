@@ -8,12 +8,12 @@ source_url: https://github.com/lespaceman/agent-web-interface
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-10-20T22:36:49Z"
 ---
 ## What it is

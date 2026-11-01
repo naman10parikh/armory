@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 21
-pushed_at: "2025-03-27T14:51:22Z"
+pushed_at: "2026-10-27T07:57:59Z"
 ---
 ## What it is
 MCP server `AWS Lambda`, catalogued on PulseMCP. Enables LLMs to interact with AWS Lambda functions, providing access to private resources, AWS services, and Lambda's capabilities for data processing and external API integration.

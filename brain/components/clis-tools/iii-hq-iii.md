@@ -8,14 +8,14 @@ source_url: https://github.com/iii-hq/iii
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 18863
+stars: 18876
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1268
-pushed_at: "2026-10-25T13:36:40Z"
+forks: 1267
+pushed_at: "2026-11-01T13:56:22Z"
 ---
 ## What it is
 Effortlessly compose, extend, and observe every service in real-time for the first time ever.

@@ -8,13 +8,13 @@ source_url: https://github.com/AdrianV101/obsidian-pkm-plugin
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-22T11:52:25Z"
+pushed_at: "2026-10-27T10:23:23Z"
 ---
 ## What it is
 This MCP server enables Claude to interact with an Obsidian vault for persistent, structured memory, providing tools for note creation, semantic search, graph traversal, and session memory.

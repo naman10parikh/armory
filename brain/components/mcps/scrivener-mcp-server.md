@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 23
-pushed_at: "2026-10-22T16:44:47Z"
+forks: 24
+pushed_at: "2026-11-01T04:38:56Z"
 ---
 ## What it is
 Enables Claude AI to seamlessly interact with Scrivener projects for document management, AI-powered content analysis, and advanced writing assistance.

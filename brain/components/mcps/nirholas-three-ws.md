@@ -8,12 +8,12 @@ source_url: https://github.com/nirholas/three.ws
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 249
+stars: 264
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 68
-pushed_at: "2026-10-25T12:06:16Z"
+forks: 70
+pushed_at: "2026-11-01T04:22:11Z"
 ---
 ## What it is
 MCP server `three.ws`, catalogued on PulseMCP. 3D AI agent platform for browsers with avatar management, LLM integration, on-chain identity, and OAuth 2.1 MCP access.

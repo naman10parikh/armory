@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 54
+stars: 55
 forks: 6
-pushed_at: "2026-09-22T08:35:46Z"
+pushed_at: "2026-10-27T18:07:55Z"
 ---
 ## What it is
 MCP AI Server for Visual Studio. 20 Roslyn-powered tools giving AI assistants semantic code navigation, symbol search, inheritance trees, call graphs, safe rename, build/test execution. Works with Claude, Codex, Gemini, Cursor, Copilot, Windsurf, Cline.

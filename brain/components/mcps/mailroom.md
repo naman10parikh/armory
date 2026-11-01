@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-23T18:35:23Z"
+pushed_at: "2026-10-30T14:17:01Z"
 ---
 ## What it is
 Enables AI agents to manage project email by listing, describing, and running bounded mailbox operations such as reading messages, searching, and sending drafts.

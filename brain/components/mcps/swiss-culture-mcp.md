@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T16:54:03Z"
+pushed_at: "2026-11-01T13:07:50Z"
 ---
 ## What it is
 MCP server providing access to Swiss cultural heritage data including ISOS townscapes, Living Traditions, cultural prizes, and press releases from the Federal Office of Culture, with no API key required.

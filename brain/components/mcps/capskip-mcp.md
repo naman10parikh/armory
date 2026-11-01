@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-09-23T02:30:50Z"
+forks: 8
+pushed_at: "2026-10-31T18:47:06Z"
 ---
 ## What it is
 An MCP server that lets AI agents solve reCAPTCHA, Cloudflare Turnstile, GeeTest, and image captchas via the local CapSkip solver. It enables autonomous captcha handling without per-solve fees or human intervention.

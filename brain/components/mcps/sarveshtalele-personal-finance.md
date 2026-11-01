@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-01T23:27:30Z"
+pushed_at: "2026-11-01T12:08:20Z"
 ---
 ## What it is
 MCP server `Personal Finance Calculators`, catalogued on PulseMCP. Financial calculators based on deterministic mathematical principles for budgeting and planning.

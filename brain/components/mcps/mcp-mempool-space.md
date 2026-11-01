@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T19:41:47Z"
+pushed_at: "2026-10-29T04:47:24Z"
 ---
 ## What it is
 MCP server for Bitcoin block explorer and mempool/fee statistics, providing tools to query fees, mempool stats, blocks, transactions, addresses, hashrate, and mining pools.

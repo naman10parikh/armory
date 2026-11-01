@@ -14,8 +14,8 @@ mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 42
-pushed_at: "2026-10-24T18:32:35Z"
+forks: 44
+pushed_at: "2026-10-30T21:36:34Z"
 ---
 ## What it is
 The official CLI for Resend

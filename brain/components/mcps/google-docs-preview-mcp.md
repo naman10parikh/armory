@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-07T11:32:01Z"
+pushed_at: "2026-10-31T17:32:17Z"
 ---
 ## What it is
 Enables creating anchored comments, replies, and real suggested edits in Google Docs from Claude.

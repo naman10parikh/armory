@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T21:09:50Z"
+pushed_at: "2026-10-29T05:54:56Z"
 ---
 ## What it is
 Wraps the Quotable API to search for quotes by keyword or phrase, returning matching quotes with author names and topic tags.

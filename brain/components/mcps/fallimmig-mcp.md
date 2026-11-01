@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T17:08:51Z"
+pushed_at: "2026-10-31T16:16:26Z"
 ---
 ## What it is
 Sovereign, MIT-licensed MCP server wrapping the fallimmig-sdk for professional-service workflow automation, featuring Ed25519-signed transactions and offline-capable operation.

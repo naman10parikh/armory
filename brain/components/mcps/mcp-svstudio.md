@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T07:27:25Z"
+pushed_at: "2026-10-27T14:43:47Z"
 ---
 ## What it is
 Enables LLM agents to manipulate Synthesizer V Studio 2 Pro projects, including notes, lyrics, phonemes, vocal attributes, parameters, and playback through the official Dreamtonics Scripting API.

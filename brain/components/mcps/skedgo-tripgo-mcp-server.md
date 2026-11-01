@@ -13,7 +13,7 @@ related: []
 tags: [mcp, travel-transportation]
 stars: 5
 forks: 3
-pushed_at: "2026-05-23T13:45:13Z"
+pushed_at: "2026-10-30T12:55:00Z"
 ---
 ## What it is
 Provides tools from the TripGo API for multi-modal trip planning, transport locations, and public transport departures, including real-time information.

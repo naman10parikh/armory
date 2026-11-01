@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-10-21T19:02:42Z"
+pushed_at: "2026-10-26T11:14:41Z"
 ---
 ## What it is
 MCP server `Baseline (Web Platform Compatibility)`, catalogued on PulseMCP. Provides real-time browser compatibility status for Web Platform APIs by connecting to the WebStatus API, helping web developers make informed decisions about feature usage

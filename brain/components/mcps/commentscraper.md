@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T00:08:42Z"
+pushed_at: "2026-10-25T23:07:16Z"
 ---
 ## What it is
 Enables AI agents to research customer voice by searching Reddit and extracting structured comments from supported community platforms via MCP.

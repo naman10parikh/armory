@@ -8,12 +8,12 @@ source_url: https://github.com/markifact/markifact-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-10-04T04:32:47Z"
+pushed_at: "2026-10-30T06:48:41Z"
 ---
 ## What it is
 MCP server `Markifact`, catalogued on PulseMCP. Marketing artifact creation service with AI-powered campaign and content generation tools.

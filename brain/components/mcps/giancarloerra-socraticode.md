@@ -8,11 +8,11 @@ source_url: https://github.com/giancarloerra/socraticode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3354
+stars: 3363
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 429
+forks: 428
 pushed_at: "2026-10-23T23:34:57Z"
 ---
 ## What it is

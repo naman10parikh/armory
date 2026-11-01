@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T04:25:54Z"
+pushed_at: "2026-10-29T03:02:35Z"
 ---
 ## What it is
 A media transcoding proxy with an MCP control surface for generating optimized media URLs, primarily for offline delivery in Bible translation projects.

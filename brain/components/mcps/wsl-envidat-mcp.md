@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T11:29:11Z"
+pushed_at: "2026-11-01T11:27:18Z"
 ---
 ## What it is
 MCP server for querying Swiss environmental research data from WSL/EnviDat, including forest, snow, avalanche, and biodiversity datasets. No API key required.

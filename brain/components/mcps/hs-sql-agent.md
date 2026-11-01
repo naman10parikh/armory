@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-25T18:59:41Z"
+pushed_at: "2026-11-01T11:26:28Z"
 ---
 ## What it is
 C# SQL Agent MCP server featuring raw SQL input, strict AST validation, and an embedded Admin UI. Eliminates LLM hallucinations and security risks across 6 major databases.

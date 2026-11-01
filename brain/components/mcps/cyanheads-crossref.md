@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-24T11:50:46Z"
+pushed_at: "2026-10-28T18:27:38Z"
 ---
 ## What it is
 MCP server `Crossref`, catalogued on PulseMCP. Searches and retrieves scholarly publication metadata, DOI records, citation counts, and funding information via the Crossref API.

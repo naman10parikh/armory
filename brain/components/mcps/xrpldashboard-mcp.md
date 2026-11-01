@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T10:18:20Z"
+pushed_at: "2026-11-01T01:38:39Z"
 ---
 ## What it is
 Read-only XRP Ledger analytics — signed snapshots, AMM pools, token volume, whale activity, NFT tracking. Proof-annotated. Public beta 2026-09.

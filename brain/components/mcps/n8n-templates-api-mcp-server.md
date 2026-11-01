@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T05:13:35Z"
+pushed_at: "2026-10-27T16:13:33Z"
 ---
 ## What it is
 Enables querying the public n8n workflow template library via API, supporting search by keyword, category, app, or node, ranking by views, and exporting importable workflow JSON.

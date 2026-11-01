@@ -12,8 +12,8 @@ stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
-pushed_at: "2026-10-24T19:19:30Z"
+forks: 10
+pushed_at: "2026-10-26T20:50:03Z"
 ---
 ## What it is
 MCP server `Keycloak Admin`, catalogued on PulseMCP. Integrates with Keycloak Admin to provide streamlined user and realm management operations for identity and access control automation.

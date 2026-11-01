@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-10-25T19:30:34Z"
+forks: 8
+pushed_at: "2026-10-31T16:42:14Z"
 ---
 ## What it is
 Enables Claude Code to dispatch opencode CLI tasks as background processes with immediate task handle return, status polling, and result retrieval, avoiding tmux and log parsing issues.

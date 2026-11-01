@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T10:37:49Z"
+pushed_at: "2026-10-28T08:31:33Z"
 ---
 ## What it is
 The Laxis MCP Server connects Laxis - the AI meeting note taker and voice dictation tool for professionals to Claude and other AI tools through the Model Context Protocol. Your assistant can search and read your meeting transcripts, summaries, and participants directly in chat, turning every convers

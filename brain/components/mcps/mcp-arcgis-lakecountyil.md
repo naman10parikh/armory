@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T03:54:16Z"
+pushed_at: "2026-10-30T07:38:56Z"
 ---
 ## What it is
 Enables searching and querying Lake County, Illinois open geospatial data (parcels, addresses, zoning) through ArcGIS Feature Services.

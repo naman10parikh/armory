@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T01:08:37Z"
+pushed_at: "2026-10-27T03:38:45Z"
 ---
 ## What it is
 Provides tools for managing Kenyan family legal matters including inheritance, wills, trusts, diaspora property, and caretaker records via MCP.

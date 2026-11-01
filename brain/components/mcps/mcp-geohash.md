@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T23:53:20Z"
+pushed_at: "2026-10-29T03:42:46Z"
 ---
 ## What it is
 Encode latitude/longitude to geohash strings and decode geohashes to coordinates with offline, keyless operation.

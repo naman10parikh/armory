@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 64
-pushed_at: "2026-10-25T01:22:56Z"
+pushed_at: "2026-11-01T01:24:51Z"
 ---
 ## What it is
 MCP server `PlanExe`, catalogued on PulseMCP. Generate rough-draft project plans from natural-language prompts.

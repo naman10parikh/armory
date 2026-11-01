@@ -8,13 +8,13 @@ source_url: https://github.com/sysevol-ai/CodeNib
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 88
+stars: 90
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-24T16:39:41Z"
+pushed_at: "2026-11-01T00:31:57Z"
 ---
 ## What it is
 Provides coding agents with searchable codebase context through an MCP server, enabling hybrid BM25 and semantic search, symbol graph navigation, and dependency mapping over an incrementally maintained repository index.

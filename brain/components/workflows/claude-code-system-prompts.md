@@ -14,9 +14,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [workflow, guide]
-stars: 12997
-forks: 2043
-pushed_at: "2026-10-24T16:25:49Z"
+stars: 13057
+forks: 2040
+pushed_at: "2026-10-31T00:51:38Z"
 ---
 ## What it is
 A community workflow/command, catalogued in awesome-claude-code. All parts of Claude Code's system prompt, including builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, Bash cmd, security review, agent creation, etc.). Updated for each Claude Code version.

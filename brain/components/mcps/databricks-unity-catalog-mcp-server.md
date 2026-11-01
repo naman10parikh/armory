@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-07-31T13:44:59Z"
+pushed_at: "2026-10-27T12:46:49Z"
 ---
 ## What it is
 Access your Databricks workspace through Claude and other LLMs. Query Unity Catalog tables, inspect jobs, and retrieve detailed metadata.

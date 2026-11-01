@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-13T14:51:05Z"
+pushed_at: "2026-10-26T12:39:12Z"
 ---
 ## What it is
 MCP server providing shared working memory for collaborative AI agents, with real-time notes and LLM-consolidated structured memory bank.

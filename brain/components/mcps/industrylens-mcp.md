@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T15:55:33Z"
+pushed_at: "2026-10-29T14:21:16Z"
 ---
 ## What it is
 Browse IndustryLens's published competitive-intelligence reports and head-to-head competitor comparisons from any AI agent — real, source-backed data.

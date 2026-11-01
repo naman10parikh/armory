@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T18:39:21Z"
+pushed_at: "2026-10-31T06:27:12Z"
 ---
 ## What it is
 Allows two AI coding agents on different machines to securely pair and share files, context, and conventions through an end-to-end encrypted peer-to-peer channel with human-in-the-loop consent.

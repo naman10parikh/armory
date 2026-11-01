@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T20:00:06Z"
+pushed_at: "2026-10-29T05:05:30Z"
 ---
 ## What it is
 Enables querying NIST Randomness Beacon pulses by chain and pulse index.

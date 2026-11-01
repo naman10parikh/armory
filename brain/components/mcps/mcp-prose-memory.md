@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T07:15:21Z"
+pushed_at: "2026-11-01T12:11:21Z"
 ---
 ## What it is
 Persistent memory server for MCP clients that stores structured facts as JSON across sessions, enabling atomic add, remove, replace, and view operations.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T05:25:26Z"
+pushed_at: "2026-11-01T09:13:27Z"
 ---
 ## What it is
 Personal knowledge management server with note CRUD, semantic search, git versioning, wiki linking, tags, glossary, and fact graph capabilities.

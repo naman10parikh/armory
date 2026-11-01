@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-20T08:44:22Z"
+pushed_at: "2026-10-26T07:13:00Z"
 ---
 ## What it is
 Enables AI assistants and developers to analyze code for language-specific best practices and idiomatic patterns across programming languages, CI automation, and configuration formats.

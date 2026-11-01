@@ -8,12 +8,12 @@ source_url: https://github.com/cyanheads/hn-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-18T22:58:14Z"
+pushed_at: "2026-10-28T17:28:38Z"
 ---
 ## What it is
 MCP server `Hacker News by cyanheads`, catalogued on PulseMCP. Fetches Hacker News feeds, threaded discussions, user profiles, and full-text search via Firebase and Algolia APIs.

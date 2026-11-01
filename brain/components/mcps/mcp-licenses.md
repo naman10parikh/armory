@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T19:29:33Z"
+pushed_at: "2026-10-29T04:38:04Z"
 ---
 ## What it is
 Enables lookup, search, and retrieval of open-source license information using the SPDX license list, with tools for finding licenses by ID or keyword and fetching full license text.

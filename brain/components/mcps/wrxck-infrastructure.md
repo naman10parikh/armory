@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-04-01T00:43:32Z"
+pushed_at: "2026-10-26T15:27:02Z"
 ---
 ## What it is
 MCP server `Infrastructure`, catalogued on PulseMCP. Orchestrates Cloudflare, Fleet, and Namecheap for automated domain onboarding and infrastructure management.

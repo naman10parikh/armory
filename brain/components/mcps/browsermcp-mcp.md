@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
-stars: 7222
-forks: 593
-pushed_at: "2025-04-24T21:49:44Z"
+stars: 7264
+forks: 598
+pushed_at: "2026-10-30T09:17:32Z"
 ---
 ## What it is
 Automate your local Chrome browser

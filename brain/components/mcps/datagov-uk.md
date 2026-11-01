@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T03:44:30Z"
+pushed_at: "2026-10-31T21:07:07Z"
 ---
 ## What it is
 Enables access to UK government open data via the data.gov.uk CKAN API, allowing querying of datasets through natural language or direct MCP tools.

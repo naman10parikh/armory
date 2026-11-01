@@ -8,12 +8,12 @@ source_url: https://github.com/rekklesna/proxmoxmcp-plus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 618
+stars: 634
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 99
-pushed_at: "2026-10-22T11:25:23Z"
+forks: 101
+pushed_at: "2026-10-29T14:27:06Z"
 ---
 ## What it is
 MCP server `Proxmox`, catalogued on PulseMCP. Enables AI systems to manage Proxmox virtualization environments with tools for monitoring nodes, controlling virtual machines, tracking storage, and maintaining cluster health

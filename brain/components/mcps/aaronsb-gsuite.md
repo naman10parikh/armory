@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 59
-pushed_at: "2026-10-21T00:26:25Z"
+pushed_at: "2026-10-28T05:04:10Z"
 ---
 ## What it is
 MCP server `Google Workspace`, catalogued on PulseMCP. Integrates with Gmail and Google Calendar to enable email operations, calendar management, and multi-account support for Google Workspace automation.

@@ -12,8 +12,8 @@ stars: 122
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 37
-pushed_at: "2026-10-18T19:16:29Z"
+forks: 35
+pushed_at: "2026-10-27T14:34:59Z"
 ---
 ## What it is
 MCP server `Blender Open MCP`, catalogued on PulseMCP. Integrates Blender with local AI models via Ollama, enabling natural language control of 3D modeling tasks including object creation, modification, material application, and rendering with optional PolyHaven asset integration.

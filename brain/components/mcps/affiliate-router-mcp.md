@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T17:47:40Z"
+pushed_at: "2026-11-01T13:55:30Z"
 ---
 ## What it is
 Vendor-neutral MCP server that discovers, routes, and attributes revenue across paid APIs, referral links, and affiliate programs for agent tools.

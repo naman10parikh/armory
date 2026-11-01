@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T00:52:36Z"
+pushed_at: "2026-10-31T14:00:01Z"
 ---
 ## What it is
 Enables AI agents to manage products, inventory, collections, orders, and customers in a Medusa v2 store via the Admin API.

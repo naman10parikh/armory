@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T10:07:26Z"
+pushed_at: "2026-11-01T12:04:02Z"
 ---
 ## What it is
 MCP server that runs JetBrains' ReSharper command-line tools for code inspection and cleanup, exposed to C# coding agents over stdio.

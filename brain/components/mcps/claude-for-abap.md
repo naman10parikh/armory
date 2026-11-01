@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-09T07:29:49Z"
+pushed_at: "2026-10-30T14:49:36Z"
 ---
 ## What it is
 MCP server giving Claude (and any MCP-compatible client) live access to SAP systems via ADT for reading, searching, editing, and activating ABAP objects.

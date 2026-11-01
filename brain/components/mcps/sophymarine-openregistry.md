@@ -8,11 +8,11 @@ source_url: https://github.com/sophymarine/openregistry
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
+forks: 3
 pushed_at: "2026-10-16T12:41:10Z"
 ---
 ## What it is

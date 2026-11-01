@@ -8,12 +8,12 @@ source_url: https://github.com/Yuuhann1999/codex-storyboard
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 373
+stars: 383
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 53
+forks: 54
 pushed_at: "2026-10-23T00:30:38Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T03:53:30Z"
+pushed_at: "2026-11-01T01:58:46Z"
 ---
 ## What it is
 Enables Dropbox file operations such as listing, searching, downloading, and creating folders via the Dropbox API v2 through MCP.

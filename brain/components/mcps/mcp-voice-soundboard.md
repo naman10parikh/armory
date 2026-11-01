@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-20T20:06:16Z"
+pushed_at: "2026-11-01T11:46:27Z"
 ---
 ## What it is
 A text-to-speech MCP server with 48 voices across 9 languages, supporting emotion spans, SFX tags, and multi-speaker dialogue. Deployable via a single npx command with built-in guardrails and swappable backends.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T01:12:12Z"
+pushed_at: "2026-11-01T01:43:01Z"
 ---
 ## What it is
 Enables AI coding tools to scaffold, build, and deploy Node.js or Python apps to Varity with a single command, automatically provisioning databases and backend services.

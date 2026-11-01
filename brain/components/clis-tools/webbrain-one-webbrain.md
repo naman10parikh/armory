@@ -8,14 +8,14 @@ source_url: https://github.com/webbrain-one/webbrain
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1538
+stars: 1590
 eval_score: null
 mentions: 1
 verified_at: 2026-10-13
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 185
-pushed_at: "2026-10-25T03:33:49Z"
+forks: 197
+pushed_at: "2026-10-31T12:38:14Z"
 ---
 ## What it is
 Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠

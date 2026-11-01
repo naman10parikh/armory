@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-10-23T11:42:45Z"
+pushed_at: "2026-10-30T10:39:49Z"
 ---
 ## What it is
 Local-first MCP server that connects AI agents to your Garmin sleep, HRV, Body Battery, stress, training readiness and activities, keeping tokens on your machine.

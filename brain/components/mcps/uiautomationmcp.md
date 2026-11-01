@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T22:20:24Z"
+pushed_at: "2026-10-29T12:30:32Z"
 ---
 ## What it is
 Enables Windows UI Automation through MCP, allowing agents to inspect, search, navigate, and interact with desktop UI elements via the UIAutomation framework. Supports actions such as focus, invoke, set-value, toggle, and event waiting, with CLI and VS Code extension variants.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-06T05:55:43Z"
+pushed_at: "2026-10-26T04:52:45Z"
 ---
 ## What it is
 Evidence-based supplement recommendation MCP server covering 17 supplements and 40+ conditions with medication interaction checking and form quality classification.

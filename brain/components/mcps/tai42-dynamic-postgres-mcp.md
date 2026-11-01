@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T03:39:37Z"
+pushed_at: "2026-10-30T18:19:32Z"
 ---
 ## What it is
 Generates safe, scoped PostgreSQL DML tools for FastMCP agents, enabling controlled database interactions without raw SQL.

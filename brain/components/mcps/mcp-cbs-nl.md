@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T22:13:40Z"
+pushed_at: "2026-10-31T01:00:04Z"
 ---
 ## What it is
 Enables querying Statistics Netherlands (CBS) data, including metadata for tables like '37296eng', through an MCP interface.

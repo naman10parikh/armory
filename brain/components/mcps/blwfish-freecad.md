@@ -8,12 +8,12 @@ source_url: https://github.com/blwfish/freecad-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 61
+stars: 62
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-10-23T15:36:05Z"
+pushed_at: "2026-10-30T02:20:56Z"
 ---
 ## What it is
 MCP server `FreeCAD`, catalogued on PulseMCP. Control FreeCAD from AI agents — 3D modeling, PartDesign workflows, CNC toolpaths, mesh operations, and file export via 32 tools.

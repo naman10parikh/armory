@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-23T05:35:45Z"
+pushed_at: "2026-11-01T12:34:43Z"
 ---
 ## What it is
 MCP server `Prometheus Alertmanager`, catalogued on PulseMCP. Connects to Prometheus Alertmanager to list and filter alerts, manage silences with custom matchers, and support multi-tenant environments through flexible authentication options.

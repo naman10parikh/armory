@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T02:15:57Z"
+pushed_at: "2026-11-01T06:09:31Z"
 ---
 ## What it is
 Enables MCP hosts to validate drafts against a company's versioned positioning pack through read-only tools for positioning context, content briefs, content checks, and explanation of findings.

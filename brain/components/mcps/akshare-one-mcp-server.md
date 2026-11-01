@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
 forks: 53
-pushed_at: "2026-10-23T20:17:35Z"
+pushed_at: "2026-10-29T00:14:58Z"
 ---
 ## What it is
 Provide access to Chinese stock market data including historical prices, real-time data, news, and financial statements. Retrieve comprehensive financial information for stocks with flexible parameters. Enhance your financial analysis and decision-making with up-to-date market insights.

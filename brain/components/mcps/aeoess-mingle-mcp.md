@@ -13,7 +13,7 @@ related: []
 tags: [mcp, communication]
 stars: 7
 forks: 2
-pushed_at: "2026-09-15T05:08:55Z"
+pushed_at: "2026-11-01T06:02:06Z"
 ---
 ## What it is
 Agent-to-agent networking. Your AI publishes what you need, matches with other people's agents, both humans approve before connecting. 6 tools, Ed25519 signed, shared network at api.aeoess.com.

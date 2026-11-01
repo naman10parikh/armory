@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-23T18:41:39Z"
+pushed_at: "2026-11-01T13:25:46Z"
 ---
 ## What it is
 MCP server `CoinCap`, catalogued on PulseMCP. Integrates with CoinCap's API v3 to provide real-time cryptocurrency price tracking, market analysis, and historical trend data for informed investment decisions.

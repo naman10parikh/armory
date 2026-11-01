@@ -8,11 +8,11 @@ source_url: https://github.com/redf0x1/camofox-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 118
+stars: 121
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
+forks: 12
 pushed_at: "2026-10-25T10:56:23Z"
 ---
 ## What it is

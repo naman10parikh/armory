@@ -8,11 +8,11 @@ source_url: https://github.com/codegraphcontext/codegraphcontext
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4352
+stars: 4370
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 842
+forks: 844
 pushed_at: "2026-10-22T20:32:19Z"
 ---
 ## What it is

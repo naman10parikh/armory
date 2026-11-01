@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T02:14:17Z"
+pushed_at: "2026-10-28T02:14:53Z"
 ---
 ## What it is
 Enables viewing, creating, and managing time registrations, absences, and timesheet approvals through the Timelog API using natural language.

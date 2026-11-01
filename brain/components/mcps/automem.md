@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-10-22T19:37:41Z"
+pushed_at: "2026-10-28T00:02:53Z"
 ---
 ## What it is
 MCP server `AutoMem`, catalogued on PulseMCP. Graph-vector memory service for AI assistants using FalkorDB and Qdrant.

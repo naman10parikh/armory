@@ -8,11 +8,11 @@ source_url: https://github.com/executeautomation/mcp-playwright
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5674
+stars: 5676
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 540
+forks: 541
 pushed_at: "2025-12-13T04:28:38Z"
 ---
 ## What it is

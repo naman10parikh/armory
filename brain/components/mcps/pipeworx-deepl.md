@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-25T03:47:09Z"
+pushed_at: "2026-11-01T01:51:36Z"
 ---
 ## What it is
 MCP server `DeepL`, catalogued on PulseMCP. DeepL text translation, usage tracking, and supported language listing via the DeepL API.

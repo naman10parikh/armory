@@ -8,13 +8,13 @@ source_url: https://github.com/si0nDE/mcp-buchhaltungsbutler
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-20T22:03:03Z"
+pushed_at: "2026-10-31T16:16:22Z"
 ---
 ## What it is
 MCP server exposing BuchhaltungsButler API tools for accounting, invoicing, and receipt management with curated, token-efficient endpoints.

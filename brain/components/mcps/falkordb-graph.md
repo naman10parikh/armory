@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 20
-pushed_at: "2026-10-25T06:14:47Z"
+pushed_at: "2026-11-01T04:43:52Z"
 ---
 ## What it is
 MCP server `FalkorDB`, catalogued on PulseMCP. Enables natural language querying of graph databases by translating requests into FalkorDB queries for analyzing relationships in knowledge graphs, recommendation systems, and network data.

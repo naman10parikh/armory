@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T20:01:08Z"
+pushed_at: "2026-10-29T05:11:45Z"
 ---
 ## What it is
 Enables AI agents to access real-time NOAA space weather data, including alerts, solar wind, K-index, aurora forecast, and GOES X-ray flux, through natural language queries.

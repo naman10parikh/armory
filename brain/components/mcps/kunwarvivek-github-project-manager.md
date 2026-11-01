@@ -12,8 +12,8 @@ stars: 104
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
-pushed_at: "2026-10-20T18:38:47Z"
+forks: 28
+pushed_at: "2026-10-28T04:58:43Z"
 ---
 ## What it is
 MCP server `GitHub Project Manager`, catalogued on PulseMCP. Integrates with GitHub Projects V2 to enable natural language management of project boards, issues, milestones, and sprints.

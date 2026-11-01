@@ -8,11 +8,11 @@ source_url: https://github.com/haonanalex/mgmt-paper-skills
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 129
+stars: 130
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
+forks: 18
 pushed_at: "2026-05-02T12:17:01Z"
 ---
 ## What it is

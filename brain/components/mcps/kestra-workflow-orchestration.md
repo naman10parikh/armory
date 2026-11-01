@@ -8,11 +8,11 @@ source_url: https://github.com/kestra-io/mcp-server-python
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
+forks: 11
 pushed_at: "2026-10-18T19:01:48Z"
 ---
 ## What it is

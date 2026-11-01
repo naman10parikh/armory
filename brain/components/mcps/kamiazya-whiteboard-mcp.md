@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-10-24T23:41:11Z"
+forks: 3
+pushed_at: "2026-10-27T05:25:49Z"
 ---
 ## What it is
 Enables AI agents to collaboratively draw and annotate Excalidraw diagrams in real-time via MCP tools, synced to a browser canvas.

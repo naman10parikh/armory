@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-18T21:27:27Z"
+forks: 2
+pushed_at: "2026-10-31T21:12:16Z"
 ---
 ## What it is
 Local MCP server for Cities: Skylines II that provides a searchable wiki corpus, curated research reports, and in-game encyclopedia for answering gameplay and modding questions, plus tools for scaffolding, building, and packaging mod projects.
