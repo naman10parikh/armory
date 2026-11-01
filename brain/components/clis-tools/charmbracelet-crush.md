@@ -8,14 +8,14 @@ source_url: https://github.com/charmbracelet/crush
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 28908
+stars: 28907
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 2343
-pushed_at: "2026-11-01T09:35:16Z"
+pushed_at: "2026-11-01T16:08:36Z"
 ---
 ## What it is
 Glamourous agentic coding for all 💘

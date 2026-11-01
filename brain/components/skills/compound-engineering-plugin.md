@@ -13,7 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [skill]
-stars: 25802
+stars: 25806
 forks: 2050
 pushed_at: "2026-10-31T08:04:01Z"
 ---

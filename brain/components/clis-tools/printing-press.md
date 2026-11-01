@@ -15,7 +15,7 @@ verified_at:
 related: []
 tags: [connectors]
 forks: 533
-pushed_at: "2026-10-31T23:19:47Z"
+pushed_at: "2026-11-01T15:26:17Z"
 ---
 
 # printing-press

@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, code, benchmark, agents]
-mentions: 9
+mentions: 10
 forks: 1025
 pushed_at: "2026-09-18T05:08:56Z"
 ---

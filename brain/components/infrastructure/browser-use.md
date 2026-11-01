@@ -8,13 +8,13 @@ source_url: https://github.com/browser-use/browser-use
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 119736
+stars: 119746
 eval_score: 1
 verified_at: 2026-05-28
 related: []
 tags: [browser, browser-use]
 mentions: 11
-forks: 13339
+forks: 13340
 pushed_at: "2026-10-31T01:18:25Z"
 ---
 ## What it is

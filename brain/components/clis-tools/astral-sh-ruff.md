@@ -8,14 +8,14 @@ source_url: https://github.com/astral-sh/ruff
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 50375
+stars: 50377
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2571
-pushed_at: "2026-11-01T14:03:11Z"
+forks: 2572
+pushed_at: "2026-11-01T15:56:07Z"
 ---
 ## What it is
 An extremely fast Python linter and code formatter, written in Rust.

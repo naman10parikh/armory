@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-31T21:29:27Z"
+pushed_at: "2026-11-01T15:52:58Z"
 ---
 ## What it is
 Gives LLM agents access to local and remote data via databases, files, graphs, and structured documents, along with a full data science toolkit for analysis and modeling.

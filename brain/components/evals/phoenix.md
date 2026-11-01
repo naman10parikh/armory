@@ -8,13 +8,13 @@ source_url: https://github.com/Arize-AI/phoenix
 license: Elastic-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 12091
+stars: 12093
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, observability, rag, agents]
 mentions: 2
-forks: 1255
+forks: 1256
 pushed_at: "2026-11-01T12:18:05Z"
 ---
 ## What it is

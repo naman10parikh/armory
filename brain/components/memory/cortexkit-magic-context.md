@@ -15,7 +15,7 @@ verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
 forks: 147
-pushed_at: "2026-11-01T13:34:34Z"
+pushed_at: "2026-11-01T16:07:08Z"
 ---
 ## What it is
 Use when a long coding session keeps losing its earlier context and you want that handled automatically.

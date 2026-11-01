@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-20T17:04:14Z"
+pushed_at: "2026-11-01T15:55:05Z"
 ---
 ## What it is
 Mori (森) is a shared memory layer for AI coding agents — one that compounds.

@@ -8,13 +8,13 @@ source_url: https://github.com/p-e-w/heretic
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 37357
+stars: 37414
 eval_score: null
 mentions: 1
 verified_at: 2026-10-13
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 4265
+forks: 4268
 pushed_at: "2026-11-01T13:03:19Z"
 ---
 ## What it is

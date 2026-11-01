@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-01T12:05:17Z"
+pushed_at: "2026-11-01T15:23:40Z"
 ---
 ## What it is
 MCP server that lets Claude Code delegate heavy tasks (file analysis, deep search, web lookups, adversarial review, and general delegation) to the Antigravity CLI (agy), with model routing, session continuity, timeout controls, and quota-aware failover.
