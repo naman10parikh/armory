@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T19:08:39Z"
+pushed_at: "2026-11-01T15:18:11Z"
 ---
 ## What it is
 Unified gateway for ISO 20022 message families, providing meta-tools to search, describe, validate, generate, and parse financial messages.

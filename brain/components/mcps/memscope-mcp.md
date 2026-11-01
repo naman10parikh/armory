@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T21:49:25Z"
+pushed_at: "2026-11-01T15:36:15Z"
 ---
 ## What it is
 Enables AI agents to perform low-level Windows process memory research, including process attachment, memory scanning, reading/writing, pointer chasing, remote code execution, and inline hooking via MCP tools and Lua scripting.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-01T12:18:27Z"
+pushed_at: "2026-11-01T14:56:12Z"
 ---
 ## What it is
 MCP server `BACH FileCommander`, catalogued on PulseMCP. Filesystem, process management, sessions, search, OCR, ZIP, and PDF export tools.

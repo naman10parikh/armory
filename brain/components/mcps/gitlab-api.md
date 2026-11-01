@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-01T00:47:42Z"
+pushed_at: "2026-11-01T15:32:57Z"
 ---
 ## What it is
 MCP server for interacting with GitLab API, supporting dynamic tool selection and enterprise-grade security.

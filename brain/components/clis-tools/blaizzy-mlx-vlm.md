@@ -15,7 +15,7 @@ verified_at: 2026-10-29
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 872
-pushed_at: "2026-11-01T13:57:06Z"
+pushed_at: "2026-11-01T14:21:00Z"
 ---
 ## What it is
 MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.

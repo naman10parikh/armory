@@ -8,7 +8,7 @@ source_url: https://github.com/trycua/cua
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 31473
+stars: 31483
 eval_score: null
 verified_at: 2026-05-28
 related: []

@@ -15,7 +15,7 @@ verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 3079
-pushed_at: "2026-11-01T14:10:06Z"
+pushed_at: "2026-11-01T16:10:06Z"
 ---
 ## What it is
 How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.

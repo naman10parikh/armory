@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-27T10:35:46Z"
+pushed_at: "2026-11-01T15:54:47Z"
 ---
 ## What it is
 MCP server `MSDS Chain`, catalogued on PulseMCP. Provides chemical safety intelligence including compatibility checks, hazard info, PPE, and compliance data.

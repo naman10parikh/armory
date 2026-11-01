@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T18:50:47Z"
+pushed_at: "2026-11-01T16:03:08Z"
 ---
 ## What it is
 A local MCP server for managing Markdown notes, enabling create, list, read, search, summarize, and delete operations through natural language.

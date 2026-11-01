@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 32
-pushed_at: "2026-11-01T14:00:11Z"
+pushed_at: "2026-11-01T16:09:13Z"
 ---
 ## What it is
 MCP server for Lobu, the open-source backend for AI teammates, providing durable memory and agent capabilities. It enables AI assistants to watch, remember, and act across company tools with sandboxed execution.

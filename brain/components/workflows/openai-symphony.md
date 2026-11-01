@@ -8,7 +8,7 @@ source_url: https://github.com/openai/symphony
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 27884
+stars: 27886
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02

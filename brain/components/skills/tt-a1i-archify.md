@@ -8,13 +8,13 @@ source_url: https://github.com/tt-a1i/archify
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 92290
+stars: 92315
 eval_score: 1
 mentions: 2
 verified_at: 2026-09-26
 related: []
 tags: [sentinel-feed, skills]
-forks: 6295
+forks: 6299
 pushed_at: "2026-10-31T06:53:27Z"
 ---
 ## What it is
