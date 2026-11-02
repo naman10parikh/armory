@@ -8,11 +8,11 @@ source_url: https://github.com/0xkoda/wiremcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 599
+stars: 602
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 63
+forks: 64
 pushed_at: "2025-07-09T20:28:22Z"
 ---
 ## What it is

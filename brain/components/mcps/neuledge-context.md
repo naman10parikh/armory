@@ -8,12 +8,12 @@ source_url: https://github.com/neuledge/context
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 430
+stars: 433
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 48
-pushed_at: "2026-10-26T03:08:59Z"
+pushed_at: "2026-11-02T15:21:28Z"
 ---
 ## What it is
 MCP server `Neuledge Context`, catalogued on PulseMCP. Local-first documentation retrieval for coding agents with a community-driven registry of pre-built packages for popular libraries.

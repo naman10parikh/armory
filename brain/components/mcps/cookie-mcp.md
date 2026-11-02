@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-10-01T21:27:29Z"
+pushed_at: "2026-10-30T17:55:47Z"
 ---
 ## What it is
 MCP server for the Cookie Chain blockchain, enabling AI agents to read market data, swap tokens, manage liquidity, stake, trade NFTs, and bridge to Solana directly from their machine.

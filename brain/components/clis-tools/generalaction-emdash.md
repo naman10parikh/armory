@@ -8,14 +8,14 @@ source_url: https://github.com/generalaction/emdash
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 6083
+stars: 6150
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 649
-pushed_at: "2026-10-26T13:09:09Z"
+forks: 658
+pushed_at: "2026-11-02T08:17:47Z"
 ---
 ## What it is
 Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.

@@ -8,13 +8,13 @@ source_url: https://github.com/Addono/gh-attach
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-25T03:24:46Z"
+pushed_at: "2026-10-31T15:53:08Z"
 ---
 ## What it is
 Enables AI applications to upload images and videos to GitHub issues, pull requests, and comments through the Model Context Protocol.

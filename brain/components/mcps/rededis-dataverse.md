@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-21T20:12:55Z"
+pushed_at: "2026-10-31T13:56:35Z"
 ---
 ## What it is
 MCP server `Microsoft Dataverse`, catalogued on PulseMCP. Access to Microsoft Dataverse for querying records, schema management, and CRUD operations.

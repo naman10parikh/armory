@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-07T19:32:55Z"
+pushed_at: "2026-11-02T04:19:39Z"
 ---
 ## What it is
 A Model Context Protocol server that wraps Joplin's Data API, giving agents full CRUD over notes, notebooks, tags, and resources, plus search and revision history.

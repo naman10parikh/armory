@@ -8,12 +8,12 @@ source_url: https://github.com/googlecolab/colab-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1355
+stars: 1420
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 262
+forks: 276
 pushed_at: "2026-06-23T21:04:25Z"
 ---
 ## What it is

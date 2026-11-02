@@ -8,11 +8,11 @@ source_url: https://github.com/cablate/mcp-google-map
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 484
+stars: 487
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 94
+forks: 92
 pushed_at: "2026-10-22T07:11:22Z"
 ---
 ## What it is

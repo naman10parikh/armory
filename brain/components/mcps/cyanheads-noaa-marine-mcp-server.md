@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/noaa-marine-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-25T09:46:24Z"
+forks: 1
+pushed_at: "2026-10-29T17:24:06Z"
 ---
 ## What it is
 Find NOAA tide stations and NDBC buoys, fetch tide predictions, water levels, tidal currents, and live buoy conditions via MCP.

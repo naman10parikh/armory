@@ -8,12 +8,12 @@ source_url: https://github.com/dmontgomery40/deepseek-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 359
+stars: 362
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 59
-pushed_at: "2026-10-19T16:28:24Z"
+forks: 60
+pushed_at: "2026-10-30T20:24:36Z"
 ---
 ## What it is
 MCP server `DeepSeek`, catalogued on PulseMCP. Integrates DeepSeek's language models, enabling AI-powered chat completions with customizable parameters for tasks like writing assistance and code generation.

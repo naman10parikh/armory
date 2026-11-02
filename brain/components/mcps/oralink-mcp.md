@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-28T05:58:20Z"
+pushed_at: "2026-11-01T03:55:46Z"
 ---
 ## What it is
 Hosted MCP server that bridges MCP clients to Oracle Autonomous Database via OAuth 2.0, enabling SQL queries and schema management without local Oracle tooling.

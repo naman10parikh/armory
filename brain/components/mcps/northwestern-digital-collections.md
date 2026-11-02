@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-23T22:28:04Z"
+pushed_at: "2026-10-30T14:46:34Z"
 ---
 ## What it is
 MCP server `Northwestern Digital Collections`, catalogued on PulseMCP. Access Northwestern University Libraries' digital collections API for rich archival metadata and search.

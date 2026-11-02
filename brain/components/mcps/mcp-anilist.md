@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T22:21:54Z"
+pushed_at: "2026-10-30T07:26:15Z"
 ---
 ## What it is
 Enables querying AniList's anime and manga database via GraphQL API with no authentication required.

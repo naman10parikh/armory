@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, workflows-knowledge-guides]
-stars: 79263
-forks: 12676
-pushed_at: "2026-09-28T13:49:16Z"
+stars: 79759
+forks: 12761
+pushed_at: "2026-10-27T04:47:00Z"
 ---
 ## What it is
 An analysis of how coding agents like Claude Code are designed, which breaks an agent into its basic parts and rebuilds it with minimal code: a rudimentary agent with skills, sub-agents and a to-do list in a few hundred lines of Python.

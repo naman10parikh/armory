@@ -12,8 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
-pushed_at: "2026-10-25T08:40:46Z"
+forks: 4
+pushed_at: "2026-10-28T11:44:40Z"
 ---
 ## What it is
 MCP server `ScrAPI`, catalogued on PulseMCP. Enables web scraping from sites with bot detection, captchas, or geolocation restrictions through residential proxies and automated captcha solving for content extraction in HTML or Markdown formats.

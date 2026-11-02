@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 24
-pushed_at: "2026-08-10T22:41:50Z"
+forks: 25
+pushed_at: "2026-10-28T22:18:14Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that gives AI assistants direct, native control over Adobe InDesign via a UXP plugin bridge, with ~130 tools covering documents, pages, text, graphics, styles, master spreads, books, and export.

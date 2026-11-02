@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T20:11:49Z"
+pushed_at: "2026-10-29T05:23:47Z"
 ---
 ## What it is
 Enables querying Canadian open data from the Canada CKAN catalogue (open.canada.ca) through a Pipeworx gateway.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T16:33:59Z"
+pushed_at: "2026-10-28T02:46:19Z"
 ---
 ## What it is
 Browser acceptance testing for AI agent deliverables: verify agent output in real Chromium from JSON specs, with MCP server, visual regression, multi-browser support and GitHub Actions.

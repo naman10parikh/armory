@@ -8,12 +8,12 @@ source_url: https://github.com/zerodha/kite-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 326
+stars: 329
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 138
-pushed_at: "2026-10-23T06:16:17Z"
+forks: 140
+pushed_at: "2026-11-02T14:16:17Z"
 ---
 ## What it is
 MCP server `Zerodha Kite`, catalogued on PulseMCP. Integrates with Zerodha Kite trading platform to enable algorithmic trading and portfolio management for Indian stock markets.

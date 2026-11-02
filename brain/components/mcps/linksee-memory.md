@@ -8,12 +8,12 @@ source_url: https://github.com/michielinksee/linksee-memory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
-pushed_at: "2026-09-09T04:57:49Z"
+forks: 5
+pushed_at: "2026-10-30T13:49:35Z"
 ---
 ## What it is
 MCP server `Linksee Memory`, catalogued on PulseMCP. Local-first structured memory with semantic layers, token-efficient file reading, and cross-agent portability.

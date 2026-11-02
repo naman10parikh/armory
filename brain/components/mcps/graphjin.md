@@ -8,13 +8,13 @@ source_url: https://github.com/dosco/graphjin
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3222
+stars: 3227
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 205
-pushed_at: "2026-10-18T18:04:05Z"
+forks: 207
+pushed_at: "2026-11-01T10:34:12Z"
 ---
 ## What it is
 Enables AI assistants to query databases using natural language, with automatic schema discovery and SQL compilation.

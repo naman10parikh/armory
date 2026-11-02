@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-25T08:13:48Z"
+pushed_at: "2026-10-28T01:26:39Z"
 ---
 ## What it is
 Provides AI assistants with comprehensive OpenShift/Kubernetes cluster management capabilities through the oc CLI.

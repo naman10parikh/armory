@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 16
-pushed_at: "2026-05-13T07:45:30Z"
+pushed_at: "2026-10-28T15:15:29Z"
 ---
 ## What it is
 MCP server `Fibery`, catalogued on PulseMCP. Provides a flexible integration with the Fibery API, enabling querying, creating, and updating entities across collaborative work tracking platforms through standardized tools.

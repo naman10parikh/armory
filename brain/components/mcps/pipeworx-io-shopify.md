@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-26T21:37:42Z"
+pushed_at: "2026-10-29T06:21:21Z"
 ---
 ## What it is
 MCP server `Shopify`, catalogued on PulseMCP. Shopify store management with read access to products, orders, and customers via the Shopify Admin REST API.

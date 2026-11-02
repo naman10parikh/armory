@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 29
-pushed_at: "2026-10-26T10:57:57Z"
+pushed_at: "2026-11-02T02:24:04Z"
 ---
 ## What it is
 Generates UML and other diagrams (30+ types) via the Model Context Protocol, supporting multiple output formats and deployment options.

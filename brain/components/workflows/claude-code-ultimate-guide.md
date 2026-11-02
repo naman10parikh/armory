@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, workflows-knowledge-guides]
-stars: 6253
-forks: 814
-pushed_at: "2026-10-25T15:20:37Z"
+stars: 6322
+forks: 824
+pushed_at: "2026-11-02T13:37:09Z"
 ---
 ## What it is
 A guide to Claude Code from beginner to power user, with templates for its features, guides on agentic workflows, quizzes and a cheatsheet. Check that it is current before relying on it.

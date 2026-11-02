@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T01:10:40Z"
+pushed_at: "2026-11-02T01:10:08Z"
 ---
 ## What it is
 Provides read-only market data (quotes, bars, symbols, account info) from MetaTrader 5 or generated replay, exposing typed tools for LLM agents via the MCP protocol.

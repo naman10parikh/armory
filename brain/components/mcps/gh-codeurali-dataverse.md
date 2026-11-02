@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-14T01:37:17Z"
+pushed_at: "2026-11-01T22:12:38Z"
 ---
 ## What it is
 MCP server `Dataverse`, catalogued on PulseMCP. 73 tools for Microsoft Dataverse including CRUD, FetchXML, metadata, and audit operations.

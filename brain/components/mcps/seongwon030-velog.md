@@ -8,12 +8,12 @@ source_url: https://github.com/seongwon030/velog_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-11T08:33:16Z"
+pushed_at: "2026-11-02T07:09:59Z"
 ---
 ## What it is
 MCP server `Velog`, catalogued on PulseMCP. Manages posts, series, comments, and likes on the Velog Korean tech blogging platform with 20+ tools.

@@ -8,13 +8,13 @@ source_url: https://github.com/tavily-ai/tavily-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2460
+stars: 2472
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 eval_score: 1
-forks: 306
-pushed_at: "2026-10-22T05:48:57Z"
+forks: 309
+pushed_at: "2026-10-29T15:09:45Z"
 ---
 ## What it is
 MCP server `Tavily Search`, catalogued on PulseMCP. Integrates with Tavily API to provide real-time web search and content extraction capabilities for research, aggregation, and fact-checking tasks.

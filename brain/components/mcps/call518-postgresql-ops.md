@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 27
-pushed_at: "2026-10-25T13:46:59Z"
+pushed_at: "2026-11-02T13:04:04Z"
 ---
 ## What it is
 MCP server `PostgreSQL Ops`, catalogued on PulseMCP. Provides direct PostgreSQL database access with query execution, schema introspection, and performance monitoring through specialized extensions like pg_stat_statements for conversational database administration and troubleshooting.

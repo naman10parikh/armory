@@ -8,13 +8,13 @@ source_url: https://github.com/wildsurfer/your-mail-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-05T10:44:35Z"
+pushed_at: "2026-10-30T10:01:10Z"
 ---
 ## What it is
 Enables read-only search and retrieval of your email across multiple IMAP accounts through a local notmuch index, served over authenticated HTTP for MCP clients like Claude or Codex.

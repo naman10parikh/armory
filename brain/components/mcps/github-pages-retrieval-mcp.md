@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T05:09:29Z"
+pushed_at: "2026-11-01T23:22:21Z"
 ---
 ## What it is
 Enables AI agents to search private GitHub Pages by authenticating in a dedicated browser and retrieving indexed sections from a local SQLite database, with support for multiple sites and languages.

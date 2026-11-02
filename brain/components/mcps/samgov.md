@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-06T22:59:22Z"
+pushed_at: "2026-10-29T06:05:36Z"
 ---
 ## What it is
 SAM.gov MCP server providing federal contract opportunities and entity registration data, enabling AI agents to query U.S. government procurement information.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T03:46:29Z"
+pushed_at: "2026-10-31T01:02:33Z"
 ---
 ## What it is
 Enables searching for game deals and looking up games across multiple stores using the CheapShark API.

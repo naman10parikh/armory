@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-16T23:36:38Z"
+pushed_at: "2026-11-02T09:57:34Z"
 ---
 ## What it is
 Enables AI assistants to create, animate, and export ASCII art using natural language, with live browser sync.

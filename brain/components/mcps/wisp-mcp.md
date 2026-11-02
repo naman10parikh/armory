@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T16:40:28Z"
+pushed_at: "2026-10-29T18:56:15Z"
 ---
 ## What it is
 A Model Context Protocol server that connects to a WISP game panel, letting AI clients inspect and manage game servers (state, files, console, backups, databases) with read-only defaults and opt-in capabilities.

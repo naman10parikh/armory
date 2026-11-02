@@ -8,12 +8,12 @@ source_url: https://github.com/kernel/kernel-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
-pushed_at: "2026-10-26T13:51:54Z"
+forks: 10
+pushed_at: "2026-10-30T21:35:26Z"
 ---
 ## What it is
 MCP server `Kernel Platform`, catalogued on PulseMCP. Integrates with Kernel platform's cloud deployment and browser automation services to enable app deployment with dependency resolution, browser session management with stealth capabilities, and automated testing workflows through OAuth2-secured API access.

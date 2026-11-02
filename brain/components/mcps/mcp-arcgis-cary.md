@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T22:27:04Z"
+pushed_at: "2026-10-30T07:30:28Z"
 ---
 ## What it is
 Enables interaction with Town of Cary GIS open geospatial data (parcels, zoning, parks, etc.) through natural language or direct tool calls, allowing dataset search, feature querying, and schema inspection.

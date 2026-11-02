@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T00:15:48Z"
+pushed_at: "2026-11-02T02:46:50Z"
 ---
 ## What it is
 Enables looking up HTTP status codes (100-599) with reason phrases, categories, and meanings, and listing statuses filtered by class, all offline and without keys.

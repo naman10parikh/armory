@@ -8,12 +8,12 @@ source_url: https://github.com/JUNKDOGE-JOE/after-effects-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 87
+stars: 90
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 7
 pushed_at: "2026-10-22T10:42:17Z"
 ---
 ## What it is

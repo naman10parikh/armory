@@ -8,11 +8,11 @@ source_url: https://github.com/timecyber/email-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 89
+stars: 91
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
+forks: 12
 pushed_at: "2026-10-16T06:54:54Z"
 ---
 ## What it is

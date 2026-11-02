@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-26T19:15:41Z"
+pushed_at: "2026-11-02T02:52:09Z"
 ---
 ## What it is
 MCP server `Imgflip`, catalogued on PulseMCP. Search meme templates and generate captioned memes using the Imgflip API.

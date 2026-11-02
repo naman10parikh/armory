@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-25T16:03:52Z"
+pushed_at: "2026-10-27T19:05:09Z"
 ---
 ## What it is
 Provides accurate competitive Pokémon information for Pokémon Champions, including damage calculation, type effectiveness, Pokémon data, and regulation legality checks.

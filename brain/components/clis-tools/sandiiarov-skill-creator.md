@@ -8,13 +8,13 @@ source_url: https://github.com/sandiiarov/skill-creator
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 619
+stars: 623
 eval_score: null
 mentions: 3
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 41
+forks: 42
 pushed_at: "2026-06-03T00:23:19Z"
 ---
 ## What it is

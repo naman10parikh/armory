@@ -8,13 +8,13 @@ source_url: https://github.com/emiliaprotocol/emilia-protocol
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 599
+stars: 603
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 17
-pushed_at: "2026-10-26T09:38:47Z"
+forks: 18
+pushed_at: "2026-11-02T09:53:44Z"
 ---
 ## What it is
 The accountability layer for AI agents — a named human's signed yes before an agent does anything irreversible (payment, record change, deploy), then an offline-verifiable Trust Receipt. Apache-2.0, formally verified.

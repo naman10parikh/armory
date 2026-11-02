@@ -8,12 +8,12 @@ source_url: https://github.com/up2itnow0822/webmcp-sdk
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-23T11:07:30Z"
+pushed_at: "2026-11-01T13:42:43Z"
 ---
 ## What it is
 MCP server `WebMCP SDK`, catalogued on PulseMCP. W3C WebMCP toolkit for Chrome 146 to expose websites as structured tools for agents.

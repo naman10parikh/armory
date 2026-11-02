@@ -11,8 +11,8 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, multimedia-process]
-stars: 59
-forks: 10
+stars: 62
+forks: 11
 pushed_at: "2026-10-06T00:12:34Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T03:56:16Z"
+pushed_at: "2026-11-01T02:01:47Z"
 ---
 ## What it is
 Enables querying recent bird observations from the eBird citizen-science database by location.

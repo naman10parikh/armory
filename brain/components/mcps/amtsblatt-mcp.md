@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T16:45:08Z"
+pushed_at: "2026-11-01T10:16:48Z"
 ---
 ## What it is
 MCP server for amtsblattportal.ch — the Swiss official gazette portal (SHAB + 27 cantonal gazettes). Public procurement and official notices, person-data rubrics excluded by design.

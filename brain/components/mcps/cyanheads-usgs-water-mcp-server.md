@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/usgs-water-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-20T07:50:00Z"
+forks: 1
+pushed_at: "2026-10-29T04:11:30Z"
 ---
 ## What it is
 Query real-time and historical water data from ~8,000 USGS stream gages and groundwater wells via MCP, with 7 tools and 2 resources.

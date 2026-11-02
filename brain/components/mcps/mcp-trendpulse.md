@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T13:04:46Z"
+pushed_at: "2026-10-30T13:17:29Z"
 ---
 ## What it is
 MCP server that integrates Google News and Google Trends, enabling AI models to fetch news, analyze search interest, calculate growth rates, and summarize articles.

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, search-data-extraction]
 stars: 1
 forks: 0
-pushed_at: "2026-10-26T04:23:27Z"
+pushed_at: "2026-10-30T00:05:47Z"
 ---
 ## What it is
 MCP server that provides comprehensive WHOIS lookup capabilities using the IP2WHOIS API. This server allows AI agents to query domain registration details, including expiry dates, registrar information, and registrant data.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T23:06:22Z"
+pushed_at: "2026-11-01T01:50:56Z"
 ---
 ## What it is
 Delaware DMV MCP server that provides tools to query vehicle registrations, EV adoption, EV and charger rebates, and traffic crash statistics in Delaware.

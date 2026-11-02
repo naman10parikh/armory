@@ -8,13 +8,13 @@ source_url: https://github.com/tiptreesystems/lacuna-research-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 49
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-10-23T01:42:43Z"
+forks: 4
+pushed_at: "2026-11-02T12:49:40Z"
 ---
 ## What it is
 Empowers coding agents for machine learning research by providing access to Lacuna's research map, including novel research proposals, research directions, papers, authors, venues, institutions, and hypotheses. It enables searching and retrieving context-aware research information through MCP tools.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T14:59:29Z"
+pushed_at: "2026-10-27T14:55:33Z"
 ---
 ## What it is
 Grants AI assistants read/write access to your ButterStack game dev pipeline, including tasks, builds, asset approvals, and project status through MCP.

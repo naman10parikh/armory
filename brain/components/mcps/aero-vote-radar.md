@@ -8,13 +8,13 @@ source_url: https://github.com/araxis33/aero-vote-radar
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-26T13:50:25Z"
+forks: 1
+pushed_at: "2026-11-02T16:51:05Z"
 ---
 ## What it is
 An MCP server + CLI that reads live on-chain data from Aerodrome Finance (Base) to rank pools by veAERO vote efficiency, and recommends a vote allocation that accounts for self-dilution.

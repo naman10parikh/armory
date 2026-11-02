@@ -8,11 +8,11 @@ source_url: https://github.com/hetpatel-11/adobe_premiere_pro_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 758
+stars: 804
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 142
+forks: 151
 pushed_at: "2026-10-24T21:21:21Z"
 ---
 ## What it is

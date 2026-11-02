@@ -13,7 +13,7 @@ related: []
 tags: [mcp, knowledge-memory]
 stars: 17
 forks: 0
-pushed_at: "2026-10-16T21:38:41Z"
+pushed_at: "2026-10-31T15:26:20Z"
 ---
 ## What it is
 Local-first Obsidian vault MCP server for Codex, Claude Desktop, and other MCP clients. Works directly with markdown files, no Obsidian plugin, API key, cloud service, or running Obsidian app required. Includes read-only mode, backup-on-write, path isolation, and setup examples.

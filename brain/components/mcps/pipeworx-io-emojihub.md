@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-25T04:00:05Z"
+pushed_at: "2026-11-01T20:49:25Z"
 ---
 ## What it is
 MCP server `EmojiHub`, catalogued on PulseMCP. Retrieve emoji data and random emoji by category using the EmojiHub API.

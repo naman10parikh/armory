@@ -8,13 +8,13 @@ source_url: https://github.com/line/line-bot-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 792
+stars: 796
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 155
-pushed_at: "2026-10-24T16:57:33Z"
+forks: 158
+pushed_at: "2026-11-02T16:38:47Z"
 ---
 ## What it is
 MCP server that integrates the LINE Messaging API to enable AI agents to send messages and manage LINE Official Accounts.

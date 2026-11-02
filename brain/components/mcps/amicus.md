@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T19:14:30Z"
+pushed_at: "2026-10-28T20:36:56Z"
 ---
 ## What it is
 Enables multi-model LLM council reviews and parallel sidecar conversations within Claude, allowing Claude to orchestrate structured reviews from various AI models and fold their responses back into the session.

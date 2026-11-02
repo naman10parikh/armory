@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-04T00:43:58Z"
+pushed_at: "2026-11-01T20:54:26Z"
 ---
 ## What it is
 MCP server `TickerDB`, catalogued on PulseMCP. Pre-computed market data for AI agents that improves reasoning and reduces token usage.

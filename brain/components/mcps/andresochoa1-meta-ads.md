@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-03T19:31:52Z"
+pushed_at: "2026-10-29T13:09:37Z"
 ---
 ## What it is
 MCP server `Meta Ads`, catalogued on PulseMCP. Security-focused Meta Ads API access with 18 tools including zero-trust architecture and SSRF protection.

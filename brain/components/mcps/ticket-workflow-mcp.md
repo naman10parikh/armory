@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T12:38:35Z"
+pushed_at: "2026-11-01T05:45:29Z"
 ---
 ## What it is
 Enables management of a local-first, per-repo ticket board with git/PR pipeline using markdown files and MCP tools for ticket operations.

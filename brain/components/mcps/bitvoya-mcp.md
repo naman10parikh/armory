@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-13T15:16:50Z"
+pushed_at: "2026-10-29T11:37:00Z"
 ---
 ## What it is
 Luxury hotel intelligence and secure checkout handoff for AI travel agents.

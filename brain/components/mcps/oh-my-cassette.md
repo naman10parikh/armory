@@ -8,13 +8,13 @@ source_url: https://github.com/Cassette-Editor/oh-my-cassette
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 118
+stars: 207
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-10-22T01:25:12Z"
+forks: 11
+pushed_at: "2026-11-01T01:27:15Z"
 ---
 ## What it is
 Chat raw clips into a finished cut. Ingest local media, then drive a persistent multi-turn editing thread on the Cassette agent.

@@ -8,14 +8,14 @@ source_url: https://github.com/AgriciDaniel/claude-ads
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 10436
+stars: 10673
 eval_score: null
 mentions: 3
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 1524
-pushed_at: "2026-10-17T01:35:42Z"
+forks: 1551
+pushed_at: "2026-11-01T21:08:14Z"
 ---
 ## What it is
 Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded audits, deterministic scoring, versioned JSON reports, and capability-gated account changes.

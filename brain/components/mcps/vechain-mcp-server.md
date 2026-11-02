@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-22T16:24:23Z"
+pushed_at: "2026-11-01T14:07:48Z"
 ---
 ## What it is
 Enables AI assistants to search VeChain documentation, query blockchain data (blocks, transactions, accounts), and interact with tokens, NFTs, and VeBetterDAO tools through the Model Context Protocol.

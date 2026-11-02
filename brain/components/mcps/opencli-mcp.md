@@ -8,13 +8,13 @@ source_url: https://github.com/AloneAtWar/opencli-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-18T08:39:43Z"
+pushed_at: "2026-10-27T18:56:30Z"
 ---
 ## What it is
 MCP server wrapping OpenCLI to let agents control a real Windows Chrome browser, reusing existing login sessions and extensions, with DOM/AX snapshot, action, and network capabilities.

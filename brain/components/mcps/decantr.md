@@ -8,12 +8,12 @@ source_url: https://github.com/decantr-ai/decantr
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-18T02:46:55Z"
+pushed_at: "2026-10-30T20:32:07Z"
 ---
 ## What it is
 MCP server `Decantr`, catalogued on PulseMCP. Design intelligence layer that keeps AI-generated UI visually consistent via design contracts.

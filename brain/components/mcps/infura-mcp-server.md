@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-26T09:10:29Z"
+pushed_at: "2026-10-31T14:34:07Z"
 ---
 ## What it is
 Enables AI assistants to query blockchain data across 30+ networks via Infura, using natural language for blocks, transactions, contracts, and more.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-04-02T14:36:06Z"
+pushed_at: "2026-10-28T07:17:11Z"
 ---
 ## What it is
 Enables natural language interaction with JSON files, providing tools to load, query, aggregate, transform, and export data directly from AI editors.

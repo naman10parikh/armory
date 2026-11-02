@@ -8,12 +8,12 @@ source_url: https://github.com/albaker-group/cloudprice-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-25T07:29:42Z"
+pushed_at: "2026-11-01T09:58:22Z"
 ---
 ## What it is
 MCP server `CloudPrice`, catalogued on PulseMCP. Compare cloud pricing across AWS, Azure, and GCP for infrastructure decisions.

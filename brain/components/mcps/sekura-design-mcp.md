@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T18:32:12Z"
+pushed_at: "2026-11-01T16:08:19Z"
 ---
 ## What it is
 Serves the complete Sekura Design System—tokens, components, layouts, UX patterns, accessibility contract, and paste-ready code—to MCP-capable tools, enabling agents to build accessible, dark-mode-first interfaces with verified values.

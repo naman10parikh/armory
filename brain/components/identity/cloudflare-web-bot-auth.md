@@ -8,14 +8,14 @@ source_url: https://github.com/cloudflare/web-bot-auth
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 174
+stars: 176
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
 forks: 45
-pushed_at: "2026-10-26T09:34:55Z"
+pushed_at: "2026-11-02T12:24:44Z"
 ---
 ## What it is
 Use when a website has to be able to tell that a request really came from your agent and not from someone impersonating it.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T21:05:11Z"
+pushed_at: "2026-10-29T05:48:48Z"
 ---
 ## What it is
 Enables SMS marketing for Shopify via Postscript, allowing AI agents to manage campaigns and communications through natural language queries.

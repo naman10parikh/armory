@@ -8,14 +8,14 @@ source_url: https://github.com/thu-nics/C2C
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 734
+stars: 767
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 94
-pushed_at: "2026-10-09T05:37:25Z"
+forks: 96
+pushed_at: "2026-10-28T05:01:09Z"
 ---
 ## What it is
 [ICLR'26] The official code implementation for "Cache-to-Cache: Direct Semantic Communication Between Large Language Models"

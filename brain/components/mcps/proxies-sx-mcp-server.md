@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-19T11:45:29Z"
+pushed_at: "2026-10-30T08:44:41Z"
 ---
 ## What it is
 Enables AI agents to autonomously buy and operate mobile proxies via MCP, supporting both API key and on-chain USDC payments for tasks like port creation, IP rotation, and traffic management.

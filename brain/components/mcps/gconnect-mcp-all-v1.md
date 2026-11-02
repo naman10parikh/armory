@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T09:55:47Z"
+pushed_at: "2026-10-29T12:43:00Z"
 ---
 ## What it is
 Enables connecting Claude.ai to Google Analytics and Google Ads through a unified MCP server, with per-operator Google account connections, read-only Ads REST v25 access, and a shared resolver for multiple Google product APIs.

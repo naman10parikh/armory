@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T10:32:32Z"
+pushed_at: "2026-10-29T13:56:49Z"
 ---
 ## What it is
 Unified MCP server for Addigy device management, exposing both v2 and legacy v1 APIs to query devices, alerts, policies, and applications.

@@ -8,7 +8,7 @@ source_url: https://github.com/koul777/Public-Regulation-MCP-Builder
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 44
+stars: 43
 eval_score: null
 verified_at: 2026-05-27
 related: []

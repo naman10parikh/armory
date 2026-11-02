@@ -8,12 +8,12 @@ source_url: https://github.com/1mcp-app/agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 524
+stars: 526
 verified_at: 2026-05-26
 related: []
 tags: [mcp]
-forks: 68
-pushed_at: "2026-10-25T16:15:09Z"
+forks: 71
+pushed_at: "2026-11-02T15:47:12Z"
 ---
 
 ## What it is

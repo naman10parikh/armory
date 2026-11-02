@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T09:32:16Z"
+pushed_at: "2026-10-29T19:47:15Z"
 ---
 ## What it is
 MCP server for Smart Compost platform that lets LLM agents list composting processes/devices and pull measurements as read-only tools.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T05:05:16Z"
+pushed_at: "2026-10-26T20:50:47Z"
 ---
 ## What it is
 Enables uploading and serving static websites via MCP tools, with automatic path prefix injection for multi-file sites.

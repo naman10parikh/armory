@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-26T13:51:22Z"
+pushed_at: "2026-11-02T15:06:14Z"
 ---
 ## What it is
 Provides 45 real-time tools and 6 prompts for interacting with KAZM 106.5 FM & 780 AM, including now playing, song requests, local news, weather, events, and Sedona-specific guides like vortex and hiking information.

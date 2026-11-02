@@ -8,12 +8,12 @@ source_url: https://github.com/verygoodplugins/mcp-freescout
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 30
+stars: 31
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 15
+forks: 16
 pushed_at: "2026-10-22T16:53:58Z"
 ---
 ## What it is

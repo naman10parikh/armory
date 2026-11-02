@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-26T02:02:53Z"
+pushed_at: "2026-11-01T02:54:48Z"
 ---
 ## What it is
 MCP server `XCStrings CRUD`, catalogued on PulseMCP. Manages Apple's xcstrings localization files with complete CRUD operations for key creation, translation updates, coverage statistics, and batch processing across multiple files for iOS/macOS internationalization workflows.

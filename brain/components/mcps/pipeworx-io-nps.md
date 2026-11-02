@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-26T20:03:17Z"
+pushed_at: "2026-10-29T05:14:02Z"
 ---
 ## What it is
 MCP server `NPS`, catalogued on PulseMCP. US National Park Service data for parks, campgrounds, visitor centers, alerts, and activities via the Pipeworx gateway.

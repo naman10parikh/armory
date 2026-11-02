@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-26T00:37:03Z"
+pushed_at: "2026-11-02T00:37:03Z"
 ---
 ## What it is
 MCP server for querying validated EuroLeague and EuroCup basketball analytics, including possession-based metrics, four factors, and lineup-level on/off data reconstructed from play-by-play events.

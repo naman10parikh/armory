@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T23:20:31Z"
+pushed_at: "2026-11-01T01:54:37Z"
 ---
 ## What it is
 Computes line-level diffs between two texts, returning added/removed lines and a unified diff string.

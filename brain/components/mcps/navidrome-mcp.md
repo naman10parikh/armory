@@ -8,13 +8,13 @@ source_url: https://github.com/312-dev/navidrome-mcp
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T19:17:03Z"
+pushed_at: "2026-11-01T01:08:05Z"
 ---
 ## What it is
 Enables building mood-based playlists for Navidrome by joining your library, listen history, and personal playlist labels from Navidrome, ListenBrainz, and Last.fm.

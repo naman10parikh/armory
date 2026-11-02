@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T13:03:40Z"
+pushed_at: "2026-11-02T11:24:43Z"
 ---
 ## What it is
 Enables AI agents to perform electronics design automation through the ZapTrace EDA kernel, including parsing designs, running ERC, placing components, routing nets, and generating manufacturing outputs (Gerber, BOM, etc.).

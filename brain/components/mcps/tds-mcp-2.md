@@ -8,13 +8,13 @@ source_url: https://github.com/Guipegoraro/tds-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T15:09:38Z"
+pushed_at: "2026-10-28T18:30:39Z"
 ---
 ## What it is
 Enables AI assistants to compile AdvPL/TLPP sources, generate and apply patches, and inspect RPO of TOTVS Protheus servers via the TDS Language Server.

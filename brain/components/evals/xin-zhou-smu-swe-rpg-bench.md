@@ -8,7 +8,7 @@ source_url: https://github.com/Xin-Zhou-smu/SWE-RPG-Bench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-05T01:14:44Z"
+pushed_at: "2026-10-28T03:22:05Z"
 ---
 ## What it is
 MCP server `Digilent WaveForms`, catalogued on PulseMCP. Control Digilent WaveForms instruments including oscilloscope, AWG, and logic analyzer.

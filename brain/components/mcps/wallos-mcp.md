@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T13:27:56Z"
+pushed_at: "2026-10-29T19:21:41Z"
 ---
 ## What it is
 MCP server that connects a self-hosted Wallos subscription tracker to AI assistants, enabling management of subscriptions, categories, payment methods, and more via the Wallos API. Runs on Cloudflare Workers with OAuth 2.1 authentication.

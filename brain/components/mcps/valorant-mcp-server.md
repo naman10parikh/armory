@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-06T22:15:18Z"
+pushed_at: "2026-10-30T14:36:37Z"
 ---
 ## What it is
 MCP server for Valorant match analysis. Enables fetching player stats, match history, agent performance, and more via Henrik's Valorant API.

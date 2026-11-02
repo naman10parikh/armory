@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-26T20:04:19Z"
+pushed_at: "2026-10-29T05:15:18Z"
 ---
 ## What it is
 MCP server `NWS`, catalogued on PulseMCP. US National Weather Service forecasts, alerts, and observation data for US locations with no authentication required via Pipeworx.

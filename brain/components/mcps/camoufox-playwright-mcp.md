@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-29T09:16:36Z"
+pushed_at: "2026-10-27T14:31:49Z"
 ---
 ## What it is
 An MCP server that provides a stealth-enhanced Playwright browser automation engine with anti-detection features, enabling AI agents to navigate websites, interact with elements, and bypass anti-bot systems.

@@ -8,13 +8,13 @@ source_url: https://github.com/AnthonyPuggs/ausecon-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T11:35:21Z"
+pushed_at: "2026-11-01T04:38:49Z"
 ---
 ## What it is
 MCP server for structured Australian macroeconomic and financial data from the Australian Bureau of Statistics (ABS), the Reserve Bank of Australia (RBA), and the Australian Prudential Regulation Authority (APRA).

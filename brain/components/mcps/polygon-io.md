@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T21:21:01Z"
+pushed_at: "2026-10-29T05:47:05Z"
 ---
 ## What it is
 Provides access to Polygon.io financial data including tickers, OHLC aggregates, daily open/close prices, and news via MCP gateway.

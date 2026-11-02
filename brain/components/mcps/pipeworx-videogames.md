@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-26T22:17:48Z"
+pushed_at: "2026-10-29T07:06:09Z"
 ---
 ## What it is
 MCP server `Pipeworx Videogames`, catalogued on PulseMCP. Proxies the FreeToGame API for browsing free-to-play game listings and details.

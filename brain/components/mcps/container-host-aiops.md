@@ -8,13 +8,13 @@ source_url: https://github.com/AIops-tools/Container-Host-AIops
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T09:18:13Z"
+pushed_at: "2026-10-30T01:36:11Z"
 ---
 ## What it is
 Governed Docker + Portainer container-host operations (non-Kubernetes) — restart-loop, resource-pressure, and image/volume-bloat RCA, with guarded lifecycle writes, unbypassable audit logging (MCP + CLI), budget/runaway guards, dry-run, and undo/rollback.

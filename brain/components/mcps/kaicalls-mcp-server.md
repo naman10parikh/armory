@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T03:50:32Z"
+pushed_at: "2026-10-30T16:59:08Z"
 ---
 ## What it is
 AI-powered phone answering service for businesses — exposed as a remote Model Context Protocol server.

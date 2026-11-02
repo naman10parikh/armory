@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-26T01:47:33Z"
+pushed_at: "2026-10-31T02:41:16Z"
 ---
 ## What it is
 One MCP to rule them all. A single MCP endpoint that aggregates many downstream connectors — remote MCP servers and plain HTTP APIs — and presents agents a fixed set of nine meta-tools.

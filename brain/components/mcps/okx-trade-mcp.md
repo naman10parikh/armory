@@ -8,13 +8,13 @@ source_url: https://github.com/okx/agent-trade-kit
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 492
+stars: 499
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 79
-pushed_at: "2026-10-19T07:05:35Z"
+forks: 80
+pushed_at: "2026-11-02T10:59:41Z"
 ---
 ## What it is
 MCP server connecting AI assistants to OKX exchange, enabling trading, market data, account management, and more via 150+ tools across 11 modules.

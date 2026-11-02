@@ -8,14 +8,14 @@ source_url: https://github.com/alibaba/open-code-review
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 48328
+stars: 49285
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3537
-pushed_at: "2026-10-22T04:24:26Z"
+forks: 3614
+pushed_at: "2026-11-02T15:05:55Z"
 ---
 ## What it is
 Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.

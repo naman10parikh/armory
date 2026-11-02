@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-23T21:31:49Z"
+pushed_at: "2026-10-31T23:54:43Z"
 ---
 ## What it is
 Connects AI assistants to TTRPG campaign data for managing characters, sessions, locations, factions, items, quests, and more.

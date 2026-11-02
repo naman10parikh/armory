@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T22:06:32Z"
+pushed_at: "2026-10-29T06:56:15Z"
 ---
 ## What it is
 Enables searching and retrieving UK research grants, award values, institutions, and publications from the UKRI Gateway to Research API without authentication.

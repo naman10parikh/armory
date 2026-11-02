@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-22T13:08:32Z"
+pushed_at: "2026-10-29T14:24:01Z"
 ---
 ## What it is
 MCP server `Hudu`, catalogued on PulseMCP. Provides AI access to the Hudu IT documentation platform for managing companies, assets, passwords, and knowledge base articles.

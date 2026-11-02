@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T07:46:37Z"
+pushed_at: "2026-10-31T21:02:36Z"
 ---
 ## What it is
 Enables printing of Yamato B2 Cloud shipping label PDFs to a thermal label printer through a Raspberry Pi-based MCP server.

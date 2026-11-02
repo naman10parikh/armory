@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T03:44:11Z"
+pushed_at: "2026-10-31T21:06:41Z"
 ---
 ## What it is
 Enables listing thematic groups/categories on data.gov.ie (Ireland's national open-data portal) via the CKAN API.

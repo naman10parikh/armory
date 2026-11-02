@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T11:16:05Z"
+pushed_at: "2026-11-01T16:03:08Z"
 ---
 ## What it is
 A local MCP server for governed support-ticket triage that reads synthetic tickets and knowledge articles, prepares evidence-backed recommendations, and records local audit events.

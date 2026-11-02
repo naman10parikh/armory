@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T14:46:15Z"
+pushed_at: "2026-11-02T04:56:25Z"
 ---
 ## What it is
 MCP server for interacting with the Krova Cloud API, enabling AI assistants like Claude to manage cloud resources.

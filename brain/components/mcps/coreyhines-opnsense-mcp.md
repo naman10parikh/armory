@@ -12,8 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
 stars: 11
-forks: 1
-pushed_at: "2026-10-25T21:17:50Z"
+forks: 2
+pushed_at: "2026-10-30T20:21:23Z"
 ---
 ## What it is
 OPNsense firewall operations via API. Query ARP, DHCP, firewall rules, logs, interfaces, system status, and packet capture via STDIO or SSE.

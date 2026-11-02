@@ -8,12 +8,12 @@ source_url: https://github.com/voxel51/fiftyone-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-09-24T05:30:10Z"
+pushed_at: "2026-10-28T05:02:16Z"
 ---
 ## What it is
 MCP server `FiftyOne`, catalogued on PulseMCP. Control FiftyOne computer vision datasets through MCP tools

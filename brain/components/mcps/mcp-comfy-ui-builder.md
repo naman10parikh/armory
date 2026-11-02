@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T04:59:22Z"
+pushed_at: "2026-10-30T18:12:50Z"
 ---
 ## What it is
 Enables discovery of ComfyUI nodes and building/managing workflows with real-time execution via WebSocket. Provides 50+ tools for node discovery, workflow building, template usage, model management, and batch/chain execution.

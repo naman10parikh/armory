@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-15T16:35:45Z"
+pushed_at: "2026-10-31T02:56:06Z"
 ---
 ## What it is
 MCP server `SSH`, catalogued on PulseMCP. Manages SSH environments, diagnoses connection issues, and enables remote operations including git, deployments, and server access.

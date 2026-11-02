@@ -8,11 +8,11 @@ source_url: https://github.com/kennethreitz/mcp-applemusic
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 91
+stars: 92
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 24
+forks: 23
 pushed_at: "2025-09-11T11:06:27Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/skyhook-io/radar
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3914
+stars: 4018
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 257
-pushed_at: "2026-10-26T14:00:58Z"
+forks: 265
+pushed_at: "2026-11-02T16:30:01Z"
 ---
 ## What it is
 Radar is an open-source Kubernetes observability and diagnostics MCP server. It exposes cluster health, workload diagnosis, logs, events, topology, audit findings, and remediation actions to AI agents through the Model Context Protocol.

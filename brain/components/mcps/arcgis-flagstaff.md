@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T22:32:21Z"
+pushed_at: "2026-10-30T07:35:30Z"
 ---
 ## What it is
 Enables querying City of Flagstaff open geospatial data via ArcGIS, including searching datasets, querying feature layers, and retrieving layer schemas.

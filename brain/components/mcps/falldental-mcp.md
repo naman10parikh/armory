@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T17:07:00Z"
+pushed_at: "2026-10-31T16:15:11Z"
 ---
 ## What it is
 Enables sovereign, offline-capable dental practice management with Ed25519-signed transactions, running on your own infrastructure.

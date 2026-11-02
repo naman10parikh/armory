@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T01:01:24Z"
+pushed_at: "2026-11-01T00:26:46Z"
 ---
 ## What it is
 An MCP server that lets AI agents directly inspect and interact with live, logged-in browsers to debug PWAs and modern web apps, including framework state, stores, service workers, and caches.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-27T23:42:14Z"
+pushed_at: "2026-10-29T20:31:30Z"
 ---
 ## What it is
 MCP server `DB Tool`, catalogued on PulseMCP. Executes SQL queries against SQLite, MySQL, and PostgreSQL databases with sandboxed Perl code filtering for server-side row transformations.

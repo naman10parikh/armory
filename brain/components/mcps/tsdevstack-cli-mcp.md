@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T18:47:51Z"
+pushed_at: "2026-10-28T15:35:17Z"
 ---
 ## What it is
 MCP server plugin for the tsdevstack CLI, enabling AI agents to manage infrastructure, deployment, and project state with 54 tools and 12 resources.

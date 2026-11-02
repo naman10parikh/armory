@@ -9,12 +9,12 @@ source_url: https://github.com/microsoft/playwright-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38652
+stars: 38996
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3316
-pushed_at: "2026-10-22T17:43:26Z"
+forks: 3362
+pushed_at: "2026-11-01T23:12:55Z"
 mentions: 4
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-16T02:38:01Z"
+pushed_at: "2026-10-26T17:22:25Z"
 ---
 ## What it is
 MCP server that wraps MiniMax platform APIs (speech, video, image, music, and file management) as tools over stdio, enabling natural language interaction with MiniMax's AI services.

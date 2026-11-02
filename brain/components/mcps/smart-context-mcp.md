@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-18T08:55:49Z"
+pushed_at: "2026-10-27T19:31:39Z"
 ---
 ## What it is
 MCP server that reduces AI agent token usage by up to 90% through intelligent context compression. Enables efficient code exploration, multi-file refactoring, and debugging by providing tools for smart reading, searching, and managing code context.

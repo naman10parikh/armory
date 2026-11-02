@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-07T08:06:11Z"
+pushed_at: "2026-10-26T14:39:25Z"
 ---
 ## What it is
 远程托管的MCP服务，支持通过自然语言查询一级市场结构化数据，包括公司、融资和投资信息。

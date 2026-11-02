@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T08:12:15Z"
+pushed_at: "2026-10-29T18:59:32Z"
 ---
 ## What it is
 Enables natural language control of HFSS (v2019-2025) for antenna modeling, simulation, and result extraction via win32com without PyAEDT.

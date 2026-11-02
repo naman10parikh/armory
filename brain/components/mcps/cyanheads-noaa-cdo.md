@@ -8,11 +8,11 @@ source_url: https://github.com/cyanheads/noaa-cdo-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
+forks: 1
 pushed_at: "2026-10-23T05:40:35Z"
 ---
 ## What it is

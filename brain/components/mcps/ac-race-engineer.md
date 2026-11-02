@@ -8,13 +8,13 @@ source_url: https://github.com/mishan/assetto-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T20:25:42Z"
+pushed_at: "2026-10-30T02:23:25Z"
 ---
 ## What it is
 Turns Claude into a race engineer for original Assetto Corsa by reading telemetry, storing laps, and providing engineer-grade summaries, alongside read/write access to car setups.

@@ -15,7 +15,7 @@ related: []
 tags: [glama, mcp]
 mentions: null
 forks: 2
-pushed_at: "2026-08-06T22:39:09Z"
+pushed_at: "2026-10-26T16:22:39Z"
 ---
 ## What it is
 Provides real-time documentation retrieval for coding agents, answering implementation questions with compact, cited context assembled from developer documentation and live web search via a single MCP context tool.

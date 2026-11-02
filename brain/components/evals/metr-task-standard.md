@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, agents, task-standard, safety]
-forks: 40
+forks: 39
 pushed_at: "2026-10-07T14:04:00Z"
 ---
 ## What it is

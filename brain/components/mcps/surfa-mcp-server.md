@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T22:41:33Z"
+pushed_at: "2026-10-31T10:54:15Z"
 ---
 ## What it is
 Query your Surfa Analytics data using natural language through Claude Desktop, ChatGPT, or any MCP-compatible client. Turn your analytics into insights with AI.

@@ -8,12 +8,12 @@ source_url: https://github.com/tunglt1810/figma-mcp-go
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
+forks: 11
 pushed_at: "2026-10-14T02:26:17Z"
 ---
 ## What it is

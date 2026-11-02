@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T22:32:10Z"
+pushed_at: "2026-10-30T07:35:20Z"
 ---
 ## What it is
 Enables querying and searching Fauquier County, Virginia open geospatial datasets (parcels, zoning, addresses, public works) via ArcGIS Feature Services.

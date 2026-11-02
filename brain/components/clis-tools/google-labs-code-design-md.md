@@ -8,13 +8,13 @@ source_url: https://github.com/google-labs-code/design.md
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 28543
+stars: 28688
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2264
+forks: 2282
 pushed_at: "2026-10-16T18:21:44Z"
 ---
 ## What it is

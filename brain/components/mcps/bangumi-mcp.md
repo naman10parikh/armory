@@ -8,13 +8,13 @@ source_url: https://github.com/etherwindy/Bangumi-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-06-16T04:05:32Z"
+pushed_at: "2026-10-27T18:54:08Z"
 ---
 ## What it is
 Enables searching and retrieving information about anime, manga, and related content via the Bangumi API.

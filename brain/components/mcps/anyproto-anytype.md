@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 62
-pushed_at: "2026-10-19T16:55:53Z"
+pushed_at: "2026-11-02T16:56:34Z"
 ---
 ## What it is
 MCP server `Anytype`, catalogued on PulseMCP. Converts any OpenAPI 3.0/3.1 specification into callable tools by automatically generating schemas from REST API endpoints, handling authentication via environment variables, and supporting file uploads through multipart form-data while filtering out destructive operations.

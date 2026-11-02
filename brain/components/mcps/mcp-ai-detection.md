@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-17T19:06:53Z"
+pushed_at: "2026-10-27T16:45:28Z"
 ---
 ## What it is
 Enables multi-tier AI-detection screening on academic papers by extracting text from .tex and .docx files, splitting into standard sections, and running a pipeline of statistical and LLM-based analysis.

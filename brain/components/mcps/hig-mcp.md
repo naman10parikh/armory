@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-10-24T18:57:50Z"
+pushed_at: "2026-10-29T23:10:59Z"
 ---
 ## What it is
 MCP server for Apple HIG compliance auditing, providing tools to list skills, search/lookup HIG references, audit files/projects, and explain findings.

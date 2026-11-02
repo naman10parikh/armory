@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-25T17:23:46Z"
+pushed_at: "2026-10-31T15:18:09Z"
 ---
 ## What it is
 Ultra-lightweight, local-first MCP server for AI-powered code intelligence, providing AST-based analysis and 20+ tools while ensuring zero data leakage.

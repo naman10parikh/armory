@@ -12,8 +12,8 @@ stars: 462
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 375
-pushed_at: "2026-10-16T16:44:59Z"
+forks: 377
+pushed_at: "2026-10-28T17:26:32Z"
 ---
 ## What it is
 MCP server `GitKraken`, catalogued on PulseMCP. Git CLI with integrated MCP server for GitHub, GitLab, Bitbucket, Azure DevOps, and Jira

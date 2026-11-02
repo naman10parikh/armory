@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-25T19:03:41Z"
+pushed_at: "2026-11-02T01:20:34Z"
 ---
 ## What it is
 A local, repository-scoped MCP coordination bridge that lets Claude Code and Codex work together in the same checkout via tasks, leases, and evidence-based completion, preventing conflicting edits and enabling bounded delegation.

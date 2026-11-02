@@ -8,11 +8,11 @@ source_url: https://github.com/mhaggis/security-detections-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 502
+stars: 505
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 80
+forks: 81
 pushed_at: "2026-06-16T14:17:13Z"
 ---
 ## What it is

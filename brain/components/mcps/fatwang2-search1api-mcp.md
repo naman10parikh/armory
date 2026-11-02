@@ -12,8 +12,8 @@ stars: 173
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 38
-pushed_at: "2026-10-26T13:27:49Z"
+forks: 39
+pushed_at: "2026-10-31T14:29:18Z"
 ---
 ## What it is
 MCP server `Search1API`, catalogued on PulseMCP. Execute web searches, news queries, and content extraction.

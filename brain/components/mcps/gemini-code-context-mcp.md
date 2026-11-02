@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-26T07:09:12Z"
+pushed_at: "2026-11-01T01:17:39Z"
 ---
 ## What it is
 MCP server `Gemini Code Context`, catalogued on PulseMCP. Persistent Gemini 2M context cache for Claude Code — repeat queries up to 8× faster and 4× cheaper.

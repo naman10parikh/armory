@@ -8,13 +8,13 @@ source_url: https://github.com/webloomhq/engine
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T23:39:23Z"
+pushed_at: "2026-10-29T18:29:38Z"
 ---
 ## What it is
 MCP server giving AI agents 86 tools for browser automation via Chrome DevTools Protocol, including navigation, click/fill ladders, network inspection, per-site cracks, and optional marketplace for site-specific knowledge packs.

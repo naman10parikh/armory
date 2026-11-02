@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T22:25:33Z"
+pushed_at: "2026-10-30T07:28:59Z"
 ---
 ## What it is
 Enables searching and querying of Allegheny County, Pennsylvania open geospatial data (parcels, addresses, zoning, public works) through ArcGIS Feature Services.

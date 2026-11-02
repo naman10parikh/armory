@@ -8,12 +8,12 @@ source_url: https://github.com/Mahinika/magicavoxel-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 29
+stars: 30
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 4
 pushed_at: "2026-01-16T18:36:54Z"
 ---
 ## What it is

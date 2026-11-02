@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T11:20:29Z"
+pushed_at: "2026-10-28T10:03:34Z"
 ---
 ## What it is
 Provides MCP tools for web scraping, including smart fetching, proxy rotation, and browser rendering to bypass anti-bot challenges and render JavaScript-heavy sites.

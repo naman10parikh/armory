@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T12:14:11Z"
+pushed_at: "2026-10-31T21:40:49Z"
 ---
 ## What it is
 Enables querying EU legal documents, case law, and citation graphs through natural language using the LexAPI.

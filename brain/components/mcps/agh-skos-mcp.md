@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T05:07:17Z"
+pushed_at: "2026-10-30T07:15:06Z"
 ---
 ## What it is
 MCP server for AGH University staff directory (SkOs). Enables searching and retrieving staff profiles without authentication.

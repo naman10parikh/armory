@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T11:09:55Z"
+pushed_at: "2026-11-02T16:04:59Z"
 ---
 ## What it is
 Enables management of 4G/5G mobile proxies from Coronium.io, allowing users to list, rotate, replace, set rotation intervals, buy, renew, and manage subscriptions directly from MCP-compatible AI tools.

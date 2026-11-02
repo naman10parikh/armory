@@ -8,11 +8,11 @@ source_url: https://github.com/edkdev/defi-trading-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 55
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
+forks: 26
 pushed_at: "2026-06-10T10:03:05Z"
 ---
 ## What it is

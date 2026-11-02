@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-02T04:40:02Z"
+pushed_at: "2026-11-02T04:34:26Z"
 ---
 ## What it is
 Geniuz stores everything in a local database locally on Mac, Windows, Linux, Raspberry Pi. No cloud. No account. No API keys. Nothing leaves your machine. It's open source; you can read every line of code.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 74
-pushed_at: "2026-10-23T18:19:01Z"
+forks: 73
+pushed_at: "2026-10-30T12:21:05Z"
 ---
 ## What it is
 Better agentic Elixir Phoenix development, runtime-level tools for your agent to talk to your running app.

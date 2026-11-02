@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-06T22:59:02Z"
+pushed_at: "2026-10-31T19:53:27Z"
 ---
 ## What it is
 An MCP server for Ren'Py project tooling that enables AI agents to inspect game state, evaluate expressions, read/write variables, and capture screenshots from running Ren'Py games.

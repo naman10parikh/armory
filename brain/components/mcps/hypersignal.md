@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T07:08:42Z"
+pushed_at: "2026-10-29T10:58:05Z"
 ---
 ## What it is
 Monetized MCP server for Hyperliquid whale/funding/risk analytics + signals;

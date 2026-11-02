@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T19:20:57Z"
+pushed_at: "2026-10-28T06:39:37Z"
 ---
 ## What it is
 A simple MCP server with OAuth 2.0 authentication for testing OAuth support in mcp-cli.

@@ -12,8 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
-pushed_at: "2026-10-09T00:13:14Z"
+forks: 5
+pushed_at: "2026-10-30T22:39:26Z"
 ---
 ## What it is
 MCP server `Local PM`, catalogued on PulseMCP. Self-hosted project management system with Linear-like Kanban boards that exposes tools for creating projects, managing tickets, assigning teams, and tracking dependencies.

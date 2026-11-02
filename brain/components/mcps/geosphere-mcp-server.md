@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T06:05:11Z"
+pushed_at: "2026-11-02T13:02:10Z"
 ---
 ## What it is
 MCP server for worldwide weather data, using high-resolution GeoSphere Austria data for the Alpine region and Open-Meteo elsewhere. Provides current conditions, hourly forecasts, and daily outlooks with compact emoji-markdown output.

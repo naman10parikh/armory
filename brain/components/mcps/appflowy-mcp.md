@@ -8,12 +8,12 @@ source_url: https://github.com/weironz/appflowy_mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-10-22T06:30:49Z"
 ---
 ## What it is

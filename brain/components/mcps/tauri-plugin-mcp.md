@@ -8,12 +8,12 @@ source_url: https://github.com/P3GLEG/tauri-plugin-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 112
+stars: 113
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 34
+forks: 35
 pushed_at: "2026-10-14T01:03:43Z"
 ---
 ## What it is

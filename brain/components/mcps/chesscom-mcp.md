@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T16:38:22Z"
+pushed_at: "2026-10-30T10:20:07Z"
 ---
 ## What it is
 Enables querying Chess.com public data including player profiles, stats, games, and club information through natural language.

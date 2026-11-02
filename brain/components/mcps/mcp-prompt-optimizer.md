@@ -8,13 +8,13 @@ source_url: https://github.com/nivlewd1/prompt-optimizer
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-26T06:39:10Z"
+pushed_at: "2026-11-02T08:40:40Z"
 ---
 ## What it is
 MCP server for professional prompt engineering and agentic scaffolding, with cloud and local optimization.

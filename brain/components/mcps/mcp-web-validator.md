@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-26T09:59:52Z"
+pushed_at: "2026-10-28T11:58:04Z"
 ---
 ## What it is
 Enables AI coding assistants to validate HTML/CSS markup using W3C APIs, perform technical SEO audits, check broken links, and validate JSON-LD schemas directly in local workspaces.

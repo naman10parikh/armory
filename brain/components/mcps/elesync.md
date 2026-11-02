@@ -8,13 +8,13 @@ source_url: https://github.com/darknodebros/EleSync
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T22:26:49Z"
+pushed_at: "2026-11-01T18:03:25Z"
 ---
 ## What it is
 Privacy-first local memory vault every AI shares over MCP. Markdown + SQLite on your machine; Claude, ChatGPT, Cursor, and any MCP client read and write it live. No cloud, no account, no telemetry

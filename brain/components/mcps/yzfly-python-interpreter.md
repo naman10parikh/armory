@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 35
-pushed_at: "2026-07-02T09:05:18Z"
+pushed_at: "2026-11-01T03:09:59Z"
 ---
 ## What it is
 MCP server `Python Interpreter`, catalogued on PulseMCP. Provides a secure Python execution environment with isolated working directories, enabling code execution, file operations, and package management for development, data analysis, and educational tasks.

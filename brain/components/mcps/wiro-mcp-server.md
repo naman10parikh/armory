@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T17:34:20Z"
+pushed_at: "2026-11-02T05:24:31Z"
 ---
 ## What it is
 Official MCP server for Wiro AI that provides access to hundreds of AI models for generation, editing, and analysis from any MCP-compatible assistant.

@@ -8,11 +8,11 @@ source_url: https://github.com/knowall-ai/mcp-neo4j-agent-memory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 69
+stars: 68
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 16
+forks: 14
 pushed_at: "2026-10-17T22:08:37Z"
 ---
 ## What it is

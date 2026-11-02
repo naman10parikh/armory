@@ -8,13 +8,13 @@ source_url: https://github.com/seungdori/web-stylebook-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 76
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T12:10:10Z"
+pushed_at: "2026-11-02T16:39:33Z"
 ---
 ## What it is
 Provides deterministic, read-only design knowledge for AI coding agents to help them choose visual directions, plan UI states, and compose design tokens, all without network access.

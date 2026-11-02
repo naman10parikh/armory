@@ -8,12 +8,12 @@ source_url: https://github.com/mcpjungle/mcpjungle
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1310
+stars: 1476
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 168
-pushed_at: "2026-10-25T23:05:24Z"
+forks: 189
+pushed_at: "2026-10-30T18:52:17Z"
 ---
 ## What it is
 MCP server `MCPJungle`, catalogued on PulseMCP. Self-hosted MCP tool registry and proxy server that enables centralized discovery, management, and secure access to multiple MCP servers through a unified gateway with authentication, access control, and audit trails.

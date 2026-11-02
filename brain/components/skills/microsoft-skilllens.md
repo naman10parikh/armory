@@ -8,14 +8,14 @@ source_url: https://github.com/microsoft/SkillLens
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 183
+stars: 184
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, skills]
-forks: 21
-pushed_at: "2026-05-25T19:49:05Z"
+forks: 22
+pushed_at: "2026-10-29T08:40:27Z"
 ---
 ## What it is
 SkillLens: a framework for studying model-generated agent skills across the full raw experience generation → skill extraction → skill consumption lifecycle.

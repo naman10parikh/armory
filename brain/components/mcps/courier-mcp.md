@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-13T16:15:35Z"
+pushed_at: "2026-11-02T16:24:28Z"
 ---
 ## What it is
 Enables AI agents to create disposable email inboxes and automatically extract OTPs, magic links, and verification codes from incoming emails.

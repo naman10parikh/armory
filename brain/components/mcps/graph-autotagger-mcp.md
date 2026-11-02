@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-09T19:03:22Z"
+pushed_at: "2026-10-26T14:35:28Z"
 ---
 ## What it is
 A FastMCP server that suggests wikilinks for Obsidian notes based on a pre-computed knowledge graph, helping surface connections while writing.

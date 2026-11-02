@@ -8,14 +8,14 @@ source_url: https://github.com/0xNyk/lacp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 308
+stars: 307
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, memory]
 forks: 3
-pushed_at: "2026-09-22T06:27:09Z"
+pushed_at: "2026-10-26T21:45:03Z"
 ---
 ## What it is
 Local-first policy, evidence, memory, and recovery controls for Claude, Codex, Hermes, and other CLI coding agents.

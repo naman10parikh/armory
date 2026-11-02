@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 38
-pushed_at: "2026-10-16T08:54:16Z"
+pushed_at: "2026-11-01T09:57:42Z"
 ---
 ## What it is
 MCP server `Maigret OSINT`, catalogued on PulseMCP. OSINT Maigret integration to gather user info across social networks.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T22:05:45Z"
+pushed_at: "2026-10-31T00:51:38Z"
 ---
 ## What it is
 Provides access to The Boston Calendar's event tags and keywords, enabling filtering and discovery of events through natural language queries.

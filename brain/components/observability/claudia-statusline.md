@@ -13,7 +13,7 @@ related: [ccometixline-claude-code-statusline, claude-powerline]
 tags: [claude-code, status-lines]
 stars: 37
 forks: 6
-pushed_at: "2026-10-21T20:10:12Z"
+pushed_at: "2026-11-01T12:40:18Z"
 ---
 ## What it is
 High-performance Rust-based statusline for Claude Code with persistent stats tracking, progress bars, and optional cloud sync. Features SQLite-first persistence, git integration, context progress bars, burn rate calculation, XDG-compliant with theme support (dark/light, NO_COLOR).

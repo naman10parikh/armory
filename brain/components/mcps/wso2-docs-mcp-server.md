@@ -8,13 +8,13 @@ source_url: https://github.com/iamvirul/wso2-docs-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-22T01:55:19Z"
+pushed_at: "2026-11-02T03:37:57Z"
 ---
 ## What it is
 Enables AI assistants to semantically search WSO2 documentation across multiple products using retrieval-augmented generation, with support for local or cloud embeddings.

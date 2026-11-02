@@ -8,12 +8,12 @@ source_url: https://github.com/mshegolev/kibana-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-12T15:37:20Z"
+pushed_at: "2026-10-29T20:34:00Z"
 ---
 ## What it is
 MCP server `Kibana`, catalogued on PulseMCP. Search logs, run aggregations, discover indices, and browse dashboards in Kibana and Elasticsearch via MCP.

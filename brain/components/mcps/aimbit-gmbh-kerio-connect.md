@@ -12,8 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-09-02T09:59:02Z"
+forks: 4
+pushed_at: "2026-10-30T08:27:30Z"
 ---
 ## What it is
 MCP server `Kerio Connect`, catalogued on PulseMCP. Integrates with Kerio Connect groupware to manage emails, calendar events, contacts, tasks, and notes through natural language operations including search, batch processing, and folder organization.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 44
-pushed_at: "2026-10-26T08:34:20Z"
+pushed_at: "2026-10-27T13:34:07Z"
 ---
 ## What it is
 MCP server `Sequential Thinking Multi-Agent System`, catalogued on PulseMCP. Orchestrates a team of specialized agents working in parallel to break down complex problems through structured thinking steps, enabling multi-disciplinary analysis with greater depth than single-agent approaches.

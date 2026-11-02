@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-25T11:07:09Z"
+pushed_at: "2026-11-02T03:45:24Z"
 ---
 ## What it is
 Enables AI assistants to manage Repliz workspaces via natural language, including listing and replying to comments, scheduling posts, handling DMs, and browsing content and stats.

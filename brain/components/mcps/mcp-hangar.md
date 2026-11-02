@@ -8,13 +8,13 @@ source_url: https://github.com/mcp-hangar/mcp-hangar
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
-pushed_at: "2026-10-26T13:17:02Z"
+forks: 8
+pushed_at: "2026-11-02T16:54:53Z"
 ---
 ## What it is
 The policy enforcement plane for MCP: deterministic admission and egress policy, attributable audit, and SIEM export for your MCP server fleet. Self-hosted and MIT licensed.

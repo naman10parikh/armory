@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
 stars: 35
-forks: 14
+forks: 15
 pushed_at: "2026-04-27T22:07:59Z"
 ---
 ## What it is

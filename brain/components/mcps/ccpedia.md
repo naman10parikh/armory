@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T22:10:40Z"
+pushed_at: "2026-10-31T14:21:52Z"
 ---
 ## What it is
 Enables AI agents to query the Canton Network ecosystem through a unified MCP endpoint, providing live data from forums, GitHub, docs, CIPs, and more with read-only access.

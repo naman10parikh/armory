@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-26T08:33:19Z"
+pushed_at: "2026-11-01T21:01:26Z"
 ---
 ## What it is
 Self-hosted kanban board that dispatches AI agent fleets against tickets. The embedded Streamable HTTP /mcp endpoint exposes 7 tools to list projects, read boards and tickets, and create, move and comment tickets from any MCP client.

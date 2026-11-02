@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 71
-pushed_at: "2026-10-09T20:17:39Z"
+pushed_at: "2026-10-27T16:54:26Z"
 ---
 ## What it is
 MCP server `Mux Video and Data Platform`, catalogued on PulseMCP. Integrates with Mux's Video and Data platform to enable video upload, live stream management, analytics querying, and performance metrics tracking across video infrastructure without manual dashboard interaction.

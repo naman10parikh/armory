@@ -8,12 +8,12 @@ source_url: https://github.com/resend/resend-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 577
+stars: 578
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 91
-pushed_at: "2026-10-24T18:37:11Z"
+forks: 92
+pushed_at: "2026-11-02T12:27:31Z"
 ---
 ## What it is
 MCP server `Resend Email`, catalogued on PulseMCP. Integrates with the Resend API to enable sending plain text emails with scheduling options and configurable reply-to addresses through command-line or environment variable configuration.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T20:13:54Z"
+pushed_at: "2026-10-29T05:26:00Z"
 ---
 ## What it is
 Validates IBAN checksums and resolves bank codes via the OpenIBAN API.

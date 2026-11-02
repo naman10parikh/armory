@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T16:16:07Z"
+pushed_at: "2026-10-26T15:55:17Z"
 ---
 ## What it is
 Estimates GPU requirements, training/inference costs, and cloud-vs-on-prem TCO for AI workloads using deterministic calculators.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-26T03:12:33Z"
+pushed_at: "2026-11-02T15:05:04Z"
 ---
 ## What it is
 Enables AI agents to post richly formatted tweets to X (Twitter) with optional images, monetized via Bitcoin Lightning micropayments and secured with OAuth2 PKCE, Nostr identity, and encrypted credential vaulting.

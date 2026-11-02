@@ -8,12 +8,12 @@ source_url: https://github.com/moltycel/moltrust-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-24T14:49:08Z"
+pushed_at: "2026-10-31T11:47:44Z"
 ---
 ## What it is
 MCP server `MolTrust`, catalogued on PulseMCP. Molecular trust scoring and verification for computational chemistry and drug discovery workflows.

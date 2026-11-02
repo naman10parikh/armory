@@ -12,8 +12,8 @@ stars: 60
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
-pushed_at: "2026-10-20T13:44:51Z"
+forks: 16
+pushed_at: "2026-10-27T13:45:03Z"
 ---
 ## What it is
 MCP server `Apache Superset`, catalogued on PulseMCP. Comprehensive Apache Superset integration with 128+ tools for dashboards, charts, datasets, SQL Lab, security management, and access control automation.

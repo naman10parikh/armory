@@ -8,12 +8,12 @@ source_url: https://github.com/batosai/adonis-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 29
+stars: 30
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 5
 pushed_at: "2026-09-19T10:52:07Z"
 ---
 ## What it is

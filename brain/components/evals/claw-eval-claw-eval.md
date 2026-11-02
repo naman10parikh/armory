@@ -8,14 +8,14 @@ source_url: https://github.com/claw-eval/claw-eval
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 780
+stars: 884
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, evals]
-forks: 76
-pushed_at: "2026-10-26T08:51:59Z"
+forks: 93
+pushed_at: "2026-11-02T10:59:55Z"
 ---
 ## What it is
 Claw-Eval is an evaluation harness for evaluating LLM as agents. All tasks verified by humans.

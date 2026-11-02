@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/national-parks-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T09:44:44Z"
+pushed_at: "2026-10-28T12:20:53Z"
 ---
 ## What it is
 Plan US National Park Service trips — find parks, check alerts and closures, find campgrounds, browse things to do and events via the NPS Data API. Supports STDIO and Streamable HTTP.

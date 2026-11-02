@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-23T06:43:51Z"
+pushed_at: "2026-11-01T15:57:49Z"
 ---
 ## What it is
 MCP server `X (Twitter) Scraper`, catalogued on PulseMCP. Integrates with X using the agent-twitter-client library, enabling tweet retrieval and posting within Docker containers with proxy support for network isolation.

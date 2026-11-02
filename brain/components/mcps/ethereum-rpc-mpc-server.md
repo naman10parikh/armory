@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2025-03-27T23:07:34Z"
+pushed_at: "2026-10-30T13:04:31Z"
 ---
 ## What it is
 An MCP server that bridges AI models with Ethereum blockchains via all JSON-RPC calls, enabling natural language queries for block numbers, balances, transactions, and smart contract data.

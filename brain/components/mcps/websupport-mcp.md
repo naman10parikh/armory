@@ -8,13 +8,13 @@ source_url: https://github.com/tydung26/websupport-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T04:54:01Z"
+pushed_at: "2026-10-31T12:03:18Z"
 ---
 ## What it is
 An MCP server wrapping the Websupport REST API to expose DNS, FTP, hosting, databases, mailboxes, VPS, and invoice operations as MCP tools with HMAC-SHA1 authentication.

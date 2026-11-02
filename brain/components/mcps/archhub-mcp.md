@@ -8,12 +8,12 @@ source_url: https://github.com/chrisryugj/archhub-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 73
+stars: 74
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
+forks: 16
 pushed_at: "2026-10-17T23:34:54Z"
 ---
 ## What it is
