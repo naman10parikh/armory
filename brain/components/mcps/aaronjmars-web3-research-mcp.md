@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
-stars: 170
+stars: 171
 forks: 55
-pushed_at: "2026-10-22T17:43:42Z"
+pushed_at: "2026-10-31T15:30:58Z"
 ---
 ## What it is
 Deep Research for crypto - free & fully local

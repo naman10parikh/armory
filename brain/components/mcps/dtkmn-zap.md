@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-10-27T01:54:10Z"
+pushed_at: "2026-11-03T01:54:03Z"
 ---
 ## What it is
 MCP server `OWASP ZAP`, catalogued on PulseMCP. Exposes OWASP ZAP web security scanning capabilities to AI agents via MCP for guided security assessments.

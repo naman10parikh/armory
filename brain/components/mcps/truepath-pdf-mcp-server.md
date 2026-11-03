@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T14:08:08Z"
+pushed_at: "2026-11-01T07:03:26Z"
 ---
 ## What it is
 A Model Context Protocol server that lets AI clients read and process PDF files locally on your Mac without uploading them anywhere, ensuring privacy.

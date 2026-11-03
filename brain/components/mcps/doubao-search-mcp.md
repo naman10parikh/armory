@@ -8,12 +8,12 @@ source_url: https://github.com/alchaincyf/doubao-search-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 109
+stars: 108
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
+forks: 14
 pushed_at: "2026-07-25T19:01:01Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-27T12:50:35Z"
+pushed_at: "2026-11-03T09:41:31Z"
 ---
 ## What it is
 MCP server `GenieACS`, catalogued on PulseMCP. Bridge GenieACS TR-069 ACS instances to AI agents for CPE device management.

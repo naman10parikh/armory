@@ -8,13 +8,13 @@ source_url: https://github.com/krowten/create-bun-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-06T07:12:45Z"
+pushed_at: "2026-10-28T17:04:28Z"
 ---
 ## What it is
 A modern MCP server template built with Bun and TypeScript, supporting stdio and HTTP transports for easy integration with AI assistants like Claude.

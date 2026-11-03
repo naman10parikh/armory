@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-27T11:05:42Z"
+pushed_at: "2026-10-27T13:50:13Z"
 ---
 ## What it is
 A remote MCP image generation server that unifies OpenAI Images and Gemini generateContent APIs with preset-based configuration for multi-provider support.

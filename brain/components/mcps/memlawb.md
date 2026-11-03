@@ -8,13 +8,13 @@ source_url: https://github.com/Gitlawb/memlawb
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 60
+stars: 65
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
-pushed_at: "2026-06-27T03:55:40Z"
+forks: 13
+pushed_at: "2026-11-03T04:56:37Z"
 ---
 ## What it is
 Zero-knowledge, self-hostable MCP server providing encrypted durable memory for AI agents, with tools to save, recall, search, list, and delete memories.

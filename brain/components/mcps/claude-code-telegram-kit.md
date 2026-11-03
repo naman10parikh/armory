@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-27T00:44:11Z"
+pushed_at: "2026-10-27T13:37:30Z"
 ---
 ## What it is
 Enables sending properly rendered Markdown messages to Telegram and remotely resetting Claude Code's context, addressing gaps in Anthropic's official Telegram channel.

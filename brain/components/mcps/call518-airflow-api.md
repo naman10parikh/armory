@@ -8,12 +8,12 @@ source_url: https://github.com/call518/mcp-airflow-api
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
-pushed_at: "2026-10-26T00:34:12Z"
+forks: 14
+pushed_at: "2026-11-02T11:31:34Z"
 ---
 ## What it is
 MCP server `Apache Airflow`, catalogued on PulseMCP. Integrates with Apache Airflow clusters through REST API to provide complete workflow management including DAG operations, task monitoring, pool and variable management, XCom data access, and performance analytics with event logging and import error tracking.

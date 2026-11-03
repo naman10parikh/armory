@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T20:09:15Z"
+pushed_at: "2026-11-03T02:32:51Z"
 ---
 ## What it is
 Enables querying and scanning Korean public procurement and bidding data from multiple agencies (e.g., 나라장터, 방위사업청) through MCP tools, with deduplication and filtering handled externally.

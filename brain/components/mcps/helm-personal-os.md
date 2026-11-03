@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T01:37:27Z"
+pushed_at: "2026-10-31T10:46:46Z"
 ---
 ## What it is
 Provides MCP tools to read and update a local-first personal OS for goals, tasks, habits, food, workouts, and check-ins. Enables assistants to manage daily life data and interact with an evidence-grounded AI coach.

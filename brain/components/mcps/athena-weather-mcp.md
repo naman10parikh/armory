@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T04:57:06Z"
+pushed_at: "2026-11-03T01:05:03Z"
 ---
 ## What it is
 Exposes live weather data from Open-Meteo and NWS, providing tools to explore forecasts and list active severe weather alerts. It renders an embedded interactive widget for the Athena platform, with no API keys required.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 29
-pushed_at: "2026-09-12T16:04:07Z"
+pushed_at: "2026-10-28T16:46:37Z"
 ---
 ## What it is
 MCP server `JMeter`, catalogued on PulseMCP. Enables natural language execution of JMeter performance tests in both GUI and non-GUI modes, returning detailed results for automated load testing workflows.

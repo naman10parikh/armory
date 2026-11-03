@@ -8,13 +8,13 @@ source_url: https://github.com/zilliztech/memsearch
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2799
+stars: 2818
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 275
+forks: 278
 pushed_at: "2026-10-27T03:33:37Z"
 ---
 ## What it is

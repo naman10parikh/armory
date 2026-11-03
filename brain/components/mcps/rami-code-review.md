@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-27T06:29:00Z"
+pushed_at: "2026-10-30T01:33:08Z"
 ---
 ## What it is
 Reviews every PR for security, bugs, and performance, then fixes the findings through MCP, keeping you in control of what merges.

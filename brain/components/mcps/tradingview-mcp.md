@@ -8,13 +8,13 @@ source_url: https://github.com/atilaahmettaner/tradingview-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5151
+stars: 5194
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1018
-pushed_at: "2026-10-25T17:42:13Z"
+forks: 1024
+pushed_at: "2026-10-29T14:24:40Z"
 ---
 ## What it is
 AI-powered trading toolkit with backtesting, live sentiment, Yahoo Finance data, and 30+ technical analysis tools, integrated as an MCP server for Claude and other AI clients.

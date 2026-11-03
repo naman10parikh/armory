@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-12T08:59:04Z"
+pushed_at: "2026-10-30T03:24:23Z"
 ---
 ## What it is
 MCP server `GoLab`, catalogued on PulseMCP. Native Go MCP server for controlling and interacting with Google Colab notebooks from AI coding tools.

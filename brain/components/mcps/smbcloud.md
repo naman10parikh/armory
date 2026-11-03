@@ -8,13 +8,13 @@ source_url: https://github.com/smbcloudXYZ/smbcloud-cli
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-27T10:26:38Z"
+pushed_at: "2026-11-02T16:58:00Z"
 ---
 ## What it is
 MCP interface for smbCloud

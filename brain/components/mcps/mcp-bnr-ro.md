@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T22:03:29Z"
+pushed_at: "2026-10-30T20:07:42Z"
 ---
 ## What it is
 Provides National Bank of Romania (BNR) FX reference rates without API key.

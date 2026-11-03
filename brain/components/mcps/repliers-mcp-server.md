@@ -8,13 +8,13 @@ source_url: https://github.com/Repliers-io/mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-10-21T20:05:12Z"
+forks: 5
+pushed_at: "2026-10-27T15:17:48Z"
 ---
 ## What it is
 Provides AI assistants access to real-time MLS data via the Repliers API, enabling natural language property search, market statistics, and listing details.

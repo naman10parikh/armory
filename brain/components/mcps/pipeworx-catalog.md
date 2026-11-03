@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-26T21:00:37Z"
+pushed_at: "2026-10-29T05:43:08Z"
 ---
 ## What it is
 MCP server `Pipeworx Catalog`, catalogued on PulseMCP. Discover and connect to Pipeworx MCP packs and search thousands of community MCP servers.

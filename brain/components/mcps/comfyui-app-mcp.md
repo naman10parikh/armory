@@ -8,12 +8,12 @@ source_url: https://github.com/Luo-Lotus/ComfyUI-APP-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 30
+stars: 31
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 5
 pushed_at: "2026-09-27T11:59:37Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T14:03:46Z"
+pushed_at: "2026-11-01T00:19:40Z"
 ---
 ## What it is
 MCP server giving AI models direct access to 30M+ resources at ETH Library Zurich – books, maps, images, archival material, and linked-data person records.

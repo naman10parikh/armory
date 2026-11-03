@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
-stars: 6230
-forks: 769
-pushed_at: "2026-10-27T13:01:34Z"
+stars: 6266
+forks: 775
+pushed_at: "2026-11-03T13:34:47Z"
 ---
 ## What it is
 Baserow database integration with table search, list, and row create, read, update, and delete capabilities.

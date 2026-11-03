@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T06:44:28Z"
+pushed_at: "2026-11-02T06:46:56Z"
 ---
 ## What it is
 MCP server for Spanning Cloud Backup — M365/GWS/Salesforce SaaS backup, restore, and audit. Enables AI assistants to manage and monitor cloud backup protection via the Spanning API.

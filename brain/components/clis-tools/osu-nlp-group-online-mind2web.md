@@ -15,7 +15,7 @@ verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 14
-pushed_at: "2026-06-25T03:13:56Z"
+pushed_at: "2026-10-27T16:07:22Z"
 ---
 ## What it is
 An Illusion of Progress? Assessing the Current State of Web Agents

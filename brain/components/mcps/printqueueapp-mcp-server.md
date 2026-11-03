@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T10:47:41Z"
+pushed_at: "2026-10-29T22:55:38Z"
 ---
 ## What it is
 Enables managing a print queue for office documents via a WinUI GUI, supporting file drag-and-drop, queue status, and printing through MCP tools.

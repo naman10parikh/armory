@@ -8,14 +8,14 @@ source_url: https://github.com/MIC-DKFZ/nninteractive-agent
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 51
+stars: 71
 eval_score: null
 mentions: 1
 verified_at: 2026-10-25
 related: []
 tags: [sentinel-feed, mcps]
-forks: 2
-pushed_at: "2026-10-23T05:48:10Z"
+forks: 3
+pushed_at: "2026-10-29T07:28:43Z"
 ---
 ## What it is
 nnInteractive as a tool for AI agents: say what to segment, the agent does the rest (Claude Code, Codex, any MCP client)

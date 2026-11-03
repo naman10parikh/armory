@@ -8,13 +8,13 @@ source_url: https://github.com/StacklokLabs/model-context-shell
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-23T17:37:21Z"
+pushed_at: "2026-10-28T19:08:50Z"
 ---
 ## What it is
 Enables AI agents to compose MCP tool calls into Unix-style pipelines, executing complex workflows server-side and returning only the final result.

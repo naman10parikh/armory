@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-24T02:08:08Z"
+pushed_at: "2026-10-29T19:36:48Z"
 ---
 ## What it is
 Enables control and monitoring of a Dreame robot vacuum via MCP tools, including cleaning, status, and map viewing through the cloud API.

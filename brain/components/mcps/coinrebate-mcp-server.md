@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T20:05:35Z"
+pushed_at: "2026-10-28T17:05:16Z"
 ---
 ## What it is
 Enables AI agents to fetch real-time exchange trading fees, compare rebate-adjusted costs, obtain referral links, calculate trading costs, and identify compliant exchanges for crypto trading.

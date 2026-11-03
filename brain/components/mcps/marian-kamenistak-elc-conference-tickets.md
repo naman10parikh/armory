@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T17:47:18Z"
+pushed_at: "2026-11-01T09:00:46Z"
 ---
 ## What it is
 MCP server `ELC Conference Tickets`, catalogued on PulseMCP. Browse and purchase ELC Conference 2026 engineering leadership tickets in Prague via AI.

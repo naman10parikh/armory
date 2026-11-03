@@ -8,13 +8,13 @@ source_url: https://github.com/aicayzer/companies-house-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 86
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-10-21T12:55:52Z"
+forks: 11
+pushed_at: "2026-11-03T14:33:24Z"
 ---
 ## What it is
 Enables looking up UK companies, officers, ownership, filings, and running due diligence checks via the Companies House API, usable from AI tools like Claude or Cursor.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-10-26T16:00:38Z"
+pushed_at: "2026-11-02T15:46:34Z"
 ---
 ## What it is
 Natural-language search and review of South Korea's national R&D regulations (acts, decrees, and administrative rules) for researchers and research administrators. Returns current in-force provisions with citations, fetched live from the official national law database (law.go.kr Open API).

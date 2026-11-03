@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T21:43:13Z"
+pushed_at: "2026-11-01T20:57:57Z"
 ---
 ## What it is
 Enables querying the EBI Expression Atlas for gene expression data across species and conditions. Part of the Pipeworx gateway, it provides access to baseline and differential expression studies.

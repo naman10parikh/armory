@@ -8,13 +8,13 @@ source_url: https://github.com/QwenLM/RecreationWorld
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 113
+stars: 116
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 10
+forks: 12
 pushed_at: "2026-10-26T08:18:41Z"
 ---
 ## What it is

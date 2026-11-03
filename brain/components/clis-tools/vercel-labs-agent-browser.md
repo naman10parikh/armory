@@ -8,14 +8,14 @@ source_url: https://github.com/vercel-labs/agent-browser
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 44691
+stars: 45364
 eval_score: null
 mentions: 6
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 3063
-pushed_at: "2026-10-27T05:52:29Z"
+forks: 3111
+pushed_at: "2026-11-03T06:38:39Z"
 ---
 ## What it is
 Browser automation CLI for AI agents

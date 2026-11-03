@@ -15,7 +15,7 @@ verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
 forks: 31
-pushed_at: "2026-10-26T19:23:16Z"
+pushed_at: "2026-10-30T18:56:18Z"
 ---
 ## What it is
 Use when an agent needs its own email address so people and systems can reach it, and it can act on what arrives.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T05:09:44Z"
+pushed_at: "2026-11-03T01:42:24Z"
 ---
 ## What it is
 Enables spawning ephemeral Model Context Protocol (MCP) servers on Kubernetes using Server-Sent Events (SSE), supporting multiple runtimes.

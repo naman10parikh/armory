@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-24T10:41:11Z"
+pushed_at: "2026-10-29T11:55:14Z"
 ---
 ## What it is
 MCP server for safely inspecting and operating a local Caddy admin API. Provides read-only tools and dry-run mutations for config management.

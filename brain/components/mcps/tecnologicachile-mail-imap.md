@@ -8,11 +8,11 @@ source_url: https://github.com/tecnologicachile/mail-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 110
+stars: 114
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 31
+forks: 34
 pushed_at: "2026-10-23T18:45:04Z"
 ---
 ## What it is

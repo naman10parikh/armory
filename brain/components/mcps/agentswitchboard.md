@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 40
-pushed_at: "2026-10-25T01:49:39Z"
+forks: 43
+pushed_at: "2026-11-03T09:54:53Z"
 ---
 ## What it is
 assafbar2/agentswitchboard.dev

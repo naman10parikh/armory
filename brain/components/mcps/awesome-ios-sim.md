@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T09:58:43Z"
+pushed_at: "2026-11-01T09:10:39Z"
 ---
 ## What it is
 Enables AI agents to manage iOS Simulator state declaratively through MCP tools for inventory, snapshot, diff, planning, and safe apply operations.

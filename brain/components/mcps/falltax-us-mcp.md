@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T17:14:07Z"
+pushed_at: "2026-10-31T16:18:20Z"
 ---
 ## What it is
 A sovereign, MIT-licensed MCP server for US tax operations, enabling offline-capable and self-hostable tax workflow management.

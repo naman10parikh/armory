@@ -8,13 +8,13 @@ source_url: https://github.com/Jakeschincariol/arena-skill
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1027
+stars: 1226
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 154
+forks: 178
 pushed_at: "2026-09-27T13:20:07Z"
 ---
 ## What it is

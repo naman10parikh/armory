@@ -8,13 +8,13 @@ source_url: https://github.com/pipeworx-io/mcp-cricket
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T04:00:52Z"
+pushed_at: "2026-10-31T08:32:19Z"
 ---
 ## What it is
 Wraps CricAPI to provide live cricket data, enabling AI agents to query cricket information through natural language or direct tool calls.

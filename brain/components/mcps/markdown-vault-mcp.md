@@ -8,13 +8,13 @@ source_url: https://github.com/pvliesdonk/markdown-vault-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 35
+stars: 37
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
-pushed_at: "2026-10-27T12:15:45Z"
+forks: 16
+pushed_at: "2026-11-03T12:05:50Z"
 ---
 ## What it is
 A generic Markdown vault MCP server with FTS5 full-text search, semantic vector search, frontmatter-aware indexing, incremental reindexing, and non-markdown attachment support that exposes search, read, write, and edit tools.

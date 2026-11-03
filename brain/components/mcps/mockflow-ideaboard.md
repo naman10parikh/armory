@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-12T16:30:18Z"
+pushed_at: "2026-11-03T08:42:49Z"
 ---
 ## What it is
 MCP server `MockFlow IdeaBoard`, catalogued on PulseMCP. Visual diagram creation including flowcharts, mind maps, kanban boards, and architecture diagrams.

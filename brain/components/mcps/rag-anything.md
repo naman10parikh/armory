@@ -8,11 +8,11 @@ source_url: https://github.com/jesse-merhi/rag-anything-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
+forks: 14
 pushed_at: "2025-07-10T17:08:33Z"
 ---
 ## What it is

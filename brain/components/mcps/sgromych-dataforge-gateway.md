@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-24T05:06:26Z"
+pushed_at: "2026-10-27T13:20:53Z"
 ---
 ## What it is
 MCP server `DataForge Gateway`, catalogued on PulseMCP. Semantic gateway bridging AI agents with the DataForge Product API for BI data normalization and caching.

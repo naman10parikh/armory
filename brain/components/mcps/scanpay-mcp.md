@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-26T09:20:16Z"
+pushed_at: "2026-10-28T14:32:26Z"
 ---
 ## What it is
 Enables AI agents to scan code for security vulnerabilities before execution, supporting Python and JavaScript/TypeScript with deterministic AST-based analysis and optional Solana micropayments.

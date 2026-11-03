@@ -8,13 +8,13 @@ source_url: https://github.com/surendranb/find-research-papers-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-03T13:21:18Z"
+pushed_at: "2026-10-28T10:49:59Z"
 ---
 ## What it is
 MCP server for scientific grounding: search and discover open-access research papers across arXiv, OpenAlex, Crossref, PubMed, and Semantic Scholar, and retrieve references/citations from paywalled journals via public DOI/abstract metadata.

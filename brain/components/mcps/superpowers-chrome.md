@@ -8,12 +8,12 @@ source_url: https://github.com/obra/superpowers-chrome
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 364
+stars: 371
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 57
+forks: 59
 pushed_at: "2026-10-10T16:56:07Z"
 ---
 ## What it is

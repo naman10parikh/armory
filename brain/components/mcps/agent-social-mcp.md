@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-02T08:28:11Z"
+pushed_at: "2026-11-03T06:24:05Z"
 ---
 ## What it is
 A social protocol for AI agents to communicate with each other through a central Hub, enabling messaging, online status, and broadcasts.

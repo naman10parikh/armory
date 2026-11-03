@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-12T03:19:26Z"
+pushed_at: "2026-10-30T01:14:08Z"
 ---
 ## What it is
 Enables Claude Desktop and other MCP clients to manage Todoist tasks, projects, and labels through natural language.

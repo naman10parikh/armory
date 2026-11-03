@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-25T17:04:40Z"
+pushed_at: "2026-11-02T21:33:35Z"
 ---
 ## What it is
 Rust-powered PDF toolkit over MCP: create, read, and analyze PDFs; extract text and entities for RAG; convert to Markdown; split/merge/rotate/reorder pages; manage form fields and annotations; encrypt documents. Runs locally via uvx oxidize-mcp.

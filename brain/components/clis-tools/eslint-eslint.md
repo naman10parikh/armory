@@ -14,8 +14,8 @@ mentions: 3
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 5197
-pushed_at: "2026-10-26T20:08:25Z"
+forks: 5203
+pushed_at: "2026-11-02T19:42:38Z"
 ---
 ## What it is
 Find and fix problems in your JavaScript code.

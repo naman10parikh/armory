@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T17:46:44Z"
+pushed_at: "2026-11-01T07:16:34Z"
 ---
 ## What it is
 MCP server for Swiss school and public holidays across all 26 cantons, with differentiation by school type. No API key required.

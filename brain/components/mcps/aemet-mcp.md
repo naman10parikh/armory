@@ -8,13 +8,13 @@ source_url: https://github.com/jocarrd/aemet-client
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-25T04:23:20Z"
+forks: 1
+pushed_at: "2026-11-01T04:26:18Z"
 ---
 ## What it is
 Model Context Protocol server: plug AEMET into Claude Desktop, Cursor, Windsurf or any MCP client. Runs locally over stdio.

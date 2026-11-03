@@ -8,13 +8,13 @@ source_url: https://github.com/GigantesHJI/securedact-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T17:59:06Z"
+pushed_at: "2026-10-29T17:59:48Z"
 ---
 ## What it is
 Securedact MCP is a local-first privacy layer for MCP-compatible AI workflows. It detects, reviews, redacts, and audits sensitive information before approved sanitized content is used downstream.

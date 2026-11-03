@@ -8,13 +8,13 @@ source_url: https://github.com/DustinTrap/kvm-pilot
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-23T11:57:17Z"
+pushed_at: "2026-10-29T14:54:16Z"
 ---
 ## What it is
 An MCP server that gives AI agents smart hands for physical machines, controlling them via IP-KVM, BMC, and SSH with visual boot-phase classification and operator-gated actions.

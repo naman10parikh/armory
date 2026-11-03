@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 16
-pushed_at: "2026-10-26T22:34:55Z"
+forks: 17
+pushed_at: "2026-11-03T07:56:55Z"
 ---
 ## What it is
 Enables AI assistants to securely read and write files, notes, tasks, bookmarks, projects, and recipes in a self-hosted Nextcloud instance.

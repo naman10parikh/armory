@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 29
-pushed_at: "2026-10-13T21:36:21Z"
+pushed_at: "2026-11-02T17:13:27Z"
 ---
 ## What it is
 MCP server `SharePoint Lists`, catalogued on PulseMCP. Enables AI to interact with SharePoint lists through the CLI for Microsoft 365, allowing natural language management of content without requiring SharePoint structure knowledge.

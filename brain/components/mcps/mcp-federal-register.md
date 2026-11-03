@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T21:47:33Z"
+pushed_at: "2026-11-01T21:03:06Z"
 ---
 ## What it is
 Enables querying the US Federal Register API for federal register documents and data through natural language.

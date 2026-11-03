@@ -12,8 +12,8 @@ stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
-pushed_at: "2026-06-07T10:13:08Z"
+forks: 8
+pushed_at: "2026-11-03T09:47:50Z"
 ---
 ## What it is
 MCP server `Fastn`, catalogued on PulseMCP. Dynamically registers and executes tools across multiple services, enabling seamless integration and real-time operations through a flexible, API-driven platform with robust logging and error handling.

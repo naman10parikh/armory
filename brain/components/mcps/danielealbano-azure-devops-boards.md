@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-07-12T18:48:09Z"
+pushed_at: "2026-11-02T12:27:44Z"
 ---
 ## What it is
 MCP server `Azure DevOps Boards`, catalogued on PulseMCP. Enables work item creation, updates, queries, and board management

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-14T20:03:27Z"
+pushed_at: "2026-10-27T20:59:30Z"
 ---
 ## What it is
 Enables LLM agents to automate Check Point firewall rule changes by translating natural language access requests into correct, first-match-safe policy updates via MCP tools.

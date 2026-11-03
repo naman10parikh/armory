@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-09-09T04:26:50Z"
+forks: 11
+pushed_at: "2026-11-01T01:44:43Z"
 ---
 ## What it is
 A zero-dependency MCP server that bridges AI agents to Robinhood Chain and Arbitrum Orbit L2 networks, enabling querying balances, simulating transactions, and signing/broadcasting EVM transactions via JSON-RPC tools.

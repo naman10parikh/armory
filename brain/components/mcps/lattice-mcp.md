@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T15:55:40Z"
+pushed_at: "2026-11-03T05:43:01Z"
 ---
 ## What it is
 MCP server for the Lattice container orchestration platform, enabling Claude Code to manage workers, stacks, containers, and deployments through natural language.

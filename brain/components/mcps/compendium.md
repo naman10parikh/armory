@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T20:47:35Z"
+pushed_at: "2026-11-02T08:11:03Z"
 ---
 ## What it is
 MCP server that minimizes LLM token usage by compressing, summarizing, filtering, chunk-referencing, and pruning large context before it reaches the model, with heuristic or local-SLM smart actions, caching, and token counting.

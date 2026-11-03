@@ -8,11 +8,11 @@ source_url: https://github.com/better-auth/better-icons
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1442
+stars: 1454
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 62
+forks: 63
 pushed_at: "2026-04-02T15:54:17Z"
 ---
 ## What it is

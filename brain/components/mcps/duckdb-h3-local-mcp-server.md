@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T15:15:25Z"
+pushed_at: "2026-10-28T17:39:48Z"
 ---
 ## What it is
 Converts raster and vector geospatial data into H3-indexed Parquet files and serves them via a local MCP server with DuckDB SQL querying.

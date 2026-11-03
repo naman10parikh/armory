@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-27T00:19:41Z"
+pushed_at: "2026-11-02T02:50:23Z"
 ---
 ## What it is
 Enables AI agents to interact with WordPress sites over MCP, providing read-only tools for AEO/GEO readiness, AI visibility, traffic, request logs, bot identification, page checks, and schema/markdown previews, plus opt-in write tools to draft, edit, and publish posts with permission checks and audi

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-27T04:50:01Z"
+pushed_at: "2026-11-01T23:22:36Z"
 ---
 ## What it is
 MCP server for Bill4Time providing API coverage for legal billing and time tracking, enabling natural language interaction with clients, projects, time entries, invoices, payments, and more from Claude Desktop.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 13
-pushed_at: "2026-10-23T11:50:44Z"
+pushed_at: "2026-10-29T21:37:47Z"
 ---
 ## What it is
 Enables AI assistants to manage Statamic CMS content, including blueprints, entries, assets, users, and system operations, through a secure, router-based MCP endpoint.

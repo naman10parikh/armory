@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-27T12:04:33Z"
+pushed_at: "2026-11-02T19:09:44Z"
 ---
 ## What it is
 An MCP server for interactively reading, validating, previewing, and saving Renovate configurations with LLM assistance.

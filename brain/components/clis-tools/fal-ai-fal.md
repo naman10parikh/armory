@@ -8,14 +8,14 @@ source_url: https://github.com/fal-ai/fal
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 975
+stars: 978
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 106
-pushed_at: "2026-10-27T06:48:38Z"
+forks: 108
+pushed_at: "2026-11-03T13:29:51Z"
 ---
 ## What it is
 ⚡ Fastest way to serve open source ML models to millions

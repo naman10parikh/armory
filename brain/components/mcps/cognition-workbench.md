@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T18:49:56Z"
+pushed_at: "2026-11-01T04:10:13Z"
 ---
 ## What it is
 Enables local-first knowledge management for Codex, providing tools for guided discussions, contextual recall, review, and daily topics.

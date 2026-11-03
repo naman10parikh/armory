@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T23:15:15Z"
+pushed_at: "2026-11-02T02:44:42Z"
 ---
 ## What it is
 Provides access to JPL Horizons data for querying ephemerides and orbital information of solar system objects.

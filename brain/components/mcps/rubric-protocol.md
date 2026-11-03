@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-12T11:05:51Z"
+pushed_at: "2026-11-02T22:01:35Z"
 ---
 ## What it is
 MCP server `Rubric Protocol`, catalogued on PulseMCP. AI compliance attestation with post-quantum cryptography and blockchain anchoring — generate signed records of AI decisions for EU AI Act, HIPAA, and other frameworks.

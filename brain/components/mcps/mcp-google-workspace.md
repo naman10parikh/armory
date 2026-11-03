@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T12:31:21Z"
+pushed_at: "2026-11-03T14:31:03Z"
 ---
 ## What it is
 MCP server integrating multiple Google Workspace services including Gmail, Calendar, Drive, Sheets, Docs, Tasks, People, Forms, and Slides, enabling users to manage emails, events, files, documents, and more through natural language.

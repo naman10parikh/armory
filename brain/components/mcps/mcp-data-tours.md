@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T21:45:26Z"
+pushed_at: "2026-10-31T21:03:40Z"
 ---
 ## What it is
 Enables searching, querying, and exploring open datasets from Tours Métropole Open Data using natural language via the OpenDataSoft API.

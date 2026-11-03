@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-10-20T03:14:06Z"
+forks: 6
+pushed_at: "2026-11-03T03:16:14Z"
 ---
 ## What it is
 Runs, tests, and finds issues in your Python services with zero code changes, then helps your AI agent fix what breaks and proves it with acceptance tests.

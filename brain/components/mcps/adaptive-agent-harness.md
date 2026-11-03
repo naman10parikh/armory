@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T04:29:07Z"
+pushed_at: "2026-11-02T02:38:51Z"
 ---
 ## What it is
 MCP server giving agents a persistent IPython workbench and a brokered RLM engine for durable, stateful computation. Offers 30 tools for bounded model calls, artifacts, and receipts with host-owned authority.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T21:29:11Z"
+pushed_at: "2026-10-31T00:25:23Z"
 ---
 ## What it is
 Turns a folder of Markdown notes into an agent-native knowledge base, providing long-term memory with provenance, token-budgeted retrieval, and safe write-back with versioning.

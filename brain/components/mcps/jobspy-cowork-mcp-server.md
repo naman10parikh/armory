@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T18:35:18Z"
+pushed_at: "2026-11-02T06:46:16Z"
 ---
 ## What it is
 Enables searching real job listings from multiple job boards (Indeed, LinkedIn, Glassdoor, Google Jobs, etc.) through a single MCP tool, designed for use as a custom connector in Claude Cowork.

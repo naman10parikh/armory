@@ -8,12 +8,12 @@ source_url: https://github.com/verygoodplugins/streamdeck-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 54
+stars: 55
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
+forks: 14
 pushed_at: "2026-08-12T16:23:42Z"
 ---
 ## What it is

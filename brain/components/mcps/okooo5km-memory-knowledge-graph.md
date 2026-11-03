@@ -8,7 +8,7 @@ source_url: https://github.com/okooo5km/memory-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 106
+stars: 104
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

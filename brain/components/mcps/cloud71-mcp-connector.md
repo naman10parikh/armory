@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-21T23:22:14Z"
+pushed_at: "2026-10-29T13:15:33Z"
 ---
 ## What it is
 Enables AI assistants to deploy generated files (HTML, PDF, images, etc.) directly to cloud71 hosting, returning a public URL, and manage cloud71 sites via natural language.

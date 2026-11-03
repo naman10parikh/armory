@@ -8,12 +8,12 @@ source_url: https://github.com/assistant-ui/assistant-ui
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12776
+stars: 12925
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1276
-pushed_at: "2026-10-27T10:08:29Z"
+forks: 1307
+pushed_at: "2026-11-03T06:36:56Z"
 ---
 ## What it is
 MCP server `Assistant UI`, catalogued on PulseMCP. The MCP server tools have been designed to allow an agent to query the specific information it needs to complete an assistant-ui related task - for example: implementing chat components, integrating with different runtimes, understanding component architecture, and troubleshooting issues.

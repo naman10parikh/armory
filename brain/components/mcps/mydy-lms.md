@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-29T09:00:57Z"
+pushed_at: "2026-11-01T17:35:08Z"
 ---
 ## What it is
 An MCP server for interacting with the MyDy (Moodle-based) LMS, enabling attendance viewing, course browsing, assignment and grade checking, announcement reading, and material downloading.

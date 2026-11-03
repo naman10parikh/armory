@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 12
-pushed_at: "2026-10-22T20:23:12Z"
+pushed_at: "2026-11-01T16:02:26Z"
 ---
 ## What it is
 Enables dynamic creation and execution of custom tools/functions in multiple programming languages at runtime, exposing them to MCP clients like Claude.

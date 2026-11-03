@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-10-27T11:35:08Z"
+forks: 5
+pushed_at: "2026-11-03T13:37:06Z"
 ---
 ## What it is
 An MCP server that integrates EstNLTK to provide Estonian language tools (morphology, spell-check, synonyms, etc.) for AI agents, enabling correct Estonian text processing and generation.

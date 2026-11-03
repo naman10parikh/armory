@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T22:17:08Z"
+pushed_at: "2026-10-29T07:05:37Z"
 ---
 ## What it is
 MCP server for live ship tracking via AIS data. Provides tools to get vessels in an area, live position by MMSI, and AIS coverage checks.

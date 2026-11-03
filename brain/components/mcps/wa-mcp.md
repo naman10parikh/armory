@@ -8,13 +8,13 @@ source_url: https://github.com/delltrak/wamcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 26
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 11
-pushed_at: "2026-10-23T22:55:19Z"
+pushed_at: "2026-11-02T21:40:08Z"
 ---
 ## What it is
 WhatsApp MCP server that exposes messaging, groups, contacts, and profile management as tools and resources for AI agents, supporting Baileys and Meta Cloud API.

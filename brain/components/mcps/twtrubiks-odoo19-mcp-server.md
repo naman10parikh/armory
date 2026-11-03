@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, workplace-productivity]
 stars: 4
-forks: 1
+forks: 2
 pushed_at: "2026-10-11T00:32:42Z"
 ---
 ## What it is

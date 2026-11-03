@@ -8,12 +8,12 @@ source_url: https://github.com/cyanheads/pubchem-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-10-24T12:14:56Z"
+forks: 4
+pushed_at: "2026-10-28T14:54:12Z"
 ---
 ## What it is
 MCP server `PubChem by cyanheads`, catalogued on PulseMCP. PubChem chemical database access for compound search, properties, safety data, bioactivity, and cross-references.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T22:15:42Z"
+pushed_at: "2026-11-02T12:44:44Z"
 ---
 ## What it is
 Connects AI coding agents to the Customaise Chrome extension, enabling management of UserScripts and AgentScripts, visual DOM selection, tab control, and WebMCP tool calls directly from your IDE.

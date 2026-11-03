@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-26T04:29:10Z"
+pushed_at: "2026-11-03T13:34:15Z"
 ---
 ## What it is
 Headless local stdio MCP server for board-debug operations, allowing compatible clients to use tools for firmware debugging and board management.

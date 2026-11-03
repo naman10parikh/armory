@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T01:33:03Z"
+pushed_at: "2026-10-29T05:33:26Z"
 ---
 ## What it is
 Provides live wait times and office details for all 60 Oregon DMV field offices by scraping the ODOT website, with no authentication required.

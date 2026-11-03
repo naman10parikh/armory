@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-03-24T15:20:56Z"
+pushed_at: "2026-11-02T07:59:51Z"
 ---
 ## What it is
 MCP server `Pega DX API`, catalogued on PulseMCP. Integrates with Pega Infinity's DX APIs to enable conversational case management and workflow automation through OAuth2 authentication, supporting case creation and retrieval, assignment management, file attachments, bulk actions, and data querying with filtering and aggregation across Pega's enterprise platform.

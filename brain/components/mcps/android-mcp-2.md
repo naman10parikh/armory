@@ -8,12 +8,12 @@ source_url: https://github.com/qalvinahmad/android-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-07-04T14:04:56Z"
 ---
 ## What it is

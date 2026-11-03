@@ -8,14 +8,14 @@ source_url: https://github.com/tashfeenahmed/freellmapi
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 42477
+stars: 46814
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 5738
-pushed_at: "2026-10-27T12:17:21Z"
+forks: 6395
+pushed_at: "2026-11-02T19:37:21Z"
 ---
 ## What it is
 7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.

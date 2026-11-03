@@ -8,13 +8,13 @@ source_url: https://github.com/religa/multi_mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 37
+stars: 36
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-10-26T09:29:13Z"
+pushed_at: "2026-11-02T09:18:07Z"
 ---
 ## What it is
 A multi-model AI orchestration MCP server for automated code review and LLM-powered analysis, integrating with Claude Code and OpenCode to orchestrate multiple AI models for code quality checks, security analysis, and multi-agent consensus.

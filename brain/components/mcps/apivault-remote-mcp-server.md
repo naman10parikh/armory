@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T16:07:47Z"
+pushed_at: "2026-10-31T03:15:27Z"
 ---
 ## What it is
 Secure, encrypted API key management for AI coding agents, enabling search, inspection, and use of credentials with scoped permissions and optional zero-knowledge decryption.

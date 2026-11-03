@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T13:56:08Z"
+pushed_at: "2026-10-29T13:56:40Z"
 ---
 ## What it is
 Read-only MCP server for accessing Eventbrite tickets, orders, organizer data, and public event search (including undocumented consumer search via browser bridge).

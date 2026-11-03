@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T07:47:16Z"
+pushed_at: "2026-10-30T17:04:42Z"
 ---
 ## What it is
 xpenser.cleverbrush.com is a ln open-source, self-hostable personal expense and income tracking app supporting different currencies, categories, vendors, automated invoice parsing, AI geberated reports and more.

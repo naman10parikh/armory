@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-04-02T00:59:30Z"
+pushed_at: "2026-10-30T06:13:39Z"
 ---
 ## What it is
 Gives AI agents persistent memory, handoffs, and shared context across sessions, enabling seamless continuity and multi-agent collaboration.

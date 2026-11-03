@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T22:44:36Z"
+pushed_at: "2026-10-27T15:43:31Z"
 ---
 ## What it is
 Enables retrieval and normalization of Google Ads keyword-planning evidence.

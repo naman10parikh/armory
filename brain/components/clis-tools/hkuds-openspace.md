@@ -8,14 +8,14 @@ source_url: https://github.com/HKUDS/OpenSpace
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 7776
+stars: 7784
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 925
-pushed_at: "2026-08-12T15:21:07Z"
+forks: 926
+pushed_at: "2026-11-01T18:05:12Z"
 ---
 ## What it is
 "OpenSpace: The Skill Management Layer for AI Agents" -- https://open-space.cloud/

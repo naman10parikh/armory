@@ -8,13 +8,13 @@ source_url: https://github.com/Piotr1215/mcp-obsidian
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 23
+stars: 24
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 11
-pushed_at: "2026-10-21T17:08:22Z"
+pushed_at: "2026-10-31T09:04:12Z"
 ---
 ## What it is
 Provides secure, direct file system access to Obsidian vault files, enabling search, read, write, and discovery of notes without requiring the Obsidian app.

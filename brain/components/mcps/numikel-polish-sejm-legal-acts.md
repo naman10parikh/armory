@@ -12,8 +12,8 @@ stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
-pushed_at: "2026-10-25T10:52:43Z"
+forks: 6
+pushed_at: "2026-11-02T20:32:56Z"
 ---
 ## What it is
 MCP server `Polish Sejm Legal Acts`, catalogued on PulseMCP. Integrates with Poland's official Sejm API to provide search, retrieval, and analysis of legal documents from Dziennik Ustaw and Monitor Polski with keyword filtering, metadata access, and structural examination capabilities for legal research and compliance workflows.

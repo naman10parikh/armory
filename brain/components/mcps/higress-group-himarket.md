@@ -8,11 +8,11 @@ source_url: https://github.com/higress-group/himarket
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1317
+stars: 1324
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 184
+forks: 185
 pushed_at: "2026-10-23T06:41:30Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T07:41:01Z"
+pushed_at: "2026-11-02T11:11:55Z"
 ---
 ## What it is
 A self-hosted MCP server providing web search and URL fetching tools, running locally without external API keys or accounts.

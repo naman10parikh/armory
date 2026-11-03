@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-11T08:07:02Z"
+pushed_at: "2026-10-28T08:20:42Z"
 ---
 ## What it is
 An advanced MCP server that provides an agentic interface to Google's Gemini 3.1 models via Vertex AI, combining real-time Google Search, URL analysis, and Python code execution to solve complex multi-step research and data tasks.

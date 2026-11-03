@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T21:49:30Z"
+pushed_at: "2026-10-29T06:34:32Z"
 ---
 ## What it is
 Enables drawing random tarot cards, searching cards by keyword, and fetching upright/reversed meanings via the Tarot API.

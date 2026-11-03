@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-28T17:16:57Z"
+pushed_at: "2026-10-27T20:28:53Z"
 ---
 ## What it is
 Introspects a Django REST API's OpenAPI schema and exposes each endpoint as an MCP tool, enabling Claude or any MCP client to interact with the API via natural language.

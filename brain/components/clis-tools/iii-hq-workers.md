@@ -14,8 +14,8 @@ mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 27
-pushed_at: "2026-10-27T13:00:21Z"
+forks: 28
+pushed_at: "2026-11-03T14:48:36Z"
 ---
 ## What it is
 iii workers: cited by 1 practitioner note in the Sentinel brain.

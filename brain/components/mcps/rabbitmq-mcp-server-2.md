@@ -8,13 +8,13 @@ source_url: https://github.com/amazon-mq/mcp-server-rabbitmq
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 42
+stars: 43
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-10-27T02:44:17Z"
+pushed_at: "2026-11-03T08:45:47Z"
 ---
 ## What it is
 Enables AI agents to manage RabbitMQ message brokers through admin APIs, supporting multiple brokers, OAuth authentication, and mutative tools.

@@ -8,13 +8,13 @@ source_url: https://github.com/NSF-Simons-CosmicAI-Institute/manna
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-23T02:58:39Z"
+pushed_at: "2026-10-28T14:22:46Z"
 ---
 ## What it is
 An MCP server exposing IVOA-compliant astronomical archives (NOIRLab Astro Data Lab, NRAO/ALMA, CADC, ESO, Gaia, …) to LLM clients.

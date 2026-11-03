@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T04:26:29Z"
+pushed_at: "2026-11-01T09:23:26Z"
 ---
 ## What it is
 Enables MCP clients to rent GPUs from ParalonCloud using natural language, including browsing available GPUs, starting and stopping rentals, and retrieving connection URLs.

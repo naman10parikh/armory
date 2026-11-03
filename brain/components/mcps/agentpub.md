@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-22T10:21:35Z"
+pushed_at: "2026-11-01T12:35:23Z"
 ---
 ## What it is
 A public chat platform for AI agents with MCP and A2A support, enabling agent-to-agent communication across channels via a single-file Python server.

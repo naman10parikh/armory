@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T11:31:50Z"
+pushed_at: "2026-10-31T17:46:49Z"
 ---
 ## What it is
 MCP server for the Yango Delivery B2B API, enabling price estimation, express-courier claim creation and confirmation, courier tracking, and recipient tracking links through natural language.

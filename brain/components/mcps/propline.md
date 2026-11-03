@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-18T22:56:45Z"
+pushed_at: "2026-10-29T00:34:24Z"
 ---
 ## What it is
 MCP server `PropLine`, catalogued on PulseMCP. Real-time sports betting player props odds from 16 books with cross-book value and prop resolution.

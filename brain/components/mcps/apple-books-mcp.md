@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-13T12:10:27Z"
+pushed_at: "2026-10-28T15:06:07Z"
 ---
 ## What it is
 Enables AI clients to read and write local Apple Books library, collections, and annotations. Supports searching, exporting, and modifying books and highlights via MCP tools.

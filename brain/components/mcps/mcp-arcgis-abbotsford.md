@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T22:24:54Z"
+pushed_at: "2026-10-30T07:28:27Z"
 ---
 ## What it is
 Enables querying City of Abbotsford open geospatial data (parcels, zoning, public works) via ArcGIS Feature Services, with tools to search datasets, query layers, and retrieve schema info.

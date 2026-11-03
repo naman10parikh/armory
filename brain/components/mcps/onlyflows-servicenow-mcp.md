@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-27T01:27:38Z"
+pushed_at: "2026-11-02T13:43:08Z"
 ---
 ## What it is
 The most comprehensive ServiceNow MCP server. 17 tools for full CRUD, CMDB graph traversal, background scripts, ATF testing, and more.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T12:29:35Z"
+pushed_at: "2026-10-30T23:49:37Z"
 ---
 ## What it is
 A self-hosted MCP server providing Claude with an interactive Jupyter environment, including real kernels, persistent notebooks, and optional GPU offload to Google Colab.

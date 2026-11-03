@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-29T01:22:53Z"
+pushed_at: "2026-10-28T11:49:43Z"
 ---
 ## What it is
 A lightweight Twitter MCP server for Claude Code with 17 tools for reading and writing tweets, including search, user profiles, and media uploads, using a hybrid API approach.

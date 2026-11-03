@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T14:56:20Z"
+pushed_at: "2026-11-03T14:55:23Z"
 ---
 ## What it is
 Review AI-generated HTML slides or reports in the browser, anchor comments to specific passages, and have the agent fix them via MCP, with tools for inspection, commenting, layout checking, and export to PDF/PPTX.

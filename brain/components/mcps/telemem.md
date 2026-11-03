@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 37
-pushed_at: "2026-10-26T13:22:37Z"
+pushed_at: "2026-11-02T16:22:45Z"
 ---
 ## What it is
 Long-term and multimodal memory for AI agents. Store facts and conversations with add_memory, recall them with search_memories — 8 tools over stdio/SSE/HTTP. Per-character memory isolation, LLM-based semantic deduplication, FAISS + JSON storage, and a fully local option (Ollama, no API key). Drop-in

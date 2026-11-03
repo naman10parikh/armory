@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T06:22:49Z"
+pushed_at: "2026-10-31T14:34:55Z"
 ---
 ## What it is
 Connects AI assistants to multiple Gmail accounts simultaneously, enabling search, read, draft, send, and reply operations with per-account permission controls.

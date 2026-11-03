@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T21:39:45Z"
+pushed_at: "2026-10-29T06:23:47Z"
 ---
 ## What it is
 Enables searching and retrieving detailed information about items from the Smithsonian Open Access collection, including metadata and images.

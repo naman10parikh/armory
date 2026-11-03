@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-21T14:02:53Z"
+pushed_at: "2026-10-28T09:59:30Z"
 ---
 ## What it is
 Enables AI agents to control a local CBCT viewer for dental and maxillofacial scans, with navigation verbs like open scan, set window, navigate slices, and snapshot, without executing code or returning interpretations.

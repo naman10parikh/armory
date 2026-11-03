@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T21:00:26Z"
+pushed_at: "2026-10-29T05:42:56Z"
 ---
 ## What it is
 Wraps the Pipedrive REST API v1 to manage deals, contacts, and search across CRM entities via MCP tools.

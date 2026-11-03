@@ -8,13 +8,13 @@ source_url: https://github.com/OpenPipe/ART
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 10822
+stars: 10838
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1008
+forks: 1010
 pushed_at: "2026-10-26T23:55:47Z"
 ---
 ## What it is

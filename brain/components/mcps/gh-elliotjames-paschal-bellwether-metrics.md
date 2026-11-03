@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-27T13:05:57Z"
+pushed_at: "2026-11-03T13:18:13Z"
 ---
 ## What it is
 MCP server `Bellwether Metrics`, catalogued on PulseMCP. Live prediction market data from Polymarket and Kalshi with VWAP pricing and reportability.

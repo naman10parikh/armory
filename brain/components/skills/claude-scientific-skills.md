@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, agent-skills]
-stars: 54890
-forks: 4839
-pushed_at: "2026-10-26T09:36:15Z"
+stars: 55952
+forks: 4920
+pushed_at: "2026-11-02T09:23:27Z"
 ---
 ## What it is
 A set of ready-to-use Agent Skills for research, science, engineering, analysis, finance and writing.

@@ -14,7 +14,7 @@ verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, blogging-content]
 forks: 48
-pushed_at: "2026-10-27T04:43:30Z"
+pushed_at: "2026-11-02T08:34:34Z"
 ---
 ## What it is
 Personal blog using jekyll-bootstrap

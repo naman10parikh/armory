@@ -8,11 +8,11 @@ source_url: https://github.com/joshuarileydev/app-store-connect-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 331
+stars: 330
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 57
+forks: 58
 pushed_at: "2025-09-02T10:27:03Z"
 ---
 ## What it is

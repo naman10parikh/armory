@@ -8,11 +8,11 @@ source_url: https://github.com/sonatype/dependency-management-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 74
+stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 34
+forks: 33
 pushed_at: "2026-01-14T21:43:45Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T15:31:52Z"
+pushed_at: "2026-10-30T21:16:40Z"
 ---
 ## What it is
 MCP server that lets LLMs talk to serial devices: microcontrollers, routers, modems, embedded Linux, anything with a UART.

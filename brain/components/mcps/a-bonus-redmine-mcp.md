@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-31T14:57:54Z"
+pushed_at: "2026-10-27T16:49:30Z"
 ---
 ## What it is
 MCP server for Redmine that enables interaction with issues, wiki pages, and time entries through natural language.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T19:58:20Z"
+pushed_at: "2026-10-29T05:03:18Z"
 ---
 ## What it is
 Enables fetching top headlines and searching news archives from NewsAPI.org, allowing AI agents to access current and historical news data.

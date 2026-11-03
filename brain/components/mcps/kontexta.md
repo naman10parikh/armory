@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T18:23:01Z"
+pushed_at: "2026-10-31T21:20:46Z"
 ---
 ## What it is
 A local-first MCP server that gives AI coding agents persistent memory and controlled commands. Features a git-backed markdown knowledge vault with FTS5 search, surgical section edits, token-aware context budgeting, and a sandboxed command engine with human approval gates. Works with Claude Code, Cu

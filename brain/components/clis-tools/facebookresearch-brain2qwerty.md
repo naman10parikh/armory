@@ -8,13 +8,13 @@ source_url: https://github.com/facebookresearch/brain2qwerty
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1180
+stars: 1201
 eval_score: null
 mentions: 1
 verified_at: 2026-10-13
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 179
+forks: 183
 pushed_at: "2026-09-24T16:04:22Z"
 ---
 ## What it is

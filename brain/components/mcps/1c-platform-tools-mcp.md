@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-10-25T15:25:23Z"
+forks: 8
+pushed_at: "2026-11-02T11:38:19Z"
 ---
 ## What it is
 Enables AI agents to interact with 1C: Enterprise development environment, including running tests, managing launch profiles, building configurations, and performing database operations through the 1C: Platform Tools extension.

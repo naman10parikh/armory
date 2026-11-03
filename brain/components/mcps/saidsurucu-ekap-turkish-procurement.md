@@ -8,11 +8,11 @@ source_url: https://github.com/saidsurucu/ihale-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 108
+stars: 110
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
+forks: 16
 pushed_at: "2026-09-18T15:51:06Z"
 ---
 ## What it is

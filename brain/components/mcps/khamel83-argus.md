@@ -12,8 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-10-22T19:32:44Z"
+forks: 3
+pushed_at: "2026-11-03T05:50:42Z"
 ---
 ## What it is
 MCP server `Argus Search`, catalogued on PulseMCP. Multi-provider web search broker with budget-aware routing, RRF ranking, and content extraction across 11 search providers.

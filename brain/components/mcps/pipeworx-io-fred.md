@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-26T03:53:16Z"
+pushed_at: "2026-11-02T01:54:05Z"
 ---
 ## What it is
 MCP server `FRED`, catalogued on PulseMCP. Federal Reserve Economic Data (FRED) from the St. Louis Fed via the Pipeworx gateway, free with no authentication.

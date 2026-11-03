@@ -8,11 +8,11 @@ source_url: https://github.com/bonfire-audio/reaper-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 166
+stars: 178
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 35
+forks: 38
 pushed_at: "2026-10-25T18:45:45Z"
 ---
 ## What it is

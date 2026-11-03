@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-10-16T05:42:36Z"
+pushed_at: "2026-11-02T04:42:37Z"
 ---
 ## What it is
 Enables mobile device management, app upload, automation session execution, and test result viewing through the Kobiton platform, integrated with AI coding assistants.

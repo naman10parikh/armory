@@ -8,12 +8,12 @@ source_url: https://github.com/photoshootapp/photoshoot-ai-design
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-07-20T08:49:10Z"
 ---
 ## What it is

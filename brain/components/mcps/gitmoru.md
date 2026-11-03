@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T14:37:46Z"
+pushed_at: "2026-11-02T03:40:22Z"
 ---
 ## What it is
 Enables AI to read and analyze repository incident scan results, including file diffs and summaries, to help investigate suspicious changes. It is read-only and does not execute code or send data externally.

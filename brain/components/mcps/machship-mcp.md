@@ -8,11 +8,13 @@ source_url: https://github.com/devkindhq/machship-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-11-03T09:43:26Z"
 ---
 ## What it is
 Integrates the Machship freight management platform with MCP-compatible LLMs, enabling shipment creation, quotes, labels, and carrier management via natural language.

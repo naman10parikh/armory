@@ -8,11 +8,11 @@ source_url: https://github.com/twelvedata/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 84
+stars: 86
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 26
+forks: 25
 pushed_at: "2026-10-01T17:11:29Z"
 ---
 ## What it is

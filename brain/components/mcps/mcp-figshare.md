@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T21:48:54Z"
+pushed_at: "2026-11-01T21:04:23Z"
 ---
 ## What it is
 Enables searching Figshare research articles, datasets, papers, and posters through the MCP protocol.

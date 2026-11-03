@@ -8,13 +8,13 @@ source_url: https://github.com/ztemerbekov/a1-yandex-kit-skills
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T22:57:43Z"
+pushed_at: "2026-11-01T12:23:39Z"
 ---
 ## What it is
 MCP server for the Yandex KIT e-commerce API, built with the official Model Context Protocol SDK. It exposes 61 tools over stdio to manage catalog, orders, discounts, and webhooks.

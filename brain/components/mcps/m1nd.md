@@ -8,12 +8,12 @@ source_url: https://github.com/maxkle1nz/m1nd
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 23
+stars: 24
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
+forks: 8
 pushed_at: "2026-10-24T05:04:18Z"
 ---
 ## What it is

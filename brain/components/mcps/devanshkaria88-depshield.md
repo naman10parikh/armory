@@ -8,11 +8,11 @@ source_url: https://github.com/devanshkaria88/depshield-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
+forks: 2
 pushed_at: "2026-04-03T22:49:15Z"
 ---
 ## What it is

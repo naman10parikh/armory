@@ -8,11 +8,11 @@ source_url: https://github.com/suthio/redash-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 106
+stars: 107
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 47
+forks: 46
 pushed_at: "2026-10-22T11:11:00Z"
 ---
 ## What it is

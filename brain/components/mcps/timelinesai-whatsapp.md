@@ -8,12 +8,12 @@ source_url: https://github.com/initechsoftware/whatsapp-mcp-by-timelinesai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-22T12:15:12Z"
+pushed_at: "2026-10-30T15:06:39Z"
 ---
 ## What it is
 MCP server `TimelinesAI WhatsApp`, catalogued on PulseMCP. Connects WhatsApp Business communications to AI workflows via TimelinesAI.

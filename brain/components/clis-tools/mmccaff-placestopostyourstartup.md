@@ -8,13 +8,13 @@ source_url: https://github.com/mmccaff/PlacesToPostYourStartup
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 8275
+stars: 8351
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 638
+forks: 648
 pushed_at: "2026-08-29T14:08:02Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T11:20:14Z"
+pushed_at: "2026-11-03T12:51:04Z"
 ---
 ## What it is
 Local MCP server connecting AI clients to the Figma desktop app for inspecting and editing Figma documents via the Plugin API.

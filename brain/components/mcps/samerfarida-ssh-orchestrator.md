@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-10-26T13:06:30Z"
+pushed_at: "2026-11-02T14:05:58Z"
 ---
 ## What it is
 MCP server `SSH Orchestrator`, catalogued on PulseMCP. Provides secure SSH fleet orchestration with policy-enforced command execution across multiple servers, featuring deny-by-default security, host discovery, batch operations, and audit logging for infrastructure automation and compliance-aware server management.

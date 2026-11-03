@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T22:30:58Z"
+pushed_at: "2026-10-29T06:56:57Z"
 ---
 ## What it is
 Enables natural language queries to UNESCO Institute for Statistics data via Pipeworx gateway.

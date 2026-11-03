@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T11:11:46Z"
+pushed_at: "2026-11-03T08:58:52Z"
 ---
 ## What it is
 Wraps bitcoincasinokings.com APIs to enable natural language queries for casino data, brand search, and live bonuses.

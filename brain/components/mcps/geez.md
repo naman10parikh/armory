@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T16:53:38Z"
+pushed_at: "2026-10-31T13:16:32Z"
 ---
 ## What it is
 Enables Claude or any MCP client to call Grok (xAI) for answers via a simple, phone-first tool.

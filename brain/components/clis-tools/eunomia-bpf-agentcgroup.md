@@ -8,14 +8,14 @@ source_url: https://github.com/eunomia-bpf/agentcgroup
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 83
+stars: 84
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 6
-pushed_at: "2026-07-22T08:30:52Z"
+pushed_at: "2026-10-28T16:24:05Z"
 ---
 ## What it is
 AgentCgroup: Understanding and Controlling OS Resources of AI Agents

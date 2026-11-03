@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 20
-pushed_at: "2026-06-15T09:09:21Z"
+pushed_at: "2026-11-02T13:23:23Z"
 ---
 ## What it is
 MCP server `Claude Historian`, catalogued on PulseMCP. Provides intelligent search capabilities across Claude Code conversation history with specialized tools for conversation search, file context discovery, error solution patterns, and session management through JSONL log parsing and AI-enhanced query expansion.

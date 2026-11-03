@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T14:50:29Z"
+pushed_at: "2026-10-27T16:14:48Z"
 ---
 ## What it is
 PostPulse is a unified API and integration suite that handles the complexity of social media publishing. Instead of managing individual platform audits and breaking tokens, developers use PostPulse as their outsourced social-connectivity team.

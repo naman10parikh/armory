@@ -8,14 +8,14 @@ source_url: https://github.com/itai-gendler/pdd-kit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 95
+stars: 101
 eval_score: null
 mentions: 1
 verified_at: 2026-10-29
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 10
-pushed_at: "2026-10-29T05:51:42Z"
+pushed_at: "2026-11-03T09:07:53Z"
 ---
 ## What it is
 Product-Driven Development for coding agents

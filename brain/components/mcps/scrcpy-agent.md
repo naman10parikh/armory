@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-05T11:51:13Z"
+pushed_at: "2026-11-01T03:19:40Z"
 ---
 ## What it is
 Local MCP server for observing and controlling an authorized Android device over USB using ADB and scrcpy, providing screen capture, UI automation, app inspection, logcat, and evidence recording.

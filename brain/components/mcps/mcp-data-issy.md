@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T21:37:36Z"
+pushed_at: "2026-10-31T20:56:04Z"
 ---
 ## What it is
 MCP server for querying and exploring Issy-les-Moulineaux open data datasets (city services, mobility, environment) via OpenDataSoft API.

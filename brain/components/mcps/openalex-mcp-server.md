@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/openalex-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
-forks: 5
-pushed_at: "2026-10-26T03:41:34Z"
+forks: 6
+pushed_at: "2026-10-29T03:55:21Z"
 ---
 ## What it is
 Access the OpenAlex academic research catalog - 270M+ publications through MCP.

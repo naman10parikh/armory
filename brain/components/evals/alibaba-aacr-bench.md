@@ -8,13 +8,13 @@ source_url: https://github.com/alibaba/aacr-bench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 249
+stars: 254
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, evals]
-forks: 32
+forks: 33
 pushed_at: "2026-10-15T07:13:55Z"
 ---
 ## What it is

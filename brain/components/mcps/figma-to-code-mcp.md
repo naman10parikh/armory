@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T13:48:50Z"
+pushed_at: "2026-10-29T10:49:56Z"
 ---
 ## What it is
 Transforms Figma design data into a compact, LLM-friendly format for code generation, reducing size by 99.5% while preserving UI-critical information.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 29
-pushed_at: "2026-10-26T21:36:18Z"
+forks: 32
+pushed_at: "2026-11-02T21:35:24Z"
 ---
 ## What it is
 This server enables MCP clients (LLMs) to access data from the Danish school platform Aula, such as messages, schedules, and child profiles, by authenticating via MitID and running locally.

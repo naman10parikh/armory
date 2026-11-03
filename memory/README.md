@@ -1,6 +1,6 @@
 # memory/: 45 components (catalog view)
 
-**Last updated:** 2026-11-02T17:01:35.403Z (UTC), when `catalog.json` was last generated.
+**Last updated:** 2026-11-03T15:02:30.386Z (UTC), when `catalog.json` was last generated.
 
 Each `<slug>.md` is a slim install card generated from `brain/components/memory/`.
 

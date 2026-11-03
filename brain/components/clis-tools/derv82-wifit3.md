@@ -8,14 +8,14 @@ source_url: https://github.com/derv82/wifit3
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2724
+stars: 3087
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 264
-pushed_at: "2026-10-27T02:25:40Z"
+forks: 309
+pushed_at: "2026-11-03T03:52:30Z"
 ---
 ## What it is
 Wifite but USB-only & cross-platform.

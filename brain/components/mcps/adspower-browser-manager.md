@@ -8,11 +8,11 @@ source_url: https://github.com/adspower/adspower-browser
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 147
+stars: 151
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 18
+forks: 19
 pushed_at: "2026-10-27T07:31:15Z"
 ---
 ## What it is

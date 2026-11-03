@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T21:09:39Z"
+pushed_at: "2026-10-29T05:54:45Z"
 ---
 ## What it is
 Enables access to alternative data on public companies from Quiver Quantitative via MCP.

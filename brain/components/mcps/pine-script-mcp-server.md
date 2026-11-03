@@ -8,12 +8,12 @@ source_url: https://github.com/TradersPost/pine-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 23
+stars: 38
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 15
+forks: 18
 pushed_at: "2026-03-05T21:45:46Z"
 ---
 ## What it is

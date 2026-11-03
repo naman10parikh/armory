@@ -8,13 +8,13 @@ source_url: https://github.com/truera/trulens
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 3614
+stars: 3628
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, rag, tracking, dashboard]
-forks: 378
-pushed_at: "2026-10-26T17:24:56Z"
+forks: 384
+pushed_at: "2026-11-03T02:43:30Z"
 mentions: 1
 ---
 ## What it is

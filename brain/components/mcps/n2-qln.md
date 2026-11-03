@@ -8,12 +8,12 @@ source_url: https://github.com/choihyunsus/n2-QLN
 license: Sleepycat License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 47
+stars: 53
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
+forks: 10
 pushed_at: "2026-08-04T08:55:52Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/tarunlnmiit/autopilot-jobhunt
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 217
+stars: 218
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 53
+forks: 54
 pushed_at: "2026-09-20T04:43:09Z"
 ---
 ## What it is

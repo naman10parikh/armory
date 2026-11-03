@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-22T17:26:49Z"
+pushed_at: "2026-10-28T14:09:51Z"
 ---
 ## What it is
 Enables unified research through a single MCP interface, combining multi-provider web search, content extraction, fact-checking via corroboration across independent sources, and a personal knowledge base—with zero-config providers and optional API-keyed backends.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-26T20:31:11Z"
+pushed_at: "2026-11-03T14:06:10Z"
 ---
 ## What it is
 MCP server `.FAF Context`, catalogued on PulseMCP. Sync project context once and distribute it to all IDE-specific formats including Cursor, Windsurf, VS Code, and Cline.

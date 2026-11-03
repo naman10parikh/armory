@@ -8,12 +8,12 @@ source_url: https://github.com/vectifyai/pageindex-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 404
+stars: 407
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 52
-pushed_at: "2026-10-27T10:27:11Z"
+forks: 50
+pushed_at: "2026-11-03T03:30:12Z"
 ---
 ## What it is
 MCP server `PageIndex`, catalogued on PulseMCP. Reasoning-based RAG system for analyzing long PDF documents

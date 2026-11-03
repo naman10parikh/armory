@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-27T07:48:03Z"
+pushed_at: "2026-11-02T02:45:11Z"
 ---
 ## What it is
 Enables AI agents to retrieve real-time, trusted-source competitive intelligence from the CaSee platform, offering tools for source search, trend analysis, source aggregation, and statistics with T-Score credibility scoring.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T01:30:36Z"
+pushed_at: "2026-10-29T05:27:34Z"
 ---
 ## What it is
 Enables AI agents to query environmental sensor data from the openSenseMap citizen-science network, allowing access to air quality, weather, and other sensor measurements through natural language.

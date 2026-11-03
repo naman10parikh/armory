@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, embedded-system]
-stars: 25
+stars: 26
 forks: 10
 pushed_at: "2025-05-12T07:11:37Z"
 ---

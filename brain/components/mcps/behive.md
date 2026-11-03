@@ -8,12 +8,12 @@ source_url: https://github.com/qa10devteam/behive
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 146
+stars: 147
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
+forks: 13
 pushed_at: "2026-10-25T14:19:10Z"
 ---
 ## What it is

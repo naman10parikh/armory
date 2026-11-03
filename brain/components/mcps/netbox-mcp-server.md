@@ -8,13 +8,13 @@ source_url: https://github.com/netboxlabs/netbox-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 249
+stars: 254
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 108
-pushed_at: "2026-10-27T12:38:05Z"
+forks: 111
+pushed_at: "2026-11-03T03:36:36Z"
 ---
 ## What it is
 Read-only MCP server for NetBox that enables LLMs to query NetBox objects (devices, IPAM, etc.) and change logs through natural language, with field filtering for token optimization.

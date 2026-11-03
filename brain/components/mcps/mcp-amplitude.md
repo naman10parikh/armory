@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T22:21:11Z"
+pushed_at: "2026-10-30T07:25:33Z"
 ---
 ## What it is
 Enables querying Amplitude analytics data including events, active users, retention, and user profiles through natural language or direct tool calls.

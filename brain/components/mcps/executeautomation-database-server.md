@@ -8,11 +8,11 @@ source_url: https://github.com/executeautomation/mcp-database-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 388
+stars: 389
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 97
+forks: 96
 pushed_at: "2025-08-27T01:22:21Z"
 ---
 ## What it is

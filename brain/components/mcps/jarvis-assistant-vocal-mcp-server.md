@@ -8,12 +8,12 @@ source_url: https://github.com/sosoj92/jarvis-assistant-vocal
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 521
+stars: 546
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 145
+forks: 149
 pushed_at: "2026-10-20T20:54:09Z"
 ---
 ## What it is

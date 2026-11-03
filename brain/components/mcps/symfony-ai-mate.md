@@ -8,12 +8,12 @@ source_url: https://github.com/symfony/ai-mate
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 42
+stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-26T14:11:00Z"
+pushed_at: "2026-10-27T20:15:53Z"
 ---
 ## What it is
 MCP server `Symfony AI Mate`, catalogued on PulseMCP. Integrates with Symfony PHP applications to provide container introspection, service discovery, dependency analysis, and Monolog log analysis with search, filtering, and tail operations for debugging and development workflows.

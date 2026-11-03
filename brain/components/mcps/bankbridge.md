@@ -8,13 +8,13 @@ source_url: https://github.com/bankbridge-money/bankbridge-plugin
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-27T07:11:08Z"
+pushed_at: "2026-11-02T21:12:17Z"
 ---
 ## What it is
 Enables financial data access from connected bank accounts via MCP tools, allowing natural language queries about balances, transactions, subscriptions, investments, and more, with a focus on privacy and read-only access.

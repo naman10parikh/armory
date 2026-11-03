@@ -8,12 +8,12 @@ source_url: https://github.com/ohad6k/ditto
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 299
+stars: 303
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 31
+forks: 32
 pushed_at: "2026-10-12T14:39:47Z"
 ---
 ## What it is

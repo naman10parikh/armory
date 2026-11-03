@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T17:47:53Z"
+pushed_at: "2026-11-01T13:57:54Z"
 ---
 ## What it is
 MCP server that provides crypto market intelligence signals, risk assessments, and forecasts via the ForgeMesh Crypto Signals API, with paid access through x402 microtransactions on Base.

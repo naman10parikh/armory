@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-15T14:56:04Z"
+pushed_at: "2026-10-28T09:50:51Z"
 ---
 ## What it is
 Enables AI agents to send and receive email with enforced security policies, scoped mailboxes, and human approval for external sending.

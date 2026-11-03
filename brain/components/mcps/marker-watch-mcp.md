@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T22:29:25Z"
+pushed_at: "2026-11-02T08:25:22Z"
 ---
 ## What it is
 Runs a long-lived command and converts its marked output into versioned build snapshots, exposing status, output, and waiting tools over MCP.

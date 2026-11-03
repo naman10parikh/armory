@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T10:40:29Z"
+pushed_at: "2026-11-02T10:46:31Z"
 ---
 ## What it is
 A read-only MCP server for Lunch Money that provides secure, retrieval-only access to financial data through ChatGPT Business, with OAuth authentication and enforced read-only restrictions.

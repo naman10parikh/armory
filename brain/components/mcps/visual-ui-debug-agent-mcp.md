@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-10-01T16:29:26Z"
+pushed_at: "2026-11-01T16:27:09Z"
 ---
 ## What it is
 An MCP server that enables AI agents to autonomously test, debug, and analyze web interfaces visually using Playwright, with 30 tools for screenshots, workflows, performance, and visual comparison.

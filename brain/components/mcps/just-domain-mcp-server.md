@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-26T11:52:13Z"
+pushed_at: "2026-11-01T01:06:28Z"
 ---
 ## What it is
 Enables checking domain name availability and pricing, and provides a registration link. Read-only: no purchases in chat.

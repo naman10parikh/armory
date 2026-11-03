@@ -8,13 +8,13 @@ source_url: https://github.com/moxno/privacyscrubber-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-27T12:14:17Z"
+pushed_at: "2026-11-03T11:38:12Z"
 ---
 ## What it is
 Sanitizes text and files by removing PII, secrets, and custom patterns locally before sending to LLMs, with optional reverse-scrubbing.

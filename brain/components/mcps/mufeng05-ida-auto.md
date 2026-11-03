@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-27T09:55:03Z"
+pushed_at: "2026-10-30T06:04:32Z"
 ---
 ## What it is
 MCP server `IDA Auto`, catalogued on PulseMCP. Headless IDA Pro automation enabling AI agents to autonomously open, analyze, and query multiple binary files without manual GUI interaction.

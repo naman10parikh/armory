@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T16:04:49Z"
+pushed_at: "2026-10-31T10:13:54Z"
 ---
 ## What it is
 Enables discovery and navigation of French overseas territories public data across national and local open-data portals, with tools to search datasets, list territories and communes, and fetch source excerpts via official French government APIs.

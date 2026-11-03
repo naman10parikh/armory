@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/wsdot-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T09:47:24Z"
+pushed_at: "2026-10-28T07:32:36Z"
 ---
 ## What it is
 Query WA highway conditions, ferry schedules, vessel locations, toll rates, border waits, and alerts via MCP.

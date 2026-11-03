@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-12T18:33:01Z"
+pushed_at: "2026-11-02T03:04:28Z"
 ---
 ## What it is
 Enables safe, controlled remote operation of the Elegoo Centauri Carbon 3D printer with real-time monitoring, file management, and print control via the SDCP protocol.

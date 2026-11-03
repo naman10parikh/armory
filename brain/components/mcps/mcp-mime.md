@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T01:02:13Z"
+pushed_at: "2026-11-03T01:56:31Z"
 ---
 ## What it is
 Enables MIME type lookup and extension resolution for filenames and extensions, supporting offline, keyless queries.

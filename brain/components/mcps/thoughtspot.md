@@ -12,8 +12,8 @@ stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
-pushed_at: "2026-10-27T04:43:03Z"
+forks: 13
+pushed_at: "2026-11-03T02:32:00Z"
 ---
 ## What it is
 MCP server `ThoughtSpot`, catalogued on PulseMCP. OAuth-based analytics data querying from ThoughtSpot instances

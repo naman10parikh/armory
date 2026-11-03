@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T03:54:59Z"
+pushed_at: "2026-11-02T01:56:01Z"
 ---
 ## What it is
 Enables AI agents to list, read, and fetch gaming news feeds from curated sources or any RSS/Atom feed URL.

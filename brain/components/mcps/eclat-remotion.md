@@ -8,12 +8,12 @@ source_url: https://github.com/instavar/remotion-templates
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-10-26T16:00:43Z"
 ---
 ## What it is

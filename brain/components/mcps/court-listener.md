@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T04:00:02Z"
+pushed_at: "2026-10-31T08:30:43Z"
 ---
 ## What it is
 Enables AI agents to query and access legal data from the Free Law Project's CourtListener API, including court opinions, judges, and dockets, with basic access requiring no authentication.

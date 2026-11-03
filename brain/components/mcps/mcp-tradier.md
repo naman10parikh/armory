@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T21:59:52Z"
+pushed_at: "2026-10-29T06:41:57Z"
 ---
 ## What it is
 Provides stock and options market data via the Tradier Brokerage API, enabling AI agents to query financial data through natural language.

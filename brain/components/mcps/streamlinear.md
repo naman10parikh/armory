@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-08-27T06:28:12Z"
+pushed_at: "2026-10-30T05:00:06Z"
 ---
 ## What it is
 A lightweight MCP server that enables Claude to interact with Linear via a single tool with seven actions: search, get, update, comment, create, graphql, and help.

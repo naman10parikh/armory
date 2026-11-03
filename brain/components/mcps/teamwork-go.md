@@ -8,12 +8,12 @@ source_url: https://github.com/teamwork/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 18
-pushed_at: "2026-10-26T13:58:24Z"
+pushed_at: "2026-10-30T19:32:19Z"
 ---
 ## What it is
 MCP server `Teamwork`, catalogued on PulseMCP. Official server for Teamwork.com project management platform

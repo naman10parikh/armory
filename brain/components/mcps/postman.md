@@ -12,8 +12,8 @@ stars: 325
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 88
-pushed_at: "2026-10-23T09:12:17Z"
+forks: 85
+pushed_at: "2026-10-30T15:27:40Z"
 ---
 ## What it is
 MCP server `Postman`, catalogued on PulseMCP. Connect AI agents, assistants, and chatbots directly to your APIs on Postman.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-27T04:11:42Z"
+pushed_at: "2026-11-02T02:58:23Z"
 ---
 ## What it is
 Enables lookups against the Debian iso-codes project JSON for ISO country, language, and currency codes.

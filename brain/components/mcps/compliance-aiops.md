@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T13:09:31Z"
+pushed_at: "2026-10-30T01:36:10Z"
 ---
 ## What it is
 Converts audit trails from AIops agents into framework-mapped, tamper-evident compliance evidence bundles for HIPAA, PCI-DSS, SOC 2, and GDPR.

@@ -8,12 +8,12 @@ source_url: https://github.com/treesoop/hwp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 100
+stars: 103
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
-pushed_at: "2026-07-08T09:21:00Z"
+forks: 12
+pushed_at: "2026-11-01T02:22:03Z"
 ---
 ## What it is
 MCP server `HWP/HWPX File Handler`, catalogued on PulseMCP. Reads and writes Korean Hangul Word Processor (HWP/HWPX) documents with parsing and generation capabilities.

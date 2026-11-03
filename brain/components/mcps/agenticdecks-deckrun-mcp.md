@@ -13,7 +13,7 @@ related: []
 tags: [mcp, multimedia-process]
 stars: 2
 forks: 1
-pushed_at: "2026-04-24T16:18:43Z"
+pushed_at: "2026-10-29T00:47:22Z"
 ---
 ## What it is
 Generate presentation PDFs, narrated videos, and MP3 audio from Markdown. Free tier requires no API key or local install — add a URL to your IDE config and start generating. Paid tier adds video, audio, async jobs, and account tools.

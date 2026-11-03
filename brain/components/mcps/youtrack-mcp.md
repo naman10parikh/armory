@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 47
-pushed_at: "2026-08-26T23:52:57Z"
+forks: 49
+pushed_at: "2026-11-02T14:07:27Z"
 ---
 ## What it is
 MCP server for interacting with YouTrack, enabling issue management, project operations, and search via natural language.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-10-26T18:23:43Z"
+forks: 8
+pushed_at: "2026-10-29T10:40:04Z"
 ---
 ## What it is
 Graph-based MCP server for persistent AI memory, session checkpointing, context compression, and cross-session context management for LLM applications.

@@ -8,7 +8,7 @@ source_url: https://github.com/angiejones/mcp-selenium
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 428
+stars: 430
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

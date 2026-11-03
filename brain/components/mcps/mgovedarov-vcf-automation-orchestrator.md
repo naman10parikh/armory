@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-22T12:19:15Z"
+pushed_at: "2026-11-01T03:37:52Z"
 ---
 ## What it is
 MCP server `VCF Automation Orchestrator`, catalogued on PulseMCP. MCP server exposing VMware VCF Automation Orchestrator REST API operations for managing workflows, actions, and subscriptions via AI assistants.

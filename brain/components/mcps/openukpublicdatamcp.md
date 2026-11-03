@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-08T21:02:10Z"
+pushed_at: "2026-11-01T15:13:31Z"
 ---
 ## What it is
 A no-key-first MCP server providing access to UK public data including postcodes, bank holidays, carbon intensity, flood warnings, and government datasets.

@@ -8,7 +8,7 @@ source_url: https://github.com/cyberchitta/llm-context.py
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 307
+stars: 308
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

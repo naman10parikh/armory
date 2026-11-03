@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/imf-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-17T23:01:57Z"
+pushed_at: "2026-10-29T09:05:56Z"
 ---
 ## What it is
 Query IMF SDMX 3.0 macroeconomic data — hundreds of dataflows across 190 countries, including WEO projections, BOP, CPI, exchange rates, and national accounts — via MCP tools and resources.

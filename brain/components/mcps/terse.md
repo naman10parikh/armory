@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-26T07:30:42Z"
+pushed_at: "2026-10-30T00:31:15Z"
 ---
 ## What it is
 A transparent proxy that sits in front of any other MCP server and shrinks its tool output before it reaches the model. Lossless by default: the transformed bytes are a denser encoding of the same data, with a round-trip gate asserting an exact inverse over the corpus, so nothing is dropped, summari

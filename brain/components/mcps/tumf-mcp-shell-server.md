@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 50
-pushed_at: "2026-10-19T23:37:37Z"
+pushed_at: "2026-10-29T03:42:35Z"
 ---
 ## What it is
 MCP server `Shell Command`, catalogued on PulseMCP. Execute whitelisted shell commands on the host system via asyncio.

@@ -8,13 +8,13 @@ source_url: https://github.com/borgels/mcp-server-dalux
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-23T05:49:04Z"
+pushed_at: "2026-11-03T12:12:54Z"
 ---
 ## What it is
 MCP server for the Dalux Build API, enabling read and write access to Dalux Field and Box data including projects, tasks, files, and more.

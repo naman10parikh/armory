@@ -8,12 +8,12 @@ source_url: https://github.com/inditextech/mcp-teams-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 450
+stars: 466
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 41
-pushed_at: "2026-10-22T08:09:39Z"
+pushed_at: "2026-10-29T14:26:07Z"
 ---
 ## What it is
 MCP server `Microsoft Teams`, catalogued on PulseMCP. Integrates with Microsoft Teams to enable reading messages, creating threads, replying to messages, and mentioning team members through Azure bot credentials.

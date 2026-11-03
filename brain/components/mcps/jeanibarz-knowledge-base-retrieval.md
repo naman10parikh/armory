@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-10-26T19:34:55Z"
+pushed_at: "2026-11-02T23:05:43Z"
 ---
 ## What it is
 MCP server `Knowledge Base Retrieval`, catalogued on PulseMCP. Integrates with knowledge bases to enable efficient content retrieval and vectorization for question answering and information retrieval tasks

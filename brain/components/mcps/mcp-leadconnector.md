@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-27T04:22:00Z"
+pushed_at: "2026-11-02T20:59:44Z"
 ---
 ## What it is
 Wraps the GoHighLevel CRM for AI agents, enabling natural language interaction with LeadConnector data.

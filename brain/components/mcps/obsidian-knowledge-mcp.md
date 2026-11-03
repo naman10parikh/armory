@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-28T08:12:44Z"
+pushed_at: "2026-10-29T05:35:48Z"
 ---
 ## What it is
 Enables hybrid vector-BM25 search and retrieval of Obsidian vault knowledge notes, allowing AI assistants like Claude to efficiently access relevant chunks without full file reads.

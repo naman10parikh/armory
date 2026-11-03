@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T17:23:37Z"
+pushed_at: "2026-11-03T13:51:52Z"
 ---
 ## What it is
 An MCP server that wraps the U.S. Army Corps of Engineers (USACE) Institute for Water Resources (IWR) River Mile Marker ArcGIS Feature Service, allowing LLMs to locate river mile markers on navigable U.S. rivers and answer 'what river mile am I at?' questions.

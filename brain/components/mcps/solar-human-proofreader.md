@@ -8,12 +8,12 @@ source_url: https://github.com/SolarLLM/human-proofreader-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-10-27T00:44:09Z"
 ---
 ## What it is
