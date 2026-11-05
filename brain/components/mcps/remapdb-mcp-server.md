@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-23T08:43:29Z"
+pushed_at: "2026-11-02T09:48:11Z"
 ---
 ## What it is
 Connects AI tools to Remapdb vehicle tuning data, enabling search and retrieval of manufacturers, models, engines, and tuning information.

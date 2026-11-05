@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-16T13:33:58Z"
+pushed_at: "2026-11-02T14:19:00Z"
 ---
 ## What it is
 MCP server `Pusher Channels`, catalogued on PulseMCP. Trigger events and manage realtime messaging on Pusher.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
 forks: 5
-pushed_at: "2026-10-27T08:25:21Z"
+pushed_at: "2026-11-01T13:10:56Z"
 ---
 ## What it is
 Access real-time public transport across Europe with live departures, connections, and vehicle details. Plan door-to-door trips, search stations and places, and find nearby stops with up-to-the-minute results. Benefit from coverage in the UK, Switzerland, Belgium, and Norway.

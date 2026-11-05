@@ -8,11 +8,13 @@ source_url: https://github.com/osntak/careermate
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-11-04T20:29:24Z"
 ---
 ## What it is
 CareerMate is an MCP-first, local-only career management tool that stores your career data (profiles, resumes, cover letters, job postings, applications, interview prep) on your computer and exposes it through MCP tools for AI agents to read and write.

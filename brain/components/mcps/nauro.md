@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-10-29T09:23:04Z"
+forks: 5
+pushed_at: "2026-11-05T02:10:02Z"
 ---
 ## What it is
 The decision system for agentic engineering: keeps your project's decisions, rationale, and rejected paths in plain files and surfaces them to AI coding agents before they plan or change code.

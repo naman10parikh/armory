@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T14:42:46Z"
+pushed_at: "2026-11-04T09:37:51Z"
 ---
 ## What it is
 Read-only MCP server for monitoring Make.com scenario errors from ChatGPT, enabling listing scenarios, viewing recent errors, and getting execution details.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T01:15:49Z"
+pushed_at: "2026-10-30T07:39:49Z"
 ---
 ## What it is
 Lincoln County GIS — Lincoln County, North Carolina open geospatial data (ArcGIS).

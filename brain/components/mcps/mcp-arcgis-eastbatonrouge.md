@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T01:10:50Z"
+pushed_at: "2026-10-30T07:34:35Z"
 ---
 ## What it is
 Access East Baton Rouge Parish open geospatial data (parcels, addresses, public works) through ArcGIS services, enabling dataset search, layer querying, and schema retrieval.

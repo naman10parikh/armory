@@ -8,14 +8,14 @@ source_url: https://github.com/reason-machines/reason-network
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1315
+stars: 1523
 eval_score: null
 mentions: 1
 verified_at: 2026-10-25
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 113
-pushed_at: "2026-10-29T10:50:34Z"
+forks: 132
+pushed_at: "2026-11-05T05:44:46Z"
 ---
 ## What it is
 Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.

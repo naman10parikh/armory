@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-10T17:51:22Z"
+pushed_at: "2026-10-31T22:11:33Z"
 ---
 ## What it is
 MCP server that wraps the Mycelia mutual-aid protocol, allowing AI agents in any MCP host (Claude Code, Maestro, Codex) to browse, claim, respond to, and rate requests without leaving the conversation context.

@@ -8,11 +8,11 @@ source_url: https://github.com/hybirdss/smartest-tv
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 56
+stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 6
 pushed_at: "2026-10-02T00:56:02Z"
 ---
 ## What it is

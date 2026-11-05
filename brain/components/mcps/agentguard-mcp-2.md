@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T04:45:04Z"
+pushed_at: "2026-11-05T05:48:50Z"
 ---
 ## What it is
 A protected Model Context Protocol server that gives AI agents distinct machine identities, enforces least-privilege OAuth permissions, applies contextual authorization policies, and pauses sensitive actions for human approval.

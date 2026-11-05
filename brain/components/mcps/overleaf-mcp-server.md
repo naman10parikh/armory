@@ -8,12 +8,12 @@ source_url: https://github.com/YounesBensafia/overleaf-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 64
+stars: 65
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
+forks: 9
 pushed_at: "2026-10-11T08:47:08Z"
 ---
 ## What it is

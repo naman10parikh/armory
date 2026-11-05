@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-28T05:05:15Z"
+pushed_at: "2026-11-02T19:08:38Z"
 ---
 ## What it is
 MCP server `YNAB`, catalogued on PulseMCP. You Need A Budget integration for budgets, accounts, transactions, and categories.

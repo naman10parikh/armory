@@ -8,13 +8,13 @@ source_url: https://github.com/hanoak/unsplash-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-01T20:10:05Z"
+forks: 1
+pushed_at: "2026-11-01T20:07:57Z"
 ---
 ## What it is
 Production-ready Model Context Protocol (MCP) server for the Unsplash API — search photos, fetch details, and stay compliant with Unsplash attribution & download-tracking guidelines. Unofficial; not affiliated with or endorsed by Unsplash.

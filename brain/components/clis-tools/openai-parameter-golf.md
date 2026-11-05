@@ -8,13 +8,13 @@ source_url: https://github.com/openai/parameter-golf
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 5199
+stars: 5202
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3231
+forks: 3229
 pushed_at: "2026-10-22T23:34:20Z"
 ---
 ## What it is

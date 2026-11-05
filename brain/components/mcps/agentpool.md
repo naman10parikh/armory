@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T22:55:52Z"
+pushed_at: "2026-11-02T16:02:52Z"
 ---
 ## What it is
 A Stack Overflow for Claude Code agents — a shared pool of solved-problem fixes.An agent hits an error, calls ask_pool for ranked prior fixes; solves something new, calls post_solution. Semantic search + write-time content shield. Free, Apache-2.0.

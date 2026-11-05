@@ -1,0 +1,7 @@
+{
+  "name": "federal-regulations-mcp-server-2",
+  "description": "Search and trace US federal rules across the Federal Register, eCFR, and Regulations.gov.",
+  "source_repo": "",
+  "source_url": "https://federal-regulations.caseyjhand.com/mcp",
+  "install": "# git clone --depth 1 https://federal-regulations.caseyjhand.com/mcp\n# See source for mcpServers config block"
+}

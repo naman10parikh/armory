@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T21:43:22Z"
+pushed_at: "2026-11-01T02:46:57Z"
 ---
 ## What it is
 Enables face keypoint detection, beautification, age/gender transform, face swap, cartoonization, and liveness detection via AceDataCloud API.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-21T00:58:22Z"
+pushed_at: "2026-11-02T01:50:17Z"
 ---
 ## What it is
 Static security scanner for AI agent skill packages that detects malicious SKILL.md files and bundled scripts before they run.

@@ -8,12 +8,12 @@ source_url: https://github.com/ariffazil/arifos
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-10-29T13:44:04Z"
+pushed_at: "2026-11-03T13:07:33Z"
 ---
 ## What it is
 MCP server `arifOS`, catalogued on PulseMCP. Constitutional AI governance kernel that enforces 13 safety rules between language models and tools.

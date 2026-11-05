@@ -8,12 +8,12 @@ source_url: https://github.com/yuga-hashimoto/opencode-chatgpt-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-06-17T16:05:43Z"
 ---
 ## What it is

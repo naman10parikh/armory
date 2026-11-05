@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T04:36:03Z"
+pushed_at: "2026-11-02T20:59:33Z"
 ---
 ## What it is
 Enables listing, reading, and fetching curated law and courts RSS/Atom feeds with keyword filtering and fallback proxy support.

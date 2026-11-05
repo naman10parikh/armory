@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-26T05:47:42Z"
+pushed_at: "2026-11-01T07:15:55Z"
 ---
 ## What it is
 MCP server `Seashell`, catalogued on PulseMCP. Swift MCP server bridging Claude Desktop, Wave Terminal, and Claude Code with cross-session continuity, project-based session resumption, and autonomous daemon support.

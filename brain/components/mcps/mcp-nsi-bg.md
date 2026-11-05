@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T05:14:21Z"
+pushed_at: "2026-11-03T21:04:17Z"
 ---
 ## What it is
 Enables querying data from the Bulgarian National Statistical Institute (NSI) Open Data API using plain English, through the Pipeworx gateway.

@@ -8,13 +8,13 @@ source_url: https://github.com/Xs-trek/safe-workspace-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T12:07:28Z"
+pushed_at: "2026-11-01T10:48:20Z"
 ---
 ## What it is
 A minimal, security-focused MCP server that provides structured read/write access to exactly one local workspace, with built-in local Git checkpoints and rollback.

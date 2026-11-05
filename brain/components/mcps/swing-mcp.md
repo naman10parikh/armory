@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-21T18:06:55Z"
+pushed_at: "2026-10-30T18:10:30Z"
 ---
 ## What it is
 Enables interaction with Java Swing applications through MCP, allowing launching, attaching, taking snapshots, clicking, filling forms, and other UI automation via natural language.

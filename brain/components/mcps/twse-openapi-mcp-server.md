@@ -8,13 +8,13 @@ source_url: https://github.com/taux-io/twse-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-27T00:53:40Z"
+pushed_at: "2026-11-04T09:25:01Z"
 ---
 ## What it is
 Wraps Taiwan Stock Exchange OpenAPI into MCP tools for searching datasets, fetching stock data, and obtaining ETF snapshots, enabling AI models to access TWSE market information.

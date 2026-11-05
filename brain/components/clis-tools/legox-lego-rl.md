@@ -14,8 +14,8 @@ mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 11
-pushed_at: "2026-10-26T09:50:31Z"
+forks: 12
+pushed_at: "2026-11-05T09:12:22Z"
 ---
 ## What it is
 Lego-RL: Harness-Native Reinforcement Learning for Coding Agents

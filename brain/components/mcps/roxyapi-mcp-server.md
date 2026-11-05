@@ -8,13 +8,13 @@ source_url: https://github.com/RoxyAPI/claude-plugin
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-29T12:26:11Z"
+pushed_at: "2026-11-05T14:09:00Z"
 ---
 ## What it is
 Enables Claude to build on RoxyAPI's multi-domain spiritual intelligence API, including astrology, tarot, numerology, and more, through a keyless Docs MCP and a Skill for live API calls.

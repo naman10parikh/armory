@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T06:16:14Z"
+pushed_at: "2026-11-05T01:53:57Z"
 ---
 ## What it is
 Wraps the SEC EDGAR XBRL API to query financial data from SEC filings via natural language.

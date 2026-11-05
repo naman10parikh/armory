@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-09-07T15:47:32Z"
+pushed_at: "2026-11-02T21:30:38Z"
 ---
 ## What it is
 MCP server `GRASP`, catalogued on PulseMCP. Codebase dependency analysis, architecture mapping, and security scanning for AI agents.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T09:48:21Z"
+pushed_at: "2026-11-03T06:33:52Z"
 ---
 ## What it is
 MCP server providing normalized JSON APIs for Korean public data, including holidays, business days, and real estate transactions.

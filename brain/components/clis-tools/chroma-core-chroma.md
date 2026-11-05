@@ -8,14 +8,14 @@ source_url: https://github.com/chroma-core/chroma
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 29601
+stars: 29643
 eval_score: 1
 mentions: 2
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2601
-pushed_at: "2026-10-28T16:22:53Z"
+forks: 2604
+pushed_at: "2026-10-30T21:09:26Z"
 ---
 ## What it is
 Search infrastructure for AI

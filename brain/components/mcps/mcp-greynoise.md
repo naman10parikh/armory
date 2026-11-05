@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T03:56:00Z"
+pushed_at: "2026-11-02T02:35:50Z"
 ---
 ## What it is
 Enables classification of internet scanners using GreyNoise data, helping identify benign or malicious scans through the free community tier.

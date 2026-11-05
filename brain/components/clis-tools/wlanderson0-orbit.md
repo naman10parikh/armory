@@ -8,13 +8,13 @@ source_url: https://github.com/wlanderson0/orbit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 49
+stars: 51
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 11
+forks: 12
 pushed_at: "2026-10-26T11:52:09Z"
 ---
 ## What it is

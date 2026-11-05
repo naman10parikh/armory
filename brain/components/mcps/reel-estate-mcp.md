@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T00:08:20Z"
+pushed_at: "2026-11-01T19:56:51Z"
 ---
 ## What it is
 Turn real-estate listing photos into cinematic property videos from your AI assistant. reel-estate-mcp is a Model Context Protocol (MCP) server that connects Claude, Cursor, and other AI assistants to your Reel Estate account — so you can generate motion clips, AI-edit photos (virtual staging, twili

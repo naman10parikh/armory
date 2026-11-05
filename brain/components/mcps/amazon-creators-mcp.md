@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-10-25T18:10:35Z"
+forks: 2
+pushed_at: "2026-10-31T04:43:32Z"
 ---
 ## What it is
 placement for the depractaed Amazon Product Advertising endpoint. You ask Claude to find something, it searches the live Amazon catalogue, and it hands you back a finished HTML card - image, price, savings, star rating, your Associates tag already baked into the link, and the disclosure footer Amazo

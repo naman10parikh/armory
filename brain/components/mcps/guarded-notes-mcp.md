@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T13:49:47Z"
+pushed_at: "2026-11-01T01:25:44Z"
 ---
 ## What it is
 Enables local-only review and organization of Apple Notes on macOS with safety-gated moves, snapshots, one-use authorization, and rollback, without deletion or content editing.

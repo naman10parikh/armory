@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T08:55:42Z"
+pushed_at: "2026-11-01T14:35:32Z"
 ---
 ## What it is
 Enables interaction with Safaricom M-Pesa Daraja 3.0 API, covering payments, disbursements, treasury, and fraud checks, with a built-in simulator for testing without credentials.

@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/federal-regulations-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-28T12:26:12Z"
+forks: 1
+pushed_at: "2026-10-29T17:57:56Z"
 ---
 ## What it is
 Search and trace US federal rules across the Federal Register (proposed/final rules and notices), the eCFR (codified, point-in-time CFR full text, locally mirrored), and Regulations.gov (rulemaking dockets and public comments) via MCP.

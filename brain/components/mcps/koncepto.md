@@ -8,7 +8,7 @@ source_url: https://github.com/yourtechtribe-labs/koncept-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []

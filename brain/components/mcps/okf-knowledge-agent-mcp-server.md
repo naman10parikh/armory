@@ -8,12 +8,12 @@ source_url: https://github.com/thecodacus/okf-agent
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 342
+stars: 343
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 78
+forks: 79
 pushed_at: "2026-10-15T22:51:48Z"
 ---
 ## What it is

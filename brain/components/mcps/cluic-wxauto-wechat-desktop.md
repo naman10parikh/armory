@@ -8,11 +8,11 @@ source_url: https://github.com/cluic/wxauto-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
+forks: 13
 pushed_at: "2026-03-10T01:43:19Z"
 ---
 ## What it is

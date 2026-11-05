@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-10-27T11:22:20Z"
+forks: 3
+pushed_at: "2026-11-04T21:20:05Z"
 ---
 ## What it is
 A Joomla component that turns your Joomla instance into an MCP server so you can fully manage your website with a simple prompt.

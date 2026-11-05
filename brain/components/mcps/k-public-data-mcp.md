@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
-pushed_at: "2026-10-29T10:04:45Z"
+forks: 9
+pushed_at: "2026-11-04T10:38:18Z"
 ---
 ## What it is
 Integrates Korean public data sources including law, court cases, corporate disclosures, and public data portal, with comparative US and German case law support.

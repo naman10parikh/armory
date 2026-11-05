@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T02:41:29Z"
+pushed_at: "2026-10-31T21:01:06Z"
 ---
 ## What it is
 Enables searching and querying Pierce County Open Data datasets via Socrata API, returning metadata and query results as JSON.

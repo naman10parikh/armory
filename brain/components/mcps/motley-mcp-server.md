@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T21:35:23Z"
+pushed_at: "2026-11-03T11:40:34Z"
 ---
 ## What it is
 Enables AI assistants to query structured NYC family data, including neighborhoods, schools, admissions, safety, health, family resources, kids' activities, and neighborhood comparisons.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-22T08:51:42Z"
+pushed_at: "2026-11-01T23:00:40Z"
 ---
 ## What it is
 An MCP server that enables AI coding agents to deploy files to FTP/FTPS/SFTP servers, with path jail, read-only mode, and dry-run capabilities.

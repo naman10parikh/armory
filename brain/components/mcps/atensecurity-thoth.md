@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-28T16:22:53Z"
+pushed_at: "2026-10-29T18:54:38Z"
 ---
 ## What it is
 MCP server `Thoth`, catalogued on PulseMCP. Runtime governance proxy that enforces enterprise security policies on MCP tool calls with sub-100ms enforcement and compliance policy packs.

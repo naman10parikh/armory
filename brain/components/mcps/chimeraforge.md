@@ -8,13 +8,13 @@ source_url: https://github.com/Sahil170595/Chimeraforge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-29T06:50:44Z"
+pushed_at: "2026-11-04T06:02:09Z"
 ---
 ## What it is
 LLM deployment planner: given a model and a GPU, answers will it fit, will it hit your SLO, and what will it cost. Sizes VRAM and KV-cache from the model's real architecture, and labels every number measured, estimated, or unknown.

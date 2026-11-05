@@ -8,13 +8,13 @@ source_url: https://github.com/pinkpixel-dev/web-scout-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 143
+stars: 151
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
-forks: 18
-pushed_at: "2026-10-22T07:18:51Z"
+forks: 20
+pushed_at: "2026-11-01T23:55:58Z"
 ---
 ## What it is
 Search the web and extract clean, readable text from webpages. Process multiple URLs at once to speed up research with reliable throttling and error handling. Quickly compile sources and summaries for briefs, reports, or competitive analysis.

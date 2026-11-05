@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-11T04:34:25Z"
+pushed_at: "2026-11-01T04:36:20Z"
 ---
 ## What it is
 Enables Codex to inspect, test, and control Android emulators through adb with strict typed tools, returning screenshots as native MCP images and keeping physical devices and Gradle execution behind explicit opt-in policies.

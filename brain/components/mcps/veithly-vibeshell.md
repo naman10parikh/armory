@@ -8,11 +8,11 @@ source_url: https://github.com/veithly/vibeshell
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 91
+stars: 92
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 16
+forks: 15
 pushed_at: "2026-09-29T10:19:20Z"
 ---
 ## What it is

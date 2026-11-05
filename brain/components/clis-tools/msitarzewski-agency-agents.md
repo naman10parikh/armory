@@ -8,13 +8,13 @@ source_url: https://github.com/msitarzewski/agency-agents
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 165063
+stars: 166689
 eval_score: null
 mentions: 3
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 26655
+forks: 26995
 pushed_at: "2026-10-25T01:43:20Z"
 ---
 ## What it is

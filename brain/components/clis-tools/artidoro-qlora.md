@@ -8,7 +8,7 @@ source_url: https://github.com/artidoro/qlora
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 11060
+stars: 11065
 eval_score: 0
 mentions: 4
 verified_at: 2026-09-26

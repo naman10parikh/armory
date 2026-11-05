@@ -8,12 +8,12 @@ source_url: https://github.com/lfnovo/content-core
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 182
+stars: 183
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 44
-pushed_at: "2026-10-03T19:55:37Z"
+forks: 45
+pushed_at: "2026-11-04T00:13:05Z"
 ---
 ## What it is
 MCP server `Content Core`, catalogued on PulseMCP. Extracts content from diverse media sources including URLs, documents, videos, audio files, and images using intelligent auto-detection and multiple extraction engines for unified content processing and analysis.

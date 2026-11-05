@@ -8,12 +8,12 @@ source_url: https://github.com/Augmented-Nature/NCBI-Datasets-MCP-Server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
+forks: 8
 pushed_at: "2025-12-21T10:05:04Z"
 ---
 ## What it is

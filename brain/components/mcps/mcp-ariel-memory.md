@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-29T09:01:50Z"
+pushed_at: "2026-11-04T21:38:17Z"
 ---
 ## What it is
 Enables AI agents to maintain persistent, searchable two-layer memory with 37 tools, hybrid search, knowledge graphs, and enterprise features like authentication and backups.

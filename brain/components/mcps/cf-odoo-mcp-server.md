@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T04:24:36Z"
+pushed_at: "2026-11-04T15:49:02Z"
 ---
 ## What it is
 Enables interacting with Odoo ERP through a stateless HTTP MCP server, providing CRUD and execution tools via JSON-RPC.

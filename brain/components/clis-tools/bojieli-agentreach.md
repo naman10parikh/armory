@@ -8,13 +8,13 @@ source_url: https://github.com/bojieli/agentreach
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 193
+stars: 204
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 18
+forks: 19
 pushed_at: "2026-09-23T15:41:14Z"
 ---
 ## What it is

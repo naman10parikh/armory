@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-23T17:01:33Z"
+pushed_at: "2026-11-04T00:01:13Z"
 ---
 ## What it is
 Module discovery, documentation search, and skill generation for AI agents via the Model Context Protocol.

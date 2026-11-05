@@ -8,11 +8,11 @@ source_url: https://github.com/vladimir-tutin/plex-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 154
+stars: 158
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 31
+forks: 32
 pushed_at: "2026-10-13T05:21:59Z"
 ---
 ## What it is

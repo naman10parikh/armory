@@ -8,11 +8,11 @@ source_url: https://github.com/bentleysystems/openstaad-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 56
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
+forks: 15
 pushed_at: "2026-10-29T01:26:08Z"
 ---
 ## What it is

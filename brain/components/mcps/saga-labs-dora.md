@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-25T20:46:11Z"
+pushed_at: "2026-11-02T13:53:22Z"
 ---
 ## What it is
 MCP server `Dora`, catalogued on PulseMCP. Multi-model AI image and video generation with 14 models via an OAuth-secured endpoint.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T18:22:40Z"
+pushed_at: "2026-11-05T00:04:27Z"
 ---
 ## What it is
 Dynamic semantic memory for AI assistants that persists across sessions and clients, enabling natural language recall and project-scoped isolation.

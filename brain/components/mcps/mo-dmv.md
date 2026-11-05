@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T04:53:20Z"
+pushed_at: "2026-11-03T01:58:24Z"
 ---
 ## What it is
 Provides Missouri DMV license office data including addresses, hours, contract agents, and daily-refreshed closure dates.

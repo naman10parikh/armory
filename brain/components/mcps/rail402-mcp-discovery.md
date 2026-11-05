@@ -8,13 +8,13 @@ source_url: https://github.com/tolgayayci/rail402
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-22T13:34:38Z"
+forks: 1
+pushed_at: "2026-11-05T12:51:28Z"
 ---
 ## What it is
 Enables searching the Bazaar resource catalog and making spend-capped paid calls to x402 endpoints, integrated with Rail402's Stellar payment facilitator.

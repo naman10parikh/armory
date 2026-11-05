@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-28T15:51:16Z"
+pushed_at: "2026-11-03T22:27:07Z"
 ---
 ## What it is
 Enables agents to create and publish content to a Terminus instance, including screen and playlist management, discovery, and documentation search.

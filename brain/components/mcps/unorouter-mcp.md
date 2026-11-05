@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-13T09:04:57Z"
+pushed_at: "2026-11-02T09:32:10Z"
 ---
 ## What it is
 MCP server for UnoRouter, an OpenAI-compatible gateway with 200+ models, providing search_models, get_pricing, and chat tools to interact with various AI models through natural language.

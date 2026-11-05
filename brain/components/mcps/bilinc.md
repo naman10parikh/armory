@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-27T12:58:52Z"
+pushed_at: "2026-11-03T08:15:06Z"
 ---
 ## What it is
 Hosted memory for coding agents, exposing commit_mem, recall, and status over stdio. Each write carries provenance, contradictions surface as inspectable state changes, and a bad run can be rolled back from a snapshot.

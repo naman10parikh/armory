@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-28T18:05:49Z"
+pushed_at: "2026-11-05T15:19:27Z"
 ---
 ## What it is
 Analytical memory for AI agents: a real Postgres your agent connects to over MCP and queries in plain English — GROUP BY, JOIN, aggregate over what it remembered, not just top-k vector recall.

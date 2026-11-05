@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T17:01:01Z"
+pushed_at: "2026-11-01T16:08:31Z"
 ---
 ## What it is
 MCP server for Switzerland's national metadata catalogue, enabling AI agents to discover datasets, APIs, public services, and publishers through free-text search and structured queries.

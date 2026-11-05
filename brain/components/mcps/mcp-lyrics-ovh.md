@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T04:40:22Z"
+pushed_at: "2026-11-02T21:04:02Z"
 ---
 ## What it is
 Provides keyless lyrics lookup for songs by artist and title, with a suggest tool for query autocomplete.

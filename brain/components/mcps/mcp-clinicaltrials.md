@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T02:09:45Z"
+pushed_at: "2026-10-31T08:21:03Z"
 ---
 ## What it is
 Wraps the ClinicalTrials.gov API v2 to enable querying clinical trials data through natural language.

@@ -8,13 +8,13 @@ source_url: https://github.com/ServiceNow/BrowserGym
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1423
+stars: 1427
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 211
+forks: 215
 pushed_at: "2026-10-28T06:29:44Z"
 ---
 ## What it is

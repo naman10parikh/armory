@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-26T05:09:51Z"
+forks: 1
+pushed_at: "2026-11-02T04:33:52Z"
 ---
 ## What it is
 MCP server for the Elfa API, providing crypto social intelligence from X and Telegram, including trending, mentions, narratives, and market chat. It also supports Auto, a condition engine for automated monitoring and actions.

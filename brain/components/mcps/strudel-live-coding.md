@@ -12,8 +12,8 @@ stars: 248
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 35
-pushed_at: "2026-10-19T05:13:31Z"
+forks: 36
+pushed_at: "2026-11-03T03:34:33Z"
 ---
 ## What it is
 MCP server `Strudel Live Coding`, catalogued on PulseMCP. Provides direct control over Strudel.cc for live coding music generation through browser automation, offering 40+ tools for pattern creation, music theory operations, genre-specific generators, and real-time audio analysis with session management.

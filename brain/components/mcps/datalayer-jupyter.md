@@ -8,12 +8,12 @@ source_url: https://github.com/datalayer/jupyter-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1315
+stars: 1320
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 208
-pushed_at: "2026-10-27T15:00:40Z"
+forks: 209
+pushed_at: "2026-11-05T14:51:37Z"
 ---
 ## What it is
 MCP server `Jupyter Notebook`, catalogued on PulseMCP. Integrates Jupyter notebooks with MCP to enable code execution, content manipulation, and interactive data exploration within notebook environments.

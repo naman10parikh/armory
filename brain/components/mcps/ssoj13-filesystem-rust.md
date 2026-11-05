@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-27T16:53:21Z"
+pushed_at: "2026-11-02T03:20:00Z"
 ---
 ## What it is
 MCP server `Filesystem (Rust)`, catalogued on PulseMCP. Rust-based filesystem server that provides fast, secure file operations including read/write, directory management, glob pattern searching, regex content search, and surgical line editing with robust path validation and symlink protection.

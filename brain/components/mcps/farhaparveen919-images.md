@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2025-07-13T06:01:09Z"
+pushed_at: "2026-11-05T00:37:17Z"
 ---
 ## What it is
 MCP server `Image Processor`, catalogued on PulseMCP. Enables image retrieval, processing, and display from both URLs and local files with automatic compression and formatting for visual content integration.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-29T13:00:31Z"
+pushed_at: "2026-11-05T15:07:50Z"
 ---
 ## What it is
 MCP server `Workflow Universe`, catalogued on PulseMCP. Create, browse, remix, and run durable AI workflow nodes collaboratively from any MCP host.

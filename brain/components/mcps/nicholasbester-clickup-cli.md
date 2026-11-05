@@ -13,7 +13,7 @@ related: []
 tags: [mcp, finance-fintech]
 stars: 53
 forks: 8
-pushed_at: "2026-10-27T09:51:12Z"
+pushed_at: "2026-11-02T03:18:29Z"
 ---
 ## What it is
 ClickUp API integration with 143 MCP tools covering all ~130 endpoints. Token-efficient compact responses (~98% smaller than raw JSON), flattening nested objects for minimal context usage. Also works as a standalone CLI.

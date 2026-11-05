@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T05:46:46Z"
+pushed_at: "2026-11-01T05:56:36Z"
 ---
 ## What it is
 Provides MCP tools for interacting with the Technocore agent protocol, including signed messaging, nonce management, DID verification, end-to-end encrypted communication, and untrusted data fencing.

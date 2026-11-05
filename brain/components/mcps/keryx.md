@@ -8,13 +8,13 @@ source_url: https://github.com/tang-vu/keryx
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-29T13:28:34Z"
+pushed_at: "2026-11-05T15:03:33Z"
 ---
 ## What it is
 Enables AI agents to pay creators for each citation via the x402 micropayment protocol, with automatic research, grounded answers, and on-chain settlement.

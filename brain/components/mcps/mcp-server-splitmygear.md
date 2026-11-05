@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T23:15:50Z"
+pushed_at: "2026-11-05T08:23:18Z"
 ---
 ## What it is
 Enables AI agents to interact with the SplitMyGear outdoor gear rental marketplace, providing tools for searching gear, checking availability, managing bookings, browsing experiences, and generating content.

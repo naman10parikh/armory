@@ -15,7 +15,7 @@ verified_at: 2026-11-01
 related: []
 tags: [sentinel-feed, evals]
 forks: 0
-pushed_at: "2026-10-30T20:56:18Z"
+pushed_at: "2026-11-02T04:27:34Z"
 ---
 ## What it is
 Benchmark and checks for stale screenshots in computer-use agents

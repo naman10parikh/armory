@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-21T11:40:44Z"
+pushed_at: "2026-11-01T16:32:26Z"
 ---
 ## What it is
 Bootstraps dev environments by installing, wiring, and verifying CLI tools and MCP servers from curated recipes, and provides scope-aware audit of MCP configurations.

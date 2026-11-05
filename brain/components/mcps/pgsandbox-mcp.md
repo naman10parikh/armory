@@ -8,13 +8,13 @@ source_url: https://github.com/LVTD-LLC/pgsandbox-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-27T02:11:00Z"
+pushed_at: "2026-11-04T02:22:08Z"
 ---
 ## What it is
 PGSandbox MCP is a local Rust MCP server for disposable Postgres databases. It creates tracked database/role pairs, returns scoped sandbox credentials, supports bounded SQL and schema tools, and cleans up expired sandboxes with TTLs.

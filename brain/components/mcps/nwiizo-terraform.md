@@ -8,12 +8,12 @@ source_url: https://github.com/nwiizo/tfmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 372
+stars: 371
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 31
-pushed_at: "2026-10-29T13:24:48Z"
+pushed_at: "2026-11-01T21:38:17Z"
 ---
 ## What it is
 MCP server `tfmcp`, catalogued on PulseMCP. Rust-based Terraform infrastructure management server that enables resource listing, configuration validation, and state management across different project environments through a JSON-RPC 2.0 protocol.

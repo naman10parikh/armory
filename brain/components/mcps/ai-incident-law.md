@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-27T04:30:01Z"
+pushed_at: "2026-11-04T05:33:59Z"
 ---
 ## What it is
 Public-record corpus of AI litigation, regulation, and enforcement, anchored to EveryAILaw.

@@ -8,12 +8,12 @@ source_url: https://github.com/spences10/mcp-wsl-exec
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-10-29T01:34:04Z"
+pushed_at: "2026-11-02T19:45:46Z"
 ---
 ## What it is
 MCP server `WSL Exec`, catalogued on PulseMCP. Provides secure command execution in WSL with built-in safety features like path validation, timeouts, and error handling.

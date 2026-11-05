@@ -8,12 +8,12 @@ source_url: https://github.com/cosjef/keepa_MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 37
+stars: 53
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
+forks: 12
 pushed_at: "2026-02-11T17:23:28Z"
 ---
 ## What it is

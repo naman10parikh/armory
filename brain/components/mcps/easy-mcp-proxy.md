@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-16T05:00:10Z"
+pushed_at: "2026-11-01T19:30:39Z"
 ---
 ## What it is
 Enables aggregation, filtering, transformation, and composition of tools from multiple MCP servers through a single proxy with tool views.

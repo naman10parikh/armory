@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [auto-claude, cc-sessions]
 tags: [claude-code, tooling]
-stars: 462
-forks: 35
-pushed_at: "2026-10-29T14:01:27Z"
+stars: 471
+forks: 37
+pushed_at: "2026-11-04T15:05:09Z"
 ---
 ## What it is
 A comprehensive linter for Claude Code agent files. Validate CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP, and more. Plugin for all major IDEs included, with auto-fixes.

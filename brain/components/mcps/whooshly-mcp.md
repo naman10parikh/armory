@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-20T10:16:28Z"
+pushed_at: "2026-11-05T06:48:00Z"
 ---
 ## What it is
 Enables creation of short links, dynamic QR codes, UTM templates, and hosted vCards with click/scan analytics through natural language conversations.

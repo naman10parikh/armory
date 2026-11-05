@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T13:44:28Z"
+pushed_at: "2026-11-02T13:45:13Z"
 ---
 ## What it is
 Enables interaction with Prometheus Alertmanager for querying alerts, managing silences, and investigating incidents. Supports direct API connection and Kubernetes auto-discovery.

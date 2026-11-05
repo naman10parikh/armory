@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T03:01:30Z"
+pushed_at: "2026-11-03T16:05:56Z"
 ---
 ## What it is
 Enables AI assistants to read and write to a personal knowledge vault of markdown notes, projects, and tasks, with tooling for search, capture, daily logs, and project management across different AI tools.

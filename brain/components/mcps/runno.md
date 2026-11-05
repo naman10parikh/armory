@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 48
-pushed_at: "2026-08-01T02:02:29Z"
+pushed_at: "2026-10-31T10:09:11Z"
 ---
 ## What it is
 MCP server `Runno`, catalogued on PulseMCP. Execute code in a secure WebAssembly sandbox supporting Python, JavaScript, C, C++, Ruby, and PHP

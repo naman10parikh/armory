@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-30T17:54:24Z"
+pushed_at: "2026-11-01T16:12:56Z"
 ---
 ## What it is
 An MCP server for creating and managing shared terminal progress bars from AI agents, enabling real-time tracking of parallel tasks.

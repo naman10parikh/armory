@@ -16,7 +16,7 @@ related: [claude-code-ide-el, claude-code-nvim]
 tags: [tooling, cli]
 stars: 65
 forks: 9
-pushed_at: "2026-05-04T16:29:43Z"
+pushed_at: "2026-11-02T18:33:45Z"
 ---
 ## What it is
 A community CLI tool by Hal Shin, catalogued in awesome-claude-code. Run Claude Code in a Docker container with git worktrees as volume mounts to enable safer usage of `--dangerously-skip-permissions` for frictionless one-shotting prompts. Allows users to spin up multiple instances of Claude Code in the background easily with reduced permission fatigue.

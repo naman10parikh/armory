@@ -8,12 +8,12 @@ source_url: https://github.com/sandraschi/inkscape-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 95
+stars: 97
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 16
+forks: 18
 pushed_at: "2026-10-24T02:14:10Z"
 ---
 ## What it is

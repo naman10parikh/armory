@@ -8,13 +8,13 @@ source_url: https://github.com/jamesdfinance-dev/lazaretto-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T17:55:26Z"
+pushed_at: "2026-11-04T22:16:44Z"
 ---
 ## What it is
 An MCP server that lets an agent verify a skill, tool, or package before it installs it.

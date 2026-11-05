@@ -8,11 +8,11 @@ source_url: https://github.com/mcpware/logoloom
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
+forks: 14
 pushed_at: "2026-03-23T20:36:05Z"
 ---
 ## What it is

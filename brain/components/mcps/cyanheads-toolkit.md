@@ -8,12 +8,12 @@ source_url: https://github.com/cyanheads/toolkit-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-10-17T23:14:43Z"
+pushed_at: "2026-11-04T05:56:01Z"
 ---
 ## What it is
 MCP server `Toolkit (System Utilities)`, catalogued on PulseMCP. Provides system utilities and tools for network diagnostics, monitoring, cryptography, and QR code generation.

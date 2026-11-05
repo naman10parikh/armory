@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T17:07:34Z"
+pushed_at: "2026-10-31T16:15:33Z"
 ---
 ## What it is
 A sovereign, MIT-licensed MCP server that wraps the fallengineer SDK, enabling professional service workflows with offline capability and cryptographic signing.

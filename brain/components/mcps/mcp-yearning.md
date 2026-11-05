@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T05:15:20Z"
+pushed_at: "2026-11-05T06:40:26Z"
 ---
 ## What it is
 MCP server for Yearning SQL audit platform that enables AI assistants to query and manage orders, browse data sources and table structures, submit and review SQL orders, and execute read-only queries.

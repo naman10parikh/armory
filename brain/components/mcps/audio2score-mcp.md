@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T18:34:19Z"
+pushed_at: "2026-10-31T15:28:40Z"
 ---
 ## What it is
 An MCP server that transcribes audio files into MIDI and MusicXML scores, converts MIDI to notation, and extracts playable note data for DAWs. It enables Claude to turn raw recordings into editable, shareable music scores via three simple tools.

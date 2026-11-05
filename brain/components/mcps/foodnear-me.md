@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-07T15:50:37Z"
+pushed_at: "2026-10-31T04:51:10Z"
 ---
 ## What it is
 MCP server for AI-native restaurant discovery with three-tier search (verified, menu_indexed, discovered), Menu Protocol menus, and structured menu validation.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T17:09:39Z"
+pushed_at: "2026-10-31T16:17:04Z"
 ---
 ## What it is
 A sovereign, MIT-licensed MCP server that provides cryptographically signed notarization for listings, benchmarks, and transactions using Ed25519. It runs offline on user infrastructure as a free alternative to SaaS notary tools.

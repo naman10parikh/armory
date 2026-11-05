@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T07:25:26Z"
+pushed_at: "2026-10-31T17:15:41Z"
 ---
 ## What it is
 Search past OpenCode conversation history before starting new work on a module or file, via a local read-only FTS5 index built from OpenCode's own SQLite database. No network calls, fully local. 7 tools for keyword search, file lookup, and session browsing.

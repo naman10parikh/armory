@@ -8,14 +8,14 @@ source_url: https://github.com/compas-dev/compas
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 390
+stars: 391
 eval_score: null
 mentions: 1
 verified_at: 2026-10-25
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 125
-pushed_at: "2026-10-28T06:06:05Z"
+pushed_at: "2026-11-05T08:30:19Z"
 ---
 ## What it is
 Main library of the COMPAS framework and CAD integrations for Rhino/GH and Blender.

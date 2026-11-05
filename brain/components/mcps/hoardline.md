@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-18T18:26:02Z"
+pushed_at: "2026-10-29T18:16:18Z"
 ---
 ## What it is
 A self-hosted media downloader and converter MCP server that wraps yt-dlp and HandBrake, allowing AI assistants to download, convert, manage queues, and handle subscriptions.

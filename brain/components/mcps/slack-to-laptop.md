@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-02T09:53:04Z"
+pushed_at: "2026-11-03T12:28:50Z"
 ---
 ## What it is
 Enables Claude Code to interact with Slack via MCP tools, allowing thinking steps, text streaming, status updates, and stream closure in Slack threads.

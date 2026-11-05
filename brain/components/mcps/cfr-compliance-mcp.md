@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-26T16:27:01Z"
+pushed_at: "2026-11-03T05:38:39Z"
 ---
 ## What it is
 A production-quality MCP server that exposes the official eCFR API as structured tools for AI-driven contract compliance, enabling retrieval of relevant Code of Federal Regulations by clauses extracted from contracts.

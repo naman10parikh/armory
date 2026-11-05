@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-29T02:55:33Z"
+pushed_at: "2026-11-01T01:56:26Z"
 ---
 ## What it is
 Enables searching and retrieving D&D 5th Edition spells via natural language queries.

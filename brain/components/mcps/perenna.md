@@ -8,12 +8,12 @@ source_url: https://github.com/scarletkc/Perenna
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 61
+stars: 60
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 2
 pushed_at: "2026-09-09T03:51:15Z"
 ---
 ## What it is

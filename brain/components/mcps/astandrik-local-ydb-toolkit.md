@@ -13,7 +13,7 @@ related: []
 tags: [mcp, databases]
 stars: 5
 forks: 0
-pushed_at: "2026-10-25T13:01:29Z"
+pushed_at: "2026-11-04T15:30:06Z"
 ---
 ## What it is
 Local YDB MCP is a TypeScript stdio MCP server for operating Docker-based local-ydb deployments via local or SSH-backed profiles. Supports bootstrap, diagnostics, auth hardening, storage workflows, dump/restore, upgrades, and plan-first mutating operations.

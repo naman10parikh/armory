@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-07T23:10:39Z"
+pushed_at: "2026-11-02T22:20:00Z"
 ---
 ## What it is
 Enables interacting with Adios workspaces, previews, builds, logs, and deployments from MCP clients. Hosted service at Adios, no local deployment needed.

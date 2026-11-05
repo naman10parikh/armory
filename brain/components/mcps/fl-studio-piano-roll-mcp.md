@@ -8,12 +8,12 @@ source_url: https://github.com/calvinw/fl-studio-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 47
+stars: 49
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 7
 pushed_at: "2026-01-11T03:18:09Z"
 ---
 ## What it is

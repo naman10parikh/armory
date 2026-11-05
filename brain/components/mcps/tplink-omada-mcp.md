@@ -8,12 +8,12 @@ source_url: https://github.com/MiguelTVMS/tplink-omada-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 26
+stars: 29
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
+forks: 12
 pushed_at: "2026-04-01T15:19:48Z"
 ---
 ## What it is

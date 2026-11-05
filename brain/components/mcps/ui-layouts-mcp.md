@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-01-26T11:36:24Z"
+pushed_at: "2026-11-05T14:52:59Z"
 ---
 ## What it is
 Enables AI assistants to search, understand, and retrieve UI components from ui-layouts.com through tools like search, documentation, metadata, and source code access.

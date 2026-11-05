@@ -8,13 +8,13 @@ source_url: https://github.com/ellmos-ai/ellmos-homebase-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T19:02:17Z"
+pushed_at: "2026-11-05T12:32:58Z"
 ---
 ## What it is
 Enables local-first LLM orchestration with persistent memory, knowledge management, routing, swarm patterns, API probing, tests, automation planning, and plugin discovery via a stdio MCP server, using SQLite for offline storage.

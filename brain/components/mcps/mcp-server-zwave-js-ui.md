@@ -8,13 +8,13 @@ source_url: https://github.com/cacack/mcp-server-zwave-js-ui
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T14:43:49Z"
+pushed_at: "2026-11-03T09:45:21Z"
 ---
 ## What it is
 An MCP server that connects to Z-Wave JS UI's WebSocket to expose controller, node, and configuration information as tools for AI assistants to manage Z-Wave networks.

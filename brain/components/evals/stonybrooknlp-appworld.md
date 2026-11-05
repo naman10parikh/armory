@@ -8,13 +8,13 @@ source_url: https://github.com/StonyBrookNLP/appworld
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 543
+stars: 548
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 89
+forks: 91
 pushed_at: "2026-09-04T05:47:04Z"
 ---
 ## What it is

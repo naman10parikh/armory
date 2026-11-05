@@ -8,13 +8,13 @@ source_url: https://github.com/smartmemory/stratum
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-10-24T07:02:10Z"
+forks: 2
+pushed_at: "2026-11-03T12:55:07Z"
 ---
 ## What it is
 Enables AI coding agents to execute formal, stateful workflows with typed contracts, postcondition enforcement, and structured retry logic.

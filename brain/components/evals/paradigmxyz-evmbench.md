@@ -14,7 +14,7 @@ mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, evals]
-forks: 77
+forks: 78
 pushed_at: "2026-10-22T13:27:56Z"
 ---
 ## What it is

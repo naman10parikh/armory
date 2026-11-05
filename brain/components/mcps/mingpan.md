@@ -8,12 +8,12 @@ source_url: https://github.com/ChesterRa/mingpan
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 127
+stars: 129
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 40
+forks: 41
 pushed_at: "2026-09-29T16:03:29Z"
 ---
 ## What it is

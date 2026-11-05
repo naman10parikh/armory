@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T06:08:31Z"
+pushed_at: "2026-11-05T01:50:50Z"
 ---
 ## What it is
 Wraps Scrapingdog, a proxy-based web scraping service, enabling AI agents to scrape web pages through a simple MCP interface.

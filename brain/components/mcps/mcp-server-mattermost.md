@@ -8,13 +8,13 @@ source_url: https://github.com/cloud-ru-tech/mcp-server-mattermost
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 49
+stars: 52
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 12
-pushed_at: "2026-10-22T09:13:16Z"
+pushed_at: "2026-11-02T06:36:01Z"
 ---
 ## What it is
 Lets AI assistants read, search, and post messages in Mattermost channels, manage threads, reactions, files, and users with 38 tools.

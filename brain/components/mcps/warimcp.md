@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-06T23:21:42Z"
+pushed_at: "2026-10-31T19:44:26Z"
 ---
 ## What it is
 A unified MCP server for West African payment providers, enabling AI agents and REST clients to initiate payments, payouts, refunds, and manage webhooks across 10 providers with a single API.

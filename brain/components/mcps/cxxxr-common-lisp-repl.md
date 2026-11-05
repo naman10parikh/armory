@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 20
-pushed_at: "2026-10-20T13:42:40Z"
+pushed_at: "2026-11-01T14:33:15Z"
 ---
 ## What it is
 MCP server `Common Lisp REPL`, catalogued on PulseMCP. Provides a REPL evaluation tool that executes Common Lisp code safely with read-time evaluation disabled, enabling mathematical calculations, data processing, and symbolic computation tasks using Lisp's expressive power while maintaining security through disabled reader macros.

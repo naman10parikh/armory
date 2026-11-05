@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T04:46:13Z"
+pushed_at: "2026-11-01T13:37:34Z"
 ---
 ## What it is
 Provides access to the Swiss Federal Commercial Register (Zefix) for company search, verification, and reference data, enabling natural language queries for public administration use cases.

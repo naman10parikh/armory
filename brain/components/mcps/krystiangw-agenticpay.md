@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-26T05:20:22Z"
+pushed_at: "2026-11-01T09:07:20Z"
 ---
 ## What it is
 MCP server `AgenticPay`, catalogued on PulseMCP. x402 USDC paywall bridge enabling pay-per-tool-call micropayments on the Solana blockchain.

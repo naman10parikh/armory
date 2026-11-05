@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T02:12:19Z"
+pushed_at: "2026-11-04T19:15:55Z"
 ---
 ## What it is
 Provides a git-aware knowledge base for AI coding agents to store and retrieve memories anchored to code changes, with automatic staleness detection.

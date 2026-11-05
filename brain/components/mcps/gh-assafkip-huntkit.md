@@ -8,12 +8,12 @@ source_url: https://github.com/assafkip/huntkit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 70
+stars: 73
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-10-24T23:07:31Z"
+pushed_at: "2026-11-02T20:11:48Z"
 ---
 ## What it is
 MCP server `Huntkit`, catalogued on PulseMCP. OSINT investigation toolkit providing two MCP servers for infrastructure reconnaissance and threat intelligence lookups, covering WHOIS, DNS, Wayback, VirusTotal, URLhaus, ThreatFox, and certificate transparency.

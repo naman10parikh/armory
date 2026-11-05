@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 23
-pushed_at: "2026-10-29T13:12:59Z"
+pushed_at: "2026-11-05T14:35:17Z"
 ---
 ## What it is
 MCP server `Keboola`, catalogued on PulseMCP. An open-source bridge between your Keboola project and modern AI tools. It turns Keboola features - like storage access, SQL transformations, and job triggers - into callable tools for Claude, Cursor, CrewAI, LangChain, Amazon Q, and more.

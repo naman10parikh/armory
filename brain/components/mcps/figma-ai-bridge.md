@@ -8,7 +8,7 @@ source_url: https://github.com/renfei-design/Figma_AI_Bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []

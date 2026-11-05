@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-07-27T03:05:04Z"
+pushed_at: "2026-10-31T18:26:32Z"
 ---
 ## What it is
 A comprehensive MCP server for CalDAV calendar management, supporting multi-account CRUD operations, recurring events, tasks, journals, and advanced search.

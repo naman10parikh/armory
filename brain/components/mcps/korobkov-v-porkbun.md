@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-02-16T23:02:50Z"
+pushed_at: "2026-10-31T16:36:45Z"
 ---
 ## What it is
 MCP server `Porkbun`, catalogued on PulseMCP. Manage Porkbun domains, DNS records, DNSSEC, SSL certificates, and URL forwarding with safe read-only defaults.

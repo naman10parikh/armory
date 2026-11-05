@@ -8,13 +8,13 @@ source_url: https://github.com/Minidoracat/mcp-feedback-enhanced
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3755
+stars: 3753
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 353
-pushed_at: "2026-10-26T12:01:38Z"
+pushed_at: "2026-10-31T22:31:09Z"
 ---
 ## What it is
 Establishes feedback-oriented development workflows with Web UI and desktop application dual interfaces, enabling AI to confirm with users and consolidate tool calls into feedback requests to reduce costs and improve development efficiency.

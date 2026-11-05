@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-13T07:31:31Z"
+pushed_at: "2026-10-30T23:58:08Z"
 ---
 ## What it is
 Enables querying open job postings directly from company applicant-tracking systems (Greenhouse, Ashby, Lever), finding a company's job board, listing and comparing roles, and accessing salary data, all without scraping or API keys.

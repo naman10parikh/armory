@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T14:40:24Z"
+pushed_at: "2026-11-03T16:10:50Z"
 ---
 ## What it is
 MCP server for administering Linux/Unix hosts via SSH and Windows hosts via WinRM/PowerShell Remoting, supporting persistent inventory, sessions, jobs, and command groups.

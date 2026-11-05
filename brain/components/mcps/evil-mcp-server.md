@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 16
-pushed_at: "2026-10-08T09:03:35Z"
+pushed_at: "2026-11-03T23:03:03Z"
 ---
 ## What it is
 Simulates malicious behaviors and attack vectors for security testing and educational demonstrations.

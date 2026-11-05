@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T05:49:05Z"
+pushed_at: "2026-11-04T09:11:35Z"
 ---
 ## What it is
 A local, read-only MCP server that exposes verified profile, posts, corpus, and other identity data from robertdelanghe.dev's signed static API.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T02:31:01Z"
+pushed_at: "2026-10-31T20:49:49Z"
 ---
 ## What it is
 Provides access to Baton Rouge Open Data (data.brla.gov) via Socrata, enabling dataset search, SoQL queries, and metadata retrieval.

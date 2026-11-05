@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T13:45:21Z"
+pushed_at: "2026-11-02T13:46:08Z"
 ---
 ## What it is
 Find Reddit threads where your product genuinely fits, reconstruct the conversation, and gate every drafted reply against a claim boundary you define.

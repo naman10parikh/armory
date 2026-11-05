@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T19:20:47Z"
+pushed_at: "2026-11-05T12:25:36Z"
 ---
 ## What it is
 Exposes the Swiss Summary of Roman Law (SSRQ) authority files for persons and organisations, enabling search, lookup, and relation queries through MCP-compatible clients.

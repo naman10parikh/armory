@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T05:03:50Z"
+pushed_at: "2026-11-03T20:53:03Z"
 ---
 ## What it is
 Wraps the Newton math solver API enabling mathematical computations via natural language through the Pipeworx gateway.

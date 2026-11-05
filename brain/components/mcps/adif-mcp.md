@@ -8,13 +8,13 @@ source_url: https://github.com/qso-graph/adif-mcp
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T05:31:35Z"
+pushed_at: "2026-10-29T15:46:09Z"
 ---
 ## What it is
 Provides safe, typed access to Amateur Radio logging data with ADIF validation, parsing, spec search, and geospatial utilities for Maidenhead locators.

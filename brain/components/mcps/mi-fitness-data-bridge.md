@@ -8,12 +8,12 @@ source_url: https://github.com/shkyyy18/mi-fitness-data-bridge
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 53
+stars: 63
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
+forks: 10
 pushed_at: "2026-10-18T08:06:49Z"
 ---
 ## What it is

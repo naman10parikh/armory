@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-28T18:59:40Z"
+pushed_at: "2026-11-02T15:13:56Z"
 ---
 ## What it is
 Provides tools for AI coding agents to read and write shared team context, including status, pending items, and handoffs. Enables agents to query current project status and claim pending work.

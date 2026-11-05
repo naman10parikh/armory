@@ -8,12 +8,12 @@ source_url: https://github.com/jumodada/drissionpage-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 484
+stars: 480
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 44
-pushed_at: "2026-09-14T07:35:58Z"
+forks: 43
+pushed_at: "2026-10-31T10:07:06Z"
 ---
 ## What it is
 MCP server `DrissionPage`, catalogued on PulseMCP. Provides browser automation capabilities through DrissionPage library for web scraping, form filling, UI testing, and automated browsing with navigation, element manipulation, screenshot capture, and wait operations.

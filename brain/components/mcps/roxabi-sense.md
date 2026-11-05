@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T22:59:22Z"
+pushed_at: "2026-11-02T22:59:31Z"
 ---
 ## What it is
 Local workstation attention journal that tracks focus, idle, and agent sessions, exposing timeline data via MCP for AI agents to query current or past activity.

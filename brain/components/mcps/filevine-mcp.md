@@ -8,13 +8,13 @@ source_url: https://github.com/RosenAdvertising/filevine-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-26T04:57:38Z"
+pushed_at: "2026-11-01T23:25:58Z"
 ---
 ## What it is
 MCP server for Filevine that enables natural language interaction with legal case management, including projects, contacts, tasks, documents, billing, and more via Claude Desktop.

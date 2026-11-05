@@ -13,7 +13,7 @@ related: []
 tags: [mcp, workplace-productivity]
 stars: 1
 forks: 0
-pushed_at: "2026-10-24T10:05:05Z"
+pushed_at: "2026-11-02T11:09:15Z"
 ---
 ## What it is
 Local-first desktop context server for AI agents. Captures screen (OCR), voice (Whisper), keyboard/mouse activity, and clipboard. Exposes 35 MCP tools for screen capture, voice transcription, activity history, semantic memory, and project detection. Zero cloud dependency. AGPL-3.0.

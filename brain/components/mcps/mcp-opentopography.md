@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T05:28:22Z"
+pushed_at: "2026-11-04T01:53:24Z"
 ---
 ## What it is
 Enables querying OpenTopography global DEM rasters and point elevations through tools like point_elevation, dem, and datasets.

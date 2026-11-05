@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-25T18:59:00Z"
+pushed_at: "2026-11-03T01:04:46Z"
 ---
 ## What it is
 Enables durable agent session transfer between machines by serializing state, provisioning sandboxes, and metering costs via MCP tools over a Postgres-backed state machine.

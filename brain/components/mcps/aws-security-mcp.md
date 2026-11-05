@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-13T23:28:03Z"
+pushed_at: "2026-11-05T02:04:29Z"
 ---
 ## What it is
 MCP server for automated AWS security scanning — 19 modules, risk scoring, zero write operations.

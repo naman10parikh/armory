@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T02:16:59Z"
+pushed_at: "2026-10-31T08:28:10Z"
 ---
 ## What it is
 Provides access to US Congress data via the GovTrack API, allowing AI agents to query congressional information without authentication.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T01:12:06Z"
+pushed_at: "2026-10-30T07:35:53Z"
 ---
 ## What it is
 Enables querying Glasgow City Council GIS open geospatial datasets (parcels, zoning, public works) via natural language or direct tools: search datasets, query layers with SQL-like filters, and retrieve layer schemas.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T04:42:01Z"
+pushed_at: "2026-11-02T21:05:47Z"
 ---
 ## What it is
 MCP server for accessing North Macedonia's official statistics via PxWeb, enabling subject navigation, table metadata retrieval, and data queries.

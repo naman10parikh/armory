@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T01:47:59Z"
+pushed_at: "2026-10-30T20:04:37Z"
 ---
 ## What it is
 Provides tools to query and resolve identifiers from the Bioregistry, including prefix metadata, CURIE resolution, and substring search.

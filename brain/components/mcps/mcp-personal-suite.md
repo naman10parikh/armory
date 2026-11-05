@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-26T05:17:11Z"
+pushed_at: "2026-11-01T23:00:01Z"
 ---
 ## What it is
 Local-first personal productivity MCP server bundling email, calendar, messaging, search, and image generation tools with BYOK and no cloud dependency.

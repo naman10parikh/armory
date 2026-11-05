@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-27T07:16:01Z"
+pushed_at: "2026-11-04T22:14:34Z"
 ---
 ## What it is
 Enables administrators to manage Keycloak realms, users, roles, clients, groups, and more through its Admin REST API, with safe-by-default configuration and destructive operation confirmation.

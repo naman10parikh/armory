@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-15T09:08:39Z"
+pushed_at: "2026-11-01T20:56:12Z"
 ---
 ## What it is
 An MCP server providing AI-powered access to Open Data from the City of Zurich, enabling queries to 900+ datasets, real-time environmental and mobility data, geodata, parliamentary proceedings, and more.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T05:48:59Z"
+pushed_at: "2026-11-04T20:52:08Z"
 ---
 ## What it is
 Enables querying plant data from Plants of the World Online (Kew) via natural language using the Pipeworx MCP gateway.

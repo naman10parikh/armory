@@ -8,14 +8,14 @@ source_url: https://github.com/AetherLabsAI/Video2World
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 216
+stars: 226
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 0
-pushed_at: "2026-10-19T06:42:11Z"
+forks: 1
+pushed_at: "2026-11-04T23:23:18Z"
 ---
 ## What it is
 Benchmarking Coding Agents for Interactive World Modeling from Embodied Videos - Rethinking Embodied Real2Sim from a Software Engineering Perspective

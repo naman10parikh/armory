@@ -8,7 +8,7 @@ source_url: https://github.com/caviraoss/openmemory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 4551
+stars: 4565
 eval_score: null
 mentions: 0
 verified_at: 2026-09-02

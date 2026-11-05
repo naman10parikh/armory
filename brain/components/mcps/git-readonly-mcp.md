@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T03:43:30Z"
+pushed_at: "2026-11-04T15:15:09Z"
 ---
 ## What it is
 A read-only MCP server that exposes Git history, diffs, refs, and file contents to AI assistants, with strict access controls and security restrictions.

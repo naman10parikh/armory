@@ -8,13 +8,13 @@ source_url: https://github.com/yqi96/warranted
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T07:28:24Z"
+pushed_at: "2026-11-02T08:43:39Z"
 ---
 ## What it is
 Makes AI research agents accountable by giving every conclusion a traceable argument graph. Provides a persistent argument graph where claims require grounds and warrants for auditable, verifiable reasoning.

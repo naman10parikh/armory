@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-19T14:49:39Z"
+pushed_at: "2026-10-31T13:40:37Z"
 ---
 ## What it is
 Enables searching, paging through, and reading IETF mailing-list archives via IMAP, allowing an MCP-capable assistant to track list activity.

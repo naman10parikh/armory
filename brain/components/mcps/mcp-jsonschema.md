@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T04:26:06Z"
+pushed_at: "2026-11-02T20:53:59Z"
 ---
 ## What it is
 Validates JSON values against JSON Schema (draft-07). Enables schema validation for structured data.

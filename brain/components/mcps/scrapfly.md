@@ -8,12 +8,12 @@ source_url: https://github.com/scrapfly/scrapfly-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-29T01:04:32Z"
+pushed_at: "2026-11-05T13:57:42Z"
 ---
 ## What it is
 MCP server `Scrapfly`, catalogued on PulseMCP. Enterprise web scraping with built-in anti-bot handling and proxy rotation

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-27T12:52:45Z"
+pushed_at: "2026-11-03T14:12:56Z"
 ---
 ## What it is
 A gateway that connects MCP servers and REST APIs, allowing you to curate tools into groups and expose them as virtual MCP servers for agents.

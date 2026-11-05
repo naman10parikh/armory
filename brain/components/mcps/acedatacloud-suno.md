@@ -12,8 +12,8 @@ stars: 71
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
-pushed_at: "2026-10-28T21:04:32Z"
+forks: 19
+pushed_at: "2026-11-01T21:42:53Z"
 ---
 ## What it is
 MCP server `AceDataCloud Suno`, catalogued on PulseMCP. Suno AI music generation, lyrics, and covers through the AceDataCloud API platform.

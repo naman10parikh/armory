@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-01T20:04:23Z"
+pushed_at: "2026-11-04T21:49:02Z"
 ---
 ## What it is
 A Python MCP server that exposes local Ollama models as tools for AI assistants, enabling chat, generation, embeddings, and model management without cloud APIs.

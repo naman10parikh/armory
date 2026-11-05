@@ -8,11 +8,11 @@ source_url: https://github.com/us-all/android-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
+forks: 2
 pushed_at: "2026-07-10T01:28:27Z"
 ---
 ## What it is

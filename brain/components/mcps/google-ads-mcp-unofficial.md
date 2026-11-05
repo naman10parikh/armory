@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T12:25:24Z"
+pushed_at: "2026-11-02T09:22:52Z"
 ---
 ## What it is
 Unofficial Google Ads MCP for campaigns, keywords, budgets, reports and gated mutations.

@@ -8,14 +8,14 @@ source_url: https://github.com/mvanhorn/last30days-skill
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 65843
+stars: 66699
 eval_score: null
 mentions: 2
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, skills]
-forks: 5728
-pushed_at: "2026-10-28T16:30:58Z"
+forks: 5841
+pushed_at: "2026-11-03T14:42:28Z"
 ---
 ## What it is
 AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary

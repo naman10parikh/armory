@@ -8,14 +8,14 @@ source_url: https://github.com/Mirix-AI/MIRIX
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3457
+stars: 3455
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 273
-pushed_at: "2026-10-28T03:29:45Z"
+forks: 272
+pushed_at: "2026-11-04T06:17:07Z"
 ---
 ## What it is
 Use when what the agent should remember is what actually happened on screen, consolidated into structured memories.

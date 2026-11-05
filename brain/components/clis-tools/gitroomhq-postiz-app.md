@@ -8,14 +8,14 @@ source_url: https://github.com/gitroomhq/postiz-app
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 40069
+stars: 40957
 eval_score: null
 mentions: 4
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 7596
-pushed_at: "2026-10-28T19:10:57Z"
+forks: 7805
+pushed_at: "2026-11-05T11:35:10Z"
 ---
 ## What it is
 📨 The ultimate agentic social media scheduling tool 🤖

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T08:58:06Z"
+pushed_at: "2026-11-01T04:36:20Z"
 ---
 ## What it is
 MCP server for searching the National Diet Library of Japan (NDL Search), enabling Japanese-script bibliographic and article searches with rate limiting and attribution.

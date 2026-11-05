@@ -8,13 +8,13 @@ source_url: https://github.com/yatuk/itu-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-27T19:12:43Z"
+pushed_at: "2026-10-30T20:35:52Z"
 ---
 ## What it is
 İTÜ MCP connects your ITU Ninova and OBS accounts to Claude, Cursor, Codex and other MCP clients, enabling natural language queries for courses, assignments, grades, and more.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T12:06:54Z"
+pushed_at: "2026-11-02T18:23:33Z"
 ---
 ## What it is
 MCP server and CLI for host and container operations, enabling Docker and Compose control, SSH, host inspection, logs, ZFS, and safe file transfer. It exposes flux and scout MCP tools with parity from the original TypeScript server.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-17T23:12:21Z"
+pushed_at: "2026-11-02T19:36:16Z"
 ---
 ## What it is
 A Model Context Protocol server enabling AI assistants to query and explore data warehouses via Trino, with optional semantic context from metadata catalogs.

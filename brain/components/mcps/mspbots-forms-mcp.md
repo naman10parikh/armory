@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-29T13:52:34Z"
+forks: 1
+pushed_at: "2026-11-03T07:42:13Z"
 ---
 ## What it is
 MCP server for the MSPbots Forms/Survey API, enabling agents to create, publish, and manage surveys, share links, and analyze responses.

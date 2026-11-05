@@ -8,12 +8,12 @@ source_url: https://github.com/tidewave-ai/tidewave_rails
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 476
+stars: 475
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 30
+forks: 29
 pushed_at: "2026-10-27T16:43:16Z"
 ---
 ## What it is

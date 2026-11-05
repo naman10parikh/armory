@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T09:40:37Z"
+pushed_at: "2026-10-31T09:15:50Z"
 ---
 ## What it is
 Extracts clean text transcripts from YouTube videos using their subtitles and returns them as plain text.
