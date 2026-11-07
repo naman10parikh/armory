@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T05:26:43Z"
+pushed_at: "2026-11-06T12:12:00Z"
 ---
 ## What it is
 A secure, multi-tenant MCP server that proxies AI assistant requests to the HedgeDoc API, exposing 27 tools for full CRUD operations and permission management across notes, media, and profiles.

@@ -8,12 +8,12 @@ source_url: https://github.com/gsl0001/Cortex
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 3
 pushed_at: "2026-09-04T03:29:13Z"
 ---
 ## What it is

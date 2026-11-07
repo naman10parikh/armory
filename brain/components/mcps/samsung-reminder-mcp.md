@@ -8,13 +8,13 @@ source_url: https://github.com/eliasblume/samsung-reminder-desktop
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-20T21:33:34Z"
+forks: 1
+pushed_at: "2026-11-02T11:21:07Z"
 ---
 ## What it is
 Enables reading and writing Samsung Reminder data locally, providing tools to list, create, update, delete, and manage reminders and categories via Samsung Cloud.

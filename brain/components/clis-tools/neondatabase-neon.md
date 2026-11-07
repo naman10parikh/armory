@@ -8,13 +8,13 @@ source_url: https://github.com/neondatabase/neon
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 23288
+stars: 23308
 eval_score: null
 mentions: 3
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1132
+forks: 1131
 pushed_at: "2026-08-31T11:03:14Z"
 ---
 ## What it is

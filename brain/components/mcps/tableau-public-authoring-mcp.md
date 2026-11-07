@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-19T22:51:47Z"
+pushed_at: "2026-11-02T21:12:37Z"
 ---
 ## What it is
 Creates Tableau workbooks from a declarative JSON spec, validates them by opening in the installed Tableau Public application, and publishes to Tableau Public through the desktop UI.

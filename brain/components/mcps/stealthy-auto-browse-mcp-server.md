@@ -8,13 +8,13 @@ source_url: https://github.com/psyb0t/docker-stealthy-auto-browse
 license: Do What The F*ck You Want To Public License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 95
+stars: 98
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 16
-pushed_at: "2026-10-22T14:53:42Z"
+forks: 17
+pushed_at: "2026-11-07T00:17:08Z"
 ---
 ## What it is
 Enables AI agents to control a stealthy browser via the Model Context Protocol, supporting navigation, screenshots, clicking, typing, and more.

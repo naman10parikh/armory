@@ -8,12 +8,12 @@ source_url: https://github.com/bx33661/wireshark-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 361
+stars: 372
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 46
-pushed_at: "2026-10-25T13:10:14Z"
+forks: 47
+pushed_at: "2026-11-01T23:45:51Z"
 ---
 ## What it is
 MCP server `Wireshark`, catalogued on PulseMCP. TShark network packet analysis with capture, protocol stats, field extraction, and security analysis.

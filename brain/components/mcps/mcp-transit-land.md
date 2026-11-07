@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T06:42:18Z"
+pushed_at: "2026-11-05T21:02:21Z"
 ---
 ## What it is
 Enables querying global transit data including agencies, routes, stops, and departures through a GTFS aggregator.

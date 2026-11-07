@@ -8,11 +8,11 @@ source_url: https://github.com/disler/just-prompt
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 738
+stars: 736
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 131
+forks: 130
 pushed_at: "2025-08-10T19:05:53Z"
 ---
 ## What it is

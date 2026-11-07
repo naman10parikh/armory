@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T01:42:31Z"
+pushed_at: "2026-11-06T18:23:22Z"
 ---
 ## What it is
 Enables AI agents to post tasks, manage escrow, approve work, and pay human gig workers on the GetterDone physical-task marketplace.

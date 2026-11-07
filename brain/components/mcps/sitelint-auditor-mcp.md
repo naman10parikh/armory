@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T13:38:21Z"
+pushed_at: "2026-11-03T22:17:15Z"
 ---
 ## What it is
 Runs WCAG accessibility, SEO, performance, and security audits on URLs or raw HTML via SiteLint Auditor. Enables LLM agents to audit web pages and check WCAG criteria through MCP tools.

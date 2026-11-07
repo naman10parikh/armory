@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-01T06:23:26Z"
+pushed_at: "2026-11-02T18:20:43Z"
 ---
 ## What it is
 MCP server that enables agents to send tagged notifications through Apprise, run one-off URL sends, and check upstream health via stdio or streamable HTTP.

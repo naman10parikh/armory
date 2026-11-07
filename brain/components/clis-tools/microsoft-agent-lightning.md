@@ -8,14 +8,14 @@ source_url: https://github.com/microsoft/agent-lightning
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 18853
+stars: 18912
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1702
-pushed_at: "2026-10-20T02:25:57Z"
+forks: 1713
+pushed_at: "2026-11-05T03:09:26Z"
 ---
 ## What it is
 The absolute trainer to light up AI agents.

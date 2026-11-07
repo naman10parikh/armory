@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-02-24T06:42:02Z"
+pushed_at: "2026-11-03T15:00:53Z"
 ---
 ## What it is
 Enables Claude Code agents to communicate across sessions, terminals, and repositories through shared channels with persistent context.

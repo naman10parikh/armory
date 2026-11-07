@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-25T04:49:32Z"
+pushed_at: "2026-11-03T08:20:15Z"
 ---
 ## What it is
 Adobe Photoshop adapter bridging AI agents (Claude, Cursor, Copilot) to Photoshop via UXP WebSocket for document and layer management.

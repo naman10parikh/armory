@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2025-04-04T10:30:18Z"
+forks: 5
+pushed_at: "2026-11-06T18:31:28Z"
 ---
 ## What it is
 Enables AI models to retrieve high-quality context from Valyu's API, including search over Wikipedia, arXiv papers, and the web.

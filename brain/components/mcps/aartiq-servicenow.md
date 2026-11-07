@@ -8,11 +8,11 @@ source_url: https://github.com/aartiq/servicenow-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 265
+stars: 241
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 112
+forks: 98
 pushed_at: "2026-09-23T08:28:22Z"
 ---
 ## What it is

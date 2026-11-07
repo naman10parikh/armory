@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-09T02:09:47Z"
+pushed_at: "2026-11-02T08:31:37Z"
 ---
 ## What it is
 Comprehensive MCP server for Project COR, a project management platform, exposing 61 tools covering the complete COR REST API as MCP tools.

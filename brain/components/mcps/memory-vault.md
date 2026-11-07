@@ -8,12 +8,12 @@ source_url: https://github.com/mihaibuilds/memory-vault
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 67
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 14
-pushed_at: "2026-10-28T09:13:58Z"
+pushed_at: "2026-11-02T04:11:08Z"
 ---
 ## What it is
 MCP server `Memory Vault`, catalogued on PulseMCP. Self-hosted AI memory layer with hybrid semantic and keyword search, backed by Postgres and pgvector.

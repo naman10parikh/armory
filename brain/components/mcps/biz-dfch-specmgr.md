@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T10:10:12Z"
+pushed_at: "2026-11-07T11:37:18Z"
 ---
 ## What it is
 An artifact manager MCP server for system specifications, providing tools and resources to create, read, update, list, validate, and manage MADR 4.0.0-derived Architecture Decision Records (ADRs) stored as markdown files.

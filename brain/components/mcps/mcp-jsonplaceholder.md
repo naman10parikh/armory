@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T04:25:53Z"
+pushed_at: "2026-11-02T20:53:48Z"
 ---
 ## What it is
 Wraps the JSONPlaceholder fake REST API to enable testing and prototyping with CRUD operations on posts, comments, and other resources via MCP.

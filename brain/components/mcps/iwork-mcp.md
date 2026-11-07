@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-10-20T12:25:21Z"
+pushed_at: "2026-11-05T20:45:38Z"
 ---
 ## What it is
 An MCP server that provides 113 tools for automating Apple iWork apps (Numbers, Pages, Keynote) via JavaScript for Automation, enabling AI assistants to create, edit, and export documents, spreadsheets, and presentations.

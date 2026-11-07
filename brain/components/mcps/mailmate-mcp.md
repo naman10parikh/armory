@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-03-29T00:11:27Z"
+pushed_at: "2026-11-04T22:49:24Z"
 ---
 ## What it is
 Enables searching, reading, moving, tagging, and linking emails in MailMate via MCP tools, allowing Claude to manage email without leaving the conversation.

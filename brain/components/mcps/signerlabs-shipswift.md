@@ -8,12 +8,12 @@ source_url: https://github.com/signerlabs/shipswift
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3251
+stars: 3263
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 186
-pushed_at: "2026-10-26T02:57:45Z"
+forks: 187
+pushed_at: "2026-11-07T08:38:37Z"
 ---
 ## What it is
 MCP server `ShipSwift`, catalogued on PulseMCP. Shipping and logistics management with rate comparison, label generation, and tracking.

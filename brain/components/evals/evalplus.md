@@ -8,7 +8,7 @@ source_url: https://github.com/evalplus/evalplus
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 1839
+stars: 1838
 eval_score: null
 verified_at: 2026-05-27
 related: []

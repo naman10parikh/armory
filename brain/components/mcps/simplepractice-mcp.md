@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T14:12:31Z"
+pushed_at: "2026-11-04T18:06:43Z"
 ---
 ## What it is
 Enables read-only access to SimplePractice Client Portal data — appointments, billing, documents, and announcements — via the portal's JSON:API, using passwordless portal sign-in.

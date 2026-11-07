@@ -8,12 +8,12 @@ source_url: https://github.com/dg/pohoda-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-12T23:05:47Z"
+pushed_at: "2026-11-05T23:26:33Z"
 ---
 ## What it is
 MCP server `Pohoda`, catalogued on PulseMCP. Reads and parses Pohoda accounting software XML export files.

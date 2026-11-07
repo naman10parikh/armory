@@ -8,14 +8,14 @@ source_url: https://github.com/multica-ai/multica
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 54428
+stars: 55212
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 7167
-pushed_at: "2026-10-31T10:58:06Z"
+forks: 7276
+pushed_at: "2026-11-07T10:35:15Z"
 ---
 ## What it is
 Make humans and AI agents work as one team — open-source and self-hostable.

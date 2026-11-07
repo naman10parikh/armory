@@ -8,7 +8,7 @@ source_url: https://github.com/lanes-sh/link
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 35
+stars: 36
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2025-12-20T16:23:54Z"
+pushed_at: "2026-11-04T01:33:01Z"
 ---
 ## What it is
 MCP server `Space Engineers Code Index`, catalogued on PulseMCP. Decompiles Space Engineers game assemblies and indexes C# source code for AI-assisted mod and plugin development

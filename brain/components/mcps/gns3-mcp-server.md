@@ -8,13 +8,13 @@ source_url: https://github.com/ChistokhinSV/gns3-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 17
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-04-21T21:48:11Z"
+forks: 4
+pushed_at: "2026-11-03T20:41:47Z"
 ---
 ## What it is
 Enables control of GNS3 network lab automation, including projects, nodes, consoles, and SSH, through Claude Desktop or any MCP-compatible client.

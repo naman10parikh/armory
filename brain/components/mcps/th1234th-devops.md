@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-12T19:11:01Z"
+pushed_at: "2026-11-01T14:14:21Z"
 ---
 ## What it is
 MCP server `DevOps Automation`, catalogued on PulseMCP. DevOps automation platform implementing MCP with integrations for Docker, Kubernetes, and AWS, featuring LLM-powered natural language automation.

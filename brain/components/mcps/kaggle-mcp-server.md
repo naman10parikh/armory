@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-16T04:09:55Z"
+pushed_at: "2026-11-05T05:07:58Z"
 ---
 ## What it is
 Enables AI assistants to interact with Kaggle competitions, including listing competitions, downloading files, submitting predictions, and viewing submission history.

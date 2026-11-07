@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T18:12:03Z"
+pushed_at: "2026-11-06T14:24:56Z"
 ---
 ## What it is
 Read-only MCP server for querying the Popey ERP database, organized by business circuits. It provides tools to list circuits, run SELECT queries, and retrieve schema metadata, with strict read-only enforcement.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-10T05:20:05Z"
+pushed_at: "2026-11-04T23:41:45Z"
 ---
 ## What it is
 Switchboard is a local-first, governed MCP endpoint that aggregates multiple MCP servers into one, with per-tool policy controls, an encrypted vault for credentials, and a dashboard for management.

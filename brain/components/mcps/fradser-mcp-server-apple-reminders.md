@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
-stars: 231
-forks: 56
-pushed_at: "2026-10-27T03:15:56Z"
+stars: 232
+forks: 59
+pushed_at: "2026-11-06T14:24:46Z"
 ---
 ## What it is
 An MCP server for interacting with Apple Reminders on macOS

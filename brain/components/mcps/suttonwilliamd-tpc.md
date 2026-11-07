@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-29T04:26:07Z"
+pushed_at: "2026-11-06T13:59:48Z"
 ---
 ## What it is
 MCP server `TPC Server`, catalogued on PulseMCP. TPC Server enables AI agents to document their reasoning processes, strategies, and actions through a structured system of Thoughts, Plans, and Changes, providing traceable operation history and transparent decision-making.

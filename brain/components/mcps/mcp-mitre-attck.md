@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T04:52:27Z"
+pushed_at: "2026-11-03T01:57:25Z"
 ---
 ## What it is
 Enables querying MITRE ATT&CK STIX data, including adversary tactics, techniques, and procedures, via an MCP server connected to the Pipeworx gateway.

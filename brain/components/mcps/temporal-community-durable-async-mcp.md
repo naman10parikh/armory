@@ -8,11 +8,11 @@ source_url: https://github.com/temporal-community/durable-async-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
+forks: 7
 pushed_at: "2026-10-23T22:18:36Z"
 ---
 ## What it is

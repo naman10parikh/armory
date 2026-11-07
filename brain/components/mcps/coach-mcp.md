@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-28T06:06:58Z"
+pushed_at: "2026-11-06T11:55:49Z"
 ---
 ## What it is
 An AI training coach MCP server that integrates with Garmin Connect to provide science-based load management, code-enforced injury gates, and persistent coaching memory, keeping data local.

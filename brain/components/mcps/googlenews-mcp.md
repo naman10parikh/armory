@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-16T15:58:48Z"
+pushed_at: "2026-11-04T22:35:55Z"
 ---
 ## What it is
 Enables AI agents to read Google News without internet access, providing tools for top headlines, topic search, and news searches.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-30T14:27:33Z"
+pushed_at: "2026-11-04T21:05:01Z"
 ---
 ## What it is
 MCP server `OCI Registry`, catalogued on PulseMCP. Integrates with OCI registries to retrieve container image metadata, list repository tags, access manifests and configurations, and perform security analysis with support for multiple authentication methods.

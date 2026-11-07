@@ -8,12 +8,12 @@ source_url: https://github.com/j7an/nexus-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-10-27T03:41:52Z"
+forks: 1
+pushed_at: "2026-11-04T03:43:13Z"
 ---
 ## What it is
 MCP server `Nexus`, catalogued on PulseMCP. Enables AI models to invoke AI CLI agents (Gemini CLI, Codex, Claude Code, OpenCode) as tools with parallel execution and automatic retries.

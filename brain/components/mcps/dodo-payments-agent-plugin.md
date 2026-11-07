@@ -8,13 +8,13 @@ source_url: https://github.com/dodopayments/dodo-agent-plugin
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-10-12T13:56:20Z"
+forks: 2
+pushed_at: "2026-11-02T14:16:02Z"
 ---
 ## What it is
 Official Dodo Payments MCP servers - dodopayments-api for live payments, subscriptions, customers, products, refunds, license keys, and usage-based billing (browser OAuth, no API key needed) and dodo-knowledge for semantic search over Dodo Payments documentation.

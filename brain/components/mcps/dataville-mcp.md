@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T07:55:41Z"
+pushed_at: "2026-11-05T07:54:55Z"
 ---
 ## What it is
 Enables MCP clients to query Dataville's data sources using tools like list_dataville_sources and search_dataville.

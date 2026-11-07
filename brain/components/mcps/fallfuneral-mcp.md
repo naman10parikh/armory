@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T17:08:10Z"
+pushed_at: "2026-10-31T16:16:00Z"
 ---
 ## What it is
 Sovereign, MIT-licensed MCP server for professional-service workflows with Ed25519-signed manifests and offline capability.

@@ -8,13 +8,13 @@ source_url: https://github.com/simonether/kwork-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-10-29T16:42:00Z"
+forks: 2
+pushed_at: "2026-11-02T14:27:10Z"
 ---
 ## What it is
 MCP server that exposes 25 tools for the Kwork freelance marketplace — browse projects, submit offers, manage orders, send messages, and more.

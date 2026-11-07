@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-08-09T10:16:38Z"
+forks: 3
+pushed_at: "2026-11-05T16:13:03Z"
 ---
 ## What it is
 Exposes 97 official Shanghai Library open data APIs and the Sou-Yun poetry database (1.99 million poems) as 12 MCP tools, covering genealogy, ancient books, calligraphy, historical buildings, and more. Enables MCP clients to query these datasets using natural language.

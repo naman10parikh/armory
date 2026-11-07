@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-30T15:27:15Z"
+pushed_at: "2026-11-06T04:45:36Z"
 ---
 ## What it is
 An MCP server that connects Claude Code to your codebase for automated code cleanup with scanning, planning, atomic fixes, and rollback safety.

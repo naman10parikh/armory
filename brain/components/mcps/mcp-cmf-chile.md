@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-30T12:15:07Z"
+pushed_at: "2026-11-06T12:15:05Z"
 ---
 ## What it is
 MCP server that provides access to all public data from Chile's Financial Market Commission (CMF), including companies, financial statements, mutual funds, economic indicators, and more, allowing AI agents to connect to official financial regulator information without cost or API keys.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-10-31T06:02:57Z"
+pushed_at: "2026-11-06T18:02:26Z"
 ---
 ## What it is
 MCP server `Claude Octopus`, catalogued on PulseMCP. Spawn multiple specialized Claude Code agents as MCP servers, each independently configured.

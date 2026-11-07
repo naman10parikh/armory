@@ -8,13 +8,13 @@ source_url: https://github.com/Das-rebel/marketic
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-30T14:39:09Z"
+pushed_at: "2026-11-06T15:26:37Z"
 ---
 ## What it is
 An MCP server providing 32 marketing intelligence tools for competitive analysis, content generation, campaign management, and analytics, enabling MCP-compatible agents to execute marketing operations natively.

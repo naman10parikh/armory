@@ -8,13 +8,13 @@ source_url: https://github.com/Opita-Code/dark-memory-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-10-17T14:57:47Z"
+forks: 2
+pushed_at: "2026-11-02T16:05:55Z"
 ---
 ## What it is
 An MCP server that provides persistent memory for AI agents, enabling context retention across sessions and supporting vibe-loop workflows where agent promises and deliverables are tracked and validated.

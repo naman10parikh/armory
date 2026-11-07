@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T08:42:05Z"
+pushed_at: "2026-11-04T17:19:18Z"
 ---
 ## What it is
 Enables AI agents to run automated daily code reviews, retrieve Markdown reports, and curate a project knowledge base across any Git repository.

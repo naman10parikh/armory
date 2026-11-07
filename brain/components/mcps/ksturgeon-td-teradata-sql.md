@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-30T20:51:32Z"
+pushed_at: "2026-11-04T13:50:35Z"
 ---
 ## What it is
 MCP server `Teradata SQL`, catalogued on PulseMCP. Execute queries and manage schema on Teradata databases with read-only mode and execution plan support.

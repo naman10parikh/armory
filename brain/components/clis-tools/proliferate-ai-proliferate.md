@@ -14,8 +14,8 @@ mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 87
-pushed_at: "2026-10-29T14:31:41Z"
+forks: 88
+pushed_at: "2026-11-05T14:28:15Z"
 ---
 ## What it is
 The open-source AI IDE for Claude Code, Codex, OpenCode, and more. Run agents in parallel, locally or in the cloud, and build reusable workflows.

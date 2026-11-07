@@ -8,12 +8,12 @@ source_url: https://github.com/adelaidasofia/imessage-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-26T04:58:42Z"
+pushed_at: "2026-11-06T13:00:27Z"
 ---
 ## What it is
 MCP server `iMessage`, catalogued on PulseMCP. Reads macOS iMessage history from the local chat.db for conversation search and analysis.

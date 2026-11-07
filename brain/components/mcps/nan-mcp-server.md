@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T12:02:41Z"
+pushed_at: "2026-11-03T22:37:34Z"
 ---
 ## What it is
 MCP server exposing NaN API media tools (image generation/editing, text-to-speech, speech-to-text, embeddings, reranking) for any MCP-compatible client.

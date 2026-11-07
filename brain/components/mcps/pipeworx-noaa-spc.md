@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-29T05:07:31Z"
+pushed_at: "2026-11-03T21:00:16Z"
 ---
 ## What it is
 MCP server `NOAA Storm Prediction Center`, catalogued on PulseMCP. Retrieves NOAA Storm Prediction Center outlooks, storm reports, and severe weather watches.

@@ -8,11 +8,11 @@ source_url: https://github.com/oraios/serena
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30927
+stars: 31176
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2112
+forks: 2130
 pushed_at: "2026-10-28T10:45:55Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/icyberdeveloper/tbank-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 38
+stars: 44
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
+forks: 10
 pushed_at: "2026-10-05T12:33:51Z"
 ---
 ## What it is

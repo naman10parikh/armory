@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-10-27T16:36:49Z"
+forks: 3
+pushed_at: "2026-11-04T05:34:47Z"
 ---
 ## What it is
 Enables AI clients to read live drone status, telemetry, and parameters, and to control drone operations with scoped permissions, confirmation steps, and audit trails.

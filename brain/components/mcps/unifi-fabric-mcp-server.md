@@ -8,13 +8,13 @@ source_url: https://github.com/swkstudios/unifi-fabric-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-08-17T00:37:55Z"
+pushed_at: "2026-11-02T22:18:14Z"
 ---
 ## What it is
 loud-first UniFi management for AI agents. This server connects to the official UniFi Site Manager / Fabric cloud API (api.ui.com). Manage your entire UniFi fleet from anywhere through natural language.

@@ -8,12 +8,12 @@ source_url: https://github.com/howardpen9/kimi-code-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 62
+stars: 63
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-10-12T11:42:54Z"
+pushed_at: "2026-11-02T05:00:05Z"
 ---
 ## What it is
 MCP server `Kimi Code`, catalogued on PulseMCP. Delegates bulk codebase analysis to Kimi K2.5's 256K context window, enabling architecture reviews, security audits, dependency mapping, and cross-file pattern scanning at reduced token cost.

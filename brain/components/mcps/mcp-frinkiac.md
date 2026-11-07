@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T03:35:52Z"
+pushed_at: "2026-11-02T01:54:26Z"
 ---
 ## What it is
 Search and caption Simpsons screencaps from Frinkiac and Morbotron.

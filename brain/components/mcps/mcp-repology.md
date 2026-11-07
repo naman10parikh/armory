@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T06:01:08Z"
+pushed_at: "2026-11-04T21:05:09Z"
 ---
 ## What it is
 Enables querying cross-distribution package versions and maintenance information via Repology, with tools for projects, problems, repositories, maintainers, and search.

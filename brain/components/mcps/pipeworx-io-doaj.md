@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-29T02:55:54Z"
+pushed_at: "2026-11-01T01:56:47Z"
 ---
 ## What it is
 MCP server `DOAJ`, catalogued on PulseMCP. Search the Directory of Open Access Journals for peer-reviewed open-access scholarly journals and articles across all academic disciplines.

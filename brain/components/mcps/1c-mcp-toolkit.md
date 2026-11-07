@@ -8,13 +8,13 @@ source_url: https://github.com/ROCTUP/1c-mcp-toolkit
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 335
+stars: 349
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 88
-pushed_at: "2026-10-11T17:42:34Z"
+forks: 91
+pushed_at: "2026-11-01T07:20:18Z"
 ---
 ## What it is
 Integrates AI agents with 1C:Enterprise databases via MCP and REST API, supporting a built-in HTTP server (no Python required) or a Python proxy mode.

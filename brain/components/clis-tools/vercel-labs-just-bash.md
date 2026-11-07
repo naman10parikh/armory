@@ -8,13 +8,13 @@ source_url: https://github.com/vercel-labs/just-bash
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 4447
+stars: 4467
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 293
+forks: 298
 pushed_at: "2026-10-27T21:38:22Z"
 ---
 ## What it is

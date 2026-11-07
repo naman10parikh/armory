@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T17:50:18Z"
+pushed_at: "2026-11-06T15:48:57Z"
 ---
 ## What it is
 Provides SEO tools for Claude Code, including free local tools and paid API-powered analysis for keyword research, traffic analysis, backlinks, OnPage audits, and more.

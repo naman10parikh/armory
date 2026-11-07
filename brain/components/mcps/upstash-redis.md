@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 14
-pushed_at: "2026-10-23T11:24:25Z"
+pushed_at: "2026-11-04T10:01:56Z"
 ---
 ## What it is
 MCP server `Upstash`, catalogued on PulseMCP. Integrates with Upstash's Developer APIs to enable natural language management of Redis databases.

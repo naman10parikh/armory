@@ -8,14 +8,14 @@ source_url: https://github.com/elmohq/elmo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 541
+stars: 575
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 135
-pushed_at: "2026-10-30T22:14:39Z"
+forks: 154
+pushed_at: "2026-11-07T01:04:29Z"
 ---
 ## What it is
 Open-source Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) platform. Track how ChatGPT, Claude, Perplexity, Gemini, Copilot, Grok, and Google AI Overviews mention and cite your brand in AI search. MIT-licensed, self-hostable, every metric auditable in code.

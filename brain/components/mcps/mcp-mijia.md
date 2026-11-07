@@ -8,12 +8,12 @@ source_url: https://github.com/oujiafan/mcp-mijia
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 3
 pushed_at: "2026-03-10T17:20:58Z"
 ---
 ## What it is

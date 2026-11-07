@@ -8,14 +8,14 @@ source_url: https://github.com/triggerdotdev/trigger.dev
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 16666
+stars: 16726
 eval_score: null
 mentions: 1
 verified_at: 2026-10-29
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 1524
-pushed_at: "2026-10-31T11:59:31Z"
+pushed_at: "2026-11-03T11:54:09Z"
 ---
 ## What it is
 Trigger.dev – build and deploy durable AI agents and workflows

@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 6
+stars: 7
 forks: 0
-pushed_at: "2026-10-31T12:35:04Z"
+pushed_at: "2026-11-07T12:09:27Z"
 ---
 ## What it is
 Local-first MCP server for AI content governance — 13 tools for model/content CRUD, validation, normalization, and i18n across any framework.

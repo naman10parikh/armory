@@ -8,12 +8,12 @@ source_url: https://github.com/miroapp/miro-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 164
+stars: 167
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 24
+forks: 25
 pushed_at: "2026-09-17T14:36:57Z"
 ---
 ## What it is

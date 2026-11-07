@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-30T10:41:20Z"
+pushed_at: "2026-11-07T12:31:17Z"
 ---
 ## What it is
 MCP server `Atlas`, catalogued on PulseMCP. Hosted MCP server for investment analysis, stocks, options, and broker workflows.

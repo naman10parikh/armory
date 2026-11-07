@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T03:08:45Z"
+pushed_at: "2026-11-01T02:04:10Z"
 ---
 ## What it is
 Enables users to discover, read, and fetch curated educational RSS/Atom feeds with filtering capabilities.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-27T07:31:33Z"
+pushed_at: "2026-11-06T06:43:42Z"
 ---
 ## What it is
 Connects AI assistants to your Missive team inbox with 36 tools for managing contacts, conversations, drafts, tasks, and more, while ensuring safety by preventing external sends and deletions.

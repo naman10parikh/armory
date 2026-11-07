@@ -8,13 +8,13 @@ source_url: https://github.com/X0X0X00/CaptchaArena
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 0
+forks: 1
 pushed_at: "2026-09-29T20:13:54Z"
 ---
 ## What it is

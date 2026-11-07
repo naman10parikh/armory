@@ -8,12 +8,12 @@ source_url: https://github.com/terryso/mcp-pinterest
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 52
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
-pushed_at: "2025-07-02T08:26:39Z"
+forks: 8
+pushed_at: "2026-11-02T10:32:47Z"
 ---
 ## What it is
 MCP server `Pinterest`, catalogued on PulseMCP. Pinterest image search and information retrieval

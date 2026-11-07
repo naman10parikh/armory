@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T07:56:24Z"
+pushed_at: "2026-10-31T16:16:32Z"
 ---
 ## What it is
 A sovereign, MIT-licensed MCP server for professional-service workflows, providing offline-capable, Ed25519-signed tools for autonomous agents and human developers.

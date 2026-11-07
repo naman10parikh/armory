@@ -8,11 +8,11 @@ source_url: https://github.com/shiehn/total-reaper-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 87
+stars: 89
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 16
+forks: 17
 pushed_at: "2026-08-03T22:30:56Z"
 ---
 ## What it is

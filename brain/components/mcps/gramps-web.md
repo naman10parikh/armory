@@ -8,11 +8,11 @@ source_url: https://github.com/cabout-me/gramps-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 48
+stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 16
+forks: 17
 pushed_at: "2026-07-29T17:19:47Z"
 ---
 ## What it is

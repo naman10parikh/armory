@@ -8,11 +8,11 @@ source_url: https://github.com/cyanheads/openstates-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
+forks: 1
 pushed_at: "2026-10-28T15:01:45Z"
 ---
 ## What it is

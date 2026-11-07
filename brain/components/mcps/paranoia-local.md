@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-02T13:37:19Z"
+pushed_at: "2026-11-07T04:57:32Z"
 ---
 ## What it is
 A local MCP server that provides adversarial code review by having one frontier agent (Claude Code or Codex) critique code changes using the other agent (Codex or Claude Code) with full repository access, enabling a genuine second opinion on code and plans.

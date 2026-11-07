@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/fbi-crime-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T05:43:51Z"
+pushed_at: "2026-11-01T03:46:38Z"
 ---
 ## What it is
 Exposes the FBI Crime Data Explorer API — crime estimates, agency offense rates, and LEOKA officer safety data via MCP. Supports STDIO or Streamable HTTP transport.

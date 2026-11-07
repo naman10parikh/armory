@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-09-07T06:05:08Z"
+pushed_at: "2026-11-01T15:47:49Z"
 ---
 ## What it is
 MCP server `Genesys Memory`, catalogued on PulseMCP. AI memory system with causal graphs, multiplicative scoring, and automatic forgetting for AI agents.

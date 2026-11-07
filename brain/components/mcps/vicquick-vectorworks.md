@@ -8,12 +8,12 @@ source_url: https://github.com/vicquick/vwx-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-10-23T09:42:05Z"
+pushed_at: "2026-11-03T19:33:15Z"
 ---
 ## What it is
 MCP server `Vectorworks`, catalogued on PulseMCP. Controls Vectorworks 2026 CAD software through 150+ tools for document management, 2D/3D drawing, symbols, BIM/IFC, and architectural features.

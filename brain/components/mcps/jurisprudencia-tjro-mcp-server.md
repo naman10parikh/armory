@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-27T20:21:29Z"
+pushed_at: "2026-11-06T00:32:32Z"
 ---
 ## What it is
 Enables Claude Desktop to search and retrieve jurisprudence from the Tribunal de Justiça de Rondônia (TJRO), including full texts of court decisions.

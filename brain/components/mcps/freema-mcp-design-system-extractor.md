@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 72
+stars: 73
 forks: 14
-pushed_at: "2026-10-25T07:19:13Z"
+pushed_at: "2026-11-06T13:53:35Z"
 ---
 ## What it is
 Extracts component information from Storybook design systems. Provides HTML, styles, props, dependencies, theme tokens and component metadata for AI-powered design system analysis.

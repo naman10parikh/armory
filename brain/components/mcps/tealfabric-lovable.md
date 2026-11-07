@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-30T11:11:35Z"
+pushed_at: "2026-11-02T07:30:08Z"
 ---
 ## What it is
 MCP server `Tealfabric Lovable`, catalogued on PulseMCP. Lovable Desktop integration for managing Tealfabric webapps, ProcessFlow workflows, and connectors.

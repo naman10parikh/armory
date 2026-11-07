@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-20T08:14:39Z"
+pushed_at: "2026-11-01T04:04:32Z"
 ---
 ## What it is
 Screen names against consolidated OFAC, EU, UK, and UN sanctions lists and resolve legal entities via GLEIF, with offline fuzzy matching.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-22T21:18:02Z"
+pushed_at: "2026-11-03T11:07:20Z"
 ---
 ## What it is
 Enables AI assistants to interact with Veeam Backup & Replication infrastructure through natural language, allowing monitoring, management, and troubleshooting of backup jobs, sessions, and restore points.

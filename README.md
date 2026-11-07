@@ -29,7 +29,7 @@ _Armory is part of an agent-native play for agent-native systems that can eventu
 
 ![components](https://img.shields.io/badge/components-60%2C000%2B-e0a458) ![categories](https://img.shields.io/badge/categories-12-e0a458)
 
-**Last updated:** 2026-11-05T15:22:04.703Z (UTC), when `catalog.json` was last generated.
+**Last updated:** 2026-11-07T13:55:26.005Z (UTC), when `catalog.json` was last generated.
 
 </div>
 

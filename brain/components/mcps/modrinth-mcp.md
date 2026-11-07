@@ -8,13 +8,13 @@ source_url: https://github.com/justinscott12/modrinth-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-25T21:09:55Z"
+pushed_at: "2026-11-03T04:44:29Z"
 ---
 ## What it is
 Enables AI agents to search, read, and publish Minecraft mods on Modrinth, including creating projects and uploading jar files as new versions.

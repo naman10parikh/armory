@@ -8,13 +8,13 @@ source_url: https://github.com/ExaDev/agent-comms
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 35
+stars: 36
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 11
-pushed_at: "2026-10-29T11:56:23Z"
+pushed_at: "2026-11-04T22:45:50Z"
 ---
 ## What it is
 Cross-harness communication mesh for LLM agents enabling rooms, DMs, presence, and visibility over TCP.

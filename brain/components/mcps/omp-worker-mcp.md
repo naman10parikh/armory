@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-24T06:52:23Z"
+pushed_at: "2026-11-01T04:37:55Z"
 ---
 ## What it is
 Enables delegating asynchronous coding tasks and DAG workflows to local Oh My Pi (OMP) CLI sub-agents, with topological orchestration, path isolation, and supervised resumption.

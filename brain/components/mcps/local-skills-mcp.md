@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-10-04T16:44:46Z"
+pushed_at: "2026-11-07T01:14:35Z"
 ---
 ## What it is
 A universal MCP server that enables any LLM or AI agent to access expert skills from your local filesystem.

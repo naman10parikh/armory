@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-17T17:52:48Z"
+pushed_at: "2026-11-04T10:08:44Z"
 ---
 ## What it is
 A Model Context Protocol server for managing ESET security products (cloud and on-prem) from any MCP host, providing tools, resources, and prompts for comprehensive ESET management.

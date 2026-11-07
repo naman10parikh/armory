@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-25T01:14:00Z"
+pushed_at: "2026-11-03T20:26:16Z"
 ---
 ## What it is
 MCP server `Hivemind`, catalogued on PulseMCP. Transforms Obsidian worldbuilding vaults into queryable knowledge graphs with automatic entity detection and relationship mapping.

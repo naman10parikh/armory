@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-05-08T16:14:38Z"
+pushed_at: "2026-11-04T09:18:33Z"
 ---
 ## What it is
 MCP server `SCAST`, catalogued on PulseMCP. Static Code Analysis and Visualization. Convert Code to UML and Flow Diagram and explain by AI.

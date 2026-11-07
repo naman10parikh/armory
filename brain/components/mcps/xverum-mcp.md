@@ -8,13 +8,13 @@ source_url: https://github.com/Xverum-LLC/xverum-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-29T12:36:49Z"
+pushed_at: "2026-11-03T07:27:06Z"
 ---
 ## What it is
 Find and enrich the right people from 750M professional profiles. Search by role, seniority, skills, industry, and location in plain English. Pull profiles with work history, education, and seniority, then see who's likely to change jobs next with Next Move Signal. Built for AI products and agents: 

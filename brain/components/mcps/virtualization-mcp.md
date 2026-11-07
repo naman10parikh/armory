@@ -8,13 +8,13 @@ source_url: https://github.com/sandraschi/virtualization-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-29T02:06:57Z"
+pushed_at: "2026-11-06T03:09:19Z"
 ---
 ## What it is
 Enables AI assistants to manage virtual machines, sandboxes, and dev environments through VirtualBox, Hyper-V, and Windows Sandbox, supporting VM lifecycle, ISO downloads, networking, and unattended installs.

@@ -8,13 +8,13 @@ source_url: https://github.com/Giskard-AI/giskard
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 5937
+stars: 5947
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, safety, vulnerability, scan]
-forks: 555
-pushed_at: "2026-10-30T03:12:14Z"
+forks: 562
+pushed_at: "2026-11-02T07:34:45Z"
 ---
 ## What it is
 Open-source LLM testing framework for detecting vulnerabilities (prompt injection, hallucinations, bias) via automated scan.

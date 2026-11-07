@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T07:14:43Z"
+pushed_at: "2026-11-06T20:54:07Z"
 ---
 ## What it is
 Multilingual dictionary server via Wikimedia REST and MediaWiki Action APIs, providing word definitions, summaries, search, etymology, and pronunciations.

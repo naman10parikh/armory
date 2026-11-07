@@ -8,12 +8,12 @@ source_url: https://github.com/antonhofstader/Civil3D-mcp-python-COM
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-04-08T01:51:54Z"
 ---
 ## What it is

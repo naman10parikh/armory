@@ -8,12 +8,12 @@ source_url: https://github.com/dcc-mcp/dcc-mcp-substance3d-designer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-10-25T04:51:04Z"
 ---
 ## What it is

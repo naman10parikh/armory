@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-10-10T01:39:58Z"
+pushed_at: "2026-10-31T16:32:08Z"
 ---
 ## What it is
 Enables querying and retrieval of structured video summaries from a SQLite knowledge base through Claude or Cursor, supporting search, precise matching, and tag-based filtering.

@@ -8,13 +8,13 @@ source_url: https://github.com/bakissation/mcp-google-multi
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 17
-pushed_at: "2026-10-30T06:24:58Z"
+forks: 18
+pushed_at: "2026-11-04T23:07:13Z"
 ---
 ## What it is
 Gives MCP clients access to Google Workspace (Gmail, Drive, Calendar, Sheets, Docs, etc.) across multiple Google accounts simultaneously.

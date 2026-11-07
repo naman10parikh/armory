@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T08:47:55Z"
+pushed_at: "2026-11-05T06:55:05Z"
 ---
 ## What it is
 Enables agents to capture and manage notes, tasks, events, and links in a private, file-first workspace, with tools for viewing today's agenda and searching Markdown notes.

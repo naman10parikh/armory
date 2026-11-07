@@ -8,13 +8,13 @@ source_url: https://github.com/siddhartha-yz/dsh-mcp-gateway
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-08T11:45:03Z"
+pushed_at: "2026-11-05T09:05:48Z"
 ---
 ## What it is
 An experimental MCP gateway for controlling durable DeepSeek Harness agent sessions from MCP clients, enabling session creation, observation, steering, and resumption across chat sessions.

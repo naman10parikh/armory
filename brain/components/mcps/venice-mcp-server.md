@@ -8,13 +8,13 @@ source_url: https://github.com/veniceai/venice-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 77
+stars: 78
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-10-30T23:52:59Z"
+forks: 11
+pushed_at: "2026-11-04T22:37:45Z"
 ---
 ## What it is
 Provides 31 tools and 3 resources to access Venice's uncensored AI models for chat, image, video, audio, music, and more, enabling any MCP host to interact with the Venice API.

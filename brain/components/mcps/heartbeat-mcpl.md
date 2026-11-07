@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-31T04:09:44Z"
+pushed_at: "2026-11-02T17:28:46Z"
 ---
 ## What it is
 Periodically sends heartbeat events to wake Connectome agents for self-check-in, with configurable interval and management tools.

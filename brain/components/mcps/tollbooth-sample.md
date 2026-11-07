@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T23:16:20Z"
+pushed_at: "2026-11-04T18:28:39Z"
 ---
 ## What it is
 A reference MCP server demonstrating Bitcoin Lightning micropayments for weather data via the Tollbooth DPYC SDK, wrapping Open-Meteo and providing paid tools for current, forecast, and historical weather.

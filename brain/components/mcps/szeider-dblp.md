@@ -12,8 +12,8 @@ stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
-pushed_at: "2026-10-13T16:25:14Z"
+forks: 13
+pushed_at: "2026-11-05T20:23:39Z"
 ---
 ## What it is
 MCP server `DBLP`, catalogued on PulseMCP. Integrates with the DBLP computer science bibliography database to enable searching publications, processing citations, generating BibTeX entries, and analyzing research trends.

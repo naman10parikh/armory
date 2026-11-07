@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-09T09:59:02Z"
+pushed_at: "2026-11-04T03:21:58Z"
 ---
 ## What it is
 Provides real-time oversight for Claude Code by connecting it to an OpenClaw agent that reviews, approves, blocks, or modifies actions before they execute.

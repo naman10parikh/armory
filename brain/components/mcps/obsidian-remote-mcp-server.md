@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-24T09:47:32Z"
+pushed_at: "2026-11-06T15:36:32Z"
 ---
 ## What it is
 Enables remote access to Obsidian vaults from Claude.ai and Claude Code without needing Obsidian running, supporting multiple vaults with OAuth 2.1 and static token authentication. Provides note management tools like read, create, edit, delete, and search.

@@ -8,12 +8,12 @@ source_url: https://github.com/bossx429/agent-farm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-05-24T06:45:53Z"
+forks: 0
+pushed_at: "2026-11-06T01:32:48Z"
 ---
 ## What it is
 MCP server `Agent Farm`, catalogued on PulseMCP. Parallel AI task execution system that spawns specialized AI agents with distinct roles to execute tasks concurrently.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-26T07:01:30Z"
+pushed_at: "2026-11-06T14:15:21Z"
 ---
 ## What it is
 An MCP server for coding agents that stores facts in HydraDB, links them to entities, detects revisions, and propagates trust decay through provenance. It provides scoped recall with transparent scoring and abstains when evidence is missing.

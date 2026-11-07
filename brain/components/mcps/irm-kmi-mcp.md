@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-28T18:29:08Z"
+pushed_at: "2026-11-02T20:05:31Z"
 ---
 ## What it is
 Provides official Belgian weather data from the Royal Meteorological Institute (IRM/KMI), including current conditions, daily and hourly forecasts, and weather warnings.

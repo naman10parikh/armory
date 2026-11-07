@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-21T08:22:14Z"
+pushed_at: "2026-11-07T07:37:34Z"
 ---
 ## What it is
 MCP server `BCI-MCP (Brain-Computer Interface)`, catalogued on PulseMCP. Enables AI systems to receive and process neural signals from multiple EEG devices through real-time signal processing, providing brain activity data for more intuitive human-AI interactions.

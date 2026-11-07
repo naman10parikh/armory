@@ -8,12 +8,12 @@ source_url: https://github.com/aravindev/inkscape_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 89
+stars: 92
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
-pushed_at: "2026-10-05T06:13:06Z"
+forks: 16
+pushed_at: "2026-11-02T06:17:28Z"
 ---
 ## What it is
 MCP server `Inkscape`, catalogued on PulseMCP. Controls Inkscape vector graphics editor via D-Bus and CLI with tools for file conversion, path operations, image analysis, and gradient manipulation.

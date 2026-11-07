@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-30T01:52:09Z"
+pushed_at: "2026-11-04T19:27:48Z"
 ---
 ## What it is
 Provides web access tools (fetch, search, sitemap crawl) through String AI's API, automatically handling anti-bot bypass, CAPTCHA, and JavaScript rendering.

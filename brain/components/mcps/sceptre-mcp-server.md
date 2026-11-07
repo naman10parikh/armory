@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-05T16:41:12Z"
+pushed_at: "2026-11-02T16:40:53Z"
 ---
 ## What it is
 MCP server that exposes Sceptre CloudFormation management operations as tools for AI agents.

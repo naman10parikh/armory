@@ -9,13 +9,13 @@ source_url: https://github.com/microsandbox/microsandbox
 license: Apache-2.0
 cli_compat: [claude, codex]
 maturity: beta
-stars: 8883
+stars: 8977
 eval_score: null
 verified_at: 2026-05-26
 related: [e2b-sandbox, claude-managed-agents-selfhost]
 tags: [sandbox, self-hosted, libkrun, microvm, oss]
-forks: 501
-pushed_at: "2026-10-31T11:25:39Z"
+forks: 514
+pushed_at: "2026-11-07T13:38:56Z"
 ---
 
 ## What it is

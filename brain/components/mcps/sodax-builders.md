@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-29T07:41:53Z"
+pushed_at: "2026-11-06T09:57:45Z"
 ---
 ## What it is
 MCP server `SODAX Builders`, catalogued on PulseMCP. Live cross-network DeFi API data and SDK docs for 17+ blockchain networks.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-05-28T14:20:22Z"
+pushed_at: "2026-11-04T19:27:10Z"
 ---
 ## What it is
 Enables AI assistants to write and debug integration tests by providing live access to DOM structure and executing code directly in test environments.

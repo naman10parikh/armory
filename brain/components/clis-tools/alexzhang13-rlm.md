@@ -8,14 +8,14 @@ source_url: https://github.com/alexzhang13/rlm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 5732
+stars: 5746
 eval_score: null
 mentions: 3
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
 forks: 918
-pushed_at: "2026-09-24T18:34:55Z"
+pushed_at: "2026-11-04T16:02:33Z"
 ---
 ## What it is
 General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.

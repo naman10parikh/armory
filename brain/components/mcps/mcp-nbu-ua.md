@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T04:59:49Z"
+pushed_at: "2026-11-03T02:05:09Z"
 ---
 ## What it is
 Provides access to National Bank of Ukraine public statistics without API keys.

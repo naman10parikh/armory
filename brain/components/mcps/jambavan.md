@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T18:47:17Z"
+pushed_at: "2026-11-01T10:31:47Z"
 ---
 ## What it is
 An MCP server that provides coding models with a live code index, inferred code graph, durable memory, and surgical tools to help them leverage their existing reasoning and coding abilities effectively.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-17T17:07:08Z"
+pushed_at: "2026-10-31T16:15:16Z"
 ---
 ## What it is
 Wraps the falldental-us-sdk as an MCP server for sovereign, offline-capable dental workflow management, with Ed25519 signing and FallMarket discoverability.

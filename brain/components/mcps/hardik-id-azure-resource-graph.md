@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2025-05-06T18:41:57Z"
+pushed_at: "2026-11-01T11:09:24Z"
 ---
 ## What it is
 MCP server `Azure Resource Graph`, catalogued on PulseMCP. Enables querying and retrieving detailed information about Azure resources across subscriptions through Azure Resource Graph API for cloud infrastructure analysis and troubleshooting

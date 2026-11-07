@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T06:22:48Z"
+pushed_at: "2026-11-01T15:07:57Z"
 ---
 ## What it is
 Wraps Tool and ToolPackage instances from the llm-chat ecosystem behind the Model Context Protocol, enabling stdio and Streamable HTTP transports for MCP servers.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-10-27T15:06:41Z"
+pushed_at: "2026-11-04T21:14:34Z"
 ---
 ## What it is
 MCP server `DNSTwist`, catalogued on PulseMCP. Integrates with dnstwist to automate DNS fuzzing for detecting typosquatting, phishing, and corporate espionage threats.

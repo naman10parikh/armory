@@ -8,13 +8,13 @@ source_url: https://github.com/agent-sh/computer-use-linux
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 777
+stars: 823
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 95
-pushed_at: "2026-10-31T13:08:51Z"
+forks: 100
+pushed_at: "2026-11-07T07:28:28Z"
 ---
 ## What it is
 Controls a real Linux desktop from any MCP host. Reads accessibility trees, takes screenshots, and drives clicks, scrolls, and keystrokes across GNOME, KDE/KWin, Hyprland, i3, and COSMIC.

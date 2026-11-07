@@ -8,11 +8,11 @@ source_url: https://github.com/langcare/langcare-mcp-fhir
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 68
+stars: 71
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
+forks: 18
 pushed_at: "2026-04-14T16:47:04Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/jgravelle/jdocmunch-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 207
+stars: 206
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 48
-pushed_at: "2026-10-24T11:02:44Z"
+forks: 49
+pushed_at: "2026-11-05T03:54:05Z"
 ---
 ## What it is
 MCP server `jDocMunch by jgravelle`, catalogued on PulseMCP. Section-level documentation search supporting Markdown, RST, AsciiDoc, Jupyter, HTML, YAML, JSON, and OpenAPI specs.

@@ -12,8 +12,8 @@ stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-10-13T15:49:36Z"
+forks: 1
+pushed_at: "2026-11-05T12:36:07Z"
 ---
 ## What it is
 MCP server `DomainKits`, catalogued on PulseMCP. Domain intelligence tools for NS reverse lookup and newly registered domain search

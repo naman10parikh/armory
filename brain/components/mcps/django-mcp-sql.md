@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-28T14:36:01Z"
+pushed_at: "2026-11-06T12:13:29Z"
 ---
 ## What it is
 Provides a read-only PostgreSQL SQL surface for LLM agents via MCP, with defense-in-depth security layers for safe database queries.

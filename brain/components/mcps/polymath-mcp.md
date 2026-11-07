@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T03:52:02Z"
+pushed_at: "2026-11-04T14:47:16Z"
 ---
 ## What it is
 Aggregates 17 free, keyless research sources into a single MCP server, enabling unified search for papers, code, models, trends, standards, and electronic components with deduplicated results.

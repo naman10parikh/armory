@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T12:20:46Z"
+pushed_at: "2026-10-31T17:50:51Z"
 ---
 ## What it is
 MCP server that turns a git-versioned Markdown vault into a queryable memory for AI agents, providing tools like brain_search, brain_read, and brain_neighbors.

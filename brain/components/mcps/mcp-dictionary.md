@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T02:53:14Z"
+pushed_at: "2026-11-01T01:54:18Z"
 ---
 ## What it is
 Wraps the Free Dictionary API to provide word definitions, pronunciations, and other dictionary data.

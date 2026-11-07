@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-25T09:58:52Z"
+pushed_at: "2026-11-07T07:33:24Z"
 ---
 ## What it is
 Enables searching Google's Knowledge Graph for real-world entities via two tools: search by query or lookup by Machine ID, returning structured data including entity types, descriptions, and URLs.

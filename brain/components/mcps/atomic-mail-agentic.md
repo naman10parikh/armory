@@ -8,13 +8,13 @@ source_url: https://github.com/Atomic-Mail/atomic-mail-agentic
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 268
+stars: 257
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 64
-pushed_at: "2026-10-31T08:14:41Z"
+forks: 63
+pushed_at: "2026-11-04T10:43:47Z"
 ---
 ## What it is
 Read and write email through the Atomic Mail from an AI agent. Handles proof-of-work authentication and JMAP so the agent thinks in JMAP method calls. Use when the user asks to register an email inbox, list mailboxes, fetch or send email.

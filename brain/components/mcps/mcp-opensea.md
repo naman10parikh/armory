@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T05:27:24Z"
+pushed_at: "2026-11-04T01:52:19Z"
 ---
 ## What it is
 Enables querying NFT marketplace data from OpenSea's v2 API, including fetching individual NFTs by chain, contract, and token ID, and listing NFTs owned by an address.

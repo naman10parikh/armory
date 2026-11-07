@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-26T01:16:48Z"
+pushed_at: "2026-11-05T17:33:40Z"
 ---
 ## What it is
 MCP server `Scraper`, catalogued on PulseMCP. Extracts content from websites through four core tools for HTML scraping, markdown conversion, text extraction, and link discovery with batch processing, caching, proxy support, and CSS selector filtering for reliable web content extraction and research automation.

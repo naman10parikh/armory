@@ -8,12 +8,12 @@ source_url: https://github.com/ganhammar/hass-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 83
+stars: 84
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 23
+forks: 24
 pushed_at: "2026-10-27T14:50:30Z"
 ---
 ## What it is

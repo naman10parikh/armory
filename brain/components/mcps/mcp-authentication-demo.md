@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-11T13:43:59Z"
+pushed_at: "2026-11-05T19:08:04Z"
 ---
 ## What it is
 A template for building MCP servers with optional per-tool authentication using WorkOS AuthKit and Vercel MCP adapter.

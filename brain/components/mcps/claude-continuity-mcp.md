@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-25T05:47:39Z"
+pushed_at: "2026-11-04T00:13:54Z"
 ---
 ## What it is
 Persistent, shared memory for Claude across sessions and clients (Code, Desktop, Cowork) — deterministic diff reads, checkpoints, cross-client task handoff, and project-wide search. 100% local and deterministic, no API keys, no LLM summarization.

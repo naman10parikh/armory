@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T07:19:31Z"
+pushed_at: "2026-11-06T20:58:32Z"
 ---
 ## What it is
 Enables querying Yu-Gi-Oh! TCG card data, such as card information, sets, and prices, through natural language.

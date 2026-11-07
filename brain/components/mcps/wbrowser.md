@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-12T12:45:09Z"
+pushed_at: "2026-11-07T05:41:20Z"
 ---
 ## What it is
 Enables AI assistants and terminals to control a user's already logged-in Chrome session, allowing them to navigate pages, read content, click and type, run JavaScript, and inspect console or network activity.

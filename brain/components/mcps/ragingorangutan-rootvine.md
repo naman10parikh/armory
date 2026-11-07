@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-31T09:38:06Z"
+pushed_at: "2026-11-04T17:30:15Z"
 ---
 ## What it is
 MCP server `Rootvine`, catalogued on PulseMCP. Cross-platform music link resolution for AI agents, returning ranked streaming and purchase links from Spotify, Apple Music, Amazon, YouTube, and 15+ other services.

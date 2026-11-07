@@ -8,13 +8,13 @@ source_url: https://github.com/cybersora9/pycodemath
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-31T00:38:40Z"
+pushed_at: "2026-11-04T16:42:48Z"
 ---
 ## What it is
 Provides a token-efficient exact math engine for AI agents, enabling computation of derivatives, integrals, equations, and optimized Python/NumPy code via a single MCP tool.

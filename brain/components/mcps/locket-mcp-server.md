@@ -8,12 +8,12 @@ source_url: https://github.com/laravel/locket
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 86
+stars: 87
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 16
+forks: 17
 pushed_at: "2026-10-30T19:58:34Z"
 ---
 ## What it is

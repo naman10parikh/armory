@@ -8,12 +8,12 @@ source_url: https://github.com/tekthar/abp-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-31T00:55:41Z"
+pushed_at: "2026-11-06T22:16:22Z"
 ---
 ## What it is
 MCP server `ABP Framework`, catalogued on PulseMCP. Auto-generate MCP tools from ABP Framework application services with permission and multi-tenant support.

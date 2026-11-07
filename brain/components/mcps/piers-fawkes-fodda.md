@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-30T17:31:28Z"
+pushed_at: "2026-11-06T22:23:52Z"
 ---
 ## What it is
 MCP server `Fodda`, catalogued on PulseMCP. Expert-curated knowledge graphs for retail, beauty, and sports.

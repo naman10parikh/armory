@@ -1,0 +1,7 @@
+{
+  "name": "summiz",
+  "description": "Find videos and podcasts in the Summiz catalog with concise keyword searches. Skim key insights with Quick Takes, then dive deeper with full summaries and complete transcripts. Create summaries for YouTube videos that aren’t yet covered.",
+  "source_repo": "",
+  "source_url": "https://summiz.ai/mcp",
+  "install": "# git clone --depth 1 https://summiz.ai/mcp\n# See source for mcpServers config block"
+}

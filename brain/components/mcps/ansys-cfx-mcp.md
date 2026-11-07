@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-29T10:47:21Z"
+pushed_at: "2026-11-05T10:26:44Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to interact with Ansys CFX through PyCFX, supporting natural-language-assisted CFX-Pre, CFX Solver, and CFD-Post workflows for setup, execution, and postprocessing.

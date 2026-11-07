@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T22:05:30Z"
+pushed_at: "2026-11-07T12:01:28Z"
 ---
 ## What it is
 MCP server for Canvas LMS enabling parent observers and students to access courses, assignments, grades, and more. Supports multiple authentication methods including token, OAuth, and a convenient fetchproxy fallback.

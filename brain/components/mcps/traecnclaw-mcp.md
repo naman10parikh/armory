@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-25T04:59:54Z"
+forks: 1
+pushed_at: "2026-11-07T09:51:57Z"
 ---
 ## What it is
 Control TraeCN desktop automation through explicit, profile-scoped MCP tools. Supports task delegation, model control, dialog handling, code review, and unattended workflows.

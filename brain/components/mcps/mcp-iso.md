@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T04:20:20Z"
+pushed_at: "2026-11-02T02:58:13Z"
 ---
 ## What it is
 Enables looking up ISO standards (e.g., 27001, 9001) with live status, pricing, compliance catalogue, and ISO Open Data file pointers.

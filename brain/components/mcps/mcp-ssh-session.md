@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T05:03:41Z"
+pushed_at: "2026-11-07T12:41:06Z"
 ---
 ## What it is
 An MCP server that enables AI agents to establish and manage persistent SSH sessions with smart command execution, async support, and file operations.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T07:15:13Z"
+pushed_at: "2026-11-05T17:29:23Z"
 ---
 ## What it is
 Provides Clockchain's verified-time primitives, notarization, smart-contract scheduling, audit trails, and agent identity verification to any MCP client.

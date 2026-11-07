@@ -8,14 +8,14 @@ source_url: https://github.com/bluesky-social/atproto
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 9710
+stars: 9720
 eval_score: null
 mentions: 2
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 939
-pushed_at: "2026-10-31T13:26:40Z"
+forks: 941
+pushed_at: "2026-11-07T12:42:32Z"
 ---
 ## What it is
 Social networking technology created by Bluesky

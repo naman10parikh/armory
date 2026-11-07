@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-18T12:33:51Z"
+pushed_at: "2026-11-06T22:57:20Z"
 ---
 ## What it is
 Enables managing Sliplane deployments, projects, and application status through natural language, with OAuth or API key auth.

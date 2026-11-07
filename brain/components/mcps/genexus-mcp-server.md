@@ -8,13 +8,13 @@ source_url: https://github.com/lennix1337/Genexus18MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 40
+stars: 42
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 27
-pushed_at: "2026-10-30T19:23:14Z"
+forks: 28
+pushed_at: "2026-11-07T10:42:12Z"
 ---
 ## What it is
 Lets AI agents read, edit, analyze, and refactor objects inside a GeneXus 18 Knowledge Base via the native SDK.

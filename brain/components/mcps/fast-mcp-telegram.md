@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 17
-pushed_at: "2026-10-20T13:30:20Z"
+forks: 18
+pushed_at: "2026-11-02T13:20:11Z"
 ---
 ## What it is
 Fast MCP Telegram — Production-grade Telegram MCP server with direct MTProto API, multi-user ACL, dual transport (stdio + HTTP SSE), voice transcription, and context-optimized design. One-command setup with uvx fast-mcp-telegram

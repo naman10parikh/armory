@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T03:14:33Z"
+pushed_at: "2026-11-01T20:52:47Z"
 ---
 ## What it is
 Enables querying patent data from the European Patent Office, including bibliographic info, patent families, abstracts, and claims.

@@ -8,14 +8,14 @@ source_url: https://github.com/ComposioHQ/composio
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 30840
+stars: 30959
 eval_score: null
 mentions: 12
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 4912
-pushed_at: "2026-10-31T12:39:49Z"
+forks: 4930
+pushed_at: "2026-11-07T12:23:00Z"
 ---
 ## What it is
 Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.

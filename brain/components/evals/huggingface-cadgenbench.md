@@ -8,13 +8,13 @@ source_url: https://github.com/huggingface/cadgenbench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 149
+stars: 152
 eval_score: 0
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, evals]
-forks: 13
+forks: 14
 pushed_at: "2026-10-22T13:59:49Z"
 ---
 ## What it is

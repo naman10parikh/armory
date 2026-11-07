@@ -8,13 +8,13 @@ source_url: https://github.com/Anakior/atlas-mind
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T08:36:29Z"
+pushed_at: "2026-11-05T14:17:49Z"
 ---
 ## What it is
 Atlas Mind MCP server exposes 24 tools to read, write, triage, map, rewind, and audit a knowledge base stored as plain files in a git repository, enabling AI assistants to act as an external brain.

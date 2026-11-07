@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-18T15:20:38Z"
+pushed_at: "2026-11-05T19:10:10Z"
 ---
 ## What it is
 Enables natural language analysis of ArduPilot flight logs (.bin files) via AI chat apps like Claude Desktop, Cursor, and VS Code, providing explanations and answering questions about flight issues.

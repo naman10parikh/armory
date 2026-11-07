@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 16
-pushed_at: "2026-10-21T17:36:45Z"
+pushed_at: "2026-11-04T01:06:47Z"
 ---
 ## What it is
 Enables you to interact with your Fivetran environment through natural language, supporting read-only queries about connections and syncs, and write operations like updating sync frequency when enabled.

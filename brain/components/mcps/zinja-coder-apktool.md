@@ -8,11 +8,11 @@ source_url: https://github.com/zinja-coder/apktool-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 699
+stars: 709
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 75
+forks: 76
 pushed_at: "2026-07-02T14:20:56Z"
 ---
 ## What it is

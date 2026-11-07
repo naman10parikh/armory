@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-20T14:39:39Z"
+pushed_at: "2026-11-04T17:04:33Z"
 ---
 ## What it is
 An MCP server exposing every documented Email on Acid API v5 request as a tool — 24 tools across authentication, email client lists, email rendering testing, and spam testing.

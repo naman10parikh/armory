@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-30T09:54:23Z"
+pushed_at: "2026-11-07T00:11:40Z"
 ---
 ## What it is
 Enables Claude to size batteries, wire gauges, and fuses for 12V-48V electrical systems in boats, vans, and off-grid builds, and generates complete wiring diagrams as SVG or PNG.

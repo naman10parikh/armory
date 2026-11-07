@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-25T14:25:56Z"
+pushed_at: "2026-10-31T22:39:09Z"
 ---
 ## What it is
 Persistent knowledge base tools for Claude Code that store project context, decisions, and patterns locally across sessions, eliminating cold starts.

@@ -8,11 +8,11 @@ source_url: https://github.com/catlog22/maestro-flow
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 571
+stars: 574
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 71
+forks: 72
 pushed_at: "2026-10-26T15:30:14Z"
 ---
 ## What it is

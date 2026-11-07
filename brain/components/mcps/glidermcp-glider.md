@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-29T16:43:01Z"
+pushed_at: "2026-11-05T11:07:07Z"
 ---
 ## What it is
 MCP server `Glider`, catalogued on PulseMCP. Provides Roslyn-powered C# code analysis capabilities including solution management, diagnostics, symbol search, refactoring, and dependency analysis.

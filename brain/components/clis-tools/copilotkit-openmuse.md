@@ -8,14 +8,14 @@ source_url: https://github.com/CopilotKit/openmuse
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 6016
+stars: 6288
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 863
-pushed_at: "2026-10-28T17:00:53Z"
+forks: 920
+pushed_at: "2026-11-07T05:15:03Z"
 ---
 ## What it is
 A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T23:20:55Z"
+pushed_at: "2026-11-04T16:24:42Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for agentic retrieval of financial data from Yahoo Finance, enabling stock information, historical data, analyst data, and more.

@@ -8,13 +8,13 @@ source_url: https://github.com/finimpulse/mcp-server-typescript
 license: ISC License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-25T13:43:58Z"
+pushed_at: "2026-11-05T15:31:28Z"
 ---
 ## What it is
 Provides structured financial market data (stocks, ETFs, mutual funds, fundamentals, market indicators) to AI systems via MCP, enabling natural language access to financial datasets with both hosted and local deployment options.

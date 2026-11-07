@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T23:05:45Z"
+pushed_at: "2026-11-04T19:46:27Z"
 ---
 ## What it is
 An MCP server that converts structured data (JSON, CSV, YAML, XML, etc.) to TOON format only when it saves tokens, with tools for conversion and analysis.

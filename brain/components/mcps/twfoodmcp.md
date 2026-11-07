@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T09:25:18Z"
+pushed_at: "2026-11-03T02:35:15Z"
 ---
 ## What it is
 Provides access to Taiwan packaged food and chain restaurant nutritional information, including search, nutrition calculation, and draft creation for new data.

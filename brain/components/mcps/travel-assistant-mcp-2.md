@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-20T04:47:49Z"
+pushed_at: "2026-11-07T12:18:05Z"
 ---
 ## What it is
 AI-native travel search MCP with affiliate booking links and optional x402 premium intelligence.

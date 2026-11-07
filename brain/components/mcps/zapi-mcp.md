@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T08:23:26Z"
+pushed_at: "2026-11-03T09:33:27Z"
 ---
 ## What it is
 MCP server for the Zabbix API that provides a daily_brief summary of active problems and category-specific metrics, along with tools to query problems, hosts, and item values.

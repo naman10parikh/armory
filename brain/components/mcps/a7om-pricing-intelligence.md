@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-26T09:14:42Z"
+pushed_at: "2026-11-02T16:09:24Z"
 ---
 ## What it is
 MCP server `ATOM Pricing Intelligence`, catalogued on PulseMCP. Global price benchmarking for AI inference across vendors, SKUs, and price indexes.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-10-29T16:19:53Z"
+pushed_at: "2026-11-02T17:14:51Z"
 ---
 ## What it is
 Persistent memory for AI agents with semantic memory, belief tracking, and dream consolidation, enabling cross-session knowledge retention.

@@ -12,8 +12,8 @@ stars: 82
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-10-31T01:22:48Z"
+forks: 7
+pushed_at: "2026-11-06T14:09:01Z"
 ---
 ## What it is
 MCP server `Krusch Context`, catalogued on PulseMCP. Gives IDE agents semantic codebase search, episodic project memory, and steering nuggets across sessions.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, wandb, experiment-tracking, scoring]
-forks: 182
-pushed_at: "2026-10-31T00:17:46Z"
+forks: 184
+pushed_at: "2026-11-07T03:04:54Z"
 mentions: 3
 ---
 ## What it is

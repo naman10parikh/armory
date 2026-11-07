@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-28T07:05:45Z"
+pushed_at: "2026-11-06T17:49:10Z"
 ---
 ## What it is
 Exposes MSPbots Agent Platform connector inventory to MCP clients, listing connectors with installation and connection status. Supports per-request header authentication over Streamable HTTP/SSE.

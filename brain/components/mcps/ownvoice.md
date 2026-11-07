@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T09:54:27Z"
+pushed_at: "2026-11-03T22:03:43Z"
 ---
 ## What it is
 MCP server wrapping the ownvoice CLI as a single generic run tool for voice/identity checks.

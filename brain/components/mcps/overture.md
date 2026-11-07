@@ -8,12 +8,12 @@ source_url: https://github.com/SixHq/Overture
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 641
+stars: 640
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 63
+forks: 64
 pushed_at: "2026-03-08T01:51:05Z"
 ---
 ## What it is

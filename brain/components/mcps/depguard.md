@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T10:23:10Z"
+pushed_at: "2026-11-07T11:03:00Z"
 ---
 ## What it is
 DepGuard is an MCP server for real-time dependency safety checks, verifying packages against vulnerability databases, deprecation metadata, and a local cache.

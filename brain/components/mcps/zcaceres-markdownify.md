@@ -8,12 +8,12 @@ source_url: https://github.com/zcaceres/markdownify-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2998
+stars: 3003
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 255
-pushed_at: "2026-10-26T05:51:27Z"
+forks: 254
+pushed_at: "2026-11-05T16:38:25Z"
 ---
 ## What it is
 MCP server `Markdownify`, catalogued on PulseMCP. Converts diverse file types and web content to Markdown format using specialized tools for PDFs, images, audio, web pages, and more.

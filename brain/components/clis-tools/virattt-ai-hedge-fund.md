@@ -8,14 +8,14 @@ source_url: https://github.com/virattt/ai-hedge-fund
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 64387
+stars: 64528
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 11305
-pushed_at: "2026-10-30T18:02:58Z"
+forks: 11338
+pushed_at: "2026-11-03T20:19:06Z"
 ---
 ## What it is
 An AI Hedge Fund Team

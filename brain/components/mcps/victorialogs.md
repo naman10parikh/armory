@@ -8,12 +8,12 @@ source_url: https://github.com/victoriametrics/mcp-victorialogs
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 106
+stars: 110
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 31
-pushed_at: "2026-10-28T17:24:42Z"
+pushed_at: "2026-11-04T17:23:15Z"
 ---
 ## What it is
 MCP server `VictoriaLogs`, catalogued on PulseMCP. Provides a bridge between VictoriaLogs and language models for querying and analyzing log data, enabling DevOps teams to troubleshoot issues and extract insights without writing complex query syntax.

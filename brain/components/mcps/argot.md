@@ -8,13 +8,13 @@ source_url: https://github.com/get-tmonier/argot
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 51
+stars: 50
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-01T19:21:05Z"
+pushed_at: "2026-11-02T02:22:36Z"
 ---
 ## What it is
 A local guardrail MCP server that checks agent-written code against a repo's own patterns — learned statistically from its git history, no LLM.

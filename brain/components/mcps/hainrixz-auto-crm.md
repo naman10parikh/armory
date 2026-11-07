@@ -8,11 +8,11 @@ source_url: https://github.com/hainrixz/auto-crm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 82
+stars: 84
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 30
+forks: 31
 pushed_at: "2026-10-25T06:03:06Z"
 ---
 ## What it is

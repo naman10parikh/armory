@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-31T06:26:23Z"
+pushed_at: "2026-11-07T06:27:04Z"
 ---
 ## What it is
 Local-first, file-based memory layer for AI agents — one shared Markdown vault across Claude, Codex, Gemini, Cursor and any MCP client. Provides read/write memory tools with an audit trail, per-agent trust levels, and Git sync; no cloud and no lock-in.

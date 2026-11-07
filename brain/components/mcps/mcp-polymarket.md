@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T05:47:17Z"
+pushed_at: "2026-11-04T20:49:57Z"
 ---
 ## What it is
 Provides access to Polymarket prediction-market data via Gamma and CLOB public APIs, enabling AI agents to query market information.

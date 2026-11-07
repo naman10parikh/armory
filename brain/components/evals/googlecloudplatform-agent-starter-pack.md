@@ -8,13 +8,13 @@ source_url: https://github.com/GoogleCloudPlatform/agent-starter-pack
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 6576
+stars: 6571
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, evals]
-forks: 1498
+forks: 1497
 pushed_at: "2026-07-21T23:42:40Z"
 ---
 ## What it is

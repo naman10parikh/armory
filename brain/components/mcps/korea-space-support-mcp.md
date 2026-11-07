@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T13:56:05Z"
+pushed_at: "2026-11-03T11:31:11Z"
 ---
 ## What it is
 AI agents can search and match Korean space, aerospace, and defense R\&D support program announcements. It provides MCP tools to filter by applicant type, deadline, and source family.

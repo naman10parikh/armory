@@ -8,12 +8,12 @@ source_url: https://github.com/cammac-creator/openswissdata
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-31T10:26:10Z"
+pushed_at: "2026-11-07T11:06:47Z"
 ---
 ## What it is
 MCP server `Open Swiss Data`, catalogued on PulseMCP. Swiss federal open data MCP server covering TARES tariffs, FINMA registry, and NOGA codes via 9 specialized tools.

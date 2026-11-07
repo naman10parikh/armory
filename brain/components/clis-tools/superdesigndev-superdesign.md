@@ -8,13 +8,13 @@ source_url: https://github.com/superdesigndev/superdesign
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 7562
+stars: 7593
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 777
+forks: 778
 pushed_at: "2026-06-29T04:55:32Z"
 ---
 ## What it is

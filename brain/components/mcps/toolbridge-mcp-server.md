@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-30T06:10:12Z"
+pushed_at: "2026-11-04T13:39:40Z"
 ---
 ## What it is
 MCP server that bridges AI agents with external tools, APIs, databases, and services, enabling standardized tool execution and resource access.

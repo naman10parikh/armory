@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-06-22T23:14:06Z"
+pushed_at: "2026-11-05T18:31:03Z"
 ---
 ## What it is
 MCP server `Video URL Analyzer`, catalogued on PulseMCP. Analyzes YouTube, TikTok, and Instagram videos through Gemini-powered transcription, content analysis, Q&A, and tutorial step extraction.

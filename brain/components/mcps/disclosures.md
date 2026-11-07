@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T03:47:17Z"
+pushed_at: "2026-11-05T17:22:01Z"
 ---
 ## What it is
 Enables corporate disclosure research through official SEC EDGAR and GLEIF sources, providing tools for company resolution, filings, insiders, ownership, financials, and private raises via natural language.

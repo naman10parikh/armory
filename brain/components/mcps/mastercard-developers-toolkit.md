@@ -8,11 +8,11 @@ source_url: https://github.com/mastercard/developers-agent-toolkit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 57
+stars: 59
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 37
+forks: 38
 pushed_at: "2026-10-01T00:52:36Z"
 ---
 ## What it is

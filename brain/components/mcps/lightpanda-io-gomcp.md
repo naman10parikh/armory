@@ -11,8 +11,8 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
-stars: 66
-forks: 14
+stars: 68
+forks: 13
 pushed_at: "2026-03-13T18:05:45Z"
 ---
 ## What it is

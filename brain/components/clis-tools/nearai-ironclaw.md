@@ -8,14 +8,14 @@ source_url: https://github.com/nearai/ironclaw
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 12700
+stars: 12714
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 1488
-pushed_at: "2026-10-30T06:42:48Z"
+pushed_at: "2026-11-04T10:34:59Z"
 ---
 ## What it is
 IronClaw is an Agent OS focused on privacy, security and extensibility

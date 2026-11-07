@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T09:04:57Z"
+pushed_at: "2026-11-04T09:37:44Z"
 ---
 ## What it is
 Enables read/write access to Google Tasks, including listing, searching, creating, updating, deleting, and clearing tasks, from any MCP-compatible client.

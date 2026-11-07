@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-30T09:33:19Z"
+pushed_at: "2026-11-01T04:55:45Z"
 ---
 ## What it is
 Query OSV.dev for package vulnerabilities, batch-audit dependency lists, and fetch full advisory records via MCP.

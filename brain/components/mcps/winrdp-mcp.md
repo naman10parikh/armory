@@ -8,13 +8,13 @@ source_url: https://github.com/emog33k/winrdp-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-14T06:56:19Z"
+pushed_at: "2026-11-07T08:52:06Z"
 ---
 ## What it is
 A zero-config MCP server that provisions and fully administers Windows RDP boxes (Windows 10/11 and Server 2016–2025), exposing 144 tools for shell, files, registry, GUI automation, UAC elevation, health reports, and more, plus guided workflows.

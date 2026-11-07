@@ -8,13 +8,13 @@ source_url: https://github.com/covariance-network/productclank-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T08:23:35Z"
+pushed_at: "2026-11-03T18:10:35Z"
 ---
 ## What it is
 Enables AI assistants to launch community growth campaigns, boost posts with real engagement, and manage content campaigns via ProductClank, with OAuth and credit-based billing.

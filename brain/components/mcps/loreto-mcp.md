@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-08T17:48:11Z"
+pushed_at: "2026-11-06T18:24:39Z"
 ---
 ## What it is
 Turn any YouTube video, article, PDF, or image into a reusable Claude Code skill — without leaving your editor.

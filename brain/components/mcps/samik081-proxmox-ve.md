@@ -8,11 +8,11 @@ source_url: https://github.com/samik081/mcp-pve
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 6
 pushed_at: "2026-09-29T19:41:03Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/lucasmella-stack/misMEM
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-30T22:59:56Z"
+pushed_at: "2026-11-02T07:16:19Z"
 ---
 ## What it is
 Provides persistent, cooperative memory for LLMs via MCP, with SQLite storage and tools for capturing, recalling, consolidating, crystallizing, and forgetting memories across sessions.
