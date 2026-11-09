@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-16T15:22:01Z"
+pushed_at: "2026-11-06T15:49:49Z"
 ---
 ## What it is
 Enables AI agents to inspect, plan, download, and postprocess media from YouTube and other sites using yt-dlp, with safety and full option support.

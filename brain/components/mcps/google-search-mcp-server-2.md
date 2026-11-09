@@ -8,7 +8,7 @@ source_url: https://github.com/web-agent-master/google-search
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 625
+stars: 626
 eval_score: null
 verified_at: 2026-05-27
 related: []

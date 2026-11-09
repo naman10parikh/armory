@@ -8,13 +8,13 @@ source_url: https://github.com/RobThePCGuy/rag-vault
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T06:36:45Z"
+pushed_at: "2026-11-09T06:37:00Z"
 ---
 ## What it is
 RAG Vault lets your AI coding assistant search your private documents locally. Everything runs on your machine and your data stays private.

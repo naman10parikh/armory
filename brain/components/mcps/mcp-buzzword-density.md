@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T22:09:48Z"
+pushed_at: "2026-11-09T13:37:52Z"
 ---
 ## What it is
 Analyzes text for overused industry jargon, returning buzzword count, density score, severity level, and flagged terms. Optionally provides humorous critique in roast mode.

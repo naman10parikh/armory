@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 16
-pushed_at: "2026-10-22T16:53:58Z"
+forks: 17
+pushed_at: "2026-11-05T16:54:19Z"
 ---
 ## What it is
 Manages FreeScout helpdesk tickets by fetching, analyzing, and updating tickets, drafting replies, and searching with advanced filters via the Model Context Protocol.

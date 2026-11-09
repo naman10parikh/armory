@@ -8,13 +8,13 @@ source_url: https://github.com/latent-spaces/brag
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 20015
+stars: 20826
 eval_score: null
 mentions: 3
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1552
+forks: 1615
 pushed_at: "2026-10-23T21:18:13Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/alex-feel/mcp-context-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-11-01T14:25:05Z"
+pushed_at: "2026-11-08T14:48:26Z"
 ---
 ## What it is
 MCP server `Context Storage`, catalogued on PulseMCP. Persistent multimodal context storage with database backends

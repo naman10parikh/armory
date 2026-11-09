@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T04:34:48Z"
+pushed_at: "2026-11-09T14:15:00Z"
 ---
 ## What it is
 Enables querying HM Land Registry Price Paid Data (UK) through natural language, providing access to property transaction records.

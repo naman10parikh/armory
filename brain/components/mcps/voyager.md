@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-20T21:09:15Z"
+pushed_at: "2026-11-08T17:20:20Z"
 ---
 ## What it is
 An MCP server that enables coding agents to safely verify npm/PyPI packages, retrieve cited briefs, discover GitHub repos, and fetch canonical docs, with fail-closed OSV vulnerability checks and injection-hardened output.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T09:24:48Z"
+pushed_at: "2026-11-02T17:49:22Z"
 ---
 ## What it is
 Stateless URL, DNS, x402, JWT, encoding, and parsing tools for AI agents.

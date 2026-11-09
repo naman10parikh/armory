@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 41
-pushed_at: "2026-03-26T13:57:09Z"
+pushed_at: "2026-11-06T20:26:32Z"
 ---
 ## What it is
 MCP server `BigQuery`, catalogued on PulseMCP. Inspect schemas and execute SQL queries on Google BigQuery.

@@ -8,13 +8,13 @@ source_url: https://github.com/AgriciDaniel/claude-ads
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 10673
+stars: 10883
 eval_score: null
 mentions: 3
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 1551
+forks: 1577
 pushed_at: "2026-11-01T21:08:14Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/RosenAdvertising/smokeball-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T23:35:24Z"
+pushed_at: "2026-11-08T23:33:11Z"
 ---
 ## What it is
 MCP server providing full Smokeball API coverage for law firm practice management, enabling natural language interactions with matters, contacts, tasks, billing, and more via Claude Desktop.

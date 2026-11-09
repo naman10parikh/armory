@@ -8,12 +8,12 @@ source_url: https://github.com/devinosolutions/stealth-chrome-devtools-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
-pushed_at: "2026-11-02T16:17:59Z"
+forks: 5
+pushed_at: "2026-11-09T14:49:38Z"
 ---
 ## What it is
 MCP server `Stealth Chrome DevTools`, catalogued on PulseMCP. Controls Chrome via DevTools with a master/copy profile strategy for session isolation and deterministic browser automation.

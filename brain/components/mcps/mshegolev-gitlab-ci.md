@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-29T21:07:34Z"
+pushed_at: "2026-11-03T12:56:31Z"
 ---
 ## What it is
 MCP server `GitLab CI`, catalogued on PulseMCP. Manage GitLab CI/CD pipelines, schedules, merge requests, and repository files via the GitLab API.

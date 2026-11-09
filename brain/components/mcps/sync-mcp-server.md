@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-31T01:45:56Z"
+pushed_at: "2026-11-09T14:01:57Z"
 ---
 ## What it is
 Enables AI agents to create lipsync videos, manage assets, and check generation status via the Sync API.

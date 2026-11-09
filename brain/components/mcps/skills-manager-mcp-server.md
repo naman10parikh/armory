@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-11-02T06:42:45Z"
+pushed_at: "2026-11-09T06:43:37Z"
 ---
 ## What it is
 A visual web interface and MCP server for managing Claude MCP Skills, enabling users to create, edit, browse, and load skill sets through a browser UI or directly from Claude Desktop.

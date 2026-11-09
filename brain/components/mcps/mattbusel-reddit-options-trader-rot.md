@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
-stars: 13
+stars: 14
 forks: 8
-pushed_at: "2026-10-15T07:45:59Z"
+pushed_at: "2026-11-08T03:42:43Z"
 ---
 ## What it is
 The first financial intelligence MCP server. Live AI-scored trading signals from Reddit, SEC filings, FDA approvals, Congressional trades, and 15+ sources. 7 tools, 2 resources, hosted remotely, free, no API key required.

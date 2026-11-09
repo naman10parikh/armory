@@ -8,13 +8,13 @@ source_url: https://github.com/thu-nics/C2C
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 767
+stars: 771
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 96
+forks: 98
 pushed_at: "2026-10-28T05:01:09Z"
 ---
 ## What it is

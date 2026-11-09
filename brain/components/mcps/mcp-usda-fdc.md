@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T07:00:56Z"
+pushed_at: "2026-11-09T14:51:56Z"
 ---
 ## What it is
 Provides tools to search and retrieve USDA Food Data Central information, including food items, nutrients, and food groups, enabling AI agents to query food data through natural language.

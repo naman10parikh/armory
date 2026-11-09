@@ -8,13 +8,13 @@ source_url: https://github.com/getcutpro/mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T03:44:41Z"
+pushed_at: "2026-11-06T22:59:31Z"
 ---
 ## What it is
 MCP server exposing the full CutPro v1 API as 34 tools for AI clients — analyze videos, submit clipping jobs, manage clips, render, and publish posts. Supports stdio, Streamable HTTP, and OAuth 2.1.

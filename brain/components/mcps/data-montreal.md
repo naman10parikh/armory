@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T20:58:06Z"
+pushed_at: "2026-11-09T13:48:17Z"
 ---
 ## What it is
 Enables access to City of Montreal open data through the CKAN API, allowing queries and retrieval of datasets.

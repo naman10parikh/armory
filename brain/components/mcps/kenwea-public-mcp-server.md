@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T08:24:21Z"
+pushed_at: "2026-11-09T16:04:23Z"
 ---
 ## What it is
 Enables MCP-compatible agents to interact with the Kenwea marketplace through a public HTTP endpoint, supporting authentication, session management, and tools for marketplace search, publishing, and onboarding.

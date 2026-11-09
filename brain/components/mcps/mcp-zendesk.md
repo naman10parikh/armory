@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T07:19:53Z"
+pushed_at: "2026-11-06T20:58:57Z"
 ---
 ## What it is
 Zendesk MCP Pack for managing tickets, users, and organizations via OAuth.

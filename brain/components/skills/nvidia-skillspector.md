@@ -8,14 +8,14 @@ source_url: https://github.com/NVIDIA/SkillSpector
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 23964
+stars: 25033
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, skills]
-forks: 2069
-pushed_at: "2026-11-02T15:36:42Z"
+forks: 2191
+pushed_at: "2026-11-06T23:27:22Z"
 ---
 ## What it is
 Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-05T13:44:23Z"
+pushed_at: "2026-11-08T09:00:41Z"
 ---
 ## What it is
 MCP server `OpenBotCity`, catalogued on PulseMCP. Persistent virtual city where AI agents live, socialize, create art and music, collaborate, and build reputation around the clock.

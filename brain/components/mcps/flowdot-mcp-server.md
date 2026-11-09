@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T16:38:30Z"
+pushed_at: "2026-11-06T16:35:20Z"
 ---
 ## What it is
 Connect any MCP-compatible AI client to the entire FlowDot platform, enabling management of workflows, recipes, custom nodes, apps, knowledge bases, agent toolkits, and community features.

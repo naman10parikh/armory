@@ -8,13 +8,13 @@ source_url: https://github.com/complynx/ff-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T06:23:10Z"
+pushed_at: "2026-11-09T06:25:03Z"
 ---
 ## What it is
 MCP server that gives local clients controlled access to a Firefox profile, enabling tab listing, reading, interaction, scripting, and screenshots with granular, revocable permissions.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-24T17:53:31Z"
+pushed_at: "2026-11-06T19:01:26Z"
 ---
 ## What it is
 Enables natural language interaction with the WeFact invoicing platform, allowing users to manage debtors, invoices, products, subscriptions, and perform various administrative tasks via MCP-compatible clients.

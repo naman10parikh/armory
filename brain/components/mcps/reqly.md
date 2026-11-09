@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T15:19:16Z"
+pushed_at: "2026-11-09T15:46:57Z"
 ---
 ## What it is
 API client with an MCP server. Your agent builds collections from your codebase, runs requests, writes e2e flows, and exports them to GitHub Actions CI automatically. Category: Developer Tools

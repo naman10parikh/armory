@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-02T16:51:05Z"
+pushed_at: "2026-11-09T16:54:55Z"
 ---
 ## What it is
 An MCP server + CLI that reads live on-chain data from Aerodrome Finance (Base) to rank pools by veAERO vote efficiency, and recommends a vote allocation that accounts for self-dilution.

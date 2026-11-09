@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-28T21:00:41Z"
+pushed_at: "2026-11-04T18:02:55Z"
 ---
 ## What it is
 MCP server `Duplicacy`, catalogued on PulseMCP. Monitor Duplicacy backup status and Prometheus metrics via MCP.

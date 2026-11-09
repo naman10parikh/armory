@@ -8,12 +8,12 @@ source_url: https://github.com/nduckmink/arkon
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1517
+stars: 1522
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 305
+forks: 306
 pushed_at: "2026-06-03T18:41:48Z"
 ---
 ## What it is

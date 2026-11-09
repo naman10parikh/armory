@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T20:58:58Z"
+pushed_at: "2026-11-09T14:32:10Z"
 ---
 ## What it is
 Generates formatted performance review documents by providing employee details, review period, accomplishments, and improvement areas.

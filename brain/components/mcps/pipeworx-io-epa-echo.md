@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-01T20:52:07Z"
+pushed_at: "2026-11-09T13:56:40Z"
 ---
 ## What it is
 MCP server `EPA ECHO`, catalogued on PulseMCP. EPA ECHO enforcement and compliance data via the EPA ECHO Web Services API, free with no authentication.

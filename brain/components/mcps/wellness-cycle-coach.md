@@ -8,13 +8,13 @@ source_url: https://github.com/davidmosiah/wellness-cycle-coach
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-02T15:43:32Z"
+pushed_at: "2026-11-05T16:38:24Z"
 ---
 ## What it is
 Local-first cycle coach MCP for phase-aware nutrition and training context.

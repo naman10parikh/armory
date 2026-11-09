@@ -8,13 +8,13 @@ source_url: https://github.com/DojoCodingLabs/hacienda-cr
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 26
+stars: 38
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
-pushed_at: "2026-11-02T08:25:01Z"
+forks: 13
+pushed_at: "2026-11-09T16:49:19Z"
 ---
 ## What it is
 MCP server that enables AI assistants to issue electronic invoices (facturas electrónicas) in Costa Rica through the Hacienda API v4.4.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T14:06:31Z"
+pushed_at: "2026-11-08T13:44:50Z"
 ---
 ## What it is
 Enables exploring a small map, battling and catching real-named Pokémon via MCP tools. Players start with a starter and collect species, with progression and evolution.

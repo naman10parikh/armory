@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-27T14:50:44Z"
+pushed_at: "2026-11-07T15:07:32Z"
 ---
 ## What it is
 MCP server for IBM Concert Operate that exposes the full v2 REST API as callable tools, enabling AI assistants to manage alerts, incidents, policies, runbooks, and more.

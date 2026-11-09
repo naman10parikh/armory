@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-14T13:36:53Z"
+pushed_at: "2026-11-08T20:34:29Z"
 ---
 ## What it is
 A millisecond-precision MCP timer server that lets you start, stop, and split timers via natural language, with a live dashboard, personal bests, and race mode.

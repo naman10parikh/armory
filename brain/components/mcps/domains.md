@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-01T01:58:16Z"
+pushed_at: "2026-11-09T13:53:32Z"
 ---
 ## What it is
 MCP server `Domains`, catalogued on PulseMCP. Searches domain registration data and zone information via the Domainsdb.info API, with no authentication required.

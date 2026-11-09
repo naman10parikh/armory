@@ -8,13 +8,13 @@ source_url: https://github.com/RezaSoleymanifar/vintage
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T16:15:05Z"
+pushed_at: "2026-11-09T16:37:56Z"
 ---
 ## What it is
 Provides point-in-time financial data access and an honest backtesting engine via MCP, enabling users to research restated fundamentals, run backtests with deflated Sharpe metrics, and benchmark returns against published factors.

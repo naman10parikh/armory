@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T01:45:58Z"
+pushed_at: "2026-11-09T11:09:31Z"
 ---
 ## What it is
 An MCP server that enables AI agents to browse, create, edit, and script in OVERDARE Studio, and to run playtests.

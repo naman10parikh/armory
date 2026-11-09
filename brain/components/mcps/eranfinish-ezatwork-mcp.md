@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T13:50:59Z"
+pushed_at: "2026-11-04T15:18:29Z"
 ---
 ## What it is
 MCP server for EZ@Work — manage clients, projects, time entries, and invoices from Claude through natural conversation. OAuth 2.1 with Google sign-in, multi-currency support.

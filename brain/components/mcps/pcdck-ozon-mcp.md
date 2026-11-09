@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, e-commerce]
 stars: 25
-forks: 7
+forks: 8
 pushed_at: "2026-04-17T13:43:23Z"
 ---
 ## What it is

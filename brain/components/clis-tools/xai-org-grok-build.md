@@ -8,13 +8,13 @@ source_url: https://github.com/xai-org/grok-build
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 27660
+stars: 27735
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, cli]
-forks: 5231
+forks: 5245
 pushed_at: "2026-09-29T16:57:13Z"
 ---
 ## What it is

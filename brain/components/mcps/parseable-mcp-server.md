@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T10:50:46Z"
+pushed_at: "2026-11-06T05:09:50Z"
 ---
 ## What it is
 Model Context Protocol server for Parseable that lets MCP-capable clients discover, query, and manage Parseable datasets and alerts using natural language. Supports both stdio and HTTP transports.

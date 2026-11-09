@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-29T06:05:13Z"
+pushed_at: "2026-11-09T14:38:32Z"
 ---
 ## What it is
 MCP server `RxNorm`, catalogued on PulseMCP. Pharmaceutical drug name normalization and medication data via the NLM RxNav REST API, free with no authentication.

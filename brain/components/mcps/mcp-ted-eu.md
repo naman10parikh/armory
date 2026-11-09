@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T06:36:00Z"
+pushed_at: "2026-11-09T14:46:11Z"
 ---
 ## What it is
 Retrieves Tenders Electronic Daily (EU public procurement) notices by publication number.

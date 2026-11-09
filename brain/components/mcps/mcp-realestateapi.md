@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T05:57:32Z"
+pushed_at: "2026-11-09T14:36:27Z"
 ---
 ## What it is
 Enables property search, detail, and skip-trace using the RealEstateAPI.com service.

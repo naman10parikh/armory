@@ -8,12 +8,12 @@ source_url: https://github.com/makingchatbots/genesys-cloud-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 36
+stars: 37
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-09-08T22:42:55Z"
+pushed_at: "2026-11-04T23:09:12Z"
 ---
 ## What it is
 MCP server `Genesys Cloud`, catalogued on PulseMCP. Provides a bridge between contact center analytics and routing data in Genesys Cloud, enabling conversational business intelligence through queue searches, conversation volume queries, call sampling, and voice quality metrics analysis.

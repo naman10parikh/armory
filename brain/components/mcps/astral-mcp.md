@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-01T12:20:44Z"
+pushed_at: "2026-11-05T12:16:36Z"
 ---
 ## What it is
 Precision-audited astrology MCP for natal charts, transits, synastry and moon phases. No API key.

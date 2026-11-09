@@ -8,13 +8,13 @@ source_url: https://github.com/sysangel/brain-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-14T04:07:56Z"
+pushed_at: "2026-11-03T18:37:51Z"
 ---
 ## What it is
 A personal memory engine and MCP server that stores durable facts in markdown files managed via git, enabling hybrid search (lexical + semantic) through an MCP interface for persistent context across LLM sessions.

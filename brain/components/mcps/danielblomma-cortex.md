@@ -8,11 +8,11 @@ source_url: https://github.com/danielblomma/cortex
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
+forks: 3
 pushed_at: "2026-09-11T13:56:58Z"
 ---
 ## What it is

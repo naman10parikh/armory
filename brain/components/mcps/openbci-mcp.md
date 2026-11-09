@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T02:42:32Z"
+pushed_at: "2026-11-09T03:06:11Z"
 ---
 ## What it is
 MCP server for OpenBCI hardware via BrainFlow, enabling board connection, streaming, signal processing, and export with a web dashboard.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T20:54:51Z"
+pushed_at: "2026-11-09T13:57:25Z"
 ---
 ## What it is
 Provides multichain block-explorer data from Etherscan via MCP tools for token balances, contract ABI, and source code.

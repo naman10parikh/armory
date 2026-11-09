@@ -8,12 +8,12 @@ source_url: https://github.com/nrwl/nx-console
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1413
+stars: 1415
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 244
-pushed_at: "2026-11-02T16:20:00Z"
+forks: 246
+pushed_at: "2026-11-09T15:04:12Z"
 ---
 ## What it is
 MCP server `Nx Console`, catalogued on PulseMCP. Exposes monorepo workspace architecture, generators, tasks, and documentation to language models

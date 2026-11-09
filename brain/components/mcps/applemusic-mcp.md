@@ -8,13 +8,13 @@ source_url: https://github.com/epheterson/applemusic-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 123
+stars: 131
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 23
-pushed_at: "2026-10-23T18:57:14Z"
+pushed_at: "2026-11-09T01:06:54Z"
 ---
 ## What it is
 MCP server for Apple Music that lets AI assistants manage playlists, control playback, and browse the music library.

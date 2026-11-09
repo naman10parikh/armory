@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T04:00:20Z"
+pushed_at: "2026-11-06T15:06:00Z"
 ---
 ## What it is
 Connects AI agents to MAVLink drones (PX4, ArduPilot) via a capability layer with safety guardrails, enabling telemetry, flight control, and mission management through natural language.

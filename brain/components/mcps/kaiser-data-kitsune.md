@@ -8,12 +8,12 @@ source_url: https://github.com/kaiser-data/kitsune-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-11-01T00:02:24Z"
+pushed_at: "2026-11-08T11:20:47Z"
 ---
 ## What it is
 MCP server `Kitsune`, catalogued on PulseMCP. Dynamic MCP hub that loads and unloads servers at runtime without restarts, accessing 130,000+ servers across 7 registries.

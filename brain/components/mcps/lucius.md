@@ -8,13 +8,13 @@ source_url: https://github.com/ivanostanin/lucius-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-11-02T16:47:05Z"
+pushed_at: "2026-11-09T15:06:06Z"
 ---
 ## What it is
 An MCP server for Allure TestOps that enables AI agents to manage test cases, defects, test plans, and other test management entities with clear, easy-to-use tools and helpful error guidance.

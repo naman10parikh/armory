@@ -8,11 +8,11 @@ source_url: https://github.com/hustcc/mcp-echarts
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 269
+stars: 268
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 41
+forks: 42
 pushed_at: "2026-08-27T01:50:43Z"
 ---
 ## What it is

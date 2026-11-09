@@ -8,12 +8,12 @@ source_url: https://github.com/DeHor-Labs/mcp-juridico-brasil
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 125
+stars: 133
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 28
+forks: 29
 pushed_at: "2026-10-26T22:46:13Z"
 ---
 ## What it is

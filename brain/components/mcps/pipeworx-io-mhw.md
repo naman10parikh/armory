@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-29T04:50:08Z"
+pushed_at: "2026-11-09T14:19:39Z"
 ---
 ## What it is
 MCP server `Monster Hunter World`, catalogued on PulseMCP. Query Monster Hunter World game data including monsters, weapons, armor, and items.

@@ -8,13 +8,13 @@ source_url: https://github.com/DecisionsDev/ibm-odm-decision-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-11-02T16:54:54Z"
+pushed_at: "2026-11-05T08:53:06Z"
 ---
 ## What it is
 Bridges IBM Operational Decision Manager with AI assistants, enabling decisions as tools for integration with platforms like Watson Orchestrate and Claude Desktop.

@@ -8,12 +8,12 @@ source_url: https://github.com/hypnguyen1209/codex-free
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 32
+stars: 31
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
+forks: 9
 pushed_at: "2026-09-17T03:56:41Z"
 ---
 ## What it is

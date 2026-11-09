@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T13:39:07Z"
+pushed_at: "2026-11-09T12:32:55Z"
 ---
 ## What it is
 Provides a comprehensive MCP interface to the AbraFlexi ERP REST API, enabling management of invoices, contacts, products, bank transactions, and other evidence through natural language.

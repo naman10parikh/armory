@@ -8,13 +8,13 @@ source_url: https://github.com/andrewbartels1/SolidworksMCP-python
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 90
+stars: 97
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 36
-pushed_at: "2026-11-02T02:43:49Z"
+forks: 39
+pushed_at: "2026-11-09T04:59:57Z"
 ---
 ## What it is
 Python MCP server for SolidWorks automation with 109 tools covering the full CAD lifecycle. Enables AI-assisted design workflows through COM automation on Windows.

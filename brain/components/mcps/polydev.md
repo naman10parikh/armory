@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-02-03T08:36:43Z"
+pushed_at: "2026-11-07T02:23:14Z"
 ---
 ## What it is
 MCP server `Polydev`, catalogued on PulseMCP. Query multiple LLMs simultaneously through one MCP server.

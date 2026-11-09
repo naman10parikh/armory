@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-30T19:58:42Z"
+pushed_at: "2026-11-09T13:33:35Z"
 ---
 ## What it is
 MCP server `ATTOM`, catalogued on PulseMCP. Premium real estate data from ATTOM Data Solutions for property, market, and neighborhood intelligence.

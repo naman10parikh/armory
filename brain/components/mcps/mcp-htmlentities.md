@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T02:45:54Z"
+pushed_at: "2026-11-09T14:08:46Z"
 ---
 ## What it is
 Enables encoding text to HTML entities and decoding HTML entities back to plain text, supporting basic and extended modes, offline and without API keys.

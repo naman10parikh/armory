@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-10-26T09:25:09Z"
+pushed_at: "2026-11-06T09:25:00Z"
 ---
 ## What it is
 Provides a modular MCP server to integrate with IBM Data Intelligence services, enabling secure interaction with data intelligence capabilities via tools and skills.

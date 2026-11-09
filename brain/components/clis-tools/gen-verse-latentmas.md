@@ -8,13 +8,13 @@ source_url: https://github.com/Gen-Verse/LatentMAS
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1172
+stars: 1182
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 183
+forks: 181
 pushed_at: "2026-06-18T06:56:18Z"
 ---
 ## What it is

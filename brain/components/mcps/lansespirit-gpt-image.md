@@ -8,11 +8,11 @@ source_url: https://github.com/lansespirit/image-gen-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 70
+stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
+forks: 18
 pushed_at: "2026-04-25T03:36:47Z"
 ---
 ## What it is

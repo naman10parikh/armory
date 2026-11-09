@@ -8,11 +8,11 @@ source_url: https://github.com/saidsurucu/markapatent-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 50
+stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 7
 pushed_at: "2026-03-12T17:13:21Z"
 ---
 ## What it is

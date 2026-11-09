@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-29T19:46:32Z"
+forks: 1
+pushed_at: "2026-11-04T06:13:16Z"
 ---
 ## What it is
 An unofficial MCP server that brings your Fileee documents to AI clients, with secure authentication via OAuth or static tokens and capabilities for reading, writing, sharing, and more.

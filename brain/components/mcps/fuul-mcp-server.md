@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T07:53:31Z"
+pushed_at: "2026-11-09T15:12:14Z"
 ---
 ## What it is
 Manages affiliate programs, analytics, incentives, and payouts through MCP-compatible clients.

@@ -8,7 +8,7 @@ source_url: https://github.com/sing1ee/a2a-agent-coder
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 10
 eval_score: null
 verified_at: 2026-05-28
 related: []

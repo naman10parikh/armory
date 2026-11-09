@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T05:37:26Z"
+pushed_at: "2026-11-09T14:31:05Z"
 ---
 ## What it is
 MCP server for searching and retrieving PHP/Composer package metadata from the Packagist registry, including download statistics and version details.

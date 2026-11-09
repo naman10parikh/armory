@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T04:53:47Z"
+pushed_at: "2026-11-06T06:15:30Z"
 ---
 ## What it is
 Exposes Radix Primitives' parts, props, and accessibility contracts to AI coding agents, ensuring correct and accessible component usage.

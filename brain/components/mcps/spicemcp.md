@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T15:31:06Z"
+pushed_at: "2026-11-09T17:04:01Z"
 ---
 ## What it is
 MCP server for LTspice circuit simulation and optimization. It manages optimization state, evaluates metrics from .meas directives, and supports schematic generation and parameter tuning.

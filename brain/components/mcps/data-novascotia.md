@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T20:59:31Z"
+pushed_at: "2026-11-09T13:48:41Z"
 ---
 ## What it is
 Enables searching and querying the Nova Scotia Open Data catalog via Socrata SoQL. Provides tools to find datasets, query data, and get metadata by resource ID.

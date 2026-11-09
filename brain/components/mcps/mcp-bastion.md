@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-29T19:04:15Z"
+pushed_at: "2026-11-09T07:18:35Z"
 ---
 ## What it is
 A reliability & security proxy for the Model Context Protocol (MCP) that provides self-healing connections, runtime tool-security, and compliance-mapped audit trails.

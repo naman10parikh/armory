@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T01:29:40Z"
+pushed_at: "2026-11-05T17:01:35Z"
 ---
 ## What it is
 Enables users to fetch developer and programming jokes, either random or by specific topic, through simple MCP tools.

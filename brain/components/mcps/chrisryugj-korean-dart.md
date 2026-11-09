@@ -8,11 +8,11 @@ source_url: https://github.com/chrisryugj/korean-dart-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 119
+stars: 121
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 21
+forks: 20
 pushed_at: "2026-10-26T04:22:45Z"
 ---
 ## What it is

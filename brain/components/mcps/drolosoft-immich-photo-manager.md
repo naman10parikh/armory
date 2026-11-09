@@ -13,7 +13,7 @@ related: []
 tags: [mcp, multimedia-process]
 stars: 62
 forks: 11
-pushed_at: "2026-10-06T00:12:34Z"
+pushed_at: "2026-11-05T12:25:30Z"
 ---
 ## What it is
 Turn your self-hosted Immich photo library into a conversation — natural language search via CLIP, geographic album curation from GPS data, cross-source duplicate detection with perceptual hashing, library health reports, and offline-ready interactive HTML galleries. Claude Code plugin with 21 MCP tools, 11 skills, and 5 slash commands.

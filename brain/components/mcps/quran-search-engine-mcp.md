@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-06T22:38:55Z"
+pushed_at: "2026-11-07T08:23:20Z"
 ---
 ## What it is
 Enables accurate Quranic verse search through natural language queries, returning exact text with no hallucinations.

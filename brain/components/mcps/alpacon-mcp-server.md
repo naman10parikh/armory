@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-02T14:05:25Z"
+pushed_at: "2026-11-09T12:31:44Z"
 ---
 ## What it is
 Enables AI assistants to securely access and manage servers via Alpacon's zero-trust platform, allowing natural language command execution, file transfer, and monitoring without SSH keys or VPNs.

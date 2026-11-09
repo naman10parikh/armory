@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T11:53:26Z"
+pushed_at: "2026-11-06T07:10:38Z"
 ---
 ## What it is
 Enables orchestrating multiple specialist Claude Code agents as a team, with live visualization and agent-to-agent messaging.

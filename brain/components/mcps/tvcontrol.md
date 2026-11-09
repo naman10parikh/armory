@@ -8,12 +8,12 @@ source_url: https://github.com/FerroxLabs/tvcontrol
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 49
+stars: 60
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 16
+forks: 19
 pushed_at: "2026-09-08T10:07:35Z"
 ---
 ## What it is

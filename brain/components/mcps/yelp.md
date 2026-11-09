@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-04-02T17:08:53Z"
+pushed_at: "2026-11-06T17:16:49Z"
 ---
 ## What it is
 MCP server `Yelp`, catalogued on PulseMCP. Integrates with Yelp's Fusion AI API to provide business search, detailed information retrieval, and restaurant reservation booking with location-based filtering and conversational query processing.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-21T09:37:03Z"
+pushed_at: "2026-11-09T16:15:13Z"
 ---
 ## What it is
 Enables MCP-capable coding agents to read and drive the user's browser page with a visible, human-like cursor that evades bot detection.

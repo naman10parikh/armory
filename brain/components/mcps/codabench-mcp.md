@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-01T20:07:27Z"
+pushed_at: "2026-11-05T08:39:47Z"
 ---
 ## What it is
 MCP server for Codabench REST API that enables AI agents to drive a full participant ML-benchmark workflow: discover competitions, download data, submit, poll, and read leaderboards.

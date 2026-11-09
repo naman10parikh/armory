@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-24T14:16:28Z"
+pushed_at: "2026-11-09T16:48:00Z"
 ---
 ## What it is
 Provides persistent, local-first memory with knowledge graph and hybrid search for AI coding agents, reducing token usage by storing decisions, patterns, and codebase context.

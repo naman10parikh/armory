@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-02T00:29:56Z"
+pushed_at: "2026-11-02T17:48:23Z"
 ---
 ## What it is
 MCP server `Intercept`, catalogued on PulseMCP. Fetches URLs as clean markdown with multi-tier fallback.

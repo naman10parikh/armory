@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-07T15:19:08Z"
+pushed_at: "2026-11-08T16:37:00Z"
 ---
 ## What it is
 MCP server `Outris Identity`, catalogued on PulseMCP. Identity resolution server for phone/email lookups, platform checks, and breach detection across 31+ services with global and India coverage.

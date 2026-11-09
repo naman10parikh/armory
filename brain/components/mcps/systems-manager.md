@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-01T20:46:21Z"
+pushed_at: "2026-11-06T18:55:02Z"
 ---
 ## What it is
 Enables AI agents to manage system updates, application installations, and remote host orchestration through MCP tools.

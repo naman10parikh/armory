@@ -8,12 +8,12 @@ source_url: https://github.com/ditrixnew/edt-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 325
+stars: 331
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 63
-pushed_at: "2026-10-26T22:08:42Z"
+pushed_at: "2026-11-05T17:06:30Z"
 ---
 ## What it is
 MCP server `1C:EDT`, catalogued on PulseMCP. Integrates with 1C:EDT workspace to expose project management, configuration properties, validation errors, bookmarks, tasks, and check descriptions through HTTP endpoints.

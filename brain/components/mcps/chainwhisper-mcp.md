@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T11:32:30Z"
+pushed_at: "2026-11-05T03:06:46Z"
 ---
 ## What it is
 Keyless domain planner that connects external agents to ChainWhisper OTC trading on COTI Mainnet, allowing order preparation and validation without private keys.

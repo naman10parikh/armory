@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-29T06:42:12Z"
+pushed_at: "2026-11-08T21:01:39Z"
 ---
 ## What it is
 MCP server for space weather and HF propagation conditions — live solar flux, Kp index, DSCOVR solar wind, X-ray flux, alerts, 27-day forecast, and band-by-band outlook through any MCP-compatible AI assistant.

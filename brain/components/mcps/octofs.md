@@ -8,13 +8,13 @@ source_url: https://github.com/Muvon/octofs
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-11-01T12:57:52Z"
+pushed_at: "2026-11-08T07:46:02Z"
 ---
 ## What it is
 The fastest, most capable filesystem MCP server built in Rust, giving AI agents superpowers to read, search, edit, and manage files and directories.

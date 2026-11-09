@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T12:28:47Z"
+pushed_at: "2026-11-03T17:38:14Z"
 ---
 ## What it is
 Enables auditing any public website, returning a scored plain-English report that flags issues costing customers, covering speed, phone experience, search visibility, contact options, writing quality, and modernity.

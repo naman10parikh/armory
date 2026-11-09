@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-13T12:34:51Z"
+pushed_at: "2026-11-03T12:55:36Z"
 ---
 ## What it is
 Connect AI assistants to TraderSpy's live crypto futures data, including AI trading signals, smart money/whale tracking, market data, and read-only access to your own account.

@@ -8,13 +8,13 @@ source_url: https://github.com/ebullient/obsidian-vault-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 43
+stars: 44
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-11-01T06:35:44Z"
+pushed_at: "2026-11-03T13:26:53Z"
 ---
 ## What it is
 An Obsidian plugin that runs an MCP server, enabling external LLM tools to read, search, create, and modify notes in your vault via HTTP or stdio transport.

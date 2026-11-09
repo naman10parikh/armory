@@ -8,12 +8,12 @@ source_url: https://github.com/PiGrieco/mcp-memory-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 77
+stars: 67
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 24
+forks: 22
 pushed_at: "2025-10-19T11:04:10Z"
 ---
 ## What it is

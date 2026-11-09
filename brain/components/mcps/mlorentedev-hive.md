@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
-stars: 11
+stars: 10
 forks: 2
-pushed_at: "2026-11-02T16:35:50Z"
+pushed_at: "2026-11-09T14:09:08Z"
 ---
 ## What it is
 On-demand Obsidian vault access via MCP. Adaptive context loading (67-82% token savings), full-text and ranked search, health checks, auto git commit, and worker delegation to cheaper models. 10 tools, works with any MCP client.

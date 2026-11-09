@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-29T10:37:11Z"
+pushed_at: "2026-11-04T00:30:41Z"
 ---
 ## What it is
 MCP server `US Census Bureau`, catalogued on PulseMCP. Query U.S. Census Bureau demographic and geographic data, variables, and geographies.

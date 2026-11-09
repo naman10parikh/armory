@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T15:47:48Z"
+pushed_at: "2026-11-08T16:40:22Z"
 ---
 ## What it is
 An MCP server that runs The Fortuneteller's Hand, a solo journaling tabletop RPG where Claude runs the table, casting Omens and reading the cards.

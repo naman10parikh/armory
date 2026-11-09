@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
-stars: 205
-forks: 35
-pushed_at: "2026-10-26T09:02:49Z"
+stars: 207
+forks: 34
+pushed_at: "2026-11-09T13:52:49Z"
 ---
 ## What it is
 Human-like memory layer for AI agents with semantic, episodic, and procedural memory. Claude Code hooks (auto-save, auto-recall, cognitive profile). 29 MCP tools, knowledge graph, smart triggers, multi-user isolation. Python & JS SDKs.

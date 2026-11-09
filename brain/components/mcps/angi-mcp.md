@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T07:14:44Z"
+pushed_at: "2026-11-09T07:12:55Z"
 ---
 ## What it is
 MCP server for Angi (Angie's List) that lets you search for home-service pros by trade and city, read ratings, profiles, and reviews, and manage your Angi projects using an existing browser session via fetchproxy.

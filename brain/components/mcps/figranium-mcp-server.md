@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-02T16:06:22Z"
+pushed_at: "2026-11-06T17:26:09Z"
 ---
 ## What it is
 Enables LLM clients to discover, create, execute, inspect, and schedule Figranium automation tasks, with rich input validation for self-correction.

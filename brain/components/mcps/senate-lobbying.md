@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T06:17:38Z"
+pushed_at: "2026-11-09T14:40:41Z"
 ---
 ## What it is
 Enables querying US Senate lobbying disclosure data via natural language or direct tool calls, as part of the Pipeworx MCP gateway.

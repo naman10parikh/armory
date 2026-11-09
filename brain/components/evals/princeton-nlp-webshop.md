@@ -8,13 +8,13 @@ source_url: https://github.com/princeton-nlp/WebShop
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 613
+stars: 615
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 108
+forks: 109
 pushed_at: "2024-09-06T04:00:38Z"
 ---
 ## What it is

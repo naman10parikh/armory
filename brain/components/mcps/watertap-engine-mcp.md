@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-01T12:37:21Z"
+pushed_at: "2026-11-07T20:42:53Z"
 ---
 ## What it is
 A water treatment process simulation engine that exposes WaterTAP capabilities through MCP and CLI adapters, enabling AI agents to build, solve, and optimize flowsheets using natural language.

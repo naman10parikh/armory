@@ -8,13 +8,13 @@ source_url: https://github.com/google-deepmind/alphafold
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 14923
+stars: 14933
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2959
+forks: 2963
 pushed_at: "2026-04-22T17:58:21Z"
 ---
 ## What it is

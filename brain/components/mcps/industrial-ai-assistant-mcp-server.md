@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-10T06:11:27Z"
+pushed_at: "2026-11-08T09:54:00Z"
 ---
 ## What it is
 Enables AI assistants to monitor and analyze industrial process data from DCS/SCADA systems via MCP protocol, with domain expert knowledge for anomaly detection and recommendations.

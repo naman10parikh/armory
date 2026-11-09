@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-20T20:23:17Z"
+pushed_at: "2026-11-05T05:15:24Z"
 ---
 ## What it is
 MCP server that provides direct access to real-time UAE property data, retail products, and travel pricing through task-shaped tools, normalizing inconsistent API responses and resolving location IDs.

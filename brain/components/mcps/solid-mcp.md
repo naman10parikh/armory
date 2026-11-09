@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T09:17:36Z"
+pushed_at: "2026-11-06T22:03:34Z"
 ---
 ## What it is
 MCP server for the Solid protocol enabling AI models to read, write, search, and manage resources in Solid pods.

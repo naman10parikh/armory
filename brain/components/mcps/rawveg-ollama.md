@@ -8,11 +8,11 @@ source_url: https://github.com/rawveg/ollama-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 176
+stars: 177
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 36
+forks: 37
 pushed_at: "2026-08-13T23:18:19Z"
 ---
 ## What it is

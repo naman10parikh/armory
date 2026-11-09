@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T08:35:12Z"
+pushed_at: "2026-11-09T13:45:31Z"
 ---
 ## What it is
 Enables number and currency formatting with localization, including grouping, decimals, percentages, and compact notation, using standard ISO 4217 currency codes.

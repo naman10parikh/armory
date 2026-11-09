@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-09T15:07:27Z"
+pushed_at: "2026-11-08T16:47:17Z"
 ---
 ## What it is
 MineCode is a local MCP server that provides AI assistants with real-time access to Minecraft data, documentation, datapack generators, and logs, featuring 19 tools for datapack development.

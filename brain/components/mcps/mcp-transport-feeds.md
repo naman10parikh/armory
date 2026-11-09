@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T06:42:41Z"
+pushed_at: "2026-11-09T14:48:17Z"
 ---
 ## What it is
 Enables browsing and fetching transport and mobility news feeds from curated sources and arbitrary RSS/Atom/RDF URLs.

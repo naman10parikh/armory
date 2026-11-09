@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-29T04:23:33Z"
+pushed_at: "2026-11-09T14:13:15Z"
 ---
 ## What it is
 MCP server `Jikan`, catalogued on PulseMCP. Search and retrieve anime and manga data from MyAnimeList via the Jikan API.

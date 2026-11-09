@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-30T01:50:07Z"
+pushed_at: "2026-11-04T23:14:43Z"
 ---
 ## What it is
 An MCP server that connects Actual Budget to Claude, enabling users to manage budgets, transactions, and spending insights through natural language.

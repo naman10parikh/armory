@@ -8,13 +8,13 @@ source_url: https://github.com/NeoZi12/dispatchseo
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 95
+stars: 97
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 16
-pushed_at: "2026-10-31T11:35:02Z"
+pushed_at: "2026-11-09T17:20:07Z"
 ---
 ## What it is
 Turn Claude Code into your SEO manager with keyword research, content pipeline that ships pull requests, rank tracking, and a dashboard.

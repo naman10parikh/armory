@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-30T20:32:07Z"
+pushed_at: "2026-11-05T14:50:12Z"
 ---
 ## What it is
 MCP server `Decantr`, catalogued on PulseMCP. Design intelligence layer that keeps AI-generated UI visually consistent via design contracts.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T03:40:10Z"
+pushed_at: "2026-11-04T18:40:40Z"
 ---
 ## What it is
 MCP server for the Personio HR API with employee and HR profiles, enabling self-service and HR operations like managing absences, attendances, documents, and organizational data.

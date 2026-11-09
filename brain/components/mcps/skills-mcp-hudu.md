@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-27T22:11:20Z"
+pushed_at: "2026-11-03T11:07:17Z"
 ---
 ## What it is
 Connects AI assistants to Hudu IT documentation platform with 43 tools, Markdown output, and multi-tenant support for MSPs.

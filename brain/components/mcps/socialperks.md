@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-28T05:07:45Z"
+pushed_at: "2026-11-05T05:08:03Z"
 ---
 ## What it is
 MCP server `SocialPerks`, catalogued on PulseMCP. Agent-native marketing platform for creating campaigns, submitting proofs, and reviewing creator content.

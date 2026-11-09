@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T07:36:38Z"
+pushed_at: "2026-11-09T07:36:09Z"
 ---
 ## What it is
 Enables agents to perform deterministic data intake pipelines for FOIA and public comments, with medallion warehouse, PII policy enforcement, and verified insights.

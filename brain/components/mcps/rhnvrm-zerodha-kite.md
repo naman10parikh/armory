@@ -12,8 +12,8 @@ stars: 329
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 140
-pushed_at: "2026-11-02T14:16:17Z"
+forks: 142
+pushed_at: "2026-11-02T18:28:39Z"
 ---
 ## What it is
 MCP server `Zerodha Kite`, catalogued on PulseMCP. Integrates with Zerodha Kite trading platform to enable algorithmic trading and portfolio management for Indian stock markets.

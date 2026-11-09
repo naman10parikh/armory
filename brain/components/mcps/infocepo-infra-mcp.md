@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T11:47:21Z"
+pushed_at: "2026-11-07T22:12:35Z"
 ---
 ## What it is
 Exposes infocepo.com infrastructure (LLM, ChromaDB, S3, Docker registry, service discovery) as MCP tools for AI agents.

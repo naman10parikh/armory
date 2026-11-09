@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T05:59:44Z"
+pushed_at: "2026-11-03T10:56:52Z"
 ---
 ## What it is
 Enables reading public X posts, replies, and profiles, and searching X, via Rettiwt by default or the official X API.

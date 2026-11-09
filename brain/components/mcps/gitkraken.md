@@ -8,11 +8,11 @@ source_url: https://github.com/gitkraken/gk-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 462
+stars: 465
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 377
+forks: 381
 pushed_at: "2026-10-28T17:26:32Z"
 ---
 ## What it is

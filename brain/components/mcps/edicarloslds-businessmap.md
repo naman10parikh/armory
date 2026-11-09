@@ -8,12 +8,12 @@ source_url: https://github.com/edicarloslds/businessmap-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-10-28T22:24:36Z"
+pushed_at: "2026-11-05T14:16:10Z"
 ---
 ## What it is
 MCP server `BusinessMap`, catalogued on PulseMCP. Integrates with BusinessMap's Kanban platform to enable complete project management operations including card creation, workflow tracking, custom fields, cycle time analysis, and user management across workspaces and boards.

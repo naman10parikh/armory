@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T16:10:56Z"
+pushed_at: "2026-11-03T08:34:08Z"
 ---
 ## What it is
 MCP server that enables AI assistants to manage Ghost CMS posts, members, tags, tiers, and more, with support for remote hosting on Azure Functions and Entra ID authentication.

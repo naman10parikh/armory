@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T06:58:57Z"
+pushed_at: "2026-11-09T14:51:19Z"
 ---
 ## What it is
 Enables searching past scans and submitting URLs for scanning via urlscan.io, with both keyless and key-based operations.

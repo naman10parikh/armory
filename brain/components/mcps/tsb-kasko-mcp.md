@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-20T11:14:54Z"
+pushed_at: "2026-11-03T11:15:14Z"
 ---
 ## What it is
 Enables querying Türkiye Sigorta Birliği’s Kasko Değer Listesi (vehicle insurance valuation list) through MCP, CLI, and Python, allowing natural language lookup of current and historical vehicle insurance values.

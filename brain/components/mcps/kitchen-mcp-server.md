@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T19:19:20Z"
+pushed_at: "2026-11-07T13:37:25Z"
 ---
 ## What it is
 A hosted, multi-tenant MCP server that exposes the Kitchen.co client-portal API to AI clients, enabling natural language interaction with tasks, documents, clients, invoices, and more.

@@ -8,13 +8,13 @@ source_url: https://github.com/ShiroEirin/ComfyUI_MCP_Skills
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-10-31T21:28:31Z"
+forks: 1
+pushed_at: "2026-11-08T08:03:00Z"
 ---
 ## What it is
 MCP server that dynamically exposes each enabled ComfyUI workflow as a tool with JSON Schema, supports job submission with wait and idempotency, file uploads, and resource metadata, with both stdio and authenticated Streamable HTTP transports.

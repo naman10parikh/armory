@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-13T07:27:52Z"
+pushed_at: "2026-11-06T15:10:51Z"
 ---
 ## What it is
 MCP server `Crawly`, catalogued on PulseMCP. Browser-backed web search and content retrieval using Playwright, supporting DuckDuckGo, Google, and Yandex with SSRF protection.

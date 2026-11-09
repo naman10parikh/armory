@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-30T02:42:06Z"
+pushed_at: "2026-11-03T10:17:15Z"
 ---
 ## What it is
 Open-source AI context firewall for governed model, retrieval, memory, and tool access. It enables OpenAI SDK applications to adopt governed access via a single base_url change and includes MCP support.

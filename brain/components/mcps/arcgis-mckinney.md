@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-30T07:41:37Z"
+pushed_at: "2026-11-09T13:30:23Z"
 ---
 ## What it is
 Enables querying and searching City of McKinney GIS open geospatial datasets (parcels, zoning, public works) via ArcGIS Feature Services.

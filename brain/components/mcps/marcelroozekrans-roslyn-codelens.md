@@ -8,12 +8,12 @@ source_url: https://github.com/marcelroozekrans/roslyn-codelens-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 70
+stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
-pushed_at: "2026-11-01T18:22:07Z"
+forks: 16
+pushed_at: "2026-11-09T00:21:25Z"
 ---
 ## What it is
 MCP server `Roslyn CodeLens`, catalogued on PulseMCP. Roslyn-based semantic code intelligence for .NET codebases with type hierarchy, call graph, and dependency injection analysis.

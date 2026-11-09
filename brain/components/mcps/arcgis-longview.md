@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-30T07:40:27Z"
+pushed_at: "2026-11-09T13:30:05Z"
 ---
 ## What it is
 Access City of Longview, Texas open geospatial data (parcels, zoning, public works) via ArcGIS Feature Services. Enables searching datasets, querying layers with SQL-like filters, and retrieving layer schemas.

@@ -8,11 +8,11 @@ source_url: https://github.com/promptpartner/bexio-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 41
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
+forks: 13
 pushed_at: "2026-09-28T08:36:06Z"
 ---
 ## What it is

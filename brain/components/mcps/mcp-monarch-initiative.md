@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T04:54:12Z"
+pushed_at: "2026-11-09T14:20:49Z"
 ---
 ## What it is
 Enables querying of the Monarch Initiative biomedical knowledge graph for genes, diseases, phenotypes, and their associations through natural language or direct tool calls.

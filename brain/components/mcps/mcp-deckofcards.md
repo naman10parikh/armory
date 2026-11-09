@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T01:51:17Z"
+pushed_at: "2026-11-09T13:51:30Z"
 ---
 ## What it is
 Provides tools to interact with the Deck of Cards API (deckofcardsapi.com) for card operations such as drawing, shuffling, and managing decks through natural language.

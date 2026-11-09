@@ -8,12 +8,12 @@ source_url: https://github.com/hetpatel-11/adobe_premiere_pro_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 804
+stars: 838
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 151
-pushed_at: "2026-10-24T21:21:21Z"
+forks: 155
+pushed_at: "2026-11-02T23:20:08Z"
 ---
 ## What it is
 MCP server `Adobe Premiere Pro`, catalogued on PulseMCP. Integrates with Adobe Premiere Pro through ExtendScript and UXP plugin communication to enable natural language video editing commands for project management, media import, timeline operations, effects application, and rendering workflows.

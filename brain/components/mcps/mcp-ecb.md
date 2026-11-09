@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T02:02:08Z"
+pushed_at: "2026-11-09T13:54:39Z"
 ---
 ## What it is
 Provides access to European Central Bank statistical data through SDMX data flows, enabling querying and listing of data flows via natural language or direct tool calls.

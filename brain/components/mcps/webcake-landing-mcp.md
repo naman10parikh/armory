@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-27T04:36:38Z"
+pushed_at: "2026-11-05T04:43:40Z"
 ---
 ## What it is
 Bridges AI assistants to WebCake, enabling users to build, validate, and save editable landing pages from natural language descriptions.

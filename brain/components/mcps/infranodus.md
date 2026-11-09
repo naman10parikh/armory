@@ -8,12 +8,12 @@ source_url: https://github.com/infranodus/mcp-server-infranodus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 104
+stars: 105
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 28
-pushed_at: "2026-10-31T19:28:38Z"
+pushed_at: "2026-11-09T11:21:43Z"
 ---
 ## What it is
 MCP server `InfraNodus`, catalogued on PulseMCP. Find content gaps, get an overview, and build ontology of any text or public discourse for research, SEO, and content creation

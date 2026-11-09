@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-28T04:02:39Z"
+pushed_at: "2026-11-05T08:37:15Z"
 ---
 ## What it is
 Exposes Granoflow's local REST API and CLI as tools for AI agents, IDEs, and automation, enabling task and project management via natural language.

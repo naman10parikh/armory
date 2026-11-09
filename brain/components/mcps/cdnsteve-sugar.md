@@ -12,8 +12,8 @@ stars: 100
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
-pushed_at: "2026-10-14T13:28:04Z"
+forks: 16
+pushed_at: "2026-11-09T14:21:44Z"
 ---
 ## What it is
 MCP server `Sugar`, catalogued on PulseMCP. Autonomous AI development system with persistent task queue and background execution.

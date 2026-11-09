@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T22:38:27Z"
+pushed_at: "2026-11-06T17:55:35Z"
 ---
 ## What it is
 A random number generation MCP server hosted on Cloudflare Workers that provides tools for generating integers, floats, weighted choices, and samples from various probability distributions, usable from MCP clients like Notion AI.

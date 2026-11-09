@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-01T14:28:14Z"
+pushed_at: "2026-11-09T00:57:34Z"
 ---
 ## What it is
 MCP server for TracePass — the EU Digital Product Passport platform. Create products, build and audit DPPs, set economic-operator parties, and read/capture GS1 EPCIS 2.0 supply-chain events.

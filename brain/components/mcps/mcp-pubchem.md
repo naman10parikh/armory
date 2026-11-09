@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T05:52:18Z"
+pushed_at: "2026-11-09T14:35:05Z"
 ---
 ## What it is
 Provides access to the NIH PubChem chemistry compound database, enabling queries for compound synonyms and other data through natural language.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-16T04:07:43Z"
+pushed_at: "2026-11-09T03:21:28Z"
 ---
 ## What it is
 A local MCP server that gives AI agents live access to open Figma files for design handoff and UX writing without API tokens or rate limits.

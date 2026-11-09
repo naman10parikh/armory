@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T06:16:02Z"
+pushed_at: "2026-11-09T14:40:15Z"
 ---
 ## What it is
 MCP server for accessing US securities regulations (17 CFR) via Pipeworx gateway. Enables natural language queries and integration with MCP clients to retrieve SEC regulatory data.

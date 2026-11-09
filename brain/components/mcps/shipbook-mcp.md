@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-16T17:47:22Z"
+pushed_at: "2026-11-05T10:48:25Z"
 ---
 ## What it is
 Connects AI coding assistants to Shipbook for investigating issues using real application logs with error classification, log search, and session tracing.

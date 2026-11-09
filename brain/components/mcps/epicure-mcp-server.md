@@ -8,13 +8,13 @@ source_url: https://github.com/KAIKAKU-AI/epicure-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 81
+stars: 82
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 19
-pushed_at: "2026-08-29T16:08:05Z"
+pushed_at: "2026-11-06T05:47:10Z"
 ---
 ## What it is
 Public, anonymous, read-only MCP server for the Epicure ingredient-embedding model, offering tools for ingredient pairings, flavor profiling, and culinary exploration via cosine similarity and other embedding analyses.

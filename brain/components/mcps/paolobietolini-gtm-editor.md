@@ -8,12 +8,12 @@ source_url: https://github.com/paolobietolini/gtm-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 182
+stars: 187
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 42
-pushed_at: "2026-10-29T15:32:34Z"
+pushed_at: "2026-11-04T10:59:59Z"
 ---
 ## What it is
 MCP server `GTM Editor`, catalogued on PulseMCP. Manage Google Tag Manager containers, tags, triggers, variables, and publishing through natural language.

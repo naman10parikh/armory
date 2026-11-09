@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T23:05:00Z"
+pushed_at: "2026-11-07T09:45:55Z"
 ---
 ## What it is
 A schema-aware MCP server for Redmine that validates issue writes against workflow graphs and custom field schemas to prevent errors, with tools for issue lifecycle, time tracking, wiki pages, and more.

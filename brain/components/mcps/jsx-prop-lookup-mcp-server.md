@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T08:19:58Z"
+pushed_at: "2026-11-07T20:15:15Z"
 ---
 ## What it is
 Analyzes JSX prop usage in React/TypeScript codebases using AST parsing, enabling prop usage tracking, component analysis, and TypeScript support.

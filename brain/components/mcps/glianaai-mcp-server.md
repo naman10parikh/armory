@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-28T21:14:25Z"
+pushed_at: "2026-11-08T18:50:57Z"
 ---
 ## What it is
 Enables pay-per-call access to 90+ generative AI models and utility tools via any MCP client, with no signup or API key, using wallet-based USDC payments on Base, Tempo, or Solana.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2025-09-22T21:28:39Z"
+pushed_at: "2026-11-05T00:08:53Z"
 ---
 ## What it is
 Deploys a remote MCP server on Cloudflare Workers with AutoRAG capabilities, enabling tools like math operations and RAG-based queries through SSE transport and OAuth authentication.

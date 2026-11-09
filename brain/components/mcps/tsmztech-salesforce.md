@@ -8,12 +8,12 @@ source_url: https://github.com/tsmztech/mcp-server-salesforce
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 165
+stars: 164
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 93
-pushed_at: "2026-10-30T02:43:55Z"
+pushed_at: "2026-11-06T02:43:56Z"
 ---
 ## What it is
 MCP server `Salesforce`, catalogued on PulseMCP. Integrates with Salesforce CRM for natural language-driven data management, querying, and administration tasks.

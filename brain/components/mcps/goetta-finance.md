@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-21T16:13:24Z"
+pushed_at: "2026-11-03T01:30:07Z"
 ---
 ## What it is
 A local-first MCP server that connects SimpleFIN bank accounts to Claude, storing data in a local DuckDB file and providing a web dashboard.

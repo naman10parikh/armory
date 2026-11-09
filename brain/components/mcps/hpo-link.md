@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T03:11:51Z"
+pushed_at: "2026-11-03T05:49:48Z"
 ---
 ## What it is
 MCP server that provides tools for querying the Human Phenotype Ontology (HPO) including term lookup, hierarchy exploration, cross-ontology mappings, and gene-phenotype-disease associations, all grounded in a local SQLite database for fast offline lookups.

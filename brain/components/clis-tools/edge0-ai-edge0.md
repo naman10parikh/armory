@@ -8,14 +8,14 @@ source_url: https://github.com/Edge0-AI/Edge0
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 8966
+stars: 9181
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1388
-pushed_at: "2026-11-02T05:47:59Z"
+forks: 1414
+pushed_at: "2026-11-09T11:47:45Z"
 ---
 ## What it is
 Run 35B MoE models in ~2.5 GB of RAM. Weights stream from SSD; a trained router predicts loads a step ahead. Mac, iPhone, Android, Windows supported

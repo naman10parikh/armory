@@ -8,11 +8,11 @@ source_url: https://github.com/yosefhayim/ebay-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 192
+stars: 197
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 72
+forks: 74
 pushed_at: "2026-10-29T21:29:26Z"
 ---
 ## What it is

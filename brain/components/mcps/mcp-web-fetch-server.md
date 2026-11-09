@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T08:34:11Z"
+pushed_at: "2026-11-04T21:36:44Z"
 ---
 ## What it is
 A Python MCP server for web research that enables fetching web pages, searching, batch-fetching, extracting links, and summarizing content via client-side sampling, with optional local file access.

@@ -8,11 +8,11 @@ source_url: https://github.com/zinja-coder/jadx-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 825
+stars: 840
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 136
+forks: 137
 pushed_at: "2026-10-19T00:23:17Z"
 ---
 ## What it is

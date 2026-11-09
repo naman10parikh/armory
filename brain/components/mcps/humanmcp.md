@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-19T20:48:26Z"
+pushed_at: "2026-11-09T13:39:03Z"
 ---
 ## What it is
 A personal content server that lets individuals publish content with cryptographic proof of authorship and explicit license terms, allowing AI agents to interact via the Model Context Protocol.

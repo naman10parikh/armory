@@ -8,14 +8,14 @@ source_url: https://github.com/vale-cli/vale
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 6317
+stars: 6359
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 236
-pushed_at: "2026-10-31T19:13:06Z"
+forks: 240
+pushed_at: "2026-11-09T05:27:19Z"
 ---
 ## What it is
 :pencil: A markup-aware linter for prose built with speed and extensibility in mind.

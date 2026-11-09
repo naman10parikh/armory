@@ -8,13 +8,13 @@ source_url: https://github.com/runcomfy-com/runcomfy-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-15T07:02:48Z"
+pushed_at: "2026-11-03T12:40:52Z"
 ---
 ## What it is
 MCP server for RunComfy's Serverless API (ComfyUI) that enables managing deployments, running inference, and retrieving results from AI assistants like Claude and Cursor.

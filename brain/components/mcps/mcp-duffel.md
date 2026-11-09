@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T01:59:56Z"
+pushed_at: "2026-11-09T13:54:00Z"
 ---
 ## What it is
 Enables live flight search and pricing via the Duffel Flights API, allowing AI agents to query flight data and pricing.

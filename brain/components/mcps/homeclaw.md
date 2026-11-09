@@ -8,13 +8,13 @@ source_url: https://github.com/omarshahine/HomeClaw
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 188
+stars: 192
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 27
-pushed_at: "2026-11-02T16:25:01Z"
+pushed_at: "2026-11-03T22:36:55Z"
 ---
 ## What it is
 Enables AI assistants to control Apple HomeKit smart home accessories, scenes, and automations via MCP tools.

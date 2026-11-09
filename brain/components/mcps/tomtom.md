@@ -12,8 +12,8 @@ stars: 59
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 25
-pushed_at: "2026-11-02T16:47:19Z"
+forks: 24
+pushed_at: "2026-11-09T16:26:59Z"
 ---
 ## What it is
 MCP server `TomTom`, catalogued on PulseMCP. Integrates with TomTom's location services APIs to provide geocoding, reverse geocoding, POI search, routing with waypoints, reachable range calculations, traffic incident data, and static map generation for building location-aware applications.

@@ -8,13 +8,13 @@ source_url: https://github.com/crithitstudio/hypixel-skyblock-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-26T10:46:20Z"
+pushed_at: "2026-11-09T13:12:49Z"
 ---
 ## What it is
 Fetches Hypixel SkyBlock data including profiles, economy, and progression, returning compact JSON for AI-powered guides and tips.

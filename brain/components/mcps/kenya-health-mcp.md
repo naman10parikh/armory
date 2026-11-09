@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-28T13:01:43Z"
+pushed_at: "2026-11-07T20:47:07Z"
 ---
 ## What it is
 MCP server for Kenya health facility and epidemiological data via KHIS/DHIS2.

@@ -8,12 +8,12 @@ source_url: https://github.com/schemacrawler/schemacrawler-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 13
+stars: 14
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-11-02T13:02:08Z"
+pushed_at: "2026-11-09T13:07:56Z"
 ---
 ## What it is
 MCP server `SchemaCrawler AI`, catalogued on PulseMCP. Database schema exploration through natural language queries

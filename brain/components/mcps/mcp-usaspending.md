@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T07:00:46Z"
+pushed_at: "2026-11-09T14:51:53Z"
 ---
 ## What it is
 Enables access to federal spending data from USAspending.gov API via Pipeworx MCP gateway.

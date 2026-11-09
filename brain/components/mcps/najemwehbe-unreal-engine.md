@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-07-18T16:41:57Z"
+pushed_at: "2026-11-06T01:39:30Z"
 ---
 ## What it is
 MCP server `Unreal Engine`, catalogued on PulseMCP. Drives Unreal Engine 5 editor automation with 105 tools for asset management, blueprint inspection, actor spawning, and more.

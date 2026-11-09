@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-03T16:05:02Z"
+pushed_at: "2026-11-06T14:46:22Z"
 ---
 ## What it is
 MCP server `RevenueCat Charts`, catalogued on PulseMCP. MCP server for querying RevenueCat subscription analytics including MRR, churn, trial conversion rates, and 21 chart types.

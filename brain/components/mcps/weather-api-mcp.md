@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T13:50:54Z"
+pushed_at: "2026-11-04T23:47:14Z"
 ---
 ## What it is
 A zero-config MCP server that provides real-time weather data and 5-day forecasts for any location without requiring API keys, enabling natural language weather queries through Claude.

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, developer-tools]
 stars: 68
 forks: 12
-pushed_at: "2026-11-01T21:57:51Z"
+pushed_at: "2026-11-07T08:57:25Z"
 ---
 ## What it is
 Local MCP server that shows AI agents which patterns your team actually uses, what files a change will affect, and when there is not enough context to trust an edit. 30+ languages, fully local.

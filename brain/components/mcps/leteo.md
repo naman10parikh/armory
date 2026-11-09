@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-17T02:10:42Z"
+pushed_at: "2026-11-03T23:12:58Z"
 ---
 ## What it is
 Persistent memory for AI coding agents, storing decisions, bug fixes, conventions, and discoveries in a local SQLite database and automatically recalling them when relevant. Works with Claude Code, Codex, Cursor, Gemini CLI, and other MCP-compatible agents.

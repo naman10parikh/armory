@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T15:59:27Z"
+pushed_at: "2026-11-08T19:11:19Z"
 ---
 ## What it is
 Enables managing AI voice agents, phones, integrations, workflows, calls, and billing directly from chat, including editing agent settings, connecting CRMs, and reviewing call logs.

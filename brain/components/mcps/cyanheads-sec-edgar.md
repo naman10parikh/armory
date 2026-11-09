@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-26T07:31:42Z"
+pushed_at: "2026-11-08T19:45:15Z"
 ---
 ## What it is
 MCP server `SEC EDGAR by cyanheads`, catalogued on PulseMCP. Query SEC EDGAR filings, XBRL financials, and company data with tools for company search, full-text filing search, financial data retrieval, and cross-company metric comparison.

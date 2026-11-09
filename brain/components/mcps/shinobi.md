@@ -8,13 +8,13 @@ source_url: https://github.com/numbererikson/shinobi
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-21T06:52:04Z"
+pushed_at: "2026-11-05T14:37:50Z"
 ---
 ## What it is
 Task spine + searched dead-ends + mobile approvals for AI coding agents — one shared brain across every session, machine, and device. Local SQLite or remote streamable-HTTP MCP, MIT.

@@ -8,7 +8,7 @@ source_url: https://github.com/b0x42/Super-Productivity-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 125
+stars: 131
 eval_score: null
 verified_at: 2026-05-27
 related: []

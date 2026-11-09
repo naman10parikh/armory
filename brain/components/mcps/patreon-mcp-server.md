@@ -8,12 +8,12 @@ source_url: https://github.com/KyuRish/patreon-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-03-07T13:42:57Z"
 ---
 ## What it is

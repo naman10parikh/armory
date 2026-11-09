@@ -8,13 +8,13 @@ source_url: https://github.com/dsers/dsers-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 19
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-26T11:33:46Z"
+pushed_at: "2026-11-06T06:31:02Z"
 ---
 ## What it is
 Official DSers MCP Server enabling AI-powered dropshipping automation, including product search, import, optimization, and supplier replacement.

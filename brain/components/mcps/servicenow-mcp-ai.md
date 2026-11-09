@@ -8,13 +8,13 @@ source_url: https://github.com/IvanBBaev/servicenow-mcp-ai
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-10-31T06:34:39Z"
+forks: 4
+pushed_at: "2026-11-08T09:05:32Z"
 ---
 ## What it is
 An MCP server that enables running commands against a ServiceNow instance via its REST APIs, including Table, Aggregate, Attachment, Import Set, Batch, CMDB, Service Catalog, Change Management, and Knowledge APIs.

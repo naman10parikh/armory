@@ -8,14 +8,14 @@ source_url: https://github.com/ml-explore/mlx
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 29026
+stars: 29104
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2397
-pushed_at: "2026-11-02T15:44:17Z"
+forks: 2417
+pushed_at: "2026-11-06T23:36:17Z"
 ---
 ## What it is
 MLX: An array framework for Apple silicon

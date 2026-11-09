@@ -8,13 +8,13 @@ source_url: https://github.com/ryanshatz/genesys-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-10-12T21:04:36Z"
+forks: 6
+pushed_at: "2026-11-05T16:38:46Z"
 ---
 ## What it is
 MCP server for Genesys Cloud that enables AI assistants to build and manage queues, skills, users, wrap-up codes, and Architect flows, including a flow builder that renders diagrams and publishes via Genesys' validation pipeline.

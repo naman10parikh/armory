@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-02T15:23:59Z"
+pushed_at: "2026-11-09T15:49:24Z"
 ---
 ## What it is
 Enables AI assistants to understand and query LPC codebases through natural language, using a language server for hover info, definitions, references, and diagnostics.

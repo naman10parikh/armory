@@ -8,13 +8,13 @@ source_url: https://github.com/NatLabRockies/openstudio-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 57
+stars: 58
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
-pushed_at: "2026-10-28T17:22:03Z"
+forks: 13
+pushed_at: "2026-11-08T17:16:45Z"
 ---
 ## What it is
 Enables natural language interaction with OpenStudio building energy simulation, allowing creation, querying, and modification of models, running EnergyPlus simulations, and analyzing results.

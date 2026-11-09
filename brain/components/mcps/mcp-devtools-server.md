@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-01T18:11:12Z"
+pushed_at: "2026-11-06T00:55:17Z"
 ---
 ## What it is
 An MCP server that standardizes and binds development tool patterns, enabling AI assistants like Claude Code to generate code more efficiently with fewer errors and better autocorrection.

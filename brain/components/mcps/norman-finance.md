@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-11-02T14:15:54Z"
+pushed_at: "2026-11-02T21:44:44Z"
 ---
 ## What it is
 MCP server `Norman Finance`, catalogued on PulseMCP. Enables interaction with the Norman Finance API, offering access to accounting, invoices, companies, clients, taxes, and more.

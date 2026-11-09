@@ -8,7 +8,7 @@ source_url: https://github.com/mansournorouzi/amazon-sp-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 49
+stars: 52
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T18:45:08Z"
+pushed_at: "2026-11-03T00:23:32Z"
 ---
 ## What it is
 An email MCP server that lets Claude or any MCP client search, read and draft mail via IMAP, treating every message as untrusted input. It prioritizes safety with plain-text-only bodies, disabled sending until an allowlist is set, and no bcc support.

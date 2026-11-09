@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T15:44:05Z"
+pushed_at: "2026-11-02T17:41:17Z"
 ---
 ## What it is
 Local-first CGM MCP for AI agents: Dexcom Developer API and FreeStyle Libre via LibreLink Up.

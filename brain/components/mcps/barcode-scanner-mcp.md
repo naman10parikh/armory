@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T05:14:51Z"
+pushed_at: "2026-11-08T19:32:19Z"
 ---
 ## What it is
 MCP server for scanning and generating barcodes and QR codes. Enables decoding barcodes from images, generating QR codes, and creating barcodes in multiple formats.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T08:29:47Z"
+pushed_at: "2026-11-09T13:43:55Z"
 ---
 ## What it is
 Enables AI agents to query LinkedIn-adjacent company and employee data from Coresignal via MCP, supporting natural language requests through the Pipeworx gateway.

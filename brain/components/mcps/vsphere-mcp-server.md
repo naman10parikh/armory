@@ -8,13 +8,13 @@ source_url: https://github.com/giuliolibrando/vmware-vsphere-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 17
-pushed_at: "2026-07-22T07:52:18Z"
+pushed_at: "2026-11-04T09:20:25Z"
 ---
 ## What it is
 A comprehensive MCP server for VMware vSphere management, enabling AI agents to perform VM operations, monitoring, snapshots, and reporting through a secure, Dockerized environment.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 18
-pushed_at: "2026-11-02T10:05:19Z"
+pushed_at: "2026-11-09T15:18:05Z"
 ---
 ## What it is
 MCP server `Bitrise`, catalogued on PulseMCP. Provides a bridge to the Bitrise CI/CD platform API, enabling mobile app development workflow management including builds, artifacts, and releases for iOS and Android platforms.

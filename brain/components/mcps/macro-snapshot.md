@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T04:40:54Z"
+pushed_at: "2026-11-09T14:16:47Z"
 ---
 ## What it is
 Provides a snapshot of the state of the economy in one call, part of the Pipeworx MCP gateway with access to 965+ data sources.

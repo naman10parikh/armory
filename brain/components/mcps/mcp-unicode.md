@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T06:57:33Z"
+pushed_at: "2026-11-09T14:50:55Z"
 ---
 ## What it is
 Provides tools to inspect Unicode characters, escape/unescape strings in various formats (JS, HTML, URL), all offline and keyless.

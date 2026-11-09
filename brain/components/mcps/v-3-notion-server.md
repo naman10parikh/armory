@@ -8,7 +8,7 @@ source_url: https://github.com/v-3/notion-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 119
+stars: 118
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

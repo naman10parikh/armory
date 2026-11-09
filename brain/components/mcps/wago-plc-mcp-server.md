@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-02T14:57:36Z"
+pushed_at: "2026-11-05T16:09:32Z"
 ---
 ## What it is
 MCP server that connects WAGO PLCs to LLM agents via the WDx/WDA REST API, enabling AI assistants to read sensor values, change configuration, trigger firmware updates, or monitor entire PLC fleets without custom code.

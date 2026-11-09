@@ -8,11 +8,11 @@ source_url: https://github.com/bintocher/mcp-superset
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 64
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 16
+forks: 17
 pushed_at: "2026-10-27T13:45:03Z"
 ---
 ## What it is

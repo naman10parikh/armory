@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-23T12:29:17Z"
+pushed_at: "2026-11-09T15:56:42Z"
 ---
 ## What it is
 MCP server `ENTIA`, catalogued on PulseMCP. Verified business intelligence for AI agents, covering 5.5M+ entities across 34 countries.

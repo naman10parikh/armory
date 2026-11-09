@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-25T12:25:40Z"
+pushed_at: "2026-11-08T11:39:48Z"
 ---
 ## What it is
 MCP server `PostFast`, catalogued on PulseMCP. Schedule and manage social media posts across 10 platforms via the PostFast API.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-01T17:42:41Z"
+pushed_at: "2026-11-08T21:59:39Z"
 ---
 ## What it is
 A lightweight, read-only MCP server for Notion that enables searching, reading pages, and querying databases with token-efficient output and smart caching.

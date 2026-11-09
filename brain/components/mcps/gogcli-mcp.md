@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T09:20:27Z"
+pushed_at: "2026-11-09T13:12:54Z"
 ---
 ## What it is
 MCP server that gives Claude natural-language access to Google Workspace (Sheets, Docs, Gmail, Calendar, Drive, Tasks, Contacts) via gogcli.

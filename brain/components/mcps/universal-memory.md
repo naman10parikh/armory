@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T08:50:52Z"
+pushed_at: "2026-11-06T18:48:55Z"
 ---
 ## What it is
 A vendor-agnostic cognitive persistence layer for AI agents. Eliminate the "repetition tax" by transporting your context, preferences, and history across sessions. Features an auto-adaptation engine that syncs global instructions to ensure operational cohesion and optimize token usage across any LLM

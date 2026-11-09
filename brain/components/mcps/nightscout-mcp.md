@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-30T07:54:50Z"
+forks: 1
+pushed_at: "2026-11-06T07:54:27Z"
 ---
 ## What it is
 Read-only server that lets you query your Nightscout CGM data via natural language, including glucose levels, time-in-range, insulin-on-board, site ages, and hourly patterns.

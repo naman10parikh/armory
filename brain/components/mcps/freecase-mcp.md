@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-11T13:52:30Z"
+pushed_at: "2026-11-03T11:06:18Z"
 ---
 ## What it is
 An MCP connector that lets AI agents search and read U.S. case law and statutes from Freecase, providing tools for full-text search and retrieval of legal documents.

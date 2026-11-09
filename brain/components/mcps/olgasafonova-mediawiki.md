@@ -12,8 +12,8 @@ stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
-pushed_at: "2026-11-02T14:22:59Z"
+forks: 9
+pushed_at: "2026-11-09T15:44:30Z"
 ---
 ## What it is
 MCP server `MediaWiki`, catalogued on PulseMCP. Integrates with MediaWiki wikis for searching, reading, editing pages, and analyzing wiki content and link structures.

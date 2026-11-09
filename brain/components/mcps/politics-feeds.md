@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T05:46:53Z"
+pushed_at: "2026-11-09T14:33:43Z"
 ---
 ## What it is
 Enables browsing and fetching curated politics and policy news feeds from various sources, with options to filter by category or keyword.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T06:38:51Z"
+pushed_at: "2026-11-09T14:47:09Z"
 ---
 ## What it is
 Enables AI agents to query sports data including teams, players, events, and standings from TheSportsDB through natural language or direct tool calls.

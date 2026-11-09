@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T10:14:47Z"
+pushed_at: "2026-11-06T04:39:28Z"
 ---
 ## What it is
 A reference MCP server that enforces identity-aware tool access using role-based permissions (Reader, Analyst, Auditor) and supports multiple identity routes like Entra RBAC, Copilot Studio, and Okta XAA. It provides read-only access to test evidence with explicit denial paths for unauthorized tools

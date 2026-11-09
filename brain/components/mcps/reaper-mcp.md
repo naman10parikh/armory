@@ -8,13 +8,13 @@ source_url: https://github.com/TwelveTake-Studios/reaper-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 102
+stars: 104
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 18
-pushed_at: "2026-10-28T12:56:45Z"
+forks: 19
+pushed_at: "2026-11-09T14:49:56Z"
 ---
 ## What it is
 A comprehensive MCP server that enables AI assistants to control REAPER DAW for mixing, mastering, MIDI composition, and full music production workflows with 130 tools.

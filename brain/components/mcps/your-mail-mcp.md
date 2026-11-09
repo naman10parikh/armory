@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-30T10:01:10Z"
+pushed_at: "2026-11-04T15:50:43Z"
 ---
 ## What it is
 Enables read-only search and retrieval of your email across multiple IMAP accounts through a local notmuch index, served over authenticated HTTP for MCP clients like Claude or Codex.

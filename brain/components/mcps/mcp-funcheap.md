@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T01:55:09Z"
+pushed_at: "2026-11-09T14:02:21Z"
 ---
 ## What it is
 Enables querying San Francisco Bay Area events from Funcheap, including event details, tags, and categories.

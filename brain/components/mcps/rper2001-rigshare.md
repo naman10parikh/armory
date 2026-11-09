@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-23T00:57:09Z"
+pushed_at: "2026-11-04T02:51:33Z"
 ---
 ## What it is
 MCP server `RigShare`, catalogued on PulseMCP. Construction equipment and robotics hardware rental marketplace with tools for searching listings, viewing bookings, and creating reservations.

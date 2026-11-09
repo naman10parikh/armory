@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-02T07:33:09Z"
+pushed_at: "2026-11-08T16:32:31Z"
 ---
 ## What it is
 A pre-payment safety gate for x402 that screens payment metadata for PII, enforces spending policies, and detects replay attacks before signing.

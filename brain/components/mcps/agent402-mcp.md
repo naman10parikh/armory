@@ -8,13 +8,13 @@ source_url: https://github.com/MikeyPetrillo/Agent402
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 49
+stars: 51
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 38
-pushed_at: "2026-11-02T16:17:05Z"
+forks: 37
+pushed_at: "2026-11-09T12:35:40Z"
 ---
 ## What it is
 Open-source MCP server exposing the Agent402.Tools catalog: 500+ deterministic pay-per-call tools for AI agents, including browser rendering, web search, PDFs, OCR, LLM inference, code execution, live financial/crypto/macro data, SEC EDGAR, and wallet-keyed memory. Free via proof-of-work, or pay per

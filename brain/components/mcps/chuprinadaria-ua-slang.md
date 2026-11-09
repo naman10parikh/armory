@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-02T14:42:33Z"
+pushed_at: "2026-11-09T15:04:35Z"
 ---
 ## What it is
 MCP server `UA Slang`, catalogued on PulseMCP. Daily-updated dictionary of contemporary Ukrainian internet slang and memes scraped from Threads.

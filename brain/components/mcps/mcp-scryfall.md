@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T06:08:42Z"
+pushed_at: "2026-11-09T14:39:34Z"
 ---
 ## What it is
 Provides access to Magic: The Gathering card database, enabling listing of sets and expansions.

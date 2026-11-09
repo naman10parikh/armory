@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-13T15:47:54Z"
+pushed_at: "2026-11-06T00:45:29Z"
 ---
 ## What it is
 Enables managing Cloudflare Workers through Claude, with read-only tools for listing and viewing workers, and planned deployment of static sites and worker scripts via natural language.

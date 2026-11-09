@@ -8,13 +8,13 @@ source_url: https://github.com/FLOX-Foundation/flox
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 229
+stars: 231
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 40
-pushed_at: "2026-11-01T22:15:01Z"
+pushed_at: "2026-11-09T17:14:47Z"
 ---
 ## What it is
 MCP server for the FLOX trading framework. About 30 tools to run backtests, scaffold strategies, validate for lookahead bias, compute indicators, place orders, and query PnL from Claude/Cursor.

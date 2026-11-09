@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-28T11:10:10Z"
+pushed_at: "2026-11-07T23:59:29Z"
 ---
 ## What it is
 Runtime call-chain anomaly monitor for MCP servers that detects emergent attacks and rug-pull patterns by analyzing sequences of tool calls across sessions.

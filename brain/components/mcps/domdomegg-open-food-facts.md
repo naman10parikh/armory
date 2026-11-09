@@ -8,12 +8,12 @@ source_url: https://github.com/domdomegg/openfoodfacts-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-25T04:48:17Z"
+pushed_at: "2026-11-08T19:32:38Z"
 ---
 ## What it is
 MCP server `Open Food Facts`, catalogued on PulseMCP. Searches and contributes to the Open Food Facts open food database.

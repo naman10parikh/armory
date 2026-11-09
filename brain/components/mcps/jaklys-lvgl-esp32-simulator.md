@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-09-28T18:39:25Z"
+pushed_at: "2026-11-07T22:51:34Z"
 ---
 ## What it is
 MCP server `LVGL ESP32 Simulator`, catalogued on PulseMCP. Headless LVGL simulator for ESP32 UI development that compiles C code, renders PNG screenshots, and exports widget trees without physical hardware.

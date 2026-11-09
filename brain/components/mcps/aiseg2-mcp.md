@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-30T20:22:33Z"
+pushed_at: "2026-11-08T21:13:44Z"
 ---
 ## What it is
 An unofficial read-only MCP server for Panasonic AiSEG2 home energy management controllers, enabling clients to read live power flow, per-circuit consumption, circuit names, daily totals, and historical energy/cost data from the device's local web interface.

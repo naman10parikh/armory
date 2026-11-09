@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-02T05:49:36Z"
+pushed_at: "2026-11-09T10:14:39Z"
 ---
 ## What it is
 Keyless, local MCP server bringing ISTQB / OWASP / IEEE / ISO / EU AI Act QA standards into your AI client. Standards-grounded retrieval, deterministic QA effort estimation, automated QA document quality review (0-100 rubric), and JUnit/CSV test-results flakiness analysis.

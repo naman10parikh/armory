@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T20:22:32Z"
+pushed_at: "2026-11-09T15:19:28Z"
 ---
 ## What it is
 Enables local management of approved project folders through tools for file operations, project status, backups, health checks, git checkpoints, and rollback. Operations are restricted to configured allowed roots.

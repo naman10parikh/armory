@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T12:49:23Z"
+pushed_at: "2026-11-08T12:45:27Z"
 ---
 ## What it is
 Enables AI agents to read and write a self-hosted portfolio tracker through 25 MCP tools, covering net worth, flows, forecasts, decisions, and audit.

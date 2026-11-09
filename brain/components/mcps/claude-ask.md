@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T00:17:15Z"
+pushed_at: "2026-11-08T03:27:05Z"
 ---
 ## What it is
 Enables users to request a second opinion from a locally authenticated Claude Code model via MCP tools, supporting asynchronous jobs with restricted tools for safety.

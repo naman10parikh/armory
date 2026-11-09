@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-09-20T02:32:31Z"
+pushed_at: "2026-11-02T17:54:58Z"
 ---
 ## What it is
 MCP server `MLB Stats`, catalogued on PulseMCP. Integrates with MLB Stats API and pybaseball library to provide comprehensive baseball statistics, Statcast data, player lookups, team standings, schedules, prospect information, and generates matplotlib visualizations including strike zone plots and spray charts for sports analytics and performance evaluation.

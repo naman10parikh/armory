@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 28
-pushed_at: "2026-07-29T13:16:41Z"
+pushed_at: "2026-11-05T09:12:17Z"
 ---
 ## What it is
 MCP server `Humane Proxy`, catalogued on PulseMCP. AI safety middleware that detects self-harm and criminal intent in LLM prompts.

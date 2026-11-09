@@ -8,12 +8,12 @@ source_url: https://github.com/gefsikatsinelou/MetaSearchMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 59
+stars: 57
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-10-19T20:35:06Z"
 ---
 ## What it is

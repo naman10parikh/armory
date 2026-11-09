@@ -8,12 +8,12 @@ source_url: https://github.com/okx/agent-trade-kit
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 499
+stars: 504
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 80
+forks: 82
 pushed_at: "2026-11-02T10:59:41Z"
 ---
 ## What it is

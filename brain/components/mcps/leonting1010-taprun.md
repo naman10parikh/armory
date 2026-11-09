@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-09T07:41:04Z"
+pushed_at: "2026-11-06T13:45:02Z"
 ---
 ## What it is
 MCP server `Taprun`, catalogued on PulseMCP. Local-first browser automation platform that compiles AI-inspected websites into deterministic programs.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-21T09:45:31Z"
+pushed_at: "2026-11-08T22:35:05Z"
 ---
 ## What it is
 Enables AI agents to control a real web browser (Firefox) via Selenium WebDriver, supporting page navigation, interaction, and inspection through natural language.

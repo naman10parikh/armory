@@ -8,13 +8,13 @@ source_url: https://github.com/apify/apify-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14375
+stars: 15423
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 417
-pushed_at: "2026-11-02T15:18:22Z"
+forks: 439
+pushed_at: "2026-11-09T10:37:50Z"
 ---
 ## What it is
 MCP server `Apify`, catalogued on PulseMCP. Extract data from any website with thousands of scrapers, crawlers, and automations on Apify Store. Use ready-made tools to access all popular social media, e-commerce, search engines, maps, and travel sites.

@@ -8,12 +8,12 @@ source_url: https://github.com/qualixar/superlocalmemory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 270
+stars: 274
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 37
-pushed_at: "2026-10-28T15:22:49Z"
+forks: 38
+pushed_at: "2026-11-09T12:40:45Z"
 ---
 ## What it is
 MCP server `SuperLocalMemory`, catalogued on PulseMCP. Local-first AI memory with knowledge graphs and hybrid search.

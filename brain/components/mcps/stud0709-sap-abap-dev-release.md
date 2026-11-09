@@ -12,8 +12,8 @@ stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-10-21T13:44:40Z"
+forks: 1
+pushed_at: "2026-11-03T11:43:15Z"
 ---
 ## What it is
 MCP server `SAP ABAP Dev Release`, catalogued on PulseMCP. Bridges AI agents to legacy SAP ABAP systems for read-only code exploration and documentation generation.

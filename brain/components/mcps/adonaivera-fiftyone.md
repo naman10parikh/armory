@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-10-28T05:02:16Z"
+pushed_at: "2026-11-05T21:19:17Z"
 ---
 ## What it is
 MCP server `FiftyOne`, catalogued on PulseMCP. Control FiftyOne computer vision datasets through MCP tools

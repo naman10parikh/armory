@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, workflows-knowledge-guides]
-stars: 932
-forks: 76
-pushed_at: "2026-02-03T08:34:43Z"
+stars: 933
+forks: 77
+pushed_at: "2026-11-08T03:22:07Z"
 ---
 ## What it is
 A curated list of resources about Ralph, the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled.

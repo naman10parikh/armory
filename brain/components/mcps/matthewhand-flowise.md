@@ -12,8 +12,8 @@ stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 23
-pushed_at: "2026-10-28T18:28:57Z"
+forks: 24
+pushed_at: "2026-11-06T02:01:28Z"
 ---
 ## What it is
 MCP server `Flowise`, catalogued on PulseMCP. Integrates Flowise chatflows and assistants with MCP, enabling seamless incorporation of AI-powered conversational interfaces into existing systems.

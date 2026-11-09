@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-10-29T06:08:54Z"
+pushed_at: "2026-11-06T02:43:42Z"
 ---
 ## What it is
 MCP server `Gyazo`, catalogued on PulseMCP. Integrates with Gyazo to retrieve Gyazo images and metadata, enabling image analysis and content processing.

@@ -8,14 +8,14 @@ source_url: https://github.com/Anil-matcha/open-duet
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 6517
+stars: 6933
 eval_score: null
 mentions: 1
 verified_at: 2026-10-25
 related: []
 tags: [sentinel-feed, memory]
-forks: 810
-pushed_at: "2026-11-02T15:58:21Z"
+forks: 894
+pushed_at: "2026-11-09T16:32:25Z"
 ---
 ## What it is
 Open-source, self-hosted alternative to Claude Duet: AI coworkers (named agents) with instructions, memory, routines, their own isolated computer, and your approval before they act. Also an alternative to OpenAI Dots, Meta Muse, Grok Bot, Manus Cue and ChatGPT agent.

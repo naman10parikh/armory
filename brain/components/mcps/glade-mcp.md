@@ -8,12 +8,12 @@ source_url: https://github.com/Glade-tool/glade-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 213
+stars: 201
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 23
+forks: 21
 pushed_at: "2026-11-01T21:08:34Z"
 ---
 ## What it is

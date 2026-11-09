@@ -8,13 +8,13 @@ source_url: https://github.com/helbertparanhos/vercel-mcp-pro
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-01T17:24:14Z"
+pushed_at: "2026-11-03T03:42:14Z"
 ---
 ## What it is
 A comprehensive MCP server with 70 tools covering the entire Vercel REST API, enabling management of deployments, projects, environment variables, domains, DNS, aliases, certificates, logs, checks, webhooks, edge config, and teams via a Vercel access token.

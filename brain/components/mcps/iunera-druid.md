@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-08-31T15:18:41Z"
+pushed_at: "2026-11-02T22:38:24Z"
 ---
 ## What it is
 MCP server `Apache Druid`, catalogued on PulseMCP. Integrates with Apache Druid clusters to enable SQL querying, data ingestion management, cluster monitoring, and administrative operations including datasource management, task control, retention policies, and health diagnostics.

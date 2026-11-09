@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T15:54:05Z"
+pushed_at: "2026-11-07T05:58:58Z"
 ---
 ## What it is
 A version-aware MCP server that provides the World of Warcraft retail AddOn API with pinned documentation snapshots, enabling lookups, searches, comparisons, and diffs of APIs across patches.

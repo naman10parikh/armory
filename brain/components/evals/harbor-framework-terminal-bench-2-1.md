@@ -8,14 +8,14 @@ source_url: https://github.com/harbor-framework/terminal-bench-2-1
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 131
+stars: 137
 eval_score: null
 mentions: 4
 verified_at: 2026-09-26
 related: []
 tags: [sentinel-feed, evals]
-forks: 72
-pushed_at: "2026-09-19T20:49:50Z"
+forks: 73
+pushed_at: "2026-11-05T20:22:18Z"
 ---
 ## What it is
 Terminal-Bench 2.1

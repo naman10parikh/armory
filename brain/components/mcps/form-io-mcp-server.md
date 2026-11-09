@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-30T19:43:08Z"
+pushed_at: "2026-11-06T16:49:07Z"
 ---
 ## What it is
 Enables AI agents to manage forms, roles, actions, and projects on a Form.io Enterprise Server via MCP tools, turning it into a composable backend for agentically coded applications.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-01T01:56:07Z"
+pushed_at: "2026-11-09T13:52:55Z"
 ---
 ## What it is
 MCP server `Disify`, catalogued on PulseMCP. Validate email addresses and detect disposable or temporary email domains using Disify.

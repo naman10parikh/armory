@@ -8,12 +8,12 @@ source_url: https://github.com/anyproto/anytype-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 537
+stars: 538
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 62
-pushed_at: "2026-11-02T16:56:34Z"
+forks: 63
+pushed_at: "2026-11-07T19:04:57Z"
 ---
 ## What it is
 MCP server `Anytype`, catalogued on PulseMCP. Converts any OpenAPI 3.0/3.1 specification into callable tools by automatically generating schemas from REST API endpoints, handling authentication via environment variables, and supporting file uploads through multipart form-data while filtering out destructive operations.

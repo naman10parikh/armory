@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-16T23:08:54Z"
+pushed_at: "2026-11-02T23:11:17Z"
 ---
 ## What it is
 Local-first, read-only MCP server for retrieving and searching authorised CCSDS and ECSS standards, enabling citation-rich passage-level search and document access.

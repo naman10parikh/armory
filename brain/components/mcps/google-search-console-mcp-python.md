@@ -8,13 +8,13 @@ source_url: https://github.com/locomotive-agency/google-search-console-mcp-pytho
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-28T15:55:09Z"
+pushed_at: "2026-11-07T05:10:18Z"
 ---
 ## What it is
 MCP server for Google Search Console API that enables querying search analytics, managing sites, inspecting URLs, and supporting domain delegation via service accounts.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-21T21:54:04Z"
+pushed_at: "2026-11-08T12:09:33Z"
 ---
 ## What it is
 Enables secure file transfers (FTP/FTPS/SFTP) with built-in SHA-256 verification proofs, ensuring every upload and download is cryptographically verified for integrity.

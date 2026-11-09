@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-02T12:47:21Z"
+pushed_at: "2026-11-09T07:49:19Z"
 ---
 ## What it is
 qflow is an MCP server that transforms AI editors into project managers with 50 built-in tools, requiring no API keys.

@@ -8,12 +8,12 @@ source_url: https://github.com/jonradoff/lightcms
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-10-17T00:33:04Z"
+pushed_at: "2026-11-06T11:45:40Z"
 ---
 ## What it is
 MCP server `LightCMS`, catalogued on PulseMCP. AI-native CMS with 41 tools for managing websites through natural language.

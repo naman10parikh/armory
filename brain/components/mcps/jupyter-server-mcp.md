@@ -8,12 +8,12 @@ source_url: https://github.com/jupyter-ai-contrib/jupyter-server-mcp
 license: BSD 3-Clause
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 32
+stars: 33
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
+forks: 13
 pushed_at: "2026-10-12T19:31:29Z"
 ---
 ## What it is

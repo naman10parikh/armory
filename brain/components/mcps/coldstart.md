@@ -8,13 +8,13 @@ source_url: https://github.com/AkashGoenka/coldstart
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-29T08:15:10Z"
+pushed_at: "2026-11-09T17:12:00Z"
 ---
 ## What it is
 coldstart gives coding agents durable memory of a specific codebase, with no embeddings, no vector store, and no API key. Agents write notes after real tasks — what a file is for, how a flow spans files, which invariants hold — and those notes are surfaced automatically to a later session whose task

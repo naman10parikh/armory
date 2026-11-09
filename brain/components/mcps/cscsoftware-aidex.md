@@ -13,7 +13,7 @@ related: []
 tags: [mcp, developer-tools]
 stars: 48
 forks: 13
-pushed_at: "2026-10-29T17:55:18Z"
+pushed_at: "2026-11-08T20:12:14Z"
 ---
 ## What it is
 Persistent code index MCP server using Tree-sitter for fast, precise code search. Replaces grep with ~50 token responses instead of 2000+. Supports 11 languages including C#, TypeScript, Python, Rust, and Go.

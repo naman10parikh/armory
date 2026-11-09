@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 14
-pushed_at: "2026-10-27T23:09:19Z"
+pushed_at: "2026-11-05T06:01:48Z"
 ---
 ## What it is
 MCP server `Thunder Compute`, catalogued on PulseMCP. GPU cloud platform — create, manage, and monitor instances, snapshots, SSH keys, and billing.

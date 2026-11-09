@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-31T21:00:01Z"
+pushed_at: "2026-11-04T18:54:25Z"
 ---
 ## What it is
 MCP server `Pirsch Analytics`, catalogued on PulseMCP. Access Pirsch Analytics data including pageviews, sessions, and events with natural language queries.

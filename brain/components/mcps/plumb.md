@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-02T00:12:27Z"
+pushed_at: "2026-11-09T00:12:33Z"
 ---
 ## What it is
 Plumb is an MCP server that provides coding agents with IDE-level intelligence (LSP, tree-sitter index) and safe, atomic file writes with transactional rollback and crash resilience.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-01T13:42:43Z"
+pushed_at: "2026-11-02T20:35:34Z"
 ---
 ## What it is
 MCP server `WebMCP SDK`, catalogued on PulseMCP. W3C WebMCP toolkit for Chrome 146 to expose websites as structured tools for agents.
