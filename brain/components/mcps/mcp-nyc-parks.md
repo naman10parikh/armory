@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T05:16:18Z"
+pushed_at: "2026-11-09T14:26:10Z"
 ---
 ## What it is
 Enables listing categories used across NYC Parks events with counts, such as 'Best for Kids', 'Sports', 'Nature Exploration', 'Fitness'.

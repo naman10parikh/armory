@@ -14,8 +14,8 @@ mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, evals]
-forks: 65
-pushed_at: "2026-09-18T07:51:29Z"
+forks: 66
+pushed_at: "2026-11-05T10:34:56Z"
 ---
 ## What it is
 An in-the-wild benchmark for AI agents in the production harness.

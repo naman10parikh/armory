@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T07:10:32Z"
+pushed_at: "2026-11-06T20:50:01Z"
 ---
 ## What it is
 Provides weather data from WeatherAPI.com through MCP, enabling AI agents to query current conditions and forecasts via natural language.

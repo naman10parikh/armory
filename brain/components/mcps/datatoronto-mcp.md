@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T21:03:19Z"
+pushed_at: "2026-11-09T13:49:41Z"
 ---
 ## What it is
 Enables AI agents to query City of Toronto open data through the CKAN API, providing access to 893+ live data sources via Pipeworx.

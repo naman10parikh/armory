@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-22T14:43:52Z"
+pushed_at: "2026-11-09T17:58:31Z"
 ---
 ## What it is
 A Model Context Protocol server that stores personal context as structured Markdown files with a knowledge graph, enabling AI agents to query identity, devices, servers, and projects on-demand.

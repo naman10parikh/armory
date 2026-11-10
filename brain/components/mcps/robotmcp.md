@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 21
-pushed_at: "2026-11-03T02:35:29Z"
+forks: 22
+pushed_at: "2026-11-10T02:35:16Z"
 ---
 ## What it is
 RobotMCP is a comprehensive Model Context Protocol (MCP) server that bridges the gap between human language and Robot Framework automation. It enables AI agents to understand test intentions, execute steps interactively, and generate complete test suites from successful executions.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-11-02T16:07:37Z"
+forks: 8
+pushed_at: "2026-11-10T14:00:59Z"
 ---
 ## What it is
 Enables AI assistants to interact with FortiAnalyzer for log analysis, reporting, security monitoring, and SOC operations via the JSON-RPC API.

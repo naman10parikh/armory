@@ -8,7 +8,7 @@ source_url: https://github.com/wgt19861219/godot-mcp-enhanced
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 103
+stars: 104
 eval_score: null
 verified_at: 2026-05-27
 related: []

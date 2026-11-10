@@ -12,8 +12,8 @@ stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
-pushed_at: "2026-10-27T14:03:04Z"
+forks: 11
+pushed_at: "2026-11-07T22:00:03Z"
 ---
 ## What it is
 MCP server `Wiki.js`, catalogued on PulseMCP. Integrates with Wiki.js instances through GraphQL API to enable full CRUD operations for wiki pages including search, retrieval, creation, updating, deletion, moving, plus page tree navigation and tag management with authentication support.

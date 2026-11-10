@@ -8,12 +8,12 @@ source_url: https://github.com/redis/mcp-redis
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 641
+stars: 642
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 123
+forks: 124
 pushed_at: "2026-11-03T13:31:58Z"
 ---
 ## What it is

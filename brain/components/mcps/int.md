@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T21:46:46Z"
+pushed_at: "2026-11-05T12:27:26Z"
 ---
 ## What it is
 Self-hosted AI memory system for coding assistants, providing project-scoped memory storage and retrieval via MCP tools (add, search, list, delete) to recall prior learnings without re-running discovery.

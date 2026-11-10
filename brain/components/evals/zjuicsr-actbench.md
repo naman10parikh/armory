@@ -8,13 +8,13 @@ source_url: https://github.com/zjuicsr/ActBench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 mentions: 1
 verified_at: 2026-10-13
 related: []
 tags: [sentinel-feed, evals]
-forks: 0
+forks: 1
 pushed_at: "2026-10-16T13:59:23Z"
 ---
 ## What it is

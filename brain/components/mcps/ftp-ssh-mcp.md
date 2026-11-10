@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T09:14:17Z"
+pushed_at: "2026-11-04T09:01:57Z"
 ---
 ## What it is
 MCP server for managing a remote host via FTP/FTPS/SFTP/SSH, offering file transfer, optional shell execution, and MySQL query tools.

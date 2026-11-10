@@ -8,13 +8,13 @@ source_url: https://github.com/mattmohandiss/cad-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T01:08:15Z"
+pushed_at: "2026-11-08T12:13:59Z"
 ---
 ## What it is
 Give your AI assistant the ability to inspect, measure, and compare 3D CAD models by dropping in a STEP file and asking engineering questions. Runs entirely on your machine with no cloud, no CAD license, and no setup.

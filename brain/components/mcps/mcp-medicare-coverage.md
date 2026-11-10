@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-03T01:51:15Z"
+pushed_at: "2026-11-09T14:18:31Z"
 ---
 ## What it is
 Enables searching and retrieving Medicare coverage policies including National and Local Coverage Determinations, National Coverage Analyses, and recent CMS coverage changes.

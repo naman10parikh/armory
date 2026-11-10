@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T05:34:22Z"
+pushed_at: "2026-11-09T14:30:17Z"
 ---
 ## What it is
 Enables routing, distance matrices, nearest road snapping, GPS trace matching, and trip optimization using the OSRM public demo server.

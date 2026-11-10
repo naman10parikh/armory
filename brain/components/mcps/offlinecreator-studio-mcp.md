@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-30T08:13:04Z"
+pushed_at: "2026-11-04T07:25:53Z"
 ---
 ## What it is
 MCP server for OfflineCreator Studio that enables image and video generation, including model listing, credit management, generation tasks, and output downloads.

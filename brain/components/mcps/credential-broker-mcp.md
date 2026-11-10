@@ -8,13 +8,13 @@ source_url: https://github.com/SarutobiSasuke8/credential-broker-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-30T19:28:05Z"
+pushed_at: "2026-11-09T10:16:16Z"
 ---
 ## What it is
 A local-first MCP server that lets AI agents use gated APIs without holding keys, enforcing declarative policies, injecting secrets server-side, and auditing access without content.

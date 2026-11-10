@@ -12,8 +12,8 @@ stars: 79
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 47
-pushed_at: "2026-11-01T17:38:42Z"
+forks: 48
+pushed_at: "2026-11-05T04:32:13Z"
 ---
 ## What it is
 MCP server `Discourse`, catalogued on PulseMCP. Integrates with Discourse forums through API tools and remote tool discovery, enabling search, content management, user lookup, and automated community operations with configurable security controls and authentication support.

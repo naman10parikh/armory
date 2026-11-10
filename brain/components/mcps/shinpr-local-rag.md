@@ -12,8 +12,8 @@ stars: 429
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 83
-pushed_at: "2026-10-30T21:41:15Z"
+forks: 84
+pushed_at: "2026-11-04T22:39:00Z"
 ---
 ## What it is
 MCP server `Local RAG`, catalogued on PulseMCP. Local RAG for semantic document search without external API calls.

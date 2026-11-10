@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T06:03:29Z"
+pushed_at: "2026-11-09T14:38:03Z"
 ---
 ## What it is
 Enables querying Sveriges Riksbank (Sweden's central bank) data through the SWEA v1 API via MCP tools or natural language, keyless and part of the Pipeworx gateway.

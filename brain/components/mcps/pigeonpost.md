@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-03T12:59:32Z"
+pushed_at: "2026-11-10T14:23:54Z"
 ---
 ## What it is
 Provides asynchronous messaging infrastructure for AI agents, enabling them to get permanent addresses and send/receive encrypted messages via MCP tools.

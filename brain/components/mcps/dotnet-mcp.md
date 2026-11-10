@@ -8,13 +8,13 @@ source_url: https://github.com/jongalloway/dotnet-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 37
+stars: 38
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-11-02T17:40:20Z"
+forks: 5
+pushed_at: "2026-11-09T05:53:07Z"
 ---
 ## What it is
 Give your AI assistant superpowers for .NET development! This MCP server connects GitHub Copilot, Claude, and other AI assistants directly to the .NET SDK, enabling them to create projects, manage packages, run builds, and more—all through natural language.

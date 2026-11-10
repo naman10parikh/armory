@@ -8,12 +8,12 @@ source_url: https://github.com/baruchiro/paperless-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 149
+stars: 150
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 36
-pushed_at: "2026-11-01T18:24:09Z"
+forks: 37
+pushed_at: "2026-11-08T16:26:35Z"
 ---
 ## What it is
 MCP server `Paperless-NGX`, catalogued on PulseMCP. Enables AI to interact with Paperless-NGX document management systems for organizing, searching, and managing document collections through natural language commands.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T00:59:12Z"
+pushed_at: "2026-11-09T13:38:54Z"
 ---
 ## What it is
 Enables queries about global taxonomic data, including scientific name matching, classification chains, common names, and synonyms from the Catalogue of Life index.

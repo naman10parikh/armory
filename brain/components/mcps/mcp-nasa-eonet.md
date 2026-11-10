@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-03T02:03:20Z"
+pushed_at: "2026-11-09T14:22:03Z"
 ---
 ## What it is
 Enables querying NASA's Earth Observatory Natural Event Tracker (EONET) for natural events, categories, sources, and visualization layers.

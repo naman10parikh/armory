@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-29T06:32:47Z"
+pushed_at: "2026-11-09T14:45:06Z"
 ---
 ## What it is
 MCP server `Star Wars API`, catalogued on PulseMCP. Wraps the Star Wars API for character, planet, starship, and film data.

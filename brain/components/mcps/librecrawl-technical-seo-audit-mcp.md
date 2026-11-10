@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-26T07:51:31Z"
+pushed_at: "2026-11-09T09:45:29Z"
 ---
 ## What it is
 Open-source technical SEO crawler MCP server built on LibreCrawl. Runs full audits inside Claude, Cursor, or Codex — 50+ checks (hreflang, schema.org, security headers, WAF detection on 200-OK pages), chunked-progressive engine for large sites, ephemeral by design (server forgets every audit after d

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T07:36:23Z"
+pushed_at: "2026-11-04T05:15:25Z"
 ---
 ## What it is
 Enables interaction with Jira Service Management Operations alerts and on-call schedules, including searching alerts, reading notes and activity logs, acknowledging, closing, annotating, adding responders, and querying current and next on-call rotations.

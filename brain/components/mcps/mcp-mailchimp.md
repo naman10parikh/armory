@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T21:05:26Z"
+pushed_at: "2026-11-09T14:17:02Z"
 ---
 ## What it is
 Manage Mailchimp audiences, campaigns, and members via the Mailchimp Marketing API through natural language queries.

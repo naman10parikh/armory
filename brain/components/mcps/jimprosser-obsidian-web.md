@@ -8,11 +8,11 @@ source_url: https://github.com/jimprosser/obsidian-web-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 188
+stars: 189
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 58
+forks: 59
 pushed_at: "2026-10-26T22:15:58Z"
 ---
 ## What it is

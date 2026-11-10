@@ -8,13 +8,13 @@ source_url: https://github.com/Hainrixz/open-carrusel
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 506
+stars: 516
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 89
+forks: 92
 pushed_at: "2026-10-25T06:03:00Z"
 ---
 ## What it is

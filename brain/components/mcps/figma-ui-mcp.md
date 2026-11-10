@@ -8,12 +8,12 @@ source_url: https://github.com/TranHoaiHung/figma-ui-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 265
+stars: 266
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 52
+forks: 51
 pushed_at: "2026-10-26T07:27:18Z"
 ---
 ## What it is

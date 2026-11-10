@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T03:58:09Z"
+pushed_at: "2026-11-09T13:43:38Z"
 ---
 ## What it is
 Generates conspiracy theories by connecting unrelated concepts, investigating events with multiple theories, or escalating observations into narratives.

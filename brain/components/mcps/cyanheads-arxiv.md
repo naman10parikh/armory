@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-29T10:23:00Z"
+pushed_at: "2026-11-08T18:54:06Z"
 ---
 ## What it is
 MCP server `arXiv by cyanheads`, catalogued on PulseMCP. Search arXiv papers, fetch metadata in batch, read full HTML content, and browse the category taxonomy.

@@ -12,8 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, finance-fintech]
 stars: 171
-forks: 55
-pushed_at: "2026-10-31T15:30:58Z"
+forks: 56
+pushed_at: "2026-11-09T14:27:06Z"
 ---
 ## What it is
 Deep Research for crypto - free & fully local

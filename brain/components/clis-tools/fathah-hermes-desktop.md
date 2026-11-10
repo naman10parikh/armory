@@ -8,13 +8,13 @@ source_url: https://github.com/fathah/hermes-desktop
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 14523
+stars: 14558
 eval_score: null
 mentions: 3
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 1632
+forks: 1631
 pushed_at: "2026-10-13T14:53:59Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-14T07:42:11Z"
+pushed_at: "2026-11-10T15:07:25Z"
 ---
 ## What it is
 Official MCP server for Publora that enables AI assistants to schedule posts, manage accounts, and retrieve analytics across multiple social media platforms through natural language.

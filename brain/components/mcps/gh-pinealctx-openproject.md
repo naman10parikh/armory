@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-04T04:26:39Z"
+pushed_at: "2026-11-08T08:21:29Z"
 ---
 ## What it is
 MCP server `OpenProject`, catalogued on PulseMCP. Go-based project management integration for OpenProject with comprehensive CRUD operations across projects, work packages, time tracking, boards, and notifications.

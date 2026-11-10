@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-30T07:34:57Z"
+pushed_at: "2026-11-09T13:28:43Z"
 ---
 ## What it is
 Enables AI agents to search and query City of Fairfield, California open geospatial datasets (parcels, zoning, public works) via ArcGIS Feature Services.

@@ -8,13 +8,13 @@ source_url: https://github.com/jingyaogong/minimind
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 64827
+stars: 65095
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 8485
+forks: 8530
 pushed_at: "2026-10-27T06:57:09Z"
 ---
 ## What it is

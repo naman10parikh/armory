@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-24T20:12:20Z"
+pushed_at: "2026-11-08T23:39:10Z"
 ---
 ## What it is
 Local MCP server for editing Power BI Project reports saved in PBIR format.

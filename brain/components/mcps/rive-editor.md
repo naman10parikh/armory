@@ -12,8 +12,8 @@ stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 59
-pushed_at: "2026-11-03T03:12:26Z"
+forks: 61
+pushed_at: "2026-11-10T03:48:50Z"
 ---
 ## What it is
 MCP server `Rive Editor`, catalogued on PulseMCP. Connects the Rive Editor to enable automated creation of complex View Models, State Machines, Layouts, and Shapes through natural language prompts, requiring the Early Access app to be running and 'End Prompt' commands to execute changes.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-01T21:19:55Z"
+pushed_at: "2026-11-10T00:04:35Z"
 ---
 ## What it is
 Provides betting intelligence and analytics tools including exposure, CLV, sharp scoring, live betting, and Fantasy402 integration, running on Cloudflare Edge.

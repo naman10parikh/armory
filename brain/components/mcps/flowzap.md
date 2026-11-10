@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-20T14:41:32Z"
+pushed_at: "2026-11-08T22:04:27Z"
 ---
 ## What it is
 MCP server `FlowZap`, catalogued on PulseMCP. Generates workflow and sequence diagrams via FlowZap Code.

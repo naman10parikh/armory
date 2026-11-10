@@ -12,8 +12,8 @@ stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 42
-pushed_at: "2026-11-02T16:16:01Z"
+forks: 43
+pushed_at: "2026-11-09T16:16:06Z"
 ---
 ## What it is
 MCP server `ConnectWise Manage`, catalogued on PulseMCP. Enables AI assistants to manage ConnectWise Manage tickets, companies, contacts, projects, time entries, and configurations.

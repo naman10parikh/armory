@@ -12,8 +12,8 @@ stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
-pushed_at: "2026-11-03T14:43:34Z"
+forks: 12
+pushed_at: "2026-11-09T19:15:54Z"
 ---
 ## What it is
 MCP server `Agent BOM`, catalogued on PulseMCP. AI infrastructure security scanner for CVEs, SBOMs, compliance checks, and dependency auditing.

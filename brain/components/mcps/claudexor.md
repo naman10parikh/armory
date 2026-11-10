@@ -8,13 +8,13 @@ source_url: https://github.com/razzant/claudexor
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 522
+stars: 524
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 57
-pushed_at: "2026-11-03T14:26:32Z"
+forks: 59
+pushed_at: "2026-11-10T15:03:16Z"
 ---
 ## What it is
 MCP control plane for Claude Code, Codex, Cursor, and OpenCode. Supports opt-in quota-aware rotation across multiple native Claude Code or Codex subscription accounts of the same harness, with isolated credentials, separate quotas, and bounded task handoffs.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T23:39:55Z"
+pushed_at: "2026-11-08T23:35:48Z"
 ---
 ## What it is
 MCP server for the Canton of Bern tax portal TaxMe/BE-Login that reads account statements and tax returns via Playwright browser automation.

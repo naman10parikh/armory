@@ -8,7 +8,7 @@ source_url: https://github.com/dcatfly/weixin_claude_code
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 57
+stars: 56
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

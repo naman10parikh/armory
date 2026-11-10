@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-13T07:40:04Z"
+pushed_at: "2026-11-09T14:37:57Z"
 ---
 ## What it is
 MCP server `Rick and Morty`, catalogued on PulseMCP. Provides character, location, and episode data from The Rick and Morty API.

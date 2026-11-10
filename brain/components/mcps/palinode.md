@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 49
-pushed_at: "2026-10-20T15:05:46Z"
+pushed_at: "2026-11-10T03:55:50Z"
 ---
 ## What it is
 MCP server `Palinode`, catalogued on PulseMCP. Git-versioned markdown memory for AI agents with search, save, compact, lint, and audit tools.

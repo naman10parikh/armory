@@ -11,8 +11,8 @@ maturity: beta
 verified_at: 2026-05-26
 related: [britfix, cc-notify]
 tags: [claude-code, hooks]
-stars: 625
-forks: 103
+stars: 651
+forks: 108
 pushed_at: "2026-10-21T03:44:10Z"
 ---
 ## What it is

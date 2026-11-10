@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
-pushed_at: "2026-10-31T09:04:12Z"
+forks: 10
+pushed_at: "2026-11-04T11:39:20Z"
 ---
 ## What it is
 Provides secure, direct file system access to Obsidian vault files, enabling search, read, write, and discovery of notes without requiring the Obsidian app.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-05T11:15:50Z"
+pushed_at: "2026-11-09T18:06:21Z"
 ---
 ## What it is
 MCP server `League of Legends`, catalogued on PulseMCP. League of Legends data and AI-powered coaching via Riot Games API.

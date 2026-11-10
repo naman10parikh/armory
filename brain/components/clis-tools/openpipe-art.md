@@ -8,14 +8,14 @@ source_url: https://github.com/OpenPipe/ART
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 10838
+stars: 10850
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1010
-pushed_at: "2026-10-26T23:55:47Z"
+forks: 1015
+pushed_at: "2026-11-10T13:22:36Z"
 ---
 ## What it is
 Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more!

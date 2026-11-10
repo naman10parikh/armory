@@ -8,13 +8,13 @@ source_url: https://github.com/schpet/linear-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1034
+stars: 1044
 eval_score: null
 mentions: 1
 verified_at: 2026-10-29
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 93
+forks: 95
 pushed_at: "2026-10-23T06:12:03Z"
 ---
 ## What it is

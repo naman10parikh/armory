@@ -8,13 +8,13 @@ source_url: https://github.com/PascaleBeier/hitkeep
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 105
+stars: 106
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 11
-pushed_at: "2026-11-03T10:32:02Z"
+pushed_at: "2026-11-07T07:54:18Z"
 ---
 ## What it is
 Read-only MCP server for aggregate HitKeep analytics and official documentation, including traffic, events, goals, funnels, ecommerce, Search Console, and AI visibility reporting.

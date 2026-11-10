@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T21:01:23Z"
+pushed_at: "2026-11-09T13:59:12Z"
 ---
 ## What it is
 Enables querying FDA medical device regulatory databases including 510(k) clearances, PMA approvals, recalls, and adverse events through natural language.

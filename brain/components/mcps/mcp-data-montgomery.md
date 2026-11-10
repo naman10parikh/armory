@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T20:57:55Z"
+pushed_at: "2026-11-09T13:48:15Z"
 ---
 ## What it is
 MCP server providing access to Montgomery County, MD open data through the Socrata SODA API, enabling querying and analysis of public datasets via natural language.

@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
-stars: 875
-forks: 91
-pushed_at: "2026-10-21T23:56:04Z"
+stars: 961
+forks: 97
+pushed_at: "2026-11-03T23:19:28Z"
 ---
 ## What it is
 MCP server using the Aseprite API to create pixel art

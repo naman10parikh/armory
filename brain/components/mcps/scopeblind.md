@@ -12,8 +12,8 @@ stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
-pushed_at: "2026-10-26T01:00:05Z"
+forks: 5
+pushed_at: "2026-11-07T04:59:14Z"
 ---
 ## What it is
 MCP server `ScopeBlind`, catalogued on PulseMCP. MCP security gateway enforcing per-tool policies, rate limits, and approval gates with signed audit receipts.

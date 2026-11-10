@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-02T22:49:05Z"
+pushed_at: "2026-11-10T11:03:37Z"
 ---
 ## What it is
 Pre-spend trust layer for agents paying over x402 on Solana, providing seller vetting and readiness checks before USDC leaves the wallet.

@@ -8,12 +8,12 @@ source_url: https://github.com/Wilson520403/fgui-agent-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 78
+stars: 79
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 20
+forks: 19
 pushed_at: "2026-11-02T04:24:08Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-02T08:10:41Z"
+pushed_at: "2026-11-10T06:55:58Z"
 ---
 ## What it is
 A standalone MCP server for Beeswax Shares, an SMSF portfolio app. It enables Claude to read portfolio data, recall transactions, upload statements, and propose ledger records for human review.

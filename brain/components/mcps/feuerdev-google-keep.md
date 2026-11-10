@@ -8,12 +8,12 @@ source_url: https://github.com/feuerdev/keep-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 111
+stars: 113
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 33
-pushed_at: "2026-10-31T19:07:49Z"
+forks: 34
+pushed_at: "2026-11-08T15:48:44Z"
 ---
 ## What it is
 MCP server `Google Keep`, catalogued on PulseMCP. Provides a bridge to Google Keep for searching, creating, updating, and deleting notes with safety features that restrict modifications to specifically labeled content.

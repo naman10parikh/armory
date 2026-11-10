@@ -8,13 +8,13 @@ source_url: https://github.com/Space-C0wboy/vicarius-vrx-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T04:00:21Z"
+pushed_at: "2026-11-05T17:23:49Z"
 ---
 ## What it is
 An MCP server that exposes the Vicarius vRx External Data API to AI assistants, providing 88 tools across 37 API domains for managing vulnerabilities, endpoints, patches, and more, with read-only safety enforcement.

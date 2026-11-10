@@ -8,12 +8,12 @@ source_url: https://github.com/clarilayer/clarilayer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 76
+stars: 71
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 4
 pushed_at: "2026-09-17T17:13:03Z"
 ---
 ## What it is

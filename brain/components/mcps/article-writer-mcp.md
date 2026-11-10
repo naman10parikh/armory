@@ -8,13 +8,13 @@ source_url: https://github.com/Cappybara12/mcp-use
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 343
+stars: 1011
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 17
-pushed_at: "2026-11-01T21:45:45Z"
+forks: 179
+pushed_at: "2026-11-10T14:16:19Z"
 ---
 ## What it is
 Enables automated content creation pipeline: topic research, article writing, image sourcing, and GitHub PR submission for blogs.

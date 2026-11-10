@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-30T07:44:26Z"
+pushed_at: "2026-11-09T13:31:08Z"
 ---
 ## What it is
 Enables searching and querying Pima County, Arizona open geospatial data (parcels, addresses, zoning, public works) through ArcGIS Feature Services.

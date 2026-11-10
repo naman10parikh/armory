@@ -8,13 +8,13 @@ source_url: https://github.com/fireostendere/mcp_diptrace
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-10-13T10:43:39Z"
+forks: 2
+pushed_at: "2026-11-08T13:56:38Z"
 ---
 ## What it is
 Enables reading, analysis, and safe modification of DipTrace PCB designs via natural language, with live integration and offline XML support.

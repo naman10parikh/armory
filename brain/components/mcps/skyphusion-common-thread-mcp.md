@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-30T16:05:13Z"
+pushed_at: "2026-11-09T23:49:03Z"
 ---
 ## What it is
 MCP server for Common Thread that enables agents to drive the full investigation API, including creating investigations, managing seeds, ingesting data, attribution, and generating evidence packets.

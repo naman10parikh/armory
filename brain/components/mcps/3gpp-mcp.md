@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-11-02T22:25:02Z"
+forks: 2
+pushed_at: "2026-11-08T21:37:30Z"
 ---
 ## What it is
 MCP server that parses 3GPP .docx specifications into structured sections with full-text search, letting LLMs browse, search, and follow cross-references without a vector database.

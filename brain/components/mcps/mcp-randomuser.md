@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T05:56:08Z"
+pushed_at: "2026-11-09T14:36:06Z"
 ---
 ## What it is
 Wraps the randomuser.me API to generate random user profiles with names, contact info, and demographics, optionally filtered by gender and count.

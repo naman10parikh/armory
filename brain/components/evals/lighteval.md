@@ -8,12 +8,12 @@ source_url: https://github.com/huggingface/lighteval
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 2578
+stars: 2583
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, huggingface, benchmark, lightweight]
-forks: 605
+forks: 611
 pushed_at: "2026-10-29T14:15:10Z"
 ---
 ## What it is

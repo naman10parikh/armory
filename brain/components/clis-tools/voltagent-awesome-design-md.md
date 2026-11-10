@@ -8,13 +8,13 @@ source_url: https://github.com/VoltAgent/awesome-design-md
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 125411
+stars: 126440
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 13904
+forks: 13989
 pushed_at: "2026-10-28T15:45:40Z"
 ---
 ## What it is

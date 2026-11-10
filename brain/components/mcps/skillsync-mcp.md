@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-27T04:30:15Z"
+pushed_at: "2026-11-04T05:21:00Z"
 ---
 ## What it is
 An MCP server for searching, security scanning, installing, and managing skills from the SkillsMP marketplace, designed for Claude Code and other MCP-compatible clients.

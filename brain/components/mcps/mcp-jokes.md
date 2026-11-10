@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T20:52:46Z"
+pushed_at: "2026-11-09T14:13:35Z"
 ---
 ## What it is
 Enables searching jokes by keyword and retrieving joke categories using the free JokeAPI v2, with no authentication required.

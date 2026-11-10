@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-02T01:54:49Z"
+pushed_at: "2026-11-10T15:17:18Z"
 ---
 ## What it is
 Self-hosted knowledge mesh with built-in MCP server enabling AI agents to search and retrieve notes across federated hubs.

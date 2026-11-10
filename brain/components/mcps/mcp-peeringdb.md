@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T05:40:39Z"
+pushed_at: "2026-11-09T14:31:58Z"
 ---
 ## What it is
 MCP server that provides access to the PeeringDB peering ecosystem database, enabling AI agents to query peering data through natural language.

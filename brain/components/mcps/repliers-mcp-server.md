@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-10-27T15:17:48Z"
+pushed_at: "2026-11-10T13:36:23Z"
 ---
 ## What it is
 Provides AI assistants access to real-time MLS data via the Repliers API, enabling natural language property search, market statistics, and listing details.

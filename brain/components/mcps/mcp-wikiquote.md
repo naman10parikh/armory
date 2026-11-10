@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T07:14:22Z"
+pushed_at: "2026-11-06T20:53:46Z"
 ---
 ## What it is
 Enables searching and retrieving sourced quotations from Wikiquote, including page summaries, extracts, and daily featured quotes.

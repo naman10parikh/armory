@@ -8,13 +8,13 @@ source_url: https://github.com/miantiao-me/github-stars
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 118
+stars: 119
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 27
-pushed_at: "2026-10-31T22:27:59Z"
+pushed_at: "2026-11-07T22:28:16Z"
 ---
 ## What it is
 Enables natural language search and querying of your GitHub starred repositories.

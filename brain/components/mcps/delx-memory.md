@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-02T11:43:25Z"
+pushed_at: "2026-11-05T16:40:50Z"
 ---
 ## What it is
 Local-first persistent memory MCP: shared SQLite key/value store, searchable, TTL-aware and secret-safe.

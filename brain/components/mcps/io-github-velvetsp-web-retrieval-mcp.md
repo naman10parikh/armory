@@ -8,13 +8,13 @@ source_url: https://github.com/VelvetSP/web-retrieval-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-01T18:32:39Z"
+pushed_at: "2026-11-04T00:00:50Z"
 ---
 ## What it is
 An open-source MCP server providing AI agents with neural web search via Exa and tiered web fetch (Exa, local browser, Firecrawl) as a drop-in replacement for built-in web tools, preserving provenance and guarding against SSRF.

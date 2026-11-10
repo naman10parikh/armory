@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-10-26T16:00:43Z"
+forks: 6
+pushed_at: "2026-11-10T14:18:55Z"
 ---
 ## What it is
 Provides public template contracts, examples, and troubleshooting for generating validated local videos from briefs using Remotion templates, without requiring an API key.

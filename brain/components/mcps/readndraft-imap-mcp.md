@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T13:01:38Z"
+pushed_at: "2026-11-07T13:31:59Z"
 ---
 ## What it is
 Safely searches, reads, flags, and drafts email through IMAP, with no send, delete, or move capabilities. Uses a local broker and OS credential store for secure authentication.

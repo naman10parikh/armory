@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-29T00:54:34Z"
+pushed_at: "2026-11-05T00:54:32Z"
 ---
 ## What it is
 MCP server exposing Lidarr's full v1 REST API as tools for reading and managing artists, albums, tracks, queue, history, and more. It enables LLMs to interact with a Lidarr instance via natural language.

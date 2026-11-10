@@ -8,13 +8,13 @@ source_url: https://github.com/studioinfj-art/stoners-design
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T08:38:57Z"
+pushed_at: "2026-11-05T10:07:50Z"
 ---
 ## What it is
 MCP server providing 51 design skills covering product thinking, UX, visual design, Figma, frontend, motion, branding, and portfolio storytelling, accessible via tools and resources.

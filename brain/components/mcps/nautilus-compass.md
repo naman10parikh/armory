@@ -8,13 +8,13 @@ source_url: https://github.com/chunxiaoxx/nautilus-compass
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1254
+stars: 1258
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 35
-pushed_at: "2026-11-01T14:47:09Z"
+pushed_at: "2026-11-10T15:06:02Z"
 ---
 ## What it is
 Enables AI agents to retain memory of past interactions and detect behavioral drift, preventing repeated mistakes without LLM token extraction.

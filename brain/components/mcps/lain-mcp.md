@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-02T22:12:57Z"
+pushed_at: "2026-11-10T14:51:16Z"
 ---
 ## What it is
 A persistent code-intelligence MCP server that builds a queryable knowledge graph of your codebase, enabling AI assistants to perform cross-file structural reasoning, dependency analysis, and blast radius detection.

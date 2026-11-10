@@ -8,12 +8,12 @@ source_url: https://github.com/holdmybeer-gg/blend-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 185
+stars: 195
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 25
-pushed_at: "2026-10-28T16:33:54Z"
+pushed_at: "2026-11-05T18:07:34Z"
 ---
 ## What it is
 MCP server `Blend AI`, catalogued on PulseMCP. Comprehensive Blender integration with 161 tools across 24 domains for 3D modeling, animation, rendering, sculpting, physics, and scene management through natural language control.

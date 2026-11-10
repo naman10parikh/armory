@@ -8,11 +8,11 @@ source_url: https://github.com/tolenonetwork/toleno-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 258
+stars: 266
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 18
+forks: 20
 pushed_at: "2026-02-25T08:17:44Z"
 ---
 ## What it is

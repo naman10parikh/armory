@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-03T14:38:26Z"
+pushed_at: "2026-11-08T07:59:49Z"
 ---
 ## What it is
 Enables AI agents to use over 100 AI tools for tasks like content generation, image creation, video generation, and problem solving via the AADDYY API.

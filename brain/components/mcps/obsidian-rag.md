@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T22:08:39Z"
+pushed_at: "2026-11-05T23:07:55Z"
 ---
 ## What it is
 Enables semantic search and reading of Obsidian Markdown notes through read-only MCP tools, allowing Claude to retrieve relevant passages from a local vault.

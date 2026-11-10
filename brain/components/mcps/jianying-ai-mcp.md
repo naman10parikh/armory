@@ -8,12 +8,12 @@ source_url: https://github.com/Xanthus-Sanslab/jianying-ai-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 5
 pushed_at: "2026-08-17T08:27:55Z"
 ---
 ## What it is

@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, data-science-tools]
-stars: 27
+stars: 26
 forks: 6
 pushed_at: "2026-10-23T09:34:21Z"
 ---

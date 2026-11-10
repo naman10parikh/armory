@@ -12,8 +12,8 @@ stars: 358
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 50
-pushed_at: "2026-10-31T13:11:13Z"
+forks: 49
+pushed_at: "2026-11-07T09:23:32Z"
 ---
 ## What it is
 MCP server `Omnisearch`, catalogued on PulseMCP. Unifies search and content processing by dynamically selecting optimal providers like Tavily, Brave, and Perplexity to enable flexible information retrieval and enhancement across multiple domains.

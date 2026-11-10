@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-11-03T11:54:00Z"
+forks: 0
+pushed_at: "2026-11-05T10:02:51Z"
 ---
 ## What it is
 Scores companies against a configurable Ideal Customer Profile using firmographic and signal data. Returns a weighted fit score with per-criterion breakdowns.

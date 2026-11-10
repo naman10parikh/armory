@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-11-03T00:33:57Z"
+forks: 0
+pushed_at: "2026-11-05T10:04:48Z"
 ---
 ## What it is
 Resolves a company domain to its LinkedIn company page URL. Lightweight enrichment tool for sales and prospecting workflows.

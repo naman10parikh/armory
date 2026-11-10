@@ -8,12 +8,12 @@ source_url: https://github.com/mervinpraison/praisonai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9321
+stars: 9333
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1503
-pushed_at: "2026-11-03T11:56:00Z"
+forks: 1505
+pushed_at: "2026-11-10T10:09:38Z"
 ---
 ## What it is
 MCP server `PraisonAI`, catalogued on PulseMCP. Multi-agent framework with self-reflection capabilities

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T08:27:10Z"
+pushed_at: "2026-11-09T13:43:12Z"
 ---
 ## What it is
 Enables querying UK Companies House data via natural language, including company profiles, officers, filing history, and other statutory records.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T09:33:30Z"
+pushed_at: "2026-11-05T09:30:56Z"
 ---
 ## What it is
 Enables querying Spain's official company registry (BORME) for company events such as incorporations, director appointments, insolvencies, and capital changes, supporting filters by date, province, and act type.

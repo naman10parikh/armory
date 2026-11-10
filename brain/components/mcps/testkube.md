@@ -8,12 +8,12 @@ source_url: https://github.com/kubeshop/testkube
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1677
+stars: 1678
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 180
-pushed_at: "2026-11-03T13:38:04Z"
+forks: 178
+pushed_at: "2026-11-10T15:34:01Z"
 ---
 ## What it is
 MCP server `Testkube`, catalogued on PulseMCP. Kubernetes-native continuous testing platform providing test orchestration, execution, and analysis

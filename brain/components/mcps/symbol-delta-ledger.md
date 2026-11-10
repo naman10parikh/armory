@@ -8,12 +8,12 @@ source_url: https://github.com/GlitterKill/sdl-mcp
 license: Unlicense - libtelnet variant
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 497
+stars: 498
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 31
+forks: 32
 pushed_at: "2026-10-29T00:09:53Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-11-03T06:53:31Z"
+pushed_at: "2026-11-09T09:14:38Z"
 ---
 ## What it is
 MCP server enabling AI assistants to manage invoices, contacts, products, and other accounting data through the Bukku API.

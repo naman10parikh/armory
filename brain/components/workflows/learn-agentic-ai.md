@@ -8,12 +8,12 @@ source_url: https://github.com/panaversity/learn-agentic-ai
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4394
+stars: 4400
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, tutorials-learning-resources]
-forks: 1006
+forks: 1007
 pushed_at: "2025-10-26T01:09:51Z"
 ---
 ## What it is

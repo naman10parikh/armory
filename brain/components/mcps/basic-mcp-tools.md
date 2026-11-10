@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-08T22:08:09Z"
+pushed_at: "2026-11-05T16:03:38Z"
 ---
 ## What it is
 A self-hosted MCP server providing private web search, web page fetching, and current date/time tools, powered by a bundled SearXNG instance for API-key-free local search.

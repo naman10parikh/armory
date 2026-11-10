@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-18T22:14:58Z"
+pushed_at: "2026-11-09T14:05:28Z"
 ---
 ## What it is
 MCP server for GovData.de, Germany's national open-data portal via CKAN API, enabling AI agents to list publishing organizations and thematic groups.

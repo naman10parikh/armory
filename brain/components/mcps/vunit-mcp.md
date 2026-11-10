@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-03T10:21:14Z"
+pushed_at: "2026-11-10T10:39:20Z"
 ---
 ## What it is
 Enables an LLM or agent to drive a VUnit HDL unit-testing project end to end: list tests, compile, run, and inspect reports and per-test logs.

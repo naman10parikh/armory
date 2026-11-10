@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T06:20:02Z"
+pushed_at: "2026-11-09T14:41:25Z"
 ---
 ## What it is
 Enables searching artists, venues, and setlists from setlist.fm through natural language.

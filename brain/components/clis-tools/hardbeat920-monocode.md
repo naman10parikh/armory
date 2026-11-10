@@ -8,14 +8,14 @@ source_url: https://github.com/hardbeat920/monocode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3530
+stars: 3856
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 408
-pushed_at: "2026-11-03T13:33:59Z"
+forks: 421
+pushed_at: "2026-11-09T09:12:36Z"
 ---
 ## What it is
 A GUI for your coding agents

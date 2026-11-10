@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-23T23:03:54Z"
+pushed_at: "2026-11-04T06:26:15Z"
 ---
 ## What it is
 MCP server `Agent Passport`, catalogued on PulseMCP. Ed25519 identity, delegation, governance, and commerce infrastructure for autonomous agents.

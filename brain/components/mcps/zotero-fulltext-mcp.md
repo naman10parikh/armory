@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-03T11:39:01Z"
+pushed_at: "2026-11-07T06:08:01Z"
 ---
 ## What it is
 Enables searching and reading full text of papers in a Zotero library by converting PDF attachments to Markdown and exposing a full-text search index to LLM tools.

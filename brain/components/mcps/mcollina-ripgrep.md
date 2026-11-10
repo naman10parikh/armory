@@ -8,11 +8,11 @@ source_url: https://github.com/mcollina/mcp-ripgrep
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 78
+stars: 79
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 20
+forks: 21
 pushed_at: "2025-04-29T21:59:02Z"
 ---
 ## What it is

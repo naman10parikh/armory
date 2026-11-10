@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-14T09:33:38Z"
+pushed_at: "2026-11-09T21:40:27Z"
 ---
 ## What it is
 MCP server `ProductPlan`, catalogued on PulseMCP. Integrates with ProductPlan roadmap software for managing bars, OKRs, ideas, launches, and milestones.

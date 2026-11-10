@@ -8,13 +8,13 @@ source_url: https://github.com/gsd-build/get-shit-done
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 64167
+stars: 64159
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 5445
+forks: 5448
 pushed_at: "2026-05-31T17:46:54Z"
 ---
 ## What it is

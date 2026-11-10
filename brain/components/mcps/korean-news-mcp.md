@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-08T23:59:38Z"
+pushed_at: "2026-11-08T05:22:08Z"
 ---
 ## What it is
 MCP server that provides Korean and global AI/tech news via 6 tools (categories, search, trending, article reading, daily briefing) without requiring an API key.

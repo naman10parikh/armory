@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-12T20:41:16Z"
+pushed_at: "2026-11-03T22:50:42Z"
 ---
 ## What it is
 MCP server that connects to your personal YouTube account and exposes your subscription feed, letting you list subscribed channels, recent uploads, and get YouTube watch links for handoff to other MCPs.

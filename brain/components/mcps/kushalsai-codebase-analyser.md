@@ -8,7 +8,7 @@ source_url: https://github.com/kushalsai-01/mcp-server-codebase-analyser
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

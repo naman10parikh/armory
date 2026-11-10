@@ -8,13 +8,13 @@ source_url: https://github.com/RhysSullivan/executor
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4320
+stars: 4379
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 397
-pushed_at: "2026-11-03T13:27:49Z"
+forks: 406
+pushed_at: "2026-11-10T13:54:12Z"
 ---
 ## What it is
 An integration layer for AI agents that provides a catalog of tools from various sources (OpenAPI, GraphQL, MCP, etc.) and can be used as an MCP server for compatible agents.

@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, aggregators]
-stars: 15
+stars: 16
 forks: 2
-pushed_at: "2026-10-04T22:04:49Z"
+pushed_at: "2026-11-07T02:24:23Z"
 ---
 ## What it is
 A universal MCP aggregator toolkit that connects AI agents to multiple MCP servers through a single unified configuration. Features ready-made templates, cross-repo prompt workflows, and an npm package for zero-config installation.universal MCP aggregator toolkit that connects AI agents to multiple MCP servers through a single unified configuration. Features ready-made templates, cross-repo prompt workflows, and an npm package for zero-config installation.

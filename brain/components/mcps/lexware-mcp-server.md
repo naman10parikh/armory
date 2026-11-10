@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-11-02T08:11:21Z"
+forks: 7
+pushed_at: "2026-11-07T11:23:04Z"
 ---
 ## What it is
 MCP server for the Lexware Office API that enables management of invoices, contacts, articles, vouchers, and more through the Model Context Protocol.

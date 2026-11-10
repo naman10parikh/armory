@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T20:52:44Z"
+pushed_at: "2026-11-09T13:46:58Z"
 ---
 ## What it is
 Query and explore Delaware Open Data datasets via Socrata API, including search, filtering, and metadata retrieval.

@@ -8,11 +8,11 @@ source_url: https://github.com/ethbak/icon-composer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 66
+stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
+forks: 3
 pushed_at: "2026-10-03T15:22:42Z"
 ---
 ## What it is

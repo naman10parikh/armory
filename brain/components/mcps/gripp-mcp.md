@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-03T11:09:33Z"
+pushed_at: "2026-11-03T18:49:56Z"
 ---
 ## What it is
 MCP server for the Gripp API, enabling CRUD operations on Gripp entities with built-in confirmation safety for mutations.

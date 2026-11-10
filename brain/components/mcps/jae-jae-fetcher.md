@@ -8,12 +8,12 @@ source_url: https://github.com/jae-jae/fetcher-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1087
+stars: 1088
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 101
-pushed_at: "2026-11-03T03:15:59Z"
+forks: 102
+pushed_at: "2026-11-05T05:53:24Z"
 ---
 ## What it is
 MCP server `Web Fetcher`, catalogued on PulseMCP. Fetches and extracts web content using Playwright's headless browser capabilities, delivering clean, readable content from JavaScript-heavy websites in HTML or Markdown format for research and information gathering.

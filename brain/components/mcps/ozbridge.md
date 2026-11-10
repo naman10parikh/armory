@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T05:13:53Z"
+pushed_at: "2026-11-09T05:13:58Z"
 ---
 ## What it is
 Bridges Warp's Oz coding agent to any IDE or MCP client (Claude Code, Cursor, Codex), plus native @oz in VS Code Copilot Chat. Cross-platform (macOS/Linux/Windows), independent project using only Warp's documented public oz CLI + MCP interfaces.

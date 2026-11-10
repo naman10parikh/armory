@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-30T20:05:42Z"
+pushed_at: "2026-11-09T13:35:23Z"
 ---
 ## What it is
 MCP server `BIS`, catalogued on PulseMCP. Bank for International Settlements statistics — central bank rates, FX, banking, and credit data via the Pipeworx gateway.

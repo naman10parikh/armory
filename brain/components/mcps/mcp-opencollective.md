@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T05:23:38Z"
+pushed_at: "2026-11-09T14:28:19Z"
 ---
 ## What it is
 Enables querying Open Collective public data: collective info, members, transactions, and events.

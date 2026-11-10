@@ -8,12 +8,12 @@ source_url: https://github.com/sandraschi/blender-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 63
+stars: 66
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 15
+forks: 14
 pushed_at: "2026-10-29T19:33:25Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T20:58:48Z"
+pushed_at: "2026-11-09T13:48:30Z"
 ---
 ## What it is
 Enables searching and querying New Jersey Open Data (data.nj.gov) via Socrata, including dataset discovery, SoQL queries, and metadata retrieval.

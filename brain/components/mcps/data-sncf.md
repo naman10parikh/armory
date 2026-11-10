@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T21:02:37Z"
+pushed_at: "2026-11-09T13:49:29Z"
 ---
 ## What it is
 Enables querying SNCF Open Data (train schedules, stations, punctuality, etc.) through natural language or direct tool calls, with dataset search, metadata retrieval, and ODSQL querying.

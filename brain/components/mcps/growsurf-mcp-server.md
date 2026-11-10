@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-03T14:00:01Z"
+pushed_at: "2026-11-09T15:01:47Z"
 ---
 ## What it is
 Enables AI agents to create, configure, and manage GrowSurf referral and affiliate programs, track participants, and analyze campaign performance using plain language.

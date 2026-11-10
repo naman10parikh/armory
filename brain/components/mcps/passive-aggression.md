@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-26T20:57:18Z"
+pushed_at: "2026-11-09T14:31:31Z"
 ---
 ## What it is
 Analyzes text for passive-aggressive language, returning severity score, flagged phrases, and suggested direct responses.

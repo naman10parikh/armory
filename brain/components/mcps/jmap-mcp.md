@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-05T12:13:21Z"
+pushed_at: "2026-11-10T14:32:30Z"
 ---
 ## What it is
 MCP server exposing JMAP email and Sieve script operations as tools, enabling mailbox management, email creation, search, flagging, and Sieve script management.

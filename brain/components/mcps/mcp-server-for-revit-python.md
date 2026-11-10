@@ -8,12 +8,12 @@ source_url: https://github.com/mcp-servers-for-revit/mcp-server-for-revit-python
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 225
+stars: 229
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 133
+forks: 138
 pushed_at: "2026-10-26T08:50:21Z"
 ---
 ## What it is

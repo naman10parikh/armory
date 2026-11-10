@@ -8,13 +8,13 @@ source_url: https://github.com/flukeatzerocool/infobroker
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-28T14:09:51Z"
+pushed_at: "2026-11-07T20:11:06Z"
 ---
 ## What it is
 Enables unified research through a single MCP interface, combining multi-provider web search, content extraction, fact-checking via corroboration across independent sources, and a personal knowledge base—with zero-config providers and optional API-keyed backends.

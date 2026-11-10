@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-09T20:15:16Z"
+pushed_at: "2026-11-05T08:16:57Z"
 ---
 ## What it is
 Enables searching and retrieving Dutch case law (uitspraken) via the Rechtspraak Open Data API, including full text and citation graph exploration.

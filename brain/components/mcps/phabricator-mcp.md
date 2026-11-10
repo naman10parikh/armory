@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-10-26T11:21:34Z"
+pushed_at: "2026-11-09T08:00:34Z"
 ---
 ## What it is
 Enables AI assistants to interact with Phabricator tasks, code reviews, repositories, and more via the Conduit API.

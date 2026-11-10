@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T22:16:01Z"
+pushed_at: "2026-11-07T11:58:33Z"
 ---
 ## What it is
 Gives an AI game master a persistent memory for tabletop roleplaying games by storing worlds, characters, plots, and scenes. It enables saving, searching, and loading game state (via MCP tools) so the GM doesn't have to recall plot and details only from the context window.

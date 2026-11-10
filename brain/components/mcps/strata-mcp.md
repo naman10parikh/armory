@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T13:01:16Z"
+pushed_at: "2026-11-04T04:07:04Z"
 ---
 ## What it is
 Enables MCP-compatible agents to access live Strata markets and Sonar pricing for real-time quotes and market data.

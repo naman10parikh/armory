@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-11-03T01:36:06Z"
+pushed_at: "2026-11-04T03:57:52Z"
 ---
 ## What it is
 A production-grade MCP server for the Amazon Selling Partner API that provides a complete registry of 353 operations across 49 API domains, enabling discovery, description, and invocation of SP-API operations with version awareness and safety controls.

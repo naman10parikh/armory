@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-11-03T13:19:29Z"
+forks: 5
+pushed_at: "2026-11-06T02:04:38Z"
 ---
 ## What it is
 Enables AI agents to manage environments and access resources on the Env0 platform through natural language, including deploying, canceling, and viewing logs of environments, as well as querying Cloud Compass.

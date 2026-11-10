@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-02T07:22:25Z"
+pushed_at: "2026-11-09T13:51:09Z"
 ---
 ## What it is
 MCP server `Feedbot`, catalogued on PulseMCP. MCP server for Feedbot, a Telegram-based community feedback tool that organizes bug reports and feature requests into a product backlog.

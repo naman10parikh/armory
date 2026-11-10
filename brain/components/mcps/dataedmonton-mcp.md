@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T20:53:27Z"
+pushed_at: "2026-11-09T13:47:09Z"
 ---
 ## What it is
 Enables AI agents to query Edmonton's open data portal via the Socrata SODA API. Part of the Pipeworx MCP gateway.

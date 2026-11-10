@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-02T03:47:13Z"
+pushed_at: "2026-11-09T03:47:00Z"
 ---
 ## What it is
 A production-grade MCP server that wraps the entire Action1 REST API, enabling Claude or any MCP host to manage endpoints, run scripts, deploy updates, and more via natural language with safety guards.

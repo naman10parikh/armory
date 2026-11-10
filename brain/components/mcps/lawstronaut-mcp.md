@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T10:28:07Z"
+pushed_at: "2026-11-09T15:44:01Z"
 ---
 ## What it is
 Connects AI agents to 50+ million laws and court cases across 150+ jurisdictions via the Model Context Protocol.

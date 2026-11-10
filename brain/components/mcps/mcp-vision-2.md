@@ -8,13 +8,13 @@ source_url: https://github.com/hussainn7/mcp-vision
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 38
+stars: 39
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 11
-pushed_at: "2026-10-22T20:18:53Z"
+pushed_at: "2026-11-07T03:12:25Z"
 ---
 ## What it is
 A local autonomous AI agent that watches your screen, understands the visual layout, and executes native OS commands (clicking, typing) without cloud APIs.

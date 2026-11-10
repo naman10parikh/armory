@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-01T21:02:05Z"
+pushed_at: "2026-11-09T13:59:24Z"
 ---
 ## What it is
 MCP server `FDIC`, catalogued on PulseMCP. FDIC BankFind Suite API data on insured financial institutions, free with no authentication required.

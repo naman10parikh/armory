@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-03T08:01:15Z"
+pushed_at: "2026-11-06T15:32:45Z"
 ---
 ## What it is
 Company data for Spain, France, the UK, Ireland and Poland — registry, KYB and sanctions.

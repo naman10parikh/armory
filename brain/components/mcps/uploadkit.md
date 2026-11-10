@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-29T21:25:59Z"
+pushed_at: "2026-11-04T01:55:18Z"
 ---
 ## What it is
 MCP server `UploadKit`, catalogued on PulseMCP. Access 40+ upload components, route scaffolds, BYOS setup, and full UploadKit docs via AI.

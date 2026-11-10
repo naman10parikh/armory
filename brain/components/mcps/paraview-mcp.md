@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-31T03:04:57Z"
+pushed_at: "2026-11-07T03:02:45Z"
 ---
 ## What it is
 Connects ParaView to LLM assistants via the Model Context Protocol, enabling direct Python code execution and pipeline control within the ParaView GUI.

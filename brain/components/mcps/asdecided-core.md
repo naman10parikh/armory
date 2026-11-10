@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-10-28T11:07:08Z"
+pushed_at: "2026-11-04T11:07:02Z"
 ---
 ## What it is
 Provides deterministic, read-only access to engineering decisions, requirements, and designs stored as Markdown in a repository, enabling agents to retrieve and follow decided context without embeddings or external services.

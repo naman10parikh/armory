@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-12T11:22:39Z"
+pushed_at: "2026-11-07T19:50:55Z"
 ---
 ## What it is
 Enables verification of AI coding agent self-reports against git diff truth and a deterministic gate, producing pass/regenerate/reject directives to ensure claimed work matches actual changes.

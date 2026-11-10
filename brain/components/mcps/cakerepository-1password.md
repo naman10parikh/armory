@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-10-20T22:37:22Z"
+pushed_at: "2026-11-05T02:15:02Z"
 ---
 ## What it is
 MCP server `1Password`, catalogued on PulseMCP. MCP server for 1Password service accounts — tools and resources for vaults and credentials

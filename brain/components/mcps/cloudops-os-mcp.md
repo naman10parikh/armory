@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T18:36:58Z"
+pushed_at: "2026-11-10T14:44:28Z"
 ---
 ## What it is
 Autonomous multi-agent pipeline that analyzes Terraform files for cost, governance, and compliance issues, providing real-time remediation and XAI console for human-in-the-loop approval.

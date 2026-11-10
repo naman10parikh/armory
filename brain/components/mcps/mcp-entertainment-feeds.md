@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T20:50:58Z"
+pushed_at: "2026-11-09T13:56:19Z"
 ---
 ## What it is
 Provides curated entertainment and culture feeds with tools to list, read, and fetch any RSS/Atom/RDF feed by URL.

@@ -8,13 +8,13 @@ source_url: https://github.com/aahl/mcp-vods
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 27
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-02-25T11:10:42Z"
+pushed_at: "2026-11-06T03:24:38Z"
 ---
 ## What it is
 Enables AI to search for video streaming URLs and play them directly on Xiaomi TV or other Android TVs. Supports custom configurations for multiple devices.

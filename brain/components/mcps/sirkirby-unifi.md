@@ -8,12 +8,12 @@ source_url: https://github.com/sirkirby/unifi-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 993
+stars: 1032
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 134
-pushed_at: "2026-11-03T06:11:50Z"
+forks: 139
+pushed_at: "2026-11-09T23:16:20Z"
 ---
 ## What it is
 MCP server `UniFi`, catalogued on PulseMCP. AI-powered management for UniFi Network, Protect, and Access controllers.

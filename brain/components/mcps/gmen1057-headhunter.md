@@ -8,11 +8,11 @@ source_url: https://github.com/gmen1057/headhunter-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 38
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
+forks: 14
 pushed_at: "2025-10-13T09:49:16Z"
 ---
 ## What it is

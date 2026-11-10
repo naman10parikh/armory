@@ -8,13 +8,13 @@ source_url: https://github.com/silly-geese/estonian-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-11-03T13:37:06Z"
+pushed_at: "2026-11-10T14:19:10Z"
 ---
 ## What it is
 An MCP server that integrates EstNLTK to provide Estonian language tools (morphology, spell-check, synonyms, etc.) for AI agents, enabling correct Estonian text processing and generation.

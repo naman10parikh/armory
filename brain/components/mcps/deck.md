@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T12:18:24Z"
+pushed_at: "2026-11-08T14:13:51Z"
 ---
 ## What it is
 Enables agents to create, read, and edit slide decks as plain markdown files, with support for drawing annotations, and handles deck management through MCP tools.

@@ -8,11 +8,11 @@ source_url: https://github.com/zcaceres/fetch-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 836
+stars: 837
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 126
+forks: 127
 pushed_at: "2026-03-12T17:17:24Z"
 ---
 ## What it is

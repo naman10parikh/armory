@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, cloud-platforms]
-stars: 1156
+stars: 1163
 forks: 149
-pushed_at: "2026-11-03T13:23:02Z"
+pushed_at: "2026-11-10T12:29:19Z"
 ---
 ## What it is
 One-stop backend services for WeChat Mini-Programs and full-stack apps. Provides specialized MCP tools for serverless cloud functions, databases, and one-click deployment to production with China market access through WeChat ecosystem.

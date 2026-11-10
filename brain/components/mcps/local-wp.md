@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-10-29T08:07:50Z"
+pushed_at: "2026-11-05T08:08:42Z"
 ---
 ## What it is
 MCP server `Local by Flywheel`, catalogued on PulseMCP. Automatically detects and connects to Local by Flywheel WordPress development environments by scanning running processes to find active mysqld instances and dynamically building correct connection parameters, providing reliable database access for WordPress developers without manual path configuration.

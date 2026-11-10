@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T05:43:30Z"
+pushed_at: "2026-11-09T14:32:51Z"
 ---
 ## What it is
 Provides access to real-time weather forecasts and grid data from GFS/ECMWF models via the Pirate Weather API, enabling AI agents to retrieve weather information using natural language.

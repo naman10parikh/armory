@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-14T18:04:17Z"
+pushed_at: "2026-11-10T12:06:09Z"
 ---
 ## What it is
 Flag AI tells, weasel words, passive voice, duplicate words, long sentences, nominalizations, hedging, and filler adverbs

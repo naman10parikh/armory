@@ -13,7 +13,7 @@ related: []
 tags: [mcp, finance-fintech]
 stars: 20
 forks: 7
-pushed_at: "2026-11-03T05:44:52Z"
+pushed_at: "2026-11-10T08:23:20Z"
 ---
 ## What it is
 Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics

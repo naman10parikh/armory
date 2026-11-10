@@ -14,7 +14,7 @@ verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, general-purpose-implementations]
 forks: 0
-pushed_at: "2026-10-28T16:12:55Z"
+pushed_at: "2026-11-06T09:52:27Z"
 ---
 ## What it is
 Implementation of the Agent-to-Agent protocol

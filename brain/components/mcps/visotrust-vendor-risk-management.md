@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-07-16T15:11:16Z"
+pushed_at: "2026-11-05T21:09:47Z"
 ---
 ## What it is
 MCP server `Viso Trust`, catalogued on PulseMCP. Provides a bridge to VISO TRUST's vendor risk management API, enabling third-party assessment, relationship tracking, and vendor information querying without switching contexts.

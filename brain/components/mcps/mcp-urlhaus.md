@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T06:58:47Z"
+pushed_at: "2026-11-09T14:51:16Z"
 ---
 ## What it is
 Wraps abuse.ch URLhaus malware URL database (free, no auth) – enables querying malware URLs via natural language through Pipeworx MCP gateway.

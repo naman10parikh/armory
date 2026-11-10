@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-30T19:59:50Z"
+pushed_at: "2026-11-09T13:33:52Z"
 ---
 ## What it is
 Aviationstack MCP server that provides tools to access global flight and aviation data including airports, airlines, cities, countries, and routes.

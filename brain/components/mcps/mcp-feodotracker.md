@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T21:03:27Z"
+pushed_at: "2026-11-09T13:59:50Z"
 ---
 ## What it is
 Feodo Tracker MCP providing botnet C&C IP blocklist from abuse.ch, enabling querying of current blocklists, IP checks, and recent entries.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T05:58:14Z"
+pushed_at: "2026-11-04T14:20:53Z"
 ---
 ## What it is
 MCP server for Framedash game telemetry -- query game analytics, heatmaps, perf regressions, retention, and alerts from Claude and other AI agents. Works with Unity, Unreal Engine 5, and Godot projects.

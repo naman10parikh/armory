@@ -8,13 +8,13 @@ source_url: https://github.com/inovector/mixpost
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3901
+stars: 3924
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 587
+forks: 591
 pushed_at: "2026-03-16T10:06:38Z"
 ---
 ## What it is

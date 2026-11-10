@@ -8,13 +8,13 @@ source_url: https://github.com/mwillbanks/elysia-mcp-adapter
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T23:53:00Z"
+pushed_at: "2026-11-05T23:27:33Z"
 ---
 ## What it is
 Exposes Elysia HTTP routes and MCP-native primitives through a single Model Context Protocol endpoint, preserving Elysia's request lifecycle.

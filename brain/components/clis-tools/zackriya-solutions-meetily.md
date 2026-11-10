@@ -8,14 +8,14 @@ source_url: https://github.com/Zackriya-Solutions/meetily
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 32408
+stars: 32591
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3560
-pushed_at: "2026-11-03T08:38:13Z"
+forks: 3601
+pushed_at: "2026-11-10T08:07:21Z"
 ---
 ## What it is
 Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes

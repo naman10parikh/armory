@@ -8,11 +8,11 @@ source_url: https://github.com/tacticlaunch/mcp-linear
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 149
+stars: 150
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 40
+forks: 39
 pushed_at: "2026-10-12T18:52:05Z"
 ---
 ## What it is

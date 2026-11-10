@@ -8,11 +8,11 @@ source_url: https://github.com/sendaifun/solana-agent-kit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1731
+stars: 1758
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 893
+forks: 899
 pushed_at: "2026-05-14T18:46:54Z"
 ---
 ## What it is

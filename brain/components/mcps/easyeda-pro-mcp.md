@@ -8,13 +8,13 @@ source_url: https://github.com/VLab-Software/easyeda_mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 38
+stars: 42
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
-pushed_at: "2026-11-02T16:38:04Z"
+forks: 14
+pushed_at: "2026-11-05T12:31:49Z"
 ---
 ## What it is
 Connects MCP clients to live EasyEDA Pro projects, enabling schematic and PCB inspection and editing through natural language.

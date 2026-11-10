@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, tracing, evals]
-forks: 315
+forks: 317
 pushed_at: "2026-10-16T17:24:02Z"
 mentions: null
 ---

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-31T22:00:27Z"
+pushed_at: "2026-11-07T19:17:04Z"
 ---
 ## What it is
 MCP server `Staticbot`, catalogued on PulseMCP. Orchestrates AWS deployment workflows via the Staticbot API for static site hosting, Supabase migrations, and multi-stage infrastructure management.

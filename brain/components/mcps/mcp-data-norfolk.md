@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T20:59:20Z"
+pushed_at: "2026-11-09T13:48:38Z"
 ---
 ## What it is
 Enables searching and querying Norfolk Open Data datasets through Socrata SoQL, including metadata retrieval.

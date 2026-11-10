@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-09T16:54:25Z"
+pushed_at: "2026-11-08T08:36:10Z"
 ---
 ## What it is
 Exposes the DaVinci Resolve scripting API to LLMs, enabling inspection, media import, timeline editing, markers, and render queue management through natural language.

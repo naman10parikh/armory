@@ -8,13 +8,13 @@ source_url: https://github.com/sosoj92/jarvis-assistant-vocal
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 546
+stars: 549
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 149
-pushed_at: "2026-10-20T20:54:09Z"
+forks: 148
+pushed_at: "2026-11-07T11:53:41Z"
 ---
 ## What it is
 Exposes home automation and PC control tools from the Jarvis vocal assistant to any MCP client, such as Claude Desktop or Hermes.

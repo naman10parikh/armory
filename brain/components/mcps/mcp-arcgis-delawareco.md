@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-30T07:33:20Z"
+pushed_at: "2026-11-09T13:28:20Z"
 ---
 ## What it is
 Provides tools to search and query Delaware County, Indiana open geospatial datasets such as parcels, addresses, zoning, and public works via ArcGIS Feature Services.

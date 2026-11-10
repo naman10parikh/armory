@@ -8,13 +8,13 @@ source_url: https://github.com/PeterGriffinJin/Search-R1
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 5564
+stars: 5573
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 503
+forks: 504
 pushed_at: "2025-11-13T21:56:33Z"
 ---
 ## What it is

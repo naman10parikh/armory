@@ -8,13 +8,13 @@ source_url: https://github.com/morluto/leantoken
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 142
+stars: 156
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 28
-pushed_at: "2026-11-02T09:07:21Z"
+forks: 30
+pushed_at: "2026-11-09T09:14:39Z"
 ---
 ## What it is
 Local-first code intelligence MCP server that enables coding agents to search code, inspect structure, read exact ranges, and explore Git history with explicit token budgets.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-02T19:57:16Z"
+pushed_at: "2026-11-10T15:24:48Z"
 ---
 ## What it is
 Enables Claude to maintain a team knowledge base stored as markdown in a GitHub repository, with tools for search, edit, linking, and interactive views.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T07:54:03Z"
+pushed_at: "2026-11-03T18:58:30Z"
 ---
 ## What it is
 Enables read-only exploration of Copick cryo-ET projects and discovery/validation of copick CLI commands for building processing pipelines.

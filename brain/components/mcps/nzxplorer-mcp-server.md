@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-24T23:59:00Z"
+pushed_at: "2026-11-10T11:25:38Z"
 ---
 ## What it is
 An MCP server that gives AI assistants direct access to New Zealand stock market data via the NZXplorer API, enabling natural language queries for 130 NZX-listed companies, directors, stock prices, governance scores, insider trades, announcements, and more.

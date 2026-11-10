@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-29T07:16:50Z"
+pushed_at: "2026-11-05T07:15:03Z"
 ---
 ## What it is
 MCP server `OP.GG Gaming Data`, catalogued on PulseMCP. Connects AI to OP.GG's gaming data services for League of Legends, Teamfight Tactics, Valorant, and esports, providing access to champion statistics, leaderboards, match histories, and meta trends.

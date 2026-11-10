@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T20:54:33Z"
+pushed_at: "2026-11-09T14:14:02Z"
 ---
 ## What it is
 Provides access to US-regulated prediction-market data from Kalshi, enabling queries on market events without authentication.

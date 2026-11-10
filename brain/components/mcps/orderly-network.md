@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-11-03T13:43:20Z"
+pushed_at: "2026-11-10T13:20:55Z"
 ---
 ## What it is
 MCP server `Orderly Network`, catalogued on PulseMCP. Provides documentation, SDK patterns, smart contract addresses, and API specifications for Orderly Network's omnichain perpetual futures trading infrastructure, enabling developers to build trading interfaces and integrate with cross-chain trading operations.

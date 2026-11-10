@@ -8,13 +8,13 @@ source_url: https://github.com/WJZ-P/gemini-skill
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 833
+stars: 834
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 122
-pushed_at: "2026-09-18T13:41:01Z"
+forks: 123
+pushed_at: "2026-11-06T03:31:35Z"
 ---
 ## What it is
 MCP server to control Gemini web interface via CDP for AI image generation, chat, and image extraction.

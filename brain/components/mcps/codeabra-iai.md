@@ -8,7 +8,7 @@ source_url: https://github.com/codeabra/iai-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 918
+stars: 923
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

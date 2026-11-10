@@ -8,13 +8,13 @@ source_url: https://github.com/SWE-Gym/SWE-Gym
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 757
+stars: 759
 eval_score: null
 mentions: 1
 verified_at: 2026-10-29
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 48
+forks: 50
 pushed_at: "2026-11-01T05:40:46Z"
 ---
 ## What it is

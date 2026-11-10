@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-11-02T16:16:56Z"
+forks: 6
+pushed_at: "2026-11-09T22:23:44Z"
 ---
 ## What it is
 Connects AI agents to microsandbox for creating lightweight sandboxes, executing code, managing files, and monitoring resources.

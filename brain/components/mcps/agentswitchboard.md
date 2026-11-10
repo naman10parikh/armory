@@ -8,13 +8,13 @@ source_url: https://github.com/assafbar2/agentswitchboard.dev
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 43
-pushed_at: "2026-11-03T09:54:53Z"
+forks: 44
+pushed_at: "2026-11-10T07:53:46Z"
 ---
 ## What it is
 assafbar2/agentswitchboard.dev

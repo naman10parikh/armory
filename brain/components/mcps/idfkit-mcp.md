@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-03T01:21:55Z"
+pushed_at: "2026-11-06T14:21:11Z"
 ---
 ## What it is
 Enables AI assistants to create, edit, and simulate EnergyPlus building energy models via natural language. Supports schema exploration, model editing, simulation execution, and documentation search.

@@ -12,8 +12,8 @@ stars: 660
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 74
-pushed_at: "2026-11-03T05:53:06Z"
+forks: 73
+pushed_at: "2026-11-10T06:15:42Z"
 ---
 ## What it is
 MCP server `Vestige`, catalogued on PulseMCP. Biologically-inspired memory system that implements spaced repetition, dual-strength modeling, and forgetting curves to provide local-first memory storage with semantic search, automatic connection discovery, and git-aware context capture for persistent memory that naturally decays and strengthens like human cognition.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T20:31:35Z"
+pushed_at: "2026-11-05T20:23:17Z"
 ---
 ## What it is
 An MCP server that lets an AI agent orchestrate credential placement without ever seeing the secret value, while a human-controlled interface independently authorizes the destination.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-01T13:37:11Z"
+pushed_at: "2026-11-06T08:36:47Z"
 ---
 ## What it is
 MCP server `TradingCalc`, catalogued on PulseMCP. Crypto perpetual futures calculator with 19 deterministic tools for liquidation, PnL, and position sizing across 7 exchanges.

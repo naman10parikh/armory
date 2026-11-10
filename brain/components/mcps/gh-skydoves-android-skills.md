@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-11-02T19:16:33Z"
+pushed_at: "2026-11-09T19:36:03Z"
 ---
 ## What it is
 MCP server `Android Skills`, catalogued on PulseMCP. Wraps Google's android/skills library to expose Android development guidance as searchable tools for AI coding assistants.

@@ -8,7 +8,7 @@ source_url: https://github.com/better-auth/better-icons
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1454
+stars: 1470
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

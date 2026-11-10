@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-29T07:31:17Z"
+pushed_at: "2026-11-09T08:03:02Z"
 ---
 ## What it is
 Enables external agents to delegate real-world actions to Hermes Agent via MCP tools such as hermes_run and hermes_plan.

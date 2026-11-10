@@ -8,14 +8,14 @@ source_url: https://github.com/bilawalsidhu/gods-eye-view
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 62452
+stars: 64066
 eval_score: null
 mentions: 1
 verified_at: 2026-10-13
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 12215
-pushed_at: "2026-11-03T14:46:45Z"
+forks: 12626
+pushed_at: "2026-11-10T12:29:28Z"
 ---
 ## What it is
 A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-01T17:19:34Z"
+pushed_at: "2026-11-09T14:11:39Z"
 ---
 ## What it is
 An MCP server for controlling Google Chrome through native messaging, featuring forced reconnect, diagnostic tools, and automatic permission management. It enables AI assistants to automate browser tasks such as navigation, scraping, and interaction with web pages.

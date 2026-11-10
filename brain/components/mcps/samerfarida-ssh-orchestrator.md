@@ -8,12 +8,12 @@ source_url: https://github.com/samerfarida/mcp-ssh-orchestrator
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 30
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-11-02T14:05:58Z"
+pushed_at: "2026-11-09T14:05:49Z"
 ---
 ## What it is
 MCP server `SSH Orchestrator`, catalogued on PulseMCP. Provides secure SSH fleet orchestration with policy-enforced command execution across multiple servers, featuring deny-by-default security, host discovery, batch operations, and audit logging for infrastructure automation and compliance-aware server management.

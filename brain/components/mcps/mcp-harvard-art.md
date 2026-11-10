@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T02:39:43Z"
+pushed_at: "2026-11-09T14:06:57Z"
 ---
 ## What it is
 Enables searching and retrieving details from the Harvard Art Museums collection.

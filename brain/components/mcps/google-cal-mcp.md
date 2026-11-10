@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-26T02:21:44Z"
+pushed_at: "2026-11-08T19:32:24Z"
 ---
 ## What it is
 MCP server `Google Calendar`, catalogued on PulseMCP. List, create, update, and manage calendar events

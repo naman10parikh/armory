@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T18:22:24Z"
+pushed_at: "2026-11-08T17:01:51Z"
 ---
 ## What it is
 Enables MCP clients to fetch official published exchange rates from 60+ central banks and tax authorities, with point-in-time lookup, history, and cross-bank comparison.

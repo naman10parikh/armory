@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-29T06:02:32Z"
+pushed_at: "2026-11-09T14:37:45Z"
 ---
 ## What it is
 MCP server `RFC Editor`, catalogued on PulseMCP. Retrieves full RFC text, metadata, errata, and BCP/STD mappings from the RFC Editor.

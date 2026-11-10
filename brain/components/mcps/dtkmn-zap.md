@@ -8,12 +8,12 @@ source_url: https://github.com/dtkmn/mcp-zap-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 68
+stars: 69
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-11-03T01:54:03Z"
+pushed_at: "2026-11-10T01:54:05Z"
 ---
 ## What it is
 MCP server `OWASP ZAP`, catalogued on PulseMCP. Exposes OWASP ZAP web security scanning capabilities to AI agents via MCP for guided security assessments.

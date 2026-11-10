@@ -8,12 +8,12 @@ source_url: https://github.com/portswigger/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-11-03T11:01:22Z"
+forks: 4
+pushed_at: "2026-11-05T16:44:33Z"
 ---
 ## What it is
 MCP server `Burp Suite`, catalogued on PulseMCP. Integrates with Burp Suite for web security testing, enabling HTTP request manipulation, proxy history analysis, and security testing operations for vulnerability assessment and penetration testing workflows.

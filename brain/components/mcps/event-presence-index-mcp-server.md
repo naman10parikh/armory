@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-11-02T13:57:19Z"
+forks: 0
+pushed_at: "2026-11-05T10:02:45Z"
 ---
 ## What it is
 Enables mapping a company's publicly stated event presence by returning the conferences and trade shows it attends, with years, from a domain. Built on the Mamba Labs Event Presence Index actor on Apify.

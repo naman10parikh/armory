@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-03T06:33:56Z"
+pushed_at: "2026-11-10T01:58:34Z"
 ---
 ## What it is
 MCP server `NannyKeeper`, catalogued on PulseMCP. Calculate US household employer taxes across all 50 states.

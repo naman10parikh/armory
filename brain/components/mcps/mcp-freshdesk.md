@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T01:54:15Z"
+pushed_at: "2026-11-09T14:02:06Z"
 ---
 ## What it is
 Enables ticket and contact management via Freshdesk API v2, including listing, searching, and retrieving support tickets and customer contacts.

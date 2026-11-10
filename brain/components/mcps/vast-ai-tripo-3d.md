@@ -8,11 +8,11 @@ source_url: https://github.com/vast-ai-research/tripo-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 225
+stars: 227
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 31
+forks: 32
 pushed_at: "2025-04-14T09:59:12Z"
 ---
 ## What it is

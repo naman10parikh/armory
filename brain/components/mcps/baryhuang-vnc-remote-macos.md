@@ -8,7 +8,7 @@ source_url: https://github.com/baryhuang/mcp-remote-macos-use
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 490
+stars: 491
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

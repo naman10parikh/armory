@@ -8,13 +8,13 @@ source_url: https://github.com/JustParent/simple-salesforce-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-22T21:18:54Z"
+pushed_at: "2026-11-03T23:18:59Z"
 ---
 ## What it is
 Enables users to connect to Salesforce and perform CRUD operations, run SOQL/SOSL queries, and manage records through a lightweight MCP server with built-in safety gates for writes.

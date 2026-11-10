@@ -8,11 +8,11 @@ source_url: https://github.com/lawchat-oss/mcp-taiwan-legal-db
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 225
+stars: 231
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 54
+forks: 56
 pushed_at: "2026-10-21T09:41:16Z"
 ---
 ## What it is

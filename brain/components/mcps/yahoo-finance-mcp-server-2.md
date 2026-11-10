@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-09-04T11:50:06Z"
+forks: 7
+pushed_at: "2026-11-07T18:31:27Z"
 ---
 ## What it is
 Provides real-time stock market data for Claude Desktop and MCP-compatible clients, enabling natural language queries for quotes, historical prices, company profiles, financial statements, analyst ratings, comparisons, news, options, holdings, dividends, estimates, symbol search, and market status.

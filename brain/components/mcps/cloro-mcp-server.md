@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-03T14:58:28Z"
+pushed_at: "2026-11-07T20:22:47Z"
 ---
 ## What it is
 MCP server that gives agents tools to query ChatGPT, Perplexity, Gemini, Copilot, Grok, Google AI Mode, Google Search, and Google News through the cloro API, returning parsed answers with cited sources.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-13T06:04:13Z"
+pushed_at: "2026-11-09T13:49:55Z"
 ---
 ## What it is
 Enables searching and querying Utah Open Data datasets via the Socrata SoQL API, including datasets, metadata, and row-level data retrieval.

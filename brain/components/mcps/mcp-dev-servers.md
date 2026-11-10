@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-19T15:42:55Z"
+pushed_at: "2026-11-09T19:29:46Z"
 ---
 ## What it is
 Provides 7 MCP servers with 95 tools for git, GitHub, .NET, Ollama, Rust, template sync, and Python, enabling natural-language commands to perform real development operations.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-29T07:14:33Z"
+pushed_at: "2026-11-06T20:53:57Z"
 ---
 ## What it is
 MCP server `WikiViews`, catalogued on PulseMCP. Wikipedia page view statistics via the Wikimedia Pageviews API — query article traffic data by date range and project.

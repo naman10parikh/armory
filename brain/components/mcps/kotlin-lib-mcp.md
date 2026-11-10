@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T07:19:44Z"
+pushed_at: "2026-11-09T06:29:50Z"
 ---
 ## What it is
 MCP server that downloads and analyzes sources of Maven-published Kotlin/Java libraries, exposing structured API information, KDoc, and raw source to AI agents.

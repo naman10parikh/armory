@@ -8,12 +8,12 @@ source_url: https://github.com/rachitkumarrastogi/unity-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
-pushed_at: "2026-08-04T21:55:57Z"
+forks: 6
+pushed_at: "2026-11-09T23:51:59Z"
 ---
 ## What it is
 MCP server `Unity Project Tools`, catalogued on PulseMCP. Unity project management with build automation, scene listing, and agent documentation.

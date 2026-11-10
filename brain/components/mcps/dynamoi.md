@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-03T00:41:05Z"
+pushed_at: "2026-11-10T09:45:23Z"
 ---
 ## What it is
 MCP server `Dynamoi`, catalogued on PulseMCP. Manage music promotion and YouTube growth campaigns through automated Meta and Google ad campaigns.

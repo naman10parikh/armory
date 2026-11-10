@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T19:50:42Z"
+pushed_at: "2026-11-09T14:40:53Z"
 ---
 ## What it is
 Checks if a brand appears in an LLM's answer for GEO/AI-SEO. Part of Pipeworx gateway.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-03T12:12:54Z"
+pushed_at: "2026-11-04T05:05:10Z"
 ---
 ## What it is
 MCP server for the Dalux Build API, enabling read and write access to Dalux Field and Box data including projects, tasks, files, and more.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T00:53:57Z"
+pushed_at: "2026-11-09T13:37:17Z"
 ---
 ## What it is
 Access Norway's official business register (Brønnøysund Register Centre) via MCP, enabling queries and integration with AI agents.

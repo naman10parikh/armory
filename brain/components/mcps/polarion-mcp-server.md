@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-11-02T08:14:58Z"
+pushed_at: "2026-11-06T07:21:18Z"
 ---
 ## What it is
 A TypeScript MCP server that turns the Polarion ALM REST API into a tool-based interface for AI assistants.

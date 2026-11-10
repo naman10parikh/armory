@@ -8,12 +8,12 @@ source_url: https://github.com/anypost/emailmd
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1385
+stars: 1389
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 40
+forks: 41
 pushed_at: "2026-10-06T19:09:45Z"
 ---
 ## What it is

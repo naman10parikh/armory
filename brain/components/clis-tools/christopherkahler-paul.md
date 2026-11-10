@@ -8,13 +8,13 @@ source_url: https://github.com/ChristopherKahler/paul
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1263
+stars: 1266
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 141
+forks: 143
 pushed_at: "2026-08-21T22:08:43Z"
 ---
 ## What it is

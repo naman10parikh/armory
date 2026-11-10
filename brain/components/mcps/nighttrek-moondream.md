@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2025-01-03T19:41:35Z"
+pushed_at: "2026-11-09T10:34:31Z"
 ---
 ## What it is
 MCP server `Moondream`, catalogued on PulseMCP. Provide image analysis capabilities including captioning, object detection, and visual question answering for applications like content moderation and visual search.
