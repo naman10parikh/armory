@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-14T00:27:52Z"
+pushed_at: "2026-11-07T21:53:43Z"
 ---
 ## What it is
 MCP server `Rendex`, catalogued on PulseMCP. Capture webpage screenshots with configurable format, viewport, dark mode, and ad blocking options.

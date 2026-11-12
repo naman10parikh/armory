@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-01T02:03:19Z"
+pushed_at: "2026-11-09T13:54:59Z"
 ---
 ## What it is
 MCP server `SEC EDGAR`, catalogued on PulseMCP. SEC EDGAR public financial data including company filings and regulatory disclosures.

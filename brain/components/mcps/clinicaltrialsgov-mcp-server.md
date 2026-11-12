@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
 forks: 24
-pushed_at: "2026-11-04T06:01:13Z"
+pushed_at: "2026-11-09T22:16:20Z"
 ---
 ## What it is
 MCP server for the ClinicalTrials.gov v2 API. Search trials, retrieve study details and results, and match patients to eligible trials.

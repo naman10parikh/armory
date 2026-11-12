@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-04T02:41:30Z"
+pushed_at: "2026-11-12T09:47:24Z"
 ---
 ## What it is
 MCP server `VMware AVI`, catalogued on PulseMCP. VMware AVI NSX ALB load balancer and AKO Kubernetes operations via 29 MCP tools.

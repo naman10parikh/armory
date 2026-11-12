@@ -8,12 +8,12 @@ source_url: https://github.com/jinzcdev/leetcode-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 155
+stars: 158
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 29
-pushed_at: "2026-11-05T08:14:56Z"
+pushed_at: "2026-11-12T04:11:09Z"
 ---
 ## What it is
 MCP server `LeetCode`, catalogued on PulseMCP. Connects to LeetCode's programming platform for accessing problem descriptions, searching by tags and difficulty, retrieving user profiles, and viewing community solutions to enhance algorithm learning and contest preparation.

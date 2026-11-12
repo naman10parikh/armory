@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-10-24T19:19:22Z"
+forks: 11
+pushed_at: "2026-11-11T18:59:43Z"
 ---
 ## What it is
 Security-focused MCP server for TP-Link Omada Open API workflows, enabling network management via natural language.

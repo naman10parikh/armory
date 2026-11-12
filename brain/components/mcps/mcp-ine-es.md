@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T02:53:30Z"
+pushed_at: "2026-11-09T14:10:58Z"
 ---
 ## What it is
 MCP server providing access to Spain's National Statistics Institute (INE) Tempus3 JSON API, enabling querying of Spanish statistical data through natural language.

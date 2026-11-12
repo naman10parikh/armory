@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-11-03T12:58:28Z"
+pushed_at: "2026-11-05T20:24:01Z"
 ---
 ## What it is
 MCP server `Google Jobs`, catalogued on PulseMCP. Integrates with Google Jobs search via Serp API to enable efficient querying and retrieval of job listings for career guidance, labor market analysis, and automated job matching.

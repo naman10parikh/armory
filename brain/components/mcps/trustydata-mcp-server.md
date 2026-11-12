@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-27T09:22:44Z"
+pushed_at: "2026-11-11T16:22:05Z"
 ---
 ## What it is
 A hosted MCP server for French address data quality, geocoding, and routing, allowing LLMs to verify, normalize, search addresses, and compute routes using official open data sources.

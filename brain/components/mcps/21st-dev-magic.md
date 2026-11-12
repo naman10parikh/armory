@@ -8,11 +8,11 @@ source_url: https://github.com/21st-dev/magic-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6387
+stars: 6470
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 512
+forks: 528
 pushed_at: "2026-09-09T20:38:22Z"
 ---
 ## What it is

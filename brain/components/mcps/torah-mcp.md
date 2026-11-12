@@ -8,13 +8,13 @@ source_url: https://github.com/JonathanB555/torah-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-05T10:21:46Z"
+pushed_at: "2026-11-08T12:37:06Z"
 ---
 ## What it is
 MCP server that provides access to the Sefaria library (Tanakh, Talmud, Mishneh Torah, etc.) with tools for text, links, search, and calendars. It enables grounded, source-cited answers to religious questions and daily study resources.

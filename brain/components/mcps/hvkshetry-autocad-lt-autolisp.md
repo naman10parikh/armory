@@ -8,12 +8,12 @@ source_url: https://github.com/puran-water/autocad-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 630
+stars: 648
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 122
-pushed_at: "2026-11-04T06:34:43Z"
+forks: 124
+pushed_at: "2026-11-07T20:23:51Z"
 ---
 ## What it is
 MCP server `AutoCAD LT AutoLISP`, catalogued on PulseMCP. Enables natural language control of AutoCAD LT through AutoLISP code generation and execution for creating engineering drawings, process equipment symbols, and complete process diagrams via keyboard simulation.

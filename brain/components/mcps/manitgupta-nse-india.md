@@ -8,11 +8,11 @@ source_url: https://github.com/manitgupta/nse-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 6
 pushed_at: "2026-04-29T11:04:08Z"
 ---
 ## What it is

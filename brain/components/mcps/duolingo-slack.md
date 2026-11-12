@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-07-23T21:09:42Z"
+pushed_at: "2026-11-10T23:40:27Z"
 ---
 ## What it is
 MCP server `Slack`, catalogued on PulseMCP. Provides secure multi-user OAuth authentication and read-only access to Slack workspaces with comprehensive search capabilities, message retrieval, user profiles, and workspace information through session-based access control and CSRF protection.

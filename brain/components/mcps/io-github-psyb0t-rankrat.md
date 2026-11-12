@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T02:35:01Z"
+pushed_at: "2026-11-10T05:37:38Z"
 ---
 ## What it is
 Unifies Google Search Console, Bing Webmaster Tools, GA4, and PageSpeed APIs behind one MCP server, letting an agent join search, indexing, and analytics data across providers while staying read-only and boundary-limited by default.

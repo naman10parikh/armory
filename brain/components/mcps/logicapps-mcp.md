@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-01-11T19:54:46Z"
+pushed_at: "2026-11-08T03:14:04Z"
 ---
 ## What it is
 Enables managing and debugging Azure Logic Apps through natural language, with tools for listing, debugging, creating, updating, and deleting workflows.

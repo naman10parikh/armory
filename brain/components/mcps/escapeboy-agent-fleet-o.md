@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, frameworks]
-stars: 78
+stars: 81
 forks: 13
-pushed_at: "2026-11-02T16:11:24Z"
+pushed_at: "2026-11-12T01:38:44Z"
 ---
 ## What it is
 AI Agent Mission Control with 200+ MCP tools. Manage agents, experiments, workflows, crews, skills, and more via stdio + HTTP/SSE. Self-hosted, open-source (AGPL-3.0). Remote server: `https://fleetq.net/mcp`

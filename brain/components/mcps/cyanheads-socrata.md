@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-04T05:49:07Z"
+pushed_at: "2026-11-08T18:03:01Z"
 ---
 ## What it is
 MCP server `Socrata`, catalogued on PulseMCP. Searches and queries government open-data portals powered by Socrata using SoQL, with DuckDB integration for large dataset analysis.

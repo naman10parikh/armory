@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T01:51:01Z"
+pushed_at: "2026-11-09T14:29:06Z"
 ---
 ## What it is
 Enables querying community-run, keyless football/soccer match data from OpenLigaDB through natural language or direct tool calls.

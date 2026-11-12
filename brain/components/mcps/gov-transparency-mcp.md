@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-01T13:56:22Z"
+pushed_at: "2026-11-11T19:21:15Z"
 ---
 ## What it is
 MCP server for US government transparency data (congressional trades, federal contracts, campaign finance, lobbying, regulations) with per-call paid access via x402 USDC.

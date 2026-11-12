@@ -8,12 +8,12 @@ source_url: https://github.com/clickhouse/mcp-clickhouse
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 903
+stars: 904
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 eval_score: 1
-forks: 209
+forks: 210
 pushed_at: "2026-11-04T23:44:17Z"
 ---
 ## What it is

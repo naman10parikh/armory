@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-28T12:38:18Z"
+pushed_at: "2026-11-09T11:48:34Z"
 ---
 ## What it is
 Enables AI agents to see, locate UI elements, and operate any Windows desktop app through natural language, using accessibility-tree matching with optional vision-model fallback, plus an autonomous visual loop with introspection and meta-learning.

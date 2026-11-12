@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T19:46:51Z"
+pushed_at: "2026-11-09T19:47:07Z"
 ---
 ## What it is
 A production-ready template for building Model Context Protocol servers in Python, featuring example tools, structured logging, and multiple transport protocols.

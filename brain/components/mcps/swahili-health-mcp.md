@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T14:18:35Z"
+pushed_at: "2026-11-10T22:04:20Z"
 ---
 ## What it is
 Enables AI agents to query Kenya health facilities, maternal health indicators, immunization coverage, and disease surveillance data via the DHIS2 public API.

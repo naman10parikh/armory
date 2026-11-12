@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T03:59:55Z"
+pushed_at: "2026-11-09T13:55:50Z"
 ---
 ## What it is
 Enables users to ask questions to the Emoji Oracle and receive cryptic emoji prophecies with vibe ratings, with optional interpretation of the emoji sequence.

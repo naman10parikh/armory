@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T03:36:54Z"
+pushed_at: "2026-11-09T03:36:48Z"
 ---
 ## What it is
 Enables AI tools to securely search and retrieve relevant, source-attributed chunks from private local documents via MCP, without sending document content to third-party services.

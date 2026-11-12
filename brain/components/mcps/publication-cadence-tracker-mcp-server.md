@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-05T10:03:12Z"
+pushed_at: "2026-11-06T17:34:17Z"
 ---
 ## What it is
 Tracks a company's long-form publication cadence per month and trend (accelerating, steady, declining, dormant) from a given domain. Provides detailed metrics like post counts, trend percentage change, formats detected, and reliability flags.

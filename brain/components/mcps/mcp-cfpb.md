@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T01:01:53Z"
+pushed_at: "2026-11-09T13:39:38Z"
 ---
 ## What it is
 Enables querying the Consumer Financial Protection Bureau (CFPB) complaint database to retrieve consumer complaint data without authentication.

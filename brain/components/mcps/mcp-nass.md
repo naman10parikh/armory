@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-03T02:04:03Z"
+pushed_at: "2026-11-09T14:22:16Z"
 ---
 ## What it is
 MCP server for accessing USDA National Agricultural Statistics Service (Quick Stats) data, enabling natural language queries about agricultural statistics.

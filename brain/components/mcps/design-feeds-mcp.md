@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T01:52:48Z"
+pushed_at: "2026-11-09T13:51:57Z"
 ---
 ## What it is
 Enables browsing and reading curated design and photography feeds, as well as fetching any RSS/Atom/RDF feed with robust fallback.

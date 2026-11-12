@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-11-04T13:18:45Z"
+pushed_at: "2026-11-11T13:25:37Z"
 ---
 ## What it is
 MCP server `Remembra`, catalogued on PulseMCP. Persistent memory layer with entity resolution, temporal decay, and graph-aware recall.

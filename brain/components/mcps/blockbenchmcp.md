@@ -8,13 +8,13 @@ source_url: https://github.com/sosadly/blockbench-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 63
+stars: 73
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
-pushed_at: "2026-10-28T21:09:41Z"
+forks: 9
+pushed_at: "2026-11-07T17:55:19Z"
 ---
 ## What it is
 Enables AI assistants to build Minecraft models, textures, and animations directly inside Blockbench through the Model Context Protocol.

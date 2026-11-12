@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, monitoring]
 stars: 8
-forks: 3
+forks: 4
 pushed_at: "2026-10-24T12:20:35Z"
 ---
 ## What it is

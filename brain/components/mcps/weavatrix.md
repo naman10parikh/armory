@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T12:32:54Z"
+pushed_at: "2026-11-12T14:00:09Z"
 ---
 ## What it is
 Provides a dependency graph of any local repository with tools for change impact, transitive dependents, health audits, and more, enabling AI coding agents to see structure and refactor safely.

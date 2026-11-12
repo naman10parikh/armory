@@ -14,8 +14,8 @@ mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, evals]
-forks: 18
-pushed_at: "2026-10-22T10:21:19Z"
+forks: 19
+pushed_at: "2026-11-11T00:36:48Z"
 ---
 ## What it is
 Your Company Bench: Long-horizon coherence benchmark in simulated time to test AI agent abilities to manage resources and maximize returns as a tech startup founder

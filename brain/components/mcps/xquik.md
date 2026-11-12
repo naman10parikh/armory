@@ -8,12 +8,12 @@ source_url: https://github.com/xquik-dev/x-twitter-scraper
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 227
+stars: 229
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 23
-pushed_at: "2026-11-05T15:17:57Z"
+forks: 24
+pushed_at: "2026-11-12T15:14:55Z"
 ---
 ## What it is
 MCP server `XQuik`, catalogued on PulseMCP. Provides real-time X (Twitter) data including tweet search, user lookup, media extraction, and monitoring capabilities.

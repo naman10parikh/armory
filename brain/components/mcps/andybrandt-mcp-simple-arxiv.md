@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 27
-pushed_at: "2026-02-19T10:18:35Z"
+pushed_at: "2026-11-11T21:54:15Z"
 ---
 ## What it is
 MCP server `arXiv Research`, catalogued on PulseMCP. Search and analyze scientific papers from arXiv.

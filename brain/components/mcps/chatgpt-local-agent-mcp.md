@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-08-08T22:22:32Z"
+pushed_at: "2026-11-12T11:33:43Z"
 ---
 ## What it is
 This MCP server gives ChatGPT controlled access to your Windows PC, enabling it to inspect files, run commands, apply patches, and interact with the desktop under your supervision.

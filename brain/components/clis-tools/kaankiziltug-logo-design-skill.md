@@ -8,14 +8,14 @@ source_url: https://github.com/kaankiziltug/logo-design-skill
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 6042
+stars: 6715
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 477
-pushed_at: "2026-11-03T16:29:59Z"
+forks: 529
+pushed_at: "2026-11-06T07:40:27Z"
 ---
 ## What it is
 A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.

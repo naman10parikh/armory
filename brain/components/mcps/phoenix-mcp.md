@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T21:48:04Z"
+pushed_at: "2026-11-10T04:30:29Z"
 ---
 ## What it is
 Gives AI agents scoped, least-privilege access to Home Assistant, with per-token permissions, auditing, and 131 tools for managing smart home devices.

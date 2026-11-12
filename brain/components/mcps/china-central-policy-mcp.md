@@ -8,12 +8,12 @@ source_url: https://github.com/guangxiangdebizi/China-Central-Policy-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 27
+stars: 28
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 6
 pushed_at: "2025-08-19T09:01:36Z"
 ---
 ## What it is

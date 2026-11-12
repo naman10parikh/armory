@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-21T15:16:44Z"
+pushed_at: "2026-11-05T20:36:48Z"
 ---
 ## What it is
 MCP server for Donetick chores management. Provides 27 tools to control Donetick instance via Claude or other MCP clients.

@@ -8,14 +8,14 @@ source_url: https://github.com/caviraoss/openmemory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 4565
+stars: 4575
 eval_score: null
 mentions: 0
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, memory]
-forks: 513
-pushed_at: "2026-10-18T15:42:48Z"
+forks: 516
+pushed_at: "2026-11-10T05:24:25Z"
 ---
 ## What it is
 Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.

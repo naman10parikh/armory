@@ -8,7 +8,7 @@ source_url: https://github.com/jakedismo/codegraph-rust
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 911
+stars: 915
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

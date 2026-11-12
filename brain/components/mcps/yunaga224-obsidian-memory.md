@@ -8,11 +8,11 @@ source_url: https://github.com/yunaga224/obsidian-memory-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 35
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 12
 pushed_at: "2025-08-02T06:14:24Z"
 ---
 ## What it is

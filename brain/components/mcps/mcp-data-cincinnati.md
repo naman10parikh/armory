@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T20:51:10Z"
+pushed_at: "2026-11-09T13:46:35Z"
 ---
 ## What it is
 Provides access to Cincinnati open data via the Socrata SODA API, allowing users to query datasets using natural language or direct tool calls.

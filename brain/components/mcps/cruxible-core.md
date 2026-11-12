@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-31T04:16:03Z"
+pushed_at: "2026-11-11T04:05:13Z"
 ---
 ## What it is
 MCP server `Cruxible Core`, catalogued on PulseMCP. Deterministic decision engine with DAG-based receipts and auditable entity graphs.

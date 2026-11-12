@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-02T23:00:21Z"
+pushed_at: "2026-11-10T13:21:04Z"
 ---
 ## What it is
 Enables querying item prices, offers, and market analysis for the LATAM Ragnarok Online server (FREYA) via an MCP interface.

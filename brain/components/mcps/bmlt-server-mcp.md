@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-18T03:36:07Z"
+pushed_at: "2026-11-09T03:16:36Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve Narcotics Anonymous meeting information from the BMLT database, supporting queries by location, time, format, and service body.

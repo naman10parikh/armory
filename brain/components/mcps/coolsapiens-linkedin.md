@@ -8,12 +8,12 @@ source_url: https://github.com/coolsapiens/linkedin-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 35
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-05T08:55:38Z"
+pushed_at: "2026-11-11T17:46:48Z"
 ---
 ## What it is
 MCP server `LinkedIn`, catalogued on PulseMCP. Provides AI tools with secure access to a LinkedIn network, connections, and direct messages.

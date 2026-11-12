@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-03T21:03:39Z"
+pushed_at: "2026-11-10T03:09:43Z"
 ---
 ## What it is
 MCP server `agnt`, catalogued on PulseMCP. Browser instrumentation and development tooling with process management, reverse proxy, and frontend diagnostics

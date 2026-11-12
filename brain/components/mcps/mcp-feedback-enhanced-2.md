@@ -8,12 +8,12 @@ source_url: https://github.com/Minidoracat/mcp-feedback-enhanced
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3753
+stars: 3751
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 353
+forks: 351
 pushed_at: "2026-10-31T22:31:09Z"
 ---
 ## What it is

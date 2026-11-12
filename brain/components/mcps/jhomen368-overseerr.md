@@ -8,12 +8,12 @@ source_url: https://github.com/jhomen368/overseerr-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
-pushed_at: "2026-11-05T02:29:29Z"
+forks: 12
+pushed_at: "2026-11-09T13:54:33Z"
 ---
 ## What it is
 MCP server `Overseerr`, catalogued on PulseMCP. Integrates with Overseerr media management instances to enable automated media search, request submission with quality profiles, and request approval workflows for Plex and Jellyfin environments.

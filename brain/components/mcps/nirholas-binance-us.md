@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-09-15T07:59:51Z"
+pushed_at: "2026-11-11T16:56:16Z"
 ---
 ## What it is
 MCP server `Binance.US`, catalogued on PulseMCP. Integrates with Binance.US cryptocurrency exchange API to enable spot trading, wallet management, market data analysis, staking operations, and institutional services with support for all order types, real-time WebSocket streams, and US regulatory compliance features.

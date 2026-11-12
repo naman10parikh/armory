@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T13:42:09Z"
+pushed_at: "2026-11-08T21:48:51Z"
 ---
 ## What it is
 An MCP server that transforms Garmin data into compact, verdict-first coaching reports for LLMs, computing metrics like CTL/ATL/TSB and ACWR to answer training readiness questions.

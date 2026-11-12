@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T02:40:53Z"
+pushed_at: "2026-11-09T14:07:17Z"
 ---
 ## What it is
 Enables searching and reading curated health and medicine RSS/Atom feeds, with the ability to fetch any feed URL.

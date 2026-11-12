@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T00:58:13Z"
+pushed_at: "2026-11-09T13:38:34Z"
 ---
 ## What it is
 Provides browser feature support tables via tools like feature, search, list_browsers, and support, enabling AI agents to query caniuse data.

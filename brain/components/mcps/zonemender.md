@@ -8,13 +8,13 @@ source_url: https://github.com/pain2hustle/zonemender
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-29T03:27:06Z"
+pushed_at: "2026-11-07T01:18:41Z"
 ---
 ## What it is
 MCP server for AI agents to safely manage Cloudflare DNS, DMARC, SPF, BIMI, and Email Routing with dry-run-first and approval-based writes.

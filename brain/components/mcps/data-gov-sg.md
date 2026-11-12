@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T20:54:51Z"
+pushed_at: "2026-11-09T13:47:29Z"
 ---
 ## What it is
 Enables access to Singapore government open data and real-time environment/transport feeds including weather, air quality, taxi availability, and traffic incidents.

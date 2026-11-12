@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-04T20:57:57Z"
+pushed_at: "2026-11-09T14:35:26Z"
 ---
 ## What it is
 MCP server `PVGIS`, catalogued on PulseMCP. Solar energy yield modeling and PV system simulation via the EU JRC PVGIS API through Pipeworx's managed gateway.

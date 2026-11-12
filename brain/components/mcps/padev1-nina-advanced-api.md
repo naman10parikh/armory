@@ -12,8 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
-pushed_at: "2026-08-28T07:57:22Z"
+forks: 7
+pushed_at: "2026-11-10T16:28:57Z"
 ---
 ## What it is
 MCP server `NINA Advanced API`, catalogued on PulseMCP. Provides a bridge between natural language commands and N.I.N.A. astronomical software, enabling control of cameras, mounts, focusers, filter wheels, and domes for automated imaging sessions.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T14:16:13Z"
+pushed_at: "2026-11-10T01:55:30Z"
 ---
 ## What it is
 Enables AI agents to send push alerts to your phone via Blipr, useful for notifying when tasks complete, builds break, or approvals are needed.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-01T16:09:07Z"
+pushed_at: "2026-11-11T10:38:14Z"
 ---
 ## What it is
 Enables web fetching, web search, and Metis verification for AI agents via a single MCP endpoint.

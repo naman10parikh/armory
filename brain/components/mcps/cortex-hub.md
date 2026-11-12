@@ -8,12 +8,12 @@ source_url: https://github.com/lktiep/cortex-hub
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 105
+stars: 106
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 47
+forks: 48
 pushed_at: "2026-10-30T03:20:04Z"
 ---
 ## What it is

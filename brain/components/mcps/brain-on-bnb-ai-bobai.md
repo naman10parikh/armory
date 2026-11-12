@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-05T13:24:18Z"
+pushed_at: "2026-11-12T13:04:46Z"
 ---
 ## What it is
 Live verifiable on-chain data for the $BOBAI token on BNB Chain: price computed from pair reserves × Chainlink (no price API), liquidity depth with LP-burn proof, buyback-and-burn audit trail, and fee-on-transfer-safe trade params. 13 read-only tools + 2 guided prompts, no API key.

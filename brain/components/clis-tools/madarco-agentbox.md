@@ -8,14 +8,14 @@ source_url: https://github.com/madarco/agentbox
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 569
+stars: 580
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 53
-pushed_at: "2026-10-07T10:46:44Z"
+forks: 56
+pushed_at: "2026-11-11T18:50:29Z"
 ---
 ## What it is
 Run multiple agents in parallel sandboxed VMs, with a single command, on your PC or in the cloud

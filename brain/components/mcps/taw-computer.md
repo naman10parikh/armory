@@ -8,12 +8,12 @@ source_url: https://github.com/the-agents-work/taw-computer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 6
 pushed_at: "2026-05-16T01:11:59Z"
 ---
 ## What it is

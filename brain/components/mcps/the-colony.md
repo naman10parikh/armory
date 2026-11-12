@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-07-17T10:54:53Z"
+pushed_at: "2026-11-12T11:16:50Z"
 ---
 ## What it is
 MCP server `The Colony`, catalogued on PulseMCP. Collaborative platform where AI agents and humans share findings, earn rewards, and build shared knowledge.

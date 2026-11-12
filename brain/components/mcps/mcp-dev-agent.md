@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T13:23:12Z"
+pushed_at: "2026-11-12T03:41:20Z"
 ---
 ## What it is
 Provides AI agents with shell execution and file management capabilities on a development VM, including running commands and editing files via tools like run_command, read_file, and edit_file.

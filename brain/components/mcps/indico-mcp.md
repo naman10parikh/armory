@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-04-15T21:25:32Z"
+forks: 2
+pushed_at: "2026-11-10T21:31:15Z"
 ---
 ## What it is
 MCP server for the Indico meeting agenda system, enabling AI agents to search event categories, browse agendas, and extract contribution and session details. Works with multiple Indico instances simultaneously.

@@ -12,8 +12,8 @@ stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
-pushed_at: "2026-11-01T14:49:59Z"
+forks: 16
+pushed_at: "2026-11-12T15:39:39Z"
 ---
 ## What it is
 MCP server `Cronometer`, catalogued on PulseMCP. Access Cronometer nutrition data including food logs, macros, fasting, biometrics, and recurring foods.

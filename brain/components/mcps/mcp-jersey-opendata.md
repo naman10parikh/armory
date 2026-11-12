@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T20:51:03Z"
+pushed_at: "2026-11-09T14:13:09Z"
 ---
 ## What it is
 Enables listing publishing organizations and thematic groups from Jersey's official open data portal (opendata.gov.je) using CKAN API.

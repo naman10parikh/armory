@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T09:25:01Z"
+pushed_at: "2026-11-12T15:47:25Z"
 ---
 ## What it is
 Wraps Taiwan Stock Exchange OpenAPI into MCP tools for searching datasets, fetching stock data, and obtaining ETF snapshots, enabling AI models to access TWSE market information.

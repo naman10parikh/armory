@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T04:56:53Z"
+pushed_at: "2026-11-10T13:17:20Z"
 ---
 ## What it is
 Enables to plan, write, illustrate, and voice a full marketing campaign through an MCP pipeline that generates copy, moodboards, voiceovers, and images with automated guardrails and budget controls.

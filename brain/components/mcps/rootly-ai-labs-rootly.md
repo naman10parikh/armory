@@ -12,8 +12,8 @@ stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 24
-pushed_at: "2026-11-05T14:59:55Z"
+forks: 25
+pushed_at: "2026-11-12T02:41:14Z"
 ---
 ## What it is
 MCP server `Rootly`, catalogued on PulseMCP. Integrates with Rootly's incident management API to enable real-time production incident resolution directly within code editors, focusing on core endpoints with optimized pagination to prevent context overflow.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-26T16:50:07Z"
+pushed_at: "2026-11-08T14:42:35Z"
 ---
 ## What it is
 MCP server `Horizon Fidelity Monitor`, catalogued on PulseMCP. Real-time conversation health monitor that tracks drift, desync, and causal collapse for AI agent conversations.

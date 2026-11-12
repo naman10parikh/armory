@@ -8,13 +8,13 @@ source_url: https://github.com/aituberapp/aituber-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T11:39:18Z"
+pushed_at: "2026-11-09T07:09:42Z"
 ---
 ## What it is
 Create AI-powered videos from any MCP-compatible client. Generate videos with AI narration, visuals, and synced captions for short-form and long-form content.

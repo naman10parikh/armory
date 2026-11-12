@@ -8,14 +8,14 @@ source_url: https://github.com/lotus-data/lotus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1731
+stars: 1733
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 157
-pushed_at: "2026-10-08T07:35:15Z"
+forks: 158
+pushed_at: "2026-11-10T19:47:14Z"
 ---
 ## What it is
 Optimized Agentic and LLM Bulk Processing Over Your Data

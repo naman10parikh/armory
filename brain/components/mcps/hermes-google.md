@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-08T04:57:11Z"
+pushed_at: "2026-11-09T21:26:24Z"
 ---
 ## What it is
 Enables Claude Code to manage Gmail, Google Calendar, and Google Drive via a dedicated Google account, keeping personal data separate.

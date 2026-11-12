@@ -8,7 +8,7 @@ source_url: https://github.com/banjtheman/renpy_mcp_server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 64
+stars: 67
 eval_score: null
 verified_at: 2026-05-27
 related: []

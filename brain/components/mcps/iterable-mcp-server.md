@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-09-30T13:22:52Z"
+pushed_at: "2026-11-06T21:16:02Z"
 ---
 ## What it is
 Enables natural language interaction with Iterable marketing platform data, allowing users to query campaigns, templates, and perform actions via AI assistants.

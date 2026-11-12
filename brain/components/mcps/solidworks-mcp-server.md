@@ -8,12 +8,12 @@ source_url: https://github.com/vespo92/SolidworksMCP-TS
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 250
+stars: 253
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 49
+forks: 50
 pushed_at: "2026-09-20T00:41:22Z"
 ---
 ## What it is

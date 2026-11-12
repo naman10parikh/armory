@@ -8,13 +8,13 @@ source_url: https://github.com/Space-C0wboy/OpenCTI-MCP-Server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-05T14:14:05Z"
+pushed_at: "2026-11-12T14:16:38Z"
 ---
 ## What it is
 Enables AI assistants to query and manage OpenCTI threat intelligence data, including indicators, observables, reports, malware, and more, with read-only and optional write operations.

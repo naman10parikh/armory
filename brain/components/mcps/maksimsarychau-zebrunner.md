@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-16T12:23:13Z"
+pushed_at: "2026-11-11T19:51:00Z"
 ---
 ## What it is
 MCP server `Zebrunner`, catalogued on PulseMCP. Connects Zebrunner Test Case Management with AI assistants for managing test cases, suites, and execution data through natural language

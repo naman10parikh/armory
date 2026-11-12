@@ -8,12 +8,12 @@ source_url: https://github.com/dawnight0x/ENSP-MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-10-16T12:34:27Z"
 ---
 ## What it is

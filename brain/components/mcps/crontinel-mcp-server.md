@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T21:45:45Z"
+pushed_at: "2026-11-09T21:45:39Z"
 ---
 ## What it is
 Connects AI assistants to Crontinel, enabling natural language queries about cron jobs, queues, Horizon status, and alerts without opening a browser.

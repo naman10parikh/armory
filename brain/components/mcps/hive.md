@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T14:47:51Z"
+pushed_at: "2026-11-06T19:32:25Z"
 ---
 ## What it is
 Open-source MCP server for collaborative AI agents, providing a shared mailbox, identity model, and notification fabric.

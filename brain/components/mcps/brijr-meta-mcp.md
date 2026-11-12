@@ -8,7 +8,7 @@ source_url: https://github.com/brijr/meta-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 201
+stars: 202
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02

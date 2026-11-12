@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-05-20T18:26:09Z"
+pushed_at: "2026-11-11T02:16:40Z"
 ---
 ## What it is
 MCP server `MCPBridge`, catalogued on PulseMCP. Bridge connecting Claude Code and Ollama to Roblox Studio and Blender for AI-assisted game and 3D development.

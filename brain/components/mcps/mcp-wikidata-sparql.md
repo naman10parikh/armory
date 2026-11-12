@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T07:13:25Z"
+pushed_at: "2026-11-06T20:52:55Z"
 ---
 ## What it is
 Enables querying Wikidata via SPARQL, with convenience tools for instances, subclasses, properties, and geo-spatial queries.

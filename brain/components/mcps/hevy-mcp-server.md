@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 13
-pushed_at: "2026-10-30T18:27:42Z"
+pushed_at: "2026-11-10T20:35:40Z"
 ---
 ## What it is
 Enables AI assistants to interact with the Hevy fitness tracking API for logging workouts, managing routines, and tracking fitness progress.

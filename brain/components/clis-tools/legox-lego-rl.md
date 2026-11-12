@@ -8,14 +8,14 @@ source_url: https://github.com/LegoX/Lego-RL
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 126
+stars: 129
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 12
-pushed_at: "2026-11-05T09:12:22Z"
+forks: 13
+pushed_at: "2026-11-09T06:43:19Z"
 ---
 ## What it is
 Lego-RL: Harness-Native Reinforcement Learning for Coding Agents

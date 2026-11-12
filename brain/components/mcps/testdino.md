@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-11-03T12:52:09Z"
+pushed_at: "2026-11-12T04:54:00Z"
 ---
 ## What it is
 MCP server `TestDino`, catalogued on PulseMCP. Playwright test reporting and analytics platform with natural language test querying

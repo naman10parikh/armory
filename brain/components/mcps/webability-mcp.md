@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-30T16:11:45Z"
+pushed_at: "2026-11-12T14:47:01Z"
 ---
 ## What it is
 An MCP server for web accessibility testing that enables scanning, auditing, and fixing WCAG, ADA, and other compliance issues directly from your IDE, with free local scans, AI-generated framework-aware fixes, and verification capabilities.

@@ -8,14 +8,14 @@ source_url: https://github.com/bennyjo/phil
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 247
+stars: 250
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 171
-pushed_at: "2026-11-05T14:26:36Z"
+pushed_at: "2026-11-12T14:24:55Z"
 ---
 ## What it is
 Phil is a self-improving trader: an AI agent that trades short-term prediction markets and rewrites his own strategy after every settled bet. Paper 24/7 in the cloud; small capped real stakes via Pearl Connect.

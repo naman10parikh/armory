@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-31T18:20:18Z"
+pushed_at: "2026-11-08T20:17:45Z"
 ---
 ## What it is
 Enables structured role-to-role handoffs and merge gating for multi-agent collaboration. It persists evidence and computes approval gates without invoking LLMs.

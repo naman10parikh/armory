@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-05T15:07:13Z"
+pushed_at: "2026-11-07T14:20:25Z"
 ---
 ## What it is
 MCP server `ASTGL Knowledge`, catalogued on PulseMCP. Search and cite ASTGL articles on local AI and automation.

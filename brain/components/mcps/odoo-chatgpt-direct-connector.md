@@ -8,11 +8,13 @@ source_url: https://github.com/Abdul0000/odoo-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-11-11T16:55:25Z"
 ---
 ## What it is
 Enables ChatGPT to interact with Odoo by providing tools for repository management, git operations, Odoo.sh management, Odoo RPC, browser screenshots, and approval workflows.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-28T12:42:25Z"
+pushed_at: "2026-11-12T11:46:26Z"
 ---
 ## What it is
 Enables querying Indian mutual fund NAV analytics via DuckDB, offering tools for fund search, point-to-point returns, category rankings, and more, using local or Azure parquet data.

@@ -8,12 +8,12 @@ source_url: https://github.com/uxieee/uxie-ghl-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-09-28T11:09:42Z"
+pushed_at: "2026-11-07T19:42:43Z"
 ---
 ## What it is
 MCP server `GoHighLevel`, catalogued on PulseMCP. Exposes all 413 GoHighLevel CRM API endpoints for contacts, pipelines, conversations, and marketing automation.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-03-31T05:38:31Z"
+pushed_at: "2026-11-09T06:43:10Z"
 ---
 ## What it is
 MCP server `Dashform`, catalogued on PulseMCP. Build and manage AI-powered forms, funnels, quizzes, and lead qualification workflows.

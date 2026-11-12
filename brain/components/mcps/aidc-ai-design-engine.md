@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T02:42:55Z"
+pushed_at: "2026-11-11T19:00:01Z"
 ---
 ## What it is
 Deterministic AI data-center design engine exposed as MCP tools for sizing, validation, and physical layout. Supports NVIDIA Hopper, Blackwell, and Vera Rubin with anonymous access to the remote engine.

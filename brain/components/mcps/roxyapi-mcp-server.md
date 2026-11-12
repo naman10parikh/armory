@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-11-05T14:09:00Z"
+forks: 2
+pushed_at: "2026-11-07T12:35:52Z"
 ---
 ## What it is
 Enables Claude to build on RoxyAPI's multi-domain spiritual intelligence API, including astrology, tarot, numerology, and more, through a keyless Docs MCP and a Skill for live API calls.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T14:18:18Z"
+pushed_at: "2026-11-12T06:32:42Z"
 ---
 ## What it is
 Safe, self-hosted MCP server for web grounding that fetches live pages through a stealth-patched Chrome and returns clean Markdown with provenance, preventing SSRF and blocks.

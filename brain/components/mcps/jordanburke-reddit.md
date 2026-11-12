@@ -8,11 +8,11 @@ source_url: https://github.com/jordanburke/reddit-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 319
+stars: 332
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 48
+forks: 50
 pushed_at: "2026-10-31T17:44:33Z"
 ---
 ## What it is

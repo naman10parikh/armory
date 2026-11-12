@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-28T08:52:25Z"
+pushed_at: "2026-11-12T09:06:00Z"
 ---
 ## What it is
 MCP server providing AI-friendly computer-use primitives (capture, detect, click) to let LLM agents drive desktop GUI applications on Windows, macOS, and Linux.

@@ -8,12 +8,12 @@ source_url: https://github.com/pasympa/discord-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 19
-pushed_at: "2026-11-01T22:36:33Z"
+forks: 20
+pushed_at: "2026-11-10T06:46:27Z"
 ---
 ## What it is
 MCP server `Discord Control`, catalogued on PulseMCP. Controls Discord servers with 45 tools for messages, channels, roles, permissions, and moderation.

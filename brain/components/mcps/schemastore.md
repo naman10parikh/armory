@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-05T01:49:15Z"
+pushed_at: "2026-11-09T14:38:59Z"
 ---
 ## What it is
 Enables AI agents to list, find, fetch, and look up JSON Schema documents from the SchemaStore catalog.

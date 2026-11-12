@@ -8,7 +8,7 @@ source_url: https://github.com/jetbrains/mcp-jetbrains
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 962
+stars: 963
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

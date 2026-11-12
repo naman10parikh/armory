@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-02T01:57:39Z"
+pushed_at: "2026-11-09T14:03:00Z"
 ---
 ## What it is
 MCP server `Gemini Exchange`, catalogued on PulseMCP. Gemini cryptocurrency exchange public market data: symbols, ticker, candles, order book, and trades.

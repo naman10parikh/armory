@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-05T01:56:15Z"
+pushed_at: "2026-11-09T14:40:59Z"
 ---
 ## What it is
 Enables SEO competitive analysis by retrieving domain ranked keywords via DataForSEO Labs, integrated through Pipeworx MCP gateway.

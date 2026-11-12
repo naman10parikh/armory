@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-07T10:36:12Z"
+pushed_at: "2026-11-12T15:21:20Z"
 ---
 ## What it is
 Enables querying Chinese medical information (drugs, diseases, doctors, symptoms) from the Dayi platform with structured output and auto-type detection.

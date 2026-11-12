@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-01T23:25:58Z"
+pushed_at: "2026-11-08T23:23:17Z"
 ---
 ## What it is
 MCP server for Filevine that enables natural language interaction with legal case management, including projects, contacts, tasks, documents, billing, and more via Claude Desktop.

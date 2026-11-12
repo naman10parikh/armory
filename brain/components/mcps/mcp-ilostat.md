@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T02:51:19Z"
+pushed_at: "2026-11-09T14:10:18Z"
 ---
 ## What it is
 Enables access to global labour statistics from ILOSTAT via the Pipeworx gateway.

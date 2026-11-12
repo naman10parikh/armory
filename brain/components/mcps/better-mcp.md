@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T19:15:08Z"
+pushed_at: "2026-11-11T19:14:41Z"
 ---
 ## What it is
 A universal MCP server that provides AI agents with structured tools for filesystem, database, shell, and git operations, enabling seamless interaction with projects.

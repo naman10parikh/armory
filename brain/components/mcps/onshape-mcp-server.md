@@ -8,12 +8,12 @@ source_url: https://github.com/hedless/onshape-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 163
+stars: 164
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 73
+forks: 74
 pushed_at: "2026-09-10T18:31:07Z"
 ---
 ## What it is

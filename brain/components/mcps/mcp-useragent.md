@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T07:01:39Z"
+pushed_at: "2026-11-09T14:52:08Z"
 ---
 ## What it is
 Parses User-Agent strings to extract browser, OS, device type, and bot flag. Part of Pipeworx, an MCP gateway connecting AI agents to 1163+ live data sources.

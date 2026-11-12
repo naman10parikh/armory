@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-05T10:15:15Z"
+pushed_at: "2026-11-09T10:15:26Z"
 ---
 ## What it is
 An MCP server that performs exact arithmetic calculations, avoiding the pitfalls of float64 and unsafe eval, with resource limits for safe execution.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T20:54:19Z"
+pushed_at: "2026-11-09T14:34:37Z"
 ---
 ## What it is
 Enables AI agents to access Product Hunt data via GraphQL API, including posts, products, and rankings. Part of the Pipeworx MCP gateway.

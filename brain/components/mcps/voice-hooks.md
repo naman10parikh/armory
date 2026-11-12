@@ -8,11 +8,11 @@ source_url: https://github.com/johnmatthewtennant/mcp-voice-hooks
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 128
+stars: 129
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 33
+forks: 34
 pushed_at: "2026-07-31T16:30:33Z"
 ---
 ## What it is

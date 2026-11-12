@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T23:22:36Z"
+pushed_at: "2026-11-06T02:34:15Z"
 ---
 ## What it is
 Provides AI agents with persistent, local, and shareable project memory by storing decisions and code context in a searchable SQLite index, supporting keyword and semantic search via MCP.

@@ -8,7 +8,7 @@ source_url: https://github.com/sdglbl/mcp-claude-code
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 305
+stars: 306
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

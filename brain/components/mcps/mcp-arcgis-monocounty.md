@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-30T07:42:05Z"
+pushed_at: "2026-11-09T13:30:29Z"
 ---
 ## What it is
 Mono County GIS — Mono County & Mammoth Lakes, California open geospatial data (ArcGIS).

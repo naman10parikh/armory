@@ -8,14 +8,14 @@ source_url: https://github.com/HKUDS/Vibe-Trading
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 37706
+stars: 38106
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 6105
-pushed_at: "2026-11-05T12:20:38Z"
+forks: 6197
+pushed_at: "2026-11-11T09:40:22Z"
 ---
 ## What it is
 "Vibe-Trading: Your Personal Trading Agent"

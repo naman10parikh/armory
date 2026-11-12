@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-05T02:18:54Z"
+pushed_at: "2026-11-12T11:37:58Z"
 ---
 ## What it is
 MCP server `Google Search Console (crunchtools)`, catalogued on PulseMCP. Query search analytics, manage sitemaps, and inspect URL indexing status via Google Search Console API.

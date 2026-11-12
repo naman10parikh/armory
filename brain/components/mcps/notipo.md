@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-11-02T05:21:58Z"
+forks: 1
+pushed_at: "2026-11-09T05:22:52Z"
 ---
 ## What it is
 MCP server for publishing to WordPress. 13 tools cover posts, categories, tags, image hosting, featured images, and SEO metadata (Rank Math, etc.) One call runs the full markdown-to-live-URL pipeline.

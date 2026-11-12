@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T02:11:49Z"
+pushed_at: "2026-11-10T03:07:34Z"
 ---
 ## What it is
 Enables Claude to control PetLibro RFID pet feeders and water fountains by checking food/battery/water status, dispensing food by the cup, and force-opening feeder lids via the PetLibro cloud API.

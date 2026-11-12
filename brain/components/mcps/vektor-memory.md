@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-17T07:41:09Z"
+pushed_at: "2026-11-09T07:13:24Z"
 ---
 ## What it is
 MCP server `Vektor Memory`, catalogued on PulseMCP. Local-first persistent memory MCP server for AI agents with semantic search, graph retrieval, and autonomous memory compression.

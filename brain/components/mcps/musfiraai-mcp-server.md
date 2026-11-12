@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-05T08:24:30Z"
+pushed_at: "2026-11-12T12:44:57Z"
 ---
 ## What it is
 Exposes Musfiraai's company info, services, AI stack, FAQ, reviews, and contact details as MCP tools/resources/prompts, enabling any MCP-compatible AI client to query this data via natural language.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-27T15:13:55Z"
+pushed_at: "2026-11-10T15:19:03Z"
 ---
 ## What it is
 Enables agents to connect to the Praxicraft Assess Public API to invite candidates, manage assessments, pipelines, and webhooks, and fetch results via OAuth or API-key authentication.

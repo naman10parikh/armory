@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T04:24:24Z"
+pushed_at: "2026-11-09T09:36:04Z"
 ---
 ## What it is
 Official Zvid MCP server: render videos and images from JSON and manage templates, projects, webhooks and credits from any MCP client — Claude, Cursor, Codex, n8n — through the Zvid REST API.

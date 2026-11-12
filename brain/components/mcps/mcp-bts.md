@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T00:54:07Z"
+pushed_at: "2026-11-09T13:37:20Z"
 ---
 ## What it is
 Provides access to U.S. Bureau of Transportation Statistics data via the Socrata open-data portal. Enables querying transportation datasets using natural language through Pipeworx gateway.

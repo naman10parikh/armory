@@ -8,11 +8,11 @@ source_url: https://github.com/hao-cyber/phone-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 249
+stars: 250
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 44
+forks: 45
 pushed_at: "2026-10-14T08:12:19Z"
 ---
 ## What it is

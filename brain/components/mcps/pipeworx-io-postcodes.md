@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-04T20:50:48Z"
+pushed_at: "2026-11-09T14:34:04Z"
 ---
 ## What it is
 MCP server `UK Postcodes`, catalogued on PulseMCP. Looks up UK postal codes for geolocation and administrative data.

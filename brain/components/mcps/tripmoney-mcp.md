@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T15:27:21Z"
+pushed_at: "2026-11-12T14:48:28Z"
 ---
 ## What it is
 MCP server for sharing and settling travel schedules and expenses, integrating with LLMs and Supabase.

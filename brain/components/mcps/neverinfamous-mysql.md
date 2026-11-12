@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-11-03T10:13:43Z"
+pushed_at: "2026-11-09T05:46:17Z"
 ---
 ## What it is
 MCP server `MySQL`, catalogued on PulseMCP. Enterprise-grade MySQL server with OAuth 2.0 and Docker deployment

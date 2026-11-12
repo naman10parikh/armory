@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T17:49:08Z"
+pushed_at: "2026-11-06T19:30:39Z"
 ---
 ## What it is
 Enables durable, encrypted, cryptographically verified storage for MCP agents with self-serve signup and 12 GB free tier.

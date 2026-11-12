@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T01:53:10Z"
+pushed_at: "2026-11-05T20:52:33Z"
 ---
 ## What it is
 Enables searching over 500,000 ebooks and audiobooks, finding independent bookshops that sell each title, and accessing developer documentation through natural language.

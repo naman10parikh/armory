@@ -8,12 +8,12 @@ source_url: https://github.com/takashiishida/arxiv-latex-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 149
+stars: 151
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 18
+forks: 19
 pushed_at: "2026-10-23T11:13:07Z"
 ---
 ## What it is

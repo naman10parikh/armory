@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-11-02T17:15:34Z"
+pushed_at: "2026-11-09T21:40:16Z"
 ---
 ## What it is
 MCP server `Lighthouse`, catalogued on PulseMCP. Integrates Google Lighthouse web performance auditing capabilities to provide automated website performance, accessibility, SEO, and best practices analysis with detailed metrics and optimization recommendations.

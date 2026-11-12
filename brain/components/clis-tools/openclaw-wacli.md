@@ -8,14 +8,14 @@ source_url: https://github.com/openclaw/wacli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2903
+stars: 2922
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 388
-pushed_at: "2026-11-05T05:15:20Z"
+forks: 391
+pushed_at: "2026-11-05T19:32:25Z"
 ---
 ## What it is
 WhatsApp CLI: sync, search, send

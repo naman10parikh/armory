@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-30T07:40:00Z"
+pushed_at: "2026-11-09T13:30:00Z"
 ---
 ## What it is
 Enables querying and searching Lincoln & Lancaster County GIS open geospatial datasets (parcels, zoning, public works) through natural language.

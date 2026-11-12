@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T18:01:26Z"
+pushed_at: "2026-11-11T11:18:22Z"
 ---
 ## What it is
 A Streamable HTTP MCP server that packages QMD search and document retrieval with bounded index-maintenance operations, without exposing arbitrary shell execution.

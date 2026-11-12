@@ -8,13 +8,13 @@ source_url: https://github.com/zai-org/GLM-5
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 7433
+stars: 7456
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1018
+forks: 1015
 pushed_at: "2026-10-15T01:36:08Z"
 ---
 ## What it is

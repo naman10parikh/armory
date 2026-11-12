@@ -8,12 +8,12 @@ source_url: https://github.com/apideck-libraries/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-11-03T09:05:32Z"
+pushed_at: "2026-11-10T09:04:14Z"
 ---
 ## What it is
 MCP server `Apideck`, catalogued on PulseMCP. Unified API MCP — 229 tools across 200+ SaaS connectors for accounting, HRIS, CRM, and file storage.

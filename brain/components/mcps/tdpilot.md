@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-23T16:01:33Z"
+pushed_at: "2026-11-12T14:28:21Z"
 ---
 ## What it is
 An MCP server for TouchDesigner that lets AI agents inspect, build, wire, optimize, and stabilize live TD networks with 106 tools, plus a technique memory system for reusable patterns.

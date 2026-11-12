@@ -8,13 +8,13 @@ source_url: https://github.com/monitoringartist/logicmonitor-mcp-server
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 13
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-06-10T20:31:22Z"
+pushed_at: "2026-11-07T19:46:19Z"
 ---
 ## What it is
 MCP server enabling AI assistants to interact with your LogicMonitor, providing 125 tools for comprehensive monitoring and management operations.

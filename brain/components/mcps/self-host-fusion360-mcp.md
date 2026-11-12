@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-03T08:28:59Z"
+pushed_at: "2026-11-08T14:06:23Z"
 ---
 ## What it is
 A self-hosted MCP server that lets Claude (or any MCP client) drive Autodesk Fusion 360 on your own machine.

@@ -8,11 +8,11 @@ source_url: https://github.com/klievan/jlink-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 41
+stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
+forks: 7
 pushed_at: "2026-10-26T11:28:00Z"
 ---
 ## What it is

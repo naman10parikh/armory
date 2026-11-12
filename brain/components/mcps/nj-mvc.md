@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-03T20:58:05Z"
+pushed_at: "2026-11-09T14:24:16Z"
 ---
 ## What it is
 Enables querying New Jersey MVC inspection facilities and vehicle inspection pass/fail rates aggregated from over 2 million test records.

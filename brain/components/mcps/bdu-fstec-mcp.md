@@ -8,13 +8,13 @@ source_url: https://github.com/velvetway/bdu-fstec-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-04-17T23:01:48Z"
+forks: 1
+pushed_at: "2026-11-07T12:23:59Z"
 ---
 ## What it is
 MCP-сервер, дающий Claude (и любому MCP-клиенту) доступ к БДУ ФСТЭК — российской базе данных угроз безопасности информации.

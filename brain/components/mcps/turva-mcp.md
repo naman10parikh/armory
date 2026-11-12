@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-05T12:53:49Z"
+pushed_at: "2026-11-12T13:40:49Z"
 ---
 ## What it is
 Public read-only MCP server for turva.dev's agent-readiness audit, enabling AI agents to query service catalog, security evidence, and engagement principles via structured JSON.

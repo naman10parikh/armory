@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T23:33:40Z"
+pushed_at: "2026-11-09T14:34:26Z"
 ---
 ## What it is
 Transforms announcements into professional press releases with headline, body, boilerplate, and media contact sections.

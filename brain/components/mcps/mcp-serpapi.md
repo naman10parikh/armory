@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-05T01:57:27Z"
+pushed_at: "2026-11-09T14:41:19Z"
 ---
 ## What it is
 Wraps SerpApi to enable AI agents to perform web searches via various search engines.

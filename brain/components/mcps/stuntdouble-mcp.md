@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T21:58:36Z"
+pushed_at: "2026-11-05T16:17:28Z"
 ---
 ## What it is
 Deploys AI user personas to validate user journeys at scale, surfacing UX friction before real users encounter it.

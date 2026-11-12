@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T06:44:48Z"
+pushed_at: "2026-11-09T14:48:53Z"
 ---
 ## What it is
 Enables searching and retrieving details from the Trove digital archive (National Library of Australia) using natural language queries or direct tool calls.

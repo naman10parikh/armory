@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-13T11:50:15Z"
+pushed_at: "2026-11-11T22:35:31Z"
 ---
 ## What it is
 MCP server that scans workspace roots to build a registry of version-controlled projects, exposing tools for searching, listing, and inspecting projects to help AI coding agents navigate multi-repo workspaces efficiently.

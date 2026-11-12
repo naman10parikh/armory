@@ -8,11 +8,11 @@ source_url: https://github.com/sinco-lab/mcp-youtube-transcript
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 40
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 6
 pushed_at: "2026-05-20T08:21:44Z"
 ---
 ## What it is

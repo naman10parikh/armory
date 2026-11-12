@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-27T04:33:29Z"
+pushed_at: "2026-11-06T09:21:26Z"
 ---
 ## What it is
 MCP server `Google Flights`, catalogued on PulseMCP. Integrates with Google Flights through SerpAPI and fast-flights Python library to provide flight search capabilities for one-way, round-trip, multi-city, and date-range queries with filtering options.

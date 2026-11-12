@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-07-27T10:32:20Z"
+pushed_at: "2026-11-11T09:21:54Z"
 ---
 ## What it is
 MCP server `Sidekiq`, catalogued on PulseMCP. Integrates with Sidekiq background job queues to provide real-time monitoring, job management, and queue operations including retry/deletion/rescheduling capabilities, worker utilization tracking, and failure investigation through 20+ specialized tools.

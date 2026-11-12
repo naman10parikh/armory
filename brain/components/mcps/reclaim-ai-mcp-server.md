@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-10-22T05:28:59Z"
+pushed_at: "2026-11-10T17:19:43Z"
 ---
 ## What it is
 Enables MCP-compatible clients to manage Reclaim.ai tasks, including listing, creating, updating, completing, deleting, and timer operations through natural language.

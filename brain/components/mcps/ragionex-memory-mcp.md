@@ -8,13 +8,13 @@ source_url: https://github.com/ragionex/memory-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-05T00:04:27Z"
+pushed_at: "2026-11-08T00:01:40Z"
 ---
 ## What it is
 Dynamic semantic memory for AI assistants that persists across sessions and clients, enabling natural language recall and project-scoped isolation.

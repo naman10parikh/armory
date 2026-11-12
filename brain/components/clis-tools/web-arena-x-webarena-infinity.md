@@ -8,13 +8,13 @@ source_url: https://github.com/web-arena-x/webarena-infinity
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 75
+stars: 76
 eval_score: 0
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 12
+forks: 13
 pushed_at: "2026-03-24T05:06:23Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-02T21:02:13Z"
+pushed_at: "2026-11-09T14:16:10Z"
 ---
 ## What it is
 MCP server `LinkedIn Ads`, catalogued on PulseMCP. LinkedIn Ads integration for managing ad accounts, campaigns, analytics, and creatives via the LinkedIn Marketing API.

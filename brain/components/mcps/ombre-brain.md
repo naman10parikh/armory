@@ -8,7 +8,7 @@ source_url: https://github.com/P0lar1zzZ/Ombre-Brain
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 156
+stars: 157
 eval_score: null
 verified_at: 2026-05-27
 related: []

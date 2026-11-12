@@ -8,14 +8,14 @@ source_url: https://github.com/google-gemini/gemini-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 108733
+stars: 108797
 eval_score: null
 mentions: 18
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 14923
-pushed_at: "2026-11-05T01:15:47Z"
+forks: 14937
+pushed_at: "2026-11-12T01:10:19Z"
 ---
 ## What it is
 An open-source AI agent that brings the power of Gemini directly into your terminal.

@@ -8,12 +8,12 @@ source_url: https://github.com/chrispulman/reactivememory.mcp.server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-11-04T19:26:16Z"
+forks: 1
+pushed_at: "2026-11-11T22:36:08Z"
 ---
 ## What it is
 MCP server `Reactive Memory`, catalogued on PulseMCP. Persistent, queryable memory system for AI assistants backed by vector search, temporal knowledge graphs, and vault-structured storage.

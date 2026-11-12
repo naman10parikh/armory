@@ -8,12 +8,12 @@ source_url: https://github.com/russeell/jobfindsme
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 28
+stars: 31
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 3
 pushed_at: "2026-10-15T03:08:44Z"
 ---
 ## What it is

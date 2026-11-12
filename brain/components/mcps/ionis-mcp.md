@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-10-29T07:23:38Z"
+forks: 2
+pushed_at: "2026-11-08T20:55:55Z"
 ---
 ## What it is
 MCP server for HF radio propagation analytics using 175M+ aggregated signatures from WSPR, RBN, Contest, DXpedition, and PSK Reporter datasets. Enables AI assistants to answer propagation questions through 11 specialized tools.

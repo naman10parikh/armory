@@ -8,11 +8,11 @@ source_url: https://github.com/newtype-01/obsidian-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 308
+stars: 310
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 49
+forks: 48
 pushed_at: "2025-08-04T05:47:18Z"
 ---
 ## What it is

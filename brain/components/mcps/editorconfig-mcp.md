@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2025-06-17T00:39:47Z"
+pushed_at: "2026-11-07T22:22:31Z"
 ---
 ## What it is
 Formats files using .editorconfig rules to ensure consistent formatting, especially for AI-generated code.

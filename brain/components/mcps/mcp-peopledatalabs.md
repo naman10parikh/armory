@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T02:01:58Z"
+pushed_at: "2026-11-09T14:32:04Z"
 ---
 ## What it is
 Enables enriching person and company data using the People Data Labs API through conversational queries.

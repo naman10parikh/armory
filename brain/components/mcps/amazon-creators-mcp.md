@@ -8,13 +8,13 @@ source_url: https://github.com/houtini-ai/amazon-creators-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-31T04:43:32Z"
+pushed_at: "2026-11-07T04:43:32Z"
 ---
 ## What it is
 placement for the depractaed Amazon Product Advertising endpoint. You ask Claude to find something, it searches the live Amazon catalogue, and it hands you back a finished HTML card - image, price, savings, star rating, your Associates tag already baked into the link, and the disclosure footer Amazo

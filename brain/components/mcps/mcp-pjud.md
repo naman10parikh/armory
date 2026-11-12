@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-11-05T13:13:04Z"
+forks: 1
+pushed_at: "2026-11-12T13:47:12Z"
 ---
 ## What it is
 Unofficial read-only MCP server for querying public civil court cases from the Chilean Judicial Branch, providing case data and notary actions with real diligence dates.

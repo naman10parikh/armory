@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-05-20T17:10:56Z"
+pushed_at: "2026-11-12T08:03:03Z"
 ---
 ## What it is
 Enables Claude to drive Rhino 8 and Grasshopper for geometry creation, manipulation, and analysis via natural language.

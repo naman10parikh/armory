@@ -8,14 +8,14 @@ source_url: https://github.com/Egonex-AI/Understand-Anything
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 90892
+stars: 92328
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 7757
-pushed_at: "2026-10-26T07:05:22Z"
+forks: 7876
+pushed_at: "2026-11-11T04:34:25Z"
 ---
 ## What it is
 Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
