@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T08:34:40Z"
+pushed_at: "2026-11-09T13:45:22Z"
 ---
 ## What it is
 Converts CSV to JSON and JSON to CSV offline, supporting RFC 4180 with header detection and custom delimiters.

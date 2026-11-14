@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T04:25:29Z"
+pushed_at: "2026-11-13T10:20:58Z"
 ---
 ## What it is
 Track SaaS subscriptions, renewal dates, spending, and find duplicate services.

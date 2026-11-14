@@ -8,13 +8,13 @@ source_url: https://github.com/askads/mcp-yandex-metrica
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-01T12:23:33Z"
+pushed_at: "2026-11-13T23:24:34Z"
 ---
 ## What it is
 MCP server for Yandex Metrica analytics: query web analytics metrics, goals, conversions, and raw API data using natural language from AI clients like Claude and Cursor.

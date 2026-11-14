@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-11-04T03:27:57Z"
+pushed_at: "2026-11-13T12:52:34Z"
 ---
 ## What it is
 A read-only MCP server for the Aircall REST API, enabling browsing calls, transcripts, contacts, and more while keeping data local.

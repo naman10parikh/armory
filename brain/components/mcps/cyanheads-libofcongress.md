@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-11-03T08:14:50Z"
+pushed_at: "2026-11-13T19:04:37Z"
 ---
 ## What it is
 MCP server `Library of Congress`, catalogued on PulseMCP. Search LOC digital collections, Chronicling America historical newspapers with full OCR, and LC Subject Headings.

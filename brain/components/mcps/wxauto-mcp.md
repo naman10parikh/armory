@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-12T11:40:03Z"
+pushed_at: "2026-11-14T05:14:44Z"
 ---
 ## What it is
 Windows微信自动化MCP服务，提供UIA探测、加好友、发送消息、读取消息、发布朋友圈等工具，通过单消费者队列串行执行真实动作。

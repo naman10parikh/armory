@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-03T02:01:39Z"
+pushed_at: "2026-11-09T14:21:33Z"
 ---
 ## What it is
 MyHealthfinder MCP provides access to U.S. preventive services and health screening guidance through natural language queries.

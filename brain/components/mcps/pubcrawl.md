@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-11-04T23:04:52Z"
+pushed_at: "2026-11-09T22:22:22Z"
 ---
 ## What it is
 PubCrawl provides LLMs with access to PubMed, FDA/UK drug labeling, and ClinicalTrials.gov. It enables searching literature, retrieving abstracts and full texts, comparing US and UK drug labels, and exploring clinical trials.

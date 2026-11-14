@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-11-06T19:43:05Z"
+pushed_at: "2026-11-14T05:42:10Z"
 ---
 ## What it is
 MCP server `Better Notion`, catalogued on PulseMCP. Integrates with Notion through composite tools that combine multiple operations into unified workflows for page management, database operations, content conversion, and workspace exploration

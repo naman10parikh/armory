@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-20T00:14:44Z"
+pushed_at: "2026-11-11T00:53:19Z"
 ---
 ## What it is
 Enables creating word alignment visualizations between sentences and their translations, returning shareable links and preview images.

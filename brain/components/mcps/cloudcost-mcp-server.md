@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T21:45:58Z"
+pushed_at: "2026-11-09T22:27:34Z"
 ---
 ## What it is
 Enables AI agents to parse multi-cloud infrastructure-as-code files, query real-time pricing from AWS, Azure, and GCP, and generate cost estimates and comparison reports.

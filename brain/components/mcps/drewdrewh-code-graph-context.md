@@ -8,12 +8,12 @@ source_url: https://github.com/andrew-hernandez-paragon/code-graph-context
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-31T18:45:01Z"
+pushed_at: "2026-11-10T08:26:44Z"
 ---
 ## What it is
 MCP server `Code Graph Context`, catalogued on PulseMCP. Builds rich code graphs to provide deep contextual understanding of TypeScript codebases

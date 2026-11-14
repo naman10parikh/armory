@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-01T01:56:37Z"
+pushed_at: "2026-11-09T13:53:03Z"
 ---
 ## What it is
 MCP server `DNS Lookup`, catalogued on PulseMCP. DNS lookup and network diagnostics via free public DNS APIs.

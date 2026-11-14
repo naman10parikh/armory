@@ -8,13 +8,13 @@ source_url: https://github.com/agentic-hil/agentic-hil
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 24
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-07T12:53:05Z"
+pushed_at: "2026-11-13T11:27:11Z"
 ---
 ## What it is
 MCP server for Agentic Hardware-in-the-Loop testing, enabling AI agents to probe, flash, reset, and validate embedded firmware on real hardware via bounded MCP tools.

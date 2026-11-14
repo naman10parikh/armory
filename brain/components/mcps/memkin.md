@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-03T18:48:19Z"
+pushed_at: "2026-11-10T15:34:34Z"
 ---
 ## What it is
 Local-first personal memory for AI agents. Captures your Feishu chats, emails, meetings, and AI coding sessions into a private memory graph, and serves it to any agent over MCP.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-05T05:45:48Z"
+pushed_at: "2026-11-14T11:59:43Z"
 ---
 ## What it is
 MCP server that analyzes images, reads code and ZIP archives, and provides text context for non-vision models.

@@ -8,12 +8,12 @@ source_url: https://github.com/bvisible/mcp-ssh-manager
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 534
+stars: 543
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 74
-pushed_at: "2026-11-05T11:03:57Z"
+pushed_at: "2026-11-14T05:27:34Z"
 ---
 ## What it is
 MCP server `SSH Manager`, catalogued on PulseMCP. Enables secure SSH command execution, file transfers, and automated deployments across multiple remote servers with connection pooling, profile-based configuration for different project types, and deployment strategies with backup creation and permission detection.

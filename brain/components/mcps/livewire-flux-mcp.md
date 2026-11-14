@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-03T15:48:37Z"
+pushed_at: "2026-11-13T15:04:52Z"
 ---
 ## What it is
 MCP server that provides access to Livewire Flux components and layouts documentation, enabling AI assistants to fetch and search through documentation on demand.

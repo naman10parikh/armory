@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-19T10:45:35Z"
+pushed_at: "2026-11-14T00:09:51Z"
 ---
 ## What it is
 On-chain TCG price oracle for the LitecoinVM ecosystem. 6 tools: search 433K+ trading cards, 60-day price history, Merkle proof verification on LiteForge (Chain 4441), Monte Carlo simulation, and AI card grading via Qwen 2.5 VL.

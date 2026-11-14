@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-11-02T13:14:34Z"
+pushed_at: "2026-11-11T06:27:03Z"
 ---
 ## What it is
 MCP server `WhatsApp (adelaidasofia)`, catalogued on PulseMCP. WhatsApp MCP with SQLCipher-encrypted storage, scrubber CI, draft-and-confirm sends, and voice transcription.

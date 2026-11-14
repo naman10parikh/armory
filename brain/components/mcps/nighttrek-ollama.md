@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 17
-pushed_at: "2025-01-01T22:43:47Z"
+pushed_at: "2026-11-09T03:41:45Z"
 ---
 ## What it is
 MCP server `Ollama`, catalogued on PulseMCP. Bridges Ollama's local large language model runner, enabling low-latency access to the LLM while maintaining data privacy and control.

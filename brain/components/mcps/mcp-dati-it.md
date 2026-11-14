@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T21:07:50Z"
+pushed_at: "2026-11-09T13:50:51Z"
 ---
 ## What it is
 Enables querying Italy's open data portal (dati.gov.it) via its CKAN API, providing access to thematic categories and datasets.

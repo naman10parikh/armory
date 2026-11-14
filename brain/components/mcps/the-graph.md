@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-05T20:58:04Z"
+pushed_at: "2026-11-09T14:46:47Z"
 ---
 ## What it is
 Enables querying indexed blockchain data via subgraph GraphQL queries, part of the Pipeworx MCP gateway.

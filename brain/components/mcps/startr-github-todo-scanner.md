@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-08-17T13:39:14Z"
+pushed_at: "2026-11-07T18:11:37Z"
 ---
 ## What it is
 MCP server `GitHub TODO Scanner`, catalogued on PulseMCP. Scans GitHub repositories for TODO comments in code files, presenting findings through both a web interface and RESTful API for tracking outstanding tasks and conducting code quality reviews.

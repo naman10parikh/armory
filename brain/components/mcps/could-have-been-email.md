@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T03:59:32Z"
+pushed_at: "2026-11-09T13:44:06Z"
 ---
 ## What it is
 Analyzes meeting transcripts to determine if they could have been emails, returning filler word count, decisions, action items, and a suggested email.

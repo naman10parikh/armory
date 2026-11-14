@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-08-11T16:23:43Z"
+pushed_at: "2026-11-11T13:34:43Z"
 ---
 ## What it is
 MCP server `Behavioral Prediction`, catalogued on PulseMCP. Provides AI-powered tools to analyze wallet behavior prediction, fraud detection and rug pull prediction.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2024-12-13T08:12:27Z"
+pushed_at: "2026-11-09T02:42:46Z"
 ---
 ## What it is
 MCP server `Supabase`, catalogued on PulseMCP. Bridges Supabase databases with natural language commands for querying tables, generating TypeScript types, and exploring schemas.

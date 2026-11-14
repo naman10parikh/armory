@@ -8,12 +8,12 @@ source_url: https://github.com/arkheiaai/arkheia-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-04T11:42:15Z"
+pushed_at: "2026-11-12T20:24:17Z"
 ---
 ## What it is
 MCP server `Arkheia`, catalogued on PulseMCP. Hallucination and fabrication detection for LLM outputs across 30+ models.

@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, art-culture]
-stars: 7
+stars: 9
 forks: 1
-pushed_at: "2026-11-01T02:46:44Z"
+pushed_at: "2026-11-12T21:01:40Z"
 ---
 ## What it is
 NanoBanana AI image generation and editing with virtual try-on and product placement in realistic scenes.

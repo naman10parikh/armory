@@ -8,13 +8,13 @@ source_url: https://github.com/fixed-width/glass
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-06T21:19:09Z"
+pushed_at: "2026-11-13T07:22:14Z"
 ---
 ## What it is
 Build -> See -> Interact -> Debug over native GUI apps.

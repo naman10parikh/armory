@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-19T10:44:45Z"
+pushed_at: "2026-11-12T16:58:16Z"
 ---
 ## What it is
 An MCP server for ImmyBot IT automation platform, enabling management of computers, deployments, software, and maintenance sessions through ImmyBot's API.

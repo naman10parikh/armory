@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-06T13:00:43Z"
+pushed_at: "2026-11-14T05:44:26Z"
 ---
 ## What it is
 Enables Midjourney image generation via PiAPI with daily cost caps, audit logs, and SSRF-safe image URL inputs.

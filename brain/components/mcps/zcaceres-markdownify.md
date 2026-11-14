@@ -8,11 +8,11 @@ source_url: https://github.com/zcaceres/markdownify-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3003
+stars: 3005
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 254
+forks: 253
 pushed_at: "2026-11-05T16:38:25Z"
 ---
 ## What it is

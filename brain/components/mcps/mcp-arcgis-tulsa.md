@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-30T19:54:40Z"
+pushed_at: "2026-11-09T13:32:30Z"
 ---
 ## What it is
 Enables searching and querying City of Tulsa GIS open geospatial datasets (parcels, zoning, public works) via ArcGIS Feature Services through natural language or direct MCP tool calls.

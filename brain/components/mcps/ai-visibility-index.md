@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-03T14:01:53Z"
+pushed_at: "2026-11-10T14:45:54Z"
 ---
 ## What it is
 Read-only access to the AI Visibility Index: the measured share of answer that 20 SaaS and 24 crypto brands hold across ChatGPT, Perplexity and Gemini, re-measured weekly on a frozen prompt panel with every past release kept at a permanent URL. Five tools — full index, one brand, brand list, complet

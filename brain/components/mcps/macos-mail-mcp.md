@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-03T19:41:23Z"
+pushed_at: "2026-11-13T14:45:39Z"
 ---
 ## What it is
 An MCP server for Apple Mail that enables Claude to read, search, manage, and compose emails via AppleScript.

@@ -8,13 +8,13 @@ source_url: https://github.com/nonz250/ai-rotom
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-11-06T17:34:22Z"
+forks: 7
+pushed_at: "2026-11-12T22:02:25Z"
 ---
 ## What it is
 MCP server for Pokémon battle advising: provides type matchups, damage calculation, party analysis, and move/ability data for AI agents like Claude Code and Codex.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 16
-pushed_at: "2026-09-14T11:30:47Z"
+pushed_at: "2026-11-14T10:22:52Z"
 ---
 ## What it is
 MCP server `PowerPlatform Dataverse`, catalogued on PulseMCP. Integrates with Microsoft PowerPlatform/Dataverse to enable intelligent access to entity metadata, attributes, relationships, and records with support for OData queries and context-rich prompts for data modeling and exploration.

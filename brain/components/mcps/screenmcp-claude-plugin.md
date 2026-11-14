@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-28T17:13:49Z"
+pushed_at: "2026-11-12T15:24:29Z"
 ---
 ## What it is
 Enables Claude to control the local desktop via screenshot, mouse, keyboard, and clipboard operations.

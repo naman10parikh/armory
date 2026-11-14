@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-29T16:37:05Z"
+pushed_at: "2026-11-08T15:18:59Z"
 ---
 ## What it is
 Enables AI assistants to search and analyze German legal texts using vector embeddings and semantic search.

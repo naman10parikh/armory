@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-11-02T14:27:08Z"
+pushed_at: "2026-11-12T16:55:55Z"
 ---
 ## What it is
 MCP server for Checkpoint Harmony Email & Collaboration (Avanan). Enables AI assistants to manage email security, anti-phishing, anti-malware, and threat detection via the Avanan API.

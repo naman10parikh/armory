@@ -8,14 +8,14 @@ source_url: https://github.com/nimbalyst/nimbalyst
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2039
+stars: 2071
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 335
-pushed_at: "2026-11-04T07:28:07Z"
+forks: 342
+pushed_at: "2026-11-14T08:39:18Z"
 ---
 ## What it is
 Nimbalyst - The open-source visual workspace for Claude Code, Codex, and OpenCode. Run multiple coding agents in parallel, edit their work visually in markdown, mockups, and diagrams, and track tasks. Free, MIT-licensed desktop app for macOS, Windows, Linux, with mobile companion for iOS and Android.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T08:25:31Z"
+pushed_at: "2026-11-09T13:42:46Z"
 ---
 ## What it is
 Enables AI agents to query Colombian government procurement data via MCP tools or natural language questions.

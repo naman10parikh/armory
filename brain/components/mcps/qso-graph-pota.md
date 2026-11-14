@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-29T06:34:35Z"
+pushed_at: "2026-11-14T04:10:01Z"
 ---
 ## What it is
 MCP server `Parks on the Air`, catalogued on PulseMCP. Live activator spots, park info, activator/hunter stats, and scheduled activations.

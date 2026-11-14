@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-11-04T21:58:29Z"
+pushed_at: "2026-11-14T04:36:44Z"
 ---
 ## What it is
 MCP server `Universal Crypto`, catalogued on PulseMCP. Integrates with EVM-compatible blockchain networks including BSC, Ethereum, Arbitrum, Polygon, Base, and Optimism to enable DeFi operations, security analysis, cross-chain bridging, NFT management, and portfolio tracking.

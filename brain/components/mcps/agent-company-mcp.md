@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-07T13:01:23Z"
+pushed_at: "2026-11-08T17:44:00Z"
 ---
 ## What it is
 Enables AI agents to autonomously form and govern real legal companies (Wyoming or Nevis LLCs) with agent-specific charters, containing liability and proving authority through MCP tools.

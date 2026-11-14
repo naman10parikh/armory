@@ -8,12 +8,12 @@ source_url: https://github.com/hexxla/mcp-ratchet
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-01T20:35:58Z"
+pushed_at: "2026-11-11T16:27:18Z"
 ---
 ## What it is
 MCP server `MCP Ratchet`, catalogued on PulseMCP. Enforces tool call ordering in MCP servers using a token-based dependency system with multi-level chains, expiry, and one-time use.

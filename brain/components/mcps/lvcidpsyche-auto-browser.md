@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
-stars: 924
+stars: 927
 forks: 154
-pushed_at: "2026-11-07T01:56:12Z"
+pushed_at: "2026-11-14T10:32:38Z"
 ---
 ## What it is
 Open-source MCP-native browser agent with human takeover via noVNC, reusable auth profiles, and approval/audit rails. Playwright + FastAPI, Docker-based isolated sessions, stdio bridge for Claude Desktop and Cursor.

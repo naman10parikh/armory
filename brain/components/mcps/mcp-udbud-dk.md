@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-06T01:49:54Z"
+pushed_at: "2026-11-09T14:49:43Z"
 ---
 ## What it is
 Danish government public procurement notices (keyless).

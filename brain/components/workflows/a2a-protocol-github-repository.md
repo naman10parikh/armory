@@ -8,13 +8,13 @@ source_url: https://github.com/google/A2A
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 26436
+stars: 26539
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, official-resources]
-forks: 2693
-pushed_at: "2026-11-05T14:47:57Z"
+forks: 2702
+pushed_at: "2026-11-13T08:59:47Z"
 ---
 ## What it is
 Google's official repository for A2A protocol

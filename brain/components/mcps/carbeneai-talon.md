@@ -8,11 +8,11 @@ source_url: https://github.com/carbeneai/talon
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 61
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
+forks: 8
 pushed_at: "2026-10-21T20:09:20Z"
 ---
 ## What it is

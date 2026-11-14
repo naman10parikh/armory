@@ -12,8 +12,8 @@ stars: 3119
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 199
-pushed_at: "2026-11-04T16:06:33Z"
+forks: 200
+pushed_at: "2026-11-13T19:03:23Z"
 ---
 ## What it is
 MCP server `Tianji`, catalogued on PulseMCP. Bridges AI assistants with the Tianji platform to enable survey management, including querying results, retrieving detailed information, and listing workspace surveys without navigating the Tianji interface.

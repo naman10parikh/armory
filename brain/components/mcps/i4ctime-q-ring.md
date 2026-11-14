@@ -8,12 +8,12 @@ source_url: https://github.com/i4ctime/quantum_ring
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-05T06:14:16Z"
+pushed_at: "2026-11-13T04:58:55Z"
 ---
 ## What it is
 MCP server `Q-Ring by I4cTime`, catalogued on PulseMCP. Quantum-inspired keyring for AI coding agents with superposition, entanglement, and tunneling mechanics.

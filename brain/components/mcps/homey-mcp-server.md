@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-28T18:47:02Z"
+pushed_at: "2026-11-13T20:37:01Z"
 ---
 ## What it is
 Enables Claude AI to control and manage Homey Pro smart home devices, flows, and analytics through natural language.

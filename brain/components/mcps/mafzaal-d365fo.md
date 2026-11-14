@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-11-02T09:10:16Z"
+pushed_at: "2026-11-09T09:08:24Z"
 ---
 ## What it is
 MCP server `Dynamics 365 Finance & Operations`, catalogued on PulseMCP. Python client library for Microsoft Dynamics 365 Finance & Operations

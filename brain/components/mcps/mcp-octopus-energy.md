@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-03T21:09:07Z"
+pushed_at: "2026-11-09T14:26:31Z"
 ---
 ## What it is
 Enables AI agents to query UK energy tariffs and products via the Octopus Energy public API.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T11:30:06Z"
+pushed_at: "2026-11-13T13:39:27Z"
 ---
 ## What it is
 Pinboard is a local-first communication layer for coding agents, providing MCP tools for session presence, targeted messages, inbox delivery, and advisory file leases with secure local IPC.

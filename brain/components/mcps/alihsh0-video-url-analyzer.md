@@ -8,12 +8,12 @@ source_url: https://github.com/u2n4/video-url-analyzer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-05T18:31:03Z"
+pushed_at: "2026-11-09T23:14:53Z"
 ---
 ## What it is
 MCP server `Video URL Analyzer`, catalogued on PulseMCP. Analyzes YouTube, TikTok, and Instagram videos through Gemini-powered transcription, content analysis, Q&A, and tutorial step extraction.

@@ -8,13 +8,13 @@ source_url: https://github.com/mumez/smalltalk-interop-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T02:17:57Z"
+pushed_at: "2026-11-10T15:50:52Z"
 ---
 ## What it is
 A local MCP server to communicate local Pharo & Squeak Smalltalk image (successor of pharo-smalltalk-interop-mcp-server)

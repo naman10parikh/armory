@@ -8,12 +8,12 @@ source_url: https://github.com/jmrplens/gitlab-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 47
+stars: 51
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-11-07T11:45:50Z"
+pushed_at: "2026-11-14T13:17:03Z"
 ---
 ## What it is
 MCP server `GitLab`, catalogued on PulseMCP. Exposes the entire GitLab REST API as 1006 MCP tools across 162 domain sub-packages for AI-driven GitLab management.

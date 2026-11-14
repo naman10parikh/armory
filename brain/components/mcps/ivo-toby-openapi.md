@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 65
-pushed_at: "2026-11-06T09:21:10Z"
+pushed_at: "2026-11-11T20:58:57Z"
 ---
 ## What it is
 MCP server `OpenAPI`, catalogued on PulseMCP. Integrates with OpenAPI specifications to expose REST API endpoints as MCP resources, enabling dynamic discovery and utilization of many web services.

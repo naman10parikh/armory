@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-11-07T12:29:12Z"
+forks: 2
+pushed_at: "2026-11-09T04:23:25Z"
 ---
 ## What it is
 An extensible MCP server that provides intelligent Python code analysis, navigation, and understanding capabilities for AI assistants like Claude.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T19:32:42Z"
+pushed_at: "2026-11-08T02:55:59Z"
 ---
 ## What it is
 MCP connector for AppCrane that serves a bundled tool catalog for offline introspection and proxies tool calls to a self-hosted AppCrane instance for deploying and managing AI-built apps.

@@ -8,13 +8,13 @@ source_url: https://github.com/devag7/Indian-Option-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 16
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 12
-pushed_at: "2026-11-06T17:12:01Z"
+pushed_at: "2026-11-12T19:06:22Z"
 ---
 ## What it is
 MCP Server for Indian Options — Real-time option chains, Greeks, 34+ strategies, OI analysis, IV smile, Max Pain. Works with Claude Desktop. Replaces Sensibull.

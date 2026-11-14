@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T18:44:44Z"
+pushed_at: "2026-11-09T19:44:26Z"
 ---
 ## What it is
 Records browser sessions and provides structured context (clicks, console, network, screenshots) for AI coding agents to understand and act upon.

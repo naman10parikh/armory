@@ -8,14 +8,14 @@ source_url: https://github.com/pytest-dev/pytest
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 14670
+stars: 14685
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3608
-pushed_at: "2026-11-07T06:03:30Z"
+forks: 3629
+pushed_at: "2026-11-14T13:24:04Z"
 ---
 ## What it is
 The pytest framework makes it easy to write small tests, yet scales to support complex functional testing

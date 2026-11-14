@@ -15,7 +15,7 @@ related: []
 tags: [glama, mcp]
 mentions: null
 forks: 3
-pushed_at: "2026-10-25T08:43:43Z"
+pushed_at: "2026-11-12T23:58:15Z"
 ---
 ## What it is
 MCP server for Google Drive that enables listing, searching, uploading, downloading, and managing files and folders, as well as handling comments and permissions.

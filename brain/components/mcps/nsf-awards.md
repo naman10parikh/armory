@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-03T21:04:06Z"
+pushed_at: "2026-11-09T14:25:30Z"
 ---
 ## What it is
 Enables querying the National Science Foundation award database without authentication.

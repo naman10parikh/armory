@@ -8,13 +8,13 @@ source_url: https://github.com/nirholas/pump-fun-workers
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-10T22:33:58Z"
+pushed_at: "2026-11-10T22:32:54Z"
 ---
 ## What it is
 A Cloudflare Worker that implements the MCP Streamable HTTP transport for AI agents to interact with pump.fun on Solana.

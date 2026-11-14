@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2025-07-22T05:49:19Z"
+pushed_at: "2026-11-11T15:56:56Z"
 ---
 ## What it is
 MCP server `PlayMCP (Playwright Browser Automation)`, catalogued on PulseMCP. Provides browser automation capabilities using Playwright, enabling web page navigation, element interaction, content extraction, screenshot capture, and JavaScript execution for web scraping, testing, and automated workflows.

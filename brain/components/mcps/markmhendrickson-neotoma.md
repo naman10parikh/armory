@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
-stars: 36
+stars: 38
 forks: 4
-pushed_at: "2026-11-07T05:34:56Z"
+pushed_at: "2026-11-14T12:46:48Z"
 ---
 ## What it is
 Deterministic state layer for AI agents. Stores versioned entities (contacts, tasks, transactions, decisions) with immutable observations, full provenance, and schema-first extraction. Local-first SQLite, cross-client memory across Claude, Cursor, ChatGPT, and OpenClaw. [Website](https://neotoma.io)

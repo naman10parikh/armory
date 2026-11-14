@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-06T01:21:12Z"
+pushed_at: "2026-11-12T16:31:11Z"
 ---
 ## What it is
 Provides a unified multi-agent coordination layer with shared memory, wiki, skills, and file management via MCP tools, enabling agents to access and collaborate on resources in a single Python process.

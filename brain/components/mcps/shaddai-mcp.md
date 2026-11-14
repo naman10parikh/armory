@@ -8,13 +8,13 @@ source_url: https://github.com/IzzoSol/shaddai-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T19:42:42Z"
+pushed_at: "2026-11-12T00:31:40Z"
 ---
 ## What it is
 MCP server that provides 7 specialized agents with RAG knowledge bases, allowing Claude to search and ask domain-specific questions and route tasks to the appropriate agent without API keys.

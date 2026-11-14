@@ -8,14 +8,14 @@ source_url: https://github.com/anthropics/claude-code
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 154868
+stars: 155627
 eval_score: null
 mentions: 600
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 25594
-pushed_at: "2026-11-06T17:04:01Z"
+forks: 24982
+pushed_at: "2026-11-14T10:00:56Z"
 ---
 ## What it is
 Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.

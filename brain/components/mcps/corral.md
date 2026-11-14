@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-06T22:57:24Z"
+pushed_at: "2026-11-08T17:10:27Z"
 ---
 ## What it is
 Exposes your local, Corral-organised workspace to AI coding agents via the Model Context Protocol, supporting tools like Claude Code, Cursor, Cline, and others.

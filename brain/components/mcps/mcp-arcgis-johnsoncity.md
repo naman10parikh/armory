@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-30T07:37:52Z"
+pushed_at: "2026-11-09T13:29:29Z"
 ---
 ## What it is
 Access and query City of Johnson City GIS open geospatial datasets (parcels, zoning, public works) via natural language, with tools to search, query layers, and retrieve schema.

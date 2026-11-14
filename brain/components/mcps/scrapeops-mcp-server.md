@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T14:59:53Z"
+pushed_at: "2026-11-13T15:56:57Z"
 ---
 ## What it is
 Enables AI agents to browse the web, bypass anti-bots, render JavaScript, take screenshots, and perform structured data extraction using the ScrapeOps Proxy API.

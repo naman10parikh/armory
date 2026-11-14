@@ -8,13 +8,13 @@ source_url: https://github.com/simongonzalezdc/complyos
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-19T11:58:07Z"
+pushed_at: "2026-11-09T18:47:57Z"
 ---
 ## What it is
 AI-native compliance auditing engine for enterprise LMS, enabling querying compliance status, running audits, and validating assignment rules through natural language with MCP clients like Claude or Cursor.

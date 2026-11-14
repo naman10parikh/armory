@@ -8,12 +8,12 @@ source_url: https://github.com/withqwerty/football-docs
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 224
+stars: 228
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 28
+forks: 29
 pushed_at: "2026-11-03T12:00:16Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/icyberdeveloper/tbank-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 44
+stars: 57
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-10-05T12:33:51Z"
+pushed_at: "2026-11-12T19:36:09Z"
 ---
 ## What it is
 Mobile banking API server for MCP-capable agents that provides 32 tools for accounts, operations, grocery ordering, transfers, and investments with secure login.

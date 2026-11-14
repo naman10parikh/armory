@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-11-07T12:57:18Z"
+pushed_at: "2026-11-14T14:00:45Z"
 ---
 ## What it is
 Enables chatbots to interact with a global goals engine, allowing them to declare goals, manage branches, and evaluate outcomes through MCP tools.

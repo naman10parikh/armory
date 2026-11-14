@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-11-04T13:19:25Z"
+forks: 1
+pushed_at: "2026-11-13T12:52:58Z"
 ---
 ## What it is
 A PTY-based MCP server providing persistent, interactive shell sessions with strong Windows support, enabling AI agents to run commands, handle interactive tools, and manage large output across MCP-compatible clients.

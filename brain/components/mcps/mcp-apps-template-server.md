@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-11-04T01:20:03Z"
+pushed_at: "2026-11-13T07:06:06Z"
 ---
 ## What it is
 A starter template for building MCP apps with React widgets, featuring tool execution, UI capability negotiation, and host integration.

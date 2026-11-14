@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-13T05:32:23Z"
+pushed_at: "2026-11-09T13:35:58Z"
 ---
 ## What it is
 Enables users to search and retrieve board game data via the Board Game Atlas API, including game details, ratings, and availability.

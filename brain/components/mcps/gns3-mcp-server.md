@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-11-03T20:41:47Z"
+pushed_at: "2026-11-07T18:19:10Z"
 ---
 ## What it is
 Enables control of GNS3 network lab automation, including projects, nodes, consoles, and SSH, through Claude Desktop or any MCP-compatible client.

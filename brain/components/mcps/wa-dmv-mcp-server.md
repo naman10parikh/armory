@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-06T02:04:13Z"
+pushed_at: "2026-11-09T14:53:53Z"
 ---
 ## What it is
 Access Washington State Department of Licensing (DOL) data including electric vehicle population counts and monthly vehicle registration transactions. Queries public Socrata datasets without authentication.

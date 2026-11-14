@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T23:36:10Z"
+pushed_at: "2026-11-10T01:36:08Z"
 ---
 ## What it is
 MCP server for Holded API v2, enabling listing and querying of contacts, invoices, purchases, products, services, and payments, with low-level access to any endpoint.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T04:59:26Z"
+pushed_at: "2026-11-13T23:03:41Z"
 ---
 ## What it is
 Provides ChatGPT with a persistent, VM-like Linux engineering workstation inside Docker, with root access, development tools, and a private nested Docker daemon.

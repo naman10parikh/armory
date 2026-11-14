@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-07T13:13:27Z"
+pushed_at: "2026-11-14T06:36:26Z"
 ---
 ## What it is
 MCP server that turns live job postings into buying signals for B2B sales, enabling AI agents to find in-market accounts and time outreach based on hiring intent.

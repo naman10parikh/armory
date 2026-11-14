@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-27T22:37:32Z"
+pushed_at: "2026-11-09T14:14:40Z"
 ---
 ## What it is
 A Python FastMCP server that re-exposes Kindora's public funder and grant tools for ChatGPT, enabling grant discovery from IRS 990 filings and Grants.gov.

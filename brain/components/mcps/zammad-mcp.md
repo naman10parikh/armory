@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-07T10:10:43Z"
+pushed_at: "2026-11-11T16:50:27Z"
 ---
 ## What it is
 MCP server for Zammad that focuses on workflows the standard Zammad API tooling does not cover well — primarily shared drafts with strict reply-HTML validation, fresh signature rendering and German-localised quote blocks.

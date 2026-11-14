@@ -8,13 +8,13 @@ source_url: https://github.com/HKUDS/CLI-Anything
 license: unknown
 cli_compat: []
 maturity: stable
-stars: 58393
+stars: 58723
 eval_score: 1
 mentions: 2
 verified_at: 
 related: []
 tags: [connectors]
-forks: 5256
+forks: 5288
 pushed_at: "2026-09-22T02:01:29Z"
 ---
 

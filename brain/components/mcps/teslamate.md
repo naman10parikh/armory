@@ -12,8 +12,8 @@ stars: 142
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 24
-pushed_at: "2026-11-06T04:38:48Z"
+forks: 25
+pushed_at: "2026-11-14T07:53:20Z"
 ---
 ## What it is
 MCP server `TeslaMate`, catalogued on PulseMCP. Provides access to TeslaMate database analytics for querying Tesla vehicle data including battery health, charging patterns, driving efficiency, location analytics, and software update history through 20 pre-built analytical tools plus custom SQL query capabilities with safety validation.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T13:23:36Z"
+pushed_at: "2026-11-13T13:55:25Z"
 ---
 ## What it is
 Provides AI agents with real-time ground truth about what's actually running on the machine, including live agent sessions, listening TCP ports, loaded daemons, and system stats. It reads directly from the OS via fixed commands, ensuring agents never rely on stale docs or transcripts.

@@ -8,13 +8,13 @@ source_url: https://github.com/elevanaltd/octave-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 54
+stars: 52
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-11-07T02:52:15Z"
+pushed_at: "2026-11-10T01:32:41Z"
 ---
 ## What it is
 MCP server for deterministic document infrastructure, enabling canonical normalization, schema validation, and grammar compilation for structured AI artifacts.

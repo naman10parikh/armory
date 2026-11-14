@@ -8,12 +8,12 @@ source_url: https://github.com/n0zer0d4y/chronos-protocol
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 7
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2025-11-15T13:51:35Z"
+pushed_at: "2026-11-11T02:02:14Z"
 ---
 ## What it is
 MCP server `Chronos Protocol`, catalogued on PulseMCP. Provides time intelligence, persistent memory, and activity logging with timezone management, elapsed time calculation, and configurable reminders for AI coding workflows requiring session continuity and audit trails.

@@ -8,12 +8,12 @@ source_url: https://github.com/taskade/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 170
+stars: 169
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 54
-pushed_at: "2026-11-06T22:51:51Z"
+forks: 55
+pushed_at: "2026-11-14T10:23:34Z"
 ---
 ## What it is
 MCP server `Taskade`, catalogued on PulseMCP. Integrates with Taskade's API to manage projects, tasks, and workspaces with support for task assignment, date management, and folder organization, featuring an innovative OpenAPI-to-MCP code generation system for automated tool creation.

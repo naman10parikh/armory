@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T00:59:22Z"
+pushed_at: "2026-11-09T13:38:57Z"
 ---
 ## What it is
 Wraps the Cat Facts API to fetch random cat facts and list cat breeds, enabling natural language access to feline trivia.

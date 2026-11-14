@@ -8,11 +8,13 @@ source_url: https://github.com/shiyvfeng/beijing-fushengji-arena
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-11-13T03:36:47Z"
 ---
 ## What it is
 Enables AI agents to play a classic turn-based business game set in Beijing, autonomously making decisions like moving, trading, banking, and debt repayment over 40 days. Supports loading and saving game records for cross-session learning.

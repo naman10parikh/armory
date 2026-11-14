@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-16T11:53:33Z"
+pushed_at: "2026-11-12T17:14:43Z"
 ---
 ## What it is
 Converts between East Asian lunisolar calendars (Chinese, Japanese, Korean, Vietnamese) and Gregorian/Julian dates using Julian Day Numbers. Provides MCP tools for date conversion and era search.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-03T10:44:33Z"
+pushed_at: "2026-11-12T01:11:49Z"
 ---
 ## What it is
 Upload files to Drop to CDN and get instant public CDN URLs via MCP.

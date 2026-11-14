@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-30T19:55:25Z"
+pushed_at: "2026-11-09T13:32:43Z"
 ---
 ## What it is
 Enables searching and querying City of Yakima GIS open geospatial datasets, such as parcels and zoning, through ArcGIS Feature Services.

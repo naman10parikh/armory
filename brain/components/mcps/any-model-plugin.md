@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T15:31:49Z"
+pushed_at: "2026-11-13T23:33:46Z"
 ---
 ## What it is
 Enables AI agents to delegate tasks, run adversarial reviews, and manage background jobs across multiple models and providers via anymodel_* tools.

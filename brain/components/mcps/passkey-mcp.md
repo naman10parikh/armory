@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T16:08:36Z"
+pushed_at: "2026-11-09T16:08:30Z"
 ---
 ## What it is
 A cross-platform secrets manager that stores named credential sets in the system keychain and injects them as environment variables, enabling secure secret management for AI coding assistants and CLI tools.

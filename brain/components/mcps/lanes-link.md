@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-23T09:48:16Z"
+pushed_at: "2026-11-09T12:18:58Z"
 ---
 ## What it is
 One secure, self-hosted MCP endpoint connecting AI agents to your real accounts (mail, calendar, files, notes), with per-profile separation, explicit permission enforcement, and an append-only audit log.

@@ -8,12 +8,12 @@ source_url: https://github.com/Iseenope/bilibili-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-07-18T13:07:58Z"
 ---
 ## What it is

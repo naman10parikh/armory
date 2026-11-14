@@ -13,7 +13,7 @@ related: []
 tags: [mcp, workplace-productivity]
 stars: 13
 forks: 10
-pushed_at: "2026-11-05T08:27:59Z"
+pushed_at: "2026-11-14T09:27:45Z"
 ---
 ## What it is
 Google Workspace MCP server exposing 23 curated tools for Drive, Sheets, Calendar, Docs, and Gmail via the gws CLI.

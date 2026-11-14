@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-05T22:56:43Z"
+pushed_at: "2026-11-14T02:36:52Z"
 ---
 ## What it is
 MCP server exposing AI agent observability tools: list, inspect, and deterministically replay recorded agent execution traces for debugging failures.

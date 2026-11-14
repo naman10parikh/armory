@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 17
-pushed_at: "2026-11-07T00:17:08Z"
+pushed_at: "2026-11-10T05:32:01Z"
 ---
 ## What it is
 Enables AI agents to control a stealthy browser via the Model Context Protocol, supporting navigation, screenshots, clicking, typing, and more.

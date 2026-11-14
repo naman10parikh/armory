@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-06T03:14:22Z"
+pushed_at: "2026-11-11T05:20:41Z"
 ---
 ## What it is
 Enables monitoring and managing Debezium/Kafka Connect CDC connectors, including status, configuration, lifecycle operations, and security controls, through natural language in MCP-compatible clients.

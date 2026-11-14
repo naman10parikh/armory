@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T16:28:36Z"
+pushed_at: "2026-11-12T10:14:22Z"
 ---
 ## What it is
 A local-first, deterministic, read-only MCP server that audits test suites for false-green tests, tautological assertions, and mock-contract drift, ensuring tests truly validate production code. It provides tools to detect test fidelity issues, verify mock drift, and synthesize strict mock contracts

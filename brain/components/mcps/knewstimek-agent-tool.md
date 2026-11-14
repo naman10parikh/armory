@@ -8,12 +8,12 @@ source_url: https://github.com/knewstimek/agent-tool
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-11-06T04:54:53Z"
+pushed_at: "2026-11-10T07:15:25Z"
 ---
 ## What it is
 MCP server `Agent Tool`, catalogued on PulseMCP. Encoding-aware, indentation-smart file tools for AI coding agents with SSH, SFTP, and 46 bundled tools.

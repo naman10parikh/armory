@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-07T02:31:00Z"
+pushed_at: "2026-11-10T22:04:12Z"
 ---
 ## What it is
 Enables interaction with Kenya's government processes by providing form checklists, draft letters, requirements checks, eCitizen guides, Huduma Centre locations, and timeline planning.

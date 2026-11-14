@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T02:11:34Z"
+pushed_at: "2026-11-13T13:00:18Z"
 ---
 ## What it is
 Cloud-deployable MCP server exposing secureFlows' OpenAPI operations (tagged ai-safe/ai-optional) as MCP tools, plus static helper tools like login URL building and integration linting for coding agents.

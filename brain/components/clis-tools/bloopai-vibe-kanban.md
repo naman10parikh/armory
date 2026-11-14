@@ -8,14 +8,14 @@ source_url: https://github.com/BloopAI/vibe-kanban
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 28612
+stars: 28687
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3054
-pushed_at: "2026-11-04T11:52:09Z"
+forks: 3062
+pushed_at: "2026-11-12T14:00:45Z"
 ---
 ## What it is
 Get 10X more out of Claude Code, Codex or any coding agent

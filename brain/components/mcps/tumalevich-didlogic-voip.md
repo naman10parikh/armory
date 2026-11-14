@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2025-10-09T13:52:01Z"
+pushed_at: "2026-11-12T12:42:28Z"
 ---
 ## What it is
 MCP server `DIDLogic VoIP`, catalogued on PulseMCP. Provides a natural language interface to DIDLogic telecommunications API for managing SIP accounts, phone numbers, call history, and billing information through specialized VoIP administration tools.

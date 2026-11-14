@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-06T19:15:14Z"
+pushed_at: "2026-11-09T23:46:23Z"
 ---
 ## What it is
 Provides live California road conditions, route planning, and an AI assistant over MCP, enabling natural-language queries about traffic, closures, chain controls, and more.

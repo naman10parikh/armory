@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T01:07:45Z"
+pushed_at: "2026-11-12T08:42:12Z"
 ---
 ## What it is
 Enables image generation and editing using OpenAI's GPT Image 2 model within a Claude Desktop Code project workspace, with security boundaries and no-overwrite file handling.

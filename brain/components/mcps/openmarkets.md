@@ -8,13 +8,13 @@ source_url: https://github.com/danchev/openmarkets
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T16:24:42Z"
+pushed_at: "2026-11-13T17:44:28Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for agentic retrieval of financial data from Yahoo Finance, enabling stock information, historical data, analyst data, and more.

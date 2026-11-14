@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-07T02:35:33Z"
+pushed_at: "2026-11-07T22:44:11Z"
 ---
 ## What it is
 Connect once. Remember everywhere. Squish gives ChatGPT, Claude Code, and every AI agent one shared memory. Stop re-explaining your project to every tool.

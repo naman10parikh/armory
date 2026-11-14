@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-11-05T17:39:34Z"
+pushed_at: "2026-11-14T02:27:07Z"
 ---
 ## What it is
 A comprehensive MCP server that enables LLMs like Claude to explore and interact with the existing Fediverse through standardized MCP tools, resources, and prompts.

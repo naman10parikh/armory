@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-07T10:14:20Z"
+pushed_at: "2026-11-14T08:26:11Z"
 ---
 ## What it is
 mnemo — an MCP server for agent memory with a first-class correction & erasure channel (revert, lineage-aware retraction, tamper-evident deletion receipts). Zero dependencies, 12 tools over stdio

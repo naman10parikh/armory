@@ -12,8 +12,8 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, databases]
 stars: 37
-forks: 11
-pushed_at: "2026-10-28T16:44:44Z"
+forks: 10
+pushed_at: "2026-11-13T07:41:07Z"
 ---
 ## What it is
 Official MCP server for the S2.dev serverless stream platform.

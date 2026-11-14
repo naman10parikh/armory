@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-07T11:06:47Z"
+pushed_at: "2026-11-14T11:31:05Z"
 ---
 ## What it is
 MCP server `Open Swiss Data`, catalogued on PulseMCP. Swiss federal open data MCP server covering TARES tariffs, FINMA registry, and NOGA codes via 9 specialized tools.

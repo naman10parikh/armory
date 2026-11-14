@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-07T13:47:45Z"
+pushed_at: "2026-11-14T08:48:59Z"
 ---
 ## What it is
 MCP server for agentic-first PDF review of LaTeX papers, enabling commenting, compiling, and visual inspection via Claude Code.

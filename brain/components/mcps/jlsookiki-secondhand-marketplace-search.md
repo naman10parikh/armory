@@ -8,11 +8,11 @@ source_url: https://github.com/jlsookiki/secondhand-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 99
+stars: 103
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 28
+forks: 27
 pushed_at: "2026-10-05T21:46:06Z"
 ---
 ## What it is

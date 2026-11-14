@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-07T01:41:17Z"
+pushed_at: "2026-11-14T07:06:53Z"
 ---
 ## What it is
 MCP server for Substack that enables reading articles, comments, feed, and subscriptions from AI clients like Cursor and Claude, with optional authentication for paid content.

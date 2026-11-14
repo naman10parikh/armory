@@ -8,11 +8,11 @@ source_url: https://github.com/gensecaihq/wazuh-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 265
+stars: 271
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 71
+forks: 70
 pushed_at: "2026-11-06T15:24:35Z"
 ---
 ## What it is

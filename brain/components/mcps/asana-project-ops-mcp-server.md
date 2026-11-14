@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-02-01T09:47:23Z"
+pushed_at: "2026-11-11T01:32:10Z"
 ---
 ## What it is
 High-performance MCP server that transforms how AI assistants interact with Asana, enabling complex task hierarchies and batch operations for efficient project management.

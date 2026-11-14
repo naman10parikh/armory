@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-03-29T13:36:34Z"
+pushed_at: "2026-11-11T10:20:02Z"
 ---
 ## What it is
 MCP server `Kiwify`, catalogued on PulseMCP. Wraps the Kiwify public API for managing digital product sales, affiliate programs, financial operations, and event tracking on the Brazilian e-commerce platform.

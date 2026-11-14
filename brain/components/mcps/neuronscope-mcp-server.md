@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T14:49:15Z"
+pushed_at: "2026-11-14T04:27:39Z"
 ---
 ## What it is
 MCP server for analyzing transformer language model internals, exposing tools to trace attention heads and neurons responsible for predictions, get activation statistics, ablate components, and sketch circuits.

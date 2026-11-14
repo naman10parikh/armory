@@ -8,14 +8,14 @@ source_url: https://github.com/qdrant/qdrant
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 35462
+stars: 35553
 eval_score: 1
 mentions: 3
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2804
-pushed_at: "2026-11-07T11:15:46Z"
+forks: 2817
+pushed_at: "2026-11-13T20:54:39Z"
 ---
 ## What it is
 Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/

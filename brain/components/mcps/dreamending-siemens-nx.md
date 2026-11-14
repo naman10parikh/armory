@@ -8,11 +8,11 @@ source_url: https://github.com/dreamending/nx_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 163
+stars: 175
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
+forks: 30
 pushed_at: "2026-10-18T07:30:36Z"
 ---
 ## What it is

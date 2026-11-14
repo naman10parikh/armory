@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-07T12:15:17Z"
+pushed_at: "2026-11-08T10:33:04Z"
 ---
 ## What it is
 Enables infrastructure operations through Claude Code by exposing 195 tools across 7 providers including Coolify, VPS, Hetzner, Namecheap, Cloudflare, Supabase, and GitHub for server management, DNS, cloud resources, and more.

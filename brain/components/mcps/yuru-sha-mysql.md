@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-11-02T09:51:19Z"
+pushed_at: "2026-11-09T00:24:26Z"
 ---
 ## What it is
 MCP server `MySQL Database`, catalogued on PulseMCP. Integrates with MySQL databases to enable read-only schema inspection and query execution, ensuring data integrity and security for analytical applications.

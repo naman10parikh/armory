@@ -13,7 +13,7 @@ related: []
 tags: [mcp, speech-to-text]
 stars: 2
 forks: 0
-pushed_at: "2026-11-05T02:22:06Z"
+pushed_at: "2026-11-14T04:35:39Z"
 ---
 ## What it is
 Windows-native local audio and video transcription using whisper.cpp with Vulkan GPU acceleration. No cloud APIs, no Python. Batch processing, multilingual support, model management, and background job handling built in.

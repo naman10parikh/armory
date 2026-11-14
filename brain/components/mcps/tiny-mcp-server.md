@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-28T13:29:14Z"
+pushed_at: "2026-11-14T13:08:13Z"
 ---
 ## What it is
 A zero-dependency Python framework for building Model Context Protocol servers using a simple @tool decorator, with support for stdio and SSE transports.

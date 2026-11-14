@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-04T00:39:37Z"
+pushed_at: "2026-11-13T11:55:20Z"
 ---
 ## What it is
 Enables to fetch and update workspace profile settings for the Digital Crew Max AI sales agent via MCP tools.

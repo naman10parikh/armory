@@ -8,13 +8,13 @@ source_url: https://github.com/xorrkaz/cml-mcp
 license: BSD 2-Clause "Simplified" License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 78
+stars: 80
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 44
-pushed_at: "2026-11-03T15:41:56Z"
+pushed_at: "2026-11-10T20:20:16Z"
 ---
 ## What it is
 Enables AI assistants to interact with Cisco Modeling Labs (CML) using natural language, allowing creation, management, and automation of network labs.

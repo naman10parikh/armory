@@ -8,13 +8,13 @@ source_url: https://github.com/agiletortoise/drafts-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 47
+stars: 49
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-05-14T16:21:49Z"
+pushed_at: "2026-11-13T22:36:10Z"
 ---
 ## What it is
 Enables AI assistants to manage drafts, tags, workspaces, and actions in the Drafts app on macOS.

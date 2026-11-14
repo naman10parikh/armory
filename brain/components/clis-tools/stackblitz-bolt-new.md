@@ -8,13 +8,13 @@ source_url: https://github.com/stackblitz/bolt.new
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 16589
+stars: 16596
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 14836
+forks: 14838
 pushed_at: "2024-12-17T06:29:27Z"
 ---
 ## What it is

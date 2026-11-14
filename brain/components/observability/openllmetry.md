@@ -8,13 +8,13 @@ source_url: https://github.com/traceloop/openllmetry
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 7525
+stars: 7532
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, opentelemetry, tracing]
-forks: 1187
-pushed_at: "2026-11-05T16:26:50Z"
+forks: 1194
+pushed_at: "2026-11-09T13:57:46Z"
 mentions: 1
 ---
 ## What it is

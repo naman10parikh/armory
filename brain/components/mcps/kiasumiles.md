@@ -8,13 +8,13 @@ source_url: https://github.com/hosanxiv/kiasumiles
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 24
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-05T02:46:19Z"
+pushed_at: "2026-11-12T22:26:27Z"
 ---
 ## What it is
 MCP server that recommends the best credit card for miles based on your card stack and the merchant, helping you maximize miles at checkout.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 82
-pushed_at: "2026-11-07T02:32:33Z"
+pushed_at: "2026-11-13T09:23:25Z"
 ---
 ## What it is
 MCP server `Sequential Thinking Tools`, catalogued on PulseMCP. Provides structured problem-solving tools for step-by-step analysis, branching thoughts, and adaptive reasoning strategies in complex decision-making processes.

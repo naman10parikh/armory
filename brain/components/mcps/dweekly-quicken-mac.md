@@ -8,12 +8,12 @@ source_url: https://github.com/dweekly/quicken-mac-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
-pushed_at: "2026-09-10T08:45:14Z"
+forks: 11
+pushed_at: "2026-11-12T03:20:06Z"
 ---
 ## What it is
 MCP server `Quicken Mac`, catalogued on PulseMCP. Read-only access to Quicken for Mac financial data including transactions, spending, and portfolios.

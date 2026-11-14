@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T09:59:48Z"
+pushed_at: "2026-11-12T02:58:53Z"
 ---
 ## What it is
 Enables ChatGPT web to use local tools like file reading, command execution, and patch application through an MCP server over OpenAI Secure MCP Tunnel.

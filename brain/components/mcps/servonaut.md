@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-11-07T01:53:27Z"
+pushed_at: "2026-11-14T09:22:51Z"
 ---
 ## What it is
 Manage AWS, Hetzner, OVH, and custom SSH servers from AI agents — commands, logs, CloudWatch/CloudTrail, IP banning, and S3, with guard tiers and a full audit trail.

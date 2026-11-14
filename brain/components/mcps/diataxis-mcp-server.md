@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-17T13:02:46Z"
+pushed_at: "2026-11-08T21:30:59Z"
 ---
 ## What it is
 Enables agents to classify, audit, and plan documentation using the Diataxis framework with deterministic heuristics and no external LLM calls.

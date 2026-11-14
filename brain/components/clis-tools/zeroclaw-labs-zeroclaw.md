@@ -8,14 +8,14 @@ source_url: https://github.com/zeroclaw-labs/zeroclaw
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 33154
+stars: 33363
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 4998
-pushed_at: "2026-11-06T23:38:31Z"
+forks: 5018
+pushed_at: "2026-11-13T21:37:16Z"
 ---
 ## What it is
 Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀

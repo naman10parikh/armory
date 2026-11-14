@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-31T12:34:57Z"
+pushed_at: "2026-11-07T21:28:10Z"
 ---
 ## What it is
 MCP server to manage your GitHub starred repositories and lists

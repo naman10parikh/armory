@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-05T14:17:49Z"
+pushed_at: "2026-11-12T14:45:37Z"
 ---
 ## What it is
 Atlas Mind MCP server exposes 24 tools to read, write, triage, map, rewind, and audit a knowledge base stored as plain files in a git repository, enabling AI assistants to act as an external brain.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-27T01:47:59Z"
+pushed_at: "2026-11-09T09:00:56Z"
 ---
 ## What it is
 A production-grade MCP server providing a secure, natural-language interface to Kubernetes for developers and AI agents, with multi-cluster routing, OIDC authentication, RBAC, and audit logging.

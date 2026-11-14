@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-02T22:46:03Z"
+pushed_at: "2026-11-12T16:59:08Z"
 ---
 ## What it is
 An MCP server for SuperOps PSA/RMM, enabling MSPs to manage tickets, assets, clients, and field technician operations through SuperOps's API.

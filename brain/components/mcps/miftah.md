@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-01T04:09:03Z"
+pushed_at: "2026-11-11T14:15:57Z"
 ---
 ## What it is
 A local MCP auth wrapper and credential broker for multi-account workflows, enabling profile switching, secret injection, and policy enforcement for upstream MCP servers.

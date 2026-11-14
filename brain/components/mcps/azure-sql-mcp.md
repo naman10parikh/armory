@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-06T13:52:28Z"
+pushed_at: "2026-11-10T21:04:26Z"
 ---
 ## What it is
 Enables Azure SQL Database performance and administration through typed execution, query benchmarking, and managed DBA operations.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-03T21:07:31Z"
+pushed_at: "2026-11-09T14:26:16Z"
 ---
 ## What it is
 Search and retrieve items from the NYPL Digital Collections by keyword or ID.

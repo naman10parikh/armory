@@ -8,11 +8,11 @@ source_url: https://github.com/bx33661/wireshark-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 372
+stars: 399
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 47
+forks: 48
 pushed_at: "2026-11-01T23:45:51Z"
 ---
 ## What it is

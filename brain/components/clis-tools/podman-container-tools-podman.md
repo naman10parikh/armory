@@ -8,14 +8,14 @@ source_url: https://github.com/podman-container-tools/podman
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 33196
+stars: 33274
 eval_score: null
 mentions: 1
 verified_at: 2026-10-29
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3438
-pushed_at: "2026-11-07T00:53:56Z"
+forks: 3456
+pushed_at: "2026-11-14T05:25:26Z"
 ---
 ## What it is
 Podman: A tool for managing OCI containers and pods.

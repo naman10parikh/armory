@@ -8,12 +8,12 @@ source_url: https://github.com/ooples/token-optimizer-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 572
+stars: 579
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 73
-pushed_at: "2026-11-04T20:57:17Z"
+pushed_at: "2026-11-14T13:16:50Z"
 ---
 ## What it is
 MCP server `Token Optimizer`, catalogued on PulseMCP. Intelligent token optimization achieving 95%+ reduction through caching and compression

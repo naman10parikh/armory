@@ -8,12 +8,12 @@ source_url: https://github.com/revolist/revogrid
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3456
+stars: 3467
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 212
-pushed_at: "2026-11-04T10:44:41Z"
+forks: 213
+pushed_at: "2026-11-12T23:58:49Z"
 ---
 ## What it is
 MCP server `RevoGrid`, catalogued on PulseMCP. High-performance virtual grid component library with AI assistant integration.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-11-03T13:53:56Z"
+pushed_at: "2026-11-14T10:37:42Z"
 ---
 ## What it is
 MCP server `Omen`, catalogued on PulseMCP. Code analysis tool that helps identify complexity, technical debt, and defect risks

@@ -8,13 +8,13 @@ source_url: https://github.com/finos/aigf-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-08-13T12:52:35Z"
+forks: 6
+pushed_at: "2026-11-09T14:06:34Z"
 ---
 ## What it is
 Provides direct access to AI governance framework documents, risks, and mitigations from FINOS repositories, enabling research and risk management through natural language in Claude, VS Code, and other MCP-compatible tools.

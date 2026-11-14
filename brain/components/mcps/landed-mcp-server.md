@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-27T07:24:40Z"
+pushed_at: "2026-11-12T23:29:56Z"
 ---
 ## What it is
 Search AI-native jobs, prepare applications, and study for interviews — from any MCP client.

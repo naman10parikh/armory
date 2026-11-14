@@ -8,13 +8,13 @@ source_url: https://github.com/frontier-infra/roundtable
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-31T23:40:31Z"
+pushed_at: "2026-11-12T01:59:05Z"
 ---
 ## What it is
 Fans out a question to multiple frontier models in parallel, optionally deliberates to consensus, and returns one decided answer from the command line or any MCP-capable coding harness.

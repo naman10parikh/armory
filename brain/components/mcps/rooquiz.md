@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T08:49:25Z"
+pushed_at: "2026-11-12T15:47:56Z"
 ---
 ## What it is
 Create and manage quizzes, question banks, and translations; capture and manage leads, respondents, and bookings; and pull stats and funnel analytics on RooQuiz — a lightweight assessment platform for lead capture and viral sharing.

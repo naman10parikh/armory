@@ -8,7 +8,7 @@ source_url: https://github.com/mshojaei77/reactmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 143
+stars: 144
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

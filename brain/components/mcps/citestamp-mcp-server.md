@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-27T01:07:30Z"
+pushed_at: "2026-11-10T17:07:56Z"
 ---
 ## What it is
 Ground citations before your agent emits them by checking references against public scholarly registries and flagging hallucinated or retracted ones.

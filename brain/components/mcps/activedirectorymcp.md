@@ -8,13 +8,13 @@ source_url: https://github.com/alpadalar/ActiveDirectoryMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 52
+stars: 53
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
-pushed_at: "2026-11-04T07:27:15Z"
+forks: 14
+pushed_at: "2026-11-11T07:25:01Z"
 ---
 ## What it is
 A comprehensive MCP server for managing Active Directory environments through LDAP, enabling user, group, computer, and OU management, as well as security auditing and policy compliance checks.

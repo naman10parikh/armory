@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [claude-code, workflows-knowledge-guides]
-stars: 999
+stars: 1003
 forks: 136
-pushed_at: "2026-11-07T09:24:09Z"
+pushed_at: "2026-11-14T12:40:28Z"
 ---
 ## What it is
 A mirror of Anthropic's documentation pages for Claude Code, updated every few hours.

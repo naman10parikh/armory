@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-08-23T22:13:58Z"
+pushed_at: "2026-11-14T13:56:41Z"
 ---
 ## What it is
 Provides access to the NASA Planetary Data System Registry API, enabling human-in-the-loop search and exploration of planetary data products, missions, celestial bodies, and instruments.

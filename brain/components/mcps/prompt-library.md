@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2025-07-25T03:35:43Z"
+pushed_at: "2026-11-09T08:29:31Z"
 ---
 ## What it is
 MCP server `Prompt Library`, catalogued on PulseMCP. Saves and manages prompts locally as timestamped markdown files with chronological organization for building a persistent personal prompt library across sessions.

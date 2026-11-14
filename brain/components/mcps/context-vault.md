@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-25T14:00:54Z"
+pushed_at: "2026-11-12T18:15:26Z"
 ---
 ## What it is
 Persistent memory for AI agents enabling saving, searching, and managing knowledge across sessions with local markdown files.

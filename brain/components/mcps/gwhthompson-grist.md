@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-01-30T15:16:11Z"
+pushed_at: "2026-11-12T13:04:49Z"
 ---
 ## What it is
 MCP server `Grist`, catalogued on PulseMCP. Integrates with Grist spreadsheet-database for document management, data queries, and schema operations.

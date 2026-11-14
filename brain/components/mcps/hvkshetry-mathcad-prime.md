@@ -8,12 +8,12 @@ source_url: https://github.com/puran-water/mathcad-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2025-03-26T03:30:50Z"
+pushed_at: "2026-11-07T20:29:13Z"
 ---
 ## What it is
 MCP server `MathCAD Prime`, catalogued on PulseMCP. Integrates with PTC MathCAD Prime through the MathcadPy library, enabling worksheet management, input/output manipulation, and calculation control for engineering and scientific workflows.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-02T02:08:11Z"
+pushed_at: "2026-11-08T22:35:22Z"
 ---
 ## What it is
 An MCP server for Synthesizer V Studio 2 Pro on macOS that enables AI-driven composition and lyric input, including melody creation, lyric flowing, and phoneme tuning.

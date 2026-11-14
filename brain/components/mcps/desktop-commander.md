@@ -8,12 +8,12 @@ source_url: https://github.com/wonderwhy-er/desktopcommandermcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10243
+stars: 10306
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1277
-pushed_at: "2026-11-07T01:54:50Z"
+forks: 1286
+pushed_at: "2026-11-12T12:53:43Z"
 ---
 ## What it is
 MCP server `Desktop Commander`, catalogued on PulseMCP. Integrates terminal and filesystem capabilities for executing system commands, managing processes, and performing advanced file operations on the local system.

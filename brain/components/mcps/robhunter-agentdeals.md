@@ -12,8 +12,8 @@ stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
-pushed_at: "2026-11-07T13:47:00Z"
+forks: 17
+pushed_at: "2026-11-14T13:50:11Z"
 ---
 ## What it is
 MCP server `AgentDeals`, catalogued on PulseMCP. Developer deal aggregator providing structured access to discounts and promotions from 1500+ vendors across 38 categories.

@@ -8,12 +8,12 @@ source_url: https://github.com/cyanheads/bls-labor-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-01T13:04:39Z"
+pushed_at: "2026-11-13T11:11:07Z"
 ---
 ## What it is
 MCP server `BLS Labor Statistics`, catalogued on PulseMCP. Retrieves U.S. Bureau of Labor Statistics data on employment, wages, inflation, and workplace safety.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-07T10:56:35Z"
+pushed_at: "2026-11-14T13:13:26Z"
 ---
 ## What it is
 A Vedic astrology MCP server providing tools for natal charts, transits, compatibility, muhurtha, and career analysis using the DashaFlow engine.

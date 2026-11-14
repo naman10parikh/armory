@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T04:16:56Z"
+pushed_at: "2026-11-13T10:32:06Z"
 ---
 ## What it is
 A weather intelligence MCP server providing current conditions, forecasts, historical data, agricultural alerts, and severe warnings.

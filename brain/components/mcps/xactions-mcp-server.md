@@ -8,13 +8,13 @@ source_url: https://github.com/nirholas/XActions
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 646
+stars: 656
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 115
-pushed_at: "2026-11-05T14:36:13Z"
+forks: 114
+pushed_at: "2026-11-13T14:55:55Z"
 ---
 ## What it is
 Enables AI agents to automate Twitter/X interactions with over 140 tools, requiring no API key.

@@ -8,11 +8,11 @@ source_url: https://github.com/hexsleeves/tailscale-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 150
+stars: 152
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 25
+forks: 24
 pushed_at: "2026-10-26T20:17:07Z"
 ---
 ## What it is

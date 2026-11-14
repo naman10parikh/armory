@@ -8,12 +8,12 @@ source_url: https://github.com/infinitimeless/lmstudio-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 172
+stars: 173
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 32
-pushed_at: "2026-04-10T22:07:02Z"
+pushed_at: "2026-11-09T18:10:23Z"
 ---
 ## What it is
 MCP server `LM Studio`, catalogued on PulseMCP. Bridges Claude with locally running LLM models via LM Studio, enabling users to leverage private models through Claude's interface while maintaining local hosting.

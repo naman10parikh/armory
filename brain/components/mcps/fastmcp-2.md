@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, frameworks]
-stars: 3286
-forks: 336
-pushed_at: "2026-11-06T22:13:16Z"
+stars: 3288
+forks: 340
+pushed_at: "2026-11-11T06:21:28Z"
 ---
 ## What it is
 A high-level framework for building MCP servers in TypeScript

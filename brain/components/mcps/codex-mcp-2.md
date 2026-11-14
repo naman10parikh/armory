@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-21T08:10:24Z"
+pushed_at: "2026-11-14T12:45:18Z"
 ---
 ## What it is
 Bridges Claude Code and OpenAI Codex CLI for an interactive plan-execute-review workflow, enabling Claude to interview, design, and review while Codex implements code changes.

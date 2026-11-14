@@ -8,13 +8,13 @@ source_url: https://github.com/kunickiaj/codemem
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 80
+stars: 82
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 13
-pushed_at: "2026-11-07T09:31:38Z"
+pushed_at: "2026-11-14T05:25:18Z"
 ---
 ## What it is
 Persistent memory MCP server that captures coding session context and automatically injects relevant memories into prompts using hybrid search for OpenCode and Claude Code.

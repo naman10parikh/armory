@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-10-05T16:34:14Z"
+pushed_at: "2026-11-13T14:42:24Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server for Last.fm. Gives AI assistants access to your listening history, music discovery, and detailed track/artist/album information.

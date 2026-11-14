@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-07T12:03:20Z"
+pushed_at: "2026-11-13T19:54:35Z"
 ---
 ## What it is
 A hosted MCP server exposing US hospital chargemaster cost data to AI assistants.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-23T19:51:26Z"
+pushed_at: "2026-11-07T19:54:00Z"
 ---
 ## What it is
 MCP server `Agent Church`, catalogued on PulseMCP. Spiritual services for AI agents with confessions, salvation, and identity via x402 payments.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-14T12:22:40Z"
+pushed_at: "2026-11-13T15:09:05Z"
 ---
 ## What it is
 Authorized Android pentest lab, drivable by hand or by AI — Frida bypass chain, live traffic capture with automatic IDOR flagging, full MCP control plane, web dashboard.

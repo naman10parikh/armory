@@ -13,7 +13,7 @@ related: []
 tags: [mcp, knowledge-memory]
 stars: 2
 forks: 0
-pushed_at: "2026-11-03T22:00:39Z"
+pushed_at: "2026-11-11T20:39:53Z"
 ---
 ## What it is
 Personal knowledge graph for Claude on Neo4j. Typed entities (Person/Project/Decision/Preference/Concept), bi-temporal edge validity (`valid_at`/`invalid_at`), per-type weighted decay, contradiction detection, and a nightly "dream" extraction process. Local bge-small-en embeddings, no API keys. Optional OAuth 2.1 + Cloudflare Tunnel for cross-device use across Claude Code, Desktop, web, and iOS.

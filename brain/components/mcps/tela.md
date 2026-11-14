@@ -8,13 +8,13 @@ source_url: https://github.com/zcag/tela
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 91
+stars: 95
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
-pushed_at: "2026-10-31T13:24:54Z"
+forks: 14
+pushed_at: "2026-11-12T21:08:37Z"
 ---
 ## What it is
 Self-hostable, markdown-native team wiki with a built-in MCP server: agents search, read, and write your wiki pages (ranked Postgres full-text + semantic search, backlink traversal). Plus Atlas, which auto-generates a cited, coverage-checked wiki from your git repos and Jira.

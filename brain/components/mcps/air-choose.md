@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-10T23:02:03Z"
+pushed_at: "2026-11-12T11:49:12Z"
 ---
 ## What it is
 MCP server that watches flight and train fares across multiple provider APIs, with tools to manage watched routes and a background scheduler that re-checks hourly for new offers.

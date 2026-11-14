@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, frameworks]
-stars: 20018
-forks: 8722
-pushed_at: "2026-11-07T13:29:27Z"
+stars: 20039
+forks: 8707
+pushed_at: "2026-11-14T07:16:14Z"
 ---
 ## What it is
 MCP server that exposes RocketRide AI pipelines as tools for Claude, Cursor, and Windsurf. Self-hosted, open-source pipeline tool with multi-LLM support.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T01:53:08Z"
+pushed_at: "2026-11-09T13:52:02Z"
 ---
 ## What it is
 Enables AI agents to browse and read curated software-development feeds, fetch any RSS/Atom/RDF feed via URL, and filter items by keywords.

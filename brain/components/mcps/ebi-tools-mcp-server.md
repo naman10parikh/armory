@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-29T09:14:47Z"
+pushed_at: "2026-11-13T17:15:15Z"
 ---
 ## What it is
 MCP server `EBI Bioinformatics Tools`, catalogued on PulseMCP. Bridges AI clients to EMBL-EBI Job Dispatcher for bioinformatics analysis workflows.

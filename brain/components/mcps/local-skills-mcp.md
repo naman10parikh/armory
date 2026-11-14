@@ -8,13 +8,13 @@ source_url: https://github.com/kdpa-llc/local-skills-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 40
+stars: 42
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-11-07T01:14:35Z"
+pushed_at: "2026-11-07T14:23:42Z"
 ---
 ## What it is
 A universal MCP server that enables any LLM or AI agent to access expert skills from your local filesystem.

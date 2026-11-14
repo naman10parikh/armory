@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-11-06T18:09:20Z"
+pushed_at: "2026-11-09T15:27:39Z"
 ---
 ## What it is
 MCP server `BlindPay`, catalogued on PulseMCP. Integrates with BlindPay's global stablecoin payment infrastructure for payment operations, receiver management, instance administration, and KYC workflows.

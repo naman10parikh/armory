@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-25T07:15:43Z"
+pushed_at: "2026-11-11T20:34:27Z"
 ---
 ## What it is
 MCP server for foldkit — exposes the 7-prime spine, 7 κ-bands, and 6 fold operations as native tools and resources in any MCP client.

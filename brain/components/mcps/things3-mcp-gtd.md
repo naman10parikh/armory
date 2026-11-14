@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-07-15T17:23:25Z"
+pushed_at: "2026-11-13T22:05:47Z"
 ---
 ## What it is
 An MCP server for Things 3 on macOS that enables AI assistants to manage tasks using the Getting Things Done (GTD) methodology, including capture, clarify, organize, reflect, and engage stages.

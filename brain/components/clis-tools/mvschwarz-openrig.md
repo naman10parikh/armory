@@ -8,14 +8,14 @@ source_url: https://github.com/mvschwarz/openrig
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 8717
+stars: 8847
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 731
-pushed_at: "2026-11-07T13:48:42Z"
+forks: 751
+pushed_at: "2026-11-14T13:55:41Z"
 ---
 ## What it is
 Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.

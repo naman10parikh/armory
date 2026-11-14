@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-05T22:45:19Z"
+pushed_at: "2026-11-13T09:35:45Z"
 ---
 ## What it is
 Local MCP server that exposes the Gavriel alarm monitoring API as tools for AI agents, enabling ticket, event, account, and intervention management with read and write capabilities.

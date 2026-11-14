@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, code-generation, humaneval, benchmark]
-forks: 212
+forks: 215
 pushed_at: "2025-10-02T22:56:38Z"
 ---
 ## What it is

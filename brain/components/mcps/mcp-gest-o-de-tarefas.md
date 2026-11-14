@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T12:06:13Z"
+pushed_at: "2026-11-10T12:35:52Z"
 ---
 ## What it is
 Integra agentes de desenvolvimento ao sistema Gestão de Tarefas, permitindo gerenciar projetos, demandas, sprints e tarefas com suporte a fila offline e sincronização posterior.

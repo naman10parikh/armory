@@ -13,7 +13,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claude-esp, claude-tmux]
 tags: [client, cli]
-stars: 4057
+stars: 4056
 forks: 618
 pushed_at: "2026-04-11T03:03:40Z"
 ---

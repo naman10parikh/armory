@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/sanctions-screening-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-01T04:04:32Z"
+pushed_at: "2026-11-11T15:35:03Z"
 ---
 ## What it is
 Screen names against consolidated OFAC, EU, UK, and UN sanctions lists and resolve legal entities via GLEIF, with offline fuzzy matching.

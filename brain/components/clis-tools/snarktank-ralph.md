@@ -8,13 +8,13 @@ source_url: https://github.com/snarktank/ralph
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 22140
+stars: 22228
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2096
+forks: 2115
 pushed_at: "2026-02-02T01:46:21Z"
 ---
 ## What it is

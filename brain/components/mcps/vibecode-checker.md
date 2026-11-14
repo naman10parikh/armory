@@ -8,13 +8,13 @@ source_url: https://github.com/Lex6won/vibecode-checker
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-07T09:29:28Z"
+pushed_at: "2026-11-13T23:44:57Z"
 ---
 ## What it is
 MCP server that enables AI coding tools to scan projects for security vulnerabilities, secret leaks, and compliance issues, generating Korean-language audit reports.

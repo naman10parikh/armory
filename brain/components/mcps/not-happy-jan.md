@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-28T09:31:43Z"
+pushed_at: "2026-11-14T01:40:23Z"
 ---
 ## What it is
 Multi-sensory feedback MCP server for AI coding agents, providing audio, visual, haptic, and physical notifications with customizable characters and modes.

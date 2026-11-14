@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T19:34:02Z"
+pushed_at: "2026-11-13T01:13:30Z"
 ---
 ## What it is
 A self-hosted knowledge base that provides persistent memory for AI agents via MCP, enabling note management, semantic search, and graph-based knowledge exploration.

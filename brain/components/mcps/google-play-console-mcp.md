@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-01T09:56:56Z"
+pushed_at: "2026-11-08T08:53:01Z"
 ---
 ## What it is
 Enables managing releases, monitoring Android vitals, analyzing earnings and search terms, optimizing ASO, and preflighting store assets through natural language, with a confirmation gate before destructive writes.

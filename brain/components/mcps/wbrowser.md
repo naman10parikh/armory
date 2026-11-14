@@ -8,13 +8,13 @@ source_url: https://github.com/w-partners/Wbrowser
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 30
+stars: 31
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-11-07T05:41:20Z"
+pushed_at: "2026-11-13T03:29:42Z"
 ---
 ## What it is
 Enables AI assistants and terminals to control a user's already logged-in Chrome session, allowing them to navigate pages, read content, click and type, run JavaScript, and inspect console or network activity.

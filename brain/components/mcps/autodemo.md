@@ -8,13 +8,13 @@ source_url: https://github.com/praveen-palanisamy/autodemo
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-27T04:49:02Z"
+pushed_at: "2026-11-09T06:37:41Z"
 ---
 ## What it is
 MCP server that turns any running web app into demo videos, interactive walkthroughs, and marketing captures via one command. Enables AI agents to show their work with regenerated demos on every PR.

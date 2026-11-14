@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-24T22:53:35Z"
+pushed_at: "2026-11-13T21:15:08Z"
 ---
 ## What it is
 Enables AI-powered Chrome automation through natural language, providing 56+ specialized tools for browser interaction, page analysis, scenario recording, and visual testing.

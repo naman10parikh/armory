@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T21:03:08Z"
+pushed_at: "2026-11-09T13:49:38Z"
 ---
 ## What it is
 Enables searching and querying Texas open data from data.texas.gov via the Socrata SoQL API, supporting dataset discovery, filtering, and metadata retrieval without an API key.

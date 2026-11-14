@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-01-06T20:39:22Z"
+pushed_at: "2026-11-08T21:50:59Z"
 ---
 ## What it is
 A Model Context Protocol server providing seamless access to the Hawaii Climate Data Portal API for querying climate and weather data for Hawaii and American Samoa.

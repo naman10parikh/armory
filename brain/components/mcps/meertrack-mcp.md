@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T19:30:30Z"
+pushed_at: "2026-11-11T16:16:56Z"
 ---
 ## What it is
 An MCP server for Meertrack that enables users to ask their AI agent about competitors' recent activities, digests, and product changes via natural language.

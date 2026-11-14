@@ -8,11 +8,11 @@ source_url: https://github.com/epistates/mcpsafari
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 64
+stars: 65
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 9
 pushed_at: "2026-11-06T15:06:52Z"
 ---
 ## What it is

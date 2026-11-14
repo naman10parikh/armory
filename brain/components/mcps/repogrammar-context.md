@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T09:14:28Z"
+pushed_at: "2026-11-12T09:14:10Z"
 ---
 ## What it is
 A read-only MCP tool that provides local-first, source-backed repository context for coding agents, returning metadata and a bounded read plan without requiring full file reads.

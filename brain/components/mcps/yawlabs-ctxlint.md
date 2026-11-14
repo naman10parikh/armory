@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-31T02:46:39Z"
+pushed_at: "2026-11-12T02:58:51Z"
 ---
 ## What it is
 MCP server `CtxLint`, catalogued on PulseMCP. Lints AI agent context files (CLAUDE.md, AGENTS.md, etc.) against your actual codebase to catch broken paths, outdated commands, and contradictions.

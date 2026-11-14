@@ -8,14 +8,14 @@ source_url: https://github.com/nicobailon/pi-subagents
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 4146
+stars: 4202
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, subagents]
-forks: 844
-pushed_at: "2026-11-07T07:33:48Z"
+forks: 843
+pushed_at: "2026-11-14T00:16:12Z"
 ---
 ## What it is
 Pi extension for async subagent delegation with truncation, artifacts, and session sharing

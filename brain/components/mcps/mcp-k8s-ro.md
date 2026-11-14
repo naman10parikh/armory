@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T19:53:13Z"
+pushed_at: "2026-11-09T19:53:52Z"
 ---
 ## What it is
 A read-only MCP server that gives Claude safe access to Kubernetes clusters, enabling listing, describing, and monitoring resources without mutation risks and with secret masking.

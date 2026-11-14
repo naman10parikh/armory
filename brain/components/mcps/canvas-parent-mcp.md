@@ -8,13 +8,13 @@ source_url: https://github.com/chrischall/canvas-parent-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-07T12:01:28Z"
+pushed_at: "2026-11-11T19:43:47Z"
 ---
 ## What it is
 MCP server for Canvas LMS enabling parent observers and students to access courses, assignments, grades, and more. Supports multiple authentication methods including token, OAuth, and a convenient fetchproxy fallback.

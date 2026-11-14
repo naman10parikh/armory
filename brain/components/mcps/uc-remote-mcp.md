@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-01T17:23:46Z"
+pushed_at: "2026-11-09T17:55:58Z"
 ---
 ## What it is
 Enables natural language interaction with Unfolded Circle Remote 3/Remote Two for configuration, button mapping, UI editing, and backup/restore.

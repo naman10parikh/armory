@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-10-19T18:57:52Z"
+pushed_at: "2026-11-10T15:35:24Z"
 ---
 ## What it is
 Enables read-only access to Interactive Brokers data including contracts, market data, news, fundamentals, and portfolio/account information for LLM workflows and autonomous agents.

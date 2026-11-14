@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T00:55:19Z"
+pushed_at: "2026-11-09T13:37:40Z"
 ---
 ## What it is
 Enables npm bundle-size analysis including minified+gzipped size, tree-shakeability, dependencies, similar packages, version history, and recent searches.

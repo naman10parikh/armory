@@ -8,13 +8,13 @@ source_url: https://github.com/jeremie-lesage/zimbra-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-02-12T10:06:17Z"
+pushed_at: "2026-11-13T17:14:09Z"
 ---
 ## What it is
 Enables to manage Zimbra emails, tags, calendar, and contacts through natural language. Supports searching, sending, drafting emails, managing contacts, tags, and calendar events.

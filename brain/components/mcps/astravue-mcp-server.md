@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-25T04:31:18Z"
+pushed_at: "2026-11-10T10:36:32Z"
 ---
 ## What it is
 A cloud-based MCP server that enables AI tools to manage workspaces, projects, tasks, time tracking, and custom fields in Astravue through natural language.

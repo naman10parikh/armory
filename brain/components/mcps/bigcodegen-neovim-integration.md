@@ -8,11 +8,11 @@ source_url: https://github.com/bigcodegen/mcp-neovim-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 324
+stars: 326
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
+forks: 26
 pushed_at: "2025-10-11T22:10:01Z"
 ---
 ## What it is

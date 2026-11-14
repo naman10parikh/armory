@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
-stars: 28
+stars: 29
 forks: 14
-pushed_at: "2026-11-02T21:46:14Z"
+pushed_at: "2026-11-09T21:46:23Z"
 ---
 ## What it is
 An MCP server for searching and downloading royalty-free stock photography from Pexels and Unsplash. Features multi-provider search, rich metadata, pagination support, and async performance for AI assistants to find and access high-quality images.

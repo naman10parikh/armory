@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T02:52:29Z"
+pushed_at: "2026-11-09T14:10:39Z"
 ---
 ## What it is
 Enables querying citizen-science species observations from iNaturalist via the Pipeworx MCP gateway. Provides read-only access to species data without authentication.

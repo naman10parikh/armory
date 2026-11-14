@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-08T10:08:18Z"
+pushed_at: "2026-11-08T07:57:13Z"
 ---
 ## What it is
 A stdio MCP server that audits other MCP servers over the live protocol. It connects to any MCP target (stdio or HTTP), lints every tool's schema for agent-usability, then actually calls the tools with deliberately broken inputs to see how the server handles them, and returns a 0–100 conformance sco

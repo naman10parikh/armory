@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2025-12-04T13:46:11Z"
+pushed_at: "2026-11-12T17:59:52Z"
 ---
 ## What it is
 MCP server `Brevo`, catalogued on PulseMCP. Integrates with Brevo's email marketing and CRM platform to manage contacts, send transactional and campaign emails, handle SMS and WhatsApp messaging, manage deals and tasks, and automate customer communication workflows.

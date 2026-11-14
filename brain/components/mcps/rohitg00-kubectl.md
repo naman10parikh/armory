@@ -8,11 +8,11 @@ source_url: https://github.com/rohitg00/kubectl-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 968
+stars: 972
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 187
+forks: 188
 pushed_at: "2026-10-22T16:13:23Z"
 ---
 ## What it is

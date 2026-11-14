@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-18T08:19:59Z"
+pushed_at: "2026-11-12T02:01:57Z"
 ---
 ## What it is
 BTC Decision Terminal for AI Agents — live vault-backed Hyperliquid signals, on-chain proof, cross-chain swap. MCP server hosted at https://hypernatt.com/mcp/protocol. 11 tools. Verify in real time.

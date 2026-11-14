@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-29T11:13:35Z"
+pushed_at: "2026-11-09T10:15:02Z"
 ---
 ## What it is
 Provides secure read-only SQL access to PostgreSQL and ClickHouse databases with built-in safety features like read-only enforcement, timeouts, and managed result files.

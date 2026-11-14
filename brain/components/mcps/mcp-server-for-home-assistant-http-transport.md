@@ -8,13 +8,13 @@ source_url: https://github.com/ganhammar/hass-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 84
+stars: 85
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 24
-pushed_at: "2026-10-27T14:50:30Z"
+forks: 25
+pushed_at: "2026-11-11T15:07:58Z"
 ---
 ## What it is
 A Home Assistant Custom Component that provides an MCP server using HTTP transport, allowing AI assistants like Claude to interact with your Home Assistant instance.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-11-04T12:05:34Z"
+pushed_at: "2026-11-11T12:05:37Z"
 ---
 ## What it is
 Enables fuzzy search and browsing of Apple Messages (iMessage/SMS) with contact resolution, filtering by sender or date, and context display through CLI, MCP, or Claude Code plugin.

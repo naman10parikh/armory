@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2025-05-23T14:02:36Z"
+pushed_at: "2026-11-11T10:00:25Z"
 ---
 ## What it is
 MCP server `Together AI (Flux.1 Schnell)`, catalogued on PulseMCP. Integrates with Together AI's Flux.1 Schnell model to provide high-quality image generation with customizable dimensions, clear error handling, and optional image saving.

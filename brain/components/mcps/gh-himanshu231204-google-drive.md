@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-04T22:02:41Z"
+pushed_at: "2026-11-14T10:54:22Z"
 ---
 ## What it is
 MCP server `Google Drive`, catalogued on PulseMCP. Manage Google Drive files with OAuth2 multi-user authentication.

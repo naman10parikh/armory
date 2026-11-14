@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-03T21:30:46Z"
+pushed_at: "2026-11-13T11:12:05Z"
 ---
 ## What it is
 Access FCC broadband availability, coverage analysis, and digital divide data for US geographies and census blocks via MCP.

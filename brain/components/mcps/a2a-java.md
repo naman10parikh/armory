@@ -14,7 +14,7 @@ verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, general-purpose-implementations]
 forks: 27
-pushed_at: "2026-07-22T16:01:52Z"
+pushed_at: "2026-11-08T18:03:48Z"
 ---
 ## What it is
 Pure Java implementation of Google A2A protocol for Spring Boot

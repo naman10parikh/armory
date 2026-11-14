@@ -8,7 +8,7 @@ source_url: https://github.com/Houseofmvps/codesight
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1423
+stars: 1426
 eval_score: null
 verified_at: 2026-05-27
 related: []

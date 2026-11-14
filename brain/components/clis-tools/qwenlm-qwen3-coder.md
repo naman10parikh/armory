@@ -8,7 +8,7 @@ source_url: https://github.com/QwenLM/Qwen3-Coder
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 16852
+stars: 16853
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10

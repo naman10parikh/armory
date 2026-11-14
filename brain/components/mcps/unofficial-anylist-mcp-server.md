@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 32
-pushed_at: "2026-10-05T01:51:34Z"
+pushed_at: "2026-11-11T18:55:11Z"
 ---
 ## What it is
 MCP server that integrates with AnyList for managing shopping lists, recipes, and meal planning via natural language.

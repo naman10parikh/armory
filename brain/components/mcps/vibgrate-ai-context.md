@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
-pushed_at: "2026-11-05T13:04:53Z"
+forks: 18
+pushed_at: "2026-11-13T13:10:27Z"
 ---
 ## What it is
 Local-first MCP server that gives AI assistants codebase intelligence—code graph, drift analysis, vulnerability attribution, and version-correct library docs—all from the user's machine.

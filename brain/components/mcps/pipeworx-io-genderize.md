@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-02T01:57:53Z"
+pushed_at: "2026-11-09T14:03:03Z"
 ---
 ## What it is
 MCP server `Genderize`, catalogued on PulseMCP. Predict the gender of a person based on their first name using the Genderize.io API.

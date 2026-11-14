@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-03T21:20:46Z"
+pushed_at: "2026-11-09T14:27:46Z"
 ---
 ## What it is
 Enables querying global sanctions and politically exposed persons (PEP) data via OpenSanctions, with free access and no authentication required.

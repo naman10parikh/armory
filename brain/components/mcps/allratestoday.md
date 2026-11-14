@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-02T20:35:57Z"
+pushed_at: "2026-11-09T20:35:54Z"
 ---
 ## What it is
 MCP server `AllRatesToday`, catalogued on PulseMCP. Access real-time foreign exchange rates for 150+ currencies via the AllRatesToday API.

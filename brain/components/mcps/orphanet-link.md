@@ -8,13 +8,13 @@ source_url: https://github.com/berntpopp/orphanet-link
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T03:23:11Z"
+pushed_at: "2026-11-13T11:47:47Z"
 ---
 ## What it is
 An MCP server that enables querying rare-disease data from Orphanet, including disease nomenclature, cross-references, classifications, gene associations, HPO phenotypes, epidemiology, and natural history.

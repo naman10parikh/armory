@@ -12,8 +12,8 @@ stars: 43
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 59
-pushed_at: "2026-11-06T18:41:16Z"
+forks: 61
+pushed_at: "2026-11-10T13:35:04Z"
 ---
 ## What it is
 MCP server `OpenCollab`, catalogued on PulseMCP. Matches developers with open source GitHub issues using 12 tools for issue search, filtering, and contribution discovery.

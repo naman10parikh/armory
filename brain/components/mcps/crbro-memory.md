@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-18T10:31:02Z"
+pushed_at: "2026-11-14T02:48:07Z"
 ---
 ## What it is
 A local MCP server that gives AI assistants persistent long-term memory using a biological neural architecture with cortex, synapses, and hippocampus.

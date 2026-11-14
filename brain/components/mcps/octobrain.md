@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-11-03T08:26:16Z"
+pushed_at: "2026-11-08T04:57:50Z"
 ---
 ## What it is
 Persistent memory for AI assistants — store insights, decisions, and knowledge that survives across conversations.

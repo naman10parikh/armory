@@ -8,13 +8,13 @@ source_url: https://github.com/Arakiss/nahuali
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T15:15:44Z"
+pushed_at: "2026-11-13T18:06:48Z"
 ---
 ## What it is
 Local-first memory for AI agents with evidence-backed recall, deterministic trust verdicts, self-inspection, and a tamper-evident audit history.

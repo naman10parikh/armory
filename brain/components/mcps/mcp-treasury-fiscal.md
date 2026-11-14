@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-05T21:03:52Z"
+pushed_at: "2026-11-09T14:48:35Z"
 ---
 ## What it is
 Enables querying US Treasury Fiscal Data through the Treasury Fiscal Data API, providing access to financial data such as debt, spending, and revenue.

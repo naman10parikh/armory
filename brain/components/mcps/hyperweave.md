@@ -8,12 +8,12 @@ source_url: https://github.com/InnerAura/hyperweave
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 57
+stars: 61
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
+forks: 10
 pushed_at: "2026-09-15T17:04:22Z"
 ---
 ## What it is

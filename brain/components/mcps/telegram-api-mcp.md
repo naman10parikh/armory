@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
-pushed_at: "2026-11-07T10:08:28Z"
+forks: 11
+pushed_at: "2026-11-14T10:25:28Z"
 ---
 ## What it is
 Ultimate MCP server for Telegram Bot API — 169 methods, full v9.6 coverage, meta-mode, rate limiting, and circuit breaker, enabling AI to control Telegram bots with natural language.

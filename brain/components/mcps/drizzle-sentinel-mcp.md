@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T10:33:00Z"
+pushed_at: "2026-11-13T10:12:07Z"
 ---
 ## What it is
 Enables database governance for Drizzle ORM projects by inspecting schemas, linting migrations for unsafe operations, detecting schema drift, and explaining query plans with performance checks.

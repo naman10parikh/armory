@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-06T01:32:48Z"
+pushed_at: "2026-11-14T06:11:14Z"
 ---
 ## What it is
 MCP server `Agent Farm`, catalogued on PulseMCP. Parallel AI task execution system that spawns specialized AI agents with distinct roles to execute tasks concurrently.

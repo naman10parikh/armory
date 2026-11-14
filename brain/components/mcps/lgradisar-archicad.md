@@ -8,11 +8,11 @@ source_url: https://github.com/lgradisar/archicad-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 37
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
+forks: 7
 pushed_at: "2026-09-30T13:27:27Z"
 ---
 ## What it is

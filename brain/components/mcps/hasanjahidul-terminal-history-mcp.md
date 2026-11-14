@@ -13,7 +13,7 @@ related: []
 tags: [mcp, command-line]
 stars: 5
 forks: 0
-pushed_at: "2026-05-11T07:12:45Z"
+pushed_at: "2026-11-08T07:02:26Z"
 ---
 ## What it is
 Full-text search over your shell history (zsh / bash / fish) via SQLite FTS5. Local-only. 11-pattern secret redaction runs BEFORE insert. Captures cwd / exit code / duration via opt-in shell hook. Tools: `search_history`, `recent_in_dir`, `failed_commands`, `command_chains`, `reindex`.
