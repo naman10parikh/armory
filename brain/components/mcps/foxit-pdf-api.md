@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-04-17T06:45:50Z"
+pushed_at: "2026-11-13T09:06:44Z"
 ---
 ## What it is
 MCP server `Foxit PDF API`, catalogued on PulseMCP. Cloud-based PDF processing and manipulation through Foxit's PDF Services API

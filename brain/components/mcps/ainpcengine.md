@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T17:18:16Z"
+pushed_at: "2026-11-14T23:22:39Z"
 ---
 ## What it is
 MCP server for creating, managing, and interacting with AI-powered NPCs with persistent memory, supporting dialogue, game events, and persona generation for coding agents.

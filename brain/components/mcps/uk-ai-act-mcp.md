@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T04:35:16Z"
+pushed_at: "2026-11-16T02:47:55Z"
 ---
 ## What it is
 UK AI regulation compliance MCP server enabling AI regulation tracking, risk classification, and impact assessment for AI systems deployed in the UK.

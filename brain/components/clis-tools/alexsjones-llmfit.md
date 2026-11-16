@@ -8,14 +8,14 @@ source_url: https://github.com/AlexsJones/llmfit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 38842
+stars: 39017
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2510
-pushed_at: "2026-11-09T07:22:46Z"
+forks: 2525
+pushed_at: "2026-11-16T02:06:47Z"
 ---
 ## What it is
 Hundreds of models & providers. One command to find what runs on your hardware.

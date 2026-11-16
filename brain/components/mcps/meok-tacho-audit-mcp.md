@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T02:30:31Z"
+pushed_at: "2026-11-16T02:33:21Z"
 ---
 ## What it is
 Enables UK haulage compliance managers to audit tachographs, drivers' hours, and DVSA OCRS scores, preventing red status and generating public inquiry briefs.

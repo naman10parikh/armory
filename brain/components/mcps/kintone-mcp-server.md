@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 25
-pushed_at: "2026-11-09T02:29:04Z"
+pushed_at: "2026-11-16T00:37:54Z"
 ---
 ## What it is
 Official MCP server for kintone, enabling AI assistants to manage kintone apps, records, and settings through natural language.

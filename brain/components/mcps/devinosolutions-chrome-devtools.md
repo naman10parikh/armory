@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-11-09T14:49:38Z"
+pushed_at: "2026-11-16T16:30:03Z"
 ---
 ## What it is
 MCP server `Stealth Chrome DevTools`, catalogued on PulseMCP. Controls Chrome via DevTools with a master/copy profile strategy for session isolation and deterministic browser automation.

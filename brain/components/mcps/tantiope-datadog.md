@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-11-06T19:40:41Z"
+pushed_at: "2026-11-16T02:05:02Z"
 ---
 ## What it is
 MCP server `Datadog`, catalogued on PulseMCP. Full Datadog API access for monitors, logs, metrics, traces, dashboards, and observability workflows

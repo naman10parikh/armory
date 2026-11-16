@@ -8,13 +8,13 @@ source_url: https://github.com/clouatre-labs/math-mcp-learning-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-11-09T04:41:54Z"
+pushed_at: "2026-11-16T11:08:57Z"
 ---
 ## What it is
 Educational MCP server with 17 tools for mathematical calculations, matrix operations, statistical analysis, and data visualization. Includes persistent workspace, cloud hosting, and safety features like restricted eval.

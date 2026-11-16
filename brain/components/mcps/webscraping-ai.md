@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-10-26T07:38:44Z"
+pushed_at: "2026-11-13T15:39:49Z"
 ---
 ## What it is
 MCP server `WebScraping.AI`, catalogued on PulseMCP. Integrates with Instagram through the private API to provide authentication, profile management, content discovery, and automated engagement actions like liking posts with session persistence and rate limit handling.

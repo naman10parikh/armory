@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T01:57:30Z"
+pushed_at: "2026-11-11T14:39:37Z"
 ---
 ## What it is
 Enables AI coding agents to access live console logs, errors, and network requests from web applications via a local WebSocket connection, without copying data to chat.

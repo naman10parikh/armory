@@ -8,13 +8,13 @@ source_url: https://github.com/K-13ROBOT/HFSS_MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-05T01:08:03Z"
+pushed_at: "2026-11-14T05:12:35Z"
 ---
 ## What it is
 Enables natural language control of HFSS (v2019-2025) for antenna modeling, simulation, and result extraction via win32com without PyAEDT.

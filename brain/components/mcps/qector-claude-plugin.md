@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-06T17:54:16Z"
+pushed_at: "2026-11-12T09:47:29Z"
 ---
 ## What it is
 QECTOR Quantum Error Correction: High-performance, mathematically verified local QEC engineering environment for Claude Code and Claude Desktop.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T18:00:23Z"
+pushed_at: "2026-11-15T23:13:46Z"
 ---
 ## What it is
 A modern MCP server demonstrating the 7/28 protocol era, offering health and echo tools with stamped list caching and stable ordering over stdio or Streamable HTTP.

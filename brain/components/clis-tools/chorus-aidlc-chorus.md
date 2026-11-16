@@ -8,14 +8,14 @@ source_url: https://github.com/Chorus-AIDLC/Chorus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1224
+stars: 1229
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 112
-pushed_at: "2026-11-09T10:55:38Z"
+pushed_at: "2026-11-14T06:45:09Z"
 ---
 ## What it is
 The Agent Harness for AI-Human Collaboration, inspired by the AI-DLC (AI-Driven Development Lifecycle)

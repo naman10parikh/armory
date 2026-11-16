@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-06T00:59:31Z"
+pushed_at: "2026-11-12T12:37:43Z"
 ---
 ## What it is
 A self-hosted MCP server that provides a unified memory vault across MCP clients with hybrid BM25+vector search.

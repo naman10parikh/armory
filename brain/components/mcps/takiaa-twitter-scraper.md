@@ -8,12 +8,12 @@ source_url: https://github.com/takiaa/twitter-scraper-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-11-09T15:57:08Z"
+pushed_at: "2026-11-16T15:57:59Z"
 ---
 ## What it is
 MCP server `X (Twitter) Scraper`, catalogued on PulseMCP. Integrates with X using the agent-twitter-client library, enabling tweet retrieval and posting within Docker containers with proxy support for network isolation.

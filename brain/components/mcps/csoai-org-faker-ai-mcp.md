@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T03:15:59Z"
+pushed_at: "2026-11-16T02:21:41Z"
 ---
 ## What it is
 MCP server `Faker AI`, catalogued on PulseMCP. AI tools for generating synthetic test data, fake names, addresses, and mock content.

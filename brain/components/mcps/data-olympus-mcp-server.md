@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-11-07T06:48:25Z"
+pushed_at: "2026-11-14T06:10:07Z"
 ---
 ## What it is
 Provides a single-writer MCP server for a governance-grade knowledge base of markdown documents with version control and query capabilities.

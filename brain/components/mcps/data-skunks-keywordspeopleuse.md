@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2025-05-23T06:51:44Z"
+pushed_at: "2026-11-11T09:59:46Z"
 ---
 ## What it is
 MCP server `KeywordsPeopleUse`, catalogued on PulseMCP. Integrates with KeywordsPeopleUse API to provide keyword research capabilities including People Also Ask questions, Google Autocomplete suggestions, Reddit/Quora questions, and semantic keywords with language and country localization options.

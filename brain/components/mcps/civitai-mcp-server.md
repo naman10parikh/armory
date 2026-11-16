@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-22T20:14:08Z"
+pushed_at: "2026-11-15T16:00:33Z"
 ---
 ## What it is
 Enables AI agents to fully interact with the Civitai platform, including browsing models, images, and creators; posting, reacting, reviewing, following, collecting, writing articles and comments; sending DMs; and managing bounties and announcements.

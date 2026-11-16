@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 11
-pushed_at: "2026-11-03T02:02:02Z"
+pushed_at: "2026-11-16T09:16:36Z"
 ---
 ## What it is
 Enables AI assistants to create and manage short URLs via the MCP protocol, with OAuth authentication through Cloudflare Access.

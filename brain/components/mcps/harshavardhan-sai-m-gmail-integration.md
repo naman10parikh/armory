@@ -8,11 +8,11 @@ source_url: https://github.com/quantum-369/gmail-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
+forks: 7
 pushed_at: "2025-07-08T00:25:27Z"
 ---
 ## What it is

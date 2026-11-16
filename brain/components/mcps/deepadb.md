@@ -8,13 +8,13 @@ source_url: https://github.com/fullread/DeepADB
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 24
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-01T20:09:37Z"
+pushed_at: "2026-11-15T01:40:52Z"
 ---
 ## What it is
 A comprehensive MCP server that enables AI agents to interact with Android devices through Android Debug Bridge (ADB), offering 198 tools for device control, app management, diagnostics, and more.

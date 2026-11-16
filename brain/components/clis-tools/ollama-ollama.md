@@ -8,14 +8,14 @@ source_url: https://github.com/ollama/ollama
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 186426
+stars: 187228
 eval_score: 1
 mentions: 22
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 18973
-pushed_at: "2026-11-09T15:23:39Z"
+forks: 19116
+pushed_at: "2026-11-16T16:44:56Z"
 ---
 ## What it is
 Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-01T19:37:46Z"
+pushed_at: "2026-11-16T06:08:51Z"
 ---
 ## What it is
 MCP server `OPA`, catalogued on PulseMCP. Integrates Open Policy Agent with AI clients for authoring, validating, evaluating, and deploying Rego policies.

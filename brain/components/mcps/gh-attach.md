@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-11-08T02:35:58Z"
+pushed_at: "2026-11-10T10:45:26Z"
 ---
 ## What it is
 Enables AI applications to upload images and videos to GitHub issues, pull requests, and comments through the Model Context Protocol.

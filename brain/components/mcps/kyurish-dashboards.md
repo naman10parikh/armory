@@ -8,11 +8,11 @@ source_url: https://github.com/kyurish/mcp-dashboards
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 53
+stars: 54
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
+forks: 11
 pushed_at: "2026-09-10T16:59:09Z"
 ---
 ## What it is

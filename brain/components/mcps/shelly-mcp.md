@@ -8,13 +8,13 @@ source_url: https://github.com/Buggy1111/shelly-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-16T11:15:09Z"
+forks: 1
+pushed_at: "2026-11-16T03:54:02Z"
 ---
 ## What it is
 MCP server for the entire Shelly smart-home ecosystem, enabling local-first control, automation, and energy monitoring of Shelly devices with cloud fallback.

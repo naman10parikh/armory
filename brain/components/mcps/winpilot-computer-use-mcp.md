@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-01T05:07:27Z"
+pushed_at: "2026-11-12T15:32:35Z"
 ---
 ## What it is
 Enables AI agents to control Windows GUI applications like a human using screen capture, OCR, mouse and keyboard input, and window management, with safety levels and memory.

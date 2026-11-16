@@ -8,7 +8,7 @@ source_url: https://github.com/nduckmink/arkon
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1522
+stars: 1524
 eval_score: null
 verified_at: 2026-05-27
 related: []

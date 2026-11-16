@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-08T19:33:01Z"
+pushed_at: "2026-11-13T15:18:57Z"
 ---
 ## What it is
 This server enables checking real-time service status and outage information from Downdetector for various services and regions.

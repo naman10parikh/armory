@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-03T09:47:03Z"
+pushed_at: "2026-11-12T22:26:57Z"
 ---
 ## What it is
 Enables AI-powered analysis of IP assignment compliance, including gap detection, anomaly detection, and risk prediction.

@@ -8,12 +8,12 @@ source_url: https://github.com/galaxyproject/galaxy-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 39
+stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
-pushed_at: "2026-11-09T12:31:36Z"
+forks: 29
+pushed_at: "2026-11-14T07:37:19Z"
 ---
 ## What it is
 MCP server `Galaxy`, catalogued on PulseMCP. Connect to the Galaxy bioinformatics platform to execute tools and manage workflows.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-11-06T04:02:43Z"
+pushed_at: "2026-11-13T01:00:42Z"
 ---
 ## What it is
 MCP server for Google Merchant Center, providing 126 tools to manage Google Shopping feed, products, inventory, reports, promotions, returns, and account configuration via natural language.

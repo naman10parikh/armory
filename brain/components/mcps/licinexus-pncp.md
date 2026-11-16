@@ -8,11 +8,11 @@ source_url: https://github.com/licinexus/licinexus-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 81
+stars: 80
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 41
+forks: 40
 pushed_at: "2026-09-08T07:59:14Z"
 ---
 ## What it is

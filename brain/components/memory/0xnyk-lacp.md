@@ -8,13 +8,13 @@ source_url: https://github.com/0xNyk/lacp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 308
+stars: 311
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, memory]
-forks: 3
+forks: 4
 pushed_at: "2026-10-26T21:45:03Z"
 ---
 ## What it is

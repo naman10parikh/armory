@@ -8,13 +8,13 @@ source_url: https://github.com/verygoodplugins/mcp-freescout
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 31
+stars: 32
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 17
-pushed_at: "2026-11-05T16:54:19Z"
+pushed_at: "2026-11-14T20:10:28Z"
 ---
 ## What it is
 Manages FreeScout helpdesk tickets by fetching, analyzing, and updating tickets, drafting replies, and searching with advanced filters via the Model Context Protocol.

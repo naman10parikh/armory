@@ -8,11 +8,11 @@ source_url: https://github.com/tanaikech/toolsformcpserver
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 108
+stars: 109
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 21
+forks: 22
 pushed_at: "2026-01-01T02:54:47Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-02T19:14:03Z"
+pushed_at: "2026-11-10T22:19:04Z"
 ---
 ## What it is
 MCP server `Shrike Security`, catalogued on PulseMCP. AI agent security scanner with prompt injection detection.

@@ -8,12 +8,12 @@ source_url: https://github.com/brilliantdirectories/brilliant-directories-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-11-03T19:39:47Z"
+pushed_at: "2026-11-16T15:14:39Z"
 ---
 ## What it is
 MCP server `Brilliant Directories`, catalogued on PulseMCP. Manage members, posts, leads, reviews, and pages on Brilliant Directories membership sites.

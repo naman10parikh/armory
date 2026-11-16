@@ -13,7 +13,7 @@ related: []
 tags: [mcp, finance-fintech]
 stars: 14
 forks: 8
-pushed_at: "2026-11-08T03:42:43Z"
+pushed_at: "2026-11-16T05:14:12Z"
 ---
 ## What it is
 The first financial intelligence MCP server. Live AI-scored trading signals from Reddit, SEC filings, FDA approvals, Congressional trades, and 15+ sources. 7 tools, 2 resources, hosted remotely, free, no API key required.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-09T15:01:12Z"
+pushed_at: "2026-11-16T08:16:59Z"
 ---
 ## What it is
 An MCP server that brings senior-QA discipline to AI coding assistants, enabling test planning, TDD, mutation testing, and code review.

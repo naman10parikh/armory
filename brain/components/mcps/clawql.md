@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-09T16:21:00Z"
+pushed_at: "2026-11-16T12:22:55Z"
 ---
 ## What it is
 An MCP server for API discovery and execution with a token-efficient search -> execute workflow over OpenAPI, Google Discovery, and optional native GraphQL and gRPC sources.

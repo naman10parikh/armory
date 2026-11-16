@@ -8,13 +8,13 @@ source_url: https://github.com/jsilets/twscrape-twitter-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-11-08T03:53:01Z"
+forks: 2
+pushed_at: "2026-11-15T00:42:57Z"
 ---
 ## What it is
 MCP server to read X (Twitter) posts, threads, replies, quotes, and search using your own logged-in session, no API key required.

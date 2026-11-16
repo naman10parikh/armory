@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-21T20:24:27Z"
+pushed_at: "2026-11-12T18:20:42Z"
 ---
 ## What it is
 Spawns a real coding agent on a specified host, submits a prompt from a chat, and returns a link to the session (for Claude Code) or a command to continue, enabling chat-driven work on your own machines.

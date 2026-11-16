@@ -8,14 +8,14 @@ source_url: https://github.com/Infisical/agent-vault
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2492
+stars: 2509
 eval_score: null
 mentions: 3
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 182
-pushed_at: "2026-11-07T03:19:57Z"
+forks: 186
+pushed_at: "2026-11-15T01:52:31Z"
 ---
 ## What it is
 A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.

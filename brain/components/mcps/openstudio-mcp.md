@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 13
-pushed_at: "2026-11-08T17:16:45Z"
+pushed_at: "2026-11-15T04:24:18Z"
 ---
 ## What it is
 Enables natural language interaction with OpenStudio building energy simulation, allowing creation, querying, and modification of models, running EnergyPlus simulations, and analyzing results.

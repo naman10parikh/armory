@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-09T13:05:58Z"
+pushed_at: "2026-11-14T19:24:52Z"
 ---
 ## What it is
 A registry of product release notes from across the web, normalized, summarized, and queryable via MCP. Enables agents and developers to search and retrieve the latest releases from hundreds of vendors.

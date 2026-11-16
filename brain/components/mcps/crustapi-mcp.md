@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-24T12:26:26Z"
+pushed_at: "2026-11-11T13:49:33Z"
 ---
 ## What it is
 Provides Google search across multiple surfaces, webpage scraping, and business reviews retrieval via the CrustAPI endpoint.

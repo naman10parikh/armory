@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-07-29T16:56:57Z"
+pushed_at: "2026-11-12T14:42:27Z"
 ---
 ## What it is
 Add, edit, and check off items on your Listonic shopping list.

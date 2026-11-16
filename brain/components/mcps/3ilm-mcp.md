@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-08T09:22:24Z"
+pushed_at: "2026-11-11T10:22:06Z"
 ---
 ## What it is
 Enables AI agents and security researchers to query a curated knowledge base of 1,032 verified smart contract vulnerability findings from Sherlock audit contests, including acceptance rates and examples per vulnerability pattern.

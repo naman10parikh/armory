@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-28T12:20:53Z"
+pushed_at: "2026-11-15T01:16:59Z"
 ---
 ## What it is
 Plan US National Park Service trips — find parks, check alerts and closures, find campgrounds, browse things to do and events via the NPS Data API. Supports STDIO and Streamable HTTP.

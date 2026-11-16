@@ -8,14 +8,14 @@ source_url: https://github.com/odysseus-dev/odysseus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 95512
+stars: 95710
 eval_score: null
 mentions: 9
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 1952
-pushed_at: "2026-11-09T10:23:38Z"
+forks: 1998
+pushed_at: "2026-11-15T02:59:17Z"
 ---
 ## What it is
 Self-hosted AI workspace.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T22:29:33Z"
+pushed_at: "2026-11-12T13:13:13Z"
 ---
 ## What it is
 Enables authorized bug bounty automation via a scope-enforced MCP bridge, supporting web, secrets, mobile, and LLM red-team scanning, with reporting and advisory.

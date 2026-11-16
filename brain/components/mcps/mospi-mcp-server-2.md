@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 28
-pushed_at: "2026-11-05T10:59:53Z"
+forks: 29
+pushed_at: "2026-11-16T11:08:30Z"
 ---
 ## What it is
 Provides AI-ready access to Indian government statistics through MCP, enabling natural language queries for economic, demographic, and social indicators.

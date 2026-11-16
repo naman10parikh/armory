@@ -8,13 +8,13 @@ source_url: https://github.com/M-Pineapple/msty-admin-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-01T19:24:49Z"
+pushed_at: "2026-11-13T17:40:02Z"
 ---
 ## What it is
 Comprehensive MCP server for administering Msty Studio Desktop with 36 tools across 6 phases, Bloom behavioral evaluation, and support for four service backends.

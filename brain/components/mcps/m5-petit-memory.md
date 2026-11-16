@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-05T15:22:32Z"
+pushed_at: "2026-11-13T09:32:27Z"
 ---
 ## What it is
 An MCP server that gives Claude-based agents persistent long-term memory with semantic search, BM25 hybrid reranking, associative recall, episode grouping, and sleep consolidation.

@@ -8,12 +8,12 @@ source_url: https://github.com/TwelveTake-Studios/reaper-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 104
+stars: 114
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 19
+forks: 20
 pushed_at: "2026-11-09T14:49:56Z"
 ---
 ## What it is

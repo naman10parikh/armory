@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-24T07:04:38Z"
+pushed_at: "2026-11-16T10:39:45Z"
 ---
 ## What it is
 MCP server `LISTEN`, catalogued on PulseMCP. Access LISTEN podcast data including episodes, transcripts, playback history, and search via AI editors.

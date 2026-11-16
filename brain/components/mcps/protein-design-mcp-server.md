@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T05:01:05Z"
+pushed_at: "2026-11-15T20:21:51Z"
 ---
 ## What it is
 Enables LLM agents to design proteins, predict structures, score interfaces, and run molecular dynamics simulations through a unified interface.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-07T02:24:59Z"
+pushed_at: "2026-11-14T08:30:32Z"
 ---
 ## What it is
 Enables agents to co-edit live music sessions, create, remix, publish, export MIDI, and analyze musical structure in the Keyboardia collaborative step sequencer.

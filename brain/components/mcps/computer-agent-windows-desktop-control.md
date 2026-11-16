@@ -8,12 +8,12 @@ source_url: https://github.com/cursortouch/windows-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11411
+stars: 11759
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1224
-pushed_at: "2026-11-09T16:36:31Z"
+forks: 1259
+pushed_at: "2026-11-16T16:36:36Z"
 ---
 ## What it is
 MCP server `Windows Desktop Control`, catalogued on PulseMCP. Enables AI to control Windows desktop applications through UIAutomation and PyAutoGUI, providing capabilities for launching programs, executing commands, and performing mouse/keyboard actions with tree-based UI element identification.

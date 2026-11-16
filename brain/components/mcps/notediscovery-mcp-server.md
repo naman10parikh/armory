@@ -8,13 +8,13 @@ source_url: https://github.com/gamosoft/NoteDiscovery
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2874
+stars: 2879
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 249
-pushed_at: "2026-11-09T16:19:29Z"
+forks: 250
+pushed_at: "2026-11-16T15:46:54Z"
 ---
 ## What it is
 NoteDiscovery is a self-hosted plain-markdown notes app (MIT, no telemetry) with a built-in stdio MCP server. The server exposes tools so AI clients (Claude Desktop, Cursor, etc.) can search, read, create, edit, tag, and instantiate templates against the same vault the web UI uses.

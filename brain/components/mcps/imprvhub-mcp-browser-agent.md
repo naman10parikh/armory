@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, browser-automation]
 stars: 43
-forks: 14
+forks: 15
 pushed_at: "2026-10-21T13:06:10Z"
 ---
 ## What it is

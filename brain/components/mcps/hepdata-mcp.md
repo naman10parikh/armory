@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T21:17:40Z"
+pushed_at: "2026-11-14T18:59:03Z"
 ---
 ## What it is
 Enables discovery of HEPData records, tables, and data access with read-only operations and export links.

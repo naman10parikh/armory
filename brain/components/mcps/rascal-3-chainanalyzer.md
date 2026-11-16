@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-03T19:11:46Z"
+pushed_at: "2026-11-12T14:31:08Z"
 ---
 ## What it is
 MCP server `ChainAnalyzer`, catalogued on PulseMCP. Multi-chain AML risk scoring, sanctions screening, and transaction tracing across BTC, ETH, Polygon, Avalanche, and Solana.

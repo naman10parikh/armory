@@ -8,13 +8,13 @@ source_url: https://github.com/KushalP1/context-doctor
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-08T07:11:32Z"
+pushed_at: "2026-11-16T13:36:44Z"
 ---
 ## What it is
 Provides MCP tools to profile and optimize LLM conversation context, identifying token waste and applying deterministic fixes to reduce context window usage.

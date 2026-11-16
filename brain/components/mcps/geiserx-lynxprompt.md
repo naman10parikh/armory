@@ -12,8 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
-pushed_at: "2026-11-04T14:58:19Z"
+forks: 1
+pushed_at: "2026-11-12T11:14:01Z"
 ---
 ## What it is
 MCP server `LynxPrompt`, catalogued on PulseMCP. Browse, search, and manage AI configuration blueprints via the LynxPrompt platform.

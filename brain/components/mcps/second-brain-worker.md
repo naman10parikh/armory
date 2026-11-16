@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T12:45:45Z"
+pushed_at: "2026-11-16T14:08:48Z"
 ---
 ## What it is
 Provides tools to retrieve, ingest, and reindex a serverless personal knowledge base built from Obsidian wiki and external files, with hybrid semantic + keyword search via the Model Context Protocol.

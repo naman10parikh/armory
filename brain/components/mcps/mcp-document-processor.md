@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-05T23:30:03Z"
+pushed_at: "2026-11-12T08:13:11Z"
 ---
 ## What it is
 An MCP server for reading, creating, and managing PDF, DOCX, and Excel documents with OCR, styling, categorization, and remote file bridges.

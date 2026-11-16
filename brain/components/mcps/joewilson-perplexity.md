@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-10T22:51:16Z"
+pushed_at: "2026-11-10T11:55:34Z"
 ---
 ## What it is
 MCP server `Coding With Perplexity AI`, catalogued on PulseMCP. Integrates Perplexity AI to provide intelligent coding assistance for tasks like code analysis, generation, and problem-solving across various programming languages.

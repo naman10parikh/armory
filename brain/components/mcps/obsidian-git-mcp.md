@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-08T07:09:08Z"
+pushed_at: "2026-11-15T21:16:05Z"
 ---
 ## What it is
 This MCP server enables AI collaborators to read and write to a git-backed Obsidian vault with transactional integrity, ensuring every write is a validated, attributed commit pushed to the remote.

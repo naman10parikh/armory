@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 23
-pushed_at: "2025-04-29T01:24:24Z"
+pushed_at: "2026-11-14T19:55:49Z"
 ---
 ## What it is
 MCP server `Roo Code Memory Bank`, catalogued on PulseMCP. Implements a file-based project context management system that maintains persistent memory across sessions through structured markdown files for tracking progress, decisions, and system patterns.

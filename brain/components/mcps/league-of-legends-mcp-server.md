@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T23:34:36Z"
+pushed_at: "2026-11-11T23:34:29Z"
 ---
 ## What it is
 MCP server exposing 30 tools for League of Legends player analysis, match review, and training-plan generation.

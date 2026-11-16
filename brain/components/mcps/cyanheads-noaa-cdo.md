@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-03T08:36:01Z"
+pushed_at: "2026-11-13T11:12:51Z"
 ---
 ## What it is
 MCP server `NOAA CDO`, catalogued on PulseMCP. Search NOAA Climate Data Online stations and datasets, and fetch historical weather observations.

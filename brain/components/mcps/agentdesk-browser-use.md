@@ -8,7 +8,7 @@ source_url: https://github.com/AgentDeskAI/browser-tools-mcp
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 7342
+stars: 7343
 eval_score: null
 verified_at: 2026-05-28
 related: []

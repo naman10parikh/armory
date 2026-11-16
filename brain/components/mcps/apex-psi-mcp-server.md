@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T09:41:40Z"
+pushed_at: "2026-11-16T05:22:48Z"
 ---
 ## What it is
 Provides cryptographic truth infrastructure for AI agents, enabling them to seal content with SHA-256 and Ed25519, verify receipts, anchor them to Bitcoin via OpenTimestamps, generate citations, and audit chains of receipts.

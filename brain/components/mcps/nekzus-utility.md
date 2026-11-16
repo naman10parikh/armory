@@ -8,11 +8,11 @@ source_url: https://github.com/nekzus/npm-sentinel-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 18
+stars: 19
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
+forks: 11
 pushed_at: "2026-08-24T20:48:27Z"
 ---
 ## What it is

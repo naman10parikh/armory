@@ -8,12 +8,12 @@ source_url: https://github.com/msrbuilds/elementor-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 762
+stars: 768
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 160
-pushed_at: "2026-11-09T11:48:39Z"
+forks: 162
+pushed_at: "2026-11-14T18:19:52Z"
 ---
 ## What it is
 MCP server `Elementor`, catalogued on PulseMCP. Extends WordPress MCP Adapter to expose Elementor page builder tools for programmatic page design, widget management, and template handling.

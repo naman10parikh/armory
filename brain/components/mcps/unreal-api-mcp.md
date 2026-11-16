@@ -8,12 +8,12 @@ source_url: https://github.com/Codeturion/unreal-api-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 99
+stars: 100
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
+forks: 12
 pushed_at: "2026-10-26T22:44:39Z"
 ---
 ## What it is

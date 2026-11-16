@@ -8,11 +8,11 @@ source_url: https://github.com/anyproto/anytype-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 538
+stars: 544
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 63
+forks: 64
 pushed_at: "2026-11-07T19:04:57Z"
 ---
 ## What it is

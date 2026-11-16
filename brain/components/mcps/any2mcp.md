@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-03T01:35:08Z"
+pushed_at: "2026-11-10T01:35:16Z"
 ---
 ## What it is
 Convert plain Python modules into MCP servers without decorators or boilerplate, automatically exposing functions as schematized tools.

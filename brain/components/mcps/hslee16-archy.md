@@ -12,8 +12,8 @@ stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 32
-pushed_at: "2026-11-09T11:57:22Z"
+forks: 36
+pushed_at: "2026-11-15T18:51:41Z"
 ---
 ## What it is
 MCP server `Archy`, catalogued on PulseMCP. Architectural quality sensor for Python codebases that detects import cycles, enforces layer rules, and computes dependency health scores.

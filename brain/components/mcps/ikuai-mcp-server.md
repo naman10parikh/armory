@@ -8,12 +8,12 @@ source_url: https://github.com/gxxHuang/ikuai-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 5
 pushed_at: "2026-10-15T17:43:50Z"
 ---
 ## What it is

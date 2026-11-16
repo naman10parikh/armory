@@ -8,13 +8,13 @@ source_url: https://github.com/ouranos-labs/pseolint
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-01T05:37:36Z"
+pushed_at: "2026-11-15T05:33:07Z"
 ---
 ## What it is
 Audit programmatic SEO sites for Google SpamBrain risk the way the algorithm sees them, across pages, not one page at a time. pseolint clusters your URLs into templates (e.g. /listing/:slug), samples pages from each, and returns a per-template verdict with a 0-100 risk score and the top failing rule

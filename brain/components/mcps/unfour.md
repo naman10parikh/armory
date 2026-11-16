@@ -8,13 +8,13 @@ source_url: https://github.com/zyqzyq/Unfour
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-09T12:12:50Z"
+pushed_at: "2026-11-16T07:25:44Z"
 ---
 ## What it is
 Local-first backend developer workspace exposing API debugging, SSH, database, workspace, and diagnostics tools to AI agents through a local MCP server

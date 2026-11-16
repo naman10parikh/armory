@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-02-25T21:34:27Z"
+pushed_at: "2026-11-16T03:09:22Z"
 ---
 ## What it is
 MCP server `WeMo Smart Home`, catalogued on PulseMCP. Control WeMo smart home devices — discover, toggle, adjust brightness, and manage HomeKit codes.

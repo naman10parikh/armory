@@ -12,8 +12,8 @@ stars: 44
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 19
-pushed_at: "2026-11-05T08:28:50Z"
+forks: 20
+pushed_at: "2026-11-15T14:10:21Z"
 ---
 ## What it is
 MCP server `WebdriverIO`, catalogued on PulseMCP. Browser and mobile app automation for Chrome, Firefox, Edge, Safari, iOS, and Android via WebDriver and Appium protocols.

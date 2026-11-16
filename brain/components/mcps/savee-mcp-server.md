@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T18:35:19Z"
+pushed_at: "2026-11-13T23:22:06Z"
 ---
 ## What it is
 Enables conversational access to your saved visual inspiration on Savee, including listing saves, boards, feeds, searching the public library, and viewing images, with read-only tools.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-11-09T01:55:26Z"
+pushed_at: "2026-11-16T02:05:09Z"
 ---
 ## What it is
 MCP server `Linksee Memory`, catalogued on PulseMCP. Local-first structured memory with semantic layers, token-efficient file reading, and cross-agent portability.

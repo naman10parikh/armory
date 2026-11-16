@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-09T08:55:06Z"
+pushed_at: "2026-11-16T14:26:02Z"
 ---
 ## What it is
 An MCP server that provides real-time IBM Quantum device data including queue depths, error rates, and coherence times, enabling AI assistants to query and compare quantum hardware.

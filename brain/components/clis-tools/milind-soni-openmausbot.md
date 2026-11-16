@@ -8,14 +8,14 @@ source_url: https://github.com/milind-soni/OpenMausBot
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 19457
+stars: 24063
 eval_score: null
 mentions: 1
 verified_at: 2026-10-29
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2673
-pushed_at: "2026-11-09T17:18:41Z"
+forks: 3340
+pushed_at: "2026-11-16T15:48:47Z"
 ---
 ## What it is
 Open-source Grok Bot alternative with a virtual machine that bots can use

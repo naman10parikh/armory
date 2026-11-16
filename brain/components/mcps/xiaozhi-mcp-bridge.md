@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-05T03:22:19Z"
+pushed_at: "2026-11-10T03:59:58Z"
 ---
 ## What it is
 Bridges MCP for XiaoZhi AI agent using Cloudflare Workers + Durable Objects, maintaining persistent WebSocket connection and enabling custom tool execution.

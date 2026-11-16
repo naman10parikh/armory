@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-07T02:31:07Z"
+pushed_at: "2026-11-10T22:00:43Z"
 ---
 ## What it is
 MCP server for portable reputation and skills passports in East Africa — worker profiles, verified service records, trust scores, and professional references for economic mobility. 6 tools.

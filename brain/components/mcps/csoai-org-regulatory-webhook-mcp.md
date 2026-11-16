@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T02:55:29Z"
+pushed_at: "2026-11-16T02:41:45Z"
 ---
 ## What it is
 MCP server `Regulatory Webhook`, catalogued on PulseMCP. Python MCP server for regulatory compliance webhook integration and monitoring.

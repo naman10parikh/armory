@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-08-15T04:45:41Z"
+pushed_at: "2026-11-15T11:23:33Z"
 ---
 ## What it is
 MCP server for the OpenEMT electromagnetic transient simulator, enabling AI agents to enumerate the physics catalog, build circuits, solve power flow and EMT studies, and query simulation results by stable block ID.

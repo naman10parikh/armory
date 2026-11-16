@@ -12,8 +12,8 @@ stars: 1415
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 246
-pushed_at: "2026-11-09T15:04:12Z"
+forks: 245
+pushed_at: "2026-11-16T15:14:32Z"
 ---
 ## What it is
 MCP server `Nx Console`, catalogued on PulseMCP. Exposes monorepo workspace architecture, generators, tasks, and documentation to language models

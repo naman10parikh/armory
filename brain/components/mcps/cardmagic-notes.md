@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-30T12:56:13Z"
+pushed_at: "2026-11-14T16:33:23Z"
 ---
 ## What it is
 CLI and MCP server to search and browse Apple Notes with fuzzy matching, full-text search, and PDF text extraction.

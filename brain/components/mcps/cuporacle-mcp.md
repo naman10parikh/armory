@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T21:27:24Z"
+pushed_at: "2026-11-13T12:11:45Z"
 ---
 ## What it is
 MCP server for FIFA World Cup 2026 data including fixtures, live scores, odds, and knockout bracket, plus a tool (wc_edge) that autonomously pays for premium data via Injective's x402 protocol.

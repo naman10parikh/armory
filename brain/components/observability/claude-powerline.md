@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [ccometixline-claude-code-statusline, claudia-statusline]
 tags: [claude-code, status-lines]
-stars: 1176
+stars: 1179
 forks: 86
-pushed_at: "2026-11-08T08:36:45Z"
+pushed_at: "2026-11-15T08:50:05Z"
 ---
 ## What it is
 A vim-style powerline statusline for Claude Code with real-time usage tracking, git integration, custom themes, and more

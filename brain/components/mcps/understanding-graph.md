@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T19:00:32Z"
+pushed_at: "2026-11-15T22:30:12Z"
 ---
 ## What it is
 Enables AI agents to maintain persistent, inspectable understanding through typed, revisable updates, and to coordinate multi-agent work via shared graph-based stigmergy.

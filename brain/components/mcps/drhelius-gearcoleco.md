@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 29
-pushed_at: "2026-11-06T21:34:50Z"
+pushed_at: "2026-11-16T14:58:56Z"
 ---
 ## What it is
 MCP server `Gearcoleco`, catalogued on PulseMCP. AI-assisted debugging for ColecoVision emulation, exposing memory inspection, breakpoints, disassembly, and hardware monitoring through the MCP interface.

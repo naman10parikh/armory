@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-11-07T01:20:05Z"
+pushed_at: "2026-11-14T08:06:59Z"
 ---
 ## What it is
 Provides AI assistants with a persistent knowledge graph and experience memory, featuring context-aware routing, progressive disclosure, decay-based forgetting, and automatic promotion of important knowledge. It offers 22 MCP tools for storing, recalling, connecting, and querying knowledge, experien

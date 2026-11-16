@@ -12,8 +12,8 @@ stars: 530
 verified_at: 2026-05-26
 related: []
 tags: [mcp]
-forks: 71
-pushed_at: "2026-11-08T03:00:39Z"
+forks: 72
+pushed_at: "2026-11-16T16:13:12Z"
 ---
 
 ## What it is

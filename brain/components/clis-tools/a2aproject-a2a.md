@@ -8,14 +8,14 @@ source_url: https://github.com/a2aproject/A2A
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 26461
+stars: 26560
 eval_score: 1
 mentions: 9
 verified_at: 2026-09-26
 related: []
 tags: [sentinel-feed]
-forks: 2692
-pushed_at: "2026-11-05T14:47:57Z"
+forks: 2706
+pushed_at: "2026-11-16T14:22:45Z"
 ---
 ## What it is
 Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.

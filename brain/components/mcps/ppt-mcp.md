@@ -8,13 +8,13 @@ source_url: https://github.com/ykuwai/ppt-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 113
+stars: 127
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 16
-pushed_at: "2026-11-09T13:21:37Z"
+forks: 18
+pushed_at: "2026-11-13T00:19:06Z"
 ---
 ## What it is
 An MCP server that provides real-time control of Microsoft PowerPoint via COM automation, enabling AI agents to create and edit presentations with 155 tools across 26 categories.

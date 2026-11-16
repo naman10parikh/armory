@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-03T20:55:04Z"
+pushed_at: "2026-11-15T17:21:48Z"
 ---
 ## What it is
 Enables AI assistants to dispatch legal vendor requests (court reporters, experts, e-discovery, etc.) and receive bids within minutes, with tools for matter management and negotiation.

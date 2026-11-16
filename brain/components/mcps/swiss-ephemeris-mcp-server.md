@@ -8,12 +8,12 @@ source_url: https://github.com/ducrouxolivier/swiss-ephemeris-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
+forks: 10
 pushed_at: "2025-07-10T10:46:29Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/ashev87/propstack-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-15T13:30:17Z"
+pushed_at: "2026-11-16T08:58:53Z"
 ---
 ## What it is
 MCP server `Propstack`, catalogued on PulseMCP. Propstack CRM integration for contacts, properties, deals, and viewings.

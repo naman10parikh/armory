@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2025-04-13T21:30:44Z"
+pushed_at: "2026-11-13T13:06:32Z"
 ---
 ## What it is
 MCP server `External Recon`, catalogued on PulseMCP. Provides network reconnaissance tools for penetration testers, enabling systematic domain enumeration, IP discovery, email security assessment, and port scanning for external security audits.

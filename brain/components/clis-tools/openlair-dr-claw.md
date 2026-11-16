@@ -8,14 +8,14 @@ source_url: https://github.com/OpenLAIR/dr-claw
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1199
+stars: 1200
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 141
-pushed_at: "2026-11-06T16:07:10Z"
+forks: 144
+pushed_at: "2026-11-11T02:31:44Z"
 ---
 ## What it is
 A Super AI Lab with massive AI Doctors as Assistants. Best IDE for Research via AI Power.

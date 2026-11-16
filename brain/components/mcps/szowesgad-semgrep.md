@@ -8,12 +8,12 @@ source_url: https://github.com/vetcoders/mcp-server-semgrep
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 28
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-11-09T15:00:14Z"
+pushed_at: "2026-11-10T23:40:11Z"
 ---
 ## What it is
 MCP server `Semgrep`, catalogued on PulseMCP. Integrates Semgrep for static code analysis, enabling AI-driven security scanning, vulnerability detection, and code quality improvement across multiple programming languages.

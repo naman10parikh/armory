@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T08:45:04Z"
+pushed_at: "2026-11-13T08:24:52Z"
 ---
 ## What it is
 Tracks what an agent KNOWS vs INFERS vs ASSUMES with calibrated confidence. Provides tools to register, query, and analyze epistemic status of claims across domains.

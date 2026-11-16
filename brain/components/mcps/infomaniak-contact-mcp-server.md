@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-09T11:57:38Z"
+pushed_at: "2026-11-14T17:22:27Z"
 ---
 ## What it is
 MCP server for the Infomaniak Contacts API, enabling listing and searching contacts across address books.

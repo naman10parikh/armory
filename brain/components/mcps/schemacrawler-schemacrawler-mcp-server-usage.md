@@ -13,7 +13,7 @@ related: []
 tags: [mcp, databases]
 stars: 30
 forks: 4
-pushed_at: "2026-10-30T12:27:10Z"
+pushed_at: "2026-11-10T02:39:12Z"
 ---
 ## What it is
 Connect to any relational database, and be able to get valid SQL, and ask questions like what does a certain column prefix mean.

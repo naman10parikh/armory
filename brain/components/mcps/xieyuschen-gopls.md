@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-10-18T10:07:48Z"
+pushed_at: "2026-11-10T06:35:53Z"
 ---
 ## What it is
 MCP server `gopls-mcp`, catalogued on PulseMCP. Hardfork of gopls providing compiler-grade Go code analysis including definitions, references, call hierarchies, and build diagnostics with surgical precision.

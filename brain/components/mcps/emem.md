@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-11-09T04:11:05Z"
+pushed_at: "2026-11-15T08:57:14Z"
 ---
 ## What it is
 MCP server `emem`, catalogued on PulseMCP. Content-addressed Earth memory with cryptographic signing for geospatial AI workflows.

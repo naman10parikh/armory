@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-27T05:22:27Z"
+pushed_at: "2026-11-14T04:54:28Z"
 ---
 ## What it is
 Provides MCP tools for coding agents to inspect and control Meural Canvas devices on the local network, including listing devices, getting status, and setting the current image.

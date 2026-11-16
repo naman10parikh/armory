@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-18T17:03:37Z"
+pushed_at: "2026-11-11T09:29:00Z"
 ---
 ## What it is
 Enables AI assistants to manage the full Request for Quotation lifecycle, including submission, quoting, pricing, and installment planning via GraphQL.

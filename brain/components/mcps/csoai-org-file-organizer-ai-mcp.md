@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T03:16:45Z"
+pushed_at: "2026-11-16T02:22:13Z"
 ---
 ## What it is
 MCP server `File Organizer AI`, catalogued on PulseMCP. AI tools for organizing, categorizing, and managing file systems and directories.

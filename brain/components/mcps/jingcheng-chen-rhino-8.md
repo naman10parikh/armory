@@ -8,11 +8,11 @@ source_url: https://github.com/jingcheng-chen/rhinomcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1201
+stars: 1217
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 110
+forks: 112
 pushed_at: "2026-11-07T20:31:59Z"
 ---
 ## What it is

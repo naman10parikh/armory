@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-09T14:41:12Z"
+pushed_at: "2026-11-16T07:42:27Z"
 ---
 ## What it is
 Enables scanning Java (Maven) projects for known vulnerabilities via natural language, returning severity-sorted reports with CVSS scores and fix versions.

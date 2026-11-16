@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 85
-pushed_at: "2026-11-04T12:11:50Z"
+pushed_at: "2026-11-12T02:42:04Z"
 ---
 ## What it is
 MCP server `Flyto Core`, catalogued on PulseMCP. Secure execution engine for AI agents with 300+ modules.

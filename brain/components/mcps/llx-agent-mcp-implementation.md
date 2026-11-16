@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-30T19:46:03Z"
+pushed_at: "2026-11-09T20:56:55Z"
 ---
 ## What it is
 A minimal MCP server with a sample search_news skill that demonstrates how Claude Code can automatically call a skill over the MCP protocol.

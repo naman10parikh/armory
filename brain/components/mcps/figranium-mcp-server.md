@@ -8,13 +8,13 @@ source_url: https://github.com/figranium/figranium-mcp
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-06T17:26:09Z"
+pushed_at: "2026-11-13T23:00:04Z"
 ---
 ## What it is
 Enables LLM clients to discover, create, execute, inspect, and schedule Figranium automation tasks, with rich input validation for self-correction.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 25
-pushed_at: "2026-07-09T19:52:51Z"
+pushed_at: "2026-11-15T17:05:38Z"
 ---
 ## What it is
 MCP server `Octagon Investment Research`, catalogued on PulseMCP. Provides specialized investment research tools for analyzing SEC filings, earnings calls, financial data, stock market information, private company details, funding rounds, M&A transactions, and web scraping capabilities.

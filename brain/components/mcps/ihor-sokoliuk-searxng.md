@@ -8,12 +8,12 @@ source_url: https://github.com/ihor-sokoliuk/mcp-searxng
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1356
+stars: 1369
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 169
-pushed_at: "2026-11-09T05:50:29Z"
+forks: 170
+pushed_at: "2026-11-16T05:49:39Z"
 ---
 ## What it is
 MCP server `SearXNG`, catalogued on PulseMCP. Integrates SearXNG API to enable web searches with pagination control for up-to-date information retrieval and content analysis.

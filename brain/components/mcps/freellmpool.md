@@ -8,12 +8,12 @@ source_url: https://github.com/0xzr/freellmpool
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 147
+stars: 152
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 25
+forks: 26
 pushed_at: "2026-11-06T19:05:13Z"
 ---
 ## What it is

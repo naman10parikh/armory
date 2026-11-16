@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 19
-pushed_at: "2026-11-09T17:15:34Z"
+pushed_at: "2026-11-16T16:46:06Z"
 ---
 ## What it is
 MCP server `Threadline`, catalogued on PulseMCP. Agent-to-agent messaging relay with zero-config discovery, message routing, and reply handling.

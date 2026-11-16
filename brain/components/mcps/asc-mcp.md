@@ -8,13 +8,13 @@ source_url: https://github.com/pofky/asc-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-04T07:08:28Z"
+pushed_at: "2026-11-15T23:06:12Z"
 ---
 ## What it is
 An opinionated MCP server for App Store Connect that provides 13 curated tools, slash-command workflows, and a Claude Skill to manage apps, reviews, sales, and pre-submission audits via natural language.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T09:38:16Z"
+pushed_at: "2026-11-13T19:50:58Z"
 ---
 ## What it is
 MCP server for controlling Ableton Live via a remote script, capturing audio through VB-Cable, and performing music analysis with librosa.

@@ -8,11 +8,11 @@ source_url: https://github.com/nhadaututtheky/neural-memory
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 243
+stars: 244
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 70
+forks: 69
 pushed_at: "2026-10-23T02:39:09Z"
 ---
 ## What it is

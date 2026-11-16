@@ -8,13 +8,13 @@ source_url: https://github.com/surendranb/macos-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-03T13:22:01Z"
+pushed_at: "2026-11-14T04:53:36Z"
 ---
 ## What it is
 Enables AI agents to directly access native macOS services, media, system health, and administration tools through a local MCP server.

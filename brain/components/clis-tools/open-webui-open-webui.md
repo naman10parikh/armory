@@ -8,14 +8,14 @@ source_url: https://github.com/open-webui/open-webui
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 158212
+stars: 158822
 eval_score: null
 mentions: 1
 verified_at: 2026-10-29
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 22997
-pushed_at: "2026-11-09T15:02:44Z"
+forks: 23086
+pushed_at: "2026-11-16T16:28:40Z"
 ---
 ## What it is
 User-friendly AI Interface (Supports Ollama, OpenAI API, ...)

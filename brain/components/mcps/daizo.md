@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-20T10:54:17Z"
+pushed_at: "2026-11-12T21:09:01Z"
 ---
 ## What it is
 MCP server `Daizo (Buddhist Text Corpora)`, catalogued on PulseMCP. Provides access to Buddhist text corpora including CBETA Chinese texts, SAT Daizōkyō database, and Pali Tipitaka with fuzzy search across titles, content-based regex search with context extraction, and intelligent text parsing that handles TEI markup and encoding for scholarly research and comparative textual analysis.

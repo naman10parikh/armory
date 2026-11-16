@@ -8,13 +8,13 @@ source_url: https://github.com/theanshsonkar/emfirge
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-09T14:42:44Z"
+pushed_at: "2026-11-15T18:00:18Z"
 ---
 ## What it is
 Enables AI to scan AWS accounts, analyze attack paths, and verify security fixes on a read-only graph of cloud resources.

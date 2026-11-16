@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T07:07:28Z"
+pushed_at: "2026-11-11T09:27:18Z"
 ---
 ## What it is
 Wraps portfolio-drift-agent as MCP tools, letting LLM clients audit a portfolio of projects against GitHub conversationally.

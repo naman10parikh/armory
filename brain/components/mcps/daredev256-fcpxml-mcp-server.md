@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, multimedia-process]
-stars: 142
+stars: 154
 forks: 23
-pushed_at: "2026-11-02T16:20:40Z"
+pushed_at: "2026-11-16T15:14:19Z"
 ---
 ## What it is
 The first MCP server for Final Cut Pro. 53 tools that parse, edit, and generate FCPXML timelines — health checks, flash frame detection, chapter markers, rough cuts, NLE export. 912 tests, MIT licensed.

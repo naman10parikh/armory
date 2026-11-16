@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-09T23:42:15Z"
+pushed_at: "2026-11-10T18:22:09Z"
 ---
 ## What it is
 A curated MCP server for Semaphore UI that enables driving Ansible and Terraform automation from Claude with a safe, read-first tool surface.

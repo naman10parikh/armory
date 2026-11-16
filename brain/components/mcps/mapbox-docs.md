@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-09T16:38:01Z"
+pushed_at: "2026-11-11T21:47:22Z"
 ---
 ## What it is
 MCP server `Mapbox Docs`, catalogued on PulseMCP. Provides AI assistants with instant access to Mapbox documentation, API references, SDK docs, and code examples.

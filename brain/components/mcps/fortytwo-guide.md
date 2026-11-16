@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-28T23:28:25Z"
+pushed_at: "2026-11-13T00:25:41Z"
 ---
 ## What it is
 A semantic-memory MCP server that stores text 'memories' with provenance and enables recall by meaning (vector search), keyword (FTS5), or structured filters.

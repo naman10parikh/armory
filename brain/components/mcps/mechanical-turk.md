@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-07T23:12:36Z"
+pushed_at: "2026-11-13T01:08:58Z"
 ---
 ## What it is
 An MCP server that inverts AI-human interaction: AI agents can ask humans questions via a browser console, blocking until answered.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T01:24:49Z"
+pushed_at: "2026-11-13T09:02:34Z"
 ---
 ## What it is
 Allows AI agents to run, inspect, and create Scrapeer visual web-scraping flows, bridging human-designed browser automation with agent-driven execution.

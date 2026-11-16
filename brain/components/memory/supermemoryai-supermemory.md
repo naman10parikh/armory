@@ -8,14 +8,14 @@ source_url: https://github.com/supermemoryai/supermemory
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 31570
+stars: 31636
 eval_score: null
 mentions: 12
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 2769
-pushed_at: "2026-11-09T16:32:31Z"
+forks: 2777
+pushed_at: "2026-11-16T16:32:48Z"
 ---
 ## What it is
 Use when memory has to be fast, run locally, and be reachable from an app as well as an agent.

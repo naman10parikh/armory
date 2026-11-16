@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-31T19:39:33Z"
+pushed_at: "2026-11-14T18:37:13Z"
 ---
 ## What it is
 Transforms Claude into a French tax assistant specialized in French taxation, covering income tax, corporate tax, wealth tax, capital gains, crypto, retirement, and professional status comparisons.

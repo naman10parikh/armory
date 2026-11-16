@@ -8,12 +8,12 @@ source_url: https://github.com/jkawamoto/mcp-youtube-transcript
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 495
+stars: 498
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 79
-pushed_at: "2026-11-09T15:48:47Z"
+pushed_at: "2026-11-14T06:08:55Z"
 ---
 ## What it is
 MCP server `YouTube Transcripts`, catalogued on PulseMCP. Integrates with YouTube's transcript API to retrieve and process captions from video URLs, enabling content analysis and information extraction from spoken video content.

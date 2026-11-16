@@ -8,11 +8,11 @@ source_url: https://github.com/dicklesworthstone/mcp_agent_mail
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2234
+stars: 2236
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 231
+forks: 229
 pushed_at: "2026-11-05T02:10:46Z"
 ---
 ## What it is

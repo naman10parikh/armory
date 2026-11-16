@@ -8,12 +8,12 @@ source_url: https://github.com/dbt-labs/dbt-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 618
+stars: 622
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 146
-pushed_at: "2026-11-05T23:04:23Z"
+forks: 148
+pushed_at: "2026-11-16T12:41:47Z"
 mentions: null
 ---
 ## What it is

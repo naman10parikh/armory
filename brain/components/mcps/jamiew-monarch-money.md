@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-11-07T17:47:29Z"
+pushed_at: "2026-11-13T19:00:33Z"
 ---
 ## What it is
 MCP server `Monarch Money`, catalogued on PulseMCP. Access Monarch Money financial data including accounts, transactions, budgets, and investments.

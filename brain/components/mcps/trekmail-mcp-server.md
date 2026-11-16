@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-06T08:56:36Z"
+pushed_at: "2026-11-13T11:20:45Z"
 ---
 ## What it is
 A Model Context Protocol server that exposes the TrekMail API v1 as 185 agent tools for managing email infrastructure and messaging.

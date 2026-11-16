@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T03:59:40Z"
+pushed_at: "2026-11-16T02:38:03Z"
 ---
 ## What it is
 MCP server `PDF Tools AI`, catalogued on PulseMCP. Python MCP server for AI-powered PDF tools and document analysis.

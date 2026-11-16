@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-07T07:00:20Z"
+pushed_at: "2026-11-11T00:28:42Z"
 ---
 ## What it is
 MCP server that enables agents to control native GUI apps by snapshotting accessibility trees and performing actions like click, type, and scroll without bringing the app to the foreground.

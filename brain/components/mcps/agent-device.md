@@ -8,12 +8,12 @@ source_url: https://github.com/callstackincubator/agent-device
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5313
+stars: 5413
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 385
-pushed_at: "2026-11-09T11:20:51Z"
+forks: 408
+pushed_at: "2026-11-16T16:44:04Z"
 ---
 ## What it is
 MCP server `Agent Device`, catalogued on PulseMCP. Mobile and desktop device automation for AI agents, enabling control of iOS, Android, TV, and macOS applications.

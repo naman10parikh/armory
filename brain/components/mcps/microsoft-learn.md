@@ -8,12 +8,12 @@ source_url: https://github.com/microsoftdocs/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1980
+stars: 1993
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 285
-pushed_at: "2026-10-30T04:04:15Z"
+forks: 289
+pushed_at: "2026-11-13T13:11:55Z"
 ---
 ## What it is
 MCP server `Microsoft Learn`, catalogued on PulseMCP. Enables AI agents to bring trusted and up-to-date information directly from Microsoft's official documentation

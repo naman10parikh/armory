@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T00:53:52Z"
+pushed_at: "2026-11-16T02:03:39Z"
 ---
 ## What it is
 MCP server `Accounting AI`, catalogued on PulseMCP. AI-powered accounting tools for financial data processing and analysis.

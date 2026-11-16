@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T01:03:04Z"
+pushed_at: "2026-11-16T02:15:31Z"
 ---
 ## What it is
 MCP server `Cron AI`, catalogued on PulseMCP. AI-assisted cron job scheduling and task automation tools.

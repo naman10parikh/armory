@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-19T18:12:31Z"
+pushed_at: "2026-11-15T22:59:47Z"
 ---
 ## What it is
 MCP server `Academic Tools`, catalogued on PulseMCP. Search papers, retrieve metadata, download PDFs, and read full-text sections from OpenAlex, arXiv, bioRxiv, Crossref, and Wikipedia.

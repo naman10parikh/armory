@@ -8,7 +8,7 @@ source_url: https://github.com/3D-Tech-Solutions/code-scalpel
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 18
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-11-01T23:07:43Z"
+pushed_at: "2026-11-16T10:44:44Z"
 ---
 ## What it is
 MCP server `Codex Browser Bridge`, catalogued on PulseMCP. Bridges Claude Code and other MCP agents to Codex Desktop's Chrome extension for tab management, navigation, DOM inspection, and browser interaction on Windows.

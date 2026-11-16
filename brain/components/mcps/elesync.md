@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-09T17:18:46Z"
+pushed_at: "2026-11-16T11:17:11Z"
 ---
 ## What it is
 Privacy-first local memory vault every AI shares over MCP. Markdown + SQLite on your machine; Claude, ChatGPT, Cursor, and any MCP client read and write it live. No cloud, no account, no telemetry

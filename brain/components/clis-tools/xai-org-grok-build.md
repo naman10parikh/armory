@@ -8,7 +8,7 @@ source_url: https://github.com/xai-org/grok-build
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 27735
+stars: 27786
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-11-08T22:35:52Z"
+pushed_at: "2026-11-16T07:06:48Z"
 ---
 ## What it is
 The policy enforcement plane for MCP: deterministic admission and egress policy, attributable audit, and SIEM export for your MCP server fleet. Self-hosted and MIT licensed.

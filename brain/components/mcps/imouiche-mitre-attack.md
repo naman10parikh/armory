@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-10-23T20:32:51Z"
+pushed_at: "2026-11-14T16:45:35Z"
 ---
 ## What it is
 MCP server `MITRE ATT&CK`, catalogued on PulseMCP. Comprehensive threat intelligence framework access with techniques, groups, and software entries

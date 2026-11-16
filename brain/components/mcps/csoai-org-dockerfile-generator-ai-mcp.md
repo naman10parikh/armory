@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T03:10:53Z"
+pushed_at: "2026-11-16T02:18:44Z"
 ---
 ## What it is
 MCP server `Dockerfile Generator AI`, catalogued on PulseMCP. AI-powered Dockerfile and container configuration generation tools.

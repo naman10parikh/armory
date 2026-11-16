@@ -8,14 +8,14 @@ source_url: https://github.com/google-research/timesfm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 35345
+stars: 35604
 eval_score: 1
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3467
-pushed_at: "2026-09-29T19:36:25Z"
+forks: 3486
+pushed_at: "2026-11-13T04:53:12Z"
 ---
 ## What it is
 TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.

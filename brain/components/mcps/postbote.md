@@ -8,13 +8,13 @@ source_url: https://github.com/JumpLink/postbote
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-08T19:34:42Z"
+pushed_at: "2026-11-16T12:36:33Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to read-only search and retrieve GNOME mail, contacts, and calendar data using IMAP and Evolution Data Server, with no password storage.

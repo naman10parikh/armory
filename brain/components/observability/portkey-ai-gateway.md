@@ -8,12 +8,12 @@ source_url: https://github.com/Portkey-AI/gateway
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 13353
+stars: 13388
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, gateway, proxy]
-forks: 1376
+forks: 1382
 pushed_at: "2026-05-25T13:54:51Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/yuzu-octopus/mcp-pool
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-10-10T13:48:48Z"
+forks: 2
+pushed_at: "2026-11-16T05:08:35Z"
 ---
 ## What it is
 Pools multiple API keys for upstream MCP servers to distribute rate limits and provide automatic failover on rate limiting or errors.

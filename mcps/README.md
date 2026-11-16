@@ -1,6 +1,6 @@
 # mcps/: 58,411 MCP server install configs
 
-**Last updated:** 2026-11-14T14:01:50.765Z (UTC), when `catalog.json` was last generated.
+**Last updated:** 2026-11-16T16:51:28.337Z (UTC), when `catalog.json` was last generated.
 
 Each `<slug>.json` is a minimal install config:
 ```json

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 20
-pushed_at: "2026-11-05T16:23:59Z"
+pushed_at: "2026-11-13T08:48:05Z"
 ---
 ## What it is
 MCP server for SAP CAP that enables AI-assisted development by searching CDS model definitions and CAP documentation.

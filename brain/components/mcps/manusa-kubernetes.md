@@ -8,12 +8,12 @@ source_url: https://github.com/containers/kubernetes-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2234
+stars: 2253
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 486
-pushed_at: "2026-11-09T11:08:23Z"
+forks: 489
+pushed_at: "2026-11-16T08:16:47Z"
 ---
 ## What it is
 MCP server `Kubernetes`, catalogued on PulseMCP. Manage Kubernetes, with additional support for OpenShift.

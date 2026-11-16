@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-07T21:22:35Z"
+pushed_at: "2026-11-12T23:31:38Z"
 ---
 ## What it is
 Enables natural-language read and write access to a Homebox inventory, including searching and managing items, locations, tags, and attaching files such as receipts and warranties.

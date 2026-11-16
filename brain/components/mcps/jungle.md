@@ -8,7 +8,7 @@ source_url: https://github.com/mcpjungle/mcpjungle
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1616
+stars: 1627
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -8,13 +8,13 @@ source_url: https://github.com/triuzzi/brave-devtools-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 49
+stars: 53
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
-pushed_at: "2026-11-09T13:41:21Z"
+forks: 5
+pushed_at: "2026-11-10T08:59:44Z"
 ---
 ## What it is
 MCP server that lets AI coding assistants control and inspect a live Brave browser using DevTools for automation, debugging, and performance analysis.

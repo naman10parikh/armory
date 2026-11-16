@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-03T00:22:53Z"
+pushed_at: "2026-11-14T00:23:35Z"
 ---
 ## What it is
 MCP server that enables AI agents to read, edit, and manage SharePoint documents with proper checkout, check-in, version history, and audit trails.

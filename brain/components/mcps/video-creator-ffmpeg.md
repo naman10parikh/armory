@@ -8,11 +8,11 @@ source_url: https://github.com/video-creator/ffmpeg-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 153
+stars: 154
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 26
+forks: 29
 pushed_at: "2026-05-20T07:24:39Z"
 ---
 ## What it is

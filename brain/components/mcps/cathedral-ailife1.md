@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-06-13T08:11:55Z"
+pushed_at: "2026-11-15T15:14:01Z"
 ---
 ## What it is
 MCP server `Cathedral`, catalogued on PulseMCP. Provides persistent memory and identity infrastructure for AI agents with cross-session identity reconstruction and drift detection.

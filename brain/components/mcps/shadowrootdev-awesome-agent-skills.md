@@ -8,11 +8,11 @@ source_url: https://github.com/shadowrootdev/awesome-agent-skills-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 27
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 4
 pushed_at: "2026-04-13T09:53:02Z"
 ---
 ## What it is

@@ -8,12 +8,12 @@ source_url: https://github.com/honeycombio/honeycomb-opentelemetry-node
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 15
+stars: 14
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, opentelemetry, tracing]
-forks: 6
+forks: 5
 pushed_at: "2025-08-13T20:22:38Z"
 ---
 ## What it is

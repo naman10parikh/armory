@@ -8,12 +8,12 @@ source_url: https://github.com/kastalien-research/thoughtbox
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 65
+stars: 66
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 20
-pushed_at: "2026-07-15T02:56:31Z"
+pushed_at: "2026-11-11T01:21:45Z"
 ---
 ## What it is
 MCP server `Thoughtbox`, catalogued on PulseMCP. Provides structured step-by-step reasoning capabilities through clear_thought tool that breaks down complex problems into manageable thoughts with support for revision, branching, and dynamic adjustment of reasoning paths.

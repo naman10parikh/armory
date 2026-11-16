@@ -8,13 +8,13 @@ source_url: https://github.com/imattau/polypack-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-06T05:29:46Z"
+pushed_at: "2026-11-13T01:36:18Z"
 ---
 ## What it is
 Provides persistent adaptive memory management with tools for storing, recalling, contextualizing, and consolidating memories, along with graph queries and feedback mechanisms.

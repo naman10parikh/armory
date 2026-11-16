@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-03T17:03:38Z"
+pushed_at: "2026-11-09T18:06:11Z"
 ---
 ## What it is
 MCP server `Teamfight Tactics`, catalogued on PulseMCP. Teamfight Tactics data and AI-powered game analysis via Riot Games API.

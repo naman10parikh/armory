@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 21
-pushed_at: "2026-09-28T09:02:21Z"
+pushed_at: "2026-11-16T07:03:23Z"
 ---
 ## What it is
 Enables AI agents to work with a real Excel-compatible spreadsheet engine, allowing them to create and manipulate structured data blocks, write and evaluate formulas, and save genuine .xlsx files with live formulas for human verification and reuse.

@@ -8,7 +8,7 @@ source_url: https://github.com/mordavid/bloodhound-mcp-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 383
+stars: 385
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

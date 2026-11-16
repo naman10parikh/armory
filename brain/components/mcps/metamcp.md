@@ -8,11 +8,11 @@ source_url: https://github.com/metatool-ai/mcp-server-metamcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 155
+stars: 154
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 35
+forks: 34
 pushed_at: "2025-06-25T08:57:33Z"
 ---
 ## What it is

@@ -8,11 +8,13 @@ source_url: https://github.com/nephilimdie/pii-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-11-16T16:37:03Z"
 ---
 ## What it is
 MCP server for anonymizing and deanonymizing PII through the Pseudora API, enabling safe sharing of sensitive text with AI assistants.
