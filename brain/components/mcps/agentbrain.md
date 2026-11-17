@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-29T11:08:03Z"
+pushed_at: "2026-11-15T15:47:31Z"
 ---
 ## What it is
 Local-first long-term memory for AI agents via a Markdown vault, offering MCP tools to query, ingest, lint, distill, and manage agent lessons and profile suggestions.

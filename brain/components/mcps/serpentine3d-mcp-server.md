@@ -8,13 +8,13 @@ source_url: https://github.com/chisomobanzi/Serpentine3D
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 133
+stars: 140
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 20
-pushed_at: "2026-11-08T06:36:55Z"
+forks: 22
+pushed_at: "2026-11-17T16:29:39Z"
 ---
 ## What it is
 Enables AI to view the Serpentine3D viewport, create NURBS geometry, and execute commands, integrating AI directly into the modelling workflow.

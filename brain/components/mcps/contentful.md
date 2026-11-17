@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 34
-pushed_at: "2026-11-08T18:37:22Z"
+pushed_at: "2026-11-15T22:32:44Z"
 ---
 ## What it is
 MCP server `Contentful (Official)`, catalogued on PulseMCP. Official Contentful integration that enables full content lifecycle management including entries, content types, assets, environments, locales, tags, and automated content generation through Contentful's Content Management API with bulk operations and intelligent response handling.

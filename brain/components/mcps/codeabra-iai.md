@@ -12,8 +12,8 @@ stars: 923
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 111
-pushed_at: "2026-11-02T06:32:47Z"
+forks: 112
+pushed_at: "2026-11-13T08:22:29Z"
 ---
 ## What it is
 MCP server `IAI`, catalogued on PulseMCP. Local long-term memory MCP server for AI coding assistants with three-tier episodic, semantic, and procedural memory storage.

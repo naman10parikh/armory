@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-10T13:04:22Z"
+pushed_at: "2026-11-16T14:40:52Z"
 ---
 ## What it is
 Read-only MCP server for Telegram that enables reading messages and transcribing voice, audio, and video notes via the Telegram API for use with Codex and Claude Code.

@@ -8,13 +8,13 @@ source_url: https://github.com/penecho/penecho
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2518
+stars: 2521
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 320
+forks: 321
 pushed_at: "2026-11-02T03:50:47Z"
 ---
 ## What it is

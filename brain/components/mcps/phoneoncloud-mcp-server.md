@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-15T16:20:27Z"
+pushed_at: "2026-11-16T11:46:47Z"
 ---
 ## What it is
 Enables AI assistants to remotely control Android devices in the cloud via P2P WebRTC, providing tools for screenshots, touch input, file management, and automation scripts.

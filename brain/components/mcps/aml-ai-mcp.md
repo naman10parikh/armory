@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T00:57:38Z"
+pushed_at: "2026-11-16T02:08:18Z"
 ---
 ## What it is
 Enables AML/6AMLD compliance for AI systems, including obliged entity classification, KYC/CDD audits, and sanctions screening.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T07:36:47Z"
+pushed_at: "2026-11-16T19:14:42Z"
 ---
 ## What it is
 Gives LLMs live, accurate access to Team Fortress Wiki content, enabling search, page retrieval, structured weapon stats, patch notes, and other TF2-specific information.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-03T00:27:00Z"
+pushed_at: "2026-11-15T04:03:32Z"
 ---
 ## What it is
 Enables users to draw GIS geometry on an interactive map and get clean, validated GeoJSON to hand off to other GIS MCP servers such as FEMA flood screening and USGS hydrography.

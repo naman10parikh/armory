@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-11-09T21:03:48Z"
+pushed_at: "2026-11-12T22:12:14Z"
 ---
 ## What it is
 Zero-config data quality monitoring as MCP tools. Profiles a warehouse (Postgres, BigQuery, Snowflake, MySQL, DuckDB), detects anomalies, and gates CI — read-only with the connection resolved server-side, never via the model.

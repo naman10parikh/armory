@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T17:10:52Z"
+pushed_at: "2026-11-13T14:27:50Z"
 ---
 ## What it is
 Provides cryptographically signed, tamper-evident compute usage receipts via a Model Context Protocol server, exposing tools to record usage, verify receipts, list the ledger, and verify ledger integrity without requiring any account, API key, or single cloud provider.

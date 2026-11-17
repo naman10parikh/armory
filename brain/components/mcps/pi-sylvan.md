@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T23:02:39Z"
+pushed_at: "2026-11-14T10:32:08Z"
 ---
 ## What it is
 Exposes Sylvan's MCP tools to a Pi coding agent, enabling management of spaces and developer shells.

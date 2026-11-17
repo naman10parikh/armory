@@ -8,13 +8,13 @@ source_url: https://github.com/businesscentralal/origo-bc-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-11-09T16:19:59Z"
+forks: 2
+pushed_at: "2026-11-13T14:21:10Z"
 ---
 ## What it is
 Connects AI clients like VS Code Copilot and Claude Desktop to Microsoft Dynamics 365 Business Central via the Cloud Events API.

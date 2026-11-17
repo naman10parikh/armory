@@ -8,14 +8,14 @@ source_url: https://github.com/asgeirtj/system_prompts_leaks
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 71132
+stars: 71621
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 11469
-pushed_at: "2026-11-10T04:48:22Z"
+forks: 11524
+pushed_at: "2026-11-16T13:37:35Z"
 ---
 ## What it is
 Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.

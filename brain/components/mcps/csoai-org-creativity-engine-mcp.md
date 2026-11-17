@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T01:02:47Z"
+pushed_at: "2026-11-16T02:14:57Z"
 ---
 ## What it is
 MCP server `Creativity Engine`, catalogued on PulseMCP. AI tools for brainstorming, ideation, and creative content generation.

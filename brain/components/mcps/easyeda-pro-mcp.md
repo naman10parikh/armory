@@ -8,12 +8,12 @@ source_url: https://github.com/VLab-Software/easyeda_mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 42
+stars: 43
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
+forks: 15
 pushed_at: "2026-11-05T12:31:49Z"
 ---
 ## What it is

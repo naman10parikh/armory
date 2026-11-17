@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-08T17:39:58Z"
+pushed_at: "2026-11-15T23:48:29Z"
 ---
 ## What it is
 A reference MCP server that enables AI agents to read, write, search, and analyze personal journal entries with mood scores over HTTP, featuring OAuth 2.0 and a swappable storage backend.

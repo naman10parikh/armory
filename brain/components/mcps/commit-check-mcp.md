@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-09T21:06:29Z"
+pushed_at: "2026-11-12T22:03:05Z"
 ---
 ## What it is
 Enables validation of commit messages, branch names, author info, push safety, and repository state using commit-check rules, accessible as MCP tools.

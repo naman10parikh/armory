@@ -8,13 +8,13 @@ source_url: https://github.com/microsoft/CUAWright
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 6092
+stars: 6096
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 387
+forks: 391
 pushed_at: "2026-10-27T03:03:47Z"
 ---
 ## What it is

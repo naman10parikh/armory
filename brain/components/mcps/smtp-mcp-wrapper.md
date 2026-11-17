@@ -8,13 +8,13 @@ source_url: https://github.com/JB09/smtp-mcp-wrapper
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-12T18:34:20Z"
+pushed_at: "2026-11-16T06:22:27Z"
 ---
 ## What it is
 A minimal MCP server that provides a send_email tool for sending HTML email through an SMTP relay.

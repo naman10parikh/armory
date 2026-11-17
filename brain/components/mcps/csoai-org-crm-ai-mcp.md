@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T01:02:58Z"
+pushed_at: "2026-11-16T02:15:20Z"
 ---
 ## What it is
 MCP server `CRM AI`, catalogued on PulseMCP. AI-powered customer relationship management data integration tools.

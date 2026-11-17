@@ -8,13 +8,13 @@ source_url: https://github.com/WhiteNightShadow/frx-director-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 94
+stars: 96
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 16
-pushed_at: "2026-10-11T05:16:51Z"
+pushed_at: "2026-11-12T08:01:06Z"
 ---
 ## What it is
 MCP server that lets a high-capability director model drive the firefox-reverse browser's built-in reverse-engineering Agent, with a cheap worker model executing all tooling.

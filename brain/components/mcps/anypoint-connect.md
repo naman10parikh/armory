@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-27T16:30:23Z"
+pushed_at: "2026-11-13T12:40:34Z"
 ---
 ## What it is
 CLI + MCP toolkit for Anypoint Platform that enables deploying applications, tailing logs, pulling metrics, and managing API specs with production safety nets.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T01:03:10Z"
+pushed_at: "2026-11-16T02:15:41Z"
 ---
 ## What it is
 MCP server `Crypto Tracker AI`, catalogued on PulseMCP. Tools for tracking cryptocurrency prices, portfolios, and market data.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-05-27T02:04:13Z"
+pushed_at: "2026-11-12T06:38:21Z"
 ---
 ## What it is
 MCP server `SSH Bridge`, catalogued on PulseMCP. SSH server management with zero-token SFTP transfers and multi-server connection pooling.

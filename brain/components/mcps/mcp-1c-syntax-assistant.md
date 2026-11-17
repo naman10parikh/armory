@@ -8,13 +8,13 @@ source_url: https://github.com/IElagin/mcp-1c-syntax-assistant
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-08T10:15:03Z"
+pushed_at: "2026-11-16T10:28:25Z"
 ---
 ## What it is
 MCP server for 1C:Enterprise that provides precise syntax reference cards (call signatures, parameters, return types, examples) by element name and lists object members. It helps AI agents answer 1C development questions using the official Russian help book.

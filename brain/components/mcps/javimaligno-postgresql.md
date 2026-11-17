@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-11-04T12:07:05Z"
+pushed_at: "2026-11-14T06:40:02Z"
 ---
 ## What it is
 MCP server `PostgreSQL`, catalogued on PulseMCP. PostgreSQL database operations with SQL injection prevention and read-only mode

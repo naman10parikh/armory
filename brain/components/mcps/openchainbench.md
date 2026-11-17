@@ -8,13 +8,13 @@ source_url: https://github.com/ChainBench/OpenChainBench
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
-pushed_at: "2026-11-09T14:01:20Z"
+forks: 12
+pushed_at: "2026-11-16T21:11:00Z"
 ---
 ## What it is
 Live, reproducible crypto infrastructure benchmarks for AI agents: RPC latency, bridge fees, L1 finality, gas oracle accuracy, stablecoin pegs. Three tools (list_benchmarks, get_benchmark,query_prom), no API key, CC-BY-4.0 data.

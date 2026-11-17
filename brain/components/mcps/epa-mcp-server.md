@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T11:08:06Z"
+pushed_at: "2026-11-16T07:28:47Z"
 ---
 ## What it is
 Access EPA environmental data — facility compliance (ECHO), toxic releases (TRI), Superfund sites, drinking water systems, environmental justice screening (EJScreen), and real-time air quality (AirNow) via MCP.

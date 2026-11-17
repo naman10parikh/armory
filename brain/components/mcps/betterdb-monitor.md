@@ -8,12 +8,12 @@ source_url: https://github.com/betterdb-inc/monitor
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1313
+stars: 1315
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 84
-pushed_at: "2026-11-10T15:15:14Z"
+forks: 85
+pushed_at: "2026-11-17T15:21:08Z"
 ---
 ## What it is
 MCP server `BetterDB Monitor`, catalogued on PulseMCP. Real-time monitoring, slowlog analysis, and audit trails for Valkey and Redis databases.

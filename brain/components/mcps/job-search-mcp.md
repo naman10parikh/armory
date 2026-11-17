@@ -8,13 +8,13 @@ source_url: https://github.com/VincenzoImp/job-search-tool
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-11-10T15:28:11Z"
+forks: 5
+pushed_at: "2026-11-16T21:06:26Z"
 ---
 ## What it is
 MCP server that exposes job search data from multiple boards, enabling clients to query and manage job listings via natural language.

@@ -8,13 +8,13 @@ source_url: https://github.com/Stealth-Labs-LTD/GovUK-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-31T00:09:47Z"
+pushed_at: "2026-11-14T00:47:45Z"
 ---
 ## What it is
 Provides access to 27 UK government data sources and services, enabling queries about transport, business, healthcare, and more via natural language.

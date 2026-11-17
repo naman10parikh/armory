@@ -8,13 +8,13 @@ source_url: https://github.com/tandryukha/aidemo
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 29
+stars: 34
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-11-09T20:55:22Z"
+pushed_at: "2026-11-16T11:27:36Z"
 ---
 ## What it is
 Your coding agent makes the demo video — turns a storyboard.json into a narrated, captioned product-demo MP4; deterministic replay re-renders it in CI at ~$0.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 27
-pushed_at: "2026-11-09T13:08:15Z"
+forks: 30
+pushed_at: "2026-11-11T18:51:35Z"
 ---
 ## What it is
 Enables AI agents to access and search up-to-date Solana documentation, get canonical spec references, and fix Anchor/Pinocchio Solana programs via MCP tools.

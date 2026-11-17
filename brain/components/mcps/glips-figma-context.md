@@ -8,13 +8,13 @@ source_url: https://github.com/glips/figma-context-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16187
+stars: 16231
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 eval_score: 1
-forks: 1283
-pushed_at: "2026-10-27T05:37:12Z"
+forks: 1290
+pushed_at: "2026-11-15T22:22:42Z"
 ---
 ## What it is
 MCP server `Figma Context`, catalogued on PulseMCP. Integrates with Figma's design platform API to enable AI-driven design operations, asset management, and team collaboration within Figma workflows.

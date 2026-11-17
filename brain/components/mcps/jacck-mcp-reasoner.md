@@ -8,11 +8,11 @@ source_url: https://github.com/jacck/mcp-reasoner
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 277
+stars: 276
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 32
+forks: 31
 pushed_at: "2025-01-08T22:46:31Z"
 ---
 ## What it is

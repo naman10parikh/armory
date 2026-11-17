@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
-pushed_at: "2026-08-24T16:40:46Z"
+forks: 9
+pushed_at: "2026-11-10T19:43:08Z"
 ---
 ## What it is
 Enables AI assistants to read, search, and traverse your reMarkable tablet library, including handwritten notes via OCR, turning it into a second brain.

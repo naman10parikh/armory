@@ -8,13 +8,13 @@ source_url: https://github.com/OpenOSINT/OpenOSINT
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1917
+stars: 1942
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 296
-pushed_at: "2026-11-05T12:47:58Z"
+forks: 300
+pushed_at: "2026-11-15T17:12:43Z"
 ---
 ## What it is
 AI-powered OSINT framework exposing 10 tools (email, username, breach, WHOIS, IP, subdomain, phone, Shodan, dorks, Pastebin) as an MCP server for Claude Code and Claude Desktop, with an autonomous agent REPL and direct CLI.

@@ -8,7 +8,7 @@ source_url: https://github.com/yuruotong1/autoMate
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4009
+stars: 4007
 eval_score: null
 verified_at: 2026-05-27
 related: []

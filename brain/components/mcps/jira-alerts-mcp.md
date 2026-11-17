@@ -8,13 +8,13 @@ source_url: https://github.com/rrvrs/jira-alerts-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T05:15:25Z"
+pushed_at: "2026-11-17T15:28:13Z"
 ---
 ## What it is
 Enables interaction with Jira Service Management Operations alerts and on-call schedules, including searching alerts, reading notes and activity logs, acknowledging, closing, annotating, adding responders, and querying current and next on-call rotations.

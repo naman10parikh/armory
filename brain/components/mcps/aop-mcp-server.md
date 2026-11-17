@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-04T10:35:12Z"
+pushed_at: "2026-11-14T04:32:26Z"
 ---
 ## What it is
 Public MCP endpoint for Adverse Outcome Pathway (AOP) discovery, scientific review, and draft-to-publication workflows.

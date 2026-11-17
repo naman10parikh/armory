@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-07T12:25:59Z"
+pushed_at: "2026-11-10T18:24:01Z"
 ---
 ## What it is
 Consolidates multiple upstream MCP servers behind a single STDIO interface, exposing search_tools and run_tool to avoid context bloat.

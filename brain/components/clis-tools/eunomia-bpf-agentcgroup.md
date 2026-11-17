@@ -15,7 +15,7 @@ verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 6
-pushed_at: "2026-10-28T16:24:05Z"
+pushed_at: "2026-11-14T02:06:04Z"
 ---
 ## What it is
 AgentCgroup: Understanding and Controlling OS Resources of AI Agents

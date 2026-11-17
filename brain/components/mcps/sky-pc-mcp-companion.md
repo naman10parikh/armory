@@ -8,7 +8,7 @@ source_url: https://github.com/Aevella/sky-pc-mcp-companion
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 179
+stars: 182
 eval_score: null
 verified_at: 2026-05-27
 related: []

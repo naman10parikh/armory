@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T00:46:06Z"
+pushed_at: "2026-11-17T05:19:59Z"
 ---
 ## What it is
 Enables AI clients to control Unreal Engine 5 editor for automated Blueprint authoring, level inspection, actor spawning, and other editor workflows via a local Python MCP server and UE plugin.

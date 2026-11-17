@@ -8,13 +8,13 @@ source_url: https://github.com/FalkorDB/QueryWeaver
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1093
+stars: 1096
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 140
-pushed_at: "2026-11-10T07:54:30Z"
+forks: 142
+pushed_at: "2026-11-17T11:24:47Z"
 ---
 ## What it is
 MCP server for natural language to SQL conversion, enabling listing databases, connecting, inspecting schemas, and querying databases using plain English.

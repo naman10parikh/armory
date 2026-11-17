@@ -8,11 +8,11 @@ source_url: https://github.com/zh19980811/easy-mcp-autocad
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 272
+stars: 279
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 51
+forks: 52
 pushed_at: "2026-10-15T03:25:53Z"
 ---
 ## What it is

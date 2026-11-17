@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-10T01:27:10Z"
+pushed_at: "2026-11-11T06:55:03Z"
 ---
 ## What it is
 An MCP server that provides complete Kubernetes API operations, enabling cluster management, resource CRUD, diagnostics, backup/restore, and multi-cluster configuration via natural language.

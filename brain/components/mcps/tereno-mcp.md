@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-03T19:08:29Z"
+pushed_at: "2026-11-13T00:21:30Z"
 ---
 ## What it is
 MCP server for verifying blockchain safety on Base via x402, with free pricing/receipt tools and paid per-call guard, contract, and metadata checks settled in USDC.

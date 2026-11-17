@@ -8,13 +8,13 @@ source_url: https://github.com/lostnumber07/shearline
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-14T16:12:37Z"
+forks: 0
+pushed_at: "2026-11-15T00:08:17Z"
 ---
 ## What it is
 A free, MIT-licensed MCP server that provides AI agents with analyst-grade US severe-weather tools, including live warning polygons, SPC outlooks, radar-derived hail and rotation products, and a composite threat brief.

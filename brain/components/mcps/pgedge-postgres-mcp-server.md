@@ -8,13 +8,13 @@ source_url: https://github.com/pgEdge/pgedge-postgres-mcp
 license: PostgreSQL License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 245
+stars: 247
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 24
-pushed_at: "2026-11-10T14:05:15Z"
+forks: 25
+pushed_at: "2026-11-16T10:43:13Z"
 ---
 ## What it is
 Enables SQL queries against PostgreSQL databases through MCP-compatible clients and includes a natural language agent for forming SQL queries from natural language.

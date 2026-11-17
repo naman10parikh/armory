@@ -8,11 +8,11 @@ source_url: https://github.com/qdrant/mcp-server-qdrant
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1565
+stars: 1572
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 311
+forks: 309
 pushed_at: "2026-11-10T10:43:48Z"
 ---
 ## What it is

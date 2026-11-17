@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-09T17:25:35Z"
+pushed_at: "2026-11-17T02:32:15Z"
 ---
 ## What it is
 Enables intent-verified development by writing structured intents with constraints and tests, then verifying implementations against them to reduce AI hallucinations.

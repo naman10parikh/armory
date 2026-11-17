@@ -8,13 +8,13 @@ source_url: https://github.com/signal8ai/signal8-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 425
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-11-09T09:30:49Z"
+forks: 3
+pushed_at: "2026-11-13T11:31:30Z"
 ---
 ## What it is
 Provides AI agents with direct access to SEC filing intelligence, company fundamentals, dilution risk scoring, and cross-company analytics for financial research.

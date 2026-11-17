@@ -8,7 +8,7 @@ source_url: https://github.com/bholmesdev/hubble.md
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1522
+stars: 1524
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10

@@ -8,13 +8,13 @@ source_url: https://github.com/basher83/Zammad-MCP
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 48
+stars: 49
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 33
-pushed_at: "2026-11-10T02:15:25Z"
+pushed_at: "2026-11-16T14:50:17Z"
 ---
 ## What it is
 An MCP server that connects AI assistants to Zammad, providing tools for managing tickets, users, organizations, and attachments.

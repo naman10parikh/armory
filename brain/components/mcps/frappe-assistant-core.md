@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 208
-pushed_at: "2026-11-10T14:38:41Z"
+pushed_at: "2026-11-16T18:31:44Z"
 ---
 ## What it is
 MCP server that enables LLMs to interact with ERPNext/Frappe sites for document CRUD, search, reports, workflows, and analytics, respecting user permissions and logging all actions.

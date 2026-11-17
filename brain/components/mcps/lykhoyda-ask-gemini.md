@@ -8,12 +8,12 @@ source_url: https://github.com/lykhoyda/ask-llm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 20
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-11-10T02:27:47Z"
+pushed_at: "2026-11-17T16:03:24Z"
 ---
 ## What it is
 MCP server `Ask Gemini`, catalogued on PulseMCP. Query Google Gemini models directly from within any MCP-compatible AI assistant.

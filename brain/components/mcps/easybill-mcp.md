@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-04T14:28:15Z"
+pushed_at: "2026-11-12T18:40:52Z"
 ---
 ## What it is
 MCP server providing access to the easybill REST API for managing invoices, customers, articles, payments, projects, and time tracking, with read-only mode by default.

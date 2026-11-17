@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 26
-pushed_at: "2026-10-01T17:11:29Z"
+pushed_at: "2026-11-16T12:00:07Z"
 ---
 ## What it is
 MCP server `Twelve Data`, catalogued on PulseMCP. Integrates with Twelve Data API to provide real-time quotes, historical OHLCV price data, and instrument metadata for stocks, forex pairs, and cryptocurrencies across global markets.

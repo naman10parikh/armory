@@ -8,13 +8,13 @@ source_url: https://github.com/tonyzorin/youtrack-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 99
+stars: 100
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 49
-pushed_at: "2026-11-02T14:07:27Z"
+pushed_at: "2026-11-11T18:29:59Z"
 ---
 ## What it is
 MCP server for interacting with YouTrack, enabling issue management, project operations, and search via natural language.

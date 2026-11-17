@@ -8,12 +8,12 @@ source_url: https://github.com/postmanlabs/postman-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 327
+stars: 332
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 87
-pushed_at: "2026-10-30T15:27:40Z"
+forks: 86
+pushed_at: "2026-11-12T16:28:37Z"
 ---
 ## What it is
 MCP server `Postman`, catalogued on PulseMCP. Connect AI agents, assistants, and chatbots directly to your APIs on Postman.

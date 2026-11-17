@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-08T15:56:25Z"
+pushed_at: "2026-11-14T05:07:28Z"
 ---
 ## What it is
 PlaceRoot is an MCP server that answers spatial questions using open map data from Overture Maps, without requiring API keys or signup. It provides tools for place search, area analysis, routing, and geometry operations.

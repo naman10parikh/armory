@@ -8,12 +8,12 @@ source_url: https://github.com/adspower/adspower-browser
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 154
+stars: 157
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 19
-pushed_at: "2026-10-27T07:31:15Z"
+pushed_at: "2026-11-12T03:55:53Z"
 ---
 ## What it is
 MCP server `AdsPower Browser Manager`, catalogued on PulseMCP. Enables AI-driven browser profile management through AdsPower's local API, providing tools for creating, updating, opening, and deleting browsers with customizable fingerprints and proxy configurations.

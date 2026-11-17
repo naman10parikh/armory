@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T04:31:52Z"
+pushed_at: "2026-11-13T15:19:00Z"
 ---
 ## What it is
 An MCP server for using Bitwarden Secrets Manager as durable credential storage for agent workflows, enabling secure secret storage, retrieval, and injection into trusted executables.

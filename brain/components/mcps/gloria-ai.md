@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-27T02:48:59Z"
+pushed_at: "2026-11-17T00:05:27Z"
 ---
 ## What it is
 MCP server `Gloria AI`, catalogued on PulseMCP. Real-time curated crypto news with sentiment analysis, recaps, and search.

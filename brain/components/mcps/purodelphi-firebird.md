@@ -8,11 +8,11 @@ source_url: https://github.com/purodelphi/mcpfirebird
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 71
+stars: 72
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 28
+forks: 29
 pushed_at: "2026-10-29T17:16:04Z"
 ---
 ## What it is

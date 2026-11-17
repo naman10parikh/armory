@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T09:14:55Z"
+pushed_at: "2026-11-16T21:33:55Z"
 ---
 ## What it is
 Enables resolving genetic variant identifiers (HGVS, dbSNP, ClinVar, gnomAD) to stable ClinGen Allele Registry IDs (CA#) and cross-references, providing a canonical allele identity across genome builds.

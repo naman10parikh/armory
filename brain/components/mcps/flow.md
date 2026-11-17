@@ -8,13 +8,13 @@ source_url: https://github.com/joelborch/flow
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-11-09T10:32:30Z"
+forks: 3
+pushed_at: "2026-11-16T10:31:18Z"
 ---
 ## What it is
 Agent-first project management MCP server that enables AI agents to manage tasks, spaces, lists, boards, subtasks, comments, and automations via natural language, with full audit trail and real-time sync.

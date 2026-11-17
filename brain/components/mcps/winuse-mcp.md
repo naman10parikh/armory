@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-10T04:15:29Z"
+pushed_at: "2026-11-12T05:32:55Z"
 ---
 ## What it is
 An MCP server that gives Claude Code on Windows the ability to see the screen and control the mouse and keyboard, mirroring Anthropic's computer use tool for screenshot, click, type, and scroll actions.

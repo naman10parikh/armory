@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-30T23:00:07Z"
+pushed_at: "2026-11-16T10:52:09Z"
 ---
 ## What it is
 MCP server `MCP Compliance`, catalogued on PulseMCP. CLI and MCP server that tests any MCP server for spec compliance across 88 tests with letter-grade scoring.

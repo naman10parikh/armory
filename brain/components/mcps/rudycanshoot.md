@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-06T02:55:20Z"
+pushed_at: "2026-11-16T01:32:48Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to capture and view screenshots, supporting multiple AI tools and platforms.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2025-08-15T03:44:11Z"
+pushed_at: "2026-11-12T03:16:46Z"
 ---
 ## What it is
 Enables users to interact with PostgreSQL databases through natural language, with GitHub OAuth authentication and role-based access control.

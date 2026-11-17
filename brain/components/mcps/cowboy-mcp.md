@@ -8,13 +8,13 @@ source_url: https://github.com/februality/cowboy-mcp
 license: GPL 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-11-09T04:59:05Z"
+pushed_at: "2026-11-14T00:16:19Z"
 ---
 ## What it is
 Open-source WordPress plugin that turns any site into a Streamable HTTP MCP server. Manage posts, WooCommerce, and more from Claude Code, Codex, or Cursor — no Node.js

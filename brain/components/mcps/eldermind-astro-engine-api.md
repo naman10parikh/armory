@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-19T23:44:32Z"
+pushed_at: "2026-11-17T01:59:07Z"
 ---
 ## What it is
 MCP server exposing eight esoteric calculation systems (Western/Vedic astrology, Human Design, Gene Keys, and more) through 14 tools, with deterministic profiles, partial success, and OAuth integration.

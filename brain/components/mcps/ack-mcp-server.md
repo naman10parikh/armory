@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 15
-pushed_at: "2026-07-31T09:30:35Z"
+pushed_at: "2026-11-17T04:55:36Z"
 ---
 ## What it is
 阿里云容器服务MCP Server，将ACK集群管理、Kubernetes原生操作和容器可观测性能力统一为AI原生的标准化工具集，支持通过自然语言与AI助手交互完成复杂的容器运维任务。

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-30T05:27:04Z"
+pushed_at: "2026-11-13T15:16:01Z"
 ---
 ## What it is
 MCP server `FCoP`, catalogued on PulseMCP. File-based multi-agent coordination system with 35 tools for managing agent state, task queues, and inter-agent communication.

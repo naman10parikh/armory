@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-07T20:47:02Z"
+pushed_at: "2026-11-10T22:04:18Z"
 ---
 ## What it is
 Enables local AI inference using Ollama and open-weight models, designed for offline operation in low-connectivity environments.

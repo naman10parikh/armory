@@ -8,13 +8,13 @@ source_url: https://github.com/ronak-create/FableCut
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 789
+stars: 800
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 103
-pushed_at: "2026-10-30T18:11:28Z"
+forks: 109
+pushed_at: "2026-11-17T09:58:48Z"
 ---
 ## What it is
 FableCut is a Premiere-style non-linear video editor that runs entirely in your browser — and exposes its whole timeline as one JSON document. Edit it by hand, from the UI, or let an AI agent (Claude Code, Claude Desktop, or anything that speaks MCP/REST) cut your video for you while you watch the t

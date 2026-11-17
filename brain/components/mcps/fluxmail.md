@@ -8,13 +8,13 @@ source_url: https://github.com/churichard/fluxmail
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-10T14:23:34Z"
+pushed_at: "2026-11-17T16:44:21Z"
 ---
 ## What it is
 Self-hosted MCP server to access your Gmail / Outlook / IMAP email

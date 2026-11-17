@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 29
-pushed_at: "2026-11-09T09:55:30Z"
+pushed_at: "2026-11-15T19:39:25Z"
 ---
 ## What it is
 Self-hosted MCP server giving AI agents persistent memory for personalization and context across conversations.

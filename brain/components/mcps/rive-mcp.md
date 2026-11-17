@@ -8,12 +8,12 @@ source_url: https://github.com/ODU33104/rive-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 28
+stars: 35
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 7
 pushed_at: "2026-10-29T15:48:40Z"
 ---
 ## What it is

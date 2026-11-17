@@ -8,13 +8,13 @@ source_url: https://github.com/yellow-hammer/mcp-1c-platform-tools
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 45
+stars: 46
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
-pushed_at: "2026-11-06T11:59:03Z"
+forks: 9
+pushed_at: "2026-11-16T10:30:18Z"
 ---
 ## What it is
 Enables AI agents to interact with 1C: Enterprise development environment, including running tests, managing launch profiles, building configurations, and performing database operations through the 1C: Platform Tools extension.

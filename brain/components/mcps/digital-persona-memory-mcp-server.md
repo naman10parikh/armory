@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-30T21:21:26Z"
+pushed_at: "2026-11-17T04:27:36Z"
 ---
 ## What it is
 Builds a searchable memory bank from persona-specific PDF content and exposes it as an MCP tool for querying.

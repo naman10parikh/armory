@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-27T10:47:43Z"
+pushed_at: "2026-11-16T23:48:00Z"
 ---
 ## What it is
 Enables AI agents to deploy applications and manage servers over SSH using natural language commands, with built-in tools for Python bots, Docker Compose, and SSL setup.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-11-10T08:10:22Z"
+pushed_at: "2026-11-17T08:10:33Z"
 ---
 ## What it is
 Local voice toolkit over MCP: transcribe audio to text in 25 languages, synthesize speech in 9, and list available voices and languages. Runs fully on-device — no API keys, no cloud.

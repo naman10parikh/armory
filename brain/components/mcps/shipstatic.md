@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-11-09T22:26:31Z"
+pushed_at: "2026-11-12T19:33:46Z"
 ---
 ## What it is
 MCP server `Shipstatic`, catalogued on PulseMCP. Deploy and manage static sites with deployment uploads, domain management, and DNS configuration.

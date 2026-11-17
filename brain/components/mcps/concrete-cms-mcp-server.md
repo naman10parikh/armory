@@ -8,13 +8,13 @@ source_url: https://github.com/MacareuxDigital/concretecms-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-11-06T12:22:19Z"
+pushed_at: "2026-11-13T16:55:42Z"
 ---
 ## What it is
 Enables interaction with Concrete CMS sites through the Concrete CMS REST API, allowing content management, user operations, and file uploads via natural language.

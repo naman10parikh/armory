@@ -8,13 +8,13 @@ source_url: https://github.com/IQAIcom/mcp-polymarket
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-08-10T16:08:06Z"
+pushed_at: "2026-11-12T23:28:29Z"
 ---
 ## What it is
 Enables AI agents to discover and analyze prediction markets, execute trades, and manage positions on Polymarket via the Model Context Protocol.

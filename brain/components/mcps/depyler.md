@@ -8,12 +8,12 @@ source_url: https://github.com/paiml/depyler
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 368
+stars: 371
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 19
-pushed_at: "2026-11-09T17:34:47Z"
+pushed_at: "2026-11-15T11:05:53Z"
 ---
 ## What it is
 MCP server `Depyler`, catalogued on PulseMCP. Python-to-Rust transpiler with analysis and verification tools

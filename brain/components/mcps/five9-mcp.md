@@ -8,7 +8,7 @@ source_url: https://github.com/ryanshatz/five9-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []

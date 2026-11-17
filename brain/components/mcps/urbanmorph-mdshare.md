@@ -8,12 +8,12 @@ source_url: https://github.com/urbanmorph/mdshare
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-31T06:40:55Z"
+pushed_at: "2026-11-15T16:28:25Z"
 ---
 ## What it is
 MCP server `MDShare`, catalogued on PulseMCP. Free markdown sharing service for uploading content, generating shareable links, and collaborating without login.

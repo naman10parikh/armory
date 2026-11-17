@@ -8,13 +8,13 @@ source_url: https://github.com/emircbngl/blender-optics-simulator
 license: GPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 36
+stars: 38
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-24T21:16:30Z"
+pushed_at: "2026-11-16T19:34:22Z"
 ---
 ## What it is
 An MCP server for Blender that exposes a physics-verified optical bench as JSON, enabling AI agents to read ground-truth geometry and beam data, and drive the bench through alignment and corrections.

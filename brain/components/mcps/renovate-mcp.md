@@ -8,13 +8,13 @@ source_url: https://github.com/tibuntu/renovate-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-10T13:56:05Z"
+pushed_at: "2026-11-17T16:10:34Z"
 ---
 ## What it is
 An MCP server for interactively reading, validating, previewing, and saving Renovate configurations with LLM assistance.

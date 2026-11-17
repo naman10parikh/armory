@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T11:46:27Z"
+pushed_at: "2026-11-13T12:52:20Z"
 ---
 ## What it is
 Enables AI assistants to manage payments via Spreedly API, including gateways, transactions, and payment method tokenization.

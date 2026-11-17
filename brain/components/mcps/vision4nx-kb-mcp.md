@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-28T13:39:40Z"
+pushed_at: "2026-11-10T15:39:43Z"
 ---
 ## What it is
 MCP server that exposes the Vision 4 NX knowledge base to any MCP client, enabling listing, querying, and reading of knowledge base contents via RAG vector search.

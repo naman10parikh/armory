@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-29T11:39:21Z"
+pushed_at: "2026-11-16T14:23:17Z"
 ---
 ## What it is
 MCP server for TheHive that enables AI agents to manage cases, alerts, observables, and tasks.

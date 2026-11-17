@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-10-20T12:29:09Z"
+pushed_at: "2026-11-12T07:42:32Z"
 ---
 ## What it is
 Search and browse RimWorld source code, definitions, and C# symbols via MCP tools.

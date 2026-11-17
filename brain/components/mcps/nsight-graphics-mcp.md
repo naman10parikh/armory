@@ -8,13 +8,13 @@ source_url: https://github.com/scarletfantasy/nsight-graphics-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-13T18:34:57Z"
+pushed_at: "2026-11-16T10:14:36Z"
 ---
 ## What it is
 MCP server for reading, filtering, and analyzing NVIDIA Nsight Graphics captures via ngfx-replay, exposing tools for capture inspection, GPU Trace profiling, and replay analysis.

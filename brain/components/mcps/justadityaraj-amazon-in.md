@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-11T14:44:44Z"
+pushed_at: "2026-11-15T08:42:19Z"
 ---
 ## What it is
 MCP server `Amazon India Deals`, catalogued on PulseMCP. Search Amazon India for cheapest in-stock products, best-value picks, and Keepa price-history links.

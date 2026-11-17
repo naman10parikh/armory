@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-29T05:40:15Z"
+pushed_at: "2026-11-16T09:19:27Z"
 ---
 ## What it is
 Fits a lithium-ion full-cell dual-water-tank model from charge/discharge voltage-capacity data for battery aging mechanism identification, with parameter fitting, batch processing, and MCP server integration.

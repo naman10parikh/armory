@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T00:46:27Z"
+pushed_at: "2026-11-16T12:47:15Z"
 ---
 ## What it is
 MCP server for Karea task management, enabling creation, editing, closing, and linking tasks with 44 tools from Claude Code and other MCP clients.

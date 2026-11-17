@@ -8,7 +8,7 @@ source_url: https://github.com/agentmail-to/agentmail-toolkit
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 111
+stars: 112
 eval_score: null
 mentions: null
 verified_at: 2026-09-07

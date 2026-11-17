@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-09T11:17:39Z"
+pushed_at: "2026-11-11T17:15:05Z"
 ---
 ## What it is
 Enables AI assistants to read and write selected values from IDM heat pumps via Modbus TCP, providing controlled access to operational data and setpoints.

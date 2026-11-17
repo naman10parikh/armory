@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-03T13:04:23Z"
+pushed_at: "2026-11-13T03:16:11Z"
 ---
 ## What it is
 A zero-config personal knowledge management MCP server that enables Claude Desktop to automatically classify, search, and organize local Markdown notes using hybrid search and Graph RAG.

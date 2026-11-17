@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2025-10-12T14:09:42Z"
+pushed_at: "2026-11-17T02:46:35Z"
 ---
 ## What it is
 MCP server `Selenium WebDriver`, catalogued on PulseMCP. Enables browser automation through Selenium WebDriver with support for Chrome, Firefox, and Edge browsers, providing navigation, element interaction, form handling, screenshot capture, JavaScript execution, and advanced actions for automated testing and web scraping tasks.

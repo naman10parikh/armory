@@ -8,13 +8,13 @@ source_url: https://github.com/noahshinn/reflexion
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3416
+stars: 3436
 eval_score: null
 mentions: 3
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 339
+forks: 343
 pushed_at: "2025-01-14T07:54:02Z"
 ---
 ## What it is

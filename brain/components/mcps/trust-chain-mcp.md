@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T04:35:03Z"
+pushed_at: "2026-11-16T02:47:44Z"
 ---
 ## What it is
 Manages trust chains and attestations with built-in EU AI Act compliance.

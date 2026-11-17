@@ -8,11 +8,11 @@ source_url: https://github.com/larspohlmann/mcp-phpstan-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
+forks: 1
 pushed_at: "2026-07-09T07:29:20Z"
 ---
 ## What it is

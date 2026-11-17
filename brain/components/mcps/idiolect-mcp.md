@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-08T09:50:36Z"
+pushed_at: "2026-11-13T19:09:24Z"
 ---
 ## What it is
 Loads your personal writing voice into any AI and scores how closely a draft matches it. Also rewrites and drafts in your voice, backed by the hosted Idiolect AI connector at https://idiolect.app/api/mcp.

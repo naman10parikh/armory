@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-09T03:56:41Z"
+pushed_at: "2026-11-16T21:49:54Z"
 ---
 ## What it is
 MCP server for accessing ILOSTAT (ILO statistical database) with tools to search indicators, retrieve metadata, list dimension values, and fetch data, with full provenance tracking.

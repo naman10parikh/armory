@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-31T07:34:18Z"
+pushed_at: "2026-11-15T10:26:01Z"
 ---
 ## What it is
 Secure, local-first MCP server exposing ArcGIS Pro's ArcPy engine over stdio JSON-RPC.

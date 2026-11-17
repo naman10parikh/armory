@@ -8,11 +8,11 @@ source_url: https://github.com/aashari/mcp-server-atlassian-bitbucket
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 163
+stars: 164
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 63
+forks: 64
 pushed_at: "2026-03-06T07:29:48Z"
 ---
 ## What it is

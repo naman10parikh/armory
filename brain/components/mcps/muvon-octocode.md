@@ -8,7 +8,7 @@ source_url: https://github.com/muvon/octocode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 523
+stars: 524
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

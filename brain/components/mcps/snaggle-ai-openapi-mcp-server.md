@@ -8,11 +8,11 @@ source_url: https://github.com/janwilmake/openapi-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 905
+stars: 906
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 95
+forks: 94
 pushed_at: "2026-07-07T15:21:11Z"
 ---
 ## What it is

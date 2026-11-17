@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-31T02:13:35Z"
+pushed_at: "2026-11-10T20:39:03Z"
 ---
 ## What it is
 MCP server and CLI for full-text search of the Deutsches Zeitungsportal (German newspaper collection), enabling querying ~33.8 million digitized pages with Solr syntax, date/title/place filters, and snippet highlights.

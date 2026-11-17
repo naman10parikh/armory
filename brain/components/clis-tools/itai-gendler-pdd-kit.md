@@ -15,7 +15,7 @@ verified_at: 2026-10-29
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 11
-pushed_at: "2026-11-08T14:13:09Z"
+pushed_at: "2026-11-16T18:34:34Z"
 ---
 ## What it is
 Product-Driven Development for coding agents

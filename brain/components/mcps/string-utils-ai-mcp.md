@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T04:25:07Z"
+pushed_at: "2026-11-16T02:45:27Z"
 ---
 ## What it is
 Provides string utility operations via the MCP protocol, with built-in EU AI Act compliance.

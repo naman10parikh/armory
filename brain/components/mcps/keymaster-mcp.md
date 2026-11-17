@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-08T21:17:30Z"
+pushed_at: "2026-11-11T21:09:19Z"
 ---
 ## What it is
 Enables AI agents to check whether approved credentials exist and are healthy without exposing the underlying secret values to the model, while also allowing metadata-only discovery of services and secrets and safe rotation guidance.

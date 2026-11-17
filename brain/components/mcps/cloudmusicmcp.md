@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-11T14:58:13Z"
+pushed_at: "2026-11-16T11:02:59Z"
 ---
 ## What it is
 Enables searching NetEase Cloud Music and safely managing playlists through a local stdio MCP server with automatic backend lifecycle management.

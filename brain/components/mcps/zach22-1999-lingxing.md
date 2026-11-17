@@ -8,11 +8,11 @@ source_url: https://github.com/zach22-1999/lingxing-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 45
+stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
+forks: 15
 pushed_at: "2026-07-14T06:35:47Z"
 ---
 ## What it is

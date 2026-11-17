@@ -8,13 +8,13 @@ source_url: https://github.com/telagod/code-abyss
 license: MIT
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 245
+stars: 243
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
-forks: 35
+forks: 34
 pushed_at: "2026-07-19T15:15:32Z"
 ---
 ## What it is

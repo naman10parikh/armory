@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-11-03T08:45:47Z"
+pushed_at: "2026-11-14T00:07:20Z"
 ---
 ## What it is
 Enables AI agents to manage RabbitMQ message brokers through admin APIs, supporting multiple brokers, OAuth authentication, and mutative tools.

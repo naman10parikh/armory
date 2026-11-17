@@ -8,13 +8,13 @@ source_url: https://github.com/youssefmkb/insurance-claims-assistant
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-09T21:37:40Z"
+pushed_at: "2026-11-13T15:28:43Z"
 ---
 ## What it is
 MCP server that processes car insurance claims by extracting structured data from raw accident reports, classifying severity using a two-model judge pipeline, and generating broker notifications.

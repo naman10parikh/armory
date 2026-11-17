@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T04:50:48Z"
+pushed_at: "2026-11-15T05:05:14Z"
 ---
 ## What it is
 Enables automated graphics capture and replay with RenderDoc, allowing agents to launch executables, inspect captures, and export thumbnails or timeline JSON for regression triage.

@@ -8,13 +8,13 @@ source_url: https://github.com/joelbarmettlerUZH/vue-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-06T00:59:13Z"
+pushed_at: "2026-11-13T00:58:45Z"
 ---
 ## What it is
 Provides AI assistants with up-to-date Vue ecosystem documentation through the Model Context Protocol, enabling semantic search, API lookup, and cross-framework references.

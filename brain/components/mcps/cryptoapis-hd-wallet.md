@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-28T11:48:08Z"
+pushed_at: "2026-11-13T11:03:56Z"
 ---
 ## What it is
 MCP server `Crypto APIs HD Wallet`, catalogued on PulseMCP. HD wallet management, balance queries, and sync for EVM, UTXO, and XRP via Crypto APIs.

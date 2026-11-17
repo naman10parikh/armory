@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-28T09:01:35Z"
+pushed_at: "2026-11-12T22:58:01Z"
 ---
 ## What it is
 Enables Codex and Claude Code to delegate implementation, research, debugging, and long-log work to DeepSeek Harness, then observe, continue, or cancel those sessions without leaving the primary workflow.

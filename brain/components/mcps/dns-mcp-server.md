@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-22T13:52:44Z"
+pushed_at: "2026-11-15T22:17:15Z"
 ---
 ## What it is
 A comprehensive DNS query server that enables querying all types of DNS records, including A, AAAA, MX, TXT, NS, CNAME, SOA, PTR, SRV, CAA, and DNSSEC checks, as well as advanced tools like WHOIS-style lookup and DNS delegation tracing.

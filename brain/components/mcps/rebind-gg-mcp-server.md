@@ -8,13 +8,13 @@ source_url: https://github.com/usinput/rebind-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T07:04:21Z"
+pushed_at: "2026-11-14T06:45:27Z"
 ---
 ## What it is
 Exposes Rebind as computer-use tools for remote control and automation, including screenshot, click, type, and window control.

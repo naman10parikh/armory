@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-26T16:35:56Z"
+pushed_at: "2026-11-13T19:20:58Z"
 ---
 ## What it is
 MCP server `Sociality.io`, catalogued on PulseMCP. Social media analytics platform providing AI agents access to post insights, competitor benchmarking, and audience data across channels.

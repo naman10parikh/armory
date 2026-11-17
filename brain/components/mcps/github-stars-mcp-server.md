@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 27
-pushed_at: "2026-11-07T22:28:16Z"
+forks: 26
+pushed_at: "2026-11-14T22:28:13Z"
 ---
 ## What it is
 Enables natural language search and querying of your GitHub starred repositories.

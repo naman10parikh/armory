@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-03T17:51:04Z"
+pushed_at: "2026-11-12T00:56:50Z"
 ---
 ## What it is
 Enables deploying pre-built AI agent blueprints for RFx procurement and employee onboarding, with no signup or API key required.

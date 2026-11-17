@@ -8,11 +8,11 @@ source_url: https://github.com/nexus-router/nexus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 438
+stars: 440
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 28
+forks: 29
 pushed_at: "2026-03-16T20:50:37Z"
 ---
 ## What it is

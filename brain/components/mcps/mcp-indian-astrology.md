@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-10T15:01:16Z"
+pushed_at: "2026-11-10T15:36:29Z"
 ---
 ## What it is
 Enables AI assistants to access Indian Vedic astrology services including Panchang, Kundli, matchmaking, and festivals through natural language.

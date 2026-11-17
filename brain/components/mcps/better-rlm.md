@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-12T17:00:06Z"
+pushed_at: "2026-11-15T17:38:33Z"
 ---
 ## What it is
 MCP server that lets Claude analyze huge files (logs, dumps, etc.) via a sandboxed Python REPL and recursive language models, keeping content out of the prompt. Zero-setup with Claude Code login, Docker sandbox by default, and tools for loading, searching, chunking, and querying large contexts.

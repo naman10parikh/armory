@@ -8,13 +8,13 @@ source_url: https://github.com/fitzyracing1/geez
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T13:16:32Z"
+pushed_at: "2026-11-13T15:34:00Z"
 ---
 ## What it is
 Enables Claude or any MCP client to call Grok (xAI) for answers via a simple, phone-first tool.

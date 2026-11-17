@@ -8,13 +8,13 @@ source_url: https://github.com/Q00/ouroboros
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6345
+stars: 6373
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 641
-pushed_at: "2026-11-08T20:35:49Z"
+forks: 637
+pushed_at: "2026-11-17T16:45:07Z"
 mentions: null
 ---
 ## What it is

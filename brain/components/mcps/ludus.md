@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-04-16T01:40:29Z"
+pushed_at: "2026-11-16T18:11:07Z"
 ---
 ## What it is
 MCP server `Ludus`, catalogued on PulseMCP. Manages Ludus cyber range infrastructure from AI coding assistants.

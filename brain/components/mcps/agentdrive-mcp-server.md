@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-10T12:01:54Z"
+pushed_at: "2026-11-17T13:36:57Z"
 ---
 ## What it is
 Provides a shared, persistent workspace with versioned files, semantic search, run logging, and cross-agent provenance, allowing agents to maintain context across sessions and tools.

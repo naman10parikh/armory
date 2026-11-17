@@ -8,14 +8,14 @@ source_url: https://github.com/Lightning-AI/litgpt
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 13746
+stars: 13755
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1546
-pushed_at: "2026-11-01T10:26:54Z"
+forks: 1550
+pushed_at: "2026-11-10T20:07:37Z"
 ---
 ## What it is
 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.

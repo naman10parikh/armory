@@ -12,8 +12,8 @@ stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
-pushed_at: "2026-10-28T14:54:12Z"
+forks: 5
+pushed_at: "2026-11-13T11:13:21Z"
 ---
 ## What it is
 MCP server `PubChem by cyanheads`, catalogued on PulseMCP. PubChem chemical database access for compound search, properties, safety data, bioactivity, and cross-references.

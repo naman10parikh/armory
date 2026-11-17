@@ -8,12 +8,12 @@ source_url: https://github.com/cabird/loseit-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
+forks: 14
 pushed_at: "2026-08-01T22:24:45Z"
 ---
 ## What it is

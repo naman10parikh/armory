@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 13
-pushed_at: "2026-10-25T14:19:10Z"
+pushed_at: "2026-11-16T14:41:21Z"
 ---
 ## What it is
 Open-source research engine that extracts structured knowledge from any topic via MCP, enabling AI assistants to get verified, scored claims and entity graphs from live sources.

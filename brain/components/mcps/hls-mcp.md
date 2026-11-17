@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-05T12:24:58Z"
+pushed_at: "2026-11-17T07:55:21Z"
 ---
 ## What it is
 MCP server for the Historical Dictionary of Switzerland (HLS), enabling full-text search and retrieval of biographical, geographical, and topical articles.

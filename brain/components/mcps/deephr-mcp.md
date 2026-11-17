@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-24T02:10:38Z"
+pushed_at: "2026-11-12T16:47:59Z"
 ---
 ## What it is
 Read-only MCP server that proxies deepHR's API to MCP clients, enabling interaction with deepHR modules such as payroll and employees through natural language.

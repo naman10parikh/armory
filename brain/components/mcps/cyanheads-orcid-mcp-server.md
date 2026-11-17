@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-28T08:58:40Z"
+pushed_at: "2026-11-16T15:55:19Z"
 ---
 ## What it is
 Enables searching and retrieving researcher profiles, works, affiliations, funding, and peer review records from the ORCID registry via MCP, supporting STDIO or Streamable HTTP.

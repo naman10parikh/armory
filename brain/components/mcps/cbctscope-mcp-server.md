@@ -8,13 +8,13 @@ source_url: https://github.com/rezamotaghi/cbctscope
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-11-04T07:09:49Z"
+forks: 3
+pushed_at: "2026-11-16T10:24:20Z"
 ---
 ## What it is
 Enables AI agents to control a local CBCT viewer for dental and maxillofacial scans, with navigation verbs like open scan, set window, navigate slices, and snapshot, without executing code or returning interpretations.

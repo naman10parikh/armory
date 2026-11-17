@@ -8,12 +8,12 @@ source_url: https://github.com/tumf/mcp-shell-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 201
+stars: 202
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 51
-pushed_at: "2026-10-29T03:42:35Z"
+forks: 50
+pushed_at: "2026-11-17T03:22:57Z"
 ---
 ## What it is
 MCP server `Shell Command`, catalogued on PulseMCP. Execute whitelisted shell commands on the host system via asyncio.

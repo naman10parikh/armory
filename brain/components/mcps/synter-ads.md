@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-11-09T17:32:30Z"
+pushed_at: "2026-11-17T15:52:30Z"
 ---
 ## What it is
 MCP server `Synter Ads`, catalogued on PulseMCP. Manage ad campaigns across Google, Meta, LinkedIn, Reddit, and TikTok via AI agents.

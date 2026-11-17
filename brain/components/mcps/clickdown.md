@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-22T03:13:49Z"
+pushed_at: "2026-11-15T14:54:14Z"
 ---
 ## What it is
 Enables AI agents to manage Kanban tasks, boards, teams, and checklists via natural language, with full CRUD operations and live updates.

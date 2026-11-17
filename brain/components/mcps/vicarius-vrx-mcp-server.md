@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-05T17:23:49Z"
+pushed_at: "2026-11-12T12:25:57Z"
 ---
 ## What it is
 An MCP server that exposes the Vicarius vRx External Data API to AI assistants, providing 88 tools across 37 API domains for managing vulnerabilities, endpoints, patches, and more, with read-only safety enforcement.

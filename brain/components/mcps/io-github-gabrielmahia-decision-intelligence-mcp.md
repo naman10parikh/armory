@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-07T20:46:59Z"
+pushed_at: "2026-11-10T22:04:13Z"
 ---
 ## What it is
 5,000 years of military strategy, philosophy, and decision science — as AI-accessible tools.

@@ -8,13 +8,13 @@ source_url: https://github.com/david-buck/figma-local-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-28T23:07:33Z"
+pushed_at: "2026-11-11T03:05:43Z"
 ---
 ## What it is
 A local-only MCP bridge that connects an MCP client to an open Figma file via a Figma plugin, enabling direct document editing, inspection, export, and audit without using the Figma REST API.

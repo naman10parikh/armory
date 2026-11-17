@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-27T22:19:30Z"
+pushed_at: "2026-11-10T22:14:33Z"
 ---
 ## What it is
 MCP server `LinkedCtl`, catalogued on PulseMCP. OAuth2 CLI and MCP integration for LinkedIn posting, comments, reactions, analytics, and organization management.

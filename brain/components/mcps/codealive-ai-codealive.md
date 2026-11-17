@@ -8,12 +8,12 @@ source_url: https://github.com/codealive-ai/codealive-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 90
+stars: 91
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-09-24T19:03:59Z"
+pushed_at: "2026-11-15T00:51:30Z"
 ---
 ## What it is
 MCP server `CodeAlive`, catalogued on PulseMCP. Provides a bridge to CodeAlive's platform for semantic code search, repository exploration, and context-aware chat completions that leverage deep understanding of entire codebases including documentation and dependencies.

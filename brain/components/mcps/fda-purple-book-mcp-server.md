@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-29T09:14:59Z"
+pushed_at: "2026-11-16T21:34:12Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server exposing the FDA Purple Book — the database of licensed biological products (reference biologics, biosimilars, and interchangeables), with BLA numbers, applicants, approval dates, and exclusivity expiry.

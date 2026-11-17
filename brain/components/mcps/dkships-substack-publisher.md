@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-04T13:19:31Z"
+pushed_at: "2026-11-13T14:43:30Z"
 ---
 ## What it is
 MCP server `Substack Publisher`, catalogued on PulseMCP. Queries Substack post analytics, subscriber counts, and publication data through the official Publisher API.

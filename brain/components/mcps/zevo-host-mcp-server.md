@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-03T03:25:27Z"
+pushed_at: "2026-11-13T10:31:52Z"
 ---
 ## What it is
 Gives AI agents read-only access to ZEVO financial data, enabling queries about vehicles, bookings, transactions, and more through natural language.

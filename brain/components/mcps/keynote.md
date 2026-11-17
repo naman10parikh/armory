@@ -8,11 +8,11 @@ source_url: https://github.com/easychen/keynote-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 81
+stars: 82
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 20
+forks: 21
 pushed_at: "2025-07-06T01:42:49Z"
 ---
 ## What it is

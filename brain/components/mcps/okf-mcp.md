@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-25T23:35:33Z"
+pushed_at: "2026-11-15T15:15:21Z"
 ---
 ## What it is
 A project-agnostic Open Knowledge Format MCP server that indexes Markdown concepts with YAML frontmatter and provides CLI and MCP tools for search, validation, and graph navigation of structured knowledge.

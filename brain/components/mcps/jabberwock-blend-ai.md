@@ -8,7 +8,7 @@ source_url: https://github.com/holdmybeer-gg/blend-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 195
+stars: 199
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

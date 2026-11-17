@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T14:49:05Z"
+pushed_at: "2026-11-15T15:40:13Z"
 ---
 ## What it is
 MCP server for the Oura Ring API v2, enabling natural language queries about sleep, readiness, activity, heart rate, and more.

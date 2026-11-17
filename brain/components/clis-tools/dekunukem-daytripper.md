@@ -8,13 +8,13 @@ source_url: https://github.com/dekuNukem/daytripper
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 4040
+stars: 4041
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 192
+forks: 193
 pushed_at: "2026-01-04T02:06:40Z"
 ---
 ## What it is

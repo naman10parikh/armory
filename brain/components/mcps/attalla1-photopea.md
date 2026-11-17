@@ -8,11 +8,11 @@ source_url: https://github.com/attalla1/photopea-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 51
+stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
+forks: 11
 pushed_at: "2026-11-03T08:23:05Z"
 ---
 ## What it is

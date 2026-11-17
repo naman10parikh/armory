@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-07T20:46:59Z"
+pushed_at: "2026-11-10T22:04:12Z"
 ---
 ## What it is
 Enables access to Kenya capital markets data and guidance, including treasury bonds, NSE equities, unit trusts, and diaspora investment tools.

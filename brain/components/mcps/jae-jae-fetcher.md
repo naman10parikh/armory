@@ -8,7 +8,7 @@ source_url: https://github.com/jae-jae/fetcher-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1088
+stars: 1089
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
-pushed_at: "2026-08-12T16:23:42Z"
+forks: 15
+pushed_at: "2026-11-14T20:48:12Z"
 ---
 ## What it is
 Enables AI to generate fully authored Elgato Stream Deck profiles with buttons, icons, colors, dials, and shell scripts from natural language prompts.

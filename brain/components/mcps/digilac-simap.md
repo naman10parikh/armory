@@ -8,12 +8,12 @@ source_url: https://github.com/digilac/simap-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-11-05T10:50:00Z"
+pushed_at: "2026-11-13T21:12:55Z"
 ---
 ## What it is
 MCP server `SIMAP Swiss Procurement`, catalogued on PulseMCP. Access Swiss public procurement data from SIMAP.ch for tender search and analysis.

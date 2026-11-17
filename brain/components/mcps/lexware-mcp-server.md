@@ -8,13 +8,13 @@ source_url: https://github.com/lazyants/lexware-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-11-07T11:23:04Z"
+pushed_at: "2026-11-16T08:10:57Z"
 ---
 ## What it is
 MCP server for the Lexware Office API that enables management of invoices, contacts, articles, vouchers, and more through the Model Context Protocol.

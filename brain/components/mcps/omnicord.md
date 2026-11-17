@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T15:07:48Z"
+pushed_at: "2026-11-16T04:21:31Z"
 ---
 ## What it is
 Gives your AI assistant full control of a Discord server: 148 tools for chat, moderation, automod, events, and administration, up to building a complete community server from one paragraph. Every destructive action previews first and waits for your confirmation.

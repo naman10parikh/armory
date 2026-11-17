@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-24T09:59:44Z"
+pushed_at: "2026-11-13T14:47:41Z"
 ---
 ## What it is
 MCP server for Yoru Studio that lets AI agents read projects, schedules, and inbox, and safely append inspiration, storyboard shots, and execution records to a creator's self-hosted workspace.

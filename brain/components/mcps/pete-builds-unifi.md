@@ -12,8 +12,8 @@ stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
-pushed_at: "2026-11-09T04:49:33Z"
+forks: 8
+pushed_at: "2026-11-16T23:31:40Z"
 ---
 ## What it is
 MCP server `UniFi Gateway`, catalogued on PulseMCP. MCP server for managing self-hosted UniFi gateways with 41 tools covering VLANs, firewalls, and DHCP.

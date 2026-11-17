@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-09-27T11:59:37Z"
+pushed_at: "2026-11-17T14:52:26Z"
 ---
 ## What it is
 A custom node plugin for ComfyUI that encapsulates workflows as templates, enabling AI assistants (Claude, Cursor) to invoke ComfyUI for multimedia generation via the MCP protocol.

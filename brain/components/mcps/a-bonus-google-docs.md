@@ -8,12 +8,12 @@ source_url: https://github.com/a-bonus/google-docs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 684
+stars: 688
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 229
-pushed_at: "2026-10-26T15:00:31Z"
+forks: 232
+pushed_at: "2026-11-15T22:18:52Z"
 ---
 ## What it is
 MCP server `Google Docs`, catalogued on PulseMCP. Provides a bridge between Google Docs and AI tools for reading document content, appending text, and applying formatting to specific text within documents.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-10-29T20:05:36Z"
+pushed_at: "2026-11-13T11:14:00Z"
 ---
 ## What it is
 MCP server `Wikipedia`, catalogued on PulseMCP. Search Wikipedia, read summaries and full text, target sections, find nearby pages, list languages.

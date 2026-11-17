@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-09T21:31:11Z"
+pushed_at: "2026-11-16T04:24:30Z"
 ---
 ## What it is
 Enables AI agents to control a persistent local browser with live tabs, navigation, interaction, inspection, and state management through MCP.

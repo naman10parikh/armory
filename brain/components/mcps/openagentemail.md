@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
-pushed_at: "2026-10-28T20:33:03Z"
+forks: 12
+pushed_at: "2026-11-16T06:01:04Z"
 ---
 ## What it is
 Self-hosted email for AI agents: unlimited mailboxes on your own domain, with OTP extraction. 7 MCP tools via npx -y @openagentemail/mcp. Apache-2.0.

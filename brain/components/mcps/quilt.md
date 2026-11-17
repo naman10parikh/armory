@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-28T19:59:29Z"
+pushed_at: "2026-11-13T15:49:04Z"
 ---
 ## What it is
 Quilt gives every AI agent line-level authorship in a shared Git checkout, so multiple agents work in one repo, and each commits only its own lines, with symbol-level claims that block collisions before any bytes change.

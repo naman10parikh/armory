@@ -8,12 +8,12 @@ source_url: https://github.com/devopness/devopness
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 577
+stars: 582
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 181
-pushed_at: "2026-11-10T04:15:29Z"
+pushed_at: "2026-11-17T12:13:26Z"
 ---
 ## What it is
 MCP server `Devopness`, catalogued on PulseMCP. Deploy applications and infrastructure to any cloud provider in minutes

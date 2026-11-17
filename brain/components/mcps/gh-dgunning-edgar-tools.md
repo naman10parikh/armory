@@ -8,12 +8,12 @@ source_url: https://github.com/dgunning/edgartools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2847
+stars: 2859
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 526
-pushed_at: "2026-11-09T23:26:41Z"
+forks: 531
+pushed_at: "2026-11-17T16:33:35Z"
 ---
 ## What it is
 MCP server `Edgar Tools`, catalogued on PulseMCP. Open-source SEC EDGAR toolkit with tools for every filing type and no API key required.

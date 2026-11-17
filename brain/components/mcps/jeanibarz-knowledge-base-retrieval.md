@@ -8,12 +8,12 @@ source_url: https://github.com/jeanibarz/knowledge-base-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 54
+stars: 55
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-11-10T10:33:33Z"
+pushed_at: "2026-11-17T01:36:31Z"
 ---
 ## What it is
 MCP server `Knowledge Base Retrieval`, catalogued on PulseMCP. Integrates with knowledge bases to enable efficient content retrieval and vectorization for question answering and information retrieval tasks

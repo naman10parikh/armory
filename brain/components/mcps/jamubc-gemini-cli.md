@@ -8,12 +8,12 @@ source_url: https://github.com/jamubc/gemini-mcp-tool
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2297
+stars: 2301
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 203
-pushed_at: "2026-07-21T23:37:16Z"
+pushed_at: "2026-11-15T03:06:12Z"
 ---
 ## What it is
 MCP server `Gemini CLI`, catalogued on PulseMCP. Integrates with Google's Gemini CLI to leverage massive token windows for analyzing large files and codebases, providing general queries, sandbox-mode code execution for safe testing, and structured response handling with behavioral flags for context control.

@@ -8,12 +8,12 @@ source_url: https://github.com/tacticlaunch/mcp-linear
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 150
+stars: 151
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 39
-pushed_at: "2026-10-12T18:52:05Z"
+forks: 40
+pushed_at: "2026-11-13T18:44:58Z"
 ---
 ## What it is
 MCP server `Linear`, catalogued on PulseMCP. Bridges Linear project management system with natural language interaction, enabling issue tracking, project workflows, and team management without context switching.

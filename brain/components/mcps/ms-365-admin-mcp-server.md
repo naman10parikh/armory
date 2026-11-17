@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-11-09T18:06:29Z"
+pushed_at: "2026-11-16T18:06:12Z"
 ---
 ## What it is
 A Model Context Protocol server for Microsoft 365 administration using Graph API application permissions, enabling security monitoring, identity audits, incident response, and service health management.

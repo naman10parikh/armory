@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-10T12:08:33Z"
+pushed_at: "2026-11-17T06:40:57Z"
 ---
 ## What it is
 MCP server `Agenda Intelligence`, catalogued on PulseMCP. Generate auditable strategic-risk memos covering sanctions, regulatory, geopolitical, and trade intelligence.

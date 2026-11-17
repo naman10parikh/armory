@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-07T19:13:20Z"
+pushed_at: "2026-11-14T19:13:55Z"
 ---
 ## What it is
 Provides Claude with 44 tools for confidence gating, typed outputs, hallucination detection, and constraint enforcement during conversations.

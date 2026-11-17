@@ -8,13 +8,13 @@ source_url: https://github.com/presenton/presenton
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 11838
+stars: 11947
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1773
+forks: 1787
 pushed_at: "2026-11-06T05:46:19Z"
 ---
 ## What it is

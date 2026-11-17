@@ -8,13 +8,13 @@ source_url: https://github.com/iMateo/fastpanel-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-26T13:58:46Z"
+pushed_at: "2026-11-12T00:35:25Z"
 ---
 ## What it is
 Enables natural language management of FastPanel 2 servers, including creating sites, databases, SSL certificates, and hardening nginx configurations.

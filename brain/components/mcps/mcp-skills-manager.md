@@ -8,13 +8,13 @@ source_url: https://github.com/cubicecho/mcp-skills-manager
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-11-09T07:02:52Z"
+forks: 1
+pushed_at: "2026-11-15T19:31:05Z"
 ---
 ## What it is
 A server that serves reusable markdown skills (instructions, playbooks, references) to agents, with a web UI for editing and organizing skills, profiles, and both HTTP and stdio transports.

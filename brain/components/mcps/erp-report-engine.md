@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-27T17:08:18Z"
+pushed_at: "2026-11-12T15:38:11Z"
 ---
 ## What it is
 A provably read-only SQL layer for AI agents (MCP) and weekly reports — over the database behind an ERP (Logo Tiger, Netsis, Mikro). Statement-checking guard, measured against 28 attacks.
