@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-12T04:50:50Z"
+pushed_at: "2026-11-16T02:18:38Z"
 ---
 ## What it is
 Enables MCP clients to query Japanese open data (e-Stat, 国土数値情報, EDINET, 気象庁 etc.) from Queria using SQL.

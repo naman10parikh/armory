@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 20
-pushed_at: "2026-11-10T11:55:02Z"
+pushed_at: "2026-11-19T03:16:42Z"
 ---
 ## What it is
 MCP server `Prompt Manager`, catalogued on PulseMCP. Manages and serves customizable prompt templates with variable substitution and tag-based organization for streamlined LLM interactions in development workflows and code reviews.

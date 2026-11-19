@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-29T15:06:40Z"
+pushed_at: "2026-11-18T08:46:16Z"
 ---
 ## What it is
 MCP server `TronRental`, catalogued on PulseMCP. Buy TRON energy to reduce USDT transfer fees by up to 80%.

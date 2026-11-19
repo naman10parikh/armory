@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T18:54:47Z"
+pushed_at: "2026-11-18T21:44:31Z"
 ---
 ## What it is
 UK mortgage calculators from Fox Davidson, FCA-authorised mortgage brokers: UK stamp duty (SDLT/LBTT/LTT) and FCA MCOB 3A high net worth mortgage qualification.

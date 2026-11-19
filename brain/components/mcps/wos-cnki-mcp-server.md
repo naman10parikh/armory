@@ -8,13 +8,13 @@ source_url: https://github.com/keggin-CHN/WOS_MCP
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T15:23:55Z"
+pushed_at: "2026-11-19T12:01:43Z"
 ---
 ## What it is
 Enables AI agents to search and retrieve academic literature from Web of Science and CNKI, with support for institutional login/SSO. Can be deployed locally on Windows or as a remote Linux server.

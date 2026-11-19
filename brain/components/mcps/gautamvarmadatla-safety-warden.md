@@ -8,12 +8,12 @@ source_url: https://github.com/gautamvarmadatla/mcpsafetywarden
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-11-12T01:21:31Z"
+pushed_at: "2026-11-18T07:53:52Z"
 ---
 ## What it is
 MCP server `Safety Warden`, catalogued on PulseMCP. MCP proxy adding security scanning, behavioral profiling, risk gating, and safe tool call execution.

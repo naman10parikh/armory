@@ -8,7 +8,7 @@ source_url: https://github.com/masony817/ask-human-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 152
+stars: 153
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

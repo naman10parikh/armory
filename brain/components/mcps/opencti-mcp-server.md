@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-12T14:16:38Z"
+pushed_at: "2026-11-19T14:16:32Z"
 ---
 ## What it is
 Enables AI assistants to query and manage OpenCTI threat intelligence data, including indicators, observables, reports, malware, and more, with read-only and optional write operations.

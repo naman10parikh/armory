@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-25T15:15:32Z"
+pushed_at: "2026-11-13T12:46:02Z"
 ---
 ## What it is
 MCP server for Apple App Store Connect API, enabling management of apps, subscriptions, pricing, and more from MCP-compatible clients. Features subscription pricing with Purchasing Power Parity rebalance.

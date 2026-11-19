@@ -13,6 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-11-18T01:23:04Z"
 ---
 ## What it is
 Enables LLMs to securely SSH into remote servers, execute commands, and manage files via SFTP including listing, reading, writing, deleting, and renaming files.

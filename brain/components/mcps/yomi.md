@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-11-12T03:35:21Z"
+pushed_at: "2026-11-19T09:33:36Z"
 ---
 ## What it is
 Enables AI agents to read, reply, send images, and search LINE messages by logging in as a secondary device, without official API or browser.

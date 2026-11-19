@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-09-27T21:22:32Z"
+pushed_at: "2026-11-15T14:52:18Z"
 ---
 ## What it is
 MCP server `Paper Pilot`, catalogued on PulseMCP. Academic research assistant searching 6 databases, downloading PDFs, extracting evidence, and integrating with Zotero.

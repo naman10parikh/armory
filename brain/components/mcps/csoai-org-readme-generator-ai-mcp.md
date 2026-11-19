@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T04:08:16Z"
+pushed_at: "2026-11-16T02:40:54Z"
 ---
 ## What it is
 MCP server `Readme Generator AI`, catalogued on PulseMCP. Python MCP server for README documentation generation and project documentation tools.

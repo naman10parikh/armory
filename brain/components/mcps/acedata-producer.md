@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-01T21:42:50Z"
+pushed_at: "2026-11-15T09:28:23Z"
 ---
 ## What it is
 MCP server `AceDataCloud Producer`, catalogued on PulseMCP. AI music generation through the Producer/Riffusion model on the AceDataCloud platform.

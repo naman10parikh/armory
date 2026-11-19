@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-27T19:00:30Z"
+pushed_at: "2026-11-17T15:29:57Z"
 ---
 ## What it is
 MCP server `WireBoard`, catalogued on PulseMCP. Official WireBoard MCP server for querying real-time and historical website analytics data.

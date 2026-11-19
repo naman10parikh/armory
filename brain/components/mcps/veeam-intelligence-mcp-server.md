@@ -8,12 +8,12 @@ source_url: https://github.com/veeam-ai/veeam-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
+forks: 11
 pushed_at: "2026-11-10T12:29:45Z"
 ---
 ## What it is

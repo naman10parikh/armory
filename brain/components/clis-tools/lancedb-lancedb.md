@@ -8,14 +8,14 @@ source_url: https://github.com/lancedb/lancedb
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 11885
+stars: 11947
 eval_score: 1
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1164
-pushed_at: "2026-11-12T15:15:30Z"
+forks: 1171
+pushed_at: "2026-11-19T06:12:43Z"
 ---
 ## What it is
 Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.

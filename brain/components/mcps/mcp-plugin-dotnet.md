@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-11-12T11:19:40Z"
+pushed_at: "2026-11-19T11:13:19Z"
 ---
 ## What it is
 Open-source .NET library/SDK that turns any .NET application into an MCP server (in-app plugin + SignalR server, stdio/HTTP transport).

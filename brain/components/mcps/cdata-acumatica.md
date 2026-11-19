@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2025-10-18T19:16:17Z"
+pushed_at: "2026-11-17T13:26:59Z"
 ---
 ## What it is
 MCP server `Acumatica (CData)`, catalogued on PulseMCP. Connects to enterprise databases through JDBC drivers, enabling SQL query execution and metadata exploration across various data sources including Acumatica with results returned in CSV format for business intelligence and automated reporting workflows.

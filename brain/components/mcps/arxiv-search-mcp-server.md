@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2025-03-16T23:46:36Z"
+pushed_at: "2026-11-16T15:15:23Z"
 ---
 ## What it is
 Enables searching academic papers on arXiv and retrieving detailed information such as title, authors, summary, and PDF link.

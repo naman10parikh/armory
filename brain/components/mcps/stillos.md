@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-15T20:07:57Z"
+pushed_at: "2026-11-13T14:29:37Z"
 ---
 ## What it is
 MCP server providing calibrated prediction signals for Kalshi CPI/GDP markets and tamper-evident claim notarization with Ed25519 receipts.

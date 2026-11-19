@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-08T10:16:16Z"
+pushed_at: "2026-11-16T12:54:24Z"
 ---
 ## What it is
 Enables Codex to delegate deep research, PRD drafting, design thinking, and current-information lookups to ChatGPT Web/App via a local MCP connector, saving Markdown results to the filesystem.

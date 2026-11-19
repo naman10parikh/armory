@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-01T15:13:50Z"
+pushed_at: "2026-11-16T17:57:02Z"
 ---
 ## What it is
 Enables AI agents like Claude to interact with Prometheux knowledge graphs and reasoning capabilities, allowing users to list and run concepts in their projects through natural conversation.

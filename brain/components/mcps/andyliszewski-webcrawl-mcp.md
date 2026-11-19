@@ -12,7 +12,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
 stars: 16
-forks: 2
+forks: 3
 pushed_at: "2026-09-09T20:39:06Z"
 ---
 ## What it is

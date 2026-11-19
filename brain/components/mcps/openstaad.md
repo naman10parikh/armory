@@ -12,8 +12,8 @@ stars: 58
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
-pushed_at: "2026-10-29T01:26:08Z"
+forks: 16
+pushed_at: "2026-11-14T06:41:29Z"
 ---
 ## What it is
 MCP server `OpenSTAAD`, catalogued on PulseMCP. MCP server for Bentley STAAD.Pro structural analysis software via the OpenSTAAD API.

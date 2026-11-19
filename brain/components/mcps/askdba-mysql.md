@@ -8,12 +8,12 @@ source_url: https://github.com/askdba/mysql-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 45
+stars: 46
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-11-06T15:05:29Z"
+pushed_at: "2026-11-17T23:41:04Z"
 ---
 ## What it is
 MCP server `MySQL`, catalogued on PulseMCP. Read-only MySQL database server with vector search and multi-instance support

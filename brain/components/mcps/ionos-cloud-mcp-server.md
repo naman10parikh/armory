@@ -8,7 +8,7 @@ source_url: https://github.com/ionos-cloud/ionoscloud-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []

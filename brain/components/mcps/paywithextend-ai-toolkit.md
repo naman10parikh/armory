@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-11-11T18:00:07Z"
+pushed_at: "2026-11-14T04:36:26Z"
 ---
 ## What it is
 MCP server `Extend AI Toolkit`, catalogued on PulseMCP. Enabling agentic spend and expense management workflows using Extend's AIs

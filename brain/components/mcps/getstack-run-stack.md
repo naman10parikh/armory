@@ -8,10 +8,12 @@ source_url: https://github.com/getstack-run/stack
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: null
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
+forks: 0
+pushed_at: "2026-11-19T14:46:40Z"
 ---
 ## What it is
 MCP server `STACK`, catalogued on PulseMCP. Runtime control plane for AI agents with scoped credentials, audit logging, and real-time revocation.

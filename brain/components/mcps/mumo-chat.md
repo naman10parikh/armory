@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-09-09T14:43:10Z"
+pushed_at: "2026-11-19T05:30:42Z"
 ---
 ## What it is
 MCP server `Mumo`, catalogued on PulseMCP. Run multi-model AI deliberations using Claude, GPT, Gemini, Grok, and others in parallel.

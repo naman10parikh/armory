@@ -8,12 +8,12 @@ source_url: https://github.com/dequelabs/axe-mcp-server-public
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-11T18:20:24Z"
+pushed_at: "2026-11-17T22:10:15Z"
 ---
 ## What it is
 MCP server `Axe DevTools`, catalogued on PulseMCP. Axe DevTools for Web accessibility testing.

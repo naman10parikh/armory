@@ -8,13 +8,13 @@ source_url: https://github.com/paarths-collab/github-pr-context-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-21T15:28:05Z"
+pushed_at: "2026-11-17T12:22:25Z"
 ---
 ## What it is
 Retrieves historical pull request context from GitHub repositories and provides it to IDE agents for reasoning, review, and code generation without modifying files.

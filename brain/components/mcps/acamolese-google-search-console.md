@@ -8,12 +8,12 @@ source_url: https://github.com/acamolese/google-search-console-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-13T18:57:01Z"
+pushed_at: "2026-11-14T06:43:57Z"
 ---
 ## What it is
 MCP server `Google Search Console`, catalogued on PulseMCP. Read-only access to Google Search Console performance data, URL inspection, and SEO audit reports.

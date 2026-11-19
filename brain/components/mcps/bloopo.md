@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-28T12:24:32Z"
+pushed_at: "2026-11-17T19:12:03Z"
 ---
 ## What it is
 Hosted MCP server that turns a one-line brief into finished, on-brand ad creative, including short video ads, product photos, and voiceover, with A/B variant testing and performance feedback loops.

@@ -8,12 +8,12 @@ source_url: https://github.com/V1xel/mixamo-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-04-05T15:17:52Z"
 ---
 ## What it is

@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
-stars: 24606
-forks: 2121
-pushed_at: "2026-11-12T12:22:30Z"
+stars: 24712
+forks: 2127
+pushed_at: "2026-11-19T10:15:08Z"
 ---
 ## What it is
 Spawn and control multiple Claude Codes in parallel from your phone or desktop. Happy Coder runs Claude Code on your hardware, sends push notifications when Claude needs more input or permission, and costs nothing.

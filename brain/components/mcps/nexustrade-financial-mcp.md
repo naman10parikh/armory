@@ -8,13 +8,13 @@ source_url: https://github.com/austin-starks/nexustrade-ts
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-09T05:46:00Z"
+pushed_at: "2026-11-17T05:47:46Z"
 ---
 ## What it is
 Quantitative research, backtesting, creator-marketplace subscriptions, editable strategy forks, continuous copy trading, and controlled brokerage execution through 125 MCP tools.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-29T22:19:31Z"
+pushed_at: "2026-11-07T14:18:24Z"
 ---
 ## What it is
 MCP server for GameCalendar database, enabling read and optional write access to game release and blog post data via natural language.

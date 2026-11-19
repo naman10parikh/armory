@@ -8,13 +8,13 @@ source_url: https://github.com/devlint/GitWand
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 196
+stars: 199
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
-pushed_at: "2026-11-12T09:04:15Z"
+forks: 12
+pushed_at: "2026-11-19T14:44:02Z"
 ---
 ## What it is
 an MCP server that auto-resolves Git merge conflicts so agents only touch the complex hunks — deterministic pattern engine with confidence scores and a full decision trace, plus merge/rebase preview and hunk-level resolution tools

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-18T07:24:54Z"
+pushed_at: "2026-11-15T16:32:22Z"
 ---
 ## What it is
 MCP server `Science AI Journal`, catalogued on PulseMCP. Academic peer-review, research gap analysis, journal recommendations, and article writing tools.

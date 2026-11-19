@@ -8,12 +8,12 @@ source_url: https://github.com/LBurny/cadpilot
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 26
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 2
 pushed_at: "2026-10-06T18:07:51Z"
 ---
 ## What it is

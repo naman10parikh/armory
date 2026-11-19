@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-03-23T14:18:32Z"
+pushed_at: "2026-11-14T14:21:44Z"
 ---
 ## What it is
 MCP server `TickTick`, catalogued on PulseMCP. Integrates with TickTick task management platform to create, update, delete, and search tasks and projects with priority filtering, due date queries, and timezone-aware scheduling for personal productivity automation.

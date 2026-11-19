@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-11T12:36:03Z"
+pushed_at: "2026-11-15T12:43:07Z"
 ---
 ## What it is
 AI task planner for coding assistants that breaks goals into ordered steps, verifies each step with isolated test runs, learns from failures, and saves successful strategies as reusable recipes.

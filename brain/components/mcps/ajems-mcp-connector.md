@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-01T11:05:29Z"
+pushed_at: "2026-11-18T11:35:32Z"
 ---
 ## What it is
 Enables AI assistants to query and optionally modify AJEMS workspaces, including apps, forms, and records, without requiring user login.

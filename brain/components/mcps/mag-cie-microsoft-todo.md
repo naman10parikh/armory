@@ -8,11 +8,11 @@ source_url: https://github.com/mag-cie/mcp-microsoft-todo
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2026-05-11T20:26:18Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, communication]
 stars: 29
 forks: 8
-pushed_at: "2026-09-19T13:33:37Z"
+pushed_at: "2026-11-15T12:16:10Z"
 ---
 ## What it is
 NAVER WORKS CLI + MCP server. 26 tools for messages, calendar, drive, mail, tasks, and boards. AI agents can manage NAVER WORKS directly.

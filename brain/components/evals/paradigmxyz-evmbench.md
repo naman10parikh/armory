@@ -8,13 +8,13 @@ source_url: https://github.com/paradigmxyz/evmbench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 470
+stars: 472
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, evals]
-forks: 79
+forks: 80
 pushed_at: "2026-10-22T13:27:56Z"
 ---
 ## What it is

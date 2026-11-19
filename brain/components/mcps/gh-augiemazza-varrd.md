@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-08-31T13:32:02Z"
+pushed_at: "2026-11-13T20:57:04Z"
 ---
 ## What it is
 MCP server `VARRD`, catalogued on PulseMCP. AI trading research with event studies, backtesting, and statistical validation across stocks, futures, and crypto.

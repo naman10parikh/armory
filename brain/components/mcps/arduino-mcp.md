@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T16:43:10Z"
+pushed_at: "2026-11-13T15:59:14Z"
 ---
 ## What it is
 A local stdio MCP server wrapping arduino-cli to let agents detect boards, manage cores/libraries, compile and upload sketches, and communicate over serial, enabling hardware control without shell gymnastics.

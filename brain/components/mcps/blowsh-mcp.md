@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-11T09:08:54Z"
+pushed_at: "2026-11-18T17:35:38Z"
 ---
 ## What it is
 Enables AI agents to browse and extract content from JavaScript-rendered web pages via the Model Context Protocol, returning plain text, HTML, or Markdown.

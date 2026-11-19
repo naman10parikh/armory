@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T02:35:18Z"
+pushed_at: "2026-11-16T02:39:54Z"
 ---
 ## What it is
 MCP server `Proofof AI`, catalogued on PulseMCP. Python MCP server for proof-of-work verification and validation tools.

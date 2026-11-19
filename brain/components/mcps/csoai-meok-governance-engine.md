@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T01:04:52Z"
+pushed_at: "2026-11-16T02:16:00Z"
 ---
 ## What it is
 MCP server `MEOK Governance Engine`, catalogued on PulseMCP. Orchestrate 13 AI governance frameworks (EU AI Act, NIST AI RMF, ISO 42001, GDPR, SOC 2) with 62 compliance tools, crosswalk mapping, and signed audit receipts.

@@ -8,13 +8,13 @@ source_url: https://github.com/codependentai/resonant-mind
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 33
+stars: 34
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 16
-pushed_at: "2026-11-10T15:19:11Z"
+pushed_at: "2026-11-16T00:12:23Z"
 ---
 ## What it is
 MCP server providing persistent cognitive infrastructure including semantic memory, emotional processing, identity continuity, and a subconscious daemon for pattern analysis.

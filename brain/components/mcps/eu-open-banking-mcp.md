@@ -8,13 +8,13 @@ source_url: https://github.com/cver-me/EU-Open-Banking-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-09-05T16:07:58Z"
+forks: 2
+pushed_at: "2026-11-17T18:27:00Z"
 ---
 ## What it is
 Enables secure, read-only access to personal European bank accounts through Enable Banking and Cloudflare Workers, allowing MCP clients to list accounts, retrieve balances, search transactions, and summarize cash flow.

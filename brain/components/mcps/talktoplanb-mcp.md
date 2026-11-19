@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T21:42:06Z"
+pushed_at: "2026-11-13T09:21:07Z"
 ---
 ## What it is
 Lets AI assistants list chat rooms, read messages, and send messages on TalkToPlanB, a self-hosted WhatsApp-alternative messenger.

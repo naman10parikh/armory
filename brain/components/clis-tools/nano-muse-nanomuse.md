@@ -8,14 +8,14 @@ source_url: https://github.com/nano-muse/nanoMuse
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3435
+stars: 3602
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 413
-pushed_at: "2026-11-12T01:39:27Z"
+forks: 430
+pushed_at: "2026-11-19T03:23:35Z"
 ---
 ## What it is
 nanoMuse: an open-source personal agent for every device you own. One agent with a name and a look of its own that does things, keeps working while the app is closed, remembers you, and asks before anything you cannot undo. On Android, iPhone and iPad, Windows / macOS / Linux and in the browser; your phone's screen and your computer as its hands.

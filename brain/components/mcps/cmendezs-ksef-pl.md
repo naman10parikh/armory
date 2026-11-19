@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-12T09:16:49Z"
+pushed_at: "2026-11-16T23:02:29Z"
 ---
 ## What it is
 MCP server `KSeF Poland`, catalogued on PulseMCP. Polish e-invoicing MCP server supporting KSeF API v2, FA(3)/FA(2) XML, Peppol BIS 3.0, and NIP/REGON validation.

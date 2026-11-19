@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 65
-pushed_at: "2026-11-06T21:34:48Z"
+pushed_at: "2026-11-18T07:38:24Z"
 ---
 ## What it is
 MCP server `Gearsystem`, catalogued on PulseMCP. Cross-platform Sega Master System, Game Gear, and SG-1000 emulator with embedded MCP server for AI-assisted debugging and hardware inspection.

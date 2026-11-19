@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [database, devops, mcp]
 forks: 29
-pushed_at: "2026-11-09T08:50:53Z"
+pushed_at: "2026-11-19T08:42:05Z"
 ---
 
 ## What it is

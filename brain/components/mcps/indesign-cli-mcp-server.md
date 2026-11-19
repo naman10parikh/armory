@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
-pushed_at: "2026-09-25T08:16:00Z"
+forks: 9
+pushed_at: "2026-11-19T14:17:40Z"
 ---
 ## What it is
 Enables AI agents to directly control Adobe InDesign through CLI commands, providing 148 discoverable capabilities for document creation, editing, and export automation.

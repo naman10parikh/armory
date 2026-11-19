@@ -8,11 +8,11 @@ source_url: https://github.com/carlosazaustre/advocu-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
+forks: 14
 pushed_at: "2026-01-20T18:58:42Z"
 ---
 ## What it is

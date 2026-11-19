@@ -8,7 +8,7 @@ source_url: https://github.com/nwiizo/tfmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 371
+stars: 373
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

@@ -8,12 +8,12 @@ source_url: https://github.com/veithly/vibeshell
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 93
+stars: 95
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 15
-pushed_at: "2026-11-10T03:04:40Z"
+forks: 16
+pushed_at: "2026-11-18T13:06:30Z"
 ---
 ## What it is
 MCP server `VibeShell`, catalogued on PulseMCP. SSH client with built-in MCP server for remote server management, terminal sessions, and SFTP file operations.

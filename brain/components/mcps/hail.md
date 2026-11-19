@@ -8,13 +8,13 @@ source_url: https://github.com/hail-hq/hail
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 32
+stars: 34
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
-pushed_at: "2026-11-12T15:00:44Z"
+forks: 11
+pushed_at: "2026-11-19T16:17:44Z"
 ---
 ## What it is
 Phone, SMS & email for AI agents. One remote MCP server (Streamable HTTP, OAuth or API-key auth, no local install) exposing call, sms, email, and event tools; also usable via CLI, Python SDK, and OpenAPI. Self-hostable, AGPLv3.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-02-12T18:30:56Z"
+pushed_at: "2026-11-14T19:11:47Z"
 ---
 ## What it is
 MCP server `QuantaRoute Geocoder`, catalogued on PulseMCP. Geocode addresses, look up administrative boundaries, and process DigiPin codes for India.

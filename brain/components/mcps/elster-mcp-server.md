@@ -8,12 +8,12 @@ source_url: https://github.com/lukasschwarz/elster-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 33
+stars: 34
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-07-13T10:41:22Z"
 ---
 ## What it is

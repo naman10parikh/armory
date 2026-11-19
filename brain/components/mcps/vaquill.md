@@ -8,12 +8,12 @@ source_url: https://github.com/vaquill-ai/vaquill-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 10
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-11T20:39:34Z"
+pushed_at: "2026-11-13T18:03:22Z"
 ---
 ## What it is
 MCP server `Vaquill`, catalogued on PulseMCP. Legal research over 8M+ US court opinions, 31M+ Indian judgments, and US statutes via Vaquill's API.

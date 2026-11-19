@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-12T09:20:10Z"
+pushed_at: "2026-11-12T21:48:18Z"
 ---
 ## What it is
 An MCP server that enables AI agents to manage STAR-pattern architecture diagrams, creating, updating, listing, and building interactive viewers via tool calls.

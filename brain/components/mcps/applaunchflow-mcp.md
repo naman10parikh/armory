@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-03T07:45:45Z"
+pushed_at: "2026-11-18T10:13:41Z"
 ---
 ## What it is
 MCP server for AppLaunchFlow to create App Store and Google Play screenshots with AI.

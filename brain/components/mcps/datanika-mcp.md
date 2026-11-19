@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-12T15:35:54Z"
+pushed_at: "2026-11-18T18:56:50Z"
 ---
 ## What it is
 Read-only-by-default MCP server for Datanika, an open-source dlt + dbt-core data pipeline platform: browse connections, introspect and preview source tables, compile and run dbt transformations, and monitor pipeline runs. 25 tools (17 read-only, plus 8 write tools gated behind --allow-write); source

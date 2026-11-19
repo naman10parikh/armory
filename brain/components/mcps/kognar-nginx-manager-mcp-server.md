@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T13:09:40Z"
+pushed_at: "2026-11-13T13:07:36Z"
 ---
 ## What it is
 MCP server that abstracts the Nginx Proxy Manager API, enabling management of proxy hosts, redirections, streams, certificates, access lists, and users through natural language.

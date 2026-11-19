@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 26
-pushed_at: "2026-11-11T04:40:36Z"
+pushed_at: "2026-11-18T15:11:10Z"
 ---
 ## What it is
 Read-only Polymarket data tools for AI agents: wallet profiles, fee-inclusive PnL cross-checks, Brier-score calibration, leaderboards, market scans and more (10 tools). No API keys, no order placement — data only. English + Chinese docs.

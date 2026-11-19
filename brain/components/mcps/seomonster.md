@@ -8,13 +8,13 @@ source_url: https://github.com/avansaber/seo-monster
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 493
+stars: 483
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 67
-pushed_at: "2026-11-06T23:00:29Z"
+pushed_at: "2026-11-18T05:34:58Z"
 ---
 ## What it is
 SEO MCP over Search Console, GA4, PageSpeed, Cloudflare, IndexNow, CrUX, and 7 technical-SEO HTTP tools.

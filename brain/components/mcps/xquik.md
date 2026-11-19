@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 24
-pushed_at: "2026-11-12T15:14:55Z"
+pushed_at: "2026-11-18T00:27:09Z"
 ---
 ## What it is
 MCP server `XQuik`, catalogued on PulseMCP. Provides real-time X (Twitter) data including tweet search, user lookup, media extraction, and monitoring capabilities.

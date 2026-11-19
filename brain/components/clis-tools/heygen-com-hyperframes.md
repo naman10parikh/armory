@@ -8,14 +8,14 @@ source_url: https://github.com/heygen-com/hyperframes
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 83280
+stars: 86894
 eval_score: 1
 mentions: 3
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 7688
-pushed_at: "2026-11-12T15:52:18Z"
+forks: 8077
+pushed_at: "2026-11-19T16:20:33Z"
 ---
 ## What it is
 Write HTML. Render video. Built for agents.

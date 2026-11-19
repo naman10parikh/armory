@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-19T20:00:02Z"
+pushed_at: "2026-11-17T21:58:48Z"
 ---
 ## What it is
 MCP server `AdButler`, catalogued on PulseMCP. Manage the full AdButler ad platform including advertisers, campaigns, zones, creatives, reporting, and programmatic ads via 600+ tools through the official hosted MCP server.

@@ -8,11 +8,11 @@ source_url: https://github.com/levnikolaevich/claude-code-skills
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 593
+stars: 598
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 89
+forks: 90
 pushed_at: "2026-11-11T07:54:52Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-11-05T04:08:01Z"
+pushed_at: "2026-11-19T13:55:28Z"
 ---
 ## What it is
 Enables searching, filtering, and applying to IT jobs via MCP tools using a personal API key, mirroring the freehire CLI.

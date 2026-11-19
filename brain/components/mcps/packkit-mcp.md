@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-09T20:19:08Z"
+pushed_at: "2026-11-16T19:56:54Z"
 ---
 ## What it is
 Lets AI agents scaffold modern npm packages, CLIs, HTTP services, and apps as a native tool. Three tools: inspect the full option/preset schema, preview the generated file tree for a config, and write the project to disk.

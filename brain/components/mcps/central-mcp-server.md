@@ -8,13 +8,13 @@ source_url: https://github.com/KarthikSKumar98/central-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-09-07T23:20:57Z"
+pushed_at: "2026-11-18T21:26:43Z"
 ---
 ## What it is
 Enables AI assistants to query HPE Aruba Networking Central data (sites, devices, clients, alerts, events) through natural language.

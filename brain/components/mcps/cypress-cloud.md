@@ -8,12 +8,12 @@ source_url: https://github.com/cypress-io/ai-toolkit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 48
+stars: 49
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-11-06T19:05:41Z"
+pushed_at: "2026-11-18T17:08:49Z"
 ---
 ## What it is
 MCP server `Cypress Cloud`, catalogued on PulseMCP. Access Cypress test results and accessibility reports directly in your AI workflow.

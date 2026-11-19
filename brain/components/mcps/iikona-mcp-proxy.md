@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-03T15:33:25Z"
+pushed_at: "2026-11-19T07:25:04Z"
 ---
 ## What it is
 Acts as a stdio-to-HTTP proxy for the 1C runtime-MCP service, enabling MCP clients like Claude Desktop to interact with 1C tools.

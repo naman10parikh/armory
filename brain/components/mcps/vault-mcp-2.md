@@ -8,13 +8,13 @@ source_url: https://github.com/wakita181009/vault-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-11-08T21:44:56Z"
+forks: 3
+pushed_at: "2026-11-16T03:12:38Z"
 ---
 ## What it is
 Authenticated remote MCP server that exposes a private GitHub-hosted Obsidian vault to Claude, enabling list, read, write, and search operations on notes.

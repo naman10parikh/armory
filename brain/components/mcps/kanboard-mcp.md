@@ -8,13 +8,13 @@ source_url: https://github.com/johlan456/kanboard-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T09:40:05Z"
+pushed_at: "2026-11-18T15:13:39Z"
 ---
 ## What it is
 Multi-tenant MCP server for self-hosted Kanboard that enables team members to manage Kanboard projects, tasks, and boards with per-user authentication and permissions.

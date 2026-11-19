@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-13T17:02:35Z"
+pushed_at: "2026-11-16T17:24:07Z"
 ---
 ## What it is
 Enables AI agents and their users to retrieve scored news sentiment, narratives, historical readings, and cited sources for Bitcoin, gold, and oil, with tamper-evident, time-stamped data for trading decisions.

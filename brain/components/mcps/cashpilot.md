@@ -8,12 +8,12 @@ source_url: https://github.com/geiserx/cashpilot-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-12T11:13:32Z"
+pushed_at: "2026-11-18T10:31:42Z"
 ---
 ## What it is
 MCP server `CashPilot`, catalogued on PulseMCP. Self-hosted passive income fleet management with earnings monitoring, service deployment, and Docker worker control.

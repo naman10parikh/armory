@@ -8,7 +8,7 @@ source_url: https://github.com/LaplaceYoung/ansys-aedt-mcp
 license: PolyForm Noncommercial License 1.0.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 61
+stars: 64
 eval_score: null
 verified_at: 2026-05-27
 related: []

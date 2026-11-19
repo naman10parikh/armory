@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-08T01:14:15Z"
+pushed_at: "2026-11-16T02:33:51Z"
 ---
 ## What it is
 EU MiCA compliance MCP for crypto-asset issuers, exchanges, and CASPs.

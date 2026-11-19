@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-15T04:54:00Z"
+pushed_at: "2026-11-19T07:26:38Z"
 ---
 ## What it is
 A physics engine for liquid-cooled GPU systems, exposed as an AI-callable MCP server. Enables thermal analysis, coolant comparison, flow optimization, and rack-level sizing via natural language queries.

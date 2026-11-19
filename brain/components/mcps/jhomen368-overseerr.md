@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-11-09T13:54:33Z"
+pushed_at: "2026-11-16T13:54:45Z"
 ---
 ## What it is
 MCP server `Overseerr`, catalogued on PulseMCP. Integrates with Overseerr media management instances to enable automated media search, request submission with quality profiles, and request approval workflows for Plex and Jellyfin environments.

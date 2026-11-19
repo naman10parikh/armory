@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-09T20:00:06Z"
+pushed_at: "2026-11-16T19:44:32Z"
 ---
 ## What it is
 Query food inspection grades and violations for Charlotte/Mecklenburg County, NC, with tools for searching establishments, getting details, finding nearby, and score distributions.

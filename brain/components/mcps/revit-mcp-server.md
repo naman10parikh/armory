@@ -8,13 +8,13 @@ source_url: https://github.com/Demolinator/revit-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 43
+stars: 47
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 19
-pushed_at: "2026-11-04T08:18:48Z"
+forks: 22
+pushed_at: "2026-11-16T05:09:22Z"
 ---
 ## What it is
 MCP server for Autodesk Revit via pyRevit, providing 45 tools for building design, editing, analysis, MEP, interop, and documentation. Works with any MCP client.

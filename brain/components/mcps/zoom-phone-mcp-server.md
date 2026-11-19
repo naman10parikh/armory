@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-08-10T16:38:29Z"
+pushed_at: "2026-11-13T05:19:46Z"
 ---
 ## What it is
 A standalone MCP server for managing Zoom Phone telephony, providing 117 tools for auto receptionists, call queues, voicemail, devices, SMS, and more via the Zoom Phone REST API.

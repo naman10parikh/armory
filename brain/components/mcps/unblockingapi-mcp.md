@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-06T09:25:23Z"
+pushed_at: "2026-11-14T09:38:46Z"
 ---
 ## What it is
 Enables AI agents to fetch bot-protected web pages, run structured Google searches, and check domain authority through UnblockingAPI's anti-detection engine and residential proxies.

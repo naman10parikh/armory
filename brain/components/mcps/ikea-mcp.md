@@ -8,13 +8,13 @@ source_url: https://github.com/taejin5314/ikea-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-11T18:44:44Z"
+pushed_at: "2026-11-15T00:42:25Z"
 ---
 ## What it is
 Read-only MCP server for IKEA product search and in-store stock lookup.

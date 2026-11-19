@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-14T13:20:15Z"
+pushed_at: "2026-11-18T13:19:03Z"
 ---
 ## What it is
 Query Microsoft Patch Tuesday security updates from the official MSRC API — monthly rollups, CVE/KB lookups, supersedence chains, and urgency-ranked triage enriched with EPSS scores and the CISA KEV catalog. No API keys required.

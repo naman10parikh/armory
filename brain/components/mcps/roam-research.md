@@ -8,12 +8,12 @@ source_url: https://github.com/2b3pro/roam-research-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 100
+stars: 101
 verified_at: 2026-05-26
 related: []
 tags: [knowledge, mcp, search]
-forks: 18
-pushed_at: "2026-11-11T18:11:22Z"
+forks: 17
+pushed_at: "2026-11-16T17:08:11Z"
 ---
 
 ## What it is

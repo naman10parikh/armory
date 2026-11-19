@@ -13,7 +13,7 @@ related: []
 tags: [mcp, search-data-extraction]
 stars: 5
 forks: 1
-pushed_at: "2026-09-23T08:07:24Z"
+pushed_at: "2026-11-15T23:40:47Z"
 ---
 ## What it is
 Crawl websites into clean Markdown, search pages, and extract structured data with LLMs. Built-in MCP server for web research and RAG pipelines.

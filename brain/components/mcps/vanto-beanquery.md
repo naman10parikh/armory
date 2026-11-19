@@ -8,7 +8,7 @@ source_url: https://github.com/vanto/beanquery-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 52
+stars: 53
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

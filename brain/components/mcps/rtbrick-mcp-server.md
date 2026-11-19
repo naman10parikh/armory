@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-02-28T08:11:22Z"
+pushed_at: "2026-11-19T07:48:03Z"
 ---
 ## What it is
 Gives AI assistants direct access to RTBrick's website, technical documentation, and YouTube training videos with no API key required.

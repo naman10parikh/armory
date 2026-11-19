@@ -8,12 +8,12 @@ source_url: https://github.com/cruxible-ai/cruxible-core
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-11-11T04:05:13Z"
+pushed_at: "2026-11-19T05:33:52Z"
 ---
 ## What it is
 MCP server `Cruxible Core`, catalogued on PulseMCP. Deterministic decision engine with DAG-based receipts and auditable entity graphs.

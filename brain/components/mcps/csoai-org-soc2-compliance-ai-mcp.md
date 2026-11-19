@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T04:22:08Z"
+pushed_at: "2026-11-16T02:44:35Z"
 ---
 ## What it is
 MCP server `SOC2 Compliance AI`, catalogued on PulseMCP. Python MCP server for SOC2 compliance automation and auditing.

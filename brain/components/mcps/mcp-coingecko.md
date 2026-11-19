@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-09T13:42:32Z"
+pushed_at: "2026-11-16T20:19:47Z"
 ---
 ## What it is
 Wraps the CoinGecko free API to provide cryptocurrency data via MCP tools, with natural language querying support through Pipeworx gateway.

@@ -8,12 +8,12 @@ source_url: https://github.com/librejustice/librejustice
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 34
+stars: 37
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-11-07T13:48:30Z"
 ---
 ## What it is

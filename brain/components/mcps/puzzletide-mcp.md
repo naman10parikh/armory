@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-17T03:41:18Z"
+pushed_at: "2026-11-14T13:41:01Z"
 ---
 ## What it is
 MCP server for puzzle generation: word search generator, crossword generator, and sudoku generator + solver, with printable PDF worksheets, themed word banks, and verifiable LLM evals. Works with Claude Desktop, Cursor, Windsurf, and any Model Context Protocol client. From the makers of puzzletide.c

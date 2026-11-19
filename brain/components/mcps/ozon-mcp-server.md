@@ -8,13 +8,13 @@ source_url: https://github.com/eduard256/ozon-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 88
+stars: 93
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
-pushed_at: "2026-11-09T09:59:38Z"
+forks: 15
+pushed_at: "2026-11-14T13:41:28Z"
 ---
 ## What it is
 MCP server for Ozon marketplace that enables AI assistants to search products, get detailed information, prices, and delivery info from Ozon.ru.

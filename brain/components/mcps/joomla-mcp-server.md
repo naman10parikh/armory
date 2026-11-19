@@ -8,13 +8,13 @@ source_url: https://github.com/OnepointConsultingLtd/joomla-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 35
+stars: 36
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-11-04T21:20:05Z"
+forks: 4
+pushed_at: "2026-11-15T22:26:46Z"
 ---
 ## What it is
 A Joomla component that turns your Joomla instance into an MCP server so you can fully manage your website with a simple prompt.

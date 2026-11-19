@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-12T15:23:24Z"
+pushed_at: "2026-11-15T13:33:06Z"
 ---
 ## What it is
 Query verified parcel ArcGIS REST endpoints for 150+ US counties across all 50 states — search by owner name, APN, or address. No API key; built on public county GIS data.

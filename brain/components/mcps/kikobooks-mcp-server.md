@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-09T14:51:48Z"
+pushed_at: "2026-11-14T16:37:46Z"
 ---
 ## What it is
 A Model Context Protocol server for KikoBooks enterprise bookkeeping software that enables AI assistants to perform accounting operations on accounts, customers, invoices, bills, and more through natural language.

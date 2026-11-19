@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, communication-services]
-forks: 45
-pushed_at: "2026-11-04T07:51:02Z"
+forks: 46
+pushed_at: "2026-11-19T15:54:25Z"
 ---
 ## What it is
 Chat application with multi-agents system supporting multiple models and MCP

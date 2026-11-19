@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-08T03:22:13Z"
+pushed_at: "2026-11-15T07:56:56Z"
 ---
 ## What it is
 Enables querying and exploring the City of Worcester's open data portal (ArcGIS Hub) through natural language, including dataset search, type filtering, schema inspection, spatial point-in-polygon queries, and geocoding.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-05T07:21:20Z"
+pushed_at: "2026-11-15T07:59:19Z"
 ---
 ## What it is
 Enables remote control of Siglent SPD3303X DC power supplies via SCPI over TCP/IP, supporting output control, measurement, timers, and network configuration.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-12T00:10:51Z"
+pushed_at: "2026-11-19T00:11:26Z"
 ---
 ## What it is
 MCP server for the Steuerboard API, enabling interaction with Steuerboard services through natural language.

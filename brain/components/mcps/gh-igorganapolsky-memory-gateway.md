@@ -8,12 +8,12 @@ source_url: https://github.com/IgorGanapolsky/rlhf-feedback-loop
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 30
+stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-11-12T15:55:19Z"
+pushed_at: "2026-11-19T00:56:21Z"
 ---
 ## What it is
 MCP server `Memory Gateway`, catalogued on PulseMCP. Local-first context engineering layer for AI agents with feedback capture and failure pattern blocking.

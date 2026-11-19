@@ -14,8 +14,8 @@ mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 52
-pushed_at: "2026-03-30T05:39:29Z"
+forks: 53
+pushed_at: "2026-11-16T01:37:05Z"
 ---
 ## What it is
 [ICLR 2026]QeRL enables RL for 32B LLMs on a single H100 GPU.

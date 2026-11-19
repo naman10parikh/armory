@@ -12,8 +12,8 @@ stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 10
-pushed_at: "2026-11-04T05:56:01Z"
+forks: 9
+pushed_at: "2026-11-16T10:19:47Z"
 ---
 ## What it is
 MCP server `Toolkit (System Utilities)`, catalogued on PulseMCP. Provides system utilities and tools for network diagnostics, monitoring, cryptography, and QR code generation.

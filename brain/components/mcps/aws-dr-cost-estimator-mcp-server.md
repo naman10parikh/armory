@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T16:53:55Z"
+pushed_at: "2026-11-15T04:37:57Z"
 ---
 ## What it is
 Plan AWS disaster recovery budgets conversationally, comparing backup/restore, pilot light, warm standby, and active/active strategies using live Cost Explorer data.

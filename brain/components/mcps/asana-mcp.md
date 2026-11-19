@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-27T02:27:56Z"
+pushed_at: "2026-11-16T22:36:38Z"
 ---
 ## What it is
 MCP server for the Asana API that allows AI agents to read and optionally write to Asana tasks, comments, and custom fields, with tiered access controls and no delete tools.

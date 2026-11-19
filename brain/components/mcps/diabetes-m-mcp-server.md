@@ -8,13 +8,13 @@ source_url: https://github.com/sedoglia/diabetes-m-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-11T12:48:24Z"
+pushed_at: "2026-11-18T18:48:08Z"
 ---
 ## What it is
 Integrates Diabetes:M data with Claude Desktop to access glucose readings, insulin data, food diary, and health metrics through natural language conversations.

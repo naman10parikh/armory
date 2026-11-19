@@ -8,11 +8,11 @@ source_url: https://github.com/jiaboli-github/renderdoc-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 383
+stars: 384
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 59
+forks: 62
 pushed_at: "2026-06-09T09:06:12Z"
 ---
 ## What it is

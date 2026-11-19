@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T16:56:49Z"
+pushed_at: "2026-11-12T18:33:36Z"
 ---
 ## What it is
 MCP server that gives AI assistants direct access to RaceHooks motorsport analytics and data, enabling management of webhooks, live sessions, simulations, and account usage.

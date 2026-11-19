@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, marketing]
-stars: 18
+stars: 20
 forks: 9
-pushed_at: "2026-11-10T20:57:00Z"
+pushed_at: "2026-11-17T17:18:13Z"
 ---
 ## What it is
 This project implements an MCP (Model Context Protocol) server for the Stape platform. It allows interaction with the Stape API using AI assistants like Claude or AI-powered IDEs like Cursor.

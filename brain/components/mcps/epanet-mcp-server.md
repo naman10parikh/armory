@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-02T11:51:50Z"
+pushed_at: "2026-11-18T11:21:15Z"
 ---
 ## What it is
 Enables LLMs to load, simulate, modify, and generate what-if scenarios for EPANET water-distribution network models through natural language, leveraging the ePyT Python Toolkit.

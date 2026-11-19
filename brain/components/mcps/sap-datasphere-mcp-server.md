@@ -8,12 +8,12 @@ source_url: https://github.com/MarioDeFelipe/sap-datasphere-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 49
+stars: 50
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 16
+forks: 17
 pushed_at: "2026-11-09T04:31:37Z"
 ---
 ## What it is

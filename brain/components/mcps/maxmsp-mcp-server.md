@@ -8,12 +8,12 @@ source_url: https://github.com/tiianhk/MaxMSP-MCP-Server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 286
+stars: 288
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 32
+forks: 33
 pushed_at: "2026-05-12T21:51:54Z"
 ---
 ## What it is

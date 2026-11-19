@@ -8,13 +8,13 @@ source_url: https://github.com/reason-machines/reason-network
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1733
+stars: 1788
 eval_score: null
 mentions: 1
 verified_at: 2026-10-25
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 154
+forks: 158
 pushed_at: "2026-11-12T10:13:53Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-11-01T23:25:52Z"
+pushed_at: "2026-11-13T01:04:29Z"
 ---
 ## What it is
 Local MCP server for BLACK SOULS / RPG Maker VX Ace that reads game state and executes keyboard actions via MCP tools.

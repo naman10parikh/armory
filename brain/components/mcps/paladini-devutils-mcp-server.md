@@ -13,7 +13,7 @@ related: []
 tags: [mcp, developer-tools]
 stars: 5
 forks: 1
-pushed_at: "2026-07-24T02:18:50Z"
+pushed_at: "2026-11-14T14:48:48Z"
 ---
 ## What it is
 36 zero-auth developer utilities: MD5/SHA/bcrypt hashing, Base64/hex/URL encoding, UUID/password/passphrase generation, JWT decoding, JSON/YAML/XML formatting, timestamp conversion, CIDR calculator, and text tools.

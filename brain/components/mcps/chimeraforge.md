@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-11-07T04:41:02Z"
+forks: 2
+pushed_at: "2026-11-15T01:55:42Z"
 ---
 ## What it is
 LLM deployment planner: given a model and a GPU, answers will it fit, will it hit your SLO, and what will it cost. Sizes VRAM and KV-cache from the model's real architecture, and labels every number measured, estimated, or unknown.

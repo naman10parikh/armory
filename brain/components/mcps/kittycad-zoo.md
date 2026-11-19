@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-10T15:43:23Z"
+pushed_at: "2026-11-19T00:40:45Z"
 ---
 ## What it is
 MCP server `Zoo`, catalogued on PulseMCP. Provides access to Zoo's API for AI-powered CAD operations and text-to-CAD generation

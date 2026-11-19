@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-11-11T02:09:39Z"
+pushed_at: "2026-11-17T03:07:05Z"
 ---
 ## What it is
 MCP server `Kubernetes Claude`, catalogued on PulseMCP. Integrates Claude with Kubernetes, ArgoCD, and GitLab to analyze and troubleshoot GitOps workflows by collecting resource information, correlating cross-system data, and providing actionable recommendations through a RESTful API.

@@ -8,13 +8,13 @@ source_url: https://github.com/Mirix-AI/MIRIX
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3464
+stars: 3504
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 273
+forks: 276
 pushed_at: "2026-11-11T10:11:41Z"
 ---
 ## What it is

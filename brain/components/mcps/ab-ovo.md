@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-08-01T20:11:15Z"
+pushed_at: "2026-11-12T20:25:48Z"
 ---
 ## What it is
 MCP server `Ab Ovo`, catalogued on PulseMCP. Publishes content to permanent public web pages by sending emails via SMTP.

@@ -8,14 +8,14 @@ source_url: https://github.com/KRLabsOrg/LettuceDetect
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 624
+stars: 626
 eval_score: 1
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 65
-pushed_at: "2026-11-10T10:29:23Z"
+pushed_at: "2026-11-19T11:47:30Z"
 ---
 ## What it is
 Span-level grounding verification for RAG, code, and tool-grounded AI outputs.

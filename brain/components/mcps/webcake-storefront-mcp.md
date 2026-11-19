@@ -8,13 +8,13 @@ source_url: https://github.com/vuluu2k/webcake-storefront-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-05T04:43:18Z"
+pushed_at: "2026-11-19T11:06:26Z"
 ---
 ## What it is
 Enables AI assistants to build, validate, and publish storefront pages to WebCake/StoreCake sites based on natural language descriptions.

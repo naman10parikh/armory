@@ -8,13 +8,13 @@ source_url: https://github.com/alebgl77/ftp-deploy-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-01T23:00:40Z"
+pushed_at: "2026-11-13T09:20:20Z"
 ---
 ## What it is
 An MCP server that enables AI coding agents to deploy files to FTP/FTPS/SFTP servers, with path jail, read-only mode, and dry-run capabilities.

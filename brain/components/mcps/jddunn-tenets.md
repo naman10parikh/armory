@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-11-11T15:42:01Z"
+pushed_at: "2026-11-18T00:19:04Z"
 ---
 ## What it is
 MCP server `Tenets`, catalogued on PulseMCP. Local-first code context aggregation using BM25, TF-IDF, and embeddings with automatic injection of project principles

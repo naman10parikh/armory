@@ -12,8 +12,8 @@ stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 14
-pushed_at: "2026-09-01T13:31:13Z"
+forks: 15
+pushed_at: "2026-11-19T09:56:42Z"
 ---
 ## What it is
 MCP server `Fatture in Cloud`, catalogued on PulseMCP. Integrates with Fatture in Cloud to manage Italian electronic invoicing workflows including invoice creation, client data management, payment tracking, and automated compliance with Italy's SDI tax system.

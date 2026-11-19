@@ -8,13 +8,13 @@ source_url: https://github.com/martinimarcello00/k8s-observability-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-11T14:55:53Z"
+pushed_at: "2026-11-18T17:01:20Z"
 ---
 ## What it is
 Enables exploration of Kubernetes metrics, logs, traces, and service graph data via simple tools.

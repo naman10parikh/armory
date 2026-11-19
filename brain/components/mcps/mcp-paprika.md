@@ -8,13 +8,13 @@ source_url: https://github.com/bojanrajkovic/mcp-paprika
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-11-10T13:28:01Z"
+forks: 4
+pushed_at: "2026-11-19T12:06:14Z"
 ---
 ## What it is
 MCP server for Paprika recipe manager enabling search, CRUD operations, grocery lists, meal planning, and menus via natural language, with semantic search and background sync.

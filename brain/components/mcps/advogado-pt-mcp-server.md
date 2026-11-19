@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-30T15:25:56Z"
+pushed_at: "2026-11-12T18:29:09Z"
 ---
 ## What it is
 Enables AI assistants to provide Portuguese legal advice by exposing legal calculators, templates, and reference documents through the MCP protocol.

@@ -8,12 +8,12 @@ source_url: https://github.com/kirbah/mcp-youtube
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 33
+stars: 34
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
-pushed_at: "2026-11-01T11:50:24Z"
+forks: 18
+pushed_at: "2026-11-13T11:58:52Z"
 ---
 ## What it is
 MCP server `YouTube Data API`, catalogued on PulseMCP. Integrates with YouTube Data API v3 to provide video search, channel statistics, trending content analysis, transcript extraction, and niche analysis for discovering high-performance channels within specific topics and timeframes.

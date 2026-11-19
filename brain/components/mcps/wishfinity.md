@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-11-12T15:31:19Z"
+pushed_at: "2026-11-15T18:48:01Z"
 ---
 ## What it is
 MCP server `Wishfinity`, catalogued on PulseMCP. Save any product URL to your Wishfinity wishlist

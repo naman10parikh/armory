@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-11T10:53:36Z"
+pushed_at: "2026-11-17T09:02:37Z"
 ---
 ## What it is
 MCP server that fetches and converts website pages into clean markdown for agents, with sitemap-based discovery, disk caching, and polite crawling (robots.txt, rate limiting).

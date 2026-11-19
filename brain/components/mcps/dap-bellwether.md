@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-07T06:30:26Z"
+pushed_at: "2026-11-15T07:43:03Z"
 ---
 ## What it is
 MCP server that aggregates and serves regulatory changes from Canadian, US, UK, and EU financial regulators via read-only tools for search, recent changes, and coverage monitoring.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-11-12T14:50:03Z"
+pushed_at: "2026-11-19T08:31:37Z"
 ---
 ## What it is
 MCP server `ONLYOFFICE DocSpace`, catalogued on PulseMCP. Manage documents, rooms, and users in ONLYOFFICE collaborative workspace

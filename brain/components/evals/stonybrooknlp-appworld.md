@@ -8,14 +8,14 @@ source_url: https://github.com/StonyBrookNLP/appworld
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 554
+stars: 558
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 93
-pushed_at: "2026-09-04T05:47:04Z"
+forks: 94
+pushed_at: "2026-11-15T19:05:43Z"
 ---
 ## What it is
 🌍 AppWorld: A Controllable World of Apps and People for Benchmarking Function Calling and Interactive Coding Agent, ACL'24 Best Resource Paper.

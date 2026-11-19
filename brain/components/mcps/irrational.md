@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-23T14:08:22Z"
+forks: 1
+pushed_at: "2026-11-18T07:17:13Z"
 ---
 ## What it is
 Audits decisions for cognitive biases through an adversarial framework, exposing tools like analyze_decision, list_biases, and get_bias via MCP.

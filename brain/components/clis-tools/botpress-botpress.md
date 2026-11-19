@@ -8,14 +8,14 @@ source_url: https://github.com/botpress/botpress
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 14994
+stars: 15005
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 2297
-pushed_at: "2026-11-11T16:36:16Z"
+pushed_at: "2026-11-18T19:13:47Z"
 ---
 ## What it is
 The open-source hub to build & deploy GPT/LLM Agents ⚡️

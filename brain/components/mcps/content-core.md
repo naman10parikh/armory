@@ -8,11 +8,11 @@ source_url: https://github.com/lfnovo/content-core
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 184
+stars: 185
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 45
+forks: 48
 pushed_at: "2026-11-08T01:03:14Z"
 ---
 ## What it is

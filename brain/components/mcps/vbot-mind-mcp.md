@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-12T03:08:45Z"
+pushed_at: "2026-11-19T03:07:12Z"
 ---
 ## What it is
 Provides a runtime for autonomous virtual robot brains, sitting between game engines and LLM inference to offer perception ingestion, LLM-driven reasoning, episodic memory, personality engine, motor output, and multi-bot registry.

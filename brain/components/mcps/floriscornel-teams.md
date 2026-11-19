@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 61
-pushed_at: "2026-11-12T02:54:36Z"
+pushed_at: "2026-11-19T02:54:35Z"
 ---
 ## What it is
 MCP server `Microsoft Teams`, catalogued on PulseMCP. Integrates with Microsoft Teams through Graph API to search messages, manage chats and channels, send messages, create group chats, and handle user/team operations with device code authentication for secure access.

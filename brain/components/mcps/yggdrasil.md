@@ -8,13 +8,13 @@ source_url: https://github.com/VonderVuflya/Yggdrasil
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 24
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-25T15:05:56Z"
+pushed_at: "2026-11-16T03:58:29Z"
 ---
 ## What it is
 Durable, local-first memory for AI coding agents over MCP — zero-dependency (pure Python + SQLite/FTS5), curated and semantically de-duped. Works with Claude Code, Codex and any MCP host, and you own the data as plain rows.

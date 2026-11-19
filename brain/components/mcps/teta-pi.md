@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T10:33:42Z"
+pushed_at: "2026-11-17T21:25:37Z"
 ---
 ## What it is
 MCP server for the TETA+PI verified entity registry, enabling AI agents to search, verify, and route intents to trusted entities.

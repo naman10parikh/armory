@@ -8,13 +8,13 @@ source_url: https://github.com/ThomasCrouzet/icloud-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
-pushed_at: "2026-11-11T19:16:36Z"
+forks: 7
+pushed_at: "2026-11-19T05:42:05Z"
 ---
 ## What it is
 Unified Apple/iCloud MCP server for Calendar, Contacts, and Mail using CalDAV, CardDAV, IMAP, and SMTP protocols with app-specific passwords.

@@ -8,13 +8,13 @@ source_url: https://github.com/Filipe-Soares-de-Almeida/MemAI
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-11-06T09:46:31Z"
+forks: 0
+pushed_at: "2026-11-15T23:38:48Z"
 ---
 ## What it is
 A long-term memory MCP server for AI agents that stores memories (facts, decisions, etc.) in a single SQLite database with hybrid search and full edit history, ensuring consistency across sessions.

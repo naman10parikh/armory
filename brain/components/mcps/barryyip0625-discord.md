@@ -8,11 +8,11 @@ source_url: https://github.com/barryyip0625/mcp-discord
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 111
+stars: 112
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 72
+forks: 73
 pushed_at: "2026-11-05T08:56:21Z"
 ---
 ## What it is

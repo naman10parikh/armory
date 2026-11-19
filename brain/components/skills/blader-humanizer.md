@@ -8,14 +8,14 @@ source_url: https://github.com/blader/humanizer
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 68298
+stars: 71152
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, skills]
-forks: 5362
-pushed_at: "2026-11-10T01:35:15Z"
+forks: 5575
+pushed_at: "2026-11-19T10:07:43Z"
 ---
 ## What it is
 Agent skill that removes signs of AI-generated writing from text

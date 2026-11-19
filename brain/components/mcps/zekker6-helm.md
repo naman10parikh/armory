@@ -12,8 +12,8 @@ stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
-pushed_at: "2026-11-12T03:40:07Z"
+forks: 3
+pushed_at: "2026-11-18T13:33:06Z"
 ---
 ## What it is
 MCP server `Helm`, catalogued on PulseMCP. Provides tools for interacting with Helm repositories and charts

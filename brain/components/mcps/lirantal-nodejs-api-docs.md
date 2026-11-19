@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-11-08T06:58:34Z"
+pushed_at: "2026-11-15T06:59:09Z"
 ---
 ## What it is
 MCP server `Node.js API Documentation`, catalogued on PulseMCP. Provides up-to-date access to official Node.js core module documentation through search and retrieval tools that fetch from nodejs.org with 7-day caching for current API reference without relying on outdated training data.

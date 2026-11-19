@@ -8,12 +8,12 @@ source_url: https://github.com/opensymph/open-computer-use
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 23
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 5
 pushed_at: "2026-10-17T10:09:42Z"
 ---
 ## What it is

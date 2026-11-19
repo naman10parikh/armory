@@ -8,7 +8,7 @@ source_url: https://github.com/aikts/yandex-tracker-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 123
+stars: 125
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

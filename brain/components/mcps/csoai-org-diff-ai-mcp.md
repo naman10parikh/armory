@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-08T03:24:50Z"
+pushed_at: "2026-11-16T02:18:23Z"
 ---
 ## What it is
 MCP server `Diff AI`, catalogued on PulseMCP. Tools for computing, visualizing, and analyzing code and text differences.

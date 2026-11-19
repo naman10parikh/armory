@@ -11,8 +11,8 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [output-style]
-stars: 88
-forks: 2
+stars: 89
+forks: 3
 pushed_at: "2025-11-21T23:56:19Z"
 ---
 ## What it is

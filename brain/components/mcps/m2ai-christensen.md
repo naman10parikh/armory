@@ -8,11 +8,11 @@ source_url: https://github.com/m2ai-mcp-servers/mcp-christensen
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
+forks: 1
 pushed_at: "2026-01-19T16:19:51Z"
 ---
 ## What it is

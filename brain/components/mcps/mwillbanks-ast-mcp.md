@@ -8,13 +8,13 @@ source_url: https://github.com/mwillbanks/ast-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-12T01:40:22Z"
+pushed_at: "2026-11-16T22:47:42Z"
 ---
 ## What it is
 Combines AST intelligence and guarded file operations to provide a secure, controlled repository workflow for coding agents, enabling structural code analysis and safe edits without unbounded editor access.

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, code-execution]
 stars: 23
 forks: 4
-pushed_at: "2026-09-13T01:10:33Z"
+pushed_at: "2026-11-18T10:01:52Z"
 ---
 ## What it is
 MCP server for the SLURM workload manager. Submit jobs, run YAML workflows, monitor GPU resources, manage SSH profiles, and sync files to remote HPC clusters from natural language. 14 tools spanning local SLURM and SSH-remote clusters; companion CLI and FastAPI Web UI ship in the same package.

@@ -8,12 +8,12 @@ source_url: https://github.com/dollhousemcp/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 46
+stars: 47
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 16
-pushed_at: "2026-11-12T15:35:04Z"
+pushed_at: "2026-11-16T17:49:32Z"
 ---
 ## What it is
 MCP server `DollhouseMCP`, catalogued on PulseMCP. Enables dynamic persona management from markdown files with local creation, GitHub marketplace integration, and behavioral switching capabilities for role-playing and domain-specific customization.
