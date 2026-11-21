@@ -8,12 +8,12 @@ source_url: https://github.com/adelaidasofia/slack-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-09T10:16:26Z"
+pushed_at: "2026-11-17T21:55:36Z"
 ---
 ## What it is
 MCP server `Slack (adelaidasofia)`, catalogued on PulseMCP. Multi-workspace Slack MCP with draft-and-confirm safety, vault auto-export, and triple-mode auth.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-06T15:35:41Z"
+pushed_at: "2026-11-21T13:26:51Z"
 ---
 ## What it is
 MCP server `Travel Art`, catalogued on PulseMCP. Art-tourism data for AI agents: biennales, art fairs, and museums with current prices and dates.

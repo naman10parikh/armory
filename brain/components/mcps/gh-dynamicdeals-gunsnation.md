@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-03-23T20:22:14Z"
+pushed_at: "2026-11-18T23:53:57Z"
 ---
 ## What it is
 MCP server `Gunsnation`, catalogued on PulseMCP. Search and retrieve detailed firearm information from the Gunsnation catalog including specifications, images, and pricing.

@@ -8,12 +8,12 @@ source_url: https://github.com/rhnvrm/listmonk-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
-pushed_at: "2026-01-13T04:02:00Z"
+forks: 14
+pushed_at: "2026-11-16T08:28:45Z"
 ---
 ## What it is
 MCP server `Listmonk`, catalogued on PulseMCP. Integrates with Listmonk newsletter platform to manage subscribers, mailing lists, email campaigns, templates, and transactional emails through comprehensive CRUD operations and automation capabilities.

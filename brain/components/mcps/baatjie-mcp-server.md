@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T06:21:22Z"
+pushed_at: "2026-11-17T20:11:57Z"
 ---
 ## What it is
 MCP server exposing Baatjie Group's tanOS property OS and sigscheCore signal scheduler through generic CRUD and workflow tools, featuring audit logging, PII redaction, and dependency-aware action planning.

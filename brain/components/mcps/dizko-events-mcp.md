@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-10T05:25:00Z"
+pushed_at: "2026-11-18T06:29:21Z"
 ---
 ## What it is
 MCP server that provides live event search, explainable recommendations, night planning, and agentic ticket purchase with safety rails, using Dizko's event inventory.

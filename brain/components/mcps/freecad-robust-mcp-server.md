@@ -8,13 +8,13 @@ source_url: https://github.com/spkane/freecad-addon-robust-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 270
+stars: 276
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 64
-pushed_at: "2026-11-14T12:03:11Z"
+forks: 65
+pushed_at: "2026-11-21T06:52:38Z"
 ---
 ## What it is
 An MCP server that enables AI assistants to interact with FreeCAD for 3D modeling, macro development, and debugging through 150+ tools supporting multiple connection modes.

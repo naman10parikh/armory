@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-19T14:53:08Z"
+pushed_at: "2026-11-19T19:06:03Z"
 ---
 ## What it is
 Enables networked Claude-to-Claude messaging over HTTP and MCP channels, allowing direct messages, broadcasts, threaded replies, and permission approvals among Claude Code instances.

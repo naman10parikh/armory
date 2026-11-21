@@ -8,11 +8,11 @@ source_url: https://github.com/hey-jian-wei/jianying-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 327
+stars: 337
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 69
+forks: 68
 pushed_at: "2025-08-22T09:55:44Z"
 ---
 ## What it is

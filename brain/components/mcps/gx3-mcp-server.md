@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-04T23:29:04Z"
+pushed_at: "2026-11-19T22:47:45Z"
 ---
 ## What it is
 Provides read-only analysis of Mitsubishi GX Works3 PLC projects via MCP, enabling device tracing, cross-referencing, ladder inspection, linting, and report generation without modifying source projects.

@@ -8,13 +8,13 @@ source_url: https://github.com/bewygs/cfast-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-09T22:23:07Z"
+pushed_at: "2026-11-16T22:27:32Z"
 ---
 ## What it is
 Enables LLMs to build, inspect, run, and analyze CFAST fire models step by step via tools for compartments, materials, vents, fires, devices, and surface connections, with simulation and result summaries.

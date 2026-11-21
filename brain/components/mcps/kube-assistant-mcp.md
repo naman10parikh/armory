@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-08T15:46:17Z"
+pushed_at: "2026-11-17T16:35:44Z"
 ---
 ## What it is
 MCP server that connects LLMs to Kubernetes clusters for troubleshooting, scanning failing pods, diagnosing root causes, and applying guarded fixes or generating manifests via natural language.

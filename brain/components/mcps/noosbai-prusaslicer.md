@@ -8,11 +8,11 @@ source_url: https://github.com/noosbai/prusamcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 4
+forks: 5
 pushed_at: "2026-02-23T21:00:36Z"
 ---
 ## What it is

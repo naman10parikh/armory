@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-13T09:14:52Z"
+pushed_at: "2026-11-16T02:22:03Z"
 ---
 ## What it is
 MCP server `Feedback Analyzer AI`, catalogued on PulseMCP. Tools for analyzing customer and user feedback to extract insights and sentiment.

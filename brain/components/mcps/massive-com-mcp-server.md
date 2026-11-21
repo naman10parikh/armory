@@ -8,13 +8,13 @@ source_url: https://github.com/massive-com/mcp_massive
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 402
+stars: 405
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 116
-pushed_at: "2026-11-03T21:19:07Z"
+pushed_at: "2026-11-20T17:27:48Z"
 ---
 ## What it is
 Provides an LLM-friendly interface to the Massive.com financial data API through composable tools for searching endpoints, calling APIs, and querying stored data with built-in financial functions.

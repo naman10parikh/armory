@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-13T11:12:48Z"
+pushed_at: "2026-11-16T05:47:21Z"
 ---
 ## What it is
 Enables natural-language querying of NHTSA vehicle safety data, including VIN decoding, recall searches, consumer complaints, crash-test ratings, and defect investigations via MCP.

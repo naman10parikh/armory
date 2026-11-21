@@ -8,13 +8,13 @@ source_url: https://github.com/nicglazkov/commutescout
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-09T23:46:23Z"
+pushed_at: "2026-11-20T21:43:10Z"
 ---
 ## What it is
 Provides live California road conditions, route planning, and an AI assistant over MCP, enabling natural-language queries about traffic, closures, chain controls, and more.

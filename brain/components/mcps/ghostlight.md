@@ -8,13 +8,13 @@ source_url: https://github.com/sylin-org/ghostlight
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-14T07:35:53Z"
+pushed_at: "2026-11-15T03:33:32Z"
 ---
 ## What it is
 MCP server that lets AI agents drive your real Chromium browser with your existing signed-in sessions, providing visible, local, and inspectable automation for tasks like navigation, clicking, typing, and form filling.

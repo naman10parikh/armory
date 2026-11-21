@@ -8,12 +8,12 @@ source_url: https://github.com/acedatacloud/seedancemcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-12T21:01:35Z"
+pushed_at: "2026-11-15T09:28:12Z"
 ---
 ## What it is
 MCP server `AceDataCloud Seedance`, catalogued on PulseMCP. ByteDance Seedance AI video generation through the AceDataCloud API platform.

@@ -8,13 +8,13 @@ source_url: https://github.com/bzdOS/hubd
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-17T23:58:49Z"
+pushed_at: "2026-11-21T13:58:11Z"
 ---
 ## What it is
 A project tracker for teams of humans and AI agents that coordinates work through plain files (markdown and JSONL), providing an MCP server for agents and a CLI for humans.

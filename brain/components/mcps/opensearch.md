@@ -12,8 +12,8 @@ stars: 58
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 556
-pushed_at: "2026-10-22T22:16:21Z"
+forks: 557
+pushed_at: "2026-11-20T19:11:54Z"
 ---
 ## What it is
 MCP server `OpenSearch`, catalogued on PulseMCP. Central documentation hub for the OpenSearch project providing comprehensive artifact listings, community resources, event calendars, and project governance information with automated content management workflows.

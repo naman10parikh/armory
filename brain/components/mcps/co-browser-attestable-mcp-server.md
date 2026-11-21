@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
-stars: 22
+stars: 23
 forks: 7
-pushed_at: "2026-05-20T20:43:30Z"
+pushed_at: "2026-11-17T10:46:24Z"
 ---
 ## What it is
 An MCP server running inside a trusted execution environment (TEE) via Gramine, showcasing remote attestation using [RA-TLS](https://gramine.readthedocs.io/en/stable/attestation.html). This allows an MCP client to verify the server before conencting.

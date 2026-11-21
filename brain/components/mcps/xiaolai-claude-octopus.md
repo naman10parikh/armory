@@ -8,12 +8,12 @@ source_url: https://github.com/xiaolai/claude-octopus
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-11-14T00:04:09Z"
+pushed_at: "2026-11-21T00:04:20Z"
 ---
 ## What it is
 MCP server `Claude Octopus`, catalogued on PulseMCP. Spawn multiple specialized Claude Code agents as MCP servers, each independently configured.

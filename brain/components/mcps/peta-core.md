@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-11-02T23:22:33Z"
+pushed_at: "2026-11-17T09:43:36Z"
 ---
 ## What it is
 A production-ready MCP gateway and control plane that provides credential vault, policy engine, audit logging, and managed runtime for routing tool calls between AI agents and downstream MCP servers.

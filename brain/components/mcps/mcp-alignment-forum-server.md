@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-12T03:48:04Z"
+pushed_at: "2026-11-20T03:48:12Z"
 ---
 ## What it is
 Enables semantic search and retrieval of AI alignment articles from Alignment Forum and LessWrong, allowing users to explore research and discover unknown unknowns through natural language queries.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 16
-pushed_at: "2026-11-13T15:50:23Z"
+pushed_at: "2026-11-18T00:22:01Z"
 ---
 ## What it is
 MCP server `R Econometrics`, catalogued on PulseMCP. Enables advanced econometric analysis by providing R-based statistical modeling capabilities for researchers and data scientists, supporting complex regression techniques, panel data modeling, and diagnostic testing across diverse research domains.

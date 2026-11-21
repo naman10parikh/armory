@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-05-13T07:56:23Z"
+pushed_at: "2026-11-19T11:13:00Z"
 ---
 ## What it is
 Integrates Checkov, Semgrep, Bandit, and ASH to provide comprehensive code security analysis for AI coding assistants.

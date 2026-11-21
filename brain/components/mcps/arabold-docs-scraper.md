@@ -8,11 +8,11 @@ source_url: https://github.com/arabold/docs-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1879
+stars: 1908
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 199
+forks: 203
 pushed_at: "2026-11-09T23:45:24Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T19:39:32Z"
+pushed_at: "2026-11-20T23:18:37Z"
 ---
 ## What it is
 Connects Unicred bank accounts via Open Finance Brasil to AI assistants, enabling natural language queries for balances, statements, credit card bills, and investments.

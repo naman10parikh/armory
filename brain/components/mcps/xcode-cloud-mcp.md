@@ -8,13 +8,13 @@ source_url: https://github.com/thatfactory/xcode-cloud-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-06T22:58:52Z"
+pushed_at: "2026-11-19T13:07:03Z"
 ---
 ## What it is
 MCP server for managing Xcode Cloud workflows, builds, and test artifacts via the App Store Connect API.

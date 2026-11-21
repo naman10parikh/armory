@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-12T10:34:13Z"
+pushed_at: "2026-11-18T10:45:32Z"
 ---
 ## What it is
 MCP server for TwinCAT 3 PLC development enabling AI coding agents to build, configure, deploy, and debug TwinCAT PLC projects through a standard tool interface.

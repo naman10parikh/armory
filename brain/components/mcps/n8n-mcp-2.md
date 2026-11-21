@@ -8,12 +8,12 @@ source_url: https://github.com/vredrick/n8n-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 32
+stars: 33
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
+forks: 10
 pushed_at: "2026-03-30T00:23:57Z"
 ---
 ## What it is

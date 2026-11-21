@@ -8,13 +8,13 @@ source_url: https://github.com/comet-ml/opik
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 23405
+stars: 23481
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, evals, tracing]
-forks: 1952
-pushed_at: "2026-11-14T11:26:32Z"
+forks: 1968
+pushed_at: "2026-11-21T05:20:55Z"
 mentions: 1
 ---
 ## What it is

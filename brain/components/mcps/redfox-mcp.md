@@ -8,13 +8,13 @@ source_url: https://github.com/redfox-data/redfox-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-13T09:27:03Z"
+pushed_at: "2026-11-18T06:25:44Z"
 ---
 ## What it is
 Provides 40 MCP tools for searching and retrieving content from six major platforms (Douyin, Xiaohongshu, WeChat, Bilibili, Toutiao, TikTok) along with AI search and image/video generation via RedFoxHub's API.

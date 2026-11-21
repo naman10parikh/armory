@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-19T11:27:48Z"
+pushed_at: "2026-11-16T14:11:37Z"
 ---
 ## What it is
 MCP server that wraps the Eos EVE Online fitting engine. Agents propose fit changes; this server applies them, recalculates, and returns a FitReport.

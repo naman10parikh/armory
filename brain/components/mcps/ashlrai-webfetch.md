@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-13T05:02:45Z"
+pushed_at: "2026-11-15T20:09:39Z"
 ---
 ## What it is
 MCP server `WebFetch`, catalogued on PulseMCP. MCP server federating 25 image providers with license-first ranking, providing structured metadata and attribution for safe image sourcing.

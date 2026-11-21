@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-09T13:26:38Z"
+pushed_at: "2026-11-16T20:15:38Z"
 ---
 ## What it is
 Wraps the API Ninjas multi-endpoint data API, enabling AI agents to access a wide range of data sources through natural language queries.

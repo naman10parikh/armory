@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-09-04T03:29:13Z"
+pushed_at: "2026-11-16T12:53:37Z"
 ---
 ## What it is
 Provides persistent memory and task management for coding agents via MCP tools, enabling mid-session recall and capture of durable knowledge.

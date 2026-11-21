@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-11T04:37:47Z"
+pushed_at: "2026-11-15T22:57:56Z"
 ---
 ## What it is
 A remote MCP server on Cloudflare Workers that allows real-estate sales teams to query their Follow Up Boss CRM data through Claude, with read-only, role-based access and OAuth authentication.

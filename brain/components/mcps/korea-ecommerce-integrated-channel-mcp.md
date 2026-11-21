@@ -8,12 +8,12 @@ source_url: https://github.com/minwoo19930301/korea-ecommerce-integrated-channel
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-09-22T12:16:19Z"
 ---
 ## What it is

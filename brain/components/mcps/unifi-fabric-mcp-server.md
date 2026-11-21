@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-11-10T23:40:25Z"
+pushed_at: "2026-11-15T04:00:00Z"
 ---
 ## What it is
 loud-first UniFi management for AI agents. This server connects to the official UniFi Site Manager / Fabric cloud API (api.ui.com). Manage your entire UniFi fleet from anywhere through natural language.

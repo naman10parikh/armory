@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-06T11:52:19Z"
+pushed_at: "2026-11-20T12:20:49Z"
 ---
 ## What it is
 MCP server `Registrum`, catalogued on PulseMCP. Search UK companies, get structured financials, directors, and corporate networks via the Registrum API.

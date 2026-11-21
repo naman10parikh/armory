@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T07:31:13Z"
+pushed_at: "2026-11-19T09:08:57Z"
 ---
 ## What it is
 A multi-agent system that autonomously analyzes code, proves bugs with formal certificates, generates repairs, and validates patches, all over the Model Context Protocol.

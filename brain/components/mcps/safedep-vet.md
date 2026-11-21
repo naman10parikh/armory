@@ -12,8 +12,8 @@ stars: 1126
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 115
-pushed_at: "2026-11-13T14:11:09Z"
+forks: 116
+pushed_at: "2026-11-21T14:09:41Z"
 ---
 ## What it is
 MCP server `SafeDep Vet`, catalogued on PulseMCP. Protect against malicious open source packages

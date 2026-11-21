@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-14T11:46:59Z"
+pushed_at: "2026-11-20T09:26:11Z"
 ---
 ## What it is
 MCP server `Strale`, catalogued on PulseMCP. Capability marketplace providing AI agents with access to quality-scored business tools including company lookups, compliance checks, and financial data.

@@ -8,13 +8,13 @@ source_url: https://github.com/shaktech786/arr-suite-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2025-11-08T22:45:51Z"
+pushed_at: "2026-11-17T07:03:52Z"
 ---
 ## What it is
 Enables AI assistants to manage media automation services like Sonarr, Radarr, Prowlarr, Bazarr, Overseerr, and Plex through natural language commands.

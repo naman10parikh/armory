@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-11-10T01:32:41Z"
+pushed_at: "2026-11-19T03:41:40Z"
 ---
 ## What it is
 MCP server for deterministic document infrastructure, enabling canonical normalization, schema validation, and grammar compilation for structured AI artifacts.

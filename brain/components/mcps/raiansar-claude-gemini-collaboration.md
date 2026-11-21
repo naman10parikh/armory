@@ -8,11 +8,11 @@ source_url: https://github.com/raiansar/claude_code-gemini-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 250
+stars: 252
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 44
+forks: 43
 pushed_at: "2025-06-10T23:49:53Z"
 ---
 ## What it is

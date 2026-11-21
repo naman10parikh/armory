@@ -8,13 +8,13 @@ source_url: https://github.com/uw-syfi/TraceLab
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 169
+stars: 179
 eval_score: 1
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 25
+forks: 26
 pushed_at: "2026-10-19T05:03:56Z"
 ---
 ## What it is

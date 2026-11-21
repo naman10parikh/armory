@@ -8,11 +8,11 @@ source_url: https://github.com/skrul/protools-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 21
+stars: 22
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
+forks: 7
 pushed_at: "2026-01-26T05:49:45Z"
 ---
 ## What it is

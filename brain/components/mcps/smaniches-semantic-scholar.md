@@ -8,11 +8,11 @@ source_url: https://github.com/smaniches/semantic-scholar-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
+forks: 3
 pushed_at: "2026-11-12T19:32:39Z"
 ---
 ## What it is

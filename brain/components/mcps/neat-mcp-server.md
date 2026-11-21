@@ -8,13 +8,13 @@ source_url: https://github.com/NEAT-Technologies/neat
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 34
+stars: 33
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-13T20:08:36Z"
+pushed_at: "2026-11-18T19:45:09Z"
 ---
 ## What it is
 Provides AI agents with a live architecture model of a codebase, enabling queries for root cause analysis, blast radius, and dependency traversal through MCP tools.

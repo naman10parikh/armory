@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-01T02:37:48Z"
+pushed_at: "2026-11-18T11:51:59Z"
 ---
 ## What it is
 Automatically detects packages that can be stubbed during Python exe building and generates minimal stub code to reduce executable size.

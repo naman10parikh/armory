@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-14T05:38:29Z"
+pushed_at: "2026-11-21T06:17:47Z"
 ---
 ## What it is
 An innovative MCP server that transforms LinkedIn API interactions, enabling advanced people search, profile retrieval, and job market intelligence through natural language.

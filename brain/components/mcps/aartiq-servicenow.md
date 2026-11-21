@@ -8,12 +8,12 @@ source_url: https://github.com/aartiq/servicenow-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 238
+stars: 229
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 98
-pushed_at: "2026-09-23T08:28:22Z"
+forks: 95
+pushed_at: "2026-11-21T00:34:41Z"
 ---
 ## What it is
 MCP server `ServiceNow`, catalogued on PulseMCP. Comprehensive ServiceNow platform integration with 400+ tools spanning ITSM, ITOM, HRSD, CSM, SecOps, GRC, Flow Designer, scripting, and multi-instance management.

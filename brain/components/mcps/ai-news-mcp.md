@@ -8,13 +8,13 @@ source_url: https://github.com/treesoop/ai-news-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 70
+stars: 0
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 11
-pushed_at: "2026-06-02T22:20:34Z"
+forks: 0
+pushed_at: "2026-11-18T23:06:41Z"
 ---
 ## What it is
 Aggregates and curates AI/tech news from 12 sources every 6 hours, providing pre-summarized and Opus-curated top picks for vibe coders and AI builders via MCP tools.

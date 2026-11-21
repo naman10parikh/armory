@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-24T12:14:24Z"
+pushed_at: "2026-11-15T05:56:31Z"
 ---
 ## What it is
 Enables AI assistants to search Google, Maps, Trends, and other web data through JustSerpAPI endpoints. Supports natural language queries, endpoint discovery, pagination, and schema inspection.

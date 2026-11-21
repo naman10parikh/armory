@@ -8,12 +8,12 @@ source_url: https://github.com/alex-on-ai/WebReaper
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 152
+stars: 153
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 33
+forks: 31
 pushed_at: "2026-10-04T07:54:25Z"
 ---
 ## What it is

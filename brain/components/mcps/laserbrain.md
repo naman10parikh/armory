@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-04T22:09:46Z"
+pushed_at: "2026-11-21T06:52:10Z"
 ---
 ## What it is
 Enables AI to sense, tend, and communicate with a continuous weather field simulation through tools like state, speak, hear, and absorb.

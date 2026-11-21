@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-13T11:12:03Z"
+pushed_at: "2026-11-16T10:24:57Z"
 ---
 ## What it is
 Exposes the FBI Crime Data Explorer API — crime estimates, agency offense rates, and LEOKA officer safety data via MCP. Supports STDIO or Streamable HTTP transport.

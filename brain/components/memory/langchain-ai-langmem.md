@@ -8,14 +8,14 @@ source_url: https://github.com/langchain-ai/langmem
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1767
+stars: 1781
 eval_score: null
 mentions: 0
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, memory]
-forks: 205
-pushed_at: "2026-11-13T17:48:51Z"
+forks: 209
+pushed_at: "2026-11-16T08:58:28Z"
 ---
 ## What it is
 Long-term memory for agents: tools that extract what matters from conversations, refine prompts from feedback and keep memory across sessions, with LangGraph's store built in.

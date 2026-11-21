@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-13T15:19:30Z"
+pushed_at: "2026-11-19T12:13:55Z"
 ---
 ## What it is
 Integrates usage-based billing into AI coding tools, enabling meter usage, signal verification, and billing management via the ClockNext API.

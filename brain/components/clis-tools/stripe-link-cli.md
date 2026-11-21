@@ -7,14 +7,14 @@ source_url: https://github.com/stripe/link-cli
 license: unknown
 cli_compat: []
 maturity: stable
-stars: 907
+stars: 916
 eval_score: 1
 mentions: null
 verified_at: 
 related: []
 tags: [identity]
-forks: 167
-pushed_at: "2026-11-13T16:06:39Z"
+forks: 174
+pushed_at: "2026-11-20T16:41:06Z"
 ---
 
 # stripe-link-cli

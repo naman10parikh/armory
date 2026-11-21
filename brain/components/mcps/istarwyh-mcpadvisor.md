@@ -8,12 +8,12 @@ source_url: https://github.com/istarwyh/mcpadvisor
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 89
+stars: 90
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-11-14T12:13:35Z"
+pushed_at: "2026-11-17T20:09:25Z"
 ---
 ## What it is
 MCP server `MCP Advisor`, catalogued on PulseMCP. Discovery and recommendation service that helps find and understand available MCP services based on natural language queries, supporting multiple search backends for exploring servers by semantic similarity.

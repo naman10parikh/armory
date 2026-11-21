@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-05T23:18:47Z"
+pushed_at: "2026-11-17T20:23:26Z"
 ---
 ## What it is
 Enables publishing, updating, and sharing HTML artifacts with strict security isolation (origin separation, CSP, API keys) via MCP tools.

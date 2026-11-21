@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-11-14T03:51:57Z"
+forks: 3
+pushed_at: "2026-11-20T15:09:39Z"
 ---
 ## What it is
 Labby is a Rust-based MCP gateway that connects and aggregates multiple upstream MCP servers, with authentication, Code Mode (JavaScript snippets), and an operator web UI.

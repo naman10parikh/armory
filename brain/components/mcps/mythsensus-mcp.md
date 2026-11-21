@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-13T14:25:04Z"
+pushed_at: "2026-11-16T03:03:09Z"
 ---
 ## What it is
 Calculate a Cosmic Score across 26 ancient divination systems (BaZi, Vedic, Western, Nine Star Ki, Thai Seven Number, and more) deterministically from a birth date — the cross-tradition consensus when traditions disagree.

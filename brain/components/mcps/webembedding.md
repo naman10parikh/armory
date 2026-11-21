@@ -8,12 +8,12 @@ source_url: https://github.com/jongko54/webEmbedding
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 2
 pushed_at: "2026-11-08T14:38:25Z"
 ---
 ## What it is

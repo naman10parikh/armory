@@ -8,13 +8,13 @@ source_url: https://github.com/xdevplatform/xurl
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1367
+stars: 1382
 eval_score: null
 mentions: 3
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 124
+forks: 126
 pushed_at: "2026-11-07T02:22:11Z"
 ---
 ## What it is

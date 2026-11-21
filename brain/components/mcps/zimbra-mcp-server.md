@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-11-13T17:14:09Z"
+pushed_at: "2026-11-20T15:35:44Z"
 ---
 ## What it is
 Enables to manage Zimbra emails, tags, calendar, and contacts through natural language. Supports searching, sending, drafting emails, managing contacts, tags, and calendar events.

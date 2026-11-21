@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-11-14T13:59:39Z"
+pushed_at: "2026-11-20T20:17:51Z"
 ---
 ## What it is
 Upload-Post is the all-in-one social media MCP server the Model Context Protocol server for social media publishing, scheduling and analytics. Connect any MCP-compatible AI agent (Claude, Cursor, ChatGPT, Claude Desktop, n8n, and more) and publish, schedule and analyze content across 13+ social netw

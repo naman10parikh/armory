@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-02-02T12:11:20Z"
+pushed_at: "2026-11-18T10:57:09Z"
 ---
 ## What it is
 MCP server enabling AI agents to purchase VPS and blockchain node products using USDC on Base via Easy Node's x402 API.

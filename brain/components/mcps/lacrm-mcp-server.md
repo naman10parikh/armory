@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-05T19:29:51Z"
+pushed_at: "2026-11-16T21:40:42Z"
 ---
 ## What it is
 A comprehensive MCP server for Less Annoying CRM providing 87 tools for contacts, pipelines, tasks, events, notes, emails, files, and more.

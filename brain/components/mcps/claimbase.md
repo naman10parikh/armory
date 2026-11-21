@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T22:29:33Z"
+pushed_at: "2026-11-19T13:41:43Z"
 ---
 ## What it is
 Provides a compiled knowledge substrate, extracting atomic claims from an append-only capture log and querying a bitemporal claim graph over MCP. Read-only by default, with opt-in writes for trusted sources.

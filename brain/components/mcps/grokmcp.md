@@ -8,13 +8,13 @@ source_url: https://github.com/AceDataCloud/GrokMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T02:44:51Z"
+pushed_at: "2026-11-15T09:27:31Z"
 ---
 ## What it is
 An MCP server for Grok (xAI) that enables chat, reasoning, vision, and video generation using the AceDataCloud API.

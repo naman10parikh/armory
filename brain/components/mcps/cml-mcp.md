@@ -8,7 +8,7 @@ source_url: https://github.com/xorrkaz/cml-mcp
 license: BSD 2-Clause "Simplified" License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 80
+stars: 82
 eval_score: null
 verified_at: 2026-05-27
 related: []

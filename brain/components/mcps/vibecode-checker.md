@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-13T23:44:57Z"
+pushed_at: "2026-11-21T11:04:53Z"
 ---
 ## What it is
 MCP server that enables AI coding tools to scan projects for security vulnerabilities, secret leaks, and compliance issues, generating Korean-language audit reports.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-28T02:46:32Z"
+pushed_at: "2026-11-17T06:29:38Z"
 ---
 ## What it is
 Scores AI outputs for faithfulness, relevancy, and hallucination inside any MCP client, with custom metrics, golden sets, and run history with dashboards.

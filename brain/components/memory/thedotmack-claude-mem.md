@@ -8,14 +8,14 @@ source_url: https://github.com/thedotmack/claude-mem
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 116982
+stars: 118777
 eval_score: null
 mentions: 7
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, cli]
-forks: 10154
-pushed_at: "2026-11-13T18:56:42Z"
+forks: 10327
+pushed_at: "2026-11-21T03:04:47Z"
 ---
 ## What it is
 Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More

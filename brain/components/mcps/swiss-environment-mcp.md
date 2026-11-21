@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-14T11:16:33Z"
+pushed_at: "2026-11-16T16:59:14Z"
 ---
 ## What it is
 Connects AI assistants to Swiss environmental data from BAFU, including air quality, hydrology, natural hazards, and open datasets, with no API keys required.

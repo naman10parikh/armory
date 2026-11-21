@@ -8,7 +8,7 @@ source_url: https://github.com/Entelligence-AI/agentplay
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 367
+stars: 372
 eval_score: null
 mentions: 1
 verified_at: 2026-10-25

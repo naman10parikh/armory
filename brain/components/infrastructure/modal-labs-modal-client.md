@@ -14,8 +14,8 @@ mentions: 12
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, infrastructure]
-forks: 140
-pushed_at: "2026-11-13T20:00:49Z"
+forks: 144
+pushed_at: "2026-11-21T05:14:50Z"
 eval_score_from: infrastructure/modal
 ---
 ## What it is

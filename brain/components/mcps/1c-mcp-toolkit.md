@@ -8,12 +8,12 @@ source_url: https://github.com/ROCTUP/1c-mcp-toolkit
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 363
+stars: 377
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 91
+forks: 90
 pushed_at: "2026-11-01T07:20:18Z"
 ---
 ## What it is

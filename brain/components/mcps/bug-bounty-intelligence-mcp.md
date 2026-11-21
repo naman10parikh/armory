@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-11-14T12:23:25Z"
+pushed_at: "2026-11-16T07:35:47Z"
 ---
 ## What it is
 AI-powered smart contract security analysis for AI agents and developers, enabling scanning of Solidity repos for vulnerabilities.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T05:27:29Z"
+pushed_at: "2026-11-17T07:20:41Z"
 ---
 ## What it is
 Open-source MCP server for inspecting, editing, templating, and publishing TFRobot configuration, with optional A2C-SMCP resources.

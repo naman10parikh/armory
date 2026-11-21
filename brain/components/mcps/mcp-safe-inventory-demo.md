@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T06:33:09Z"
+pushed_at: "2026-11-18T11:33:27Z"
 ---
 ## What it is
 Enables AI agents to safely mutate business state by demonstrating phase-gating, validation-before-mutation, and structured audit logging in a toy inventory and purchase order system.

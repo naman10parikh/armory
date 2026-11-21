@@ -8,13 +8,13 @@ source_url: https://github.com/aklos/scryer
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 123
+stars: 124
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 18
-pushed_at: "2026-11-10T14:57:42Z"
+pushed_at: "2026-11-19T14:37:34Z"
 ---
 ## What it is
 Enables AI agents to read, modify, and build from architecture models, keeping the model as the source of truth for intent and synchronized with code.

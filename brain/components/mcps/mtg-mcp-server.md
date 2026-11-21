@@ -8,12 +8,12 @@ source_url: https://github.com/j4th/mtg-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
-forks: 10
+forks: 11
 pushed_at: "2026-10-21T23:35:17Z"
 ---
 ## What it is

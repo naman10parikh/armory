@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-08-19T03:45:07Z"
+pushed_at: "2026-11-15T15:57:23Z"
 ---
 ## What it is
 MCP server `Windsor`, catalogued on PulseMCP. Interpret, explore, and extract insights from the data you’ve already integrated with Windsor.ai.

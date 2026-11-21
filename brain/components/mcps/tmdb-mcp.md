@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T08:50:11Z"
+pushed_at: "2026-11-16T18:56:59Z"
 ---
 ## What it is
 MCP server for The Movie Database (TMDB): search and look up movies, TV shows and people, and read IMDb/Rotten Tomatoes/Metacritic ratings (via OMDb) in the same call.

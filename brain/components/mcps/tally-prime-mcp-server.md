@@ -8,12 +8,12 @@ source_url: https://github.com/dhananjay1405/tally-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 112
+stars: 117
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 40
+forks: 41
 pushed_at: "2026-11-14T03:00:37Z"
 ---
 ## What it is

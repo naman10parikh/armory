@@ -8,11 +8,11 @@ source_url: https://github.com/dg/pohoda-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 26
+stars: 28
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
+forks: 7
 pushed_at: "2026-11-05T23:26:33Z"
 ---
 ## What it is

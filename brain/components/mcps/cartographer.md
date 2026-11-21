@@ -8,13 +8,13 @@ source_url: https://github.com/BeppeTemp/cartographer
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 67
+stars: 68
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 11
-pushed_at: "2026-11-14T13:16:08Z"
+pushed_at: "2026-11-21T10:05:44Z"
 ---
 ## What it is
 MCP governance server that lets AI agents build and maintain a persistent, versioned wiki of interlinked Markdown files through validated tools, enforcing invariants like linking, immutability, and one git commit per write.

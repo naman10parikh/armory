@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-01T17:54:29Z"
+pushed_at: "2026-11-17T16:10:47Z"
 ---
 ## What it is
 Das Agentengehirn und Langzeitgedächtnis aus Deutschland.

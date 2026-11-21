@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-18T03:41:27Z"
+pushed_at: "2026-11-20T06:20:26Z"
 ---
 ## What it is
 Enables AI assistants to perform cell segmentation through natural language commands, including 2D/3D segmentation, batch processing, image restoration, and custom model training.

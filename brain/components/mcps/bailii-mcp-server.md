@@ -8,13 +8,13 @@ source_url: https://github.com/paulieb89/bailii-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-01T04:21:23Z"
+pushed_at: "2026-11-19T03:06:44Z"
 ---
 ## What it is
 Enables searching UK case law on BAILII and retrieving judgments with automatic section extraction (summary, conclusions, etc.). Runs locally to avoid BAILII's cloud IP blocks.

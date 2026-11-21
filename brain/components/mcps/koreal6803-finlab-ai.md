@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 71
-pushed_at: "2026-11-13T15:11:17Z"
+pushed_at: "2026-11-17T15:18:06Z"
 ---
 ## What it is
 MCP server `FinLab AI`, catalogued on PulseMCP. Quantitative trading toolkit with extensive data access, backtesting, and strategy development tools.

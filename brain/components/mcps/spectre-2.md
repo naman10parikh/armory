@@ -8,13 +8,13 @@ source_url: https://github.com/pranrichh/spectre-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
-pushed_at: "2026-10-17T23:03:36Z"
+forks: 4
+pushed_at: "2026-11-14T17:13:29Z"
 ---
 ## What it is
 Enables AI agents to search, read user profiles, timelines, media, follow threads, track trends, and manage accounts on X/Twitter via GraphQL, without browser automation or paid API keys.

@@ -8,12 +8,12 @@ source_url: https://github.com/VincentKaufmann/noapi-google-search-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 134
+stars: 135
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 35
+forks: 33
 pushed_at: "2026-08-16T12:19:04Z"
 ---
 ## What it is

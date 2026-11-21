@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-10-30T08:48:33Z"
+pushed_at: "2026-11-19T06:37:23Z"
 ---
 ## What it is
 MCP server `Luno`, catalogued on PulseMCP. Bridges AI systems with the Luno cryptocurrency exchange API for trading operations, market data retrieval, and account management with automatic currency code normalization

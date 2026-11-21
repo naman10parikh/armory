@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-11-13T16:01:45Z"
+pushed_at: "2026-11-16T03:36:37Z"
 ---
 ## What it is
 MCP server that exposes ArchSmith's diagram rendering and validation as tools, along with schema and registry resources, enabling AI agents to generate consistent SVG architecture diagrams from validated JSON descriptions.

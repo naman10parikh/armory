@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-10T17:32:18Z"
+pushed_at: "2026-11-21T08:53:23Z"
 ---
 ## What it is
 reef is a hosted remote MCP server that gives a group shared, long-term assistant memory: a private cove per person plus shared coves for a household, a trip, or a project, stored as human-editable Markdown pages with privacy enforced by Postgres row-level security. Works from Claude (including mobi

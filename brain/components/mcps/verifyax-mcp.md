@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-14T13:05:07Z"
+pushed_at: "2026-11-21T13:04:08Z"
 ---
 ## What it is
 Enables conversational access to the VerifyAX agent-evaluation platform, exposing tools for agent evaluation workflows through natural language.

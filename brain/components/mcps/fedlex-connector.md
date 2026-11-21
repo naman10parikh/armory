@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-28T08:57:15Z"
+pushed_at: "2026-11-21T09:27:21Z"
 ---
 ## What it is
 MCP server `Fedlex Connector`, catalogued on PulseMCP. Search Swiss federal legislation: laws, articles, and amendments via the Fedlex SPARQL endpoint.

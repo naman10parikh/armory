@@ -12,8 +12,8 @@ stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-11-14T00:43:13Z"
+forks: 0
+pushed_at: "2026-11-19T21:31:49Z"
 ---
 ## What it is
 MCP server `Utilify`, catalogued on PulseMCP. Texas utility plan comparison and enrollment for electricity, internet, natural gas, water, and trash across 4,844 ZIP codes.

@@ -8,12 +8,12 @@ source_url: https://github.com/EodHistoricalData/EODHD-MCP-Server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 24
+stars: 26
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 5
 pushed_at: "2026-10-22T13:32:41Z"
 ---
 ## What it is

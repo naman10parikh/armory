@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T15:25:49Z"
+pushed_at: "2026-11-20T18:32:02Z"
 ---
 ## What it is
 A persistent graph-database memory server for Claude and other LLM agents, built on the Model Context Protocol and powered by DuckDB.

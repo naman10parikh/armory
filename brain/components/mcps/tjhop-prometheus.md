@@ -8,12 +8,12 @@ source_url: https://github.com/tjhop/prometheus-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 142
+stars: 144
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 32
-pushed_at: "2026-11-12T04:20:43Z"
+pushed_at: "2026-11-20T06:18:38Z"
 ---
 ## What it is
 MCP server `Prometheus`, catalogued on PulseMCP. Enables interaction with Prometheus monitoring systems through PromQL queries, metric discovery, and system management

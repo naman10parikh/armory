@@ -8,13 +8,13 @@ source_url: https://github.com/DeepExperience/Harness-R1
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 125
+stars: 128
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 20
+forks: 21
 pushed_at: "2026-10-11T16:01:50Z"
 ---
 ## What it is

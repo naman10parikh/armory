@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-14T06:46:58Z"
+pushed_at: "2026-11-18T08:14:19Z"
 ---
 ## What it is
 Generates a complete, tested FastMCP 3.x MCP server from a natural language description, eliminating manual protocol boilerplate.

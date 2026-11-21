@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-03-06T01:54:47Z"
+pushed_at: "2026-11-14T16:38:55Z"
 ---
 ## What it is
 MCP server `Quint`, catalogued on PulseMCP. Wraps the Quint formal specification language CLI for type-checking, simulation, testing, exhaustive model checking via Apalache, and documentation lookup.

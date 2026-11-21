@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-09T00:09:05Z"
+pushed_at: "2026-11-16T00:09:02Z"
 ---
 ## What it is
 Enables AI agents to query yamory vulnerability management for vulnerability detection, risk assessment, and remediation guidance.

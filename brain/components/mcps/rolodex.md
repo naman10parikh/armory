@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T04:58:33Z"
+pushed_at: "2026-11-20T20:26:06Z"
 ---
 ## What it is
 A local-first contact management MCP server with SQLite storage and Google Contacts sync, enabling AI agents to upsert, search, log interactions, and surface follow-ups for relationships.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-05T23:13:45Z"
+pushed_at: "2026-11-17T17:08:02Z"
 ---
 ## What it is
 A local MCP server that enables LLMs to execute shell commands on remote hosts over SSH with multiple authentication methods.

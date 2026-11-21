@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-13T08:36:53Z"
+pushed_at: "2026-11-16T02:07:55Z"
 ---
 ## What it is
 MCP server `AI Self Audit`, catalogued on PulseMCP. Automated audit and compliance checking tools for AI systems.

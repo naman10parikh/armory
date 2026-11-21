@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-13T09:27:21Z"
+pushed_at: "2026-11-16T02:26:32Z"
 ---
 ## What it is
 MCP server `Inventory Management AI`, catalogued on PulseMCP. Python MCP server for inventory tracking and management automation.

@@ -8,13 +8,13 @@ source_url: https://github.com/QwenLM/Qwen3-Coder
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 16853
+stars: 16870
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1265
+forks: 1267
 pushed_at: "2026-03-24T08:22:10Z"
 ---
 ## What it is

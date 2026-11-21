@@ -12,8 +12,8 @@ stars: 447
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 147
-pushed_at: "2026-10-15T16:35:44Z"
+forks: 145
+pushed_at: "2026-11-20T00:53:41Z"
 ---
 ## What it is
 MCP server `Trello`, catalogued on PulseMCP. Enables Trello board interactions for task and project management using the Trello REST API.

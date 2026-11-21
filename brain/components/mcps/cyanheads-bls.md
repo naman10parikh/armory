@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-13T11:11:07Z"
+pushed_at: "2026-11-15T03:29:26Z"
 ---
 ## What it is
 MCP server `BLS Labor Statistics`, catalogued on PulseMCP. Retrieves U.S. Bureau of Labor Statistics data on employment, wages, inflation, and workplace safety.

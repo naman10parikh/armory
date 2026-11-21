@@ -9,13 +9,13 @@ source_url: https://github.com/firecrawl/firecrawl-mcp-server
 license: MIT
 cli_compat: [claude, codex, cursor]
 maturity: stable
-stars: 7817
+stars: 7872
 eval_score: 1
 verified_at: 2026-05-31
 related: [context7-mcp, research-agent, browserbase-bb]
 tags: [web-scraping, crawling, extraction, content, research]
-forks: 932
-pushed_at: "2026-11-14T12:12:20Z"
+forks: 942
+pushed_at: "2026-11-21T12:43:08Z"
 ---
 
 ## What it is

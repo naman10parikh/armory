@@ -8,13 +8,13 @@ source_url: https://github.com/okeefeco/pyeye-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-11-09T04:23:25Z"
+forks: 1
+pushed_at: "2026-11-21T00:47:17Z"
 ---
 ## What it is
 An extensible MCP server that provides intelligent Python code analysis, navigation, and understanding capabilities for AI assistants like Claude.

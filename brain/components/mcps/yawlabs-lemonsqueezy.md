@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-12T03:02:39Z"
+pushed_at: "2026-11-16T13:52:30Z"
 ---
 ## What it is
 MCP server `LemonSqueezy`, catalogued on PulseMCP. Manage LemonSqueezy stores, products, subscriptions, and customers through 61 tools with built-in guardrails for safe agentic use.

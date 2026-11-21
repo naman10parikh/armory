@@ -8,12 +8,12 @@ source_url: https://github.com/geiserx/spinnaker-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-10T11:11:41Z"
+pushed_at: "2026-11-17T12:30:21Z"
 ---
 ## What it is
 MCP server `Spinnaker`, catalogued on PulseMCP. Community MCP integration for the Spinnaker CD platform via Gate API.

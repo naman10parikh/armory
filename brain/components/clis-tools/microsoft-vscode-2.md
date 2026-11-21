@@ -9,14 +9,14 @@ source_url: https://github.com/microsoft/vscode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 195366
+stars: 195700
 eval_score: null
 mentions: 1
 verified_at: 2026-10-13
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 43836
-pushed_at: "2026-11-14T13:53:26Z"
+forks: 44120
+pushed_at: "2026-11-21T13:56:00Z"
 ---
 ## What it is
 Visual Studio Code

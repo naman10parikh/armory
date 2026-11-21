@@ -8,13 +8,13 @@ source_url: https://github.com/Iseenope/bilibili-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-07-18T13:07:58Z"
+pushed_at: "2026-11-20T11:19:34Z"
 ---
 ## What it is
 Bilibili MCP server enabling video search, comment management, danmaku, user info, dynamics, live streaming analysis, and more via 31 tools.

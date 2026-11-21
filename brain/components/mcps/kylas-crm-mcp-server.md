@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-04T13:11:48Z"
+pushed_at: "2026-11-19T08:24:58Z"
 ---
 ## What it is
 Model Context Protocol server for Kylas CRM lead operations, enabling lead creation, search/filter, and lookup of users, products, and pipelines.

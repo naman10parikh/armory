@@ -8,13 +8,13 @@ source_url: https://github.com/anhnguyen0905/codex-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-14T12:45:18Z"
+pushed_at: "2026-11-20T14:40:06Z"
 ---
 ## What it is
 Bridges Claude Code and OpenAI Codex CLI for an interactive plan-execute-review workflow, enabling Claude to interview, design, and review while Codex implements code changes.

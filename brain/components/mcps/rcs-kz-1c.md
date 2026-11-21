@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-13T20:24:37Z"
+pushed_at: "2026-11-21T11:38:58Z"
 ---
 ## What it is
 MCP server `1C Enterprise`, catalogued on PulseMCP. Connects AI agents to 1C:Enterprise databases for reading and creating business documents.

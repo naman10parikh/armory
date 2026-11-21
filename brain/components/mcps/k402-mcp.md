@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-18T01:12:11Z"
+pushed_at: "2026-11-18T00:32:43Z"
 ---
 ## What it is
 Pay-per-call MCP server for AI agents, offering text tools, web reading, and Kaspa blockchain data with automatic payment via Kaspa cryptocurrency.

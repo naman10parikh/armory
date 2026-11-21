@@ -8,14 +8,14 @@ source_url: https://github.com/NVIDIA/NemoClaw
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 23020
+stars: 23061
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3215
-pushed_at: "2026-11-14T12:50:48Z"
+forks: 3228
+pushed_at: "2026-11-21T14:44:43Z"
 ---
 ## What it is
 Run agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed inference

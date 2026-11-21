@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 17
-pushed_at: "2026-11-14T03:12:34Z"
+pushed_at: "2026-11-20T16:58:00Z"
 ---
 ## What it is
 Enables AI assistants to manage and query Tiger Cloud database services, including service lifecycle operations, database connections, and SQL execution.

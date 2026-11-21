@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-11-12T03:03:29Z"
+pushed_at: "2026-11-16T13:52:26Z"
 ---
 ## What it is
 MCP server `Electron.js`, catalogued on PulseMCP. Development intelligence for Electron.js apps covering IPC scaffolding, security auditing, build tooling, and version migration guidance.

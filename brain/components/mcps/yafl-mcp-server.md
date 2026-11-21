@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-13T17:19:07Z"
+pushed_at: "2026-11-20T20:21:16Z"
 ---
 ## What it is
 Enables AI agents to securely transfer files between machines via encrypted, expiring share links, with tools for upload, download, status checks, and link management.

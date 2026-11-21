@@ -8,14 +8,14 @@ source_url: https://github.com/diwenne/openreply
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3229
+stars: 3355
 eval_score: null
 mentions: 3
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1508
-pushed_at: "2026-10-29T02:04:08Z"
+forks: 1610
+pushed_at: "2026-11-14T18:46:33Z"
 ---
 ## What it is
 The open-source Manychat alternative

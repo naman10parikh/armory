@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-13T16:30:10Z"
+pushed_at: "2026-11-18T10:40:15Z"
 ---
 ## What it is
 MCP server `Cloudinary Asset Management`, catalogued on PulseMCP. Provides asset management capabilities for uploading, searching, transforming, and organizing media assets in Cloudinary.

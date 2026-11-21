@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-05T04:19:39Z"
+pushed_at: "2026-11-16T00:33:52Z"
 ---
 ## What it is
 Enables AI coding agents to fetch real-time stock quotes and computed technical analysis signals (RSI, MACD, golden/death crosses) and generate weekly portfolio digests using Yahoo Finance data, requiring no API key.

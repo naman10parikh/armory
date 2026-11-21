@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-13T11:41:59Z"
+pushed_at: "2026-11-20T00:22:00Z"
 ---
 ## What it is
 Grounds gene-nomenclature work in the HUGO Gene Nomenclature Committee (HGNC) dataset, enabling resolution of gene symbols and IDs to canonical HGNC identifiers, plus cross-references and batch operations.

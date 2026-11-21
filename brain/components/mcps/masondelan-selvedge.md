@@ -13,7 +13,7 @@ related: []
 tags: [mcp, developer-tools]
 stars: 26
 forks: 1
-pushed_at: "2026-11-13T22:53:49Z"
+pushed_at: "2026-11-19T22:57:02Z"
 ---
 ## What it is
 Change tracking for AI-era codebases. AI agents call it to log structured change events (entity + diff + reasoning) before the session ends, then query history with diff, blame, history, changeset, and search. Captures the intent that would otherwise evaporate.

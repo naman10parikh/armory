@@ -8,12 +8,12 @@ source_url: https://github.com/OptimaiNetwork/optimai-search-mcp
 license: ISC License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
+forks: 9
 pushed_at: "2026-05-08T12:14:02Z"
 ---
 ## What it is

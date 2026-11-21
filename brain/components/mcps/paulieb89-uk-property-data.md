@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-09-04T23:40:17Z"
+pushed_at: "2026-11-19T03:06:23Z"
 ---
 ## What it is
 MCP server `UK Property Data`, catalogued on PulseMCP. Aggregates UK property data from Land Registry, EPC ratings, Rightmove listings, and Companies House records for property research and analysis.

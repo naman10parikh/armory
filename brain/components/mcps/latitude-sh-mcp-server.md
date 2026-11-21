@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-14T00:33:47Z"
+pushed_at: "2026-11-21T00:34:53Z"
 ---
 ## What it is
 Enables natural language management of Latitude.sh infrastructure, allowing users to list, create, and delete servers, projects, and SSH keys through MCP-compatible clients.

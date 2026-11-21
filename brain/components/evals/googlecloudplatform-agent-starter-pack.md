@@ -8,14 +8,14 @@ source_url: https://github.com/GoogleCloudPlatform/agent-starter-pack
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 6574
+stars: 6572
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, evals]
 forks: 1495
-pushed_at: "2026-07-21T23:42:40Z"
+pushed_at: "2026-11-15T15:12:27Z"
 ---
 ## What it is
 Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.

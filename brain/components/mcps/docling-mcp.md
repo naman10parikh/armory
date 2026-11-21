@@ -8,12 +8,12 @@ source_url: https://github.com/docling-project/docling-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 792
+stars: 802
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 146
+forks: 147
 pushed_at: "2026-11-14T00:00:13Z"
 ---
 ## What it is

@@ -13,9 +13,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claude-code-statusline, claude-hud]
 tags: [statusline, observability]
-stars: 13597
-forks: 609
-pushed_at: "2026-11-09T08:45:22Z"
+stars: 13654
+forks: 612
+pushed_at: "2026-11-16T08:45:35Z"
 ---
 ## What it is
 A community statusline, catalogued in awesome-claude-code. A highly customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.

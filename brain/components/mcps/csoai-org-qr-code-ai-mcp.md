@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-13T10:05:22Z"
+pushed_at: "2026-11-16T02:40:14Z"
 ---
 ## What it is
 MCP server `QR Code AI`, catalogued on PulseMCP. Python MCP server for QR code generation and scanning tools.

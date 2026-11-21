@@ -8,7 +8,7 @@ source_url: https://github.com/guardianer9-debug/cst-studio-orchestrator-mcp
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []

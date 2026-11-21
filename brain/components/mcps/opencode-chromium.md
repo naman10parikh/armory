@@ -8,13 +8,13 @@ source_url: https://github.com/Quindart-com/opencode-chromium
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-09T17:11:14Z"
+pushed_at: "2026-11-21T15:03:04Z"
 ---
 ## What it is
 Provides Chromium browser automation for MCP clients and AI agents, enabling background tab control, observation, session management, and performance diagnostics through tools like browser_run and browser_observe.

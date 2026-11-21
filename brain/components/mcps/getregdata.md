@@ -8,13 +8,13 @@ source_url: https://github.com/Nolpak14/getregdata
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-11-14T10:10:19Z"
+forks: 1
+pushed_at: "2026-11-19T13:37:13Z"
 ---
 ## What it is
 Exposes 29 official business-registry actors as MCP tools for KYC/AML, beneficial-owner (UBO), credit-risk and adverse-media workflows across 11 jurisdictions (EU, US, UAE). Sourced via Apify; pay-per-result.

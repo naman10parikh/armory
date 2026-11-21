@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-07-07T16:39:29Z"
+pushed_at: "2026-11-20T18:22:04Z"
 ---
 ## What it is
 MCP server `Elecz`, catalogued on PulseMCP. Real-time Nordic electricity spot prices and contract recommendations for Finland, Sweden, Norway, and Denmark.

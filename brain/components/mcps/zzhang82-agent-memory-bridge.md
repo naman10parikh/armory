@@ -13,7 +13,7 @@ related: []
 tags: [mcp, knowledge-memory]
 stars: 7
 forks: 1
-pushed_at: "2026-11-14T02:24:07Z"
+pushed_at: "2026-11-17T19:12:39Z"
 ---
 ## What it is
 MCP-native, local-first memory for coding agents that turns coding sessions into reusable engineering memory: decisions, gotchas, and domain knowledge.

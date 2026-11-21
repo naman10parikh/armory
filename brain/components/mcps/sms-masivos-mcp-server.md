@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-11-05T04:40:08Z"
+forks: 2
+pushed_at: "2026-11-21T01:57:42Z"
 ---
 ## What it is
 Enables AI assistants to send SMS, manage contacts, verify numbers, and query campaigns via SMS Masivos platform using natural language.

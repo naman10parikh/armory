@@ -16,7 +16,7 @@ related: []
 tags: [workflow, guide]
 stars: 58
 forks: 5
-pushed_at: "2026-11-14T09:14:51Z"
+pushed_at: "2026-11-21T03:15:02Z"
 ---
 ## What it is
 A community workflow/command, catalogued in awesome-claude-code. A mirror of the Anthropic&copy; PBC documentation site for Claude/Code, but with bonus features like full-text search and query-time updates - a nice companion to `claude-code-docs` for up-to-the-minute, fully-indexed information so that Claude Code can read about itself.

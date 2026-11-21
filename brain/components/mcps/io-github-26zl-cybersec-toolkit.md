@@ -8,13 +8,13 @@ source_url: https://github.com/26zl/cybersec-toolkit
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 96
+stars: 101
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 19
-pushed_at: "2026-11-14T02:11:01Z"
+forks: 20
+pushed_at: "2026-11-19T22:46:55Z"
 ---
 ## What it is
 Enables MCP-capable clients to query the tool registry, check install status, get tool recommendations for CTF or bug-bounty work, and run installed security tools through a governed execution path.

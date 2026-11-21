@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-14T01:44:17Z"
+pushed_at: "2026-11-21T10:21:04Z"
 ---
 ## What it is
 MCP server `FactorialHR`, catalogued on PulseMCP. Full CRUD integration with FactorialHR for employees, teams, time off, projects, recruiting, and payroll.

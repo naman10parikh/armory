@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-19T08:53:22Z"
+pushed_at: "2026-11-18T21:37:31Z"
 ---
 ## What it is
 Exposes an OpenAPI catalog as tools for AI agents (e.g., Claude Code, Cursor) to query API endpoints via list_endpoints and get_endpoint tools, enabling interactive API exploration without a browser.

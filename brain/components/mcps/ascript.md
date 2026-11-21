@@ -8,11 +8,11 @@ source_url: https://github.com/ascript-cn/ascript-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 4
 pushed_at: "2026-04-30T07:43:09Z"
 ---
 ## What it is

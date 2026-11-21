@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-13T13:58:22Z"
+pushed_at: "2026-11-18T14:58:42Z"
 ---
 ## What it is
 Enables AI agents to issue, correct, and register legally compliant Spanish electronic invoices with AEAT VeriFactu, supporting F1/F2 types, R1–R5 correctives, and NIF validation from Claude, ChatGPT, Cursor, or VS Code.

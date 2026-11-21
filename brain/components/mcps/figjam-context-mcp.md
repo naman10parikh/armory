@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-14T13:54:43Z"
+pushed_at: "2026-11-20T12:28:01Z"
 ---
 ## What it is
 Exposes tools to ingest FigJam boards, retrieve context summaries, and answer free-form questions about the board content.

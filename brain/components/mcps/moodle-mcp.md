@@ -8,12 +8,12 @@ source_url: https://github.com/loyaniu/moodle-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 57
+stars: 58
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 17
+forks: 19
 pushed_at: "2026-11-06T22:27:55Z"
 ---
 ## What it is

@@ -8,14 +8,14 @@ source_url: https://github.com/tobi/qmd
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 31120
+stars: 31319
 eval_score: null
 mentions: 10
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 1950
-pushed_at: "2026-10-15T03:04:06Z"
+forks: 1976
+pushed_at: "2026-11-20T21:34:04Z"
 ---
 ## What it is
 mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local

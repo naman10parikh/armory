@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-13T13:41:03Z"
+pushed_at: "2026-11-19T13:30:08Z"
 ---
 ## What it is
 MCP server that enables AI assistants to answer portfolio questions about a wealthAPI account, with read-only tools for accounts, transactions, investments, dividends, and market data.

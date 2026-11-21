@@ -8,12 +8,12 @@ source_url: https://github.com/perses/mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 32
+stars: 33
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-11-13T23:17:53Z"
+pushed_at: "2026-11-19T15:23:26Z"
 ---
 ## What it is
 MCP server `Perses Monitoring`, catalogued on PulseMCP. Enables AI to query and analyze monitoring data from Perses visualization applications through authenticated API calls for accessing projects, dashboards, variables, and datasources.

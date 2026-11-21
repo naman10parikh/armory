@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T08:08:20Z"
+pushed_at: "2026-11-19T07:53:02Z"
 ---
 ## What it is
 Enables conversational analysis of Google Analytics 4 data through MCP-compatible clients like Claude and ChatGPT, providing conversion diagnostics and insights.

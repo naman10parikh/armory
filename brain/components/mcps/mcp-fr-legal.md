@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-17T13:26:35Z"
+pushed_at: "2026-11-21T13:13:12Z"
 ---
 ## What it is
 Provides offline access to the French legal corpus (Legifrance/DILA) with full-text search, verbatim article retrieval, and citation grounding to prevent hallucinations.

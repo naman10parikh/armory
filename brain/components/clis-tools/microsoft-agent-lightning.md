@@ -8,13 +8,13 @@ source_url: https://github.com/microsoft/agent-lightning
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 18952
+stars: 18992
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1722
+forks: 1726
 pushed_at: "2026-11-12T03:27:22Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-13T09:19:32Z"
+pushed_at: "2026-11-16T02:23:45Z"
 ---
 ## What it is
 MCP server `Git Helper AI`, catalogued on PulseMCP. AI tools for Git workflow assistance, branch management, and repository operations.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-11-07T19:11:48Z"
+pushed_at: "2026-11-16T03:36:57Z"
 ---
 ## What it is
 MCP server `MinerU`, catalogued on PulseMCP. Document parsing API for PDFs, images, DOCX, PPTX with OCR.

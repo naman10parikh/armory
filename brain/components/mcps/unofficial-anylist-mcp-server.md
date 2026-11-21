@@ -8,13 +8,13 @@ source_url: https://github.com/bobby060/anylist-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 35
+stars: 36
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 32
-pushed_at: "2026-11-11T18:55:11Z"
+forks: 33
+pushed_at: "2026-11-14T18:40:17Z"
 ---
 ## What it is
 MCP server that integrates with AnyList for managing shopping lists, recipes, and meal planning via natural language.

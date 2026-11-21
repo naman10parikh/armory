@@ -8,11 +8,11 @@ source_url: https://github.com/puran-water/mathcad-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 24
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
+forks: 6
 pushed_at: "2026-11-07T20:29:13Z"
 ---
 ## What it is

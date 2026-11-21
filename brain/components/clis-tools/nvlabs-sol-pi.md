@@ -8,14 +8,14 @@ source_url: https://github.com/NVlabs/SoL-Pi
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 3677
+stars: 3692
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 300
-pushed_at: "2026-11-14T13:20:54Z"
+forks: 304
+pushed_at: "2026-11-21T14:21:03Z"
 ---
 ## What it is
 SoL-Pi: Scaling Auto-Research Loops for Efficient Agent Harnesses

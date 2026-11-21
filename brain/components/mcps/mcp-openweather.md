@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-09T14:29:56Z"
+pushed_at: "2026-11-17T01:14:04Z"
 ---
 ## What it is
 Wraps the OpenWeatherMap API to provide weather data through MCP, enabling AI agents to query current conditions, forecasts, and other weather information via natural language.

@@ -8,12 +8,12 @@ source_url: https://github.com/txn2/kubefwd
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4184
+stars: 4188
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 238
-pushed_at: "2026-11-10T22:34:42Z"
+pushed_at: "2026-11-17T22:32:50Z"
 ---
 ## What it is
 MCP server `Kubefwd`, catalogued on PulseMCP. Bulk-forward Kubernetes cluster services for local development with AI assistant integration.

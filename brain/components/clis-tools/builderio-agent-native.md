@@ -8,14 +8,14 @@ source_url: https://github.com/BuilderIO/agent-native
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 7702
+stars: 7734
 eval_score: null
 mentions: 1
 verified_at: 2026-10-25
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 709
-pushed_at: "2026-11-14T13:36:20Z"
+forks: 711
+pushed_at: "2026-11-21T14:25:00Z"
 ---
 ## What it is
 A framework for building agentic apps

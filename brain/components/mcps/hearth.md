@@ -8,12 +8,12 @@ source_url: https://github.com/echoo19/hearth
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 43
+stars: 42
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 4
 pushed_at: "2026-10-05T22:18:17Z"
 ---
 ## What it is

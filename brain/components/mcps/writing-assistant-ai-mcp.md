@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-13T10:34:27Z"
+pushed_at: "2026-11-16T02:50:29Z"
 ---
 ## What it is
 Content writing toolkit for headline generation, readability scoring, tone analysis, outline building, and plagiarism similarity checking.

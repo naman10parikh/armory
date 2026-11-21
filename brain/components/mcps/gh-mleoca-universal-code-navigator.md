@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-11-14T07:31:08Z"
+pushed_at: "2026-11-20T07:02:55Z"
 ---
 ## What it is
 MCP server `Universal Code Navigator`, catalogued on PulseMCP. Structural code intelligence for AI agents using tree-sitter analysis.

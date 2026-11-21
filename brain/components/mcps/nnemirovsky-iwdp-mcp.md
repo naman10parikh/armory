@@ -13,7 +13,7 @@ related: []
 tags: [mcp, browser-automation]
 stars: 21
 forks: 6
-pushed_at: "2026-10-03T09:47:28Z"
+pushed_at: "2026-11-18T22:52:36Z"
 ---
 ## What it is
 iOS Safari debugging via ios-webkit-debug-proxy — MCP server with full WebKit Inspector Protocol support (DOM, CSS, Network, Storage, Debugger, and more)

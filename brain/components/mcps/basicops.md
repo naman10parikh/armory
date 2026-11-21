@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-14T00:41:30Z"
+pushed_at: "2026-11-16T16:47:06Z"
 ---
 ## What it is
 MCP server `BasicOps`, catalogued on PulseMCP. Project management with tasks, notes, messages, and team collaboration via BasicOps.

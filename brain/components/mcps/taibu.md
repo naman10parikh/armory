@@ -8,12 +8,12 @@ source_url: https://github.com/hhszzzz/taibu
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 768
+stars: 804
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 161
+forks: 175
 pushed_at: "2026-11-11T08:30:09Z"
 ---
 ## What it is

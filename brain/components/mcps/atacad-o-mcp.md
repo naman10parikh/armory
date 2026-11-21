@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T19:39:34Z"
+pushed_at: "2026-11-20T23:04:12Z"
 ---
 ## What it is
 Connect your Atacadão account to AI assistants via Open Finance Brasil to query balances, statements, credit card bills, and investments in natural language. Read-only and regulated by the Central Bank of Brazil.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-13T06:25:37Z"
+pushed_at: "2026-11-18T10:59:00Z"
 ---
 ## What it is
 Generate AI images, video, speech, and music from Claude, ChatGPT, Cursor, and other MCP clients through the Clipia API.

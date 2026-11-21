@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 173
+stars: 176
 forks: 22
-pushed_at: "2026-05-25T01:12:33Z"
+pushed_at: "2026-11-16T21:52:56Z"
 ---
 ## What it is
 Extracts essential code structure from large codebases into AI-digestible format, helping AI agents write code that correctly uses existing APIs on the first attempt.

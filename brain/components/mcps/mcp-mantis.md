@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-07-14T11:13:37Z"
+forks: 1
+pushed_at: "2026-11-18T15:11:22Z"
 ---
 ## What it is
 Provides AI assistants with direct access to MantisBT issue trackers via the REST API, enabling reading, updating, resolving, and semantically searching issues.

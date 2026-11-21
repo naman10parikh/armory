@@ -8,11 +8,11 @@ source_url: https://github.com/vicquick/vwx-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 23
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 13
+forks: 12
 pushed_at: "2026-11-11T09:07:52Z"
 ---
 ## What it is

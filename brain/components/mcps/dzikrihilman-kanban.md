@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-02-26T15:44:50Z"
+pushed_at: "2026-11-19T10:41:52Z"
 ---
 ## What it is
 MCP server `Kanban Board`, catalogued on PulseMCP. Full-stack kanban project management with drag-and-drop board, dashboard analytics, sub-tasks, labels, comments, and 13 MCP tools for AI agent integration.

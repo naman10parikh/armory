@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T19:39:17Z"
+pushed_at: "2026-11-20T23:07:06Z"
 ---
 ## What it is
 Connects your Caixa Tem account to AI assistants via Open Finance Brasil, enabling read-only queries of balances, statements, credit card bills, and investments in natural language.

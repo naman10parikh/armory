@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2025-11-28T10:33:09Z"
+pushed_at: "2026-11-18T15:15:07Z"
 ---
 ## What it is
 Provides comprehensive domain research tools including RDAP, WHOIS, and DNS lookup capabilities, with automatic fallback and support for 50+ TLDs.

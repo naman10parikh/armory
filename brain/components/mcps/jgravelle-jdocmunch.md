@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 49
-pushed_at: "2026-11-05T03:54:05Z"
+pushed_at: "2026-11-18T15:47:01Z"
 ---
 ## What it is
 MCP server `jDocMunch by jgravelle`, catalogued on PulseMCP. Section-level documentation search supporting Markdown, RST, AsciiDoc, Jupyter, HTML, YAML, JSON, and OpenAPI specs.

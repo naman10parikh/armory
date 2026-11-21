@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-04T01:37:02Z"
+pushed_at: "2026-11-19T11:42:22Z"
 ---
 ## What it is
 Enables interaction with Google Search Console via MCP, offering search analytics, performance summaries, URL inspection, sitemap management, and property listing for SEO workflows.

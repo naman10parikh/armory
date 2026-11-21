@@ -8,12 +8,12 @@ source_url: https://github.com/mhajder/ghostfolio-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 22
+stars: 21
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-11-14T07:21:06Z"
+pushed_at: "2026-11-19T19:05:34Z"
 ---
 ## What it is
 MCP server `Ghostfolio`, catalogued on PulseMCP. Python integration for Ghostfolio portfolio management, supporting account queries, transaction imports, and market data access.

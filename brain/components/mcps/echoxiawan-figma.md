@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2025-09-03T03:53:24Z"
+pushed_at: "2026-11-19T06:08:22Z"
 ---
 ## What it is
 MCP server `Figma`, catalogued on PulseMCP. Integrates with Figma's design API to extract images, styles, SVG data, and design elements from Figma files for automated design asset extraction and development workflows.

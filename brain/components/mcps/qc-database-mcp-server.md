@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-07T19:32:05Z"
+pushed_at: "2026-11-15T05:11:31Z"
 ---
 ## What it is
 Enables AI assistants to perform QC Database tasks such as uploading records, managing project turnover packages, and signing off on inspections via natural language.

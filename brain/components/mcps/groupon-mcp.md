@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-07T14:04:12Z"
+pushed_at: "2026-11-21T14:04:11Z"
 ---
 ## What it is
 MCP server for Groupon that enables searching and browsing local, goods, and travel deals via natural language. No API key required for reading deals.

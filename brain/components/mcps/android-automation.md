@@ -8,12 +8,12 @@ source_url: https://github.com/cursortouch/android-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 925
+stars: 936
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 128
-pushed_at: "2026-11-11T17:33:48Z"
+forks: 127
+pushed_at: "2026-11-20T04:51:51Z"
 ---
 ## What it is
 MCP server `Android Automation`, catalogued on PulseMCP. Provides direct automation and control of Android devices through uiautomator2, enabling clicking, swiping, typing, and UI element inspection for mobile app testing and automation workflows.

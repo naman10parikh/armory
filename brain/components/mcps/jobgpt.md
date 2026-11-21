@@ -12,8 +12,8 @@ stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
-pushed_at: "2026-11-07T16:58:10Z"
+forks: 10
+pushed_at: "2026-11-16T18:06:46Z"
 ---
 ## What it is
 MCP server `JobGPT`, catalogued on PulseMCP. Search jobs, auto-apply to positions, generate tailored resumes, and track applications through the 6figr JobGPT platform.

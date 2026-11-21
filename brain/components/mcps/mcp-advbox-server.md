@@ -8,12 +8,12 @@ source_url: https://github.com/JonasSousaAP/advbox-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 2
 pushed_at: "2026-01-07T18:00:57Z"
 ---
 ## What it is

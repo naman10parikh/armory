@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-24T07:26:54Z"
+pushed_at: "2026-11-17T12:24:57Z"
 ---
 ## What it is
 Manages local protein experiments with a Flask backend and SQLite, offering tools for protein library management, Beer-Lambert concentration calculations, BLI dilution planning, and experiment archiving. It provides 7 MCP tools for AI assistants like Claude to interact with the system.

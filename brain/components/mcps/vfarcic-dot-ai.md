@@ -8,12 +8,12 @@ source_url: https://github.com/vfarcic/dot-ai
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 339
+stars: 340
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 71
-pushed_at: "2026-11-14T04:11:44Z"
+pushed_at: "2026-11-17T21:41:28Z"
 ---
 ## What it is
 MCP server `Dot AI (Kubernetes Deployment)`, catalogued on PulseMCP. Automates Kubernetes deployment workflows with intelligent resource discovery, intent-based recommendations, manifest generation, and deployment execution while capturing organizational patterns through vector search for codifying deployment knowledge and providing deployment guidance.

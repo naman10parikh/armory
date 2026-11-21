@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-04T08:30:25Z"
+pushed_at: "2026-11-20T09:23:48Z"
 ---
 ## What it is
 MCP server for the Codex Bilingual Overlay, enabling control of bilingual translation modes (off, hover, preload) and retrieval of overlay status for the Codex desktop app.
