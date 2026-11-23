@@ -8,11 +8,11 @@ source_url: https://github.com/wshobson/maverick-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 728
+stars: 736
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 173
+forks: 172
 pushed_at: "2026-11-13T21:07:35Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 16
-pushed_at: "2026-11-12T08:50:54Z"
+pushed_at: "2026-11-20T02:37:15Z"
 ---
 ## What it is
 Your agent seeks what search can't find. A self-hosted perception MCP server that transcribes speech, reads behind logins, sees images and video frames, crosses languages, and remembers.

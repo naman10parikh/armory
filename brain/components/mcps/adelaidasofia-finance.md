@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-11T12:08:15Z"
+pushed_at: "2026-11-18T12:08:08Z"
 ---
 ## What it is
 MCP server `Personal Finance`, catalogued on PulseMCP. Personal finance management via Plaid integration for account balances and transaction history.

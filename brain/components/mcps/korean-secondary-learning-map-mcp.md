@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 11
-pushed_at: "2026-08-25T02:16:45Z"
+pushed_at: "2026-11-23T03:10:53Z"
 ---
 ## What it is
 MCP server enabling AI to search and retrieve Korean secondary school (middle/high) 2022 revised curriculum learning graphs, including achievement standards, topics, prerequisites, and transitions, via 11 tools.

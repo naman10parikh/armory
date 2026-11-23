@@ -8,12 +8,12 @@ source_url: https://github.com/ryanshatz/genesys-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 22
+stars: 24
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 6
+forks: 7
 pushed_at: "2026-11-05T16:38:46Z"
 ---
 ## What it is

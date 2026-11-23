@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-15T07:12:27Z"
+pushed_at: "2026-11-20T15:38:40Z"
 ---
 ## What it is
 Windows-local MCP gateway for the Codex runtime, enabling owner-authenticated tool access via Streamable HTTP with optional Oracle consent companion.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-13T15:46:32Z"
+pushed_at: "2026-11-22T08:45:13Z"
 ---
 ## What it is
 Enables AI agents to design RF filters and SMPS-EMC from spec using three MCP servers that drive LTspice, Qucs-S, and scikit-rf, with closed-form synthesis, real-component optimization, and CISPR-aware compliance checking.

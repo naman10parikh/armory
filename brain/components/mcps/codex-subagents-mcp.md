@@ -8,7 +8,7 @@ source_url: https://github.com/leonardsellem/codex-subagents-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 161
+stars: 160
 eval_score: null
 verified_at: 2026-05-27
 related: []

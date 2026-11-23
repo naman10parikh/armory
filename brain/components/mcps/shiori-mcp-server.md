@@ -8,12 +8,12 @@ source_url: https://github.com/kaorii-ako/Shiori-v1
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 48
+stars: 49
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 6
 pushed_at: "2026-07-25T10:24:26Z"
 ---
 ## What it is

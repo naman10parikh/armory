@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-24T01:29:58Z"
+pushed_at: "2026-11-17T20:11:07Z"
 ---
 ## What it is
 Verifies signed SAR v0.1 settlement receipts offline using Ed25519 signatures and bundled key registry.

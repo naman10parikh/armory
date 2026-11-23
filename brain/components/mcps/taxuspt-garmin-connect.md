@@ -8,11 +8,11 @@ source_url: https://github.com/taxuspt/garmin_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1511
+stars: 1543
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 479
+forks: 490
 pushed_at: "2026-10-24T12:16:10Z"
 ---
 ## What it is

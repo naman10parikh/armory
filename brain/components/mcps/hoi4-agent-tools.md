@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-16T07:57:21Z"
+pushed_at: "2026-11-23T18:48:26Z"
 ---
 ## What it is
 A source-preserving MCP server for coding agents working on Hearts of Iron IV mods, combining focus tree, GUI, and map tools with transaction safety.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-05T06:59:11Z"
+pushed_at: "2026-11-23T11:49:27Z"
 ---
 ## What it is
 Enables issuing invoices, proformas, and delivery notices, collecting payments, submitting e-Factura to Romania's SPV, and querying reference data on Oblio.eu through natural language from MCP clients.

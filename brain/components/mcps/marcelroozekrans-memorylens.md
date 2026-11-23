@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-11-16T05:53:56Z"
+pushed_at: "2026-11-22T21:12:16Z"
 ---
 ## What it is
 MCP server `MemoryLens`, catalogued on PulseMCP. .NET memory profiling with JetBrains dotMemory integration for AI-assisted analysis.

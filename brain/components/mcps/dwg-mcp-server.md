@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-10-22T21:44:24Z"
+pushed_at: "2026-11-16T21:01:56Z"
 ---
 ## What it is
 An MCP server for read-only inspection of AutoCAD DWG files, enabling AI agents to open drawings, query objects by handle or filter, and explore properties and references.

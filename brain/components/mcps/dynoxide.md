@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-11-14T12:25:26Z"
+pushed_at: "2026-11-20T17:31:47Z"
 ---
 ## What it is
 A DynamoDB-compatible database engine (Rust, SQLite-backed) whose MCP server exposes 34 DynamoDB tools: tables, items, query/scan, batch, transactions, PartiQL, TTL, tags, streams and snapshots

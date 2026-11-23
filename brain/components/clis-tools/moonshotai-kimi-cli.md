@@ -8,13 +8,13 @@ source_url: https://github.com/MoonshotAI/kimi-cli
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 11407
+stars: 11400
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1322
+forks: 1320
 pushed_at: "2026-09-22T09:42:54Z"
 ---
 ## What it is

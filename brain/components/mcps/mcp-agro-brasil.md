@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 18
-pushed_at: "2026-11-02T12:15:15Z"
+pushed_at: "2026-11-23T14:42:59Z"
 ---
 ## What it is
 Provides Brazilian agribusiness data such as livestock, crop prices, weather, exchange rates, and news through MCP tools.

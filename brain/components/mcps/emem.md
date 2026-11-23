@@ -8,12 +8,12 @@ source_url: https://github.com/vortx-ai/emem
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 89
+stars: 91
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 13
-pushed_at: "2026-11-15T08:57:14Z"
+pushed_at: "2026-11-21T06:11:15Z"
 ---
 ## What it is
 MCP server `emem`, catalogued on PulseMCP. Content-addressed Earth memory with cryptographic signing for geospatial AI workflows.

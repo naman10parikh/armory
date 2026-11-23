@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-20T07:27:31Z"
+pushed_at: "2026-11-18T02:19:55Z"
 ---
 ## What it is
 Enables AI assistants to retrieve real-time official Korean statistics from the KOSIS database through natural language queries, with source citations.

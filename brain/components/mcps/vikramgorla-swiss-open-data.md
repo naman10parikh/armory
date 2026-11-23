@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-11-16T07:55:01Z"
+pushed_at: "2026-11-23T16:17:48Z"
 ---
 ## What it is
 MCP server `Swiss Open Data`, catalogued on PulseMCP. Provides access to Swiss public data including transport schedules, weather, hydrology, geodata, company registries, and exchange rates.

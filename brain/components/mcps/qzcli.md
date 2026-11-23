@@ -8,13 +8,13 @@ source_url: https://github.com/tianyilt/qzcli_tool
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 152
+stars: 156
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 28
-pushed_at: "2026-11-11T15:00:15Z"
+pushed_at: "2026-11-18T17:31:37Z"
 ---
 ## What it is
 Enables managing OpenI platform resources (login, query nodes, submit jobs, view logs) via natural language in Claude or Codex, following a kubectl/docker-style CLI.

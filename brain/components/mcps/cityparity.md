@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T05:50:05Z"
+pushed_at: "2026-11-22T22:53:35Z"
 ---
 ## What it is
 Cost-of-living and quality-of-life comparison across ~165 cities: take-home pay, the equivalent salary you'd need, and the safety-net deltas (childcare, healthcare, vacation, parental leave).

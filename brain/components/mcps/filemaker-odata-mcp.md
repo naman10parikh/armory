@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-11-11T13:27:37Z"
+pushed_at: "2026-11-23T10:36:05Z"
 ---
 ## What it is
 MCP server for FileMaker Server OData 4.01 API integration, enabling AI assistants to discover databases, perform CRUD operations, and manage connections.

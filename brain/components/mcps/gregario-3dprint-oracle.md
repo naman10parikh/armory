@@ -11,8 +11,8 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, knowledge-memory]
-stars: 1
-forks: 1
+stars: 2
+forks: 2
 pushed_at: "2026-05-02T20:52:28Z"
 ---
 ## What it is

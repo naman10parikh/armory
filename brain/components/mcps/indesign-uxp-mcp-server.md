@@ -8,13 +8,13 @@ source_url: https://github.com/theloniuser/indesign-uxp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 112
+stars: 113
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 26
-pushed_at: "2026-10-28T22:18:14Z"
+pushed_at: "2026-11-17T15:59:09Z"
 ---
 ## What it is
 A Model Context Protocol (MCP) server that gives AI assistants direct, native control over Adobe InDesign via a UXP plugin bridge, with ~130 tools covering documents, pages, text, graphics, styles, master spreads, books, and export.

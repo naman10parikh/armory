@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2025-10-18T19:17:28Z"
+pushed_at: "2026-11-17T13:30:15Z"
 ---
 ## What it is
 MCP server `Jira Service Management (CData)`, catalogued on PulseMCP. Provides database connectivity through JDBC drivers, enabling query execution and schema exploration across various database systems including Jira Service Management with tools for listing tables, retrieving metadata, and executing SQL SELECT queries with CSV-formatted results.

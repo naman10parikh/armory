@@ -8,12 +8,12 @@ source_url: https://github.com/naebo/mcp-external-recon-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 4
+forks: 3
 pushed_at: "2025-04-11T19:32:48Z"
 ---
 ## What it is

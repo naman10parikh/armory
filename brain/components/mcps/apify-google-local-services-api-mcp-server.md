@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-15T06:06:57Z"
+pushed_at: "2026-11-22T06:06:58Z"
 ---
 ## What it is
 Retrieves vetted Local Services Ads businesses (Google Guaranteed or Screened) as clean JSON for any service and US city, enabling lead generation, local SEO monitoring, and competitor tracking.

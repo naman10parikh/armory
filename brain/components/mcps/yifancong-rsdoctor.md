@@ -12,8 +12,8 @@ stars: 1152
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 110
-pushed_at: "2026-11-16T14:54:51Z"
+forks: 111
+pushed_at: "2026-11-23T00:54:26Z"
 ---
 ## What it is
 MCP server `Rsdoctor`, catalogued on PulseMCP. Build analysis and optimization recommendations for Rspack projects

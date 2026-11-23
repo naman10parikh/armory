@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-31T14:41:30Z"
+pushed_at: "2026-11-22T01:49:58Z"
 ---
 ## What it is
 Enables AI agents to search, audit, and install open-source AI skills and MCP servers with security grading and quality scoring, directly from MCP clients.

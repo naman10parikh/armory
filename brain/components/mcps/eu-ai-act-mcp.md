@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-10T09:53:31Z"
+pushed_at: "2026-11-18T12:59:36Z"
 ---
 ## What it is
 An MCP server providing structured intelligence about the EU AI Act, including risk classification, deadline tracking, obligations, penalties, and article lookups.

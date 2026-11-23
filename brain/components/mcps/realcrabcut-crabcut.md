@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-03-15T12:25:22Z"
+pushed_at: "2026-11-23T15:19:16Z"
 ---
 ## What it is
 MCP server `CrabCut`, catalogued on PulseMCP. Turn YouTube videos into short-form clips with AI-powered highlight detection and vertical reframing.

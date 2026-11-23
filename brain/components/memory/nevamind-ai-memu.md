@@ -8,14 +8,14 @@ source_url: https://github.com/NevaMind-AI/memU
 license: NOASSERTION
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 14623
+stars: 14634
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 1102
-pushed_at: "2026-11-16T04:25:19Z"
+forks: 1103
+pushed_at: "2026-11-23T07:50:13Z"
 ---
 ## What it is
 Use when one person's memory should follow them across several different agents.

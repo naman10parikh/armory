@@ -8,12 +8,12 @@ source_url: https://github.com/damien829/aipaygen
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 0
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1
-pushed_at: "2026-11-16T16:38:44Z"
+forks: 0
+pushed_at: "2026-11-21T05:01:38Z"
 ---
 ## What it is
 MCP server `AiPayGen`, catalogued on PulseMCP. Pay-per-use AI API platform with 155 tools, agent builder, and USDC micropayments.

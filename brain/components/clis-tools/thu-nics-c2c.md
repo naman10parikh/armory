@@ -8,7 +8,7 @@ source_url: https://github.com/thu-nics/C2C
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 779
+stars: 784
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10

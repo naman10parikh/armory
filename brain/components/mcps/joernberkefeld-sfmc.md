@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-15T13:01:15Z"
+pushed_at: "2026-11-19T21:33:53Z"
 ---
 ## What it is
 MCP server `Salesforce Marketing Cloud`, catalogued on PulseMCP. AMPscript, SSJS, and GTL language tools with searchable help documentation for Salesforce Marketing Cloud.

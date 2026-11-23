@@ -8,13 +8,13 @@ source_url: https://github.com/DeHor-Labs/mcp-juridico-brasil
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 141
+stars: 143
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 29
-pushed_at: "2026-10-26T22:46:13Z"
+forks: 32
+pushed_at: "2026-11-16T22:45:34Z"
 ---
 ## What it is
 Connects AI assistants to Brazilian judicial data from DataJud CNJ and 91 courts, enabling process consultation, monitoring, and deadline calculation under the Civil Procedure Code.

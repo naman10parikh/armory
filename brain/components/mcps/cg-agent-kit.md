@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-13T08:55:52Z"
+pushed_at: "2026-11-18T17:54:36Z"
 ---
 ## What it is
 Enables AI agents to design hardware by writing C-like HDL and compiling it to Verilog, with real toolchain verification including synthesis checks.

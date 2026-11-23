@@ -8,12 +8,12 @@ source_url: https://github.com/zereight/gitlab-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2109
+stars: 2119
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 371
-pushed_at: "2026-11-16T14:12:09Z"
+forks: 373
+pushed_at: "2026-11-23T16:23:20Z"
 ---
 ## What it is
 MCP server `GitLab`, catalogued on PulseMCP. Integrates with GitLab's API to enable repository management, issue tracking, merge request handling, and file operations for automated development workflows.

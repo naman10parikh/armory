@@ -8,13 +8,13 @@ source_url: https://github.com/rosasynthesiz/flstudio-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 141
+stars: 153
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 24
-pushed_at: "2026-11-04T21:56:11Z"
+forks: 26
+pushed_at: "2026-11-18T17:46:01Z"
 ---
 ## What it is
 AI control for FL Studio via the Model Context Protocol — full in-DAW mixing (Mix Doctor diagnosis, gain staging, EQ/compression/reverb, reference matching), routing, and composition through Claude and any MCP client. 67 tools. Windows.

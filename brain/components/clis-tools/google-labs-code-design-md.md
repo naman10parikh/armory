@@ -8,14 +8,14 @@ source_url: https://github.com/google-labs-code/design.md
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 28898
+stars: 29063
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 2313
-pushed_at: "2026-11-06T11:02:13Z"
+forks: 2350
+pushed_at: "2026-11-18T02:55:33Z"
 ---
 ## What it is
 A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.

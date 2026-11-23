@@ -15,7 +15,7 @@ verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
 forks: 7
-pushed_at: "2026-10-02T12:13:54Z"
+pushed_at: "2026-11-23T05:24:24Z"
 ---
 ## What it is
 Use when you want to find an agent's interface starting from nothing but a domain name.

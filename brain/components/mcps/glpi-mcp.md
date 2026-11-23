@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-27T18:57:41Z"
+pushed_at: "2026-11-18T02:22:52Z"
 ---
 ## What it is
 MCP server allowing an AI assistant to interact directly with your GLPI instance via its REST API, enabling ticket management, knowledge base operations, and statistics.

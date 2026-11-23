@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-11-11T00:05:58Z"
+pushed_at: "2026-11-22T06:16:42Z"
 ---
 ## What it is
 MCP server `Grafana Loki`, catalogued on PulseMCP. Integrates with Grafana Loki log aggregation.

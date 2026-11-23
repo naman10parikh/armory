@@ -8,11 +8,11 @@ source_url: https://github.com/neosun100/translategemma
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 40
+stars: 42
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 9
+forks: 10
 pushed_at: "2026-01-17T18:10:44Z"
 ---
 ## What it is

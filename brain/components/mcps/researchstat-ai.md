@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T14:46:34Z"
+pushed_at: "2026-11-19T05:38:29Z"
 ---
 ## What it is
 Enables AI-native statistical analysis and reproducible research workflows through MCP, including natural language planning, protocol-based analysis, Python/R cross-validation, and publication-ready figure generation.

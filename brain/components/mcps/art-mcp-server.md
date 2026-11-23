@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-16T15:08:39Z"
+pushed_at: "2026-11-22T19:56:49Z"
 ---
 ## What it is
 Enables time series analysis following Box-Jenkins-Treadway methodology, supporting guided or autonomous modes for model identification, estimation, and diagnosis via an LLM.

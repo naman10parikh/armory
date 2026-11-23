@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-02T10:46:02Z"
+pushed_at: "2026-11-22T07:44:49Z"
 ---
 ## What it is
 Enables sending messages to Discord via webhook URLs through a single tool.

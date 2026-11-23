@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-05-28T09:00:41Z"
+pushed_at: "2026-11-23T15:18:54Z"
 ---
 ## What it is
 MCP server `AnkiConnect`, catalogued on PulseMCP. Integrates Anki flashcard functionality, enabling natural language interactions for spaced repetition learning within conversations.

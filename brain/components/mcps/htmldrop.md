@@ -8,13 +8,13 @@ source_url: https://github.com/vin-spiegel/htmldrop
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-07-27T17:32:19Z"
+pushed_at: "2026-11-23T05:42:58Z"
 ---
 ## What it is
 Publish HTML or markdown artifacts (reports, dashboards, demos) as instant shareable links with TTL expiry, social preview cards, and optional password protection. Works with the hosted service or a self-hosted instance.

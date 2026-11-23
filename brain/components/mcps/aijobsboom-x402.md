@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-15T17:47:05Z"
+pushed_at: "2026-11-22T22:31:47Z"
 ---
 ## What it is
 x402-gated data API (Cloudflare Worker) plus an MCP server wrapper serving aggregate weekly stats from the aijobsboom.com skilled-trades job board — trade counts, perk flags, scrub-rule counts. $0.01/$0.10 USDC per call, no raw job listings.

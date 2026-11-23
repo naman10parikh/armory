@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-16T14:07:58Z"
+pushed_at: "2026-11-23T00:44:30Z"
 ---
 ## What it is
 MCP server for Domotz network monitoring and management. Enables AI assistants to query network devices, alerts, and topology via the Domotz API.

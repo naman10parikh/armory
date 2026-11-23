@@ -8,7 +8,7 @@ source_url: https://github.com/K-13ROBOT/HFSS_MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []

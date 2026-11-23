@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-09T13:39:49Z"
+pushed_at: "2026-11-16T20:19:02Z"
 ---
 ## What it is
 Enables querying Chargebee subscriptions and customer data through natural language, supporting subscription details, customer lists, and customer profiles.

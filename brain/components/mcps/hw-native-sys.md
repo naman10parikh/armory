@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-09T15:39:42Z"
+pushed_at: "2026-11-18T20:54:40Z"
 ---
 ## What it is
 Enables full-stack compiler development across the hw-native-sys workspace by combining repository operations (git health, code search, task running) with a knowledge layer for architecture docs, task routing, and abstraction/pass pipeline information.

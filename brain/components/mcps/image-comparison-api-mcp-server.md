@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-15T06:10:33Z"
+pushed_at: "2026-11-22T06:09:53Z"
 ---
 ## What it is
 Enables users to compare images for visual similarity, detect exact and near-duplicates, and obtain similarity scores and perceptual hash distances via a plain HTTP API.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-02T14:21:10Z"
+pushed_at: "2026-11-23T15:28:08Z"
 ---
 ## What it is
 MCP server `Yiditu`, catalogued on PulseMCP. I Ching hexagram analysis and geographic feng shui for Taiwan locations.

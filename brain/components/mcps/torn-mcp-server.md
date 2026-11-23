@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-16T06:21:00Z"
+pushed_at: "2026-11-18T09:06:11Z"
 ---
 ## What it is
 Remote MCP server for the Torn City API v2, enabling querying of player, faction, market, and other game data, plus aggregated intelligence reports, all via natural language.

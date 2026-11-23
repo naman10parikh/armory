@@ -12,8 +12,8 @@ stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-11-16T13:12:53Z"
+forks: 3
+pushed_at: "2026-11-23T18:48:59Z"
 ---
 ## What it is
 MCP server `RuneScape Wiki`, catalogued on PulseMCP. Integrates with RuneScape 3 APIs to provide real-time Grand Exchange prices, item data, player statistics across game modes, and wiki content retrieval for game economy analysis and player progression tracking.

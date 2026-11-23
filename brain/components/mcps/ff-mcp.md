@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-09T06:25:03Z"
+pushed_at: "2026-11-23T06:28:50Z"
 ---
 ## What it is
 MCP server that gives local clients controlled access to a Firefox profile, enabling tab listing, reading, interaction, scripting, and screenshots with granular, revocable permissions.

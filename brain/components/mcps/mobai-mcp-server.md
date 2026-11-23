@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 22
-pushed_at: "2026-11-06T22:25:09Z"
+pushed_at: "2026-11-22T15:45:22Z"
 ---
 ## What it is
 Enables AI assistants to automate mobile devices (Android and iOS) through a single DSL interface, supporting actions like tap, type, swipe, and assertions.

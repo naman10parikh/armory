@@ -8,13 +8,13 @@ source_url: https://github.com/cardmagic/notes
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-14T16:33:23Z"
+pushed_at: "2026-11-18T12:54:50Z"
 ---
 ## What it is
 CLI and MCP server to search and browse Apple Notes with fuzzy matching, full-text search, and PDF text extraction.

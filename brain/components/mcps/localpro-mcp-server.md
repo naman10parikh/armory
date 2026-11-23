@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-16T11:35:29Z"
+pushed_at: "2026-11-21T11:34:57Z"
 ---
 ## What it is
 Provides verified local trade and service business data (e.g., radon mitigation, foundation repair) to AI agents via tools like search_providers and list_niches.

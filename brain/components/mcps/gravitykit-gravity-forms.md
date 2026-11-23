@@ -8,12 +8,12 @@ source_url: https://github.com/gravitykit/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 24
+stars: 25
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-11-09T02:49:41Z"
+pushed_at: "2026-11-22T17:36:29Z"
 ---
 ## What it is
 MCP server `Gravity Forms`, catalogued on PulseMCP. Integrates with Gravity Forms REST API v2 to provide comprehensive form, entry, submission, feed, and notification management with intelligent field operations, advanced search capabilities, file upload handling, and dual environment support for safe WordPress development workflows.

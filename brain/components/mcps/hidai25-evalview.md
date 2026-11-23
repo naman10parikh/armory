@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 26
-pushed_at: "2026-10-16T08:19:33Z"
+pushed_at: "2026-11-20T08:44:15Z"
 ---
 ## What it is
 MCP server `EvalView`, catalogued on PulseMCP. Regression testing for AI agents with golden baselines, CI/CD integration, and multi-framework support.

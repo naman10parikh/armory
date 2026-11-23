@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 14
-pushed_at: "2026-11-14T22:01:20Z"
+pushed_at: "2026-11-22T04:03:20Z"
 ---
 ## What it is
 Chat raw clips into a finished cut. Ingest local media, then drive a persistent multi-turn editing thread on the Cassette agent.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-08-27T18:06:57Z"
+pushed_at: "2026-11-22T19:52:36Z"
 ---
 ## What it is
 Cisco ISE MCP Server

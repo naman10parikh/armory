@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-15T23:06:12Z"
+pushed_at: "2026-11-22T21:38:21Z"
 ---
 ## What it is
 An opinionated MCP server for App Store Connect that provides 13 curated tools, slash-command workflows, and a Claude Skill to manage apps, reviews, sales, and pre-submission audits via natural language.

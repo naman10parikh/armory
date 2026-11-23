@@ -8,12 +8,12 @@ source_url: https://github.com/Wildcard-Official/deepcontext-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 277
+stars: 276
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 24
+forks: 23
 pushed_at: "2025-09-22T23:35:55Z"
 ---
 ## What it is

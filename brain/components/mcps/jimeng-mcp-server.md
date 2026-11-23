@@ -8,13 +8,13 @@ source_url: https://github.com/wwwzhouhui/jimeng-mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 86
+stars: 87
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 21
-pushed_at: "2026-11-11T16:00:06Z"
+forks: 20
+pushed_at: "2026-11-22T02:41:59Z"
 ---
 ## What it is
 A Model Context Protocol server for AI image and video generation using Jimeng AI, enabling text-to-image, image composition, text-to-video, and image-to-video through Claude Desktop and other MCP clients.

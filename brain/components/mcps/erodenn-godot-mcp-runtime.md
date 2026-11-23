@@ -11,8 +11,8 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, gaming]
-stars: 100
-forks: 20
+stars: 103
+forks: 21
 pushed_at: "2026-11-13T08:30:17Z"
 ---
 ## What it is

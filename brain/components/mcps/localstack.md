@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 14
-pushed_at: "2026-11-13T11:47:16Z"
+pushed_at: "2026-11-23T15:20:18Z"
 ---
 ## What it is
 MCP server `LocalStack`, catalogued on PulseMCP. Provides tools to manage your LocalStack container and other assorted related tasks, to simplify local cloud development and testing.

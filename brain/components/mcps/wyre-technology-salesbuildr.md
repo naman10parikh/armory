@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-11-16T14:08:17Z"
+pushed_at: "2026-11-23T17:46:20Z"
 ---
 ## What it is
 MCP server `SalesBuildr`, catalogued on PulseMCP. Community MCP integration for SalesBuildr, enabling AI agents to manage MSP quoting and sales workflows.

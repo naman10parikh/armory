@@ -8,13 +8,13 @@ source_url: https://github.com/SEOcrawl/seocrawl-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T12:26:02Z"
+pushed_at: "2026-11-19T06:35:51Z"
 ---
 ## What it is
 SEO + GEO MCP server: live Google Search Console & GA4 data, keyword and page analysis, AI-visibility tracking across ChatGPT, Claude, Gemini & Perplexity, site audit and SEO task management — all from chat.

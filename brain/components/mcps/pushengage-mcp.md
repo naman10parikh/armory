@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-10T14:46:37Z"
+pushed_at: "2026-11-18T13:46:50Z"
 ---
 ## What it is
 Send and schedule push notifications across web and mobile app subscribers, build segments and audience groups, and read campaign analytics from your PushEngage account in plain language. Browser-based login, so no API keys go into your client config.

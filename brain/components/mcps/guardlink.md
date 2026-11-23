@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-11-16T13:44:40Z"
+pushed_at: "2026-11-17T15:49:41Z"
 ---
 ## What it is
 MCP server `GuardLink`, catalogued on PulseMCP. Embeds security annotations directly in source code to maintain living threat models that update with code changes, enforced through CI validation.

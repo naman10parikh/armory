@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-14T22:10:26Z"
+pushed_at: "2026-11-20T06:36:13Z"
 ---
 ## What it is
 MCP server `Reactive Extensions`, catalogued on PulseMCP. Provides 10 tools and 3 prompts for designing, debugging, reviewing, and modernizing Rx.NET reactive extensions applications.

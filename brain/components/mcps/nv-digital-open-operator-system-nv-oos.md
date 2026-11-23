@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-16T16:35:52Z"
+pushed_at: "2026-11-23T19:02:14Z"
 ---
 ## What it is
 Enables AI-powered operations on WordPress sites, integrating multiple LLM providers and providing MCP server capabilities for chat, tools, and automation.

@@ -8,13 +8,13 @@ source_url: https://github.com/sumithr/sumo-qa
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-16T08:16:59Z"
+pushed_at: "2026-11-23T08:12:10Z"
 ---
 ## What it is
 An MCP server that brings senior-QA discipline to AI coding assistants, enabling test planning, TDD, mutation testing, and code review.

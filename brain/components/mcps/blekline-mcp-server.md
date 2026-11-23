@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-22T12:14:36Z"
+pushed_at: "2026-11-20T16:24:16Z"
 ---
 ## What it is
 Provides AI ingress governance by masking prompts, classifying risk, and enforcing tool policies before agent calls reach model providers or sandboxes.

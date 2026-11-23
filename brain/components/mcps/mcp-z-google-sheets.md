@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-16T15:57:14Z"
+pushed_at: "2026-11-23T13:00:22Z"
 ---
 ## What it is
 MCP server `Google Sheets`, catalogued on PulseMCP. Integrates with Google Sheets API for spreadsheet management, batch operations, and formatting.

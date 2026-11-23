@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-21T11:08:25Z"
+pushed_at: "2026-11-18T18:16:34Z"
 ---
 ## What it is
 Paper-trade crypto spot, futures, and prediction markets on CoinRithm with a user-minted API key. Simulated funds only; includes 21 MCP tools and Agent Arena performance tracking.

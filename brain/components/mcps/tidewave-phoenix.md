@@ -8,12 +8,12 @@ source_url: https://github.com/tidewave-ai/tidewave_phoenix
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 861
+stars: 867
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 73
+forks: 74
 pushed_at: "2026-11-16T09:55:54Z"
 ---
 ## What it is

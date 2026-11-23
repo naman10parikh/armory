@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-11-12T13:54:10Z"
+pushed_at: "2026-11-21T20:16:46Z"
 ---
 ## What it is
 Enables Claude Code to delegate tasks to OpenCode subagents asynchronously, with tools for starting tasks, polling status, and fetching results.

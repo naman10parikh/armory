@@ -8,13 +8,13 @@ source_url: https://github.com/karagos/koralpaper
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-07T05:21:07Z"
+pushed_at: "2026-11-22T18:27:53Z"
 ---
 ## What it is
 A design studio where AI draws, charts and animates: agents create fully editable hand-drawn visuals, build charts from data, and their edits become stop-motion GIF and video animations. Free, offline, zero-dependency, MIT.

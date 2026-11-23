@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-10T05:50:26Z"
+pushed_at: "2026-11-20T21:05:59Z"
 ---
 ## What it is
 MCP server that wraps the nb CLI for LLM-friendly note-taking, enabling creation, reading, updating, deleting, and searching notes, todos, bookmarks, and folders in notebooks.

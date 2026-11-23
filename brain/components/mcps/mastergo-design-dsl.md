@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 51
-pushed_at: "2026-11-16T02:28:22Z"
+pushed_at: "2026-11-23T08:24:29Z"
 ---
 ## What it is
 MCP server `MasterGo Design`, catalogued on PulseMCP. Extracts design file metadata from MasterGo files using a personal access token, enabling direct retrieval of design element details for analysis and code generation.

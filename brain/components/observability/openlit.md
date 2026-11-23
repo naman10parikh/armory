@@ -8,13 +8,13 @@ source_url: https://github.com/openlit/openlit
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 3084
+stars: 3099
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, opentelemetry, gpu]
-forks: 491
-pushed_at: "2026-11-16T12:49:01Z"
+forks: 496
+pushed_at: "2026-11-23T10:33:57Z"
 ---
 ## What it is
 OpenLIT is an OpenTelemetry-native LLM observability toolkit with GPU monitoring, cost tracking, and a prompt hub (one-line setup for 20+ providers).

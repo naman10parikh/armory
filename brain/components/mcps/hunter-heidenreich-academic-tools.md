@@ -8,12 +8,12 @@ source_url: https://github.com/hunter-heidenreich/academic-tools-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 6
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-15T22:59:47Z"
+pushed_at: "2026-11-21T20:34:41Z"
 ---
 ## What it is
 MCP server `Academic Tools`, catalogued on PulseMCP. Search papers, retrieve metadata, download PDFs, and read full-text sections from OpenAlex, arXiv, bioRxiv, Crossref, and Wikipedia.

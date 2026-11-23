@@ -14,7 +14,7 @@ verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, blogging-content]
 forks: 2
-pushed_at: "2026-11-16T15:02:15Z"
+pushed_at: "2026-11-23T04:21:13Z"
 ---
 ## What it is
 Personal blog built with A2A capabilities

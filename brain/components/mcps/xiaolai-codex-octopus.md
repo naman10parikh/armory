@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-11-13T12:01:08Z"
+pushed_at: "2026-11-20T06:01:00Z"
 ---
 ## What it is
 MCP server `Codex Octopus`, catalogued on PulseMCP. MCP server that spawns multiple specialized OpenAI Codex agents with distinct personalities and constraints for multi-agent coding workflows.

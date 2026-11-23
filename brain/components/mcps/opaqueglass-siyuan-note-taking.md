@@ -8,11 +8,11 @@ source_url: https://github.com/opaqueglass/syplugin-anmcpserver
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 44
+stars: 45
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 8
+forks: 9
 pushed_at: "2026-08-09T11:37:22Z"
 ---
 ## What it is

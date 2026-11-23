@@ -8,13 +8,13 @@ source_url: https://github.com/110kc3/seo
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-16T16:34:37Z"
+pushed_at: "2026-11-23T14:57:09Z"
 ---
 ## What it is
 Machine-readable directory of AI products that register themselves, plus an agent-readability grader for any URL.

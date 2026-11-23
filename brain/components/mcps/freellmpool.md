@@ -8,13 +8,13 @@ source_url: https://github.com/0xzr/freellmpool
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 152
+stars: 154
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 26
-pushed_at: "2026-11-06T19:05:13Z"
+pushed_at: "2026-11-20T19:04:38Z"
 ---
 ## What it is
 MCP server that pools free tiers of multiple LLM providers behind an OpenAI-compatible endpoint, enabling model routing, failover, and usage tracking through tools like tokenmax, capacity, and benchmark.

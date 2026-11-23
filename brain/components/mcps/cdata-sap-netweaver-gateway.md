@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2025-10-18T19:18:29Z"
+pushed_at: "2026-11-17T13:32:56Z"
 ---
 ## What it is
 MCP server `SAP NetWeaver Gateway`, catalogued on PulseMCP. Bridges SAP NetWeaver Gateway systems through JDBC connectivity, enabling natural language queries of SAP business data with table discovery, metadata retrieval, and SQL execution capabilities.

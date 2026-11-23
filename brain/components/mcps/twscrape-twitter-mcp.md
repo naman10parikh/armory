@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-15T00:42:57Z"
+pushed_at: "2026-11-22T20:22:59Z"
 ---
 ## What it is
 MCP server to read X (Twitter) posts, threads, replies, quotes, and search using your own logged-in session, no API key required.

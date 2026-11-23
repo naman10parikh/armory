@@ -13,7 +13,7 @@ related: []
 tags: [mcp, finance-fintech]
 stars: 1
 forks: 3
-pushed_at: "2026-11-11T05:15:18Z"
+pushed_at: "2026-11-23T06:11:37Z"
 ---
 ## What it is
 Deterministic refund eligibility notary MCP server. Returns ALLOWED / DENIED / UNKNOWN for subscription refunds (Adobe, Spotify, etc.) via a stateless rules engine.

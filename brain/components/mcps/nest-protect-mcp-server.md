@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-06T18:38:26Z"
+pushed_at: "2026-11-20T11:01:41Z"
 ---
 ## What it is
 A production-ready FastMCP server that integrates Google Nest Protect devices with MCP, enabling monitoring and control of smoke and carbon monoxide detectors via Claude Desktop.

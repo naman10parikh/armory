@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-16T20:14:19Z"
+pushed_at: "2026-11-18T15:16:23Z"
 ---
 ## What it is
 MCP server that exposes GroupDocs.Signature as AI-callable tools for signing, verifying, and searching signatures in documents, enabling natural language interaction with document signature operations.

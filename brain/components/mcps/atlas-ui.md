@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-14T16:56:07Z"
+pushed_at: "2026-11-21T14:40:57Z"
 ---
 ## What it is
 MCP server that gives Claude deep awareness of your frontend codebase by scanning components, hooks, services, routes, and data flow for React or Vue projects.

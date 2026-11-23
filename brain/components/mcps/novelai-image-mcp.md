@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-15T22:05:16Z"
+pushed_at: "2026-11-23T10:00:32Z"
 ---
 ## What it is
 An MCP server that exposes NovelAI image generation as tools for AI agents, supporting txt2img, img2img, inpaint, upscaling, Director tools, ControlNet annotation, tag suggestions, vibe encoding, and subscription queries via stdio or streamable-http transports.

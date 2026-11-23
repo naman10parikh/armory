@@ -8,12 +8,12 @@ source_url: https://github.com/vibecodinginc/vibe-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 0
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-13T19:00:48Z"
+pushed_at: "2026-11-23T05:44:59Z"
 ---
 ## What it is
 MCP server `SlashVibe`, catalogued on PulseMCP. Social layer for AI coding - DMs, presence, discovery, and games between developers in their editors.

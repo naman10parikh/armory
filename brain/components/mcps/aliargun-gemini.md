@@ -8,11 +8,11 @@ source_url: https://github.com/aliargun/mcp-server-gemini
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 260
+stars: 263
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 65
+forks: 67
 pushed_at: "2025-07-14T18:52:57Z"
 ---
 ## What it is

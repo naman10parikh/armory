@@ -8,13 +8,13 @@ source_url: https://github.com/getsentry/MobileBuildMCP
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6578
+stars: 6598
 verified_at: 2026-05-26
 related: []
 tags: [mcp]
 eval_score: 1
-forks: 328
-pushed_at: "2026-11-16T03:39:19Z"
+forks: 329
+pushed_at: "2026-11-19T03:33:58Z"
 ---
 
 ## What it is

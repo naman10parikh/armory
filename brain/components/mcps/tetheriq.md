@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-13T20:21:13Z"
+pushed_at: "2026-11-23T12:23:18Z"
 ---
 ## What it is
 A zero-config local desktop proxy gateway for AI coding agents, providing model failovers, spend caps, and 1-click MCP tool syncing across multiple client environments.

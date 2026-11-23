@@ -8,12 +8,12 @@ source_url: https://github.com/pyth-network/pyth-crosschain
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 255
+stars: 253
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 352
-pushed_at: "2026-11-16T09:39:57Z"
+forks: 355
+pushed_at: "2026-11-23T16:09:25Z"
 ---
 ## What it is
 MCP server `Pyth Network`, catalogued on PulseMCP. Real-time and historical price feeds for crypto, equities, FX, and commodities.

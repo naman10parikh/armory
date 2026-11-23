@@ -8,12 +8,12 @@ source_url: https://github.com/whitenightshadow/camoufox-reverse-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 571
+stars: 583
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 109
-pushed_at: "2026-11-15T10:37:39Z"
+forks: 110
+pushed_at: "2026-11-20T06:26:11Z"
 ---
 ## What it is
 MCP server `Camoufox Reverse`, catalogued on PulseMCP. JavaScript reverse engineering via Camoufox anti-fingerprinting browser with 57 tools for debugging, function hooking, and network analysis.

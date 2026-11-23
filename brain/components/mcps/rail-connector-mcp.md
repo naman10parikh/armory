@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-13T14:35:33Z"
+pushed_at: "2026-11-23T09:50:32Z"
 ---
 ## What it is
 Local MCP bridge that lets Codex operate local Claude Code sessions, including listing, starting, resuming, forking, prompting, and stopping conversations via the Remote Control CLI.

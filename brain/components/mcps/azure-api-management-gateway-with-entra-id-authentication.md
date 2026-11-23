@@ -8,11 +8,11 @@ source_url: https://github.com/azure-samples/remote-mcp-apim-functions-python
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 131
+stars: 129
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 79
+forks: 80
 pushed_at: "2026-10-13T02:47:33Z"
 ---
 ## What it is

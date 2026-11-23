@@ -8,13 +8,13 @@ source_url: https://github.com/harbor-framework/terminal-bench-2-1
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 140
+stars: 142
 eval_score: null
 mentions: 4
 verified_at: 2026-09-26
 related: []
 tags: [sentinel-feed, evals]
-forks: 74
+forks: 77
 pushed_at: "2026-11-05T20:22:18Z"
 ---
 ## What it is

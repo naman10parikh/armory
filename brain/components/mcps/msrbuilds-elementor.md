@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 162
-pushed_at: "2026-11-14T18:19:52Z"
+pushed_at: "2026-11-23T14:39:23Z"
 ---
 ## What it is
 MCP server `Elementor`, catalogued on PulseMCP. Extends WordPress MCP Adapter to expose Elementor page builder tools for programmatic page design, widget management, and template handling.

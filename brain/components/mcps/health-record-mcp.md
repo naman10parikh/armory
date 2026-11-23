@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, healthcare-wellness]
-forks: 36
+forks: 35
 pushed_at: "2025-08-15T04:26:03Z"
 ---
 ## What it is

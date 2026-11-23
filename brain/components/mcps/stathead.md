@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-16T16:48:13Z"
+pushed_at: "2026-11-23T19:08:16Z"
 ---
 ## What it is
 An open NFL fantasy-football analytics platform that provides live data, machine-learned projections, dynasty values, and prospect grades via an MCP server for AI clients.

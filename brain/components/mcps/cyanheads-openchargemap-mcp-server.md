@@ -8,13 +8,13 @@ source_url: https://github.com/cyanheads/openchargemap-mcp-server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-26T07:11:20Z"
+pushed_at: "2026-11-19T15:39:19Z"
 ---
 ## What it is
 Find EV charging stations by location and connector, get full station detail, resolve reference IDs, and read community reliability check-ins via MCP.

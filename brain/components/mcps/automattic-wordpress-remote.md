@@ -8,12 +8,12 @@ source_url: https://github.com/automattic/mcp-wordpress-remote
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 188
+stars: 190
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 37
-pushed_at: "2026-11-13T13:33:03Z"
+forks: 36
+pushed_at: "2026-11-18T01:30:26Z"
 ---
 ## What it is
 MCP server `WordPress Remote`, catalogued on PulseMCP. Bridges WordPress websites and WooCommerce data with local clients through REST API calls, enabling content access without direct streaming connections.

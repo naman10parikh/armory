@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2025-10-09T09:43:38Z"
+pushed_at: "2026-11-18T17:26:44Z"
 ---
 ## What it is
 Enables AI assistants to interact with Aspen Plus process simulations through a standardized MCP interface, supporting simulation control, data access, and flowsheet manipulation.

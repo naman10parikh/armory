@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-09T08:10:59Z"
+pushed_at: "2026-11-22T15:45:55Z"
 ---
 ## What it is
 An MCP server that enables coding agents to set up and manage webhook infrastructure, including provisioning endpoints, event logs, replay, and testing.

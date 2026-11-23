@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-11-16T04:59:02Z"
+pushed_at: "2026-11-23T16:09:50Z"
 ---
 ## What it is
 Provides agents with durable, provenance-aware memory through tools for remembering, recalling, answering, and maintaining information, while structurally resisting injection and confabulation.

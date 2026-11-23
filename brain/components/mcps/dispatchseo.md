@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 16
-pushed_at: "2026-11-16T06:00:55Z"
+pushed_at: "2026-11-23T06:04:20Z"
 ---
 ## What it is
 Turn Claude Code into your SEO manager with keyword research, content pipeline that ships pull requests, rank tracking, and a dashboard.

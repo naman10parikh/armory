@@ -8,14 +8,14 @@ source_url: https://github.com/mozilla-firefox/firefox
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 13854
+stars: 13916
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1804
-pushed_at: "2026-11-16T16:44:00Z"
+forks: 1834
+pushed_at: "2026-11-23T19:02:52Z"
 ---
 ## What it is
 The official repository of Mozilla's Firefox web browser.

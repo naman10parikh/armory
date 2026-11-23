@@ -8,12 +8,12 @@ source_url: https://github.com/yawlabs/postgres-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 10
+stars: 11
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 2
-pushed_at: "2026-11-16T13:52:38Z"
+forks: 3
+pushed_at: "2026-11-23T11:16:29Z"
 ---
 ## What it is
 MCP server `PostgreSQL`, catalogued on PulseMCP. Read-only-by-default PostgreSQL MCP server with query execution, schema introspection, execution plan analysis, and health checks.

@@ -8,12 +8,12 @@ source_url: https://github.com/qrussell/wemo-ops-center
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 55
+stars: 57
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 7
-pushed_at: "2026-11-16T03:09:22Z"
+forks: 6
+pushed_at: "2026-11-23T04:05:19Z"
 ---
 ## What it is
 MCP server `WeMo Smart Home`, catalogued on PulseMCP. Control WeMo smart home devices — discover, toggle, adjust brightness, and manage HomeKit codes.

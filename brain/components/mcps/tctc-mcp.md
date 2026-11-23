@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-16T00:17:03Z"
+pushed_at: "2026-11-17T21:06:07Z"
 ---
 ## What it is
 Exposes ERC-7303 token-controlled roles to AI agents, enabling permission checks and on-chain role management via control tokens.

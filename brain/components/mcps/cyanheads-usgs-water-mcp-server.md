@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-13T11:13:54Z"
+pushed_at: "2026-11-23T17:35:09Z"
 ---
 ## What it is
 Query real-time and historical water data from ~8,000 USGS stream gages and groundwater wells via MCP, with 7 tools and 2 resources.

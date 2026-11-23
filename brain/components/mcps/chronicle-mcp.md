@@ -8,12 +8,12 @@ source_url: https://github.com/Leviathan0x0/Chronicle-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-10-25T12:17:27Z"
 ---
 ## What it is

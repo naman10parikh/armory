@@ -8,14 +8,14 @@ source_url: https://github.com/Qiskit/qiskit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 7975
+stars: 7990
 eval_score: 1
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3129
-pushed_at: "2026-11-16T13:55:15Z"
+forks: 3139
+pushed_at: "2026-11-23T18:45:35Z"
 ---
 ## What it is
 Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.

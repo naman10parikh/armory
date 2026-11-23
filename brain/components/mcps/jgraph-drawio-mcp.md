@@ -8,14 +8,14 @@ source_url: https://github.com/jgraph/drawio-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 5838
+stars: 5886
 eval_score: 1
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, mcps]
-forks: 359
-pushed_at: "2026-11-16T14:03:01Z"
+forks: 363
+pushed_at: "2026-11-20T05:39:59Z"
 ---
 ## What it is
 draw.io MCP server (jgraph/drawio-mcp): cited by 1 practitioner note in the Sentinel brain.

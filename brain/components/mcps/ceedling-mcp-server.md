@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-03-29T21:16:32Z"
+pushed_at: "2026-11-16T23:08:22Z"
 ---
 ## What it is
 Bridges LLMs to the Ceedling C unit testing framework, enabling test execution, module-specific testing, and scaffolding of source/test file triplets.

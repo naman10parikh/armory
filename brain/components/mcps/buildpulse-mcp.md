@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-16T11:22:35Z"
+pushed_at: "2026-11-22T21:28:11Z"
 ---
 ## What it is
 MCP server for the BuildPulse Platform API. Lets AI agents surface flaky tests, CI run history, and coverage health.

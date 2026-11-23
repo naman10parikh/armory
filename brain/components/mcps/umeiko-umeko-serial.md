@@ -8,11 +8,11 @@ source_url: https://github.com/umeiko/umeko_serial_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 67
+stars: 68
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
+forks: 13
 pushed_at: "2026-08-15T15:52:44Z"
 ---
 ## What it is

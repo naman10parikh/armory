@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-09T13:52:20Z"
+pushed_at: "2026-11-16T20:22:17Z"
 ---
 ## What it is
 MCP server `DiceBear Avatars`, catalogued on PulseMCP. SVG avatar generation via the DiceBear API v7, supporting 30+ avatar styles with customizable seeds and options.

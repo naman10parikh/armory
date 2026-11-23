@@ -12,8 +12,8 @@ stars: 27
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 19
-pushed_at: "2026-07-02T13:47:21Z"
+forks: 20
+pushed_at: "2026-11-23T17:26:33Z"
 ---
 ## What it is
 MCP server `Clockify`, catalogued on PulseMCP. Integrates with Clockify time tracking API to manage billable time entries, retrieve workspace information, list projects, and access user data through natural language prompts.

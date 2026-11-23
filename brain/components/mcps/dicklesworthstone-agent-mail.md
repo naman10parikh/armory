@@ -8,12 +8,12 @@ source_url: https://github.com/dicklesworthstone/mcp_agent_mail
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2236
+stars: 2242
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 229
-pushed_at: "2026-11-05T02:10:46Z"
+pushed_at: "2026-11-22T09:24:51Z"
 ---
 ## What it is
 MCP server `Agent Mail`, catalogued on PulseMCP. Coordinates multiple agents through structured messaging, exclusive file path claims, and persistent Git-based project archives with full-text search and conflict prevention for collaborative development workflows.

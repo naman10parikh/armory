@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-15T14:32:52Z"
+pushed_at: "2026-11-20T19:17:32Z"
 ---
 ## What it is
 MCP server for Google Search Console API that enables querying search analytics, managing sites, inspecting URLs, and supporting domain delegation via service accounts.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 17
-pushed_at: "2026-11-16T14:59:37Z"
+forks: 19
+pushed_at: "2026-11-23T04:54:10Z"
 ---
 ## What it is
 A curated MCP server that connects your Nextcloud (files, calendar, notes, deck, contacts) to AI assistants.

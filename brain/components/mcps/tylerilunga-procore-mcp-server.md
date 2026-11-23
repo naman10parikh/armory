@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, product-management]
-stars: 20
-forks: 10
-pushed_at: "2026-08-21T10:59:35Z"
+stars: 22
+forks: 12
+pushed_at: "2026-11-22T22:34:33Z"
 ---
 ## What it is
 MCP server exposing the full Procore REST API (2,636 endpoints) for construction project management. Includes 7 discovery and execution tools covering projects, RFIs, submittals, daily logs, budgets, and more. Single-user OAuth with auto-refresh.

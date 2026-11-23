@@ -13,7 +13,7 @@ related: []
 tags: [mcp, finance-fintech]
 stars: 6
 forks: 3
-pushed_at: "2026-10-15T10:38:56Z"
+pushed_at: "2026-11-18T12:44:13Z"
 ---
 ## What it is
 Czech National Bank (ČNB) daily FX rates: fetch official CZK exchange rates, convert between currencies, fetch historical rates. Cached 10 min to ease upstream load. npm `@czagents/cnb` or HTTP at cnb.cz-agents.dev/mcp.

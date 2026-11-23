@@ -8,11 +8,11 @@ source_url: https://github.com/microsoftdocs/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1993
+stars: 2002
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 289
+forks: 291
 pushed_at: "2026-11-13T13:11:55Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/moorcheh-ai/memanto
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2379
+stars: 2414
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 743
-pushed_at: "2026-11-13T19:34:33Z"
+forks: 742
+pushed_at: "2026-11-20T20:46:33Z"
 ---
 ## What it is
 MEMANTO is a memory agent. It remembers, recalls, and answers - so your agents can achieve long-term goals and avoid confusion.

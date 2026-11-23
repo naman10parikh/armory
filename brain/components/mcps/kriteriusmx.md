@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-16T07:49:08Z"
+pushed_at: "2026-11-21T10:34:43Z"
 ---
 ## What it is
 Enables Claude to search and retrieve legal sources from Mexican and inter-American courts (SCJN, TFJA, DOF, Corte IDH) with complete citations and official links.

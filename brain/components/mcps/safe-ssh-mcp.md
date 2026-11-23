@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-15T17:43:56Z"
+pushed_at: "2026-11-23T00:55:12Z"
 ---
 ## What it is
 A secure SSH MCP server that enables execution of read-only diagnostic commands over SSH, preventing modifications to remote systems.

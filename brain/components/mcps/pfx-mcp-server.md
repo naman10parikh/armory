@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-13T10:58:14Z"
+pushed_at: "2026-11-23T16:45:02Z"
 ---
 ## What it is
 Connects AI assistants like Claude, ChatGPT, and Gemini to Forterro Proffix Px5 ERP, enabling natural language queries, data access, and workflow automation via the Model Context Protocol.

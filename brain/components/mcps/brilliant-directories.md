@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-11-16T15:14:39Z"
+pushed_at: "2026-11-23T18:59:42Z"
 ---
 ## What it is
 MCP server `Brilliant Directories`, catalogued on PulseMCP. Manage members, posts, leads, reviews, and pages on Brilliant Directories membership sites.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-19T21:48:33Z"
+pushed_at: "2026-11-20T18:09:15Z"
 ---
 ## What it is
 Job search assistant and interview prep inside any ai tool via MCP or public skill. Every tool you'll need for your job search in one product.

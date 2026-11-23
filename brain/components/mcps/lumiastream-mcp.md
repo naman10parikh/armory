@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-16T01:29:36Z"
+pushed_at: "2026-11-16T19:40:32Z"
 ---
 ## What it is
 An MCP server for Lumia Stream that lets AI assistants trigger commands, set light colors, fire alerts, run text-to-speech, and read/write variables via the local REST API.

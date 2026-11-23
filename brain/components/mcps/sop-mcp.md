@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-14T15:49:34Z"
+pushed_at: "2026-11-21T15:46:20Z"
 ---
 ## What it is
 Enables AI agents to execute multi-step Standard Operating Procedures step by step, with enforcement of completion at each step, making LLM behavior predictable and auditable.

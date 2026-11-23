@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-06-09T21:12:34Z"
+pushed_at: "2026-11-18T19:33:50Z"
 ---
 ## What it is
 MCP server for driving Office add-ins (Excel, Word, Outlook, PowerPoint, OneNote) through high-level workflow tools and queries, enabling LLM agents to automate document tasks across Microsoft Office applications via a single Go binary.

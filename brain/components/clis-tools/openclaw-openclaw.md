@@ -8,14 +8,14 @@ source_url: https://github.com/openclaw/openclaw
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 394580
+stars: 395101
 eval_score: null
 mentions: 167
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 82909
-pushed_at: "2026-11-16T16:46:00Z"
+forks: 82962
+pushed_at: "2026-11-23T18:58:24Z"
 ---
 ## What it is
 Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞

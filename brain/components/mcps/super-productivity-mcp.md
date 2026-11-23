@@ -8,13 +8,13 @@ source_url: https://github.com/b0x42/Super-Productivity-MCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 137
+stars: 140
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 23
-pushed_at: "2026-11-01T12:56:32Z"
+pushed_at: "2026-11-19T21:18:59Z"
 ---
 ## What it is
 An MCP server that connects AI assistants to Super Productivity for managing tasks, projects, and tags. Supports quick capture, batch triage, and full planning sessions through natural language.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-11-16T14:42:24Z"
+pushed_at: "2026-11-23T17:18:16Z"
 ---
 ## What it is
 A comprehensive MCP server for Frida dynamic instrumentation, enabling AI agents to manage devices, processes, scripts, memory, and ADB operations.

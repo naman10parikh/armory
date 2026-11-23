@@ -8,14 +8,14 @@ source_url: https://github.com/nicobailon/pi-mcp-adapter
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1652
+stars: 1666
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, mcps]
-forks: 395
-pushed_at: "2026-11-11T03:36:30Z"
+forks: 393
+pushed_at: "2026-11-21T08:16:20Z"
 ---
 ## What it is
 Token-efficient MCP adapter for Pi coding agent

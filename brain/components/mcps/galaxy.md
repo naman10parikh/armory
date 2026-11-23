@@ -12,8 +12,8 @@ stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 29
-pushed_at: "2026-11-14T07:37:19Z"
+forks: 30
+pushed_at: "2026-11-23T03:20:04Z"
 ---
 ## What it is
 MCP server `Galaxy`, catalogued on PulseMCP. Connect to the Galaxy bioinformatics platform to execute tools and manage workflows.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-09T22:08:06Z"
+pushed_at: "2026-11-22T22:05:02Z"
 ---
 ## What it is
 woollama is an MCP and OpenAI-compatible router that orchestrates AI clients with multiple backends (like Ollama, Anthropic) and MCP tools, enabling seamless composition of models, tools, and recipes.

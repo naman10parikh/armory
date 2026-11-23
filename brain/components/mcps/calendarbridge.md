@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-24T16:23:52Z"
+pushed_at: "2026-11-23T06:33:57Z"
 ---
 ## What it is
 MCP server that connects ChatGPT to Apple Calendar via a local Mac agent, enabling event listing, searching, and creation while keeping data on your machine.

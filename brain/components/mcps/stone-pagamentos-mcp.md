@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T19:39:31Z"
+pushed_at: "2026-11-20T23:17:49Z"
 ---
 ## What it is
 Connects Stone Pagamentos accounts to AI assistants via Open Finance Brasil, enabling read-only queries on balances, statements, credit card bills, and investments using natural language.

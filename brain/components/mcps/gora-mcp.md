@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T19:39:37Z"
+pushed_at: "2026-11-20T23:03:27Z"
 ---
 ## What it is
 Connects your Ágora bank account via Open Finance Brasil to AI agents like Claude and ChatGPT, enabling natural language queries about balances, statements, credit card bills, and investments in read-only mode.

@@ -8,12 +8,12 @@ source_url: https://github.com/spritecook/skills
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 60
+stars: 64
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 5
-pushed_at: "2026-10-22T16:15:27Z"
+forks: 6
+pushed_at: "2026-11-22T12:11:45Z"
 ---
 ## What it is
 MCP server `SpriteCook`, catalogued on PulseMCP. Generate game sprites and assets from text prompts.

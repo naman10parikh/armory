@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-11-13T00:42:27Z"
+pushed_at: "2026-11-22T22:57:38Z"
 ---
 ## What it is
 MCP server `Graph Aave`, catalogued on PulseMCP. Query AAVE V2/V3 lending and governance data across 7 chains via The Graph subgraphs.

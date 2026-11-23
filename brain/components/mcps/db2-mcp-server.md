@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2025-07-01T19:49:14Z"
+pushed_at: "2026-11-21T21:06:17Z"
 ---
 ## What it is
 Enables read-only interaction with IBM DB2 databases, including listing tables and retrieving table metadata.

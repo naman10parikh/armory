@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-16T13:11:39Z"
+pushed_at: "2026-11-21T05:36:59Z"
 ---
 ## What it is
 Provides Roslyn-based code intelligence for AI coding agents via MCP, enabling efficient navigation and surgical edits of C# solutions.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-16T16:47:09Z"
+pushed_at: "2026-11-23T19:00:55Z"
 ---
 ## What it is
 A Python MCP server that exposes the Graphify knowledge graph as MCP tools, prompts, and resources, enabling AI assistants to explore codebases through a token-budgeted, structural graph during development.

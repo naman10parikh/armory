@@ -8,12 +8,12 @@ source_url: https://github.com/automateyournetwork/MCPyATS
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 70
+stars: 71
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, frameworks]
-forks: 29
+forks: 28
 pushed_at: "2025-06-28T12:36:45Z"
 ---
 ## What it is

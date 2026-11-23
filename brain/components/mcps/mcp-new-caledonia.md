@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-04-12T09:27:27Z"
+pushed_at: "2026-11-20T07:28:01Z"
 ---
 ## What it is
 Enables querying New Caledonia public open datasets from data.gouv.nc across 10 domains and 29 tools, including holidays, companies, employment, weather, mining, environment, population, tourism, and transport, via stdio for MCP clients.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-12T22:59:31Z"
+pushed_at: "2026-11-19T21:49:08Z"
 ---
 ## What it is
 Connects AI coding tools to an Atono workspace, offering 41 tools to read and write stories, bugs, epics, subtasks, acceptance criteria, timeboxes, glossary, and AI context so agents work with real product knowledge.

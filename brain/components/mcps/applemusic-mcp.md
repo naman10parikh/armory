@@ -8,12 +8,12 @@ source_url: https://github.com/epheterson/applemusic-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 135
+stars: 137
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 23
+forks: 25
 pushed_at: "2026-11-09T01:06:54Z"
 ---
 ## What it is

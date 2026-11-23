@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-13T20:43:22Z"
+pushed_at: "2026-11-23T13:04:18Z"
 ---
 ## What it is
 Enables searching, analyzing, and managing data packages in a Quilt data catalog through natural language, with 84+ tools including package CRUD operations.

@@ -8,12 +8,12 @@ source_url: https://github.com/sandordaroczi/paprika-mcp-python-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 6
 pushed_at: "2026-02-06T13:32:34Z"
 ---
 ## What it is

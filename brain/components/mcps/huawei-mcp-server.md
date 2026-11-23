@@ -8,12 +8,12 @@ source_url: https://github.com/HuaweiCloudDeveloper/mcp-server
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 50
+stars: 51
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 24
+forks: 25
 pushed_at: "2026-02-11T02:48:20Z"
 ---
 ## What it is

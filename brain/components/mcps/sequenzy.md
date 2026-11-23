@@ -8,12 +8,12 @@ source_url: https://github.com/sequenzy/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-16T01:57:17Z"
+pushed_at: "2026-11-23T07:27:48Z"
 ---
 ## What it is
 MCP server `Sequenzy`, catalogued on PulseMCP. Manage subscribers, campaigns, sequences, templates, and analytics for email marketing automation.

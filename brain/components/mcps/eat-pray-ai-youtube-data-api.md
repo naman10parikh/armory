@@ -8,12 +8,12 @@ source_url: https://github.com/eat-pray-ai/yutu
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 724
+stars: 734
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 90
-pushed_at: "2026-11-15T15:56:06Z"
+forks: 91
+pushed_at: "2026-11-21T09:38:25Z"
 ---
 ## What it is
 MCP server `YouTube Data API`, catalogued on PulseMCP. Integrates with YouTube Data API v3 to provide complete video management, channel operations, playlist control, analytics access, live streaming management, and content moderation capabilities for creators and social media managers.

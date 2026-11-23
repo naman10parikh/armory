@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-16T05:06:15Z"
+pushed_at: "2026-11-23T11:07:50Z"
 ---
 ## What it is
 MCP server `Toreva`, catalogued on PulseMCP. Non-custodial DeFi execution primitives on Solana for yield strategies, staking, and portfolio automation.

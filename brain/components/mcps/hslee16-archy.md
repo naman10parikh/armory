@@ -8,12 +8,12 @@ source_url: https://github.com/hslee16/archy
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 8
+stars: 9
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 36
-pushed_at: "2026-11-15T18:51:41Z"
+forks: 34
+pushed_at: "2026-11-23T15:43:01Z"
 ---
 ## What it is
 MCP server `Archy`, catalogued on PulseMCP. Architectural quality sensor for Python codebases that detects import cycles, enforces layer rules, and computes dependency health scores.

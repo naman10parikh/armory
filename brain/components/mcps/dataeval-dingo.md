@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, data-science-tools]
-stars: 769
+stars: 771
 forks: 82
-pushed_at: "2026-11-16T10:48:11Z"
+pushed_at: "2026-11-19T09:27:56Z"
 ---
 ## What it is
 MCP server for the Dingo: a comprehensive data quality evaluation tool. Server Enables interaction with Dingo's rule-based and LLM-based evaluation capabilities and rules&prompts listing.

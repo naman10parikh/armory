@@ -8,13 +8,13 @@ source_url: https://github.com/davidmosiah/withingsmcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-11-16T11:58:44Z"
+pushed_at: "2026-11-17T01:19:20Z"
 ---
 ## What it is
 Local-first MCP server that connects AI agents to your Withings body, sleep, activity and heart data.

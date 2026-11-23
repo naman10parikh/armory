@@ -8,11 +8,11 @@ source_url: https://github.com/christianhinge/dicom-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 108
+stars: 109
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 30
+forks: 29
 pushed_at: "2026-10-29T19:14:14Z"
 ---
 ## What it is

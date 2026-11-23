@@ -8,13 +8,13 @@ source_url: https://github.com/Flightmussy/trainrouter-atlas
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-08T09:54:05Z"
+pushed_at: "2026-11-17T17:16:48Z"
 ---
 ## What it is
 The world railway atlas as read-only MCP tools: search 744+ legendary train routes (high-speed, classic, night, scenic) and get per-route facts, rankings and journey times. Runs from the repo's open dataset (CC BY 4.0); a free hosted endpoint is also live at https://trainrouter.com/mcp.

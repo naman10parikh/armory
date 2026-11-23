@@ -8,13 +8,13 @@ source_url: https://github.com/Averyy/fetchaller-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 24
+stars: 25
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-06T14:53:11Z"
+pushed_at: "2026-11-22T20:50:52Z"
 ---
 ## What it is
 Enables fetching any website without permission prompts, including automatic bot challenge bypass, with built-in web search, Reddit, marketplace, realtor, AliExpress, and Alibaba tools.

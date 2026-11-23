@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-18T22:07:06Z"
+pushed_at: "2026-11-18T02:57:27Z"
 ---
 ## What it is
 Website testing MCP server built for AI agents: 63 Playwright tools with hard assertions, auto form-fill, persistent authenticated sessions, network mocking, and accessibility/SEO/GEO + Lighthouse audits.

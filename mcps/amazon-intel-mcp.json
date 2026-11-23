@@ -1,0 +1,7 @@
+{
+  "name": "amazon-intel-mcp",
+  "description": "AI-powered Amazon product research and competitive intelligence. Search products, analyze Best Seller Rank trends, compare competitors, track pricing history with Keepa, and estimate keyword search demand. Built for FBA sellers, brand managers, and e-commerce analysts who need data-driven decisions.",
+  "source_repo": "",
+  "source_url": "https://smithery.ai/servers/janmacher02-xl8y/amazon-intel-mcp",
+  "install": "# git clone --depth 1 https://smithery.ai/servers/janmacher02-xl8y/amazon-intel-mcp\n# See source for mcpServers config block"
+}

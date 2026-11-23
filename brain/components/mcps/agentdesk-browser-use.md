@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [browser, agentdesk]
-forks: 538
+forks: 539
 pushed_at: "2026-10-28T19:06:19Z"
 ---
 ## What it is

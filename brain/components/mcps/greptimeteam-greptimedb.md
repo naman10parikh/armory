@@ -12,8 +12,8 @@ stars: 29
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 12
-pushed_at: "2026-10-12T09:26:52Z"
+forks: 15
+pushed_at: "2026-11-17T13:21:51Z"
 ---
 ## What it is
 MCP server `GreptimeDB`, catalogued on PulseMCP. Enables AI interaction with GreptimeDB time-series databases through MySQL protocol for data exploration, analysis, and SQL query execution with built-in security protections.

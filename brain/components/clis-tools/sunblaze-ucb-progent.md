@@ -15,7 +15,7 @@ verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 14
-pushed_at: "2026-11-16T04:04:21Z"
+pushed_at: "2026-11-18T11:05:26Z"
 ---
 ## What it is
 Progent: Securing AI Agents with Privilege Control

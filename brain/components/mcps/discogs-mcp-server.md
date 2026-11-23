@@ -8,13 +8,13 @@ source_url: https://github.com/rianvdm/discogs-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 21
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
-pushed_at: "2026-11-15T17:13:22Z"
+forks: 9
+pushed_at: "2026-11-20T01:30:11Z"
 ---
 ## What it is
 A powerful Model Context Protocol (MCP) server that enables AI assistants to interact with your personal Discogs music collection.

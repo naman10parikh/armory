@@ -8,13 +8,13 @@ source_url: https://github.com/google-research/timesfm
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 35604
+stars: 35667
 eval_score: 1
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3486
+forks: 3500
 pushed_at: "2026-11-13T04:53:12Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-11-13T02:41:05Z"
+pushed_at: "2026-11-21T02:13:08Z"
 ---
 ## What it is
 A production-grade MCP server for integrating RAG into AI agents, supporting multiple vector databases with enterprise security and dynamic tool selection.

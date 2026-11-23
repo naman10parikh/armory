@@ -8,7 +8,7 @@ source_url: https://github.com/blazickjp/arxiv-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3282
+stars: 3295
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

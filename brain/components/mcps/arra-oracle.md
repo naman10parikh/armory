@@ -8,13 +8,13 @@ source_url: https://github.com/Soul-Brews-Studio/arra-oracle-v3
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 92
+stars: 93
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 85
-pushed_at: "2026-08-17T04:39:35Z"
+forks: 84
+pushed_at: "2026-11-22T00:59:41Z"
 ---
 ## What it is
 MCP server for semantic search over Oracle philosophy using hybrid search (FTS5 + LanceDB). Integrates with Claude Code for querying wisdom and managing a knowledge vault.

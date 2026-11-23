@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-16T13:36:44Z"
+pushed_at: "2026-11-22T12:40:39Z"
 ---
 ## What it is
 Provides MCP tools to profile and optimize LLM conversation context, identifying token waste and applying deterministic fixes to reduce context window usage.

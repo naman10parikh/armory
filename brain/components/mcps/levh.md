@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-12T14:49:31Z"
+pushed_at: "2026-11-19T22:09:30Z"
 ---
 ## What it is
 LEVH provides persistent, searchable memory for AI coding agents, enabling stateful interactions across sessions and tools with adaptive memory decay and reinforcement. It integrates with MCP-compatible clients and offers features like spaced repetition, backups, and a knowledge graph.

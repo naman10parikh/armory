@@ -13,7 +13,7 @@ eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, multiagent-systems]
-forks: 1928
+forks: 1927
 pushed_at: "2025-11-09T21:46:48Z"
 ---
 ## What it is

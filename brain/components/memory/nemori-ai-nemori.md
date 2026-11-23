@@ -14,7 +14,7 @@ mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 23
+forks: 22
 pushed_at: "2026-04-16T09:47:33Z"
 ---
 ## What it is

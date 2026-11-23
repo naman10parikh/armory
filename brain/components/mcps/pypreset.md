@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-16T09:54:57Z"
+pushed_at: "2026-11-23T00:45:40Z"
 ---
 ## What it is
 MCP server `PyPreset`, catalogued on PulseMCP. Scaffold Python projects from YAML presets and augment existing projects with CI and tests.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-04T09:57:40Z"
+pushed_at: "2026-11-23T13:24:34Z"
 ---
 ## What it is
 MCP server for mobile growth & user acquisition, connecting LLMs to a curated knowledge base of ad optimization insights and analytical skills for subscription apps.

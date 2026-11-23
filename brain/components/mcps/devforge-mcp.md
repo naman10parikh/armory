@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-18T07:54:10Z"
+pushed_at: "2026-11-23T15:27:12Z"
 ---
 ## What it is
 A production-ready MCP server that enables AI assistants to intelligently understand, analyze, edit, navigate, and review software projects with multi-workspace support, Git integration, and semantic search.
