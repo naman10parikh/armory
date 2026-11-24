@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-01T06:58:19Z"
+pushed_at: "2026-11-23T19:47:01Z"
 ---
 ## What it is
 MCP server `IP-Symcon`, catalogued on PulseMCP. Controls and monitors smart home devices and automations through the IP-Symcon platform.

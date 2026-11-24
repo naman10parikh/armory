@@ -8,13 +8,13 @@ source_url: https://github.com/muend/arcgis-mcp-bridge
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-15T10:26:01Z"
+pushed_at: "2026-11-23T07:16:55Z"
 ---
 ## What it is
 Secure, local-first MCP server exposing ArcGIS Pro's ArcPy engine over stdio JSON-RPC.

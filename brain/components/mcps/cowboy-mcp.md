@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-11-14T00:16:19Z"
+pushed_at: "2026-11-20T00:07:29Z"
 ---
 ## What it is
 Open-source WordPress plugin that turns any site into a Streamable HTTP MCP server. Manage posts, WooCommerce, and more from Claude Code, Codex, or Cursor — no Node.js

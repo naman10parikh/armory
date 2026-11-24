@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-25T04:38:47Z"
+pushed_at: "2026-11-20T09:32:37Z"
 ---
 ## What it is
 Provides AI assistants with citable access to Bernese laws (BSG) and administrative court rulings (Verwaltungsgericht Bern) via search, retrieval by number, and article extraction.

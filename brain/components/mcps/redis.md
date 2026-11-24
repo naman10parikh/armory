@@ -8,13 +8,13 @@ source_url: https://github.com/redis/mcp-redis
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 642
+stars: 644
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
 forks: 125
-pushed_at: "2026-11-16T14:22:10Z"
+pushed_at: "2026-11-23T17:47:15Z"
 ---
 ## What it is
 MCP server `Redis`, catalogued on PulseMCP. Provides a natural language interface to Redis databases, enabling operations on various data structures with tools for vector similarity search, pub/sub messaging, and server management.

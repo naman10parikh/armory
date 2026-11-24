@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-01T02:34:06Z"
+pushed_at: "2026-11-23T06:34:42Z"
 ---
 ## What it is
 Provides unified access to social media data across nine networks (Instagram, TikTok, YouTube, etc.) through a set of MCP tools for profiles, posts, search, and comments, backed by the SocialBridge API.

@@ -8,13 +8,13 @@ source_url: https://github.com/VikashLoomba/agentprism-workflows
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-13T12:52:28Z"
+pushed_at: "2026-11-24T15:32:39Z"
 ---
 ## What it is
 Run dynamic, multi-agent workflow scripts — agent(), parallel(), pipeline() — over real coding agents (Claude Code and OpenAI Codex), with deterministic journaling, resume, token budgets, and git-worktree isolation.

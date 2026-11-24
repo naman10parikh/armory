@@ -8,12 +8,12 @@ source_url: https://github.com/pete-builds/mcp-unifi
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 31
+stars: 32
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-11-16T23:31:40Z"
+pushed_at: "2026-11-24T18:34:44Z"
 ---
 ## What it is
 MCP server `UniFi Gateway`, catalogued on PulseMCP. MCP server for managing self-hosted UniFi gateways with 41 tools covering VLANs, firewalls, and DHCP.

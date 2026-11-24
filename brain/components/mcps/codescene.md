@@ -8,12 +8,12 @@ source_url: https://github.com/codescene-oss/codescene-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 85
+stars: 86
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 14
-pushed_at: "2026-11-17T16:00:46Z"
+pushed_at: "2026-11-23T13:35:45Z"
 ---
 ## What it is
 MCP server `CodeScene`, catalogued on PulseMCP. Code Health analysis and technical debt management

@@ -8,12 +8,12 @@ source_url: https://github.com/opgginc/opgg-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 108
+stars: 109
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-05T07:15:03Z"
+pushed_at: "2026-11-19T07:15:04Z"
 ---
 ## What it is
 MCP server `OP.GG Gaming Data`, catalogued on PulseMCP. Connects AI to OP.GG's gaming data services for League of Legends, Teamfight Tactics, Valorant, and esports, providing access to champion statistics, leaderboards, match histories, and meta trends.

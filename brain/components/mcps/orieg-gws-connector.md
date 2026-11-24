@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-14T03:30:05Z"
+pushed_at: "2026-11-20T19:04:48Z"
 ---
 ## What it is
 Multi-account Google Workspace MCP server — Gmail, Calendar, and Drive with smart routing.

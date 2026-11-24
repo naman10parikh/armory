@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-14T13:58:54Z"
+pushed_at: "2026-11-23T15:52:47Z"
 ---
 ## What it is
 MCP server for ClicheFactory, enabling structured data extraction from documents such as PDFs, images, and office files via AI assistants.

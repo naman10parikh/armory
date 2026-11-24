@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-04T15:29:18Z"
+pushed_at: "2026-11-24T16:05:18Z"
 ---
 ## What it is
 A launcher that exposes your local Nimbus index and agents to any MCP client by locating and execing the Nimbus CLI binary.

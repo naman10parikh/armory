@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-26T07:23:12Z"
+pushed_at: "2026-11-23T07:36:48Z"
 ---
 ## What it is
 Metatron is a self-hosted system that captures a codebase's real implementation decisions — preferred patterns, rejected approaches, edge cases, internal conventions — as structured priors, and serves them to coding agents over MCP

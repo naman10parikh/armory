@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 142
-pushed_at: "2026-11-17T11:24:47Z"
+forks: 143
+pushed_at: "2026-11-24T10:37:15Z"
 ---
 ## What it is
 MCP server for natural language to SQL conversion, enabling listing databases, connecting, inspecting schemas, and querying databases using plain English.

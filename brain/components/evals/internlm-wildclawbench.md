@@ -8,14 +8,14 @@ source_url: https://github.com/InternLM/WildClawBench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 535
+stars: 536
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, evals]
 forks: 66
-pushed_at: "2026-11-16T14:39:20Z"
+pushed_at: "2026-11-18T09:52:40Z"
 ---
 ## What it is
 An in-the-wild benchmark for AI agents in the production harness.

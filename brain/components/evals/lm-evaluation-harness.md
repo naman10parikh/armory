@@ -8,12 +8,12 @@ source_url: https://github.com/EleutherAI/lm-evaluation-harness
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 14493
+stars: 14529
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, academic, benchmark, harness]
-forks: 3817
+forks: 3831
 pushed_at: "2026-11-04T14:34:40Z"
 ---
 ## What it is

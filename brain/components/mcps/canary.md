@@ -8,13 +8,13 @@ source_url: https://github.com/osauer/canary
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-11-15T19:30:22Z"
+pushed_at: "2026-11-24T12:41:23Z"
 ---
 ## What it is
 MCP server for Interactive Brokers that provides account, portfolio, market data, and risk analysis tools to MCP hosts like Claude Desktop, enabling natural language queries about positions, market regime, and position sizing without placing orders.

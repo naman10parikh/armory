@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-17T12:27:47Z"
+pushed_at: "2026-11-23T06:42:18Z"
 ---
 ## What it is
 Minds MCP enables AI assistants to run synthetic market research end to end using grounded synthetic customer panels for concept testing, message testing, and segment comparison, with durable server-side studies exporting to PDF, CSV, XLSX, JSON, and Markdown.

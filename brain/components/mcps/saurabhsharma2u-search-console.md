@@ -8,11 +8,11 @@ source_url: https://github.com/saurabhsharma2u/search-console-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 326
+stars: 331
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 30
+forks: 32
 pushed_at: "2026-10-21T13:58:07Z"
 ---
 ## What it is

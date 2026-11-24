@@ -8,14 +8,14 @@ source_url: https://github.com/pipecat-ai/pipecat
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 17305
+stars: 17414
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3126
-pushed_at: "2026-11-17T16:18:48Z"
+forks: 3175
+pushed_at: "2026-11-24T18:10:26Z"
 ---
 ## What it is
 Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community.

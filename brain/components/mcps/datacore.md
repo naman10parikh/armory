@@ -8,13 +8,13 @@ source_url: https://github.com/datacore-one/datacore
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 4
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-11-17T16:41:45Z"
+pushed_at: "2026-11-23T04:14:14Z"
 ---
 ## What it is
 AI second-brain engine: GTD, knowledge graph, and engram memory over MCP.

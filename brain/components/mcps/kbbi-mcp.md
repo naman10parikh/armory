@@ -8,13 +8,13 @@ source_url: https://github.com/gaato/kbbi-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-17T09:09:18Z"
+pushed_at: "2026-11-24T01:42:46Z"
 ---
 ## What it is
 An MCP server for querying KBBI (Kamus Besar Bahasa Indonesia / KBBI Daring).

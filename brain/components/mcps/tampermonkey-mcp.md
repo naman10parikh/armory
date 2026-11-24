@@ -8,7 +8,7 @@ source_url: https://github.com/Tampermonkey/tampermonkey-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 66
+stars: 68
 eval_score: null
 verified_at: 2026-05-27
 related: []

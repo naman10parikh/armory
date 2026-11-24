@@ -8,13 +8,13 @@ source_url: https://github.com/open-telemetry/opentelemetry-collector-contrib
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 5054
+stars: 5064
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, opentelemetry, tracing]
-forks: 4133
-pushed_at: "2026-11-17T16:34:22Z"
+forks: 4160
+pushed_at: "2026-11-24T18:48:14Z"
 ---
 ## What it is
 OpenTelemetry semantic conventions and instrumentation for GenAI/LLM spans, traces, and metrics via the GenAI semconv working group.

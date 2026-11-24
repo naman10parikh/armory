@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-11-14T10:13:57Z"
+forks: 7
+pushed_at: "2026-11-24T06:54:48Z"
 ---
 ## What it is
 Community MCP server for RuyiPage enabling browser automation, fingerprint analysis, network interception, and human behavior simulation via 56 MCP tools.

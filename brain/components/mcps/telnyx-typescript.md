@@ -8,12 +8,12 @@ source_url: https://github.com/team-telnyx/telnyx-node
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 198
+stars: 199
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 eval_score: 1
-forks: 29
+forks: 31
 pushed_at: "2026-11-13T12:36:18Z"
 ---
 ## What it is

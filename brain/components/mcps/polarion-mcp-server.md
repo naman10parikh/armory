@@ -8,13 +8,13 @@ source_url: https://github.com/phillipboesger/polarion-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-11-15T17:30:09Z"
+pushed_at: "2026-11-23T19:50:42Z"
 ---
 ## What it is
 A TypeScript MCP server that turns the Polarion ALM REST API into a tool-based interface for AI assistants.

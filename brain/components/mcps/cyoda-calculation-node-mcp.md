@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-05-09T16:47:54Z"
+pushed_at: "2026-11-21T14:07:12Z"
 ---
 ## What it is
 Enables AI assistants to interact with Cyoda platform entities and workflows through the Model Context Protocol, supporting entity management, workflow execution, and data synchronization.

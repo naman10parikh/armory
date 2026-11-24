@@ -8,11 +8,11 @@ source_url: https://github.com/jayli52/api2mcptools
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 5
+stars: 1
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
+forks: 0
 pushed_at: "2025-05-26T10:07:39Z"
 ---
 ## What it is

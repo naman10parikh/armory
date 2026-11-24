@@ -8,12 +8,12 @@ source_url: https://github.com/agent-network-protocol/AgentNetworkProtocol
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1478
+stars: 1483
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, multiagent-systems]
-forks: 112
+forks: 113
 pushed_at: "2026-11-09T09:23:46Z"
 ---
 ## What it is

@@ -8,11 +8,11 @@ source_url: https://github.com/shinpr/mcp-local-rag
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 434
+stars: 436
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 83
+forks: 82
 pushed_at: "2026-11-13T05:32:04Z"
 ---
 ## What it is

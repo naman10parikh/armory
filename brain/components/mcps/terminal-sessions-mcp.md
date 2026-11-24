@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
-pushed_at: "2026-11-08T10:03:52Z"
+forks: 15
+pushed_at: "2026-11-18T20:58:53Z"
 ---
 ## What it is
 Interactive, persistent terminal sessions for AI assistants via Model Context Protocol.

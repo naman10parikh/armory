@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-16T00:47:01Z"
+pushed_at: "2026-11-24T02:14:54Z"
 ---
 ## What it is
 CNCF release intelligence: typed, quoted facts (security fixes, breaking changes, deprecations) from every graduated/incubating project's release notes, updated daily. check_stack compares running versions locally — versions never leave your process.

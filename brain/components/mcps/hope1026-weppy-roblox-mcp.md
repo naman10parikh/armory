@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, gaming]
-stars: 81
+stars: 84
 forks: 10
-pushed_at: "2026-11-17T13:42:04Z"
+pushed_at: "2026-11-20T12:56:37Z"
 ---
 ## What it is
 MCP server and plugin that lets AI agents (Claude Code, Cursor, Codex, Gemini) directly control a live Roblox Studio session — create scripts, instances, terrain, lighting, and assets via natural language. 21 tools, 140+ actions, bidirectional sync, and automated playtest.

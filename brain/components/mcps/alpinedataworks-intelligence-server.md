@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-19T05:39:23Z"
+pushed_at: "2026-11-23T00:06:43Z"
 ---
 ## What it is
 Agent-ready economic, market & geo-health intelligence — 163 MCP tools, 155 driver-backed indices.

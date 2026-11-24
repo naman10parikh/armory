@@ -8,12 +8,12 @@ source_url: https://github.com/jakubanderwald/drafto
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 14
+stars: 15
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-16T23:25:16Z"
+pushed_at: "2026-11-24T18:31:22Z"
 ---
 ## What it is
 MCP server `Drafto`, catalogued on PulseMCP. Manages notes and notebooks in Drafto, a cross-platform note-taking app with offline-first sync.

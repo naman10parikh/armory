@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 23
-pushed_at: "2026-11-17T02:12:02Z"
+pushed_at: "2026-11-23T16:28:45Z"
 ---
 ## What it is
 A token-efficient MCP server that gives AI agents structured access to the web, returning compact page summaries and targeted queries instead of full accessibility dumps.

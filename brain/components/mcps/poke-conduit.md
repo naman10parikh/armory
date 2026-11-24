@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-23T05:49:41Z"
+pushed_at: "2026-11-18T06:27:13Z"
 ---
 ## What it is
 A production-shaped, durable multi-agent backend for the Poke MCP client, providing backlog management, council deliberation, and proactive reminders.

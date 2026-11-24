@@ -8,12 +8,12 @@ source_url: https://github.com/muvon/octocode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 524
+stars: 530
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 60
-pushed_at: "2026-11-08T05:07:59Z"
+forks: 61
+pushed_at: "2026-11-24T11:59:51Z"
 ---
 ## What it is
 MCP server `Octocode`, catalogued on PulseMCP. AI-powered code indexer with semantic search and knowledge graphs.

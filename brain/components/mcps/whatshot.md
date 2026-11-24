@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-17T11:21:56Z"
+pushed_at: "2026-11-22T14:22:26Z"
 ---
 ## What it is
 WhatsHot MCP server aggregates trending hotlists, real-time news flashes, gold prices, and RSS feeds from 330+ sources, offering read-only tools to list sources, fetch current data, and query historical search and trend data via DuckDB.

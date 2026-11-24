@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T19:38:58Z"
+pushed_at: "2026-11-20T23:05:51Z"
 ---
 ## What it is
 Enables AI assistants to query Bradesco bank accounts via Open Finance Brazil, providing read-only access to balances, statements, credit card bills, and investments.

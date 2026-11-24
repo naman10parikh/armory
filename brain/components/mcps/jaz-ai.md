@@ -8,13 +8,13 @@ source_url: https://github.com/teamtinvio/jaz-ai
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-11-17T07:52:39Z"
+pushed_at: "2026-11-24T11:45:08Z"
 ---
 ## What it is
 The complete agent surface for Jaz accounting, providing 284 MCP tools and domain knowledge for AI agents to handle accounting tasks.

@@ -8,13 +8,13 @@ source_url: https://github.com/mfdaves/okf-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-15T15:15:21Z"
+pushed_at: "2026-11-21T00:57:43Z"
 ---
 ## What it is
 A project-agnostic Open Knowledge Format MCP server that indexes Markdown concepts with YAML frontmatter and provides CLI and MCP tools for search, validation, and graph navigation of structured knowledge.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-02T17:55:02Z"
+pushed_at: "2026-11-17T21:05:43Z"
 ---
 ## What it is
 x402 agent MCP server (beacon-mcp) exposing tools via Docker + glama.json for introspection.

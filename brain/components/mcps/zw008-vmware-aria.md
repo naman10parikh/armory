@@ -12,8 +12,8 @@ stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 3
-pushed_at: "2026-11-17T14:19:42Z"
+forks: 4
+pushed_at: "2026-11-19T03:17:55Z"
 ---
 ## What it is
 MCP server `VMware Aria Operations`, catalogued on PulseMCP. VMware Aria Operations monitoring with metrics, alerts, capacity, and anomaly detection tools.

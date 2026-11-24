@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-09-24T12:08:16Z"
+pushed_at: "2026-11-24T12:22:44Z"
 ---
 ## What it is
 MCP server `SAP Commerce Cloud (Hybris)`, catalogued on PulseMCP. Integrates with SAP Commerce Cloud (Hybris) for product catalog management, order processing, FlexibleSearch queries, Groovy script execution, ImpEx operations, cron job management, cache operations, and catalog synchronization.

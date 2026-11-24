@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-11-15T16:10:27Z"
+pushed_at: "2026-11-21T09:53:04Z"
 ---
 ## What it is
 Enables conversational live coding with Claude AI and TidalCycles, allowing users to create and manipulate algorithmic music patterns through natural language.

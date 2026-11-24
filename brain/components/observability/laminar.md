@@ -8,14 +8,14 @@ source_url: https://github.com/lmnr-ai/lmnr
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 3501
+stars: 3521
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [observability, tracing, evals]
 mentions: 1
-forks: 263
-pushed_at: "2026-11-17T16:13:51Z"
+forks: 267
+pushed_at: "2026-11-24T18:28:35Z"
 ---
 ## What it is
 Laminar is an open-source platform for tracing, evaluating, and labeling LLM and agent pipelines with a TypeScript/Python SDK and a self-hostable backend.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-17T09:06:12Z"
+pushed_at: "2026-11-24T12:25:28Z"
 ---
 ## What it is
 A Unity Editor command bridge that uses JSON files under .codex/unity-commands for request/response, enabling tools to check Unity status, execute editor commands, parse test results, and capture screenshots.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-11-13T16:55:42Z"
+pushed_at: "2026-11-18T16:28:32Z"
 ---
 ## What it is
 Enables interaction with Concrete CMS sites through the Concrete CMS REST API, allowing content management, user operations, and file uploads via natural language.

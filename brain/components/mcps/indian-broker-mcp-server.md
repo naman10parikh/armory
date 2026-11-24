@@ -8,12 +8,12 @@ source_url: https://github.com/Sparker0i/indian-stock-mcp-agent
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 12
+stars: 13
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 10
+forks: 11
 pushed_at: "2026-05-29T09:12:54Z"
 ---
 ## What it is

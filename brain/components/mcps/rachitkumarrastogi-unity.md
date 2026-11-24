@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-11-09T23:51:59Z"
+pushed_at: "2026-11-19T22:42:53Z"
 ---
 ## What it is
 MCP server `Unity Project Tools`, catalogued on PulseMCP. Unity project management with build automation, scene listing, and agent documentation.

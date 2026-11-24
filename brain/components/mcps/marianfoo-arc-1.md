@@ -8,12 +8,12 @@ source_url: https://github.com/marianfoo/arc-1
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 264
+stars: 267
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 73
-pushed_at: "2026-11-16T21:59:08Z"
+forks: 76
+pushed_at: "2026-11-24T14:39:29Z"
 ---
 ## What it is
 MCP server `ARC-1`, catalogued on PulseMCP. Connect AI agents to SAP ABAP systems for reading, writing, and managing SAP data.

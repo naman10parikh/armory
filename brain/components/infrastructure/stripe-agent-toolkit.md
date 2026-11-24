@@ -9,13 +9,13 @@ source_url: https://github.com/stripe/ai
 license: MIT
 cli_compat: [claude, codex]
 maturity: stable
-stars: 2072
+stars: 2088
 eval_score: 1
 verified_at: 2026-05-26
 related: [stripe-mcp, agentmoney, agentmoney-cost]
 tags: [payments, stripe, billing, financial-rails, monetization]
-forks: 385
-pushed_at: "2026-11-17T00:30:44Z"
+forks: 393
+pushed_at: "2026-11-24T00:28:03Z"
 ---
 
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-11-17T02:04:39Z"
+pushed_at: "2026-11-24T00:04:47Z"
 ---
 ## What it is
 MCP server `Tigris Storage`, catalogued on PulseMCP. Provides S3-compatible object storage capabilities for managing buckets, uploading/downloading objects, and generating signed URLs through Tigris Storage

@@ -8,12 +8,12 @@ source_url: https://github.com/sysprog21/zhtw-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 511
+stars: 514
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 51
-pushed_at: "2026-11-17T01:07:27Z"
+pushed_at: "2026-11-23T22:56:31Z"
 ---
 ## What it is
 MCP server `Traditional Chinese Text Linting`, catalogued on PulseMCP. Enforces Taiwan Ministry of Education standards for Traditional Chinese text, catching Mainland Chinese regional drift in vocabulary, punctuation, and character shapes.

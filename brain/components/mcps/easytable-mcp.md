@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-12T16:36:12Z"
+pushed_at: "2026-11-19T16:35:28Z"
 ---
 ## What it is
 An MCP server for easyTable restaurant reservations, enabling booking management (list, create, modify, cancel) through a fetchproxy bridge that requires a user's browser tab to bypass server-side blocks.

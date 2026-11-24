@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-28T23:47:45Z"
+pushed_at: "2026-11-22T05:44:52Z"
 ---
 ## What it is
 MCP server for OpenHAB v5+ that exposes the entire REST API as tools for AI models, enabling complete control over items, things, rules, persistence, and semantic model.

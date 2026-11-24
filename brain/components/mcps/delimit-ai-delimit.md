@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, developer-tools]
-stars: 23
+stars: 22
 forks: 5
-pushed_at: "2026-11-10T14:24:32Z"
+pushed_at: "2026-11-18T00:41:53Z"
 ---
 ## What it is
 API governance server that detects breaking changes in OpenAPI specs. Diffs two spec versions, applies configurable policy rules (strict/default/relaxed), and returns structured pass/fail verdicts. 23 change types, 10 breaking. Supports OpenAPI 3.0, 3.1, and Swagger 2.0.

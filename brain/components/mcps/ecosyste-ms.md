@@ -8,12 +8,12 @@ source_url: https://github.com/ecosyste-ms/mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 9
+stars: 8
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-11-11T09:26:12Z"
+pushed_at: "2026-11-18T08:52:01Z"
 ---
 ## What it is
 MCP server `Ecosyste.ms`, catalogued on PulseMCP. Queries package ecosystem data from ecosyste.ms across 30+ ecosystems including npm, PyPI, Maven, and Cargo, combining local SQLite database for fast lookups with API fallback for package metadata, security advisories, and dependency information.

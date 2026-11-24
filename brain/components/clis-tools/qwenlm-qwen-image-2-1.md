@@ -8,13 +8,13 @@ source_url: https://github.com/QwenLM/Qwen-Image-2.1
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2240
+stars: 2272
 eval_score: null
 mentions: 1
 verified_at: 2026-10-13
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 166
+forks: 168
 pushed_at: "2026-10-14T10:08:25Z"
 ---
 ## What it is

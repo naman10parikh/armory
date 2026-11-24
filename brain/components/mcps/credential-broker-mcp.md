@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-09T10:16:16Z"
+pushed_at: "2026-11-19T12:14:57Z"
 ---
 ## What it is
 A local-first MCP server that lets AI agents use gated APIs without holding keys, enforcing declarative policies, injecting secrets server-side, and auditing access without content.

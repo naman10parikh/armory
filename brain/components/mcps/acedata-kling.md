@@ -8,12 +8,12 @@ source_url: https://github.com/acedatacloud/klingmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1
+stars: 2
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-15T09:27:52Z"
+pushed_at: "2026-11-24T17:58:39Z"
 ---
 ## What it is
 MCP server `AceDataCloud Kling`, catalogued on PulseMCP. AI video generation through the Kling model on the AceDataCloud platform.

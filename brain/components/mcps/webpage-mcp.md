@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-10-14T13:33:05Z"
+pushed_at: "2026-11-24T13:01:10Z"
 ---
 ## What it is
 Enables AI assistants to control your webpage via MCP, allowing navigation, screenshots, clicks, content reading, and more through a Chrome extension.

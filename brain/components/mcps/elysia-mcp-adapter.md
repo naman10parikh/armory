@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-12T03:46:06Z"
+pushed_at: "2026-11-24T18:29:13Z"
 ---
 ## What it is
 Exposes Elysia HTTP routes and MCP-native primitives through a single Model Context Protocol endpoint, preserving Elysia's request lifecycle.

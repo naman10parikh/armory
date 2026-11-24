@@ -8,14 +8,14 @@ source_url: https://github.com/RedPlanetHQ/core
 license: NOASSERTION
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 2024
+stars: 2029
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, memory]
-forks: 198
-pushed_at: "2026-11-16T20:58:28Z"
+forks: 202
+pushed_at: "2026-11-24T10:21:41Z"
 ---
 ## What it is
 Use when one memory graph should serve Claude Code, Codex and your other assistants at once.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 13
-pushed_at: "2026-11-17T15:56:41Z"
+forks: 12
+pushed_at: "2026-11-23T07:16:50Z"
 ---
 ## What it is
 Local-first agent-memory MCP server with a why() tool: recall a fact together with its connected subgraph (multi-hop), so linked memories surface even when they share no words with the query. remember/recall/relate/forget/why over one fused vector + graph + columnar engine a single offline Rust bina

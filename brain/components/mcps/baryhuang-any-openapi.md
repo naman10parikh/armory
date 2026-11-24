@@ -8,7 +8,7 @@ source_url: https://github.com/baryhuang/mcp-server-any-openapi
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 82
+stars: 81
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]

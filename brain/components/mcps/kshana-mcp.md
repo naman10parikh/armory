@@ -8,13 +8,13 @@ source_url: https://github.com/ashfordeOU/kshana
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
-pushed_at: "2026-11-16T02:56:04Z"
+forks: 6
+pushed_at: "2026-11-23T13:06:35Z"
 ---
 ## What it is
 Validated PNT-resilience simulator over MCP — SGP4/SDP4 orbit propagation, IAU reference frames, GNSS availability/DOP, GNSS/INS fusion, ARAIM integrity, and Allan deviations, with results validated against AIAA/IGS/SOFA/NIST reference data.

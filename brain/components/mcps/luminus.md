@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-18T11:05:17Z"
+pushed_at: "2026-11-24T17:12:19Z"
 ---
 ## What it is
 Provides real-time European and GB electricity grid data via MCP, including generation, prices, carbon intensity, and grid infrastructure.

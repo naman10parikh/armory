@@ -8,13 +8,13 @@ source_url: https://github.com/bestagentkits/cloud-harness-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 109
+stars: 112
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 42
-pushed_at: "2026-11-17T07:48:39Z"
+forks: 41
+pushed_at: "2026-11-20T02:15:06Z"
 ---
 ## What it is
 Enables AI clients to securely operate isolated coding workspaces with file, command, Git, and deployment tools via authenticated remote MCP.

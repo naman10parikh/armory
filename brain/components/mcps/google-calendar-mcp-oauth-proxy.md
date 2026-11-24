@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-17T01:38:47Z"
+pushed_at: "2026-11-23T19:46:13Z"
 ---
 ## What it is
 Enables MCP clients to authenticate with Google OAuth and securely access Google Calendar's official MCP server without exposing the Google client secret.

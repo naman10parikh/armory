@@ -15,7 +15,7 @@ verified_at: 2026-10-29
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 0
-pushed_at: "2026-11-05T04:28:58Z"
+pushed_at: "2026-11-22T06:34:04Z"
 ---
 ## What it is
 Author-in-the-Loop Autoformalization of Research Papers in Lean

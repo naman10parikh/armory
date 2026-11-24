@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-11-16T16:43:03Z"
+pushed_at: "2026-11-23T07:44:00Z"
 ---
 ## What it is
 An MCP server for securely executing Python code, supporting STDIO, Streamable HTTP, and SSE transports, with easy deployment on Heroku.

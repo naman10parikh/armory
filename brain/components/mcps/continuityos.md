@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-13T08:03:15Z"
+pushed_at: "2026-11-19T06:31:12Z"
 ---
 ## What it is
 An MCP server offering hybrid memory recall and continuity tools for AI agents. It also provides a governance gateway that pre-approves risky shell/file/git actions before execution.

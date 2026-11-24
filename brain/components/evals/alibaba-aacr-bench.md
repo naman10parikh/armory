@@ -8,14 +8,14 @@ source_url: https://github.com/alibaba/aacr-bench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 261
+stars: 268
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, evals]
-forks: 34
-pushed_at: "2026-11-16T12:36:19Z"
+forks: 35
+pushed_at: "2026-11-24T06:30:42Z"
 ---
 ## What it is
 An Alibaba open-source multi-language benchmark for evaluating LLMs in repository-level automatic code review, featuring an AI-assisted and expert-verified dataset.

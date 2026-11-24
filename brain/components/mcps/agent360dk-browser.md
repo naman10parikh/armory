@@ -8,12 +8,12 @@ source_url: https://github.com/agent360dk/browser-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 64
+stars: 67
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 17
-pushed_at: "2026-11-17T13:36:59Z"
+forks: 18
+pushed_at: "2026-11-23T20:49:35Z"
 ---
 ## What it is
 MCP server `Agent360 Browser`, catalogued on PulseMCP. Real Chrome browser control with CAPTCHA solving and multi-session support.

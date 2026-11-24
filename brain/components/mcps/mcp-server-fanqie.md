@@ -8,12 +8,12 @@ source_url: https://github.com/fysh1010/mcp-server-fanqie
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 57
+stars: 58
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 5
+forks: 6
 pushed_at: "2026-10-31T04:18:25Z"
 ---
 ## What it is

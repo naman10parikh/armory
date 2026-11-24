@@ -8,11 +8,11 @@ source_url: https://github.com/effytech/freshdesk_mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 71
+stars: 70
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 53
+forks: 54
 pushed_at: "2026-10-14T15:31:51Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 31
-pushed_at: "2026-11-16T03:14:20Z"
+pushed_at: "2026-11-24T01:46:43Z"
 ---
 ## What it is
 MCP server `Smart Tree`, catalogued on PulseMCP. Rust-based directory visualization and analysis tool that provides quantum compression, semantic analysis, and streaming modes with over 20 specialized tools for file system exploration, content discovery, and project understanding optimized for large codebase analysis.

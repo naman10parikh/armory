@@ -8,14 +8,14 @@ source_url: https://github.com/benchflow-ai/skillsbench
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1922
+stars: 1937
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 378
-pushed_at: "2026-11-16T20:58:19Z"
+forks: 382
+pushed_at: "2026-11-24T10:53:08Z"
 ---
 ## What it is
 SkillsBench evaluates how well skills work and how effective agents are at using them.

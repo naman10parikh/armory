@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-10-23T01:28:43Z"
+pushed_at: "2026-11-24T18:45:11Z"
 ---
 ## What it is
 MCP server `InterSystems IRIS Suite`, catalogued on PulseMCP. Suite of five specialized servers for InterSystems IRIS covering development, administration, interoperability, operations, and data analytics with 87 total tools.

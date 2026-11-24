@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-10T11:21:25Z"
+pushed_at: "2026-11-24T12:00:29Z"
 ---
 ## What it is
 Connects MCP clients to a local NexBrowser desktop app for browser automation, environment management, and session-isolated page inspection via the Model Context Protocol.

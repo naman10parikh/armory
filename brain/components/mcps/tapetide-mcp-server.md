@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 32
-pushed_at: "2026-11-17T07:42:16Z"
+pushed_at: "2026-11-24T16:36:04Z"
 ---
 ## What it is
 Connects AI assistants to real-time Indian stock market data with 34 tools for search, screening, analysis, portfolio tracking, and market insights across all NSE and BSE stocks.

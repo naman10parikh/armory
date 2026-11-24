@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-23T05:28:56Z"
+pushed_at: "2026-11-23T07:33:24Z"
 ---
 ## What it is
 MCP server for reading public Featurebase feedback boards, enabling agents to query user feedback, posts, comments, and statistics.

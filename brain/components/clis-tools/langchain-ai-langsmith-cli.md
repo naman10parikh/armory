@@ -14,8 +14,8 @@ mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 21
-pushed_at: "2026-11-17T10:34:37Z"
+forks: 22
+pushed_at: "2026-11-24T17:36:01Z"
 ---
 ## What it is
 A coding agent-first CLI for interacting with LangSmith.

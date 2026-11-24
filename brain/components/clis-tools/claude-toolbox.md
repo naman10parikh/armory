@@ -12,8 +12,8 @@ verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
 stars: 155
-forks: 30
-pushed_at: "2026-11-16T20:09:38Z"
+forks: 29
+pushed_at: "2026-11-24T12:53:26Z"
 ---
 ## What it is
 This is a starter template repository designed to provide a complete development environment for Claude-Code with pre-configured MCP servers and tools for AI-powered development workflows. The repository is intentionally minimal, containing only configuration templates for three primary systems: Claude Code, Serena, and Task Master.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-12T15:51:28Z"
+pushed_at: "2026-11-23T05:24:02Z"
 ---
 ## What it is
 Enables programmatic control of Obsidian vaults via REST API and MCP server for automation and AI assistant integration.

@@ -8,13 +8,13 @@ source_url: https://github.com/Ultrathink-Solutions/fastmcp-gateway
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 5
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-06T19:18:52Z"
+pushed_at: "2026-11-20T05:30:01Z"
 ---
 ## What it is
 Aggregates tools from multiple upstream MCP servers and exposes them through 4 meta-tools, enabling LLMs to discover and use hundreds of tools without loading all schemas upfront.

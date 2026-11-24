@@ -8,12 +8,12 @@ source_url: https://github.com/contentful/contentful-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 62
+stars: 63
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 34
-pushed_at: "2026-11-15T22:32:44Z"
+forks: 35
+pushed_at: "2026-11-23T23:54:18Z"
 ---
 ## What it is
 MCP server `Contentful (Official)`, catalogued on PulseMCP. Official Contentful integration that enables full content lifecycle management including entries, content types, assets, environments, locales, tags, and automated content generation through Contentful's Content Management API with bulk operations and intelligent response handling.

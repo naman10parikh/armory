@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-10T17:38:46Z"
+pushed_at: "2026-11-18T06:09:26Z"
 ---
 ## What it is
 Enables prioritized vulnerability intelligence with exploitation-aware ranking, fact-checking of agent claims, and transferable attack mechanics from disclosed bug bounty reports.

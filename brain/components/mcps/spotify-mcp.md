@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-16T14:06:11Z"
+pushed_at: "2026-11-19T16:24:42Z"
 ---
 ## What it is
 MCP server to control Spotify conversationally from Claude, Cursor, and other AI clients.

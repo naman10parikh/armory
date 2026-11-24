@@ -8,12 +8,12 @@ source_url: https://github.com/alyiox/mcp-mssql
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
+forks: 3
 pushed_at: "2026-10-26T03:32:18Z"
 ---
 ## What it is

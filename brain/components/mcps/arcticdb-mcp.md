@@ -8,12 +8,12 @@ source_url: https://github.com/YMuskrat/arcticdb_mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 726
+stars: 719
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 57
+forks: 55
 pushed_at: "2026-10-20T15:49:30Z"
 ---
 ## What it is

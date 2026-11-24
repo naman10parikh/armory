@@ -8,13 +8,13 @@ source_url: https://github.com/white1024/agent-nextup
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 3
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-09T14:31:50Z"
+pushed_at: "2026-11-21T17:52:11Z"
 ---
 ## What it is
 Enables AI agents to maintain project continuity through a file-based state hub with tasks, phases, and handoff snapshots. Provides MCP tools for reading and updating project state, with gatekeeping enforced via real-state evaluation and per-tool authorization.

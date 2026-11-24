@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-10-18T05:38:14Z"
+pushed_at: "2026-11-22T05:22:35Z"
 ---
 ## What it is
 Diagnoses the Codex MCP launch path and writes host configuration so Codex, Cursor, or Claude Code can spawn the dsh profile. It does not run the MCP stdio server in the Web process.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T19:39:27Z"
+pushed_at: "2026-11-20T23:15:22Z"
 ---
 ## What it is
 Connects RecargaPay accounts to AI agents via Open Finance Brasil, enabling read-only queries about balances, statements, credit card bills, and investments in natural language.

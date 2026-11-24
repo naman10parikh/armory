@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T19:38:58Z"
+pushed_at: "2026-11-20T23:06:36Z"
 ---
 ## What it is
 Enables reading C6 Bank account balances, statements, credit card bills, and investments via Open Finance Brasil. It is read-only and regulated by the Central Bank of Brazil.

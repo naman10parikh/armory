@@ -8,13 +8,13 @@ source_url: https://github.com/sfrangulov/minirag-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 60
+stars: 59
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-11-17T07:42:40Z"
+forks: 3
+pushed_at: "2026-11-23T04:59:58Z"
 ---
 ## What it is
 Local-first RAG MCP server that indexes local documents and provides hybrid search (semantic + keyword) with file ingestion, URL fetching, and a CLI, keeping data on-device.

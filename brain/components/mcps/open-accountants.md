@@ -8,12 +8,12 @@ source_url: https://github.com/openaccountants/openaccountants
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 495
+stars: 506
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 73
-pushed_at: "2026-11-17T16:18:37Z"
+forks: 76
+pushed_at: "2026-11-24T15:49:22Z"
 ---
 ## What it is
 MCP server `Open Accountants`, catalogued on PulseMCP. AI tax computation skills for financial transaction classification and tax documentation across 134 countries.

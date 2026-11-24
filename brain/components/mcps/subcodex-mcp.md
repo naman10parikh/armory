@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-01-30T08:50:04Z"
+pushed_at: "2026-11-21T09:47:10Z"
 ---
 ## What it is
 MCP server that enables Claude Code to delegate code generation and debugging to OpenAI Codex, with stall detection and auto-recovery.

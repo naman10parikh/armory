@@ -8,12 +8,12 @@ source_url: https://github.com/cyanheads/ntfy-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 25
+stars: 26
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-11-14T09:13:43Z"
+pushed_at: "2026-11-18T07:58:58Z"
 ---
 ## What it is
 MCP server `ntfy.sh`, catalogued on PulseMCP. Bridges Claude with ntfy.sh notification service, enabling direct push notifications with support for priorities, tags, attachments, and action buttons without leaving the conversation interface.

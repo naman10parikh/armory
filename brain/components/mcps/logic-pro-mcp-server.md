@@ -8,13 +8,13 @@ source_url: https://github.com/MongLong0214/logic-pro-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 211
+stars: 219
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 47
-pushed_at: "2026-11-17T15:24:45Z"
+forks: 49
+pushed_at: "2026-11-23T09:30:56Z"
 ---
 ## What it is
 Enables AI agents like Claude and Cursor to control Logic Pro for music production, including creating tracks, writing MIDI, operating transport and mixer, and inspecting live project data.

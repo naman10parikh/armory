@@ -8,13 +8,13 @@ source_url: https://github.com/Attacktive/claude-projects-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-17T01:58:00Z"
+pushed_at: "2026-11-23T01:01:50Z"
 ---
 ## What it is
 Enables Claude Code to read, create, update, and delete Claude Cowork/claude.ai projects and their knowledge documents, including syncing local folders to projects, with safety features like backups and overwrite protection.

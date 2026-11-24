@@ -8,13 +8,13 @@ source_url: https://github.com/aliengiraffe/spotdb
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-11-17T00:57:26Z"
+pushed_at: "2026-11-20T04:59:18Z"
 ---
 ## What it is
 Enables AI agents and workflows to safely explore and query data in ephemeral sandboxed databases via MCP, with guardrails and snapshot capabilities.

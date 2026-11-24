@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-15T10:21:11Z"
+pushed_at: "2026-11-20T14:59:41Z"
 ---
 ## What it is
 Enables AI clients to search and analyze SEC filings, financial statements, insider trades, and institutional holdings through natural language tools.

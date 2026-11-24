@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-10-24T08:29:54Z"
+pushed_at: "2026-11-22T12:36:57Z"
 ---
 ## What it is
 MCP server `Telegram Personal`, catalogued on PulseMCP. Personal Telegram account integration for chat summarization, message search, and reply drafting.

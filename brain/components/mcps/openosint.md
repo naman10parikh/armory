@@ -8,12 +8,12 @@ source_url: https://github.com/OpenOSINT/OpenOSINT
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1942
+stars: 1968
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 300
+forks: 307
 pushed_at: "2026-11-15T17:12:43Z"
 ---
 ## What it is

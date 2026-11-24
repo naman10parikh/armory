@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-07T20:16:45Z"
+pushed_at: "2026-11-23T01:15:54Z"
 ---
 ## What it is
 Enables AI agents to send a distress call to a Discord channel and wait for human input, capturing replies or reactions to resume work.

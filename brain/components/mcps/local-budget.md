@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-16T22:43:28Z"
+pushed_at: "2026-11-24T00:34:04Z"
 ---
 ## What it is
 Enables local-first personal finance management through deterministic tools for importing, categorizing, and analyzing bank transactions.

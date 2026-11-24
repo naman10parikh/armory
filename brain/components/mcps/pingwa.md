@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-22T22:23:20Z"
+pushed_at: "2026-11-19T11:54:36Z"
 ---
 ## What it is
 WhatsApp notifications and human-in-the-loop for AI agents. Text "join" to get an API key, then send messages, ask questions with tap-to-answer buttons, and read replies - no Meta account, no templates, no dashboard.

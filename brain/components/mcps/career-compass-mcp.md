@@ -8,13 +8,13 @@ source_url: https://github.com/benskamps/career-compass-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-17T00:37:12Z"
+pushed_at: "2026-11-23T03:19:31Z"
 ---
 ## What it is
 Turns Claude into a career co-pilot that manages resumes, cover letters, job applications, and interview prep using local YAML files.

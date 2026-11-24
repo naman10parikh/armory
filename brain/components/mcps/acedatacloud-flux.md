@@ -8,12 +8,12 @@ source_url: https://github.com/acedatacloud/fluxmcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-15T09:28:27Z"
+pushed_at: "2026-11-24T17:58:41Z"
 ---
 ## What it is
 MCP server `AceDataCloud Flux`, catalogued on PulseMCP. Flux AI image generation and editing through the AceDataCloud API platform.

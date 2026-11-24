@@ -8,7 +8,7 @@ source_url: https://github.com/QwenLM/RecreationWorld
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 121
+stars: 123
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10

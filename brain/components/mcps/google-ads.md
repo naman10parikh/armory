@@ -8,12 +8,12 @@ source_url: https://github.com/googleads/google-ads-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1187
+stars: 1218
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 mentions: null
-forks: 378
+forks: 387
 pushed_at: "2026-11-17T15:02:49Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-11T21:14:03Z"
+pushed_at: "2026-11-18T21:14:39Z"
 ---
 ## What it is
 Connects AI assistants to VulnCheck vulnerability intelligence for querying CVEs, exploits, advisories, and vulnerable packages via natural language.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-31T21:44:20Z"
+pushed_at: "2026-11-23T16:18:05Z"
 ---
 ## What it is
 Provides free hosted Zi Wei Dou Shu (Purple Star Astrology) natal charts and six-level transits as MCP tools, enabling AI agents to compute charts and transits through natural language.

@@ -8,11 +8,11 @@ source_url: https://github.com/feuerdev/keep-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 116
+stars: 118
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 35
+forks: 36
 pushed_at: "2026-11-16T16:26:57Z"
 ---
 ## What it is

@@ -8,14 +8,14 @@ source_url: https://github.com/ghostty-org/ghostty
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 64190
+stars: 64410
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3935
-pushed_at: "2026-11-17T15:34:47Z"
+forks: 3953
+pushed_at: "2026-11-24T18:41:06Z"
 ---
 ## What it is
 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.

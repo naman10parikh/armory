@@ -8,12 +8,12 @@ source_url: https://github.com/glips/figma-context-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16231
+stars: 16302
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 eval_score: 1
-forks: 1290
+forks: 1301
 pushed_at: "2026-11-15T22:22:42Z"
 ---
 ## What it is

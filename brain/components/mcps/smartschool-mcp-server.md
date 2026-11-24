@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-11-16T17:41:03Z"
+forks: 8
+pushed_at: "2026-11-24T12:34:16Z"
 ---
 ## What it is
 Connect Claude and other MCP clients to your Smartschool account to ask about grades, assignments, messages, and your schedule in plain language.

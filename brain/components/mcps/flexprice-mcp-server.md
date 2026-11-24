@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-11-16T11:17:25Z"
+pushed_at: "2026-11-19T14:15:06Z"
 ---
 ## What it is
 A Model Context Protocol server that exposes the flexprice API as tools for AI assistants, enabling management of customers, plans, prices, subscriptions, invoices, payments, and events from IDEs or CLI.

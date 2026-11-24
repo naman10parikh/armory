@@ -13,7 +13,7 @@ related: []
 tags: [mcp, developer-tools]
 stars: 2
 forks: 0
-pushed_at: "2026-11-12T18:01:50Z"
+pushed_at: "2026-11-19T12:08:22Z"
 ---
 ## What it is
 Zero-config MCP server that gives AI coding assistants a real-time diagnostic snapshot of your local dev environment. Detects framework, running services, recent errors, and git state in one call.

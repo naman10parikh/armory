@@ -8,12 +8,12 @@ source_url: https://github.com/xfloukiex-lab/magpie-search
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 28
+stars: 29
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-09-09T23:22:58Z"
 ---
 ## What it is

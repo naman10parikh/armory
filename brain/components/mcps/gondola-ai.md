@@ -8,12 +8,12 @@ source_url: https://github.com/gondola-ai/gondola-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 11
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-10-12T19:16:41Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 96
-pushed_at: "2026-11-16T05:52:12Z"
+pushed_at: "2026-11-23T05:53:15Z"
 ---
 ## What it is
 MCP server `DataHub`, catalogued on PulseMCP. Integrates with DataHub's API to enable metadata management, discovery, and governance across diverse data assets in complex ecosystems.

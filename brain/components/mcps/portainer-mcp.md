@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T10:44:29Z"
+pushed_at: "2026-11-24T06:19:58Z"
 ---
 ## What it is
 Enables AI assistants to manage Portainer container environments through natural language, including deploying stacks, managing containers, images, volumes, networks, and executing commands.

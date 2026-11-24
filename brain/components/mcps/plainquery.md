@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-07-12T15:50:03Z"
+pushed_at: "2026-11-23T07:03:26Z"
 ---
 ## What it is
 MCP server `PlainQuery`, catalogued on PulseMCP. Query PostgreSQL databases in plain English without writing SQL.

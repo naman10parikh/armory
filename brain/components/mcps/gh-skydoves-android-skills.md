@@ -8,12 +8,12 @@ source_url: https://github.com/skydoves/android-skills-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 228
+stars: 229
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 11
-pushed_at: "2026-11-16T19:22:40Z"
+pushed_at: "2026-11-23T20:57:39Z"
 ---
 ## What it is
 MCP server `Android Skills`, catalogued on PulseMCP. Wraps Google's android/skills library to expose Android development guidance as searchable tools for AI coding assistants.

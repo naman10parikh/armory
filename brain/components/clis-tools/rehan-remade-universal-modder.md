@@ -8,14 +8,14 @@ source_url: https://github.com/rehan-remade/universal-modder
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 9743
+stars: 9867
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 1094
-pushed_at: "2026-11-17T12:25:27Z"
+forks: 1114
+pushed_at: "2026-11-24T18:21:42Z"
 ---
 ## What it is
 Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.

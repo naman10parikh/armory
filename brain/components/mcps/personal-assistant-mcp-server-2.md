@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-11T17:19:24Z"
+pushed_at: "2026-11-19T22:48:40Z"
 ---
 ## What it is
 A FastMCP server that exposes tools for news aggregation, financial market data, fitness tracking, Spotify music data, and email notifications, usable directly from Claude via the Model Context Protocol.

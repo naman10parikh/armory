@@ -8,13 +8,13 @@ source_url: https://github.com/XingangPan/DragGAN
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 35689
+stars: 35829
 eval_score: null
 mentions: 2
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 3380
+forks: 3408
 pushed_at: "2024-05-18T17:51:40Z"
 ---
 ## What it is

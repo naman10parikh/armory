@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T01:01:54Z"
+pushed_at: "2026-11-23T05:21:52Z"
 ---
 ## What it is
 Tracks how long you've been indoors, nags you to touch grass, detects frustration, and recommends nearby parks with live weather.

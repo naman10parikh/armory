@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-17T00:28:43Z"
+pushed_at: "2026-11-24T02:04:43Z"
 ---
 ## What it is
 Enables natural language queries across AWS multi-account security scan history, including infrastructure configurations, public exposures, and organizational relationships.

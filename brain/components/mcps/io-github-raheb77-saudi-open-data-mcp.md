@@ -8,12 +8,12 @@ source_url: https://github.com/raheb77/saudi-open-data-mcp
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
+forks: 1
 pushed_at: "2026-07-15T01:13:18Z"
 ---
 ## What it is

@@ -8,13 +8,13 @@ source_url: https://github.com/mcpfinder/mcpfinder
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-11-16T07:32:31Z"
+pushed_at: "2026-11-24T14:33:15Z"
 ---
 ## What it is
 AI-first MCP server discovery tool that enables agents to search, inspect, and install MCP servers from multiple registries.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T19:39:24Z"
+pushed_at: "2026-11-20T23:13:03Z"
 ---
 ## What it is
 Enables natural language queries to read balances, statements, credit card bills, investments, and loans from Next bank accounts via Open Finance Brasil. All read-only, no money movement.

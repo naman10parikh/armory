@@ -12,8 +12,8 @@ stars: 40
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 23
-pushed_at: "2026-09-17T07:47:21Z"
+forks: 24
+pushed_at: "2026-11-24T08:09:34Z"
 ---
 ## What it is
 MCP server `Apache IoTDB`, catalogued on PulseMCP. Connects to Apache IoTDB time-series databases for executing queries, listing tables, and describing schemas through a secure Python-based interface.

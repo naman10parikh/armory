@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
-pushed_at: "2026-11-05T13:49:46Z"
+forks: 15
+pushed_at: "2026-11-20T14:21:14Z"
 ---
 ## What it is
 Provides ABAP developers with unified search, document retrieval, feature matrix lookup, SAP Community search, and local ABAP linting capabilities via MCP.

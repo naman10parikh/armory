@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-21T13:40:11Z"
+pushed_at: "2026-11-23T18:10:16Z"
 ---
 ## What it is
 Turns messy real estate data into clean, scored, AI-ready property intelligence for Columbus, OH metro, with pay-per-query via x402 micropayments. Enables natural-language search, investment scoring, and enrichment tools for MCP clients.

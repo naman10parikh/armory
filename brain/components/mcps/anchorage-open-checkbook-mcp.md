@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-15T07:56:00Z"
+pushed_at: "2026-11-21T03:26:38Z"
 ---
 ## What it is
 Read-only MCP server providing tools over Municipality of Anchorage's expenditure, payroll, procurement, and revenue data, with duplicates filtered by default.

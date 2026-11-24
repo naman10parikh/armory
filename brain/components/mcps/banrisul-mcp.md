@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T19:39:15Z"
+pushed_at: "2026-11-20T23:04:28Z"
 ---
 ## What it is
 Connects Banrisul bank accounts to AI assistants via Open Finance Brazil, enabling read-only queries on balances, statements, credit cards, and investments.

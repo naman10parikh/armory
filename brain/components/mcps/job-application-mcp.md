@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-12T23:34:07Z"
+pushed_at: "2026-11-20T12:48:48Z"
 ---
 ## What it is
 A local-first, open-source MCP server that analyzes jobs, matches your CV, tailors documents, and tracks applications — all on your machine with no data uploaded.

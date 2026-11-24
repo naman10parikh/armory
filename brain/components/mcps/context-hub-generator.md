@@ -8,11 +8,11 @@ source_url: https://github.com/context-hub/generator
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 343
+stars: 345
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 23
+forks: 24
 pushed_at: "2026-10-22T11:24:51Z"
 ---
 ## What it is

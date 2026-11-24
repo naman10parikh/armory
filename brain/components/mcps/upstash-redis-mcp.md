@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-08T14:32:21Z"
+pushed_at: "2026-11-24T08:57:32Z"
 ---
 ## What it is
 Lightweight MCP server for Redis that allows running any Redis command and searching Redis documentation. Supports multiple named databases with HTTP/REST or TCP transport.

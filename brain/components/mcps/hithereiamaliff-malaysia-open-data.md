@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-06-25T16:15:23Z"
+pushed_at: "2026-11-22T06:47:39Z"
 ---
 ## What it is
 MCP server `Malaysia Open Data`, catalogued on PulseMCP. A unified AI-first bridge to Malaysia's open data ecosystem with intelligent search, context-aware geocoding, and comprehensive documentation for seamless AI integration.

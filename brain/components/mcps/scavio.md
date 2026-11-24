@@ -8,13 +8,13 @@ source_url: https://github.com/scavio-ai/scavio-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-17T14:18:16Z"
+pushed_at: "2026-11-24T10:15:45Z"
 ---
 ## What it is
 An MCP server connecting AI agents to Google, YouTube, Amazon, Walmart, TikTok, and Reddit. 21 tools for web search, product lookup, video discovery, and social media analysis.

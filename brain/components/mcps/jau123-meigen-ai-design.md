@@ -8,11 +8,11 @@ source_url: https://github.com/jau123/meigen-ai-design-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1808
+stars: 1813
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 236
+forks: 237
 pushed_at: "2026-11-17T10:29:18Z"
 ---
 ## What it is

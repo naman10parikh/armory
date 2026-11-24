@@ -8,13 +8,13 @@ source_url: https://github.com/daiemon12/catia-v5-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 179
+stars: 188
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 43
-pushed_at: "2026-11-17T11:53:04Z"
+pushed_at: "2026-11-24T13:43:39Z"
 ---
 ## What it is
 Connect Claude AI to Dassault Systemes CATIA V5 via the Model Context Protocol (MCP). Drive CATIA V5 CAD modeling from Claude Desktop or Claude Code using natural language.

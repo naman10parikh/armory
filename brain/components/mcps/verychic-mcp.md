@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-09T08:34:51Z"
+pushed_at: "2026-11-19T10:43:35Z"
 ---
 ## What it is
 Search VeryChic hotel deals from any MCP client; browse flash-sale offers, filter by destination or price, and read availability and prices by date. Read-only, anonymous, no account needed.

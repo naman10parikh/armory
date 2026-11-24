@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-17T12:18:16Z"
+pushed_at: "2026-11-24T18:46:09Z"
 ---
 ## What it is
 Enables AI agents to score live URLs against a 40-check design contract, validate DTCG tokens and Lottie animations, audit accessibility, and retrieve design-system contracts, catalogs, and review rubrics.

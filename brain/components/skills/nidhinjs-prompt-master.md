@@ -8,13 +8,13 @@ source_url: https://github.com/nidhinjs/prompt-master
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 16095
+stars: 16294
 eval_score: null
 mentions: 5
 verified_at: 2026-09-07
 related: []
 tags: [sentinel-feed, skills]
-forks: 1847
+forks: 1869
 pushed_at: "2026-10-22T13:26:18Z"
 ---
 ## What it is

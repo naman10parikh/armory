@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-16T02:13:33Z"
+pushed_at: "2026-11-20T04:34:05Z"
 ---
 ## What it is
 MCP server for UK concrete pump operator compliance, enabling checking of CPA standards and BS EN 12001 ground bearing requirements.

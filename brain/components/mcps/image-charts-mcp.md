@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-17T15:12:31Z"
+pushed_at: "2026-11-20T15:12:37Z"
 ---
 ## What it is
 An MCP server that turns chart requests into permanent, hosted Image-Charts URLs, enabling agents to generate charts that render anywhere without client-side libraries.

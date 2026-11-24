@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-11-17T13:03:19Z"
+pushed_at: "2026-11-24T17:27:38Z"
 ---
 ## What it is
 MCP server `Open Advertising`, catalogued on PulseMCP. Manage 13 advertising platforms (Google Ads, Meta, TikTok, LinkedIn, The Trade Desk, and more) from AI agents.

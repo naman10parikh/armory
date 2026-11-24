@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-15T14:44:42Z"
+pushed_at: "2026-11-23T19:14:05Z"
 ---
 ## What it is
 Enables querying the CIViC database for clinical interpretations of cancer variants through tools like get_variant_evidence and get_variant_assertions.

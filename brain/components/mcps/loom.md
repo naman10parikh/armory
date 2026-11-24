@@ -15,7 +15,7 @@ related: []
 tags: [glama, mcp]
 mentions: null
 forks: 0
-pushed_at: "2026-11-17T15:24:36Z"
+pushed_at: "2026-11-24T18:46:14Z"
 ---
 ## What it is
 Provides persistent identity and memory for AI agents across MCP-compatible harnesses, enabling agents to retain their name, values, and episodic memories between sessions regardless of the client or model.

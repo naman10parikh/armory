@@ -8,13 +8,13 @@ source_url: https://github.com/Zen4-bit/Proxima
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1210
+stars: 1221
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 171
-pushed_at: "2026-10-16T16:59:17Z"
+forks: 170
+pushed_at: "2026-11-20T08:02:38Z"
 ---
 ## What it is
 A local AI gateway that connects multiple AI providers (ChatGPT, Claude, Gemini, Perplexity) to your development environment via MCP tools, enabling coding, search, analysis, and more without API keys.

@@ -1,6 +1,6 @@
 # clis-tools/: 556 components (catalog view)
 
-**Last updated:** 2026-11-23T19:12:05.872Z (UTC), when `catalog.json` was last generated.
+**Last updated:** 2026-11-24T18:51:53.904Z (UTC), when `catalog.json` was last generated.
 
 Each `<slug>.md` is a slim install card generated from `brain/components/clis-tools/`.
 

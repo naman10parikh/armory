@@ -8,13 +8,13 @@ source_url: https://github.com/CharTyr/STS2-Agent
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 363
+stars: 367
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 56
-pushed_at: "2026-11-17T04:35:30Z"
+pushed_at: "2026-11-21T16:25:08Z"
 ---
 ## What it is
 Enables AI agents to play Slay the Spire 2 by exposing game state and actions through an MCP server, supporting combat, rewards, and run management.

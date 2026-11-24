@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-07-10T03:56:43Z"
+pushed_at: "2026-11-20T07:25:33Z"
 ---
 ## What it is
 Exposes reverse engineering capabilities via MCP protocol, enabling AI agents to automatically detect, analyze, trace, and deobfuscate JSVMP protected JavaScript code.

@@ -8,13 +8,13 @@ source_url: https://github.com/adelaidasofia/vault-sync-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-09T17:01:56Z"
+pushed_at: "2026-11-17T21:55:45Z"
 ---
 ## What it is
 Enables bidirectional sync between a personal Obsidian vault and a shared team vault with configurable rules, change preview, and fast change detection.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-13T15:10:33Z"
+pushed_at: "2026-11-18T08:08:48Z"
 ---
 ## What it is
 An MCP server that provides AI assistants with access to the EARLY time tracking public API, enabling time entry management, activity management, and report generation through natural language.

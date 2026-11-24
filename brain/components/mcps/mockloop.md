@@ -8,12 +8,12 @@ source_url: https://github.com/mockloop/mockloop-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 17
+stars: 18
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-11-17T15:20:48Z"
+pushed_at: "2026-11-24T03:42:14Z"
 ---
 ## What it is
 MCP server `MockLoop`, catalogued on PulseMCP. Generates fully functional FastAPI mock servers from OpenAPI specifications with Docker support, authentication middleware, request logging, and admin interfaces for API testing and development workflows.

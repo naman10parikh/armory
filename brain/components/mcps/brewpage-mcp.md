@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-17T15:32:13Z"
+pushed_at: "2026-11-23T09:09:41Z"
 ---
 ## What it is
 MCP server for BrewPage, a free no-signup hosting service. Lets AI agents publish HTML, Markdown, JSON, files, or a full multi-file static site and get a public URL instantly via a REST API.

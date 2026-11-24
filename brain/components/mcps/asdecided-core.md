@@ -8,12 +8,12 @@ source_url: https://github.com/asdecided/core
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 301
+stars: 302
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 9
+forks: 10
 pushed_at: "2026-11-04T11:07:02Z"
 ---
 ## What it is

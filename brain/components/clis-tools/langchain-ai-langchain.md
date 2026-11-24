@@ -8,14 +8,14 @@ source_url: https://github.com/langchain-ai/langchain
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 149775
+stars: 149942
 eval_score: 1
 mentions: 40
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 25150
-pushed_at: "2026-11-17T16:33:28Z"
+forks: 25164
+pushed_at: "2026-11-24T16:00:46Z"
 ---
 ## What it is
 The agent engineering platform.

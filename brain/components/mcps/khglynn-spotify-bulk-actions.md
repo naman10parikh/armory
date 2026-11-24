@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-11-14T01:57:18Z"
+pushed_at: "2026-11-24T09:47:53Z"
 ---
 ## What it is
 MCP server `Spotify Bulk Actions`, catalogued on PulseMCP. Bulk Spotify operations with confidence-scored song matching and batch playlist creation

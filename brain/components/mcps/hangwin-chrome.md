@@ -8,11 +8,11 @@ source_url: https://github.com/hangwin/mcp-chrome
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12550
+stars: 12561
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 1153
+forks: 1154
 pushed_at: "2026-01-06T13:05:39Z"
 ---
 ## What it is

@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, security]
-stars: 2243
-forks: 222
-pushed_at: "2026-11-14T01:25:10Z"
+stars: 2256
+forks: 223
+pushed_at: "2026-11-23T02:42:57Z"
 ---
 ## What it is
 Beelzebub is a honeypot framework that lets you build honeypot tools using MCP. Its purpose is to detect prompt injection or malicious agent behavior. The underlying idea is to provide the agent with tools it would never use in its normal work.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-07T22:21:47Z"
+pushed_at: "2026-11-23T17:44:49Z"
 ---
 ## What it is
 An MCP server that gives AI agents access to configured databases (PostgreSQL, MySQL, Redshift, SQL Server) with SSH/AWS SSM tunnels, pluggable secret providers, and strict per-instance isolation.

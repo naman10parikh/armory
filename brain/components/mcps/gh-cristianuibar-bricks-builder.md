@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 24
-pushed_at: "2026-10-17T20:13:07Z"
+pushed_at: "2026-11-24T18:34:58Z"
 ---
 ## What it is
 MCP server `Bricks Builder`, catalogued on PulseMCP. WordPress plugin providing MCP server for Bricks Builder site management with natural language control.

@@ -8,12 +8,12 @@ source_url: https://github.com/dealfluence/adeu
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 171
+stars: 174
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
-pushed_at: "2026-11-17T10:47:53Z"
+forks: 26
+pushed_at: "2026-11-22T14:11:58Z"
 ---
 ## What it is
 MCP server `Adeu`, catalogued on PulseMCP. Legal automation MCP server for contract redlining and request triage in in-house legal teams.

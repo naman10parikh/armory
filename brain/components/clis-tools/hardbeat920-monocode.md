@@ -8,13 +8,13 @@ source_url: https://github.com/hardbeat920/monocode
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 4025
+stars: 4138
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 424
+forks: 431
 pushed_at: "2026-11-12T08:35:54Z"
 ---
 ## What it is

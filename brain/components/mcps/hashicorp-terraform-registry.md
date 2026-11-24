@@ -12,8 +12,8 @@ stars: 1562
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 201
-pushed_at: "2026-11-17T12:13:46Z"
+forks: 202
+pushed_at: "2026-11-24T18:12:21Z"
 ---
 ## What it is
 MCP server `Terraform Registry`, catalogued on PulseMCP. Integrates with HashiCorp's Terraform Registry APIs to enable provider documentation retrieval, module search, and infrastructure configuration discovery for Terraform workflows.

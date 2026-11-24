@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-09-01T08:38:01Z"
+pushed_at: "2026-11-20T02:10:36Z"
 ---
 ## What it is
 MCP server `OneTool`, catalogued on PulseMCP. One MCP server with 100+ developer tools including Brave, Gemini, Excel, files, database, and DevTools.

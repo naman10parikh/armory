@@ -8,13 +8,13 @@ source_url: https://github.com/devopam/MCPg
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 14
+stars: 15
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-16T06:42:55Z"
+pushed_at: "2026-11-23T06:25:28Z"
 ---
 ## What it is
 A production-grade Model Context Protocol server for PostgreSQL. Lets AI agents safely inspect, query, operate, and tune a Postgres database — over 100 tools spanning catalog introspection, query intelligence, natural-language SQL, structural diffs, hybrid search, graph queries, data movement, live 

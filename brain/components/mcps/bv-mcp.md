@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T19:39:15Z"
+pushed_at: "2026-11-20T23:06:21Z"
 ---
 ## What it is
 Connects the BV bank to AI assistants via Open Finance Brasil, enabling natural language queries on balances, transactions, credit card bills, and investments with read-only access.

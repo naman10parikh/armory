@@ -12,8 +12,8 @@ stars: 185
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 41
-pushed_at: "2026-11-17T03:22:45Z"
+forks: 42
+pushed_at: "2026-11-24T05:04:40Z"
 ---
 ## What it is
 MCP server `Korean Stock Market (DART & KRX)`, catalogued on PulseMCP. Integrates with DART and KRX APIs to provide Korean stock market data including company information, trading data, financial statements, and disclosure documents for KOSPI, KOSDAQ, and KONEX markets.

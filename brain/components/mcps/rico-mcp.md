@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T19:39:42Z"
+pushed_at: "2026-11-20T23:15:56Z"
 ---
 ## What it is
 Connects your Rico bank account to AI assistants via Open Finance Brasil, allowing natural language queries for balances, statements, credit card bills, and investments in read-only mode.

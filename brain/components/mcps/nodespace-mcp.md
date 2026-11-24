@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-17T13:19:07Z"
+pushed_at: "2026-11-24T12:15:24Z"
 ---
 ## What it is
 Enables AI coding assistants to query a local knowledge base for persistent, searchable project context, reducing re-explanation and token usage.

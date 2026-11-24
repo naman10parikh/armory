@@ -8,13 +8,13 @@ source_url: https://github.com/fpytloun/mnemory
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 283
+stars: 284
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 29
-pushed_at: "2026-11-15T19:39:25Z"
+pushed_at: "2026-11-22T19:29:20Z"
 ---
 ## What it is
 Self-hosted MCP server giving AI agents persistent memory for personalization and context across conversations.

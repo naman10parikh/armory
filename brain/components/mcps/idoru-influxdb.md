@@ -8,12 +8,12 @@ source_url: https://github.com/idoru/influxdb-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 49
+stars: 50
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 19
-pushed_at: "2026-10-27T02:44:16Z"
+pushed_at: "2026-11-22T06:02:08Z"
 ---
 ## What it is
 MCP server `InfluxDB`, catalogued on PulseMCP. Connects to InfluxDB time-series databases for querying measurements, writing data, and managing buckets through a bridge that exposes database functionality via tools and resources.

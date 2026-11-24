@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 24
-pushed_at: "2026-10-27T09:22:34Z"
+pushed_at: "2026-11-20T04:00:31Z"
 ---
 ## What it is
 MCP server `GrowthBook`, catalogued on PulseMCP. Enables AI to manage feature flags, experiments, environments, and SDK connections in GrowthBook, providing tools for searching documentation, creating targeting rules, and generating implementation code for various programming languages.

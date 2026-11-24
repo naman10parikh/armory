@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [smithery, mcp]
 forks: 8
-pushed_at: "2026-11-13T11:13:01Z"
+pushed_at: "2026-11-18T06:13:00Z"
 ---
 ## What it is
 Access the OpenAlex academic research catalog - 270M+ publications through MCP.

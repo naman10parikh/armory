@@ -8,13 +8,13 @@ source_url: https://github.com/robconery/big-mailer
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11
+stars: 12
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-10-02T19:54:59Z"
+pushed_at: "2026-11-21T21:44:40Z"
 ---
 ## What it is
 MCP server for the big-mailer self-hosted email platform, exposing 93 tools to manage subscribers, consent, sequences, broadcasts, segments, and Stripe reconciliation via natural language.

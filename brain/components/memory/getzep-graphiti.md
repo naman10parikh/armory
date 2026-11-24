@@ -8,14 +8,14 @@ source_url: https://github.com/getzep/graphiti
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 32887
+stars: 33064
 eval_score: null
 mentions: 1
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed, memory]
-forks: 3382
-pushed_at: "2026-11-15T20:27:45Z"
+forks: 3405
+pushed_at: "2026-11-24T17:09:14Z"
 ---
 ## What it is
 Build Real-Time Knowledge Graphs for AI Agents

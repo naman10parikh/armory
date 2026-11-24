@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-23T09:19:35Z"
+pushed_at: "2026-11-18T00:09:05Z"
 ---
 ## What it is
 Enables querying Australian development applications and address-level property intelligence via the DA Leads API, offering tools for DA search, nearby applications, council/category lookups, SQL analysis, and property samples.

@@ -8,13 +8,13 @@ source_url: https://github.com/isomorphic-team/isomorphic-app
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-16T18:31:06Z"
+pushed_at: "2026-11-24T00:23:28Z"
 ---
 ## What it is
 Enables Claude to maintain a team knowledge base stored as markdown in a GitHub repository, with tools for search, edit, linking, and interactive views.

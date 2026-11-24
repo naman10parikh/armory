@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-15T12:14:04Z"
+pushed_at: "2026-11-22T12:14:28Z"
 ---
 ## What it is
 Give your AI assistant the ability to inspect, measure, and compare 3D CAD models by dropping in a STEP file and asking engineering questions. Runs entirely on your machine with no cloud, no CAD license, and no setup.

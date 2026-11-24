@@ -8,13 +8,13 @@ source_url: https://github.com/acidmole/parenting-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-04-27T17:09:56Z"
+forks: 1
+pushed_at: "2026-11-23T10:56:55Z"
 ---
 ## What it is
 MCP server that retrieves children's school information from Wilma and sends automatic summaries via WhatsApp.

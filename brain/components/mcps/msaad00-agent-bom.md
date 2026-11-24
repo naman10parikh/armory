@@ -8,12 +8,12 @@ source_url: https://github.com/msaad00/agent-bom
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 38
+stars: 39
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-11-17T16:11:00Z"
+pushed_at: "2026-11-24T18:35:29Z"
 ---
 ## What it is
 MCP server `Agent BOM`, catalogued on PulseMCP. AI infrastructure security scanner for CVEs, SBOMs, compliance checks, and dependency auditing.

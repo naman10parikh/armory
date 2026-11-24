@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-17T14:58:56Z"
+pushed_at: "2026-11-24T15:50:47Z"
 ---
 ## What it is
 Provides ephemeral hybrid (vector + BM25) memory for MCP-compatible editors, enabling AI to save and search conversation and code context across sessions with automatic semantic search and context injection.

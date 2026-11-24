@@ -8,12 +8,12 @@ source_url: https://github.com/ibm-ecm/ibm-content-services-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 15
+stars: 16
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 12
-pushed_at: "2026-10-14T15:34:34Z"
+pushed_at: "2026-11-18T23:15:05Z"
 ---
 ## What it is
 MCP server `IBM Content Services (FileNet)`, catalogued on PulseMCP. Integrates with IBM Content Services (FileNet) through GraphQL APIs to provide enterprise document operations, folder management, metadata-driven search, class introspection, and annotation handling with authentication support and performance optimization for automated filing systems and content analysis workflows.

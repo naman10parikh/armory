@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-09-24T13:31:04Z"
+pushed_at: "2026-11-21T14:15:27Z"
 ---
 ## What it is
 This MCP server enables searching and retrieving Romanian legislation from the Portal Legislativ database via its SOAP API, providing metadata and full text with verifiable citations.

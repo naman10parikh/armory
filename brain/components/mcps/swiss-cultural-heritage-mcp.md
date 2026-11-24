@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-14T08:54:29Z"
+pushed_at: "2026-11-24T04:14:15Z"
 ---
 ## What it is
 Enables AI-native access to Swiss cultural heritage data from SIK-ISEA (artists), Nationalmuseum (collections), and Nationalbibliothek (bibliography) via MCP tools, without authentication.

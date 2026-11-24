@@ -8,14 +8,14 @@ source_url: https://github.com/mattpocock/sandcastle
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 9134
+stars: 9263
 eval_score: null
 mentions: 1
 verified_at: 2026-10-29
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 985
-pushed_at: "2026-11-17T15:54:53Z"
+forks: 995
+pushed_at: "2026-11-18T16:18:07Z"
 ---
 ## What it is
 Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()

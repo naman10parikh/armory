@@ -8,12 +8,12 @@ source_url: https://github.com/geiserx/genieacs-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 19
+stars: 20
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-11-17T12:30:10Z"
+pushed_at: "2026-11-24T15:01:35Z"
 ---
 ## What it is
 MCP server `GenieACS`, catalogued on PulseMCP. Bridge GenieACS TR-069 ACS instances to AI agents for CPE device management.

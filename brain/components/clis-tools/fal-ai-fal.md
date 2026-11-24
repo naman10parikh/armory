@@ -15,7 +15,7 @@ verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 107
-pushed_at: "2026-11-17T05:38:22Z"
+pushed_at: "2026-11-24T16:50:35Z"
 ---
 ## What it is
 ⚡ Fastest way to serve open source ML models to millions

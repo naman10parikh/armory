@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-11T08:14:40Z"
+pushed_at: "2026-11-18T08:14:26Z"
 ---
 ## What it is
 Enables AI assistants to interact with PostgreSQL databases through natural language, with schema-aware query generation and enterprise safety controls.

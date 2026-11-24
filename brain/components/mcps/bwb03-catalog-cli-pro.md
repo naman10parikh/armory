@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-09-03T22:30:21Z"
+pushed_at: "2026-11-19T00:53:58Z"
 ---
 ## What it is
 MCP server `Catalog CLI Pro`, catalogued on PulseMCP. Amazon catalog auditing tool with 13 quality checks for product listings.

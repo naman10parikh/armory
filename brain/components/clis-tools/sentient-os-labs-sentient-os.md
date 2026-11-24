@@ -8,14 +8,14 @@ source_url: https://github.com/Sentient-OS-Labs/sentient-os
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 761
+stars: 792
 eval_score: null
 mentions: 1
 verified_at: 2026-10-29
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 77
-pushed_at: "2026-11-17T01:27:29Z"
+forks: 82
+pushed_at: "2026-11-23T20:44:29Z"
 ---
 ## What it is
 An on-device LLM understands your entire life, then proactively offers to get your work done through computer use.

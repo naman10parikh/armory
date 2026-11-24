@@ -8,13 +8,13 @@ source_url: https://github.com/matthiaskloft/zotero-fulltext-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 3
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-13T14:46:25Z"
+pushed_at: "2026-11-24T17:07:03Z"
 ---
 ## What it is
 Enables searching and reading full text of papers in a Zotero library by converting PDF attachments to Markdown and exposing a full-text search index to LLM tools.

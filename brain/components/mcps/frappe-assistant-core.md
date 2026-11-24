@@ -8,13 +8,13 @@ source_url: https://github.com/buildswithpaul/Frappe_Assistant_Core
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 337
+stars: 338
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 208
-pushed_at: "2026-11-16T18:31:44Z"
+forks: 209
+pushed_at: "2026-11-24T16:41:57Z"
 ---
 ## What it is
 MCP server that enables LLMs to interact with ERPNext/Frappe sites for document CRUD, search, reports, workflows, and analytics, respecting user permissions and logging all actions.
