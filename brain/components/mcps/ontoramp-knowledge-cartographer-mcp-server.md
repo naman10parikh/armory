@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-07T18:33:33Z"
+pushed_at: "2026-11-21T19:50:09Z"
 ---
 ## What it is
 Turns organizational documents into a searchable, governed knowledge graph with tools for coverage mapping, health scoring, gap detection, and document ingestion.

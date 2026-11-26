@@ -8,13 +8,13 @@ source_url: https://github.com/strelov1/freehire-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 17
+stars: 18
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-11-19T13:55:28Z"
+pushed_at: "2026-11-20T17:58:07Z"
 ---
 ## What it is
 Enables searching, filtering, and applying to IT jobs via MCP tools using a personal API key, mirroring the freehire CLI.

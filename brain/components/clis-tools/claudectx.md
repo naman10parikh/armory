@@ -13,7 +13,7 @@ related: [agnix, auto-claude]
 tags: [claude-code, tooling]
 stars: 144
 forks: 12
-pushed_at: "2026-11-16T18:54:44Z"
+pushed_at: "2026-11-23T18:54:34Z"
 ---
 ## What it is
 claudectx lets you switch your entire Claude Code configuration with a single command.

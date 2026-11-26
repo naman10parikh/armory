@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-09-08T17:30:56Z"
+pushed_at: "2026-11-25T16:23:01Z"
 ---
 ## What it is
 Enables AI agents to query public astronomy catalogs via TAP, with schema discovery, bounded ADQL queries, and reproducible results including exact queries, limits, and assumptions.

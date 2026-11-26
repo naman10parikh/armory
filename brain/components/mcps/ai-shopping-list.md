@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-19T16:09:04Z"
+pushed_at: "2026-11-26T14:12:47Z"
 ---
 ## What it is
 Enables AI models to manage Kroger/QFC shopping lists, search products, and plan meals via the Kroger API.

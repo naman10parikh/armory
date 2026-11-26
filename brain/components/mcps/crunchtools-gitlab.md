@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-19T06:25:53Z"
+pushed_at: "2026-11-25T20:51:49Z"
 ---
 ## What it is
 MCP server `GitLab by crunchtools`, catalogued on PulseMCP. Manages GitLab projects, merge requests, issues, pipelines, and search with multi-instance support.

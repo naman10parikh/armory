@@ -9,13 +9,13 @@ source_url: https://github.com/e2b-dev/E2B
 license: Apache-2.0
 cli_compat: [claude, codex]
 maturity: stable
-stars: 14932
+stars: 15029
 eval_score: 1
 verified_at: 2026-10-10
 related: [microsandbox, claude-managed-agents-selfhost, browserbase-bb]
 tags: [sandbox, runtime, firecracker, microvm, code-execution]
-forks: 1178
-pushed_at: "2026-11-19T12:05:42Z"
+forks: 1189
+pushed_at: "2026-11-26T16:28:36Z"
 mentions: 13
 ---
 

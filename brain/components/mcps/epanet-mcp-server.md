@@ -8,13 +8,13 @@ source_url: https://github.com/Applied-Artificial-Intelligence-Eurecat/epanet-mc
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 9
+stars: 10
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-18T11:21:15Z"
+pushed_at: "2026-11-20T16:11:29Z"
 ---
 ## What it is
 Enables LLMs to load, simulate, modify, and generate what-if scenarios for EPANET water-distribution network models through natural language, leveraging the ePyT Python Toolkit.

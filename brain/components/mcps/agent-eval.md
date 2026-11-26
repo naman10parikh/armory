@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-14T04:16:23Z"
+pushed_at: "2026-11-24T03:23:34Z"
 ---
 ## What it is
 MCP server exposing statistical regression testing for LLM agents as a "run" tool: p-value, effect size, and confidence interval on whether agent behavior actually changed.

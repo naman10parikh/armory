@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-17T10:11:37Z"
+pushed_at: "2026-11-20T07:35:41Z"
 ---
 ## What it is
 An MCP server that connects AI assistants like Claude, Cursor, and Windsurf to the Waitlister API. Create waitlists and manage subscribers through natural language.

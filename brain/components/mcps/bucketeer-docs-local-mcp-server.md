@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-18T17:50:40Z"
+pushed_at: "2026-11-26T05:08:58Z"
 ---
 ## What it is
 Enables AI assistants to search and retrieve content from Bucketeer's feature flag and experimentation documentation for accurate information.

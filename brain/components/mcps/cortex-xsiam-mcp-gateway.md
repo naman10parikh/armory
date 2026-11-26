@@ -8,13 +8,13 @@ source_url: https://github.com/ciaran-finnegan/cortex-xsiam-mcp-gateway
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-29T10:02:54Z"
+pushed_at: "2026-11-26T00:26:00Z"
 ---
 ## What it is
 Enables governed agent access to Cortex XSIAM security operations APIs, including XQL log search, issues, cases, endpoints, and assets, with dataset authorization and optional identity-based access control.

@@ -8,12 +8,12 @@ source_url: https://github.com/remembra-ai/remembra
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 16
+stars: 17
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 4
-pushed_at: "2026-11-18T04:24:18Z"
+pushed_at: "2026-11-24T02:40:47Z"
 ---
 ## What it is
 MCP server `Remembra`, catalogued on PulseMCP. Persistent memory layer with entity resolution, temporal decay, and graph-aware recall.

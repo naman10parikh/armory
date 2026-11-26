@@ -14,7 +14,7 @@ related: []
 tags: [mcp, pulsemcp]
 mentions: null
 forks: 28
-pushed_at: "2026-06-21T23:31:57Z"
+pushed_at: "2026-11-20T16:13:03Z"
 ---
 ## What it is
 MCP server `Google Maps`, catalogued on PulseMCP. Integrates Google Maps Platform APIs with 3D visualization to provide place searching, route computation, elevation data retrieval, and weather lookup for trip planning and geographic data exploration.

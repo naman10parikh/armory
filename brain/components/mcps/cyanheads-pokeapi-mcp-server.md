@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-11T14:51:55Z"
+pushed_at: "2026-11-26T03:54:48Z"
 ---
 ## What it is
 Look up Pokémon, moves, abilities, items, natures, and type matchups from PokéAPI v2 via MCP. Supports STDIO or Streamable HTTP.

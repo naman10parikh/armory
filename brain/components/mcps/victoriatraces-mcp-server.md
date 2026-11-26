@@ -8,13 +8,13 @@ source_url: https://github.com/VictoriaMetrics/mcp-victoriatraces
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-11-17T22:13:18Z"
+pushed_at: "2026-11-24T22:13:42Z"
 ---
 ## What it is
 Provides access to your VictoriaTraces instance and seamless integration with VictoriaTraces APIs and documentation for querying traces, services, and operations.

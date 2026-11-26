@@ -8,13 +8,13 @@ source_url: https://github.com/healkeiser/fxhoudinimcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 427
+stars: 440
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 53
-pushed_at: "2026-11-19T11:17:15Z"
+forks: 55
+pushed_at: "2026-11-20T15:25:44Z"
 ---
 ## What it is
 Comprehensive MCP server for SideFX Houdini, offering 168 tools across 19 categories to enable natural-language control of scene building, simulation, rendering, and more via AI assistants.

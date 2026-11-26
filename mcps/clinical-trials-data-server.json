@@ -1,0 +1,7 @@
+{
+  "name": "clinical-trials-data-server",
+  "description": "Provide structured access to ClinicalTrials.gov data for searching, retrieving, and analyzing clinical trial information. Enable multi-parameter searches, detailed trial retrievals, and statistical analyses to support medical research and healthcare decision-making. Deliver robust error handling and",
+  "source_repo": "yourusername/clintrials-mcp",
+  "source_url": "https://github.com/yourusername/clintrials-mcp#readme",
+  "install": "npx -y clintrials-mcp"
+}

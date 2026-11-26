@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-18T20:31:46Z"
+pushed_at: "2026-11-25T13:36:23Z"
 ---
 ## What it is
 Provides public holidays, long weekends, and country data for 202 countries via the Nager.Date API, with client-side filtering and timezone-aware checks.

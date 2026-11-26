@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-16T16:11:22Z"
+pushed_at: "2026-11-21T06:04:37Z"
 ---
 ## What it is
 MCP server enabling AI assistants to query Myongji College data, including real-time library seat availability, campus notices, department lists, and course search (with user login). All tools are read-only and can be composed to answer complex campus-related questions.

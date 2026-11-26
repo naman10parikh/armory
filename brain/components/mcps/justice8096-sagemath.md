@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-10-17T23:36:58Z"
+pushed_at: "2026-11-21T09:18:29Z"
 ---
 ## What it is
 MCP server `SageMath`, catalogued on PulseMCP. Access SageMath's computer algebra system with 10 symbolic-math tools for LLMs.

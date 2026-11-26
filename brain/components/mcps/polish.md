@@ -8,13 +8,13 @@ source_url: https://github.com/tomiabe/polish
 license: BSD 2-Clause "Simplified" License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-18T21:36:08Z"
+pushed_at: "2026-11-26T06:07:40Z"
 ---
 ## What it is
 Self-hosted design audit MCP server that reviews UI code against Nielsen's heuristics and an accessibility rubric, returning scores and fixable findings. It also enables verifying previously flagged issues against updated code.

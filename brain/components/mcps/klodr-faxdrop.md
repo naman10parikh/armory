@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-19T04:15:30Z"
+pushed_at: "2026-11-23T16:59:27Z"
 ---
 ## What it is
 MCP server `FaxDrop`, catalogued on PulseMCP. MCP server for sending faxes via the FaxDrop API with support for PDF, DOCX, and image formats.

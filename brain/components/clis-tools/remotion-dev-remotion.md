@@ -8,14 +8,14 @@ source_url: https://github.com/remotion-dev/remotion
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 74305
+stars: 75910
 eval_score: null
 mentions: 3
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 6290
-pushed_at: "2026-11-19T15:42:57Z"
+forks: 6503
+pushed_at: "2026-11-26T16:09:12Z"
 ---
 ## What it is
 🎥      Make videos programmatically with React

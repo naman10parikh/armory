@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
-stars: 491
+stars: 489
 forks: 44
-pushed_at: "2025-10-27T14:06:25Z"
+pushed_at: "2026-11-24T23:55:48Z"
 ---
 ## What it is
 A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly through pull requests and issues. This integration allows Claude to analyze repositories, answer technical questions, and help developers understand and improve their codebase through simple @mentions.

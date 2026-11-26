@@ -8,12 +8,12 @@ source_url: https://github.com/bajoski34/mcp-flutterwave
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-19T15:00:39Z"
+pushed_at: "2026-11-19T16:51:25Z"
 ---
 ## What it is
 MCP server `Flutterwave`, catalogued on PulseMCP. Integrates with Flutterwave's payment processing API to enable creating payment links, verifying transactions, and resending failed webhooks for seamless payment processing within conversations.

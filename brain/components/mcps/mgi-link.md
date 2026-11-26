@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-19T14:08:15Z"
+pushed_at: "2026-11-26T13:31:00Z"
 ---
 ## What it is
 An MCP server that provides mouse genetics data from Mouse Genome Informatics (MGI), enabling LLM agents to query markers, mutations, alleles, phenotypes, and disease models.

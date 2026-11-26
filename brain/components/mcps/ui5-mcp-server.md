@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 23
-pushed_at: "2026-11-17T14:34:06Z"
+forks: 22
+pushed_at: "2026-11-24T14:34:47Z"
 ---
 ## What it is
 Enables AI agents to assist with UI5 application development by providing tools for project scaffolding, API reference lookup, code analysis, and validation.

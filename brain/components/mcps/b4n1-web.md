@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-18T21:54:58Z"
+pushed_at: "2026-11-26T07:01:15Z"
 ---
 ## What it is
 Ultra-lightweight headless browser for AI agents. Provides MCP tools for navigating URLs, extracting structured content, and building autonomous agent workflows.

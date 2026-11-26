@@ -8,12 +8,12 @@ source_url: https://github.com/ankimcp/anki-mcp-server-addon
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 104
+stars: 110
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 15
-pushed_at: "2026-11-17T17:37:13Z"
+pushed_at: "2026-11-25T19:17:28Z"
 ---
 ## What it is
 MCP server `AnkiMCP`, catalogued on PulseMCP. Anki addon that exposes your flashcard collection to AI assistants via a local MCP server.

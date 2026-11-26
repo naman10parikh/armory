@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 6
-pushed_at: "2026-11-17T19:08:26Z"
+pushed_at: "2026-11-25T19:53:38Z"
 ---
 ## What it is
 MCP server `ToolTrust Scanner`, catalogued on PulseMCP. Scans MCP servers for prompt injection, data exfiltration, and privilege escalation vulnerabilities.

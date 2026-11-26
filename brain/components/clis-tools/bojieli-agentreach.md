@@ -8,14 +8,14 @@ source_url: https://github.com/bojieli/agentreach
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 225
+stars: 232
 eval_score: null
 mentions: 4
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 21
-pushed_at: "2026-09-23T15:41:14Z"
+forks: 22
+pushed_at: "2026-11-22T08:18:19Z"
 ---
 ## What it is
 AgentReach (reach): Point your coding agent at any box you can SSH into. The server never gets your agent.

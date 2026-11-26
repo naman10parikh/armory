@@ -8,13 +8,13 @@ source_url: https://github.com/laude-institute/headlong
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1277
+stars: 1313
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 143
+forks: 144
 pushed_at: "2026-11-18T08:09:50Z"
 ---
 ## What it is

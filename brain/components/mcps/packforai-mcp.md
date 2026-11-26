@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-07T12:02:42Z"
+pushed_at: "2026-11-26T14:20:27Z"
 ---
 ## What it is
 Converts PDF, DOCX, PPTX, XLSX, CSV, and JSON into clean, compact, AI-ready Markdown, reducing tokens up to 65%.

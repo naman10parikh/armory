@@ -8,14 +8,14 @@ source_url: https://github.com/wlanderson0/orbit
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 54
+stars: 55
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
 forks: 12
-pushed_at: "2026-11-17T00:38:39Z"
+pushed_at: "2026-11-20T19:58:26Z"
 ---
 ## What it is
 Orbit: A framework for multi-agent safety and security evaluations

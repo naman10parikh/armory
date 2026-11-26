@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-11T13:17:02Z"
+pushed_at: "2026-11-23T14:45:03Z"
 ---
 ## What it is
 A read-only MCP server that enables AI assistants to search, aggregate, and explore OpenSearch log data through 12 tools for connectivity, index discovery, search, and aggregations.

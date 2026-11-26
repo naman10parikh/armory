@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-11-19T10:29:15Z"
+pushed_at: "2026-11-23T23:06:13Z"
 ---
 ## What it is
 MCP server for AI agents to safely manage Cloudflare DNS, DMARC, SPF, BIMI, and Email Routing with dry-run-first and approval-based writes.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-19T04:55:56Z"
+pushed_at: "2026-11-26T05:51:49Z"
 ---
 ## What it is
 An MCP server providing real-time market data, technical analysis, prediction market odds, and strategy backtesting for crypto, equities, and prediction markets.

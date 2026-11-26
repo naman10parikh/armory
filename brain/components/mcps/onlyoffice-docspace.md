@@ -12,8 +12,8 @@ stars: 31
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
-pushed_at: "2026-11-19T08:31:37Z"
+forks: 10
+pushed_at: "2026-11-26T14:49:32Z"
 ---
 ## What it is
 MCP server `ONLYOFFICE DocSpace`, catalogued on PulseMCP. Manage documents, rooms, and users in ONLYOFFICE collaborative workspace

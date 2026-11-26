@@ -8,13 +8,13 @@ source_url: https://github.com/vincentwongso/mt5-trading-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 4
-pushed_at: "2026-11-19T05:56:06Z"
+pushed_at: "2026-11-21T02:52:45Z"
 ---
 ## What it is
 An MCP server that lets an AI agent read your MetaTrader 5 account and place trades over the Model Context Protocol, with a configurable human approval gate.

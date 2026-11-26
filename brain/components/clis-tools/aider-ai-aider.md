@@ -8,13 +8,13 @@ source_url: https://github.com/Aider-AI/aider
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 50184
+stars: 50269
 eval_score: null
 mentions: 7
 verified_at: 2026-09-02
 related: []
 tags: [sentinel-feed]
-forks: 5178
+forks: 5192
 pushed_at: "2026-05-22T14:02:20Z"
 ---
 ## What it is

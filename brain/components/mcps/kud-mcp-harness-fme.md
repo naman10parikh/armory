@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-13T21:19:32Z"
+pushed_at: "2026-11-24T13:07:45Z"
 ---
 ## What it is
 Enables reading and toggling feature flags, managing environments, segments, and change requests for Harness FME (Split.io).

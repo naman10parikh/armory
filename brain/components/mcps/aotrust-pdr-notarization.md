@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-15T15:34:55Z"
+pushed_at: "2026-11-25T09:15:35Z"
 ---
 ## What it is
 OTrust issues cryptographic PDRs (Provenance Data Records) — proving a digital artifact existed at a specific time. $0.01 per proof. Blockchain-anchored. Publicly verifiable.

@@ -14,8 +14,8 @@ mentions: 1
 verified_at: 2026-10-25
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 125
-pushed_at: "2026-11-18T00:22:04Z"
+forks: 126
+pushed_at: "2026-11-24T22:12:41Z"
 ---
 ## What it is
 Main library of the COMPAS framework and CAD integrations for Rhino/GH and Blender.

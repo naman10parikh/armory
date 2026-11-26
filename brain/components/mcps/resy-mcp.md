@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-15T02:53:57Z"
+pushed_at: "2026-11-22T02:54:13Z"
 ---
 ## What it is
 Manage Resy reservations via natural language: search restaurants, book tables, and manage reservations, favorites, and Priority Notify.

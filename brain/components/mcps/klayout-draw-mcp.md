@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-26T06:34:06Z"
+pushed_at: "2026-11-22T14:42:35Z"
 ---
 ## What it is
 Enables AI assistants to create, edit, and view GDS layout files using KLayout, with tools for basic shapes and scripting.

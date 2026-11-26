@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 3
-pushed_at: "2026-11-15T19:38:39Z"
+pushed_at: "2026-11-26T16:37:26Z"
 ---
 ## What it is
 MCP server `Domain Tools`, catalogued on PulseMCP. Provides domain analysis capabilities through WHOIS lookups, DNS record queries, health checks, and comprehensive domain validation for system administration, security analysis, and web development troubleshooting.

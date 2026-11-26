@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-01T04:44:23Z"
+pushed_at: "2026-11-20T07:04:47Z"
 ---
 ## What it is
 Tracks uncertain values stated by the user and blocks model writes that embed unverified values until confirmed.

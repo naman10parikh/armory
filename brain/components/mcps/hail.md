@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 11
-pushed_at: "2026-11-19T16:17:44Z"
+pushed_at: "2026-11-26T17:27:51Z"
 ---
 ## What it is
 Phone, SMS & email for AI agents. One remote MCP server (Streamable HTTP, OAuth or API-key auth, no local install) exposing call, sms, email, and event tools; also usable via CLI, Python SDK, and OpenAPI. Self-hostable, AGPLv3.

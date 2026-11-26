@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 2
-pushed_at: "2026-11-19T02:15:49Z"
+forks: 1
+pushed_at: "2026-11-25T10:25:52Z"
 ---
 ## What it is
 MCP server for building safe AI agent email marketing workflows with Mailrith.

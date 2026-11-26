@@ -8,14 +8,14 @@ source_url: https://github.com/twentyhq/twenty
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 61206
+stars: 61509
 eval_score: null
 mentions: 1
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 10146
-pushed_at: "2026-11-19T16:20:47Z"
+forks: 10195
+pushed_at: "2026-11-26T17:38:11Z"
 ---
 ## What it is
 The open alternative to Salesforce, designed for AI.

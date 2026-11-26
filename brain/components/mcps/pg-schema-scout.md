@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-07T06:37:38Z"
+pushed_at: "2026-11-25T13:45:44Z"
 ---
 ## What it is
 An MCP server that provides targeted PostgreSQL schema access to AI agents, retrieving only relevant tables for a question and enforcing read-only access through multiple layers.

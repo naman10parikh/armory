@@ -8,12 +8,12 @@ source_url: https://github.com/arcadedata/arcadedb
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1258
+stars: 1265
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 169
-pushed_at: "2026-11-19T16:18:25Z"
+forks: 170
+pushed_at: "2026-11-26T17:28:13Z"
 ---
 ## What it is
 MCP server `ArcadeDB`, catalogued on PulseMCP. Multi-model database with built-in MCP support for SQL, Cypher, Gremlin, and GraphQL queries.

@@ -8,12 +8,12 @@ source_url: https://github.com/applicate2628/mcp-local-hub
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-19T15:56:17Z"
+pushed_at: "2026-11-26T17:18:26Z"
 ---
 ## What it is
 MCP server `MCP Local Hub`, catalogued on PulseMCP. Local workstation daemon that consolidates multiple MCP servers into shared processes for concurrent AI coding assistant clients.

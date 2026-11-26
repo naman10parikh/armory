@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T19:39:41Z"
+pushed_at: "2026-11-20T23:22:46Z"
 ---
 ## What it is
 Connects your Monte Bravo account to AI assistants via Open Finance Brasil, allowing natural language queries about balances, transactions, credit cards, and investments, all read-only and regulated by the Central Bank.

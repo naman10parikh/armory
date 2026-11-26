@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-19T07:13:16Z"
+pushed_at: "2026-11-25T06:26:38Z"
 ---
 ## What it is
 MCP server `Presentations.AI`, catalogued on PulseMCP. Create professionally designed slide decks from a topic, text, or document using Presentations.AI.

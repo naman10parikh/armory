@@ -11,8 +11,8 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claude-powerline, claudia-statusline]
 tags: [claude-code, status-lines]
-stars: 3565
-forks: 227
+stars: 3575
+forks: 228
 pushed_at: "2026-11-01T19:30:56Z"
 ---
 ## What it is

@@ -13,7 +13,7 @@ related: []
 tags: [mcp, browser-automation]
 stars: 25
 forks: 5
-pushed_at: "2026-11-18T19:30:33Z"
+pushed_at: "2026-11-20T20:58:40Z"
 ---
 ## What it is
 Transcriptor MCP is your choice when you need transcripts and metadata for AI, summarization, or content analysis

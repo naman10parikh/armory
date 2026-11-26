@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-19T02:35:38Z"
+pushed_at: "2026-11-26T02:35:33Z"
 ---
 ## What it is
 MCP server that tracks and searches Microsoft Graph API schema changes, permissions, and roles, with historical data and an interactive schema visualizer.

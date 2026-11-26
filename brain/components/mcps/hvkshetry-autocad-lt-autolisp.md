@@ -8,11 +8,11 @@ source_url: https://github.com/puran-water/autocad-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 665
+stars: 707
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 132
+forks: 138
 pushed_at: "2026-11-17T19:05:54Z"
 ---
 ## What it is

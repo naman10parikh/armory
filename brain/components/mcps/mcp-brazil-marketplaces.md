@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-14T22:43:55Z"
+pushed_at: "2026-11-25T19:07:54Z"
 ---
 ## What it is
 MCP server to search and retrieve public ads from OLX Brasil and Mercado Livre Brasil with automatic anti-bot bypass.

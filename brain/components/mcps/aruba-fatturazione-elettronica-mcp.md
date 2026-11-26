@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-02T05:34:33Z"
+pushed_at: "2026-11-23T10:48:11Z"
 ---
 ## What it is
 Exposes read-only Aruba Fatturazione Elettronica API operations for managing electronic invoices, notifications, and providing fiscal document helpers.

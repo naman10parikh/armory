@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-18T06:29:34Z"
+pushed_at: "2026-11-26T12:10:51Z"
 ---
 ## What it is
 Provides comprehensive Terragrunt documentation, configuration generation, and tooling integration for AI assistants, enabling intelligent assistance with Terragrunt configurations, CLI commands, and HCL syntax.

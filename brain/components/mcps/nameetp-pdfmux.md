@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: []
 tags: [mcp, search-data-extraction]
-stars: 87
+stars: 88
 forks: 15
-pushed_at: "2026-11-11T05:22:01Z"
+pushed_at: "2026-11-24T11:25:06Z"
 ---
 ## What it is
 PDF extraction router with built-in MCP server. Classifies each page (digital, scanned, tables) and routes to the best backend (PyMuPDF, Docling, OCR, or optional LLM fallback). Per-page confidence scoring flags low-quality pages and auto-reextracts them — prevents silent RAG failures. Zero config: `pip install pdfmux`. MIT licensed.

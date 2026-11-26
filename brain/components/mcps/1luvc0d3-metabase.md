@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-11-19T15:11:38Z"
+pushed_at: "2026-11-23T22:12:54Z"
 ---
 ## What it is
 MCP server `Metabase`, catalogued on PulseMCP. Write-enabled MCP server for Metabase with 28 tools covering read, write, and AI-driven insights operations.

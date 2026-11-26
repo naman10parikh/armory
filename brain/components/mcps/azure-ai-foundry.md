@@ -8,11 +8,11 @@ source_url: https://github.com/microsoft-foundry/mcp-foundry
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 262
+stars: 263
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 118
+forks: 119
 pushed_at: "2026-07-10T20:15:46Z"
 ---
 ## What it is

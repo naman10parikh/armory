@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-13T07:06:44Z"
+pushed_at: "2026-11-26T11:53:49Z"
 ---
 ## What it is
 MCP server providing an Agent-first, read-only interface to authorized WeChat conversations, with CLI and plugin support for Codex and Claude Code.

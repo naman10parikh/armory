@@ -8,13 +8,13 @@ source_url: https://github.com/bolens/appicon
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 2
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-19T12:23:41Z"
+pushed_at: "2026-11-26T12:23:25Z"
 ---
 ## What it is
 Resolves desktop and brand icons to local file paths for use in Waybar, Rofi, scripts, and AI agents via an MCP stdio server with tools for resolve, prefetch, cache, sources, packs, and overrides.

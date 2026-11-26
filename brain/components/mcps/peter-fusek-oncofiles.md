@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-19T16:06:24Z"
+pushed_at: "2026-11-26T17:36:30Z"
 ---
 ## What it is
 MCP server `OncoFiles`, catalogued on PulseMCP. Medical document management for cancer patients integrating Google Drive, Gmail, and Calendar.

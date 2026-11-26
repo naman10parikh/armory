@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-18T22:53:22Z"
+pushed_at: "2026-11-26T06:15:17Z"
 ---
 ## What it is
 Deterministic SQL static analysis and query-equivalence checking for Postgres, MySQL, SQLite, and SQL Server. Tokenizes locally before forwarding to the API.

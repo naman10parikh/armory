@@ -8,13 +8,13 @@ source_url: https://github.com/promptfoo/promptfoo
 license: MIT
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 27457
+stars: 27713
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [evals, red-teaming, ci, cli]
-forks: 2792
-pushed_at: "2026-11-19T07:43:03Z"
+forks: 2860
+pushed_at: "2026-11-26T06:11:30Z"
 ---
 ## What it is
 CLI and library for testing, comparing, and red-teaming LLM prompts and agents with assertions and CI integration.

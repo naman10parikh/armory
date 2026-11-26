@@ -8,13 +8,13 @@ source_url: https://github.com/zhanglongxiao111/indesign-cli
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 60
+stars: 61
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-11-19T14:17:40Z"
+pushed_at: "2026-11-25T07:43:29Z"
 ---
 ## What it is
 Enables AI agents to directly control Adobe InDesign through CLI commands, providing 148 discoverable capabilities for document creation, editing, and export automation.

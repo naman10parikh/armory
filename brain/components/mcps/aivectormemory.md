@@ -8,12 +8,12 @@ source_url: https://github.com/Edlineas/aivectormemory
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 93
+stars: 92
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 24
+forks: 23
 pushed_at: "2026-04-19T05:03:25Z"
 ---
 ## What it is

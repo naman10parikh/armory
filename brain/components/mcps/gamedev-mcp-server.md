@@ -8,13 +8,13 @@ source_url: https://github.com/IvanMurzak/GameDev-MCP-Server
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 20
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 8
-pushed_at: "2026-11-19T11:25:07Z"
+forks: 10
+pushed_at: "2026-11-24T23:47:04Z"
 ---
 ## What it is
 Open-source, engine-agnostic MCP server shared by Unity-MCP, Godot-MCP, and Unreal-MCP.

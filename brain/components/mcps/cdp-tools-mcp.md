@@ -8,13 +8,13 @@ source_url: https://github.com/InDate/cdp-tools-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 19
+stars: 20
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-11-13T13:04:07Z"
+pushed_at: "2026-11-26T13:19:09Z"
 ---
 ## What it is
 Enables AI agents to debug code and automate browsers using Chrome DevTools Protocol, supporting breakpoints, variable inspection, and replayable interaction recording.

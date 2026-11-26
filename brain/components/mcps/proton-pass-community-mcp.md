@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-11-19T13:05:06Z"
+pushed_at: "2026-11-26T13:04:56Z"
 ---
 ## What it is
 Enables interaction with Proton Pass via CLI operations, including vault and item management, secret injection, and password generation.

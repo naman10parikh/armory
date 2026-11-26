@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-16T14:09:21Z"
+pushed_at: "2026-11-23T02:25:15Z"
 ---
 ## What it is
 MCP server for IQMS / DELMIAworks (EnterpriseIQ) — read manufacturing ERP data via Oracle and post transactional updates via the WebAPI module.

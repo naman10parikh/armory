@@ -8,12 +8,12 @@ source_url: https://github.com/xDarkzx/SongForge-MCP
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 15
+stars: 16
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-10-14T03:48:01Z"
 ---
 ## What it is

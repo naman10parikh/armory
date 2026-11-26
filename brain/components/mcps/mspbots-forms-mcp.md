@@ -8,13 +8,13 @@ source_url: https://github.com/MSPbotsAI/mspbots-forms-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-17T04:24:36Z"
+pushed_at: "2026-11-23T12:50:25Z"
 ---
 ## What it is
 MCP server for the MSPbots Forms/Survey API, enabling agents to create, publish, and manage surveys, share links, and analyze responses.

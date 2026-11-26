@@ -8,13 +8,13 @@ source_url: https://github.com/john-broadway/proximo
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 96
+stars: 97
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
-pushed_at: "2026-11-18T01:25:29Z"
+forks: 13
+pushed_at: "2026-11-22T06:12:14Z"
 ---
 ## What it is
 Enables management of Proxmox VE infrastructure via its REST API and execution of commands inside LXC containers via SSH, with built-in trust layers for planning, audit, undo, and diagnosis.

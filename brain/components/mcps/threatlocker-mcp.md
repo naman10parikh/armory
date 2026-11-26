@@ -8,13 +8,13 @@ source_url: https://github.com/wyre-technology/threatlocker-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 2
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 6
-pushed_at: "2026-11-16T14:08:22Z"
+pushed_at: "2026-11-23T22:35:02Z"
 ---
 ## What it is
 MCP server for ThreatLocker — zero-trust application allowlisting, approval requests, audit logs

@@ -8,13 +8,13 @@ source_url: https://github.com/egorfedorov/mozg
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 8
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-10-07T15:06:11Z"
+pushed_at: "2026-11-26T05:39:50Z"
 ---
 ## What it is
 mozg turns documentation into knowledge brains your agent queries over MCP instead of loading whole files into context. What makes it different: every brain sits an exam. Its goal becomes ~30 control questions, re-sat after every ingest — so 'trained 92%' is measured, not claimed, and the failing qu

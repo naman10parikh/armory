@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-17T22:45:57Z"
+pushed_at: "2026-11-25T13:00:39Z"
 ---
 ## What it is
 Cross-border debt collection API for AI assistants. Check cases, read partner messages, get pricing, and submit new collection cases across 183 countries.

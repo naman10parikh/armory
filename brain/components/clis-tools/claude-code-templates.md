@@ -11,9 +11,9 @@ maturity: beta
 verified_at: 2026-05-26
 related: [claude-code-ide-el, claude-code-nvim]
 tags: [tooling, cli]
-stars: 34001
-forks: 4051
-pushed_at: "2026-11-19T15:08:34Z"
+stars: 34223
+forks: 4123
+pushed_at: "2026-11-26T15:14:04Z"
 ---
 ## What it is
 A community CLI tool by Daniel Avila, catalogued in awesome-claude-code. A collection of Claude Code resources from every category, from slash commands to hooks and agents, with a web interface that includes a usage dashboard and analytics.

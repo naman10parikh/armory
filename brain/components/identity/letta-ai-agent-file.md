@@ -8,13 +8,13 @@ source_url: https://github.com/letta-ai/agent-file
 license: Apache-2.0
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 1215
+stars: 1220
 eval_score: null
 mentions: null
 verified_at: 2026-09-07
 related: []
 tags: [cp138-seed, identity]
-forks: 119
+forks: 120
 pushed_at: "2026-10-13T20:50:33Z"
 ---
 ## What it is

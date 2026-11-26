@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-18T18:25:05Z"
+pushed_at: "2026-11-23T06:33:52Z"
 ---
 ## What it is
 Remote MCP connector for AgentSearch API that exposes web search, instant answers, and URL-to-clean-text fetching as typed MCP tools for agents and RAG pipelines.

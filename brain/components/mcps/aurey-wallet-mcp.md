@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-16T06:03:15Z"
+pushed_at: "2026-11-23T06:07:13Z"
 ---
 ## What it is
 Self-hosted MCP server enabling AI agents to manage EVM wallets, check balances, swap tokens, and securely execute transactions via 1Claw Intents without exposing private keys.

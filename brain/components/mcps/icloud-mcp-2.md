@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-11-19T05:42:05Z"
+forks: 9
+pushed_at: "2026-11-26T13:31:58Z"
 ---
 ## What it is
 Unified Apple/iCloud MCP server for Calendar, Contacts, and Mail using CalDAV, CardDAV, IMAP, and SMTP protocols with app-specific passwords.

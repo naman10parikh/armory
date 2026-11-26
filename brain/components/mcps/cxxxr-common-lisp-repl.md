@@ -8,12 +8,12 @@ source_url: https://github.com/cl-ai-project/cl-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 91
+stars: 92
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 20
-pushed_at: "2026-11-19T15:46:30Z"
+pushed_at: "2026-11-26T12:09:40Z"
 ---
 ## What it is
 MCP server `Common Lisp REPL`, catalogued on PulseMCP. Provides a REPL evaluation tool that executes Common Lisp code safely with read-time evaluation disabled, enabling mathematical calculations, data processing, and symbolic computation tasks using Lisp's expressive power while maintaining security through disabled reader macros.

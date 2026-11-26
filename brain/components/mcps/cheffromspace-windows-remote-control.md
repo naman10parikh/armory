@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 48
-pushed_at: "2025-12-02T17:19:23Z"
+pushed_at: "2026-11-24T23:59:45Z"
 ---
 ## What it is
 MCP server `Windows Remote Control`, catalogued on PulseMCP. Enables remote automation of Windows systems for controlling mouse, keyboard, and screen capture via nut.js.

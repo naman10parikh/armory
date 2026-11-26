@@ -8,13 +8,13 @@ source_url: https://github.com/PromptOwl/ContextNest
 license: AGPL 3.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 22
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-18T09:26:51Z"
+pushed_at: "2026-11-20T10:43:40Z"
 ---
 ## What it is
 Structured, versioned context for AI agents. Context Nest organizes knowledge as markdown documents in a vault, with versioning, integrity verification, and a query language.

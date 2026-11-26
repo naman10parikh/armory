@@ -8,12 +8,12 @@ source_url: https://github.com/patrickfreyer/apple-mail-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 257
+stars: 268
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 62
-pushed_at: "2026-11-18T16:41:34Z"
+forks: 63
+pushed_at: "2026-11-25T16:48:06Z"
 ---
 ## What it is
 MCP server `Apple Mail`, catalogued on PulseMCP. Integrates with Apple Mail through AppleScript automation to provide complete email management including unified search, batch operations, conversation threading, draft management, and analytics via natural language commands.

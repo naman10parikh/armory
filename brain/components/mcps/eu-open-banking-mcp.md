@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-17T18:27:00Z"
+pushed_at: "2026-11-20T10:17:25Z"
 ---
 ## What it is
 Enables secure, read-only access to personal European bank accounts through Enable Banking and Cloudflare Workers, allowing MCP clients to list accounts, retrieve balances, search transactions, and summarize cash flow.

@@ -8,13 +8,13 @@ source_url: https://github.com/mikhashev/law7
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 21
+stars: 23
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 5
-pushed_at: "2026-11-13T13:29:08Z"
+pushed_at: "2026-11-23T17:09:01Z"
 ---
 ## What it is
 Provides AI assistants with up-to-date legal documents from official sources, enabling accurate legal information retrieval and analysis.

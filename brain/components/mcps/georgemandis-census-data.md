@@ -8,12 +8,12 @@ source_url: https://github.com/georgemandis/mcp-census-data
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 2
+stars: 3
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-05-02T19:30:01Z"
+pushed_at: "2026-11-24T04:28:59Z"
 ---
 ## What it is
 MCP server `US Census Data`, catalogued on PulseMCP. Natural language access to US Census Bureau API with 1,700+ demographic and economic datasets.

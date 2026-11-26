@@ -8,14 +8,14 @@ source_url: https://github.com/NationalSecurityAgency/ghidra
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 100663
+stars: 101433
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 11450
-pushed_at: "2026-11-19T10:27:38Z"
+forks: 11540
+pushed_at: "2026-11-25T09:30:00Z"
 ---
 ## What it is
 Ghidra is a software reverse engineering (SRE) framework

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-16T23:43:57Z"
+pushed_at: "2026-11-21T21:52:58Z"
 ---
 ## What it is
 MCP server `Spain E-Invoicing`, catalogued on PulseMCP. Spanish e-invoicing MCP server supporting VERI*FACTU, Facturae/FACe, SII, TicketBAI, NaTicket, and Crea y Crece B2B standards.

@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 1
-pushed_at: "2026-03-26T23:55:05Z"
+forks: 2
+pushed_at: "2026-11-23T09:49:42Z"
 ---
 ## What it is
 Enables MCP-compatible LLMs to interact with any desktop accessible over VNC, providing tools for screen reading (OCR), mouse and keyboard control, and automation.

@@ -8,13 +8,13 @@ source_url: https://github.com/d0nk3yhm/pbix-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 25
+stars: 27
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 9
-pushed_at: "2026-11-06T03:04:26Z"
+pushed_at: "2026-11-20T09:17:33Z"
 ---
 ## What it is
 MCP server for creating, editing, and evaluating Power BI (.pbix/.pbit) files without Power BI Desktop. Supports 101 tools including report creation, data sources, DAX measures, and file manipulation.

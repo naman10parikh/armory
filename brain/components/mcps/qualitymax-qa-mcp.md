@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-09T12:36:26Z"
+pushed_at: "2026-11-23T12:35:45Z"
 ---
 ## What it is
 Enables coding agents to independently verify web changes by scanning pages, inspecting UI structure, generating Playwright reproductions, and executing tests with structured QA evidence.

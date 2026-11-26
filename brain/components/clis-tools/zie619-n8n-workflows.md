@@ -8,13 +8,13 @@ source_url: https://github.com/Zie619/n8n-workflows
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 57283
+stars: 57325
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 7705
+forks: 7707
 pushed_at: "2026-06-24T14:16:03Z"
 ---
 ## What it is

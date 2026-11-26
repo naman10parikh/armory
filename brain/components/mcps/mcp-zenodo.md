@@ -8,13 +8,13 @@ source_url: https://github.com/MSKazemi/mcp-zenodo
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 6
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
-pushed_at: "2026-10-17T15:13:16Z"
+forks: 1
+pushed_at: "2026-11-26T17:27:15Z"
 ---
 ## What it is
 A comprehensive MCP server for interacting with Zenodo records, enabling search, retrieval, citation generation, and file downloads.

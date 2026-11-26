@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-19T00:13:02Z"
+pushed_at: "2026-11-19T23:58:44Z"
 ---
 ## What it is
 A local MCP gateway that allows AI clients to manage and interact with multiple MCP servers through a single connection, providing token-efficient access to tools and resources.

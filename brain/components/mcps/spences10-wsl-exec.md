@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 10
-pushed_at: "2026-11-18T17:01:03Z"
+pushed_at: "2026-11-25T18:38:35Z"
 ---
 ## What it is
 MCP server `WSL Exec`, catalogued on PulseMCP. Provides secure command execution in WSL with built-in safety features like path validation, timeouts, and error handling.

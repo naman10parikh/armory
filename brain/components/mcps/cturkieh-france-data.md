@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-07T01:04:25Z"
+pushed_at: "2026-11-22T21:30:26Z"
 ---
 ## What it is
 MCP server `France Data`, catalogued on PulseMCP. Cross-references French public health, business, and geographic registries including INSEE SIRENE, FINESS, RPPS, Ameli, IGN, and DINUM.

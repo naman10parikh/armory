@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T19:39:40Z"
+pushed_at: "2026-11-20T23:08:45Z"
 ---
 ## What it is
 Connects to EQI accounts via Open Finance Brasil, enabling read-only access to balances, statements, credit card bills, investments, and loans through natural language.

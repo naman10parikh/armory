@@ -8,13 +8,13 @@ source_url: https://github.com/openai/gpt-2
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 25014
+stars: 25017
 eval_score: 0
 mentions: 3
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 5957
+forks: 5960
 pushed_at: "2024-08-14T10:50:53Z"
 ---
 ## What it is

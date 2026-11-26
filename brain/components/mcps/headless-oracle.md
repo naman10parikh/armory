@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-18T08:59:07Z"
+pushed_at: "2026-11-24T10:35:24Z"
 ---
 ## What it is
 MCP server `Headless Oracle`, catalogued on PulseMCP. Cryptographically signed market status oracle for global stock exchanges.

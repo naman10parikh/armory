@@ -8,13 +8,13 @@ source_url: https://github.com/chrischall/signupgenius-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-16T15:37:50Z"
+pushed_at: "2026-11-23T15:36:44Z"
 ---
 ## What it is
 MCP server for SignUpGenius that enables users to manage their sign-ups, groups, and generate reports. It supports multiple authentication modes including session login, Pro API keys, and a fetchproxy fallback.

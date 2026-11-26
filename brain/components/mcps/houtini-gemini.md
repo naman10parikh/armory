@@ -8,11 +8,11 @@ source_url: https://github.com/houtini-ai/gemini-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 11
+forks: 10
 pushed_at: "2026-11-14T04:43:34Z"
 ---
 ## What it is

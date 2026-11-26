@@ -8,12 +8,12 @@ source_url: https://github.com/pulssart/vellem
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 11
+stars: 12
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-06-18T07:40:35Z"
+pushed_at: "2026-11-25T16:19:46Z"
 ---
 ## What it is
 MCP server `Vellem`, catalogued on PulseMCP. Native macOS notes app with a bundled MCP server providing 14 tools for AI agents to persist notes, todos, and logs locally.

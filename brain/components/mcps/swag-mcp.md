@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-16T09:16:58Z"
+pushed_at: "2026-11-23T09:16:09Z"
 ---
 ## What it is
 MCP server for managing SWAG reverse-proxy configurations, including config generation, backups, logs, and health checks. Enables managing nginx subdomain configs for SWAG through a unified action router.

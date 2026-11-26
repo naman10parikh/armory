@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-16T22:47:42Z"
+pushed_at: "2026-11-23T08:14:15Z"
 ---
 ## What it is
 Combines AST intelligence and guarded file operations to provide a secure, controlled repository workflow for coding agents, enabling structural code analysis and safe edits without unbounded editor access.

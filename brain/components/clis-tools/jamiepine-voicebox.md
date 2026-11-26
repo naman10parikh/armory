@@ -8,14 +8,14 @@ source_url: https://github.com/jamiepine/voicebox
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 60939
+stars: 61344
 eval_score: null
 mentions: 2
 verified_at: 2026-10-11
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 7676
-pushed_at: "2026-10-07T01:17:58Z"
+forks: 7745
+pushed_at: "2026-11-25T07:07:17Z"
 ---
 ## What it is
 The open-source AI voice studio. Clone, dictate, create.

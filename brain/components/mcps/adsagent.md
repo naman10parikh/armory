@@ -8,11 +8,11 @@ source_url: https://github.com/nowork-studio/notfair
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4265
+stars: 4312
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 533
+forks: 539
 pushed_at: "2026-11-17T20:25:09Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-11-07T22:30:59Z"
+pushed_at: "2026-11-26T16:34:24Z"
 ---
 ## What it is
 Enables AI assistants to fetch and structure job postings from major ATS platforms (Greenhouse, Lever, Ashby, etc.) directly, eliminating copy-paste and context loss.

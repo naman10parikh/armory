@@ -8,13 +8,13 @@ source_url: https://github.com/midplaneai/midplane
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 7
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-18T07:37:59Z"
+pushed_at: "2026-11-20T09:44:19Z"
 ---
 ## What it is
 SQL guardrails for AI agents, sitting between the agent and Postgres to enforce policies, block destructive queries, and audit all access.

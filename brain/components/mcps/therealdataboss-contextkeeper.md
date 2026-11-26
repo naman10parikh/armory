@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-04-14T04:33:30Z"
+pushed_at: "2026-11-21T13:32:24Z"
 ---
 ## What it is
 MCP server `ContextKeeper`, catalogued on PulseMCP. Persistent session continuity framework providing zero model drift between AI agents across Claude, GPT, Gemini, and other LLMs.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-12T23:03:48Z"
+pushed_at: "2026-11-20T00:14:49Z"
 ---
 ## What it is
 MCP server for unified full-text search across chat histories from Claude Code, Codex, Cursor CLI, and Antigravity CLI, using SQLite FTS5. Provides read-only tools to search sessions, list conversations, and retrieve session details.

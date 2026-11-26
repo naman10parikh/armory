@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 3
-pushed_at: "2026-11-18T12:23:15Z"
+pushed_at: "2026-11-23T12:26:42Z"
 ---
 ## What it is
 Provides AI models with access to jOOQ documentation, enabling querying of features, SQL examples, code generation, database support, and advanced topics.

@@ -11,10 +11,10 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
-stars: 82091
+stars: 82482
 mentions: 3
-forks: 9688
-pushed_at: "2026-11-19T16:20:04Z"
+forks: 9714
+pushed_at: "2026-11-26T14:25:45Z"
 ---
 ## What it is
 An orchestration platform for deploying and coordinating multi-agent swarms, with self-learning, vector-based layered memory, systematic planning and security guardrails.

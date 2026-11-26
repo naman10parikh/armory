@@ -8,11 +8,11 @@ source_url: https://github.com/htlin222/openevidence-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 85
+stars: 86
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 21
+forks: 22
 pushed_at: "2026-11-13T18:46:55Z"
 ---
 ## What it is

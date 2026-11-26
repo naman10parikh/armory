@@ -8,11 +8,11 @@ source_url: https://github.com/aleemhaider/instagram-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 12
+stars: 13
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 6
+forks: 7
 pushed_at: "2026-05-29T07:55:16Z"
 ---
 ## What it is

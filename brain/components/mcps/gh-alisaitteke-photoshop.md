@@ -8,11 +8,11 @@ source_url: https://github.com/alisaitteke/photoshop-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 919
+stars: 972
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 88
+forks: 90
 pushed_at: "2026-11-14T00:31:27Z"
 ---
 ## What it is

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-19T04:16:16Z"
+pushed_at: "2026-11-26T09:45:24Z"
 ---
 ## What it is
 MCP (Model Context Protocol) server that exposes the okama investment portfolio toolkit to AI assistants — Claude Desktop, Claude Code, Cursor, Codex, and any other MCP-compatible client.

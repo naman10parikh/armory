@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-17T17:06:13Z"
+pushed_at: "2026-11-21T13:36:08Z"
 ---
 ## What it is
 An MCP server for generating and editing images using Google Gemini Imagen via Vertex AI. Supports multiple resolutions and aspect ratios.

@@ -8,13 +8,13 @@ source_url: https://github.com/LittleAndi/smhi-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 1
+stars: 4
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-10-25T16:24:55Z"
+pushed_at: "2026-11-25T13:40:44Z"
 ---
 ## What it is
 MCP server for SMHI weather data, providing current conditions, hourly and daily forecasts, and daily summaries for northern Europe.

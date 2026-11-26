@@ -8,13 +8,13 @@ source_url: https://github.com/thruwire/foreman
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: experimental
-stars: 829
+stars: 835
 eval_score: null
 mentions: 1
 verified_at: 2026-10-10
 related: []
 tags: [sentinel-feed, clis-tools]
-forks: 71
+forks: 69
 pushed_at: "2026-10-15T12:59:56Z"
 ---
 ## What it is

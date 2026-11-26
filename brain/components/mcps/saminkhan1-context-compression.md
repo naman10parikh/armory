@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-06-13T04:09:05Z"
+pushed_at: "2026-11-23T21:39:59Z"
 ---
 ## What it is
 MCP server `Context Compression`, catalogued on PulseMCP. Lossless structured-context compression for JSON, CSV, and other formats achieving ~13% token savings via a stdio MCP adapter.

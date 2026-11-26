@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-15T00:03:56Z"
+pushed_at: "2026-11-24T20:26:14Z"
 ---
 ## What it is
 A drop-in Model Context Protocol (MCP) server that lets an AI agent query PostgreSQL — read-only, enforced at the database level, with real SQL validation, timeouts, cost limits, OAuth 2.1, and an audit trail.

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-04T14:07:20Z"
+pushed_at: "2026-11-20T18:33:21Z"
 ---
 ## What it is
 Enables AI agents to securely create and manage GitHub-to-Slack review routing setups through Tenpace, using OIDC-verified browser authorization and short-lived links.

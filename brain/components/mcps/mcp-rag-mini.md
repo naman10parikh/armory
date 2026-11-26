@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-10T08:10:48Z"
+pushed_at: "2026-11-22T13:54:44Z"
 ---
 ## What it is
 A minimal RAG service that exposes a vector index for document retrieval via REST and MCP, allowing querying for relevant document chunks and returning a suggested LLM prompt.

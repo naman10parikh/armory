@@ -8,13 +8,13 @@ source_url: https://github.com/salatmaster/keenetic-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 33
+stars: 35
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 7
-pushed_at: "2026-11-18T05:28:43Z"
+pushed_at: "2026-11-25T22:00:14Z"
 ---
 ## What it is
 Enables MCP agents to control Keenetic routers via plain language, providing network monitoring, device management, and safe configuration changes with backup and read-only options.

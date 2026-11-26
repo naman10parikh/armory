@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-16T13:35:22Z"
+pushed_at: "2026-11-24T18:41:47Z"
 ---
 ## What it is
 MCP server `WebWeaver Nexus`, catalogued on PulseMCP. WebWeaver Nexus services via MCP — waitlist signup, product overview, and contact information.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-11-17T23:41:04Z"
+pushed_at: "2026-11-25T15:47:06Z"
 ---
 ## What it is
 MCP server `MySQL`, catalogued on PulseMCP. Read-only MySQL database server with vector search and multi-instance support

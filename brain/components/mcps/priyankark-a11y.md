@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-11-15T11:52:59Z"
+pushed_at: "2026-11-22T11:52:54Z"
 ---
 ## What it is
 MCP server `A11y`, catalogued on PulseMCP. Perform accessibility audits on webpages using axe-core. Use the results in an agentic loop with your favorite AI assistants (Cline/Cursor/GH Copilot) and let them fix a11y issues for you.

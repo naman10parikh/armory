@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-07-11T22:32:37Z"
+pushed_at: "2026-11-24T02:32:40Z"
 ---
 ## What it is
 This MCP server lets AI agents persistently record facts, experiences, insights, and lessons into a Neo4j DIKW graph, then query that memory across sessions to prevent repeating past mistakes.

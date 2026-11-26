@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 8
-pushed_at: "2026-11-09T03:10:41Z"
+pushed_at: "2026-11-23T13:54:05Z"
 ---
 ## What it is
 Stealth browser automation over raw CDP, driving a real unmodified Chrome with no Playwright or Puppeteer in the stack. Returns numbered element refs from the accessibility tree so a model clicks ref 3 instead of guessing a CSS selector, and can attach to an already-running Chrome to reuse logged-in

@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-15T05:42:00Z"
+pushed_at: "2026-11-22T05:55:13Z"
 ---
 ## What it is
 Enables AI assistants to seamlessly interact with Microsoft 365 services through the Graph API, featuring super tools, unified search, and intelligent learning.

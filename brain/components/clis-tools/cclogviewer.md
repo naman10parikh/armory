@@ -11,7 +11,7 @@ maturity: beta
 verified_at: 2026-05-26
 related: [agnix, auto-claude]
 tags: [claude-code, tooling]
-stars: 86
+stars: 85
 forks: 8
 pushed_at: "2025-08-08T08:13:50Z"
 ---

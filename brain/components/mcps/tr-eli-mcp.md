@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-10-08T14:55:42Z"
+pushed_at: "2026-11-21T14:15:55Z"
 ---
 ## What it is
 An MCP server for accessing Turkish legislation (laws, regulations, decrees) via the Adalet Bakanligi API, providing search, full-text retrieval, and structured citations.

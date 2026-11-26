@@ -8,12 +8,12 @@ source_url: https://github.com/vibrantlabsai/ragas
 license: Apache-2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: beta
-stars: 16384
+stars: 16436
 eval_score: 0
 verified_at: 2026-09-26
 related: []
 tags: [evals, rag, metrics]
-forks: 1830
+forks: 1857
 pushed_at: "2026-11-14T03:06:20Z"
 mentions: 2
 ---

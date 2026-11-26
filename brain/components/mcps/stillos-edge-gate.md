@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-14T20:52:40Z"
+pushed_at: "2026-11-25T14:14:30Z"
 ---
 ## What it is
 Grades prediction market trade logs to determine if a strategy has a statistically significant, fee-adjusted edge using out-of-sample holdout, returning a signed verdict.

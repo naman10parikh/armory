@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 1
-pushed_at: "2026-11-16T03:37:44Z"
+pushed_at: "2026-11-23T14:37:12Z"
 ---
 ## What it is
 MCP server `FreightUtils`, catalogued on PulseMCP. Freight tools for AI agents — calculators, ADR, HS codes, airlines, ULDs, vehicles, and duty lookup.

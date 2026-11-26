@@ -8,13 +8,13 @@ source_url: https://github.com/taxwoong/nts-tax-mcp
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 5
+stars: 6
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 10
-pushed_at: "2026-10-18T07:05:29Z"
+pushed_at: "2026-11-26T07:03:40Z"
 ---
 ## What it is
 Access Korea's national tax law information system to search rulings, precedents, statutes, and more using natural language queries via Claude.

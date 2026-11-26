@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 5
-pushed_at: "2026-11-17T00:25:09Z"
+pushed_at: "2026-11-20T16:27:55Z"
 ---
 ## What it is
 MCP server `Canvas LMS`, catalogued on PulseMCP. TypeScript MCP server for Canvas LMS with 115 tools across courses, assignments, gradebook, and more.

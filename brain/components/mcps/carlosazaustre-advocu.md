@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 14
-pushed_at: "2026-01-20T18:58:42Z"
+pushed_at: "2026-11-25T10:51:14Z"
 ---
 ## What it is
 MCP server `Advocu`, catalogued on PulseMCP. Integrates with the Advocu platform to streamline activity reporting for Google Developer Experts, enabling submission of content creation, speaking engagements, workshops, mentoring sessions, and community interactions with detailed metrics tracking.

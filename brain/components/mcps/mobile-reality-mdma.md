@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-11-19T11:13:37Z"
+pushed_at: "2026-11-25T12:57:18Z"
 ---
 ## What it is
 MCP server `MDMA`, catalogued on PulseMCP. Extends Markdown with interactive components — forms, approval gates, tables, and webhooks — enabling AI assistants to produce structured, actionable documents instead of plain text.

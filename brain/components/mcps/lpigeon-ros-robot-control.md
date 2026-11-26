@@ -8,12 +8,12 @@ source_url: https://github.com/robotmcp/ros-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 1529
+stars: 1537
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 219
-pushed_at: "2026-11-18T18:28:41Z"
+pushed_at: "2026-11-25T18:16:59Z"
 ---
 ## What it is
 MCP server `ROS Robot Control`, catalogued on PulseMCP. Provides a bridge between natural language commands and Robot Operating System (ROS) for controlling robot movement through WebSocket communication with velocity commands.

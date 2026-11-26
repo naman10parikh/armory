@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-15T11:52:34Z"
+pushed_at: "2026-11-23T04:12:58Z"
 ---
 ## What it is
 Connects AKShare's extensive financial data interfaces to the Model Context Protocol (MCP), enabling LLM clients and agents to search, describe, and call these interfaces via natural language. Provides structured JSON output, pagination, routing, and automated validation to simplify data retrieval w

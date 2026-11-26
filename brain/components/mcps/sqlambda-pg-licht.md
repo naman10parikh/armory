@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 2
-pushed_at: "2026-11-14T12:02:57Z"
+pushed_at: "2026-11-23T01:56:47Z"
 ---
 ## What it is
 MCP server `pg_licht`, catalogued on PulseMCP. PostgreSQL schema exploration MCP server with 11 introspection tools over JSON-RPC 2.0.

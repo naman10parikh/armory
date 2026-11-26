@@ -8,11 +8,11 @@ source_url: https://github.com/cy-s3c/burpmcp-ultra
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 311
+stars: 318
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 48
+forks: 49
 pushed_at: "2026-09-28T03:59:31Z"
 ---
 ## What it is

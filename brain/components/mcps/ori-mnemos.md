@@ -8,12 +8,12 @@ source_url: https://github.com/aayoawoyemi/Ori-Mnemos
 license: Apache 2.0
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 337
+stars: 338
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 33
+forks: 34
 pushed_at: "2026-10-01T06:50:39Z"
 ---
 ## What it is

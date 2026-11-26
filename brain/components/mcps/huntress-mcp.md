@@ -13,8 +13,8 @@ eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 7
-pushed_at: "2026-11-16T14:08:02Z"
+forks: 6
+pushed_at: "2026-11-23T06:03:55Z"
 ---
 ## What it is
 An MCP server for Huntress managed security platform, enabling management of agents, incidents, reports, and threat detections through Huntress's API.

@@ -8,13 +8,13 @@ source_url: https://github.com/SatyamSingh8306/backend2mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 0
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-05-10T09:28:52Z"
+pushed_at: "2026-11-23T20:10:33Z"
 ---
 ## What it is
 Automatically converts Python web backends (FastAPI, Flask, Django) into MCP servers by exposing API routes as MCP tools with near-zero boilerplate.

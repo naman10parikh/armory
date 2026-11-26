@@ -8,12 +8,12 @@ source_url: https://github.com/FunplayAI/funplay-cocos-mcp
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 414
+stars: 432
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 51
+forks: 54
 pushed_at: "2026-11-19T06:55:23Z"
 ---
 ## What it is

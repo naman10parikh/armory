@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-17T16:58:25Z"
+pushed_at: "2026-11-26T09:11:05Z"
 ---
 ## What it is
 An MCP-native evidence retrieval platform that ingests source material, builds lexical and vector indexes, performs hybrid retrieval, and returns structured evidence packages for AI assistants.

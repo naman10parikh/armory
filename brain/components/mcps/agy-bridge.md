@@ -8,13 +8,13 @@ source_url: https://github.com/sshahzaiib/agy-bridge
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 68
+stars: 72
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 14
-pushed_at: "2026-10-28T21:18:02Z"
+forks: 15
+pushed_at: "2026-11-22T10:31:16Z"
 ---
 ## What it is
 MCP bridge that lets Claude Code delegate heavy tasks to the Antigravity CLI (agy) — purpose-built tools, model routing with fallback, session continuity, and output truncation to save Claude's context and tokens.

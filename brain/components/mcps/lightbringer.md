@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-19T15:00:28Z"
+pushed_at: "2026-11-26T17:19:34Z"
 ---
 ## What it is
 Enables patent management workflows inside AI tools, allowing users to capture and refine inventions, collaborate with attorneys, and access portfolio context through natural language.

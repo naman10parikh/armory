@@ -8,11 +8,11 @@ source_url: https://github.com/saik0s/mcp-browser-use
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 970
+stars: 971
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 110
+forks: 111
 pushed_at: "2026-02-11T02:40:55Z"
 ---
 ## What it is

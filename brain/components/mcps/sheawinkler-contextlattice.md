@@ -12,8 +12,8 @@ stars: 155
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 16
-pushed_at: "2026-11-17T06:44:46Z"
+forks: 17
+pushed_at: "2026-11-24T09:35:24Z"
 ---
 ## What it is
 MCP server `ContextLattice`, catalogued on PulseMCP. Structured context management for LLMs with hierarchical organization and retrieval.

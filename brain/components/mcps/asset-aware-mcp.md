@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-09-22T01:15:02Z"
+pushed_at: "2026-11-25T12:55:02Z"
 ---
 ## What it is
 Enables AI agents to precisely retrieve and analyze PDF assets (tables, figures, sections) via MCP, with knowledge graph integration for medical research.

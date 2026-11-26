@@ -8,12 +8,12 @@ source_url: https://github.com/joestar817/legado-mcp-server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 10
+stars: 9
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 0
+forks: 1
 pushed_at: "2026-04-17T05:41:25Z"
 ---
 ## What it is

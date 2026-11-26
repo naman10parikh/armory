@@ -8,13 +8,13 @@ source_url: https://github.com/wynsyl1014/open-watch-cinema
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 74
+stars: 78
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 18
-pushed_at: "2026-08-07T05:15:38Z"
+pushed_at: "2026-11-25T09:01:25Z"
 ---
 ## What it is
 Enables MCP clients to interact with a local-first film watch room, supporting media scanning, AI preparation, room management, timed messages, playback state, and storyboard image retrieval.

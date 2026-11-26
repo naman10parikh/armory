@@ -8,11 +8,11 @@ source_url: https://github.com/a2amarket/mcp-clamav
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 3
+stars: 4
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
+forks: 2
 pushed_at: "2025-04-20T21:29:44Z"
 ---
 ## What it is

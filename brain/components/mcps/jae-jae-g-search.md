@@ -8,11 +8,11 @@ source_url: https://github.com/jae-jae/g-search-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 273
+stars: 274
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 37
+forks: 38
 pushed_at: "2025-06-14T15:46:10Z"
 ---
 ## What it is

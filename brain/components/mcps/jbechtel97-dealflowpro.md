@@ -8,12 +8,12 @@ source_url: https://github.com/jbechtel-97/dealflowpro-mcp-server
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 4
+stars: 5
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-04T11:40:27Z"
+pushed_at: "2026-11-26T13:43:55Z"
 ---
 ## What it is
 MCP server `DealFlowPro`, catalogued on PulseMCP. Multifamily real estate deal analysis: cap rate, DSCR, IRR, and max offer price calculations.

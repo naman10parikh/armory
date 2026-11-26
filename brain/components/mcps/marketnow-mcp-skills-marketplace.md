@@ -8,11 +8,13 @@ source_url: https://github.com/edgarfloresguerra2011-a11y/marketnow
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: null
+stars: 1
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
+forks: 0
+pushed_at: "2026-09-16T04:03:57Z"
 ---
 ## What it is
 8,582 MCP servers certified with 3-layer Sentinel security audit

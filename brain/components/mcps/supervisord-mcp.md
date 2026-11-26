@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-11-09T23:18:53Z"
+pushed_at: "2026-11-22T12:40:46Z"
 ---
 ## What it is
 Enables AI agents to manage Supervisord processes (start, stop, restart, view logs, etc.) through the Model Context Protocol, simplifying process management in production and development environments.

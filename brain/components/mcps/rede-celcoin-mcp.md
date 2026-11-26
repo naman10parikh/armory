@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-08-30T19:39:27Z"
+pushed_at: "2026-11-20T23:15:39Z"
 ---
 ## What it is
 Enables AI assistants to query Rede Celcoin account balances, statements, credit card bills, and investments via Open Finance Brazil (read-only, regulated by the Central Bank).

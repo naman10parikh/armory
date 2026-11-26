@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 1
-pushed_at: "2026-03-26T03:59:50Z"
+pushed_at: "2026-11-25T10:05:50Z"
 ---
 ## What it is
 A secure MCP server for connecting AI assistants to MySQL, Redis, and MongoDB with preconfigured connections, runtime protections, and graded security modes.

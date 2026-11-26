@@ -8,11 +8,11 @@ source_url: https://github.com/andybrandt/mcp-simple-arxiv
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 201
+stars: 202
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 27
+forks: 26
 pushed_at: "2026-11-11T21:54:15Z"
 ---
 ## What it is

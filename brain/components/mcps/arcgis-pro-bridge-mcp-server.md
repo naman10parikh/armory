@@ -8,12 +8,12 @@ source_url: https://github.com/Sangwxx/ArcGIS-Pro-Bridge-MCP-Server
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 106
+stars: 109
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 12
+forks: 13
 pushed_at: "2026-06-29T11:50:07Z"
 ---
 ## What it is

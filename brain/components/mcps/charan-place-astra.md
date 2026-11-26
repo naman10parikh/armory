@@ -8,11 +8,11 @@ source_url: https://github.com/charan-place/astra-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 6
+stars: 7
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
-forks: 0
+forks: 1
 pushed_at: "2026-09-06T11:41:01Z"
 ---
 ## What it is

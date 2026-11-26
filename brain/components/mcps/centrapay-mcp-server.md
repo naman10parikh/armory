@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-17T19:32:01Z"
+pushed_at: "2026-11-19T20:47:32Z"
 ---
 ## What it is
 Enables interaction with the Centrapay payments API for testing NZ payment flows, including creating, managing, and settling payment requests through natural language.

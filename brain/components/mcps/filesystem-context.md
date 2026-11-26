@@ -8,12 +8,12 @@ source_url: https://github.com/j0hanz/filesystem-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 36
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 8
-pushed_at: "2026-11-17T17:43:50Z"
+pushed_at: "2026-11-26T06:54:31Z"
 ---
 ## What it is
 MCP server `Filesystem Context`, catalogued on PulseMCP. Secure, read-only filesystem exploration and analysis

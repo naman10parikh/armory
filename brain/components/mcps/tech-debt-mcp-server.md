@@ -8,12 +8,12 @@ source_url: https://github.com/PierreJanineh/TechDebtMCP
 license: MIT License
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 7
+stars: 8
 eval_score: null
 verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
-forks: 3
+forks: 4
 pushed_at: "2026-07-26T05:41:26Z"
 ---
 ## What it is

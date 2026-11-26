@@ -8,12 +8,12 @@ source_url: https://github.com/The-Pocket/PocketFlow
 license: unknown
 cli_compat: [claude, cursor, codex, opencode, gemini]
 maturity: experimental
-stars: 11331
+stars: 11351
 eval_score: null
 verified_at: 2026-05-28
 related: []
 tags: [a2a, agent-to-agent, frameworks]
-forks: 1217
+forks: 1223
 pushed_at: "2026-07-26T16:13:20Z"
 ---
 ## What it is

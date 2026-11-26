@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-06-21T13:52:17Z"
+pushed_at: "2026-11-21T05:11:40Z"
 ---
 ## What it is
 A hardened MCP server that exposes OliveTin actions as tools with built-in human-in-the-loop approval for destructive operations.

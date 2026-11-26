@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 0
-pushed_at: "2026-11-13T15:50:31Z"
+pushed_at: "2026-11-19T19:34:27Z"
 ---
 ## What it is
 MCP server for Home Assistant that lets you control and query your smart home through natural language via MCP clients. Provides tools for entities, devices, services, automations, scripts, history, add-ons, and system info, with read-only access by default and optional configurable write support.

@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 7
-pushed_at: "2026-11-18T08:31:11Z"
+pushed_at: "2026-11-24T00:24:26Z"
 ---
 ## What it is
 MCP server `OmniWire`, catalogued on PulseMCP. Unified mesh control layer for distributed infrastructure with SSH2 connection pooling, file transfers, and Docker management.

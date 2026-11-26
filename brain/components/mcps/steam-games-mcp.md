@@ -14,7 +14,7 @@ verified_at: 2026-05-27
 related: []
 tags: [glama, mcp]
 forks: 2
-pushed_at: "2026-11-05T08:36:05Z"
+pushed_at: "2026-11-20T02:16:20Z"
 ---
 ## What it is
 Enables searching and retrieving Steam game store details, prices, reviews, discounts, and news without an API key, plus player profiles, libraries, and achievements with a free key.

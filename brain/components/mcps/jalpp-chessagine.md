@@ -8,12 +8,12 @@ source_url: https://github.com/jalpp/chessagine-mcp
 license: unknown
 cli_compat: [claude, codex, cursor, gemini, opencode]
 maturity: beta
-stars: 34
+stars: 35
 verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 9
-pushed_at: "2026-11-19T00:22:44Z"
+pushed_at: "2026-11-22T20:56:35Z"
 ---
 ## What it is
 MCP server `ChessAgine (Stockfish)`, catalogued on PulseMCP. Integrates with Stockfish chess engine to provide deep positional analysis, strategic theme evaluation across material/mobility/space/king safety dimensions, and natural language descriptions of chess positions for coaching and game analysis.

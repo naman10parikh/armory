@@ -13,7 +13,7 @@ verified_at: 2026-05-26
 related: []
 tags: [mcp, pulsemcp]
 forks: 0
-pushed_at: "2026-11-19T13:58:09Z"
+pushed_at: "2026-11-26T11:23:05Z"
 ---
 ## What it is
 MCP server `Kagan`, catalogued on PulseMCP. Terminal Kanban board that orchestrates autonomous and pair-mode coding agents across 14 supported providers.
